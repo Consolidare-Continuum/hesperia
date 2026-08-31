@@ -691,7 +691,7 @@ polish, plus a second secret system for stores and equipment whose location
 might give away tactical intentions. (This is very like the business that keeps
 separate sets of books for its partners and for the tax man, and can cause similar problems for the poor auditor.) There may also be intelligence systems and
 command systems with even higher protection requirements. The general rule
-is that sensitive information may not flow down to less-restrictive classifica-
+is that sensitive information may not flow down to less-restrictive classification-
 
 Chapter 1: What is Security Engineering?
 
@@ -777,7 +777,7 @@ are more likely to take one at gunpoint.
 
 • Early mobile phones were easy for villains to "clone." Users could suddenly
 find their bills inflated by hundreds or even thousands of dollars. The current
-GSM digital mobile phones authenticate themselves to the network by a cryp-
+GSM digital mobile phones authenticate themselves to the network by a cryptographic-
 
 Chapter 1: What is Security Engineering?
 
@@ -854,7 +854,7 @@ By a subject I mean a physical person (human, ET, . . .), in any role including 
 an operator, principal, or victim. By a person, I mean either a physical person or a legal person such as a company or government.
 
 A principal is an entity that participates in a security system. This entity can be a
-subject, a person, a role, or a piece of equipment, such as a PC, smartcard, or cardreader terminal. A principal can also be a communications channel (which might be a
+subject, a person, a role, or a piece of equipment, such as a PC, smartcard, or card reader terminal. A principal can also be a communications channel (which might be a
 port number or a crypto key, depending on the circumstance). A principal can also be a
 compound of other principals; examples are a group (Alice or Bob), a conjunction
 (Alice and Bob acting together), a compound role (Alice acting as Bob's manager), and
@@ -1091,7 +1091,7 @@ nonce may, according to the context, be a random number, a serial number, or a r
 three approaches, such as in the level of resistance they offer to various kinds of replay
 attack. (We'll discuss these later.) But in very low-cost systems, the first two predominate, as it tends to be cheaper to have a communication channel in one direction only.
 
-Key management in such devices can be simple. A typical garage token's key KT is
+Key management in such devices can be simple. A typical garage token key KT is
 simply its serial number encrypted under a global master key, KM, known to the central server:
 
 KT = {T}KM
@@ -1163,7 +1163,7 @@ to interrogate the key in the car owner's pocket, as he passed, with the anticip
 challenge.
 
 In fact, most of the widely used software products that incorporate encryption—including Kerberos, Netscape, and PGP—have been broken at some time or another because their random-number generators weren't random enough [340, 256]. The
-fix used varies from one application to another. It's possible to build hardware randomnumber generators using radioactive decay, but this isn't common because of environmental concerns. There are various sources of randomness that can be used in large
+fix used varies from one application to another. It's possible to build hardware random number generators using radioactive decay, but this isn't common because of environmental concerns. There are various sources of randomness that can be used in large
 systems such as PCs; for example, it's possible to use the small variations in the rotational velocity of the hard disk caused by air turbulence [225]. Practical systems for
 PCs often mix the randomness available from a number of environmental sources, such
 as network traffic and keystroke timing, and from internal system sources [363]; the
@@ -1601,7 +1601,7 @@ There are a number of different approaches to verifying the correctness of proto
 The best known is a logic of belief, the BAN logic, named after its inventors Mike Burrows, Martín Abadi, and Roger Needham [148]. It reasons about what is reasonable for
 a principal to believe, given sight of certain messages, timestamps, and so on. A second is the random oracle model, which I touch on in Chapter 5, and which is favored
 by many mathematicians working at the theoretical end of the subject; this appears to
-be less expressive than logies of belief, but can tie protocol properties down to the
+be less expressive than logics of belief, but can tie protocol properties down to the
 properties of the underlying encryption algorithms. Finally, a number of researchers
 have applied mainstream formal methods such as CSP and Lotos.
 
@@ -1799,7 +1799,7 @@ At the system level, how do we manage the tension between the principle that rob
 protocols are generally those in which everything is completely specified and checked
 (principals' names, roles, security policy statement, protocol version, time, date, sequence number, security context, maker of grandmother's kitchen sink) and the system
 
-engineering principle that a good specification should not overconstrain the implementer?
+engineering principle that a good specification should not over-constrain the implementer?
 
 Further Reading
 
@@ -1898,7 +1898,7 @@ Britain and 'pretexting' in America, is widely used to extract information from 
 insurance companies, and other firms that hold personal information; some people earn
 a living at it [261].
 
-Passwords are often extracted by false pretext phone calls. A harrassed system administrator is called once or twice on trivial matters by someone who claims to be a
+Passwords are often extracted by false pretext phone calls. A harassed system administrator is called once or twice on trivial matters by someone who claims to be a
 very senior manager's personal assistant; once he has accepted the caller's story, she
 calls and urgently demands a high-level password on some plausible pretext. Unless an
 organization has well-thought-out policies, attacks of this kind are very likely to work.
@@ -2267,7 +2267,7 @@ but women—and men in many countries are a few inches shorter and were highly e
 PIN was not!
 
 Many pay telephones have a similar problem, and shoulder surfing of calling card
-details (as it's known in the industry) has been endemic at some locations such as major U.S. train stations and airports. For that reason, I usually cover my dialling hand
+details (as it's known in the industry) has been endemic at some locations such as major U.S. train stations and airports. For that reason, I usually cover my dialing hand
 with my body or my other hand when entering a card number or PIN in a public
 place—but systems shouldn't be designed on the assumption that all customers will do
 this.
@@ -2395,7 +2395,7 @@ was in use on each of several dozen machines they examined.
 According to one report, when users were compelled to change their passwords, and
 prevented from using the previous few choices, they changed passwords rapidly to ex-
 
-haust the history list and get back to their favorite password. A response, of forbidding
+exhaust the history list and get back to their favorite password. A response, of forbidding
 password changes until after 15 days, meant that users couldn't change compromised
 passwords without help from the system administrator [603]. In my own experience,
 insisting on alphanumeric passwords and forcing a password change once a month led
@@ -2450,7 +2450,7 @@ This equation is taken from the U.S. Department of Defense password management
 guideline [242]. There are a couple of problems with this doctrine. First (the niggle)
 the password space can be completely exhausted, in which case LR/S > 1, and P isn't
 defined as a probability. Second (more serious) is that the attacker is not interested in
-guessing a password as much as getting acess to an account. So one has to take account
+guessing a password as much as getting access to an account. So one has to take account
 of the number of users. If a large defense network has a million possible passwords and
 a million users, and the alarm goes off after three bad password attempts on any account, then the attack is to try one password for every single account. Thus, the quantity of real interest is the probability that the password space can be exhausted in the
 lifetime of the system at the maximum feasible password guess rate.
@@ -2682,7 +2682,7 @@ ACLs have a number of advantages and disadvantages as a means of managing securi
 of particular implementations.
 
 ACLs are widely used in environments where users manage their own file security,
-such as the Unix systems common in universities and science labs. Where access control policy is set centrally, they are suited to environments where protection is dataoriented; they are less suited where the user population is large and constantly changing, or where users want to be able to delegate their authority to run a particular program to another user for some set period of time. ACLs are simple to implement, but
+such as the Unix systems common in universities and science labs. Where access control policy is set centrally, they are suited to environments where protection is data-oriented; they are less suited where the user population is large and constantly changing, or where users want to be able to delegate their authority to run a particular program to another user for some set period of time. ACLs are simple to implement, but
 are not efficient as a means of doing security checking at runtime, as the typical operating system knows which user is running a particular program, rather than which files
 it has been authorized to access since it was invoked. The operating system must either
 check the ACL at each file access or keep track of the active access rights in some
@@ -2872,7 +2872,7 @@ groups rather than for the system as a whole. Groups are intended to be the prim
 method for centralized configuration management and control (group policy overrides
 individual profiles). Group policy can be associated with sites, domains, or organizational units, so it can start to tackle some of the real complexity problems with naming.
 Policies can be created using standard tools or by custom-coding (Microsoft has announced that group policy data will be exposed in a standard schema). Groups are defined in the Active Directory, an object-oriented database which organizes users,
-groups, machines, and organizational units within a domain in a hierarchical namespace, indexing them so they can searched for on any attribute. There are also finergrained access control lists on individual resources.
+groups, machines, and organizational units within a domain in a hierarchical namespace, indexing them so they can searched for on any attribute. There are also finer-grained access control lists on individual resources.
 
 As already mentioned, Win2K uses Kerberos as its main means of authenticating users across networks.1 This is encapsulated behind the Security Support Provider Interface (SSPI), which enables administrators to plug in other authentication services.
 
@@ -4324,7 +4324,7 @@ size, software speed, hardware gate count, and so on.
 5.4.3.1 The Luby-Rackoff Result
 
 The seminal theoretical result on Feistel ciphers was proved by Mike Luby and Charlie
-Rackoff in 1988. They showed that if fiwere random functions, then & (f1, f2, f3) was
+Rackoff in 1988. They showed that if if they were random functions, then & (f1, f2, f3) was
 indistinguishable from a random permutation under chosen plaintext attack. This result
 was soon extended to show that & (f1, f2, f3, f4) was indistinguishable under chosen
 plaintext/ciphertext attack—in other words, it was a pseudorandom permutation.
@@ -4354,7 +4354,7 @@ The effect of the expansion, key mixing, and S-boxes is shown in the diagram in
 
 .13.
 
-The round keys are derived from the user-supplied key by using each user keybit in
+The round keys are derived from the user-supplied key by using each user key bit in
 about 14 different rounds according to a slightly irregular pattern. (A full specification
 of DES is given in [575]; code can be found in [681] or downloaded from many places
 on the Web.)
@@ -4389,7 +4389,7 @@ a linear attack using 242 known texts. DES would be secure with more than 20 rou
 but for practical purposes its security appears to be limited by its keylength. I know of
 no applications where an attacker might get hold of even 240 known texts, so the known
 shortcut attacks are not an issue in practice. However, its growing vulnerability to keysearch cannot be ignored. If Moore's law continues, then by 2015 or 2020 it will be
-possible to find a DES key on a single PC in a few months, which means even lowgrade systems such as taximeters will be vulnerable to attack using brute-force cryptanalysis. (Your reaction at this point might be "Give me one reason to attack a taximeter!" I will, in Chapter 10, "Monitoring Systems.")
+possible to find a DES key on a single PC in a few months, which means even low-grade systems such as taximeters will be vulnerable to attack using brute-force cryptanalysis. (Your reaction at this point might be "Give me one reason to attack a taximeter!" I will, in Chapter 10, "Monitoring Systems.")
 
 One way of preventing keysearch is whitening. In addition to the 56-bit key, say k0,
 we choose two 64-bit whitening keys k1 and k2, xor'ing the first with the plaintext before encryption and the second with the output of the encryption to get the ciphertext
@@ -4899,7 +4899,7 @@ or
 
 grX gsk ' gM modulo p
 
-Yrrs ' gM modulo p
+Yrs ' gM modulo p
 
 An ElGamal signature on the message M consists of the values r and s, and the recipient can verify it using the above equation.
 
@@ -5224,7 +5224,7 @@ effect on the outcome! In fact, the problem of deciding the order in which trans
 are applied has no clean solution. It's closely related to the problem of how to parallelize a computation, and much of the art of building efficient distributed systems lies
 in arranging matters so that processes are either simple sequential or completely parallel.
 
-The usual algorithm in retail checking account systems is to batch the transctions
+The usual algorithm in retail checking account systems is to batch the transactions
 overnight and apply all the credits for each account before applying all the debits. The
 inevitable side effect of this is that payments that bounce have to be reversed out. In
 practice, chains of failed payments terminate, though in theory this isn't necessarily so.
@@ -5615,7 +5615,7 @@ postpone until Chapter 13.
 
 7. Things are made much simpler if an incorrect name is obvious. In standard
 
-distributed systems, this enables us to take a liberal attitude toward cacheing.
+distributed systems, this enables us to take a liberal attitude toward caching.
 In payment systems, credit card numbers may be accepted while a terminal is
 offline as long as the credit card number appears valid (i.e., the last digit is a
 proper check digit of the first 15) and is not on the hot-card list. Certificates
@@ -5636,7 +5636,7 @@ different manufacturers, distributors, and retailers attach quite different desc
 an apostrophe is inserted, and this can cause great confusion in the supply
 chain. Proposals to fix this problem can be surprisingly complicated [387].
 
-There are also the issues of covergence discussed above; data might not be
+There are also the issues of convergence discussed above; data might not be
 
 consistent across a system, even in theory. There are also the problems of
 timeliness, such as the revocation problem for public key certificates.
@@ -6155,7 +6155,7 @@ Only," or the U.S. equivalent, 'NOFORN'; there are also International Defense Or
 codewords, descriptors, caveats, and IDO marking is one of the factors that can make
 the system confusing. (A more detailed explanation can be found in [630].)
 
-The final generic comment about access control doctrine is that allowing upwardonly flow of information also models what happens in wiretapping. In the old days,
+The final generic comment about access control doctrine is that allowing upward-only flow of information also models what happens in wiretapping. In the old days,
 tapping someone's telephone meant adding a physical wire at the exchange; nowadays,
 it's all done in the telephone exchange software, and the effect is somewhat like making the target calls into conference calls with an extra participant. The usual security
 requirement is that the target of investigation should not know he is being wiretapped,
@@ -6238,7 +6238,7 @@ In this way, Low users can read any High file without breaking the BLP assumptio
 
 Bell's argument was that System Z cheats by doing something the model doesn't
 allow (changing labels isn't a valid operation on the state), and McLean's argument
-was that it didn't explicitly tell him so. The issue is dealt with by introducing a tranquility property. The strong tranquility property says that security labels never cnange
+was that it didn't explicitly tell him so. The issue is dealt with by introducing a tranquility property. The strong tranquility property says that security labels never change
 during system operation, while the weak tranquility property says that labels never
 change in such a way as to violate a defined security policy.
 
@@ -6280,7 +6280,7 @@ Noninterference was introduced by Joseph Goguen and Jose Meseguer in 1982
 see. Nondeducibility is less restrictive and was introduced by Sutherland in 1986 [743].
 Here the idea is to try and prove that Low cannot deduce anything with 100 percent
 certainty about High's input. Low users can see High actions, just not understand them;
-a more formal definition is that any legal string of high-level inputs is compatable with
+a more formal definition is that any legal string of high-level inputs is compatible with
 every string of low-level events. So for every trace Low can see, there's a similar trace
 that didn't involve High input. But different low-level event streams may require
 changes to high-level outputs or reordering of high-level/low-level event sequences.
@@ -6391,7 +6391,7 @@ were extended to all sorts of products.
 7.4.1 SCOMP
 
 One of the most important products was the Secure Communications Processor
-(SCOMP), a Honeywell derivative of Multics, launched in 1983 [311]. This was a noexpense-spared implementation of what the U.S. Department of Defense believed it
+(SCOMP), a Honeywell derivative of Multics, launched in 1983 [311]. This was a no-expense-spared implementation of what the U.S. Department of Defense believed it
 wanted for handling messaging at multiple levels of classification. SCOMP had formally verified hardware and software, with a minimal kernel and four rings of protection (rather than Multics' seven) to keep things simple. Its operating system, STOP,
 used these rings to maintain up to 32 separate compartments, and to allow appropriate
 one-way information flows between them.
@@ -6479,7 +6479,7 @@ tems by using pumps to connect separate systems at different security levels. As
 systems don't process data at more than one level, they can be built from cheap commercial-off-the-shelf (COTS) components [438]. As the cost of hardware falls, this
 becomes the preferred option where it's possible.
 
-The Australian government has developed a product called Starlight that uses pumptype technology married to a keyboard switch to provide a nice MLS-type windowing
+The Australian government has developed a product called Starlight that uses pump-type technology married to a keyboard switch to provide a nice MLS-type windowing
 system (albeit without any visible labels), using a bit of trusted hardware that connects
 the keyboard and mouse with High and Low systems [17]. There is no trusted software.
 It's been integrated with the NRL Pump. A number of semi-commercial data diode
@@ -6653,7 +6653,7 @@ radar processor—controls hundreds of antenna elements that illuminate Low—th
 make jamming harder. In this case, the radar code must be trusted, as the covert channel bandwidth is many megabits per second.
 
 The case of greatest general interest is multilevel integrity systems, such as banking
-and utility billing, where a programmer who has inserted Trojan code in a highintegrity bookkeeping system can turn off the billing to an account by a certain pattern
+and utility billing, where a programmer who has inserted Trojan code in a high-integrity bookkeeping system can turn off the billing to an account by a certain pattern
 of behavior (in a phone system he might call three numbers in succession, for example). Code review is the only real way to block such attacks, though balancing controls
 can also help (I discuss this in Chapter 9).
 
@@ -7127,7 +7127,7 @@ hospitals are still less automated, they are catching up fast.
 
 Healthcare safety and (especially) privacy have become hot-button issues in many
 countries. In the United States, the debate over the privacy regulations being introduced by the Department of Health and Human Services under the Health Insurance
-Portability and Accountability Act is unsetting doctors, patients, privacy advocates,
+Portability and Accountability Act is unsettling doctors, patients, privacy advocates,
 researchers, and marketers; final regulations are due out by the end of 2000. Austrians
 are arguing about whether to introduce a smartcard to record health insurance data in a
 portable way, and Germans (who already have such a smartcard) are deliberating the
@@ -7162,7 +7162,7 @@ briefly in Chapter 3). The typical attack on medical record privacy comes from a
 
 Hello, this is Dr. Burnett of the cardiology department at the Conquest Hospital in
 Hastings. Your patient Sam Simmonds has just been admitted here in a coma, and he
-has a funny-looking ventricular arrythmia. Can you tell me if there's anything relevant
+has a funny-looking ventricular arrhythmia. Can you tell me if there's anything relevant
 in his record?
 
 This kind of attack is usually so successful that in both the United States and Britain
@@ -7289,7 +7289,7 @@ being responsible. Only she may alter the access control list, and she may
 only add other health care professionals to it
 
 4. Consent and notification: the responsible clinician must notify the patient of
-the names on his record's access control list when it is opened, of all subsequent additions, and whenever responsibility is transferred. His consent must
+the names on his record access control list when it is opened, of all subsequent additions, and whenever responsibility is transferred. His consent must
 also be obtained, except in emergency or in the case of statutory exemptions
 
 5. Persistence: no-one shall have the ability to delete clinical information until
@@ -7348,7 +7348,7 @@ Which of these three models—lattice, Chinese Wall and BMA—should be used in 
 given application? The lattice model on its own isn't enough, as it shows how to isolate
 compartments but not how to manage information flows between them. Both BMA and
 Chinese Wall tackle this problem, but BMA is as decentralized as possible, while in
-Chinese Wall the assignment of access rights is centralized, and the resulting aggrega-
+Chinese Wall the assignment of access rights is centralized, and the resulting aggregation-
 
 tion risk is managed by a more explicit mechanism to prevent any one user getting
 their hands on too much data.
@@ -7515,7 +7515,7 @@ There are a number of alternatives to simple query set size control. The U.S. ce
 for example, uses the "n-respondent, k%-dominance rule": it will not release a statistic
 
 of which k% or more is contributed by n or fewer values. Other techniques include, as
-mentioned, suppressing data with extreme values. A census bureau may deal with highnet-worth individuals in national statistics, but not in the local figures, while some
+mentioned, suppressing data with extreme values. A census bureau may deal with high-net-worth individuals in national statistics, but not in the local figures, while some
 medical databases do the same for less common diseases. For example, a U.K. prescribing statistics system suppresses sales of the AIDS drug AZT from local statistics.
 
 8.3.3.4 Cell Suppression
@@ -7566,7 +7566,7 @@ that would partition the sample population into too many sets.
 
 We saw how lattices can be used in compartmented security to define a partial order
 to control permitted information flows between compartments with combinations of
-codewords. They can also be used in aslightly different way to systematize query controls in some databases. If we have, for example, three attributes A, B, and C (say, area
+codewords. They can also be used in slightly different way to systematize query controls in some databases. If we have, for example, three attributes A, B, and C (say, area
 of residence, birth year, and medical condition), we may find that, while inquiries on
 any one of these attributes are nonsensitive, as are inquiries on A and B and on B and
 C, the combination of A and C might be sensitive. It follows, that an inquiry on all
@@ -8275,7 +8275,7 @@ had to be provided without the use of digital signatures, as these hadn't been i
 yet. Finally, the banks had to be able to enforce Clark-Wilson type controls over interbank transactions. (Clark-Wilson also hadn't been invented yet, but its components—dual control, balancing, audit, and so on—were well enough established.)
 
 The SWIFT design is summarized in .2. Authenticity of messages was assured by computing a message authentication code (MAC) at the sending bank and
-checking it at the receiving bank. Formerly, the keys for this MAC were managed endto-end: whenever a bank set up a relationship overseas, the senior manager who negotiated it would exchange keys with her opposite number, whether in a face-to-face
+checking it at the receiving bank. Formerly, the keys for this MAC were managed end-to-end-end: whenever a bank set up a relationship overseas, the senior manager who negotiated it would exchange keys with her opposite number, whether in a face-to-face
 
 meeting or afterward by post to each other's private addresses. There would typically
 be two key components to minimize the risk of compromise, with one sent in each direction (on the grounds that even if a bank manager's mail is stolen from her mailbox
@@ -8425,7 +8425,7 @@ on related keys in such a way that:
 member of the bank's staff.
 
 • Thus, for example, the cards and PINs are sent to the customer via separate
-channels. The cards are personalized in a facility with embossing and magstrip printing machinery; the PIN mailers are printed in a separate facility
+channels. The cards are personalized in a facility with embossing and magstripe printing machinery; the PIN mailers are printed in a separate facility
 containing a printer attached to a security module.
 
 • A terminal master key is supplied to each ATM in the form of two printed
@@ -8563,10 +8563,10 @@ ATMs process transactions while the network was down or the central mainframe wa
 offline. Though this was convenient—it meant 24-hour service—criminals, especially
 in Italy and England, learned to open bank accounts, duplicate the cards, then use them
 to withdraw money simultaneously from a large number of ATMs overnight when the
-network was down [494]. Such frauds led most banks to make ATM operation onlineonly by the mid-1990s.
+network was down [494]. Such frauds led most banks to make ATM operation online-only by the mid-1990s.
 
 However, there were numerous frauds that happened in quite unexpected ways. We
-already mentioned the Utrecht case in Section 2.8, where a tap on a garage point-ofsale terminal was used to harvest card and PIN data; and the "encryption replacement"
+already mentioned the Utrecht case in Section 2.8, where a tap on a garage point-point-of-sale terminal was used to harvest card and PIN data; and the "encryption replacement"
 trick by which banks that just encrypted the customer PIN and wrote it on the customer
 card enabled crooks to change the account number on their own card to somebody
 else's. There were many more.
@@ -8755,7 +8755,7 @@ manuals for the equipment in question, such as the IBM 4758 and CCA [397].
 
 Monitoring Systems
 
-For if a man watch too long, it is odds he will fall asleepe.
+For if a man watch too long, it is odds he will fall asleep.
 —FRANCIS BACON
 
 10.1 Introduction
@@ -9047,7 +9047,7 @@ The interaction between fire and intrusion works in a number of ways. Some fire
 precautions can be used only if there are effective barriers to keep out innocent intruders. Many computer rooms have automatic fire extinguishers, and since fears over
 global warming made Halon unavailable, this means carbon dioxide flooding. A CO2
 dump is lethal to untrained personnel. Getting out of a room on the air you have in
-your lungs is much harder than it looks when visiblity drops to a few inches and you
+your lungs is much harder than it looks when visibility drops to a few inches and you
 are disoriented by the terrible shrieking noise of the dump. A malfunctioning intruder
 alarm that let a drunk into your computer room, where he lit up a cigarette and was
 promptly executed by your fire extinguisher, might raise a few chuckles among the
@@ -9373,7 +9373,7 @@ kids in Soweto observed that when there was a brown-out—a fall in voltage from
 to 180 volts—a particular make of meter went to maximum credit. Soon kids were
 throwing steel chains over the 11 KV feeders and crediting all the meters in the neighborhood. This was the fault of a simple bug in the meter ROM, which wasn't picked up
 because brownout testing hadn't been specified. In fact, developed country environmental standards were inadequate and had to be rewritten. The effect on the business
-was that 100,000 meters had to be pulled out and re-ROMmed; the responsible company almost went bust.
+was that 100,000 meters had to be pulled out and re-Re-ROMmed; the responsible company almost went bust.
 
 There were numerous other bugs. One make of meter didn't vend a specified quantity of electricity, rather so much worth of electricity at such-and-such a rate. It turned
 out that the tariff could be set to a tiny amount by vending staff, so that it would operate almost forever. Another make allowed refunds, but a copy of the refunded token
@@ -9480,7 +9480,7 @@ little effect on the actual tampering techniques.
 
 According to a 1998 survey of 1,060 convictions of drivers and operators [31], the offenses were distributed as follows.
 
-10.4.1.1 How Most Tachograh Manipulation Is Done
+10.4.1.1 How Most Tachograph Manipulation Is Done
 
 About 70% of offenses that result in conviction do not involve tampering but exploit
 procedural weaknesses. For example, a company with premises in Dundee and Southampton should have four drivers to operate one vehicle per day in each direction, as the
@@ -9753,7 +9753,7 @@ CUBAN CRISIS
 
 11.1 Introduction
 
-The uniquely catasrophic harm that could result from the unauthorized use of a nuclear
+The uniquely catastrophic harm that could result from the unauthorized use of a nuclear
 weapon, or from the proliferation of nuclear technology to unsuitable states or substate
 groups, has led the United States (and other nuclear states) to spend colossal amounts
 of money protecting not just nuclear warheads but also the supporting infrastructure,
@@ -10003,7 +10003,7 @@ may be needed to give the alarm circuit enough time to zeroize the code memory.
 This care must extend to many details of implementation and operation. The weapons-testing process includes not just independent verification and validation, but hostile "black hat" penetration attempts by competing laboratories or agencies. Even then,
 all practical measures are taken to prevent access by possible opponents. The devices
 (both munition and control) are defended in depth by armed forces; there are frequent
-zeronotice challenge inspections; and staff may be made to retake the relevant examinations at any time of the day or night.
+zero-notice challenge inspections; and staff may be made to retake the relevant examinations at any time of the day or night.
 
 I discuss tamper resistance in much more detail in a later chapter, as it's becoming
 rather widely used in applications from pay-TV to bank cards. However, tamper resistance, secret sharing, and one-time authenticators aren't the only technologies to have
@@ -10673,7 +10673,7 @@ need to go to amateur sculptor classes to learn to take a cast of the seal and f
 of sealing tongs out of bronze (unless you want to save on bribes, or to frame the garage).
 
 The people who apply seals may be careless as well as corrupt. In the last few years,
-some airports have taken to applying tape seals to passengers' checked bags after Xraying them using a machine near check-in queue. On about half of the occasions this
+some airports have taken to applying tape seals to passengers' checked bags after X-raying them using a machine near check-in queue. On about half of the occasions this
 has been done to my baggage, the tape has been poorly fixed: it didn't cross the fastener between the suitcase and the lid, or it came off at one end, or the case had several
 compartments big enough to hold a bomb but only one of their fasteners was sealed.
 Carelessness and corruption interact. If enough of the staff applying a seal are careless,
@@ -10766,7 +10766,7 @@ unlikely to be distributed to all customs posts and market inspectors worldwide.
 
 The ideal remains a seal that can be checked by the public or by staff with minimal
 training. Firms that take forgery seriously, such as large software companies, are
-starting to adopt many of the techniques pioneered by banknote printers. But highvalue product packages are harder to protect than banknotes. Familiarity is important:
+starting to adopt many of the techniques pioneered by banknote printers. But high-value product packages are harder to protect than banknotes. Familiarity is important:
 people get a "feel" for things they handle frequently, such as local money, but are
 much less likely to notice something wrong with a package they see only rarely, such
 as a car part or a medicine bottle. Humans are very vulnerable when they see something for the first or only time—such as the packaging on the latest version of a computer operating system.
@@ -10920,7 +10920,7 @@ The requirement for government-issued photo-ID is imposed by the mortgage lender
 keep its insurers happy, while the requirement that a purchase of real estate be in writing was imposed by the government some centuries ago in order to collect stamp duty
 on property transactions. Other types of document (such as expert testimony) may have
 to be notarized in particular ways. Many curious anomalies go back to the nineteenth
-century, and the invention of the typewriter. Some countries require that machinewritten contracts be initialed on each page, while some don't; and these differences
+century, and the invention of the typewriter. Some countries require that machine-written contracts be initialed on each page, while some don't; and these differences
 have sometimes persisted for over a century. Clashes in conventions still cause serious
 problems. In one case, a real estate transaction in Spain was held to be invalid because
 the deal had been concluded by fax, and a U.K. company went bust as a result.
@@ -11112,7 +11112,7 @@ in [522], and there is a tutorial plus a description of an IBM system in [415]. 
 some of these systems simply replace the previous manual classification and matching
 
 1 In the Spanish version, they were first used in Argentina where they secured a murder conviction in 1892; while Cuba, which set up its fingerprint bureau in 1907, beat the United States,
-whose first conviction was in Illinois in 1911. The Croation version notes that the Argentinian
+whose first conviction was in Illinois in 1911. The Croatian version notes that the Argentinian
 system was developed by one Juan Vucetich, who had emigrated from Dalmatia. The German
 version refers to Professor Purkinje of Breslau, who wrote about fingerprints in 1828. Breslau is
 now Wroclaw in Poland, so the Poles have a story too. Indians point to the bureau established in
@@ -11340,7 +11340,7 @@ scared off some police forces, which had sent in samples from different voluntee
 got back false matches, but also led to disputed court cases and alleged miscarriages of
 justice.
 
-Biometrics are like many other protection mechanisms (alarms, seals, tampersensing enclosures, ...) in that environmental conditions can cause havoc. Noise, dirt,
+Biometrics are like many other protection mechanisms (alarms, seals, tamper-sensing enclosures, ...) in that environmental conditions can cause havoc. Noise, dirt,
 vibration, and unreliable lighting conditions all take their toll. Some systems, like
 speaker recognition, are vulnerable to alcohol intake and stress. Changes in environmental assumptions, such as from closed to open systems, from small systems to large
 ones, from attended to standalone, from cooperative to recalcitrant subjects, and from
@@ -11408,7 +11408,7 @@ such as when a very good biometric is combined with a very imprecise one,
 the effect can be worse overall [219].
 
 • Most biometrics are not as accurate for all people, and some of the population
-can't be identified as reliably as the rest (or even at all). The elderly, and manual workers, often have damaged or abraded fingerprints. People with darkcolored eyes and large pupils give poorer iris codes. Disabled people, with no
+can't be identified as reliably as the rest (or even at all). The elderly, and manual workers, often have damaged or abraded fingerprints. People with dark-colored eyes and large pupils give poorer iris codes. Disabled people, with no
 fingers or no eyes, risk exclusion if such systems become widespread. Illiterates who make an "X" are more at risk from signature forgery.
 
 Biometric engineers sometimes refer to such subjects dismissively as goats,
@@ -12928,7 +12928,7 @@ banking industry was, "Well, we don't do it to our competitors, so they probably
 do it to us; and we don't know where to get effective countermeasures anyway, so put
 it in the 'too hard' file." This view got shaken somewhat in the late 1990s when Hans-
 Georg Wolf demonstrated a Tempest attack that could recover card and PIN data from
-a cash machine at a distance of eight meters [239]. However, Tempest precautions remain a rarity in commerce and in nondefense-sector industry.1
+a cash machine at a distance of eight meters [239]. However, Tempest precautions remain a rarity in commerce and in non-defense-sector industry.1
 
 Meanwhile, with the end of the Cold War, military budgets were cut, and often there
 was no alternative to using commercial off-the-shelf equipment; there was no longer
@@ -13147,7 +13147,7 @@ hadn't already committed to them. Blocking these attacks turns out to be difficu
 doing it properly will involve a further generation of hardware design.
 
 And what about the future?
-The "nonsecurity" aspects of emission management, namely RFI/EMC, are becoming steadily more important. Ever higher clock speeds, plus the introduction of all sorts
+The "non-security" aspects of emission management, namely RFI/EMC, are becoming steadily more important. Ever higher clock speeds, plus the introduction of all sorts
 of wireless devices and networks, and the proliferation of digital electronics into many
 devices that were previously analogue or mechanical, are making electromagnetic
 compatibility a steadily harder and yet more pressing problem. Different industry
@@ -13156,7 +13156,7 @@ obsolete—for example, by not requiring testing above 1 GHz, or by assuming pro
 
 On the security side, attacks are likely to become easier. The advent of software radios—radios that digitize a signal at the intermediate frequency stage and do all the
 demodulation and subsequent processing in software—were, until recently, an expensive military curiosity [482], but are now finding applications in places like cellular
-radio base stations. The next generation may be consumer devices, designed to function as GPS receivers, GSM phones, radio LAN basestations, and to support whatever
+radio base stations. The next generation may be consumer devices, designed to function as GPS receivers, GSM phones, radio LAN base stations, and to support whatever
 
 other radio-based services have been licensed locally—all with only a change in software. Once people learn how to program them, they might just as easily use them for
 Tempest attacks.
@@ -13489,7 +13489,7 @@ more power than would otherwise be necessary. The ratio of the input signal's ba
 100 bit/sec signal spread over 10 MHz has a process gain of 107/102 = 105 = 50 dB.
 The jamming margin, which is defined as the maximum tolerable ratio of jamming
 power to signal power, is essentially the process gain modulo implementation and
-other losses (strictly speaking, process gain divided by the minimum bit energy-tonoise density ratio). The optimal jamming strategy, for an opponent who can't predict
+other losses (strictly speaking, process gain divided by the minimum bit energy-to noise density ratio). The optimal jamming strategy, for an opponent who can't predict
 the hop sequence, is partial band jamming—to jam enough of the band to introduce an
 unacceptable error rate in the signal.
 
@@ -13722,7 +13722,7 @@ have a fly-by-wire system that continually exhibits an aspect with a low RCS to 
 
 Active countermeasures are much more diverse. Early jammers simply generated a
 lot of noise in the range of frequencies used by the target radar; this technique is
-known as noise jamming or barrage jamming. Some systems used systematic frequency patterns, such as pulse jammers, or swept jammers which traversed the frequency range of interest (also known as squidging oscillators). But such a signal is
+known as noise jamming or barrage jamming. Some systems used systematic frequency patterns, such as pulse jammers, or swept jammers which traversed the frequency range of interest (also known as squidding oscillators). But such a signal is
 fairly easy to block—one trick is to use a guard band receiver, a receiver on a frequency adjacent to the one in use, and to blank the signal when this receiver shows a
 jamming signal. It should also be noted that jamming isn't restricted to one side. As
 well as being used by the radar's opponent, the radar itself can also send suitable spurious signals from an auxiliary antenna to mask the real signal or simply to overload
@@ -13795,9 +13795,9 @@ for unambiguous
 range/velocity and also to reduce clutter—but this can leave many blind spots. Airborne radars that have to deal with many threats use high PRF and look only for velocities above some threshold, say 100 knots—but are weak in tail chases. The usual
 compromise is medium PRF—but this suffers from severe range ambiguities in airborne operations. Also, search radar requires long, diverse bursts, whereas tracking
 needs only short, tuned ones. An advantage is that pulsed Doppler can discriminate
-some very specific signals, such as modulation provided by turbine blades in jet enlow-frequency/PRF
+some very specific signals, such as modulation provided by turbine blades in jet low-frequency/PRF
 
-gines. The main deception strategy used against pulsed Doppler is velocity gate pulloff, although a new variant is to excite multiple velocity gates with deceptive returns.
+engines. The main deception strategy used against pulsed Doppler is velocity gate pulloff, although a new variant is to excite multiple velocity gates with deceptive returns.
 
 Monopulse is becoming one of the most popular techniques. It is used, for example,
 in the Exocet missiles that proved so difficult to jam in the Falklands war. The idea is
@@ -13908,7 +13908,7 @@ to ground troops. One U.S. system combines laser and RF components. Shooters hav
 lasers, and soldiers have transponders; when the soldier is illuminated with a suitable
 challenge, his equipment broadcasts a "don't shoot me" message using frequencyhopping radio [820]. An extension allows aircraft to broadcast targeting intentions on
 millimeter wave radio. This system was due to be fielded in the year 2000. Britain is
-developing a cheaper system called MAGPIE, in which friendly vehicles carry a lowprobability-of-intercept millimeter wave transmitter, and shooters carry a directional
+developing a cheaper system called MAGPIE, in which friendly vehicles carry a low-probability-of-intercept millimeter wave transmitter, and shooters carry a directional
 receiver [381]. (Dismounted British foot soldiers, unlike their American counterparts,
 have no protection.) Other countries are developing yet other systems.
 
@@ -14107,7 +14107,7 @@ Web site, you might say, "Sorry, bad card number, try again," but the second
 time it happens you should take a different line (or the attacker will keep on
 trying). Something such as, "Sorry, the items you have requested are tempo-
 
-rarily out of stock and should be mailed within five working days" may do the
+temporarily out of stock and should be mailed within five working days" may do the
 trick.
 
 • Although defense in depth is in general a good idea, you have to be careful of
@@ -14231,14 +14231,14 @@ Early metering systems were wide open to abuse.
 
 • In the 1950's, the operator in some systems had to listen for the sound of coins
 dropping on a metal plate to tell that a callbox customer had paid, so some
-people acquired the knack of hitting the coinbox with a piece of metal that
+people acquired the knack of hitting the coin box with a piece of metal that
 struck the right note.
 
 • Initially, the operator had no way of knowing which phone a call had come
 
 from, so she had to ask the caller his number. The caller could give the number
 of someone else, who would be charged. This was risky to do from your own
-phone, but people did it from callboxes. When operators started calling back to
+phone, but people did it from call boxes. When operators started calling back to
 verify the number for international calls, people worked out social engineering
 attacks ("This is IBM here; we'd like to book a call to San Francisco, and because of the time difference, we'd like our managing director take it at home
 tonight. His number is xxx-yyyy"). Therefore, callbox lines had a feature
@@ -14326,7 +14326,7 @@ not
 
 (if
 
-The advent of premium rate phone services has also led to scamsters developing all
+The advent of premium rate phone services has also led to scammers developing all
 sorts of tricks to get people to call them: pager messages, job ads, fake emergency
 messages about relatives, "low-cost" calling cards with 900-access numbers—you
 name it. The 809 area code for the Caribbean used to be a favorite cover for crooks
@@ -14384,7 +14384,7 @@ equipment—or into secondary systems such as subscriber databases. For a survey
 PacBell's experience of this, see [167]; for Bellcore's, see [462].
 
 Using these techniques, unlisted phone numbers could be found, calls could be forwarded without a subscriber's knowledge, and all sorts of mischief became possible. A
-Californian phone phreak called Kevin Poulsen got root access to many of PacBel's
+Californian phone phreak called Kevin Poulsen got root access to many of PacBell
 switches and other systems in 1985–1988; this apparently involved burglary as much
 as hacking (he was eventually convicted of conspiring to possess 15 or more counterfeit, unauthorized, and stolen access devices.) He did petty things like obtaining unlisted phone numbers for celebrities, and winning a Porsche from Los Angeles radio
 station KIIS-FM. (Each week, KIIS would give a Porsche to the 102nd caller, so Kevin
@@ -15080,7 +15080,7 @@ was honest arbitrage. We shall have to wait and see what the juries think.
 Phone fraud is a fascinating case study. People have been cheating phone companies
 for decades, and recently the phone companies have been vigorously returning the
 compliment. To start off with, systems were not really protected at all, and it was easy
-to evade charges and redirect calls. The mechanism adopted to prevent this—out-ofband signalling—has proved inadequate as the rapidly growing complexity of the system opened up many more vulnerabilities. These range from social engineering attacks
+to evade charges and redirect calls. The mechanism adopted to prevent this—out-out-of-band signalling—has proved inadequate as the rapidly growing complexity of the system opened up many more vulnerabilities. These range from social engineering attacks
 on users through poor design and management of terminal equipment such as PBXes to
 the exploitation of various hard-to-predict feature interactions.
 
@@ -15366,7 +15366,7 @@ wards an IP packet, it will also send an ICMP packet to the destination with a p
 next hop, and as much of the packet as will fit. System administrators will then be able
 to trace large-scale flooding attacks back to the responsible machines, even when the
 attackers use forged source IP addresses to cover their tracks [93]. It may also help
-catch large-scale spammers who abuse open relays – relays llowing use by "transit"
+catch large-scale spammers who abuse open relays – relays allowing use by "transit"
 traffic, that is, messages which neither come from nor go to email addresses for which
 that SMTP server is intended to provide service.
 
@@ -15401,7 +15401,7 @@ a complex attack, but no matter; there are scripts available on the Web that do 
 18.2.2.6 Routing Attacks
 
 Routing attacks come in a variety of flavors. The basic attack involves Charlie telling
-Alice and Bob that a convenient route between their sites passes through his. Sourcelevel routing was originally introduced into TCP to help get around bad routers. The
+Alice and Bob that a convenient route between their sites passes through his. Source-level routing was originally introduced into TCP to help get around bad routers. The
 underlying assumptions—that "hosts are honest" and that the best return path is the
 best source route—no longer hold, and the only short-term solution is to block source
 routing. However, it continues to be used for network diagnosis.
@@ -15594,7 +15594,7 @@ machine in the lab, the password I use doesn't go across the LAN in the clear.
 
 Let's stop and analyze what protection this gives me. Novices and policymakers
 think in terms of wiretaps, but tapping a dial-up modem line is hard now that modems
-use adaptive echo cancellation. It essentially involves the attacker inserting two backto-back modems into the link from my house to the lab. So this is a low-probability
+use adaptive echo cancellation. It essentially involves the attacker inserting two back-to-back modems into the link from my house to the lab. So this is a low-probability
 threat. The risk of password sniffing on our LAN is much higher; it has happened in
 the past to other departments. Thus, our network encryption is really providing a
 lower-cost alternative to the use of handheld password generators.
@@ -16107,7 +16107,7 @@ If you try to buck the markets, then the markets will buck you.
 
 19.1 Introduction
 
-The protection of electronic commerce systems pulls together a lot of the topics discussed in previous chapters. Failures come from misconfigured access control, implementation blunders, theft of network services, inappropriate use of crypotology—you
+The protection of electronic commerce systems pulls together a lot of the topics discussed in previous chapters. Failures come from misconfigured access control, implementation blunders, theft of network services, inappropriate use of cryptology—you
 name it. In this chapter, I'll cover some protection issues specific to e-commerce, such
 as how online credit card payments are handled, and what goes wrong.
 
@@ -16243,7 +16243,7 @@ Of course, having the cardholder present doesn't guarantee that fraud will be ra
 For many years, most fraud was done in person with stolen cards, and the stores that
 got badly hit tended to be those selling goods that can be easily fenced, such as jewelry
 and consumer electronics. Banks responded by lowering their floor limits. More recently, as technical protection mechanisms have improved, there has been an increase
-in scams involving cards that were never received by genuine customers. This preissue fraud can involve thefts from the mail of the many "pre-approved" cards that arrive in junk mail, or even applications made in the names of people who exist and are
+in scams involving cards that were never received by genuine customers. This pre-issue fraud can involve thefts from the mail of the many "pre-approved" cards that arrive in junk mail, or even applications made in the names of people who exist and are
 creditworthy, but are not aware of the application (identity theft). These attacks on the
 system are intrinsically hard to tackle using purely technical means.
 
@@ -16255,7 +16255,7 @@ captured from the embossing, so crooks figured out how to re-encode the magnetic
 strip of a stolen card with the account number and expiry date of a valid card, which
 they often got by fishing out discarded receipts from the trash cans of expensive restaurants. A re-encoded card would authorize perfectly, but when the merchant submitted
 
-the draft for payment, the account number didn't match the authorization code (a sixdigit number typically generated by encrypting the account number, date, and amount).
+the draft for payment, the account number didn't match the authorization code (a six-digit number typically generated by encrypting the account number, date, and amount).
 The merchants didn't get paid, and raised hell.
 
 Banks responded in the mid-1980s by introducing terminal draft capture, where a
@@ -16362,7 +16362,7 @@ authorization. The real problem facing dot-coms is disputes.
 It is easy to repudiate a transaction. Basically, all the customer has to do is call the
 credit card company and say, "I didn't authorize that," and the merchant will be saddled with the bill. This was workable in the days when almost all credit card transactions took place locally, and most were for significant amounts. If a customer
 fraudulently repudiated a transaction, the merchant would pursue them through the
-courts and harrass them using local credit reference agencies. In addition, the banks'
+courts and harass them using local credit reference agencies. In addition, the banks'
 systems are often quite capable of verifying local cardholder addresses.
 
 But the Internet differs from the old mail order/telephone order regime, in that many
@@ -16391,7 +16391,7 @@ too many of its shipments were the wrong size, or the wrong color, or just didn'
 camel's back [721].
 
 This history suggests that technological fixes may not be as easy as many vendors
-claim, and that the main recources will be essentially procedural. American Express
+claim, and that the main resources will be essentially procedural. American Express
 has announced that it will offer its customers credit card numbers that can be used once
 only; this will protect customers from some of the scams. In order not to run out of
 numbers, they will issue them one at a time to customers via their Web site (which will
@@ -16714,7 +16714,7 @@ in Part 3.
 
 In the first half of the 1990s, a large number of electronic purse systems were developed. The idea was to replace debit cards with something that would work offline
 without being more vulnerable to forgery. The typical implementation involved both
-customers and merchants having chip cards, each with a value counter, plus a card-tocard payment protocol whereby two cards would authenticate each other—one would
+customers and merchants having chip cards, each with a value counter, plus a card-to-card payment protocol whereby two cards would authenticate each other—one would
 be debited and the other would be credited. I described the design of a typical protocol
 in Section 2.7.1.
 
@@ -16772,7 +16772,7 @@ The most obvious effect of this positive feedback is that once a network passes 
 certain critical size, it grows rapidly. The telegraph, the telephone, the fax machine
 and, most recently, the Internet, have all followed this model. Another effect is that
 there are enormous rewards for being first. This happens to some extent in traditional
-businesses such as cars where supplyside economies of scale help big firms to grow
+businesses such as cars where supply-side economies of scale help big firms to grow
 bigger. But there are limits: once they became too large, companies such as General
 Motors couldn't react quickly enough to compete against upstarts such as Toyota. With
 networks, the economies of scale occur on the demand side, and so there is no upper
@@ -16784,7 +16784,7 @@ were going to be more users of PCs than Macs, software houses concentrated on sh
 that there was more software for the PC, so people were more likely to buy PCs, and
 the positive feedback continued.
 
-This isn't limited to PC architecures, but works at all sorts of levels including application software and file formats. Once most people started using Microsoft Word for
+This isn't limited to PC architectures, but works at all sorts of levels including application software and file formats. Once most people started using Microsoft Word for
 documents, that was even more reason for everybody else to (regardless of the risk
 from Word macro viruses). And such a network effect can be enhanced by arranging
 that your file formats are difficult for other companies' programs to read, and by
@@ -17079,7 +17079,7 @@ be used for steganography, that is for hiding messages in other messages. The fa
 snapshots that you email to your brother might actually contain a ripped-off track from
 your favorite band's latest CD. (They could also contain a message organizing demon-
 
-strators to picket an international trade conference, so the government interest is never
+demonstrators to picket an international trade conference, so the government interest is never
 far away.)
 
 20.2 Copyright
@@ -17177,7 +17177,7 @@ and serial numbers of disk controllers are only the more obvious ones. Provided 
 details to tie software to a given machine.
 
 A generic attack that works against most of these defenses (or at least those that
-don't hide critical code somewhere uncopiable) is to go through the software with a
+don't hide critical code somewhere uncopyable) is to go through the software with a
 debugger and remove all the calls made to the copy protection routines. Many hobbyists did this for sport, and competed to put unprotected versions of software products
 online as soon as possible after their launch. Even people with licensed copies of the
 software often got hold of unprotected versions as they were easier to back up and often more reliable generally.
@@ -17778,7 +17778,7 @@ of course, but it's not entirely trivial yet—even a DSL modem takes hours to s
 drives replace CD drives in all PCs, we can expect to see rewriteable DVDs being
 widely used for backup; and it's completely predictable that whatever new mechanisms
 are fielded to prevent copying will be circumvented. But I also predict that in 10 years'
-time, the lineup of DVDs on my shelf will be pretty much the same as my videocassette lineup is today—about 50 prerecorded cassettes and maybe two dozen homerecorded ones, the former bought mostly for the family and the latter being mostly old
+time, the lineup of DVDs on my shelf will be pretty much the same as my videocassette lineup is today—about 50 prerecorded cassettes and maybe two dozen home recorded ones, the former bought mostly for the family and the latter being mostly old
 TV programs that have a direct relevance to my work. I'm sure the industry can live
 with that.
 
@@ -18082,7 +18082,7 @@ Another mechanism to help users manage trust is that they can sign each others'
 keys. This may simply be used as an integrity protection mechanism on their public
 keyrings, but becomes more interesting if the signatures are exported. The set of pub-
 
-licly visible PGP signatures makes up the web of trust: the idea is that if Alice wants a
+publicly visible PGP signatures makes up the web of trust: the idea is that if Alice wants a
 public key for Bob, with whom she has not corresponded before, then she might be
 lucky enough to find a key for Bob signed by Charlie, and a key for Charlie signed by
 David, whom she already trusts. The resulting certificate chain:
@@ -18414,7 +18414,7 @@ recently been coalescing into the new discipline of peer-to-peer networking. Thi
 on the scene in the middle of 2000, and is starting to encompass other issues, such as
 ad-hoc networks of mobile devices.
 
-Early computer networks were many-to-one (or, as we would now call them, clientserver): many terminals connected to one mainframe. The early ARPANET went to the
+Early computer networks were many-to-one (or, as we would now call them, client-server): many terminals connected to one mainframe. The early ARPANET went to the
 other extreme, with each connected machine being an equal peer of the others. As the
 ARPANET grew into the Internet, more hierarchy and organization got added, first
 with services such as DNS and telnet, and later with the development of large commercial Web sites. By now, Tim Berners-Lee's vision of the Web as a person-to-person
@@ -18451,7 +18451,7 @@ O'Reilly. (I got an advance copy of this too late to include it in this book's b
 
 An interesting engineering problem is the extent to which it's possible to integrate the
 technologies discussed here to provide systems that are highly resistant to all kinds of
-survillance and coercion. This problem has been called subversive group computing
+surveillance and coercion. This problem has been called subversive group computing
 and may be thought of as the set of technologies necessary for a subversive
 group—say, for example, a Tibetan group wishing to throw off Chinese rule. The
 threat model here involves not just pervasive surveillance and determined service denial attacks, but also the regular subversion of group members.
@@ -18598,7 +18598,7 @@ warfare" by hostile powers or substate groups? And how will individual privacy b
 protected? This last question is being answered quite differently in the United
 States and Europe. In the former, it's left to corporate "self-regulation," while in
 the latter, the experience of World War II has led to privacy being entrenched as a
-constutional principle. "Data protection," as it's called in Europe, threatens a major ruction between the two continents. Successive U.S. administrations have
+constitutional principle. "Data protection," as it's called in Europe, threatens a major ruction between the two continents. Successive U.S. administrations have
 tended to see privacy as something on which "a deal could be done" or that could
 be fudged or just swept under the carpet—not realizing that Germans can be as inflexible on data protection as many Americans are on gun control.
 
@@ -18670,7 +18670,7 @@ When automating government, will we replace an inefficient tiresome mess with an
 automated inefficient tiresome mess?
 
 Government departments, like businesses, are struggling to stake out territory in cyberspace. Key escrow was just one of the earliest land grabs, and was unsurprising
-given that intelligence agencies are among the most technically sophisticated publicsector organizations. An unfortunate side effect is that, in many countries, the debate
+given that intelligence agencies are among the most technically sophisticated public sector organizations. An unfortunate side effect is that, in many countries, the debate
 over who should have access to cryptographic keys has not only soured government
 relations with local IT communities, but has also enabled the agencies to take a dominant position in IT policy. In Britain, for example, the mantle of "national technical
 authority" for such matters is worn jealously by CESG, a department of the signals
@@ -18706,7 +18706,7 @@ conflicting view that cryptography was the only means of protecting electronic c
 lined up with the industry, and claimed that cryptography would be the critical technology for privacy. By 1994, the NSA had concluded that it faced a war with Microsoft, which it would lose, so it handed off the policy lead to the FBI, while continuing
 to direct matters from behind the scenes.
 
-The debate rapidiy became tangled up with export controls on weapons, the means
+The debate rapidly became tangled up with export controls on weapons, the means
 by which cryptography was traditionally controlled. U.S. software firms were not allowed to export products containing cryptography that was seen as too hard to break
 (usually interpreted as meaning a keylength of over 40 bits). A.U.S. software author,
 Phil Zimmermann, was hauled up before a grand jury for arms trafficking after a program he wrote—PGP—"escaped" on to the Internet. He immediately became a folk
@@ -18823,7 +18823,7 @@ pattern has been stable for years, and across many countries. Why should this be
 
 Wiretaps are so expensive to listen to and transcribe that most police forces with restricted budgets use them only as a weapon of last resort; in contrast, the numbers a
 suspect calls, and that call him, give a rapid overview of his pattern of contacts. Also,
-while wiretaps usually have fairly strict warrantry requirements, most countries impose
+while wiretaps usually have fairly strict warrant requirements, most countries impose
 few or no restrictions on the police use of communications data. In the United States,
 no warrants were required until ECPA. Even after that, they have been easy to get: under 18 USC 3123 [759], the investigative officer merely has to certify to the court "that
 the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation." This can be any crime—felony or misdemeanor—and
@@ -18831,7 +18831,7 @@ under either federal or state law. Unlike with wiretaps, the court has no power 
 a warrant once a formally correct application has been made, and there is no court supervision once the order has been granted. Since the passage of CALEA, warrants are
 still required for such communications data as the addresses to which the subscriber
 has sent e-mail messages, but basic toll records can be obtained under subpoena—and
-the subscriber need not be notified. So the above figures for pen register and trap-andtrace warrants almost certainly understate the extent of law enforcement traffic analysis. In any case, both phone and computer service records can be provided to bodies
+the subscriber need not be notified. So the above figures for pen register and trap-trap-and-trace warrants almost certainly understate the extent of law enforcement traffic analysis. In any case, both phone and computer service records can be provided to bodies
 other than law enforcement agencies under 18 USC 2703(c); thus, for example, we find
 Virginia and Maryland planning to use mobile phone tracking data to monitor congestion on the Capital Beltway [710]. Toll data use for marketing purposes was also expressly envisioned by Congress when this law was passed.
 
@@ -18910,7 +18910,7 @@ have done in the past: what armies are moving where and against whom; what air
 forces are moving where, and what their capabilities are. There really aren't any limits
 on NSA. Its mission goes all the way from calling in the B-52s in Vietnam to monitoring every aspect of the Soviet space program."
 
-While Fellwock's motive was opposition to Vietnam, the next major whistleblower
+While Fellwock motive was opposition to Vietnam, the next major whistleblower
 was a British wartime codebreaker, Frederick Winterbotham, who wanted to write a
 memoir of his wartime achievements and, as he was dying, was not bothered about
 prosecution. In 1974, he revealed the Allies' success in breaking German and Japanese
@@ -18955,7 +18955,7 @@ use of modern communications. So it's not surprising that most of the personnel 
 large proportion of its work concerns the identification and analysis of the radars, telemetry, weapons guidance, electronic countermeasures, and other such
 resources of countries that are hostile or potentially so.
 
-• Second, the proliferation of cordless phones, radio LANs and other radiobased technologies, plus the fact that everything is going online, present the
+• Second, the proliferation of cordless phones, radio LANs and other radio-based technologies, plus the fact that everything is going online, present the
 agencies with a cornucopia of new information sources [560]. Times have
 never been so good—regardless of the outcome of policy debates over cryptography.
 
@@ -19178,7 +19178,7 @@ business—make of all this?
 21.2.5 Discussion
 
 When the key escrow debate got going in Britain in 1994–1995, I took a line that was
-unpopular at the time with both the pro-escrow and the anti-escrow lobbies. The proescrow people said that because crypto provided confidentiality, and confidentiality
+unpopular at the time with both the pro-escrow and the anti-escrow lobbies. The pro-escrow people said that because crypto provided confidentiality, and confidentiality
 could help criminals, there had to be some way to defeat it. The anti-escrow lobby said
 that because crypto was necessary for privacy, there must not be a way to defeat it. I
 argued in [21] that essentially all the premises behind these arguments were wrong.
@@ -19234,7 +19234,7 @@ debated much.
 
 This is not to say that the police have no use for wiretaps. Although many police
 forces get by quite happily without them, and many of the figures put forward by the
-prowiretap lobby are dishonest [250], there are some occasions when wiretapping can
+pro-wiretap lobby are dishonest [250], there are some occasions when wiretapping can
 be economic as an investigative tool. The Walsh report—by a senior Australian intelligence officer—gives a unusually balanced examination of the issues [787]. Walsh
 compared the operational merits of wiretaps, bugs, and physical surveillance, and
 pointed out that wiretaps were either the cheapest or the only investigative technique in
@@ -19407,7 +19407,7 @@ would the Clinton administration want to transform the emerging information supe
 21.3.1 DMCA
 
 Following heavy lobbying, a treaty was made in Geneva in 1996 under the auspices of
-the World Intellectual Property Oragnization (WIPO), with signatory states obliged to
+the World Intellectual Property Organization (WIPO), with signatory states obliged to
 harmonize the treatment of digital copyright. The implementation in the United States
 was the Digital Millennium Copyright Act (DMCA) of 1998. This prohibits the alteration of any electronic copyright management information (CMI) bundled with digital
 content, such as details of ownership and licensing; and outlaws the manufacture, importation, sale or offering for sale of anything primarily designed to circumvent copyright protection technology. There are specific exemptions for people engaged in
@@ -19431,7 +19431,7 @@ one or more copies of the work in a national archive. This serves a number of pu
 ranging from helping the courts resolve copyright disputes, through access by future
 generations of scholars, to the supply of obscure books through library loan schemes.
 But how can we preserve digital works that may use proprietary platforms, have
-copyprotection schemes, and may even require occasional online access to a license
+copy protection schemes, and may even require occasional online access to a license
 server? However, the first big test of DMCA looks to be the reverse-engineering of
 DVD CSS, which is currently making its way through the U.S. courts.
 
@@ -19485,7 +19485,7 @@ identifiable human being, or data subject, such as bank account details and cred
 purchasing patterns. It corresponds roughly to the U.S. term computer privacy. The
 difference in terminology is accompanied by a major difference in law and in attitudes.
 In fact, this may become one of the thorniest problems in e-policy in the first decade of
-the twenty-first century, as well as a serious complication for people setting up ebusinesses.
+the twenty-first century, as well as a serious complication for people setting up e-businesses.
 
 European law gives data subjects the right to inspect personal data held on them,
 have them changed if inaccurate, understand how they're processed, and in many cases
@@ -19596,7 +19596,7 @@ discussion, see [802].
 The European regulatory drive toward data thrift is counter to the direction in which
 commerce is developing. Quite apart from the law enforcement surveillance techniques
 discussed in the first section of this chapter, e-businesses are developing all sorts of
-customer tracking and marketing tools from cookies to clicktrails, wallets to IPR enforcement tools, and snitchware that enables software vendors to monitor customers'
+customer tracking and marketing tools from cookies to click trails, wallets to IPR enforcement tools, and snitchware that enables software vendors to monitor customers'
 hard drives remotely. The information flow is one-way, in the sense that you retain
 essentially, no rights over personal information once surrendered; yet businesses will
 only license their software to you rather than sell it. Some writers have expressed the
@@ -19605,7 +19605,7 @@ which there is no place to hide [323].
 
 An extreme version of this view is taken by David Brin [139]. He argues that pervasive surveillance technologies will inevitably be available to the authorities, and the
 only real question is whether they will be available to the rest of us, too. He paints a
-choice between two futures—one in which the citizens live in fear of an East Germanstyle police force, and one in which officials are held to account by public scrutiny.
+choice between two futures—one in which the citizens live in fear of an East German style police force, and one in which officials are held to account by public scrutiny.
 The cameras will exist: will they be surveillance cams or Web cams?
 
 There are some successful experiments in openness. The U.S. Freedom of Information Act may be the most conspicuous, but there are others, such as the practice (in
@@ -19879,7 +19879,7 @@ A typical government department, such as a welfare agency or a passport office, 
 the operation and maintenance of a large distributed system as its core business function. Yet governments have usually been bad at conceiving and implementing large IT
 projects. Many of the reasons are well known. The civil service doesn't pay very well,
 so can't usually compete for the brightest IT staff; many government departments have
-traditional ways of doing things that don't automate well; planning and purchasing cycles are long compared with technology cycles; the managerial culture is more riskaverse than is ideal; and outside a few specialized functions, it isn't easy to set up a
+traditional ways of doing things that don't automate well; planning and purchasing cycles are long compared with technology cycles; the managerial culture is more risk averse than is ideal; and outside a few specialized functions, it isn't easy to set up a
 dozen competing organizations and just let the market sort them out. Many of the
 things I've seen go wrong with public sector projects have at their heart the culture
 clash between the computer business and the civil service. This problem cuts both
@@ -20225,7 +20225,7 @@ without embarrassment on either side.
 Faced with an intractable problem, it is common for people to furiously attack a related
 but easier one. We saw the effects of this in the public policy context in 21.2.5.3. Displacement activity is also common in the private sector. An example comes from the
 
-smartcard industry. As discussed in Section 14.7.2, the difficulty of protecting smartcards against microprobing attacks has led the industry to concentrate on securing
+smartcard industry. As discussed in Section 14.7.2, the difficulty of protecting smartcards against micro probing attacks has led the industry to concentrate on securing
 other things instead. Even programming manuals are available only under nondisclosure agreements (NDA) even plant visitors have to sign an NDA at reception; much
 technical material isn't available at all; and vendor facilities have almost nuclear-grade
 physical security. Physical security overkill may impress naive customers—but almost
@@ -20321,7 +20321,7 @@ that go wrong.
 Large software projects usually take longer than planned, cost more than budgeted for,
 and have more bugs than expected. (This is sometimes known as "Cheops' law" after
 the builder of the Great Pyramid.) By the 1960s, people had started talking about the
-software crisis, although the word crisis is hardly appropriate for a starte of affairs that
+software crisis, although the word crisis is hardly appropriate for a state of affairs that
 has now lasted (like computer insecurity) for two generations. Anyway, the term software engineering was proposed by Brian Randell in 1968, and defined to be:
 
 Software engineering is the establishment and use of sound engineering principles in
@@ -20466,7 +20466,7 @@ linking this to component reliability and human factor issues, and the results o
 been achieved.
 
 The ideal system design avoids hazards entirely. A good illustration comes from the
-motor-reversing circuits shown in .3. In the first design on the left, a doublepole, double-throw switch reverses the current passing from the battery through the
+motor-reversing circuits shown in .3. In the first design on the left, a double pole, double-throw switch reverses the current passing from the battery through the
 motor. However, this has a potential problem: if only one of the two poles of the
 switch moves, the battery will be short-circuited, and a fire may result. The solution is
 to exchange the battery and the motor, as in the modified circuit on the right. There, a
@@ -21248,13 +21248,13 @@ the use of formal methods as a condition of higher levels of evaluation under th
 enough to say that this restricts high evaluation levels to relatively small and simple
 products, such as line encryption devices and operating systems for primitive computers such as smartcards. Even so, formal methods aren't infallible. Proofs can have errors, too; and often the wrong thing gets proved [673]. The quote by Knudsen at the
 head of this chapter refers to the large number of breaks of cryptographic algorithms or
-protocols that had previously been proven secure. These breaks generally occur because one of the proof's assumptions is unrealistic, or has become so over time.
+protocols that had previously been proven secure. These breaks generally occur because one of the proofs assumptions is unrealistic, or has become so over time.
 
 23.2.2.3 Quis Custodiet?
 
 Just as mistakes can be made by theorem provers and by testers, so they can also be
 made by people who draw up checklists of things for the testers to test (and by the security textbook writers from whose works the checklist writers draw). This is the old
-problem of quis custodiet ipsos custodes, as the Romans more succintly put it: who
+problem of quis custodiet ipsos custodes, as the Romans more succinctly put it: who
 shall watch the watchmen?
 
 There are a number of things one can do, few of which are likely to appeal to the organization whose goal is a declaration that a product is free of faults. The obvious one
@@ -21342,7 +21342,7 @@ people do. Joseph Schumpeter argued that economic depressions perform a valuable
 societal function of clearing out companies that are past it or just generally unfit, in
 much the same way that fires rejuvenate forests. Successful companies become com-
 
-placent and bureaucratic, so that some insiders opt for the good life while others leave
+complacent and bureaucratic, so that some insiders opt for the good life while others leave
 (it used to be commonly said that the only people who ever left IBM were the good
 ones). Too rapid growth also brings problems: Microsoft insiders blame many of the
 current problems on the influx of tens of thousands of new hires in the late 1990s,
@@ -21531,7 +21531,7 @@ evaluation in what follows.
 
 It is convenient to break evaluation into two cases. The first is where the evaluation
 is performed by the relying party; this includes insurance assessments, the independent
-verification and validation done by NASA on mission-critial code, and the previous
+verification and validation done by NASA on mission-critical code, and the previous
 generation of military evaluation criteria, such as the Orange Book. The second is
 where the evaluation is done by someone other than the relying party. Nowadays, this
 often means the Common Criteria evaluation process.
@@ -22713,7 +22713,7 @@ Prentice Hall (1981), ISBN 0-13-822122-7.
 
 [124] N Bohm, I Brown, B Gladman, "Electronic Commerce—Who Carries the
 Risk of Fraud?" Journal of Information Law & Technology, v 3 (2000);
-http://elj.warwick.ac.uk/jilt/00-3/bokm.html.
+http://elj.warwick.ac.uk/jilt/00-3/bookm.html.
 
 [125] MK Bond, "Attacks on Cryptoprocessor Transaction Sets," to be submitted
 
@@ -22792,7 +22792,7 @@ edu/crypt/docs/hans-buehler-crypto-spy.txt.
 
 [144] http://archives.neohapsis.com/archives/bugtraq/.
 [145] Bundesamt für Sicherheit in der Informationstechnik (German Information
-Security Agency), "Schutzmaßnahmen gegen Lauschangriffe" [Protection
+Security Agency), "SchutzmaßnahmenßMaßnahmen gegen Lauschangriffe" [Protection
 (1997);
 against bugs], Faltblätter des BSI,
 http://www.bsi.bund.de/literat/faltbl/laus005.htm.
@@ -23455,7 +23455,7 @@ Security Mechanisms," in 17th National Computer Security Conference
 
 Press (1930); 2nd ed., New York: Dover Publications (1958).
 
-[298] J Flanagan, "Prison Phone Phraud (or The RISKS of Spanish)," reporting
+[298] J Flanagan, "Prison Phone Fraud (or The RISKS of Spanish)," reporting
 University of Washington staff newspaper, in comp.risks, v 12.47; at
 http://catless.ncl.ac.uk/Risks/20.69.html.
 
@@ -23489,7 +23489,7 @@ p 18.
 a t
 
 N e w
-http://www.newscientist.com/ns/20000108/newsstory6.html.
+http://www.newscientist.com/ns/20000108/news story6.html.
 
 S c i e n t i s t
 
@@ -23499,7 +23499,7 @@ S c i e n t i s t
 
 [307] B Fox, "The Pirate's Tale," in New Scientist (Dec 18, 1999), at
 
-http://www.newscientist.com/ns/19991218/thepirates.html.
+http://www.newscientist.com/ns/19991218/the pirates.html.
 
 [308] D Fox, "IMSI-Catcher," in Datenschutz und Datensicherheit, v 21 no 9
 
@@ -23563,7 +23563,7 @@ Establishments," Diane Publishing Co (1994), ISBN 0-78815791-4.
 http://www.law.miami.edu/~froomkin/articles/privacyat
 
 1461–1543,
-deathof.pdf.
+death of.pdf.
 
 [324] DA Fulghum, "Communications Intercepts Pace EP-3s," in Aviation Week
 
@@ -23986,7 +23986,7 @@ House, Prague, ISBN 80-01-01502-5; pp 324–336.
 
 526.
 
-[428] D Kahn, The Codebreakers, New York: Macruillan (1967).
+[428] D Kahn, The Macmillan, New York: Macmillan (1967).
 
 Security Engineering:
 
@@ -24147,7 +24147,7 @@ Security (1993); proceedings published by the ACM, ISBN 0-89791-629-8, pp
 
 Graduate Texts in Mathematics, no 114 (1987), ISBN 0-387-96576-9.
 
-[464] ER Koch, J Sperber, Die Datenmafia, Rohwolt Verlag (1995), ISBN 3-
+[464] ER Koch, J Sperber, Die Datenmafia, Rowohlt Verlag (1995), ISBN 3-
 
 499-60247-4.
 
@@ -25423,7 +25423,7 @@ Security Bulletin (Dec 1993), pp 9–19.
 
 in
 
-Intrustion Detection
+Intrusion Detection
 
 [722] P Sommer, "Intrusion Detection and Legal Proceedings," in Recent
 a t
@@ -25611,7 +25611,7 @@ http://www.chiark.greenend.org.uk/mailman/listinfo/ukcrypto.
 
 The Sunday Times (Aug 6, 2000), p 5.
 
-[758] United Kingdon Government, "e-commerce@its.best.uk," at http://www.eenvoy.gov.uk/2000/strategy/strategy.htm.
+[758] United Kingdom Government, "e-commerce@its.best.uk," at http://www.eenvoy.gov.uk/2000/strategy/strategy.htm.
 
 [759] United States Code—U.S. Federal Law, online for example at
 
@@ -25683,9 +25683,9 @@ Conference; proceedings published by NIST (1998), pp 315–328.
 
 1 ,
 
-[773] S Vaudenay, "FFT-Hash-II Is Not Yet Collision-Free," in Laboratoire
+[773] S D'Informatique, "FFT-Hash-II Is Not Yet Collision-Free," in Laboratoire
 
-d'Informatique de l'Ecole Normale Supérieure report LIENS-92-17.
+Venema de l'Ecole Normale Supérieure report LIENS-92-17.
 
 [774] W Venema, "Murphy's Law and Computer Security," in USENIX Security
 

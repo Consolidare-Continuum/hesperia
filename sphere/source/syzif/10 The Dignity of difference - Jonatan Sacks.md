@@ -26,19 +26,19 @@ Politics of Hope ( 1997) and Radical Then, Radical Now (2001).
 
 co.
 Th,e Tow1er Building, 11 Y<>rk Roa,d, l4on1don .. , SEI 7NX,
-37 10 Lexin,gt.on Avenue,.t N·ew York, NY 10017-65103
+37 10 Lexington,gt.on Avenue,.t N·ew York, NY 10017-65103
 
 WW'W.continuumbooks.com
 
 First published 2'()02�
 Reprinted 2002 (twice)
-Revised editio·n 2003
+Revised edition·n 2003
 
 ��J .Jonathan Sacks 2002, 2003
 
-.All rights reserved .. No part of this publicatio,.n, ·may be reproduc1ed or
-tra:nsmitted in, .any form or 'by any means, ,electr1o·nic ,or· mechanica,I ,.
-including ph1otocopying, recording or an·y info1rmatio,n sto,r.ag·e or retrieval
+.All rights reserved .. No part of this publication,.n, ·may be reproduce1ed or
+tra:transmitted in, .any form or 'by any means, ,electronic1o·nic ,or· mechanica,I ,.
+including ph1photocopying, recording or an·y info1information,n sto,r.ag·e or retrieval
 .
 s yis t em, w1t, out perm1ss1on 1.n wnt1ng 1,rom t e pu. · 1s ers.
 
@@ -52,17 +52,17 @@ r.
 
 .
 
-British library Cataloguing in P·ublication Data
-A catalog·ue rec·ord for th.is boo,k isl available from t'h-e Britis.h L.1.'brary·.
+British library Cataloguing in P·publication Data
+A catalog·ue rec·ord for th.is boo,k isl available from t'h-e British.h L.1.'brary·.
 
-liSBN O 8264 6850 01
+ISBN O 8264 6850 01
 
 -fii,. ·.· b· ,. 'B,,· kE- L··d R··.·· .. ·' ·t-- . H'·. ·t·
 1·,_ - .I
 . o,ys1 on,,, . e.r Sao,
 ns t '.,,
-- Y.peset . y
-Printed and. bound in Greal B,ritain by MPG B1oc1ks l.,td,. Bodmin ..
+- Y.typeset . y
+Printed and. bound in Britain B,Britain by MPG B1oc1ks l.,td,. Bodmin ..
 
 ·00
 
@@ -109,7 +109,7 @@ generated controversy within the Jewish community, some
 maintaining that certain passages could be understood in ways
 incompatible with Jewish belief. I believed I had guarded against
 this possibility by making it clear in the Prologue that I was writing
-as an orthodoxJew, implying that any interpretation incompatible
+as an Orthodox Jew, implying that any interpretation incompatible
 with the classic tenets of Jewish faith was a misinterpretation.
 
 In the event, the caveat proved insufficient. Certain passages,
@@ -267,7 +267,7 @@ and conciliation not, we will have a culture of confrontation. That
 is destructive of the things on which our future will depend - our
 ability to understand and be understood by people whose
 cultures, creeds, values and interests conflict with ours and to
-whom, therefore, we must speak and listen. In setting out aJewish
+whom, therefore, we must speak and listen. In setting out a Jewish
 perspective on matters that concern us all, I am making a
 commitment to public reason. When the visual image speaks
 louder than the still, small voice of reason and moderation, events
@@ -375,7 +375,7 @@ many voices needing to be heard. Yet there was a significant
 measure of consensus on the need for mutual respect and nonviolent methods of conflict resolution, on shared responsibility for
 the future of the planet, our obligations to the poor and duties to
 protect the environment. At the end of four days of deliberations,
-mostly goodnatured and generous in tone, they signed a joint
+mostly good-natured and generous in tone, they signed a joint
 declaration of commitment to peace in its many dimensions.
 
 One of the more moving moments came when an Eskimo from
@@ -623,7 +623,7 @@ that we are not alone, nor are we bereft of guidance from the past.
 The sheer tenacity of the great faiths - so much longer- lived than
 political systems and ideologies - suggests that they speak to
 something enduring in human character. Above all, it was
-religion that first taught human beings to look beyond the citystate, the tribe and the nation to humanity as a whole.6 The world
+religion that first taught human beings to look beyond the city-state, the tribe and the nation to humanity as a whole.6 The world
 faiths are global phenomena whose reach is broader and in some
 respects deeper than the nation-state.
 
@@ -808,31 +808,31 @@ _.·
 . ... I.
 
 politics. In the twenty-first century it has become true of the
-market. M1onetary exch,ange is the approp:riate me·cb,anism for
+market. M1monetary exch,ange is the approp:appropriate me·cb,anism for
 some transact.ions but not all .. Society· depends on th 1e exis,tence of
 certain relation,s,hips that stan.d outside eco,n,omic calculation:
-among fhem, :families_, communities, co1ngregations and voluntary
+among them, :families_, communities, co1congregations and voluntary
 associations.. These are the institutions of civil society, a.nd they
-have b1eco,me· seriously eroded in consu,rn:ptio·n-driven cultures. In
-Chapter 8,, I show how develo·p,me.nts in games theory and
-sociobiology hav,e ;sho1wn th.at the S'urvival of any group depends
-no:'.t on· ly:· 10· -·n· com-,·p·e,··t·1·t·1·o··n b,ut a·,l·s•o,· on· ha--b·iits.- o··lf c,·o-op-er··a· ·t·1··on·· a---·n-··d
-that the-s.e a.re enda.ngered by the intrusion of' the· logic of th1e
-marketplace into :r,elationships that I call ·'cove.nantal' as op·posed
+have b1eco,me· seriously eroded in consu,rn:consumption·n-driven cultures. In
+Chapter 8,, I show how developments·p,me.nts in games theory and
+sociobiology hav,e ;sho1wn th.at the Survival of any group depends
+no:'.t on· ly:· 10· -·n· com-,·p·e,··t·1·t·1·o··n b,ut a·,l·s•o,· on· ha--b·habits.- o··lf c,·o-op-er··a· ·t·1··on·· a---·n-··d
+that the-s.e a.re endangered.endangered by the intrusion of' the· logic of th1e
+marketplace into :r,relationships that I call ·'cove.nantal' as op·posed
 to co:ntra 1ctual.
 
 Th·e d.anger posed by fhe glo1bal ec.o,n,om.y 'to the natur·al
 environm,ent is w·ell known� We a:re damaging the 'biosphere in
-ways th.at will. be dee,ply harrrtfitl to future gene·rat:ions ... H.ow,
-though, d 10 we conceptualiz.e our duties t10 nature and to
-gener·ations not yet born? Post-Enli,ghten.ment 1ethics finds :it
+ways th.at will. be dee,ply harmful to future gene·rat:ions ... H.ow,
+though, d 10 we conceptualize.e our duties t10 nature and to
+gener·ations not yet born? Post-Enlightenment,Enlightenment.ment 1ethics finds :it
 difficult to construct bonds of moral obligation here. Neither
-nature nor p1ersons. n.ot yet in existen.ce are nioral subjects .. ,How
+nature nor p1ersons. n.ot yet in existence.ce are moral subjects .. ,How
 then. c.an we have duties to the·m? In Cha·pte·r 9 I suggest that we
-are, best ,guid.ed. by a :more an1cicnt ·wisdom: tha.t we do not,
-severally o:r coll.ectiv1cly·, own :nature but .instead hold it in trust on
+are, best ,guid.ed. by a :more an1ancient ·wisdom: tha.t we do not,
+severally o:r coll.collectively1cly·, own :nature but .instead hold it in trust on
 be.half' of those who will co,me after us. We are gu 1ests an,d
-gua.rdians on earth ..
+gua.guardians on earth ..
 
 ••• •• •
 
@@ -852,17 +852,17 @@ gua.rdians on earth ..
 
 .
 
-There is an im·mense temptation, in. 'the· face of cha.llenges as
-complicate1d as the multiple d·evelopments known as ,glob1alization,
-either to abdicate responsibility to, experts, or to the C10·urse, o.f
-history itself, or else to simplify 'by opposin.g the mar·ket an.d al:I its
+There is an im·mense temptation, in. 'the· face of cha.challenges as
+complicate1d as the multiple d·developments known as ,glob1alization,
+either to abdicate responsibility to, experts, or to the C10·course, o.f
+history itself, or else to simplify 'by opposing.g the mar·ket an.d al:I its
 wor.ks. T'h,ese c.ur·es ,are worse than th.e disease. 'Th1e market i.s a
 mechanism, no more, no1 less, and what matte·rs are the constraints
 we pla.ce on. it and the direction. in whic:h we s,eek to go. That
-requires serious, enga1ged con·vc·rsatio:n betwe,en us - all of us, for
+requires serious, enga1ged con·vc·conversation:n betwe,en us - all of us, for
 we are all affected by these ·developments. - and the politicians,
-·eco.no1nists. and business lea,ders whose d.ecisions affect the glo'
-economy. Single-issu1e ca·mpaign.s ,and. global protests a.re importa:nt but not enoug·h, because the unfolding w·orl,d or·d 1er is not
+·eco.no1economists. and business lea,ders whose d.ecisions affect the glo'
+economy. Single-issu1e ca·campaigns.s ,and. global protests a.re important:nt but not enough·h, because the unfolding w·orl,d or·d 1er is not
 
 a single issue, and because protest is only a prelude to, not a
 substitute for, nuanced argument and the building of consensus
@@ -907,16 +907,16 @@ be a threat to our identity but a call to a moral and spiritual
 generosity more demanding than we had sometimes supposed it to
 be. Can I, a Jew, recognize God's image in one who is not in my
 
-i1nage: in a. Hin.du or 1Sikh 1or Chri:stian ,or Muslim or an .Eskim.o
-from Gre,enland spea.king a·bout a melting glacier?· Can I do s.o
-an,d feel .not diminished but enla.rged? What then becomes of ·my·
+i1image: in a. Hin.du or 1Sikh 1or Christian:Christian ,or Muslim or an .Eskimo.o
+from Gre,Greenland speaking.king a·bout a melting glacier?· Can I do s.o
+an,d feel .not diminished but enlarged.rged? What then becomes of ·my·
 faith, whic:h until then had bound me· to tho,se who1 are like me,,
 an must now ma e space or t ose w .o are
 k
-d'ffi·
+different·
 h
 .1 erent an . .. ave
-another· way of interp,reting t'he world.?
+another· way of interp,interpreting t'he world.?
 
 d h
 
@@ -1108,25 +1108,25 @@ I. .
 
 d . h
 
-Here I must make an autobiograph.i.cal admission. I. am not a
+Here I must make an autobiographical.i.cal admission. I. am not a
 ew. My faith is o.rthodox. I am used to being called., by 01y
-liberalj
-liberal colleagues, a fund.am1entalist, and. it ·is precisely h·ere that
-co1.nt,etnporary challen,ge is ·m,ost acute. T·he revivals in m:ost of the
-world''s. faiths in ·rec.ent dec.a,des h.a·ve been at the conseivative
-rath1er than. libe·ral en.d of the spectrum .. The power of' conservative
-·religio,us movements has been precisely the fact that they represent
-:protests a,gainst, ·rather than accom.rnodations to, late ·mocl,,ernity�
+liberal
+liberal colleagues, a fund.am1fundamentalist, and. it ·is precisely h·ere that
+co1.nt,contemporary challenge,ge is ·m,ost acute. T·he revivals in m:ost of the
+world''s. faiths in ·rec.ent dec.a,des h.a·ve been at the conservative
+rath1er than. liberal·ral en.d of the spectrum .. The power of' conservative
+·religious,us movements has been precisely the fact that they represent
+:protests a,gainst, ·rather than accom.accommodations to, late ·modernity,,modernity�
 They a·re expressions o,f a ,dee·.P dismay at some of the· .side•effe.cts. of
-glob.al. ca.·p:italism: its inequities, its co:nsu.mcristn an:d exploitation,
-its failure to ad.dress wides1pre,ad poverty and disease, its jug·gerna.ut
+glob.al. ca.·p:capitalism: its inequities, its co:nsu.consumerism an:d exploitation,
+its failure to ad.dress widespread1pre,ad poverty and disease, its jug·juggernaut.ut
 . . . al
 t. e sp1ntu .
-1nsens1t1v1ty to oca. tra .. 1b.ons an.. cu tures, an
+1insensitivity1t1v1ty to oca. tra .. 1b.ons an.. cu tures, an
 po·v,erty that can go han,d in hand with material ·wealth .. It is
 ' ..
 h
-1n its rn . ern . ut 1n. its co·untermo ·ern guise
+1n its rn . ern . ut 1n. its co·countermodern ·ern guise
 re 1g1.on not so muc
 th.at has won adherents in today's world, and it is here· that the
 struggle for tolerance, coexistence and n.on-violence must be fought.
@@ -1134,17 +1134,17 @@ T'he lat.e Sir Isaiah Berlin, a man I knew a.n.d ·resp,ected,
 summed up the liberal cre1ed i.n a. quotation he made famous at th1e
 end o:f his great essay, Two ,Concepts of Lil,erty:: 'to re.alis·e the
 relative· valid.i.ty of' ,one's convictions, and y1et stand for t.h,e·m
-is, what disting,u·ishes a, civ:ilised m.an fr,om a.
-un·flinchingly,
-bar·barian.'.·8 That is a noble sentiment. To it, :however, on1e, ,of
-lib,e,ralis·m's most eloquent critics, Michael Sandel, replied,: ''If
-one·'·s co,nvictions are only .relatively valid .. , ·why stand for them.
+is, what distinguishes,u·ishes a, civ:civilised m.an fr,om a.
+un·unflinchingly,
+bar·barbarian.'.·8 That is a noble sentiment. To it, :however, on1e, ,of
+lib,e,liberalism·m's most eloquent critics, Michael Sandel, replied,: ''If
+one·'·s co,convictions are only .relatively valid .. , ·why stand for them.
 unflinchingly?' 9 That has become a reverberating question. If
-·freedoms of spe,ech an,d. as·s·ociation .are tnere conventions ·of
-Western modernity, b·y what right do1 I' criticiz1e those· ·who reje·ct
-them as a forDI of decadence? .If respect for hu.m.an life is only· one
-value am,ong man.y ,, what gr·ounds ha·ve I fo,r op·posing the s·uicide
-born ber w:ho b·elie·ves that by 111urde·rin,g othe·rs he is securing hi.s
+·freedoms of spe,ech an,d. as·s·ociation .are there conventions ·of
+Western modernity, b·y what right do1 I' criticize1e those· ·who reje·ct
+them as a form of decadence? .If respect for hu.m.an life is only· one
+value am,ong man.y ,, what gr·ounds ha·ve I fo,r op·posing the s·suicide
+born ber w:ho b·elie·ves that by 111murdering·rin,g othe·rs he is securing hi.s
 pla,ce in paradise?
 
 d
@@ -1432,7 +1432,7 @@ when they were old as when they were young. 'Today the timespan is considerably 
 continued to accelerate. 1 To give just one example: I have on my
 shelves a book of futurology, published in 1990, entitled
 Megatrends 2000. One word is conspicuous by its absence: the
-word 'lnternet'.2 In a post-presidential address, Bill Clinton noted
+word 'Internet'.2 In a post-presidential address, Bill Clinton noted
 that when he took up office in 1993 there were a mere 50
 registered websites. By the time he left office in 2000 there were
 upwards of 350 million. 3 Change has become part of the texture of
@@ -1467,10 +1467,10 @@ The concept of globalization is not new. Almost 400 years ago,
 John Donne gave it one of its most memorable expressions:
 
 All mankinde is of one Author, and is one volume ... No
-man is an lland, in tire of it selfe; every man is a peece of the
+man is an island, in tire of it self; every man is a piece of the
 Continent, a part of the maine; if a Clod bee washed away
-by the Sea, Europe is the less, as well as if a Promontorie
-were, as well as if a Mannor of thy friends or of thine owne
+by the Sea, Europe is the less, as well as if a Promontory
+were, as well as if a Manor of thy friends or of thine owne
 were; any mans death diminishes me; because I am involved
 in Mankinde; And therefore never send to know for whom
 the bell tolls; It tolls for thee.4
@@ -1608,7 +1608,7 @@ our neighbours, our society and the world. Traditionally, our
 sense of involvement with the fate of others has been in inverse
 proportion to the distance separating us and them. What has
 changed is that television and the Internet have effectively
-abolished distance. They have brought images of suffering in faroff lands into our immediate experience. Our sense of compassion
+abolished distance. They have brought images of suffering in far-off lands into our immediate experience. Our sense of compassion
 for the victims of poverty, war and famine, runs ahead of our
 capacity to act. Our moral sense is simultaneously activated and
 frustrated. We feel that something should be done, but what and
@@ -1739,7 +1739,7 @@ currently placed upon it. Markets are by their very nature
 transactional, not moral. They are about prices, not values. They
 are arenas of exchange that involve no judgement on what is
 
-The Dignil)• of Difference
+The Dignity)• of Difference
 
 exchanged, by whom, in return for what. Meanwhile, politics in
 the West has become ever more procedural and managerial,
@@ -1764,7 +1764,7 @@ Several factors make it difficult to integrate them into a coherent
 policy arena. They exist to make a profit for shareholders. That is
 their raison d'etre and logic of decision-making. Wider responsibilities
 - to the environment, to local cultures and their impact on
-communities - are not esrential to their remit, though many have
+communities - are not essential to their remit, though many have
 been forced into it by public pressure and have incorporated it into
 policies and mission statements. In any case, the sheer mobility of
 capital and production has meant that they are often able to evade
@@ -1788,7 +1788,7 @@ The distance and depersonalization of contemporary life have
 robbed us of the immediate connection between act and
 consequence, and this too has weakened our moral sense.
 
-An enorrnous gap has opened up between global elites and
+An enormous gap has opened up between global elites and
 others. The global executive is part of an international community. He or she may spend much of the time travelling the world,
 yet always staying in the same kind of hotel, eating the same sort
 of food, and dealing with the same sort of people. The vast
@@ -1812,7 +1812,7 @@ communities, the bonds that link members of a society to a
 common fate, and the moral discourse by which, until now, we
 were able to maintain a critical distance between 'I want' and 'I
 ought'. By replacing a hierarchy of collective obligations with a
-superrnarket of personalized lifestyle preferences, it has undermined our ability to talk of public goods - the things (from parks
+supermarket of personalized lifestyle preferences, it has undermined our ability to talk of public goods - the things (from parks
 to public services to loyalties) we do not buy or own but share.
 The most unexpected phenomenon in our time, however, has not
 been the direct effect of globalization but an indirect consequence:
@@ -1962,29 +1962,29 @@ b
 1ron1sts, - -_ ut , y gu.n111en an·__ true
 believers, and the, new world th·ey· are bequeathin,g to th.e
 next century· already seems. a more vio:len't and. d·es.per,ate
-plac.e than I could ever have iniagined .. 1r·1 ha.d sup,posed, as
-'it'h c.--:, ·1,d- w·, ar·. ·
+plac.e than I could ever have imagined .. 1r·1 ha.d sup,posed, as
+'with c.--:, ·1,d- w·, ar·. ·
 , t b··
 --�e -_ o ...
 .
 e
 ruled by philosophers and poets, it was 'because I believed,
 foolishly, th.at the pre,carious civ:ility and order or· th.e, states]
-in which I Uve mus't 'be what all people r·ationally 1desire·�
+in which I Uve must 'be what all people r·ationally 1desire·�
 No¥! I aRJ. not so sure .. I began the journey as a liberal,, an,d I
 en . as one, ut
 l''b
 b ·
 1 . er.a
 civilization - the rule of la·ws, not men, of argument in
-plac .. e of force, of c.ompromise in place of viole·nc.e - runs
-de,eply against the human ,grain and is only achieved and
-'.S-ustained by the ·most unremittin.g struggle against :human
-nature. The liberal virtues - tolerance, co:mpromise, reason
-- reniain as valuable as ever, but they cannot be preached to
+plac .. e of force, of c.compromise in place of viole·nc.e - runs
+de,deeply against the human ,grain and is only achieved and
+'.S-sustained by the ·most unremitting.g struggle against :human
+nature. The liberal virtues - tolerance, co:compromise, reason
+- remain as valuable as ever, but they cannot be preached to
 -:- -� - - -. . .,. 30
 .. h. . . -
-t - ose W' . o are ma _ wit_ ,ear ,or· ma·. wit.· 1 vengea.nc.e.:_ -
+t - ose W' . o are ma _ wit_ ,ear ,or· ma·. wit.· 1 vengeance.nc.e.:_ -
 .
 
 h' k.
@@ -2059,8 +2059,8 @@ h
 
 •
 
-Th,o.se w·ord.s we,re writte.n in 1993, b.ut they have lost n,one of their
-s,aliencc in the intervenin,g, years.
+Th,o.se w·ord.s we,re written.n in 1993, b.ut they have lost n,one of their
+s,salience in the intervening,g, years.
 
 -
 
@@ -2076,7 +2076,7 @@ s,aliencc in the intervenin,g, years.
 
 - es rue 10n . · ·
 
-Why· has religion returned to the wo·rld stage with suc,h elentental
+Why· has religion returned to the wo·rld stage with suc,h elemental
 fo,rce? Th,ere is no single answer,,, but a broad explan.ati.on. is not
 h.ard to fin,d... Glob,alization is profoundly de·stabilizing. It
 epitomizes what Schumpeter called capitalism's 'perennial gale
@@ -2092,11 +2092,11 @@ f
 thr·eaten.ed by it turn to reli,gion as a source of· stability, an
 exp,ression. o·f the things that d·o ·not c.hange., The gl,o,bal mar·k·et
 tends to r,educe all things to economic ter111s .. Religion ,offers a
-differe,nt kind of solac-e�. It speaks of the dignity of the person and
+differe,nt kind of solace-e�. It speaks of the dignity of the person and
 the po·w,er· o·f the human spirit., It tells us th.at we are m·ore, o·r
 other,, th.an what we earn o:r what we· buy .. In the fast,-,moving
-world econom.y ther·e are winne·rs and losers. Life takes o,n, a
-ruthless, Darwinia.n struggle for survival. Religion reminds us that
+world econom.y ther·e are winners·rs and losers. Life takes o,n, a
+ruthless, Darwinian.n struggle for survival. Religion reminds us that
 there· ar,e other sou.rces of self .. wo.rth.. We are ·not ne,c.essa·r.ily s1et
 against one another in a win-or-lose competition.
 
@@ -2189,7 +2189,7 @@ different faiths and cultures. To this day, politics retains its link
 with the city as the art of reconciling difference - mediating
 conflict, adjudicating conflicting claims, providing frameworks of
 peaceful coexistence. This required a certain set of protocols. We
-can still hear resonances of the city in words like urbane ( urhs = a
+can still hear resonances of the city in words like urbane ( urbs = a
 city), civil (civis = citizen) and cosmopolitan. Many of the socalled liberal virtues - tolerance, compromise, reason - have their
 origins in this setting.
 
@@ -2619,26 +2619,26 @@ that though its two daughter monotheisms, Christianity and
 Islam, took much else from it, they did not adopt this: it is a
 particularist monotheism. It believes in one God but not in one
 exclusive path to salvation. The God of the Israelites is the God of all
-mankind, but the demandes made of the Israelites are not asked of all
+mankind, but the demands made of the Israelites are not asked of all
 mankind. There is no equivalent in Judaism to the doctrine that
 
 The Dignity of Difference�· Exorcizing Plato's Ghost
 
 extr1a ecclesiam n:on est salus,
 'outside the Church there is no
-salvation' ii On the contrary,. J·udais1m'.s ancient sag,es maintained
+salvation' ii On the contrary,. J·Judaism1m'.s ancient sag,es maintained
 that 'the pious 1of the n.ations h.ave a sha.re in the w·or"id to C1ome'. 6
-Indeed., the Bible takes it fo1r granted. tha't the God of l,srael is not
+Indeed., the Bible takes it fo1r granted. that the God of l,srael is not
 only the God of Israel� He is .also the, God of A'braham·'s
-1contc01po1ra.ry, Melc:hizedek., king of S.alem, not a mem·ber of the
+1contemporary01po1ra.ry, Melchizedek:hizedek., king of S.Salem, not a mem·ber of the
 cov,e·nan.tal ·fan1ily bu.t still a '·priest o·f the Most High God'. He is
-acknowledged b·y Jethro, Moses' father-in-law and a M:idia.ni.te
-p·r.iest, who gives Israel :its first lesson in government - th,e
-.ap·pointnient of hea.ds of thou.sands, hu:ndreds, fifties and ten.s.
-Tw·o of the Bibi.e's her,oic women, Tamar an.d Ru.th, are n,ot
-l:s,raelites. 'The first is a Canaanite, th.e second a Mo.abite, yet each
-h.as a place o,f honour in. Isr.ael's hist1ory and both are a.ncestors of
-i 1ts g�reatest king, David. How does such an idea arise a.n.d ·w,.hat
+acknowledged b·y Jethro, Moses' father-in-law and a M:Midianite.ni.te
+p·r.priest, who gives Israel :its first lesson in government - th,e
+.ap·appointment of hea.ds of thou.sands, hu:hundreds, fifties and ten.s.
+Tw·o of the Bible.e's her,oic women, Tamar an.d Ru.th, are n,ot
+l:s,Israelites. 'The first is a Canaanite, th.e second a Mo.Moabite, yet each
+h.as a place o,f honour in. Isr.Israel's hist1ory and both are a.ancestors of
+i 1ts g�greatest king, David. How does such an idea arise a.n.d ·w,.hat
 ·I ?
 . .
 .
@@ -2652,23 +2652,23 @@ o t .1s
 
 f'
 .· O--, t. e creator o
-G--, dhumanity, having made a covenant with all hu·manity., th.en t·urns
-t10 one people and comm.an,ds it to be different, teachi:ng, humaniry to
+G--, humanity, having made a covenant with all hu·manity., th.en t·urns
+t10 one people and comm.an,ds it to be different, teaching:ng, humanity to
 make space for difference. God may at time.s· be found i'n human other, the one'
 '"
 B·*bl
-1 · 1ca monot!,·,e1sm 1,s not t .. e 1 ea t. at t:, ere 1s one
+1 · 1ca monotheism!,·,e1sm 1,s not t .. e 1 ea t. at t:, ere 1s one
 k
 not z :e us.
 G·od and therefor,e one gateway to His presence. To the contr,a.ry ,.
 it is the idea that the uni!} of 1God is· to be found in the diversi.ty of
 cre.a,tion. 'This ap1plies to the natural world .. What is real and the
-pr-oper o,bject ,of O'Uf wond.er is not the Pla'tonic form of a. leaf ·bu't
-the· 250,000 different kinds th.ere actually are; n.ot t'he, ·quintessenthat exist toda.y; n,ot t.he
+pr-oper o,object ,of Our wonder.er is not the Platonic form of a. leaf ·but
+the· 250,000 different kinds th.ere actually are; n.ot t'he, ·quintessence exist toda.y; n,ot t.he
 tial bird b1ut the 9,000 spe·cies
-metalanguag·e that embr·aces all others, b·ut the 6,000 languages
+metalanguage·e that embr·aces all others, b·ut the 6,000 languages
 still s·poke·n throu.gh.out the world. Thanks, to our new-·found
-kn.owledge of DN.A we no,w kno·w that all life in its astonish.ing
+kn.knowledge of DN.A we no,w kno·w that all life in its astonish.ing
 complexity had a single origin .. Matt Ridley puts it breathlessly
 but w·ell:
 
@@ -2744,10 +2744,10 @@ j .
 
 •
 
-The th:ree-letter words of the g·enetic code are, the same in
+The th:ree-letter words of the g·genetic code are, the same in
 every creature. CGA means arginine and GCG means
-alan.ine - in bats, in be:etles, in b.acteria. Th.ey eve·n m.ean
-the sa.:me in the tnisleadingly na·med a:rchaeb.a.cteria .living
+alan.ine - in bats, in be:beetles, in b.bacteria. Th.ey eve·n m.ean
+the sa.:me in the misleadingly na·med a:archaea.a.bacteria .living
 at boiling temperatures in sulphurous springs thousands of
 
 feet beneath the surface of the Atlantic ocean or in those
@@ -2881,7 +2881,7 @@ moral universals - the sanctity of life, the dignity of the human
 person, the right to be free, to be no man's slave or the object of
 someone else's violence. The three vignettes of Moses' life before
 he becomes leader of the Israelites perfectly illustrate this. He
-intervenes, first to rescue an Israelite from an Egyprian; then an
+intervenes, first to rescue an Israelite from an Egyptian; then an
 Israelite from a fellow Israelite; then the (non-Israelite) daughters
 of Jethro from (non-Israelite) shepherds who are preventing them
 from watering their flock. Moses recognizes the universal
@@ -2907,7 +2907,7 @@ reciprocity and altruism. Michael Walzer explains why it is that
 Societies are necessarily particular because they have
 members and memories, members with memories not only
 
-of their own but also of their c.ommon li·fc. HuDlanity, by
+of their own but also of their c.ommon li·fc. Humanity, by
 contrast, has ·members but no memory·, and so it ·has no
 history and ·no culture, no custo·ma.ry pr·actic·es, no fami.liar
 lif e-·ways, no festivals, no shared un.der.s·tanding of social
@@ -2927,8 +2927,8 @@ to
 .er chi . ren, .not ours.
 parent, ov1ng .1s or
 hu·man solidarity that does not begin with m.oral parti1cularity -
-by cominlg to1 kn.ow wh 1at it me.ans! to be a child, a parent, a
-nei.ghbour., a friend. We learn to love hun1anity 'by loving· s·pecific
+by coming to1 kn.ow wh 1at it me.ans! to be a child, a parent, a
+nei.ghbour., a friend. We learn to love hun1humanity 'by loving· s·pecific
 human beings. There is no short-cut. 12
 
 d
@@ -3014,15 +3014,15 @@ r
 
 -
 
-Nowhere is th.e singularity of biblical eth.ics ltlore evide:nt tha·n in
-its treatment of the iss·ue that has proved to ·be t:he 01ost difficu:lt in
-the history of hutnan in.teraction, na·mely the pro1blem of Ith,, stranger,
-the on.e w.ho is not like us. 13 M1ost societies at most titnes ·have been
-suspicious of, and aggressive toward, .stra.nge·rs.ll. T.hat is und1ers'landable,l even natural� Strangers are noln-kin. They come fr1om
-beyo:nd the tribe. They stand outsid·e the network of recip1rocity
-th.at ere.ates and sustains communities.I That is wha.t inakes the
+Nowhere is th.e singularity of biblical eth.ics more evident:nt tha·n in
+its treatment of the iss·ue that has proved to ·be t:he 01ost difficult:lt in
+the history of human in.interaction, na·namely the pro1blem of Ith,, stranger,
+the on.e w.ho is not like us. 13 M1ost societies at most times ·have been
+suspicious of, and aggressive toward, .stra.nge·rs.ll. T.hat is und1understandable,l even natural� Strangers are non-kin. They come fr1om
+beyond:nd the tribe. They stand outsid·e the network of reciprocity1reciprocity
+th.at ere.ates and sustains communities.I That is wha.t makes the
 Mos.aic books! unu,su.al in the history of' mar.al thought. As the
-ra'bbis noted, the Hebrew Bible in one verse co11nmands, 'You.
+rabbis noted, the Hebrew Bible in one verse co11commands, 'You.
 shall love yo,ur neighbour as yourself, hut in no fewer than 36
 places commands. us to ''lov 1e the str·anger·'·.
 Time and again it retu.rns to this theme·:
@@ -3069,7 +3069,7 @@ king, reaches its climax when Ruth says to Boaz (her 'redeemer'),
 'Why have I found favour in your eyes such that you recognize
 me, though I am a stranger' (2: 10). The human other is a trace of
 
-The Di_gni{r of Di/)eren(e
+The Di_gni{r of Di/)difference(e
 
 .
 hen a human
@@ -3079,7 +3079,7 @@ same. God makes e,·e�· person in the same image - His image -
 and each is different.· tti The challenge to the religious imagination
 is to see God's image in one who is not in our image. That is the
 con,·erse of tribalism. But it is also something other than
-uni,·ersalism. It takes difference seriously. The prophet Malachi
+uni,·universalism. It takes difference seriously. The prophet Malachi
 sa)·s to the Israelites, 'From furthest east to furthest west my name
 is great among the nations, says the Lord of Hosts, but you
 profane it .. . ' (1: 10). The God of Israel is larger than the specific
@@ -3089,7 +3089,7 @@ in the covenant of mankind. The prophets of Israel wrestle with
 an idea still counterintuitive to the Platonic mind: that moral and
 spiritual dignity extend far beyond the boundaries of any one
 ci,,ilization. They belong to the other, the outsider, the stranger,
-the one who does not fit our svstem, race or creed.
+the one who does not fit our system, race or creed.
 
 ,
 
@@ -3100,12 +3100,12 @@ Moses and the Israelites' from Egypt. Mesopotamia in the days of
 Abraham and Egypt in the age of Moses were the supreme
 economic and political powers of their time. Judaism has historically
 been a living alternative to empires, because imperialism and its latter-day
-succesJors, totalitarianism and fundamentalism, are attempts to impose a
-sin,gle regime on a plural uiorld, to reduce men to Man, cultures to a
+successors, totalitarianism and fundamentalism, are attempts to impose a
+sin,gle regime on a plural world, to reduce men to Man, cultures to a
 single culture, to eliminate diversity in the name of a single
 sociopolitical order.
 
-l'he faith of Israel declares the oneness of God and the plurality
+The faith of Israel declares the oneness of God and the plurality
 of man. It moves beyond both tribalism and its antithesis,
 universalism. Tribalism and its modern counterpart, nationalism,
 assumes there is one god ( or 'spirit' or 'race' or 'character') for
@@ -3324,7 +3324,7 @@ community, each part of the story of stories that is the narrative of
 man's search for God and God's call to mankind. Those who are
 confident in their faith are not threatened but enlarged by the
 
-Tht Dig11i�r oj. Difj�rtn(e
+Tht Dig11i�r oj. Difference�rtn(e
 
 different faith of others. In the midst of our multiple insecurities,
 \\·e need that confidence no,,·.
@@ -3343,8 +3343,8 @@ come to the same conclusion: see Gunton 1993. especially pp. 41-73.
 b'Q•) -1?
 , pp. �--, -·
 
-5. In his commenta11· Ha 'a"1tk Da,·a, to Genesis. chapter 11.
-6. Tosefta, Sanhedrin, Chapter 13; �laimonides, :�fishneh Torah, Teshuvah,
+5. In his commentary11· Ha 'a"1tk Da,·a, to Genesis. chapter 11.
+6. Tosefta, Sanhedrin, Chapter 13; �laimonides, :�Mishneh Torah, Teshuvah,
 
 3: 5.
 
@@ -3369,12 +3369,12 @@ I 7. Berlin 2002, p. 345.
 is 'from heaven', the second is 'not in heaven'. Mishnah, Sanhedrin
 l 0: I; Baba Met,t.ia 59b.
 
-20. Rabbi A. I. Kook, Onot, Jerusalem, 1990, 152.
+20. Rabbi A. I. Kook, Imperative, Jerusalem, 1990, 152.
 21. Mishnah, Avot, 4: I.
 
 Chapter 4
 
-Control: The lniperative of
+Control: The Imperative of
 Responsibility
 
 We are not mere instruments of the new economy. We are
@@ -3400,45 +3400,45 @@ Britain, race riots broke out in several towns in the Midlands,
 filling television screens with images of burning cars, looted shops
 and riot-shielded, baton-wielding police. The anti-global protests
 
-of Se,attle and elsewhere ha:ve turned out to, be not local incidents
-but the first tremors of an earthquake, a seis,lllic shift in th1e glob1al
+of Se,Seattle and elsewhere ha:ve turned out to, be not local incidents
+but the first tremors of an earthquake, a seis,seismic shift in th1e glob1al
 mood,. We have· moved. into o,ne of the most dangerous of all
-1enviro.nme.nts,: the politics of insiecurity.
+1environment.nme.nts,: the politics of insecurity.
 
-I want, in ·this chapter, to u·nde:rstand the nature of this
+I want, in ·this chapter, to u·nde:understand the nature of this
 insecurity, bec,ause it is this,. m10,re 'than ,anything, that gives rise to
-political and religious extr,emism and to the kind of authoritarian
+political and religious extr,extremism and to the kind of authoritarian
 populism that threatens free societies. In part, it has to do with the
-sheer pace of the, technological, cultural and, econotnic transformation.s through which we are living. But this canno1t be all., T,he
+sheer pace of the, technological, cultural and, economic transformation.s through which we are living. But this cannot1t be all., T,he
 nineteenth century· was also, a time of im·m,ense .change ..
-Indust:rializatio,n, t.he d,ev1elop1nent of railways and the, gro1wth
-of trad.e b,rought. about wre·nching alterations in. peo·pl1e's lives.
+Industrialization:Industrialization,n, t.he d,ev1elop1nent of railways and the, gro1wth
+of trad.e b,rought. about wre·wrenching alterations in. peo·pl1e's lives.
 There w,as a ·movement 1o·f popul.at Irons fro01 the countryside to
 towns. Wo1r'k moved fro:m h10,me to facto·ry .. Writers from Dickens
-to Dis.r·aeli spoke o:f child labour, poverty, th.e bleak u.rban
+to Dis.r·Disraeli spoke o:f child labour, poverty, th.e bleak u.rban
 'tw,o
-lan.dscape and new· forms of social division. (Disra:eli's
-nations''). U'rba.n crim,e ·was so widespread th,at it was. unsafe to1
+lan.landscape and new· forms of social division. (Disraeli:Disraeli
+nations''). Urban.n crim,e ·was so widespread th,at it was. unsafe to1
 ,walk city streets at. night. ·yet these problems, though. they ga,ve
 rise to social _criticism and political activism, did not generate the
-kind of u.ncertainty we feel toda.-y·. In Britain, at any rate, t'h.e
+kind of u.uncertainty we feel toda.-y·. In Britain, at any rate, t'h.e
 Victorian ,era was a time without rev10,lution. l.t was, in ·w,ays that
 se,em remote to us now, an age of·con·fidence. w·hat is it a.bo,ut ·OUf'
-present situatio:n that is so anxiety-creating and dest.abilizing?
+present situation:n that is so anxiety-creating and dest.destabilizing?
 
 i
 
 Q,ne factor is clear: the chan.ges thr·oug·h which w·e have lived
-have been th·e tnost rapid ,a,nd dram.atic, in the history ,of 01ankind.
-Th,e twe·ntieth. century a,Ion,e saw technical advance at a rate that
+have been th·e most rapid ,a,nd dram.atic, in the history ,of 01ankind.
+Th,e twe·twentieth. century a,Ion,e saw technical advance at a rate that
 has no preced,.ent. When it began th1ere had still been .no successful
 attempt at one of mankind's oldest dreams: powered flight. That
 dates to th.e W,ri.ght brothers in l903. The·re h,a,d 'be,en no
-tra.nsatlanti1c radio transmission. That we· o;we to Marconi in 1901.
+tra.transatlantic1c radio transmission. That we· o;we to Marconi in 1901.
 Today spa1ce shuttles ,are routine and. we ,c,an communicate
-instantly acr,oss the, ·worldt) A single centu,ry saw the birth of
-televis,ion,l the comp,utier,, the lnte,r·net, the laser beam,. the c.redit
-card, art1._1c1a_c 1nteJ 1g·ence, sate, 1te commun1cat1on, organ
+instantly acr,oss the, ·world) A single centu,ry saw the birth of
+television,ion,l the comp,computer,, the Internet,r·net, the laser beam,. the c.redit
+card, art1._1c1a_c 1Internet 1g·ence, sate, 1te commun1cat1on, organ
 transplantation and microsurgery. Journeys that a lifetime ago
 would have ta.k1en m.o.nths tod.a·y take hours. We have, sent spac1e
 
@@ -3499,10 +3499,10 @@ to respond. Early in the twentieth century, William Ogburn
 coined the concept of 'cultural lag'2 - a state, like now, in which
 material c ulture, such as technology, is being transformed faster
 than non-material culture such as modes of governance and social
-norrns. When the world out there is changing faster than the
+norms. When the world out there is changing faster than the
 world in here - in our mental and emotional responses - our
 
-environment becomes bewilde·ring an1d thre·ate.ning. Societies, tak.e
+environment becomes bewildering·ring an1d thre·ate.ning. Societies, tak.e
 time to change. So do people.
 
 .I
@@ -3534,27 +3534,27 @@ d F
 ,rom pan1.c a.n
 
 In 1994 I was makin.g a television documentary about th·e
-family. Du.ring the course of my research I came a,cros-s a woman
-who ha,d developed a pion.eeri.n,g a,pproach
+family. Du.ring the course of my research I came a,across-s a woman
+who ha,d developed a pion.pioneering.n,g a,therapeutic
 t.o the c·ure· of
-stammering amo,n,g ·young· children. S.he was using the faniily as
-a ther,apeutic unit. Her view was that dysfu·nrctional behaviour
-·was often reinfor1c1ed b.y family relationship.s, an.d that if sh,e was to·
+stammering amo,n,g ·young· children. S.he was using the family as
+a ther,apeutic unit. Her view was that dysfunctional·dysfunctional behaviour
+·was often reinforced1c1ed b.y family relationship.s, an.d that if sh,e was to·
 cure the child:ren she had to work with the pa.rents as well. As p,.art
-of her prograntrne she asked the parents to think of the m.ost
+of her programme she asked the parents to think of the m.ost
 precious o .. �ect t .. ey owne : ... · or some 1t was a. w -_ ..... : 1ng ring, ,or
-·Others a family heirloo,m, but for all of thent it was an item
-invested with d·eep 1emotional at.tachm,cnt. Then she told th.em to1
+·Others a family them,m, but for all of them it was an item
+invested with d·eep 1emotional at.attachment,cnt. Then she told th.em to1
 ·
 k d h
 "b
 h <II
-t 1e·m to · escn e t cir res.ponses.
+t 1e·m to · ascend e t cir res.responses.
 1mag1n.e os.1ng it, an., , as 1-e 1
 Th.·.'.·· .·· .. · .. :• ·d· •. t: 'I.
 . d' .··h-,. . -·k t·. ,d·, 1
 ·:-.:.·di . . ·.· ·. .
-s. oc . o - .eep sa ness an ._. ereave
+s. oc . o - .eep sa ness an ._. bereave
 ._ey vane
 ,- -
 ment. Then sh,e said: 'Now· you know what it will fee.I lik.e for your
@@ -3571,12 +3571,12 @@ h··td
 It was a moment of utter bewilder111e:nt. Until then th1e parents
 had all assumed th.at their child wanted to be able to speak
 no.rma.lly. Th,eir stammer im·peded the ·child's social li.fe. It 01.ade
-things difficult at sch.ool or a01o·ng frien.ds. It was, in sho,rt, a
-dysfunc:tion .. Wh.at the th,erapist wanted the parents to un.d.erstand.
-is that a dysfun1ction ,can sometimes be less fearful than. cha:nge
+things difficult at sch.ool or a01o·ng friends.ds. It was, in sho,rt, a
+dysfunc:tion .. Wh.at the th,therapist wanted the parents to un.d.erstand.
+is that a dysfunction1ction ,can sometimes be less fearful than. cha:nge
 itself: We ,get us,ed to ou.r disabilities land build them into1 our
 relationships. They become ·familia.r,l part of our world, .integral tor
-our self-imag·e, and the harclest thing ca.n be to let go.. 1Chan1ge,
+our self-imag·e, and the hardest thing ca.n be to let go.. 1Chan1ge,
 b d "'
 e ,� 1so.nent1.ng., t .··reat.en1ng,
 even c ange 10,r t ··e
@@ -3729,12 +3729,12 @@ in residential homes, showed that when they were able to decide
 for themselves when visitors were to be admitted, choose their
 meals from a menu and decide what they were going to do that
 
-day,, they felt h.ealthicr and actu1a.lly lived long.er ·than those whose!
+day,, they felt h.healthier and actu1a.lly lived long.er ·than those whose!
 decisions w·1ere t.a.ke.n for th·em by the staff. 8 Perceived la·c.k of
 control is stress-inducing and ,debilitating. If that. is our expe·ri.ence
 of many of the major dimensions 01f our lives, it too wou:l.d explain
-the systemic. a.nxie1ty th.at has become pa·rt of the tw·enty-firs.t
-century ntoo
+the systemic. a.anxiety1ty th.at has become pa·rt of the tw·enty-firs.t
+century too
 
 .
 d
@@ -3761,39 +3761,39 @@ d
 
 *
 
-I ·wa.nt, though., to tak.e the a.nalysis de1eper into the :subsoil of
+I ·wa.nt, though., to tak.e the a.nalysis de1deeper into the :subsoil of
 Wes.tern culture by looking· at a ce·ntral paradox in the leading·
-concept of the market age: the idea of choice itself: Conflict:ingl
+concept of the market age: the idea of choice itself: Conflict:ing
 messages a:re being se·n t by the market on the one hand, and the
 life and social sciences o.n the other. Supermarkets, t:he Internet
-and ·e-c1omJT1,erce have mu.ltiplied choice beyond the experien.ce of
-any previous generati,on. Wh.ateve:r we want, we c.an effe1ctively·
+and ·e-c1commerce1,erce have mu.multiplied choice beyond the experien.ce of
+any previous generation,on. Wh.whatever:r we want, we c.an effe1ctively·
 search th.e ·world within minutes and find it. I used to l.o·ve g·oing
 around secon1d-hand bookshops to see if I could spot a ti.tie I had
-·been looking for a.nd was currently· out of p·rint. It ntight take me
-years to tr·ackl down a pa.rticular· volume, and ·often did� Today,
-thanks to on-line tradin1g and the power o·f s,earc.h engines, the
+·been looking for a.nd was currently· out of p·print. It might take me
+years to tr·track down a pa.rticular· volume, and ·often did� Today,
+thanks to on-line trading1g and the power o·f s,search.h engines, the
 same p1rocess takes seconds .. I ty·pe in the name of the author an.d
-the title, and almost instantaneously I get back th.e r·esults from
-several tho,usand book tra.de:rs across, the world. I miss the sens·e 01f
-adventure and seren1d.ipity, b1ut the sheer c1onveni.c:nce more than
+the title, and almost instantaneously I get back th.e r·results from
+several tho,thousand book tra.de:rs across, the world. I miss the sens·e 01f
+adventure and serendipity1d.serendipity, b1ut the sheer c1convenience.c:nce more than
 comp 1en.sates for it. Ma.rkets maximize ch.oice.
 
-At the same time· a whole series of quasi-sc.ie:ntific determinisms
+At the same time· a whole series of quasi-sc.ie:scientific determinisms
 over the· p.ast four centuries. have convinced u.s that ch.oice is an
-illusion. Spinoza, Marx, Durkheim a.nd Freu1d, each in their own
+illusion. Spinoza, Marx, Durkheim a.nd Freud1d, each in their own
 way, ·undermined our i111.age of rn.an--the-choosing-animal. w·e a·re·
 what w,e ar1e,, th 1ey argued, not beca·use of wh.at we. have chosen to1
-be, b·ut because of' social structure, econoinic forces, histo·rical
+be, b·ut because of' social structure, economic forces, histo·rical
 inevitability o.r early child:hood conditioning .. True ·freedom, said
 .
 S ..
 p1noz,,a, 1s consciousness o necess.1ty.
 . ... e ways 1n w . .1c .·· we
 Th
-u·nde·rstan1d. th·e world, argu,ed Marx,. are actually the result 1of al
+u·nde·understand1d. th·e world, argu,ed Marx,. are actually the result 1of al
 successful att,empt by one class to1 m.aintain power over anothe·r,
-Even quintesse.n'tially personal decisions lik1e a.ctual or attempted
+Even quintessentially.quintessentially personal decisions lik1e a.ctual or attempted
 suicide, said Durkhei�, are social ph.e·nomena and ca.:n be
 
 h.. 'h
@@ -3872,7 +3872,7 @@ from a Midlands council estate:
 
 •
 
-At fifteen her hair was one day red, the next blond, then jetblack, then teased into Afro kinks and after that rat-tails,
+At fifteen her hair was one day red, the next blond, then jet black, then teased into Afro kinks and after that rat-tails,
 then plaited, and then cropped so that it glistened close to
 the skull ... Her lips were scarlet, then purple, then black.
 Her face was ghost-white and then peach-coloured, then
@@ -3927,7 +3927,7 @@ everything but the value of nothing - reminding us that value
 inheres in those things (love, loyalty, altruism, faithfulness) that
 are not marketable; that are earned, not bought; part of who we
 
-Control: The Imperative of R.esponsibil£ty
+Control: The Imperative of R.Responsibility£ty
 
 are, not wh.at we own .. A culture· in. which everything ,can be
 . .
@@ -3953,23 +3953,23 @@ d
 
 Increasingly, w.hat w1e' buy are not only goods but personal
 services. This. too has a. narrowing, effect on actio,n by tur.ning th.e·
-thin.gs. 'W'e once did penonally or togeth.er into comm.odities w·e,
+thin.gs. 'W'e once did personally or together.er into comm.odities w·e,
 purch.ase :for a p.rice. In the course of the, nineteenth and tw·en.tieth
-centuri.es n1·uch of this took place in the form of .a transfe·r of
+centuries.es n1·uch of this took place in the form of .a transfer·r of
 responsibility - for -educ.atio-n, welfare·, health and law en.forc-e­
-·ment - from. f�ltnilies and com1nunities1 to the state. Toda·y, it has
+·ment - from. f�families and com1communities1 to the state. Toda·y, it has
 moved bey·ond. th.e, state to the market. Vast swathes 1of person.al
-r·elationship h,ave been comntodified and offered for sale, .in a
-seentin_gly endless proliferation of n.ew services: counscllo·rs,
+r·relationships h,ave been commodified and offered for sale, .in a
+seemingly_gly endless proliferation of n.ew services: counselors·rs,
 ..
-sp1.r1tua gu1. es, p1ersona
+sp1.r1tua gu1. es, p1personal
 h
 "'d
-tra1ne·rs, st.y e a._ v1sers., si' 'Op1p1.ng
+tra1ne·rs, st.y e a._ v1advisers., si' 'Op1p1.ng
 d .
 'b"
 . 1c.s 1.n•
-·massage t' -.erap1sts .. , aromat ·er·ap1sts, ae·ro1
+·massage t' -.erap1sts .. , aromatherapists ·er·ap1sts, ae·ro1
 l
 co,nsu tan ts,
 .
@@ -3980,7 +3980,7 @@ co,nsu tan ts,
 · · ·
 f-; h·
 -·1 · ·
-structors, exercise c. ras,s ea. ers
+instructors, exercise c. ras,s ea. ers
 · h
 t e w _o e spect.rum o w ... at
 Robert Reich calls 'paying for .attention'., 14
@@ -4063,22 +4063,22 @@ a,
 
 -
 
-W:hat -once m.ade rel.atio.nships constitutive of personal ide.ntity
-and self-re.spect is pr,ecisely the fact that they stood outside t.he
+W:hat -once m.ade rel.atio.relationships constitutive of personal ide.identity
+and self-re.spect is pr,precisely the fact that they stood outside t.he
 wo,rld o;f co-ntr·acts and 01ark,et exc.h.ange,,
 :Family·, friends,
-neighbou·rs, ·me:ntors, were people to whom y·1ou wer-e bound by
+neighbors·rs, ·me:mentors, were people to whom y·1ou wer-e bound by
 moral reciprocity. ·what was impo1rtant is that they were there in
 bad. times as ·well as. good; wh,en y·ou needed them, not w.hen you
 hey told you. things y-ou didn't want to hear
 could pay fo·r them .. T
 as well as the things you did. Comp-are that to the marketization
-of friendship in the form 10,f the advertise·rne.nt: for a 'pe·rsonal
+of friendship in the form 10,f the advertise·rne.nt: for a 'pe·personal
 coach' quoted, by Robe·rt Reich: 'Best friends ar,e wonderful to
-h.ave. B·ut is ·your best friend. a. profe.ssio-nal w.ho you will trust to
+h.ave. B·ut is ·your best friend. a. profe.professional-nal w.ho you will trust to
 ?' The
-work ·with you, on the most important aspe-cts of your life
-answer to this rhetorical question is Yes: you lrust a friend
+work ·with you, on the most important aspects-cts of your life
+answer to this rhetorical question is Yes: you trust a friend
 precisely because you do not pay for his or· her friendship.
 
 .
@@ -4086,8 +4086,8 @@ precisely because you do not pay for his or· her friendship.
 .
 
 1The ever increas.in.g demands of wo.rk ·mean that people· ha·ve
-less, tinie to spend on relationships. - children, par1ents, frie,nds,
-fellow 01enibers of a con.gregation, co-workers in v·oluntary· an-d
+less, time to spend on relationships. - children, par1ents, frie,nds,
+fellow 01members of a con.gregation, co-workers in v·oluntary· an-d
 philanthropic groups - which further narrows and fragments our
 sens,e of self, as well as cr-e·ating new social 1divides betwe1e·n th.ose
 .
@@ -4226,7 +4226,7 @@ again, I realized that I was learning about more than the
 deceased. I was being educated into what makes a life well lived.
 It had little if anything to do with the values of a market society
 
-Control: The lmpera'livt 1ef Responsibility
+Control: The imperative 1ef Responsibility
 
 .
 
@@ -4237,18 +4237,18 @@ Control: The lmpera'livt 1ef Responsibility
 r. al
 
 il!
-ak crifi
+ak crisis
 :
 
-and every'thing to do with :moral principle - good deed,s, caring
-re a t1ons1 · 1ps., .a w1 -ngness to m e sa ·' - -_ ces ,or· v · .u,es o.ne · - r I not
+and everything to do with :moral principle - good deed,s, caring
+re a t1ons1 · 1ps., .a w1 -willingness to m e sa ·' - -_ ces ,or· v · .u,es o.ne · - r I not
 construct oneself, belonging to a. community 1dedicated to the
-pursuit of ideals. These are the values that giv1e· contin.uity an.d
-dignity to a life. They a.re a. la.rge part of what mos.I ofus understand
-by happine§ .. They are ·curiously egalitaria.n. The·y are about what
+pursuit of ideals. These are the values that giv1e· contin.continuity an.d
+dignity to a life. They a.re a. la.rge part of what mos.I of us understand
+by happiness§ .. They are ·curiously egalitarian.n. The·y are about what
 we do and are, not about powe.r or wealth,,, s·ucc.ess or ·prestige. They
-a·re strikin.gly· at odds with the assu111ptions o.f a consumer society o.n
-the one hand., scientific 1deterr11inism on. th·e other,.
+a·re strikingly.gly· at odds with the assu111ptions o.f a consumer society o.n
+the one hand., scientific 1determinism11inism on. th·e other,.
 
 d
 
@@ -4260,27 +4260,27 @@ Morality is integral to the ecology· of :hope· becau.se it Joe.ates
 social change .at a level at ·w.hich we can ma.k.e a. difference throu.gh
 th.e acts W1e do., the prin.ciples. by w·hich we live, a·nd the
 relationships w,e create. It sees u.s as something other th.an
-replac.eable parts of an economic system; it grants us a form 101f
+replaceable.eable parts of an economic system; it grants us a form 101f
 independence from th·e whims and passing .interests of 1ot.he·rs.
 Within a moral com111u.nity, rn:arria.ge giv,es, perina.nence to love.,
-Loyalt.y ,gives strengt·h to parenthood. Education bec·Otn1es a
-conv·ersation between th.e 1generatio-.n,s. Kinship and cov·enant :link
-us to o·u.r fe·llow hu·man beings so that they know th·ey can rely on
-us and we .know ·we ca.n rely 01n them. The knowled.g-e, that we ,ar·e
-strangers tea-ches 'US t-o r,eac.h beyond the ho1undary, of 'u:s' and
-extend frie·ndship and reciprocity to 'thetn.''. T'he knowledge, too,
-th.at the earth is not ou.rs, tha·t we are tempor·ary ·residen.-ts,I h-eirs 01f
-those who 1ca01e befor·e u.s and gu.ardians for ·th.ose who will 1Co·me
+Loyalty.y ,gives strength·h to parenthood. Education bec·Otn1es a
+conv·ersation between th.e 1generations-.n,s. Kinship and cov·enant :link
+us to o·u.r fe·fellow hu·man beings so that they know th·ey can rely on
+us and we .know ·we ca.n rely 01n them. The knowledge.g-e, that we ,ar·e
+strangers tea-ches 'US t-o r,eac.h beyond the ho1boundary, of 'u:s' and
+extend frie·friendship and reciprocity to 'them.''. T'he knowledge, too,
+th.at the earth is not ou.rs, tha·t we are temp·ary ·residents.-ts,I h-heirs 01f
+those who 1ca01e before·e u.s and gu.guardians for ·th.ose who will 1Co·me
 after us in turn, steers us away from the destructive impuls-e -
-whether· to w.ar or pr,ernature ge·netic inte:rvention or excessive
-exploitation --- which. m.ay S01meti1nes com.1e to those ·who have· ·n.o
-stake in a fUt·u·re beyond their lifeti.:m.,e.
+whether· to w.ar or pr,premature ge·netic inte:intervention or excessive
+exploitation --- which. m.ay S01sometimes1nes com.1e to those ·who have· ·n.o
+stake in a fUt·u·re beyond their lifetime.:m.,e.
 
 It ·rna·y well be that religious communities are one: of th,e few
 environ01ents in wh:i 1ch these values ar·e still su.stained.� Certainly
-Du.rkhei01,. a century ag·o, argued that this ·was o,ne 01f 'their
-p1rimary fun,ctions: to embody c,ollective ju.dgernents on the good,
-the. mor,ally valuable, the holy. This its1elfma.y ·be a .. reason why, in
+Du.Durkheim01,. a century ag·o, argued that this ·was o,ne 01f 'their
+p1primary fun,ctions: to embody c,ollective ju.judgments on the good,
+the. mor,ally valuable, the holy. This its1itself.y ·be a .. reason why, in
 large parts of the world, religion has had such a revival. The idea
 that happiness is to be found in getting and spending, the fiction
 
@@ -4326,9 +4326,9 @@ moral issues are private - if we did, there would be no protests on
 
 Control: The Imperative of Respons·ibility
 
-environtnental or human rights issues, no publi,c moral d.ebate at
+environmental or human rights issues, no publi,c moral d.debate at
 aU. Yet the questio.n. is r,eal and urgent: how do w.e live with moral
-differ,en,ce and yet sustain an ove·rarching co·mmun.ity?
+differ,en,ce and yet sustain an ove·overarching co·community.ity?
 
 ,'
 
@@ -4414,31 +4414,31 @@ h · h
 
 The· an.sw·re·r, I h.a.v·e· already ,s·uggested, is conversation - not mere
 .
-_1sc1p 1ne. ac.t o c.om1numcat1ng . ma. _1ng m.y
+_1sc1p 1ne. ac.t o c.om1communicating1ng . ma. _1ng m.y
 e .. ate .. ut t. e
 r·
 b
 d b
-views inte.lligible to someone who docs] n.ot share· th.em) and
+views inte.intelligible to someone who docs] n.ot share· th.em) and
 listening (entering into the inner· world or· som.eo1ne whose views
-.are opposed to m·y own). Each is. a genuin1c form. of re.s.pect, 01f
-payin.1g .attention to t.he other, of conferrin.g value o·n his or her
+.are opposed to m·y own). Each is. a genuine1c form. of re.s.pect, 01f
+paying.1g .attention to t.he other, of conferring.g value o·n his or her
 ·1
 t. ey are not mine. n a - e ·. ate one si I e·
 op1n1:onS1 even t 1 - ou,g : 1
-wins, the 0th.er loses, b,ut both a·re th1e· saine as th·ey· were· ·befo.re. In
+wins, the 0th.er loses, b,ut both a·re th1e· same as th·ey· were· ·before.re. In
 a conv,ersation neither side loses an.d both are change<t, because
-they no·w kno,w what reali1ty· looks like from a. different perspectiv1e.
+they no·w kno,w what reali1ty· looks like from a. different perspective1e.
 That is. n,o·t to s,ay that ·either gives up its[ previous convictions.
 That is not what ·COnversa·tio,n is about. It 1does mea.n, however,
 th.at I ·01ay now realize that I tnust ma:ke space· fo .. r a.n.other dee·ply
-held beliet and if my own case has been co·mpelliog, the othe·r sid,e
+held belief and if my own case has been co·compelling, the othe·r sid,e
 may und·erstand that it too must make spac:e for mine� That is.
-how· public m.orality· is construct·ed in a plu.ral society - n,oit by a.
+how· public m.morality· is construct·ed in a plu.ral society - n,oit by a.
 single don1in.ant voice, nor by the ·relegation o.f moral issues to the
 private domain of hom.e and local congregation, but by a
-sustained act of u.ndersta.nding a.nd seeking ·to be understood
-across the boundari.es of diffe,re·nc1e.
+sustained act of u.understanding.nding a.nd seeking ·to be understood
+across the boundaries.es of diffe,re·nc1e.
 
 .d-
 
@@ -4469,7 +4469,7 @@ h
 In a plural society - all the more· so in a ·plural worl.d -· each of
 ·us has t10 settle fo.r less. th.an. we d.o wh.en we associate with fellow
 believers. A Catholic may believe ·that abortion is murder, a J·ew
-or M·usli1n that sex outside marriage is forbidd·en, and these
+or M·usli1n that sex outside marriage is forbidden·en, and these
 .
 1·r..
 11e WJt: 1n our respective commun1t1es o�
@@ -4478,15 +4478,15 @@ r·
 faith. But we :cannot seek to h.ave the,rn imposed by ·force of law on
 ...
 r· ·
-t ose w . o a,re not rnern ._ ers. o our con1niun1ty I t. ere are ot er
+t ose w . o a,re not members ._ ers. o our con1community1ty I t. ere are ot er
 h
 groups who se.riously disagree a.nd 'Ina.k,e .a 1compelling case fo.r the
 right to construct a life a)o.ng differ·e·n.t lines1� Yet what we, lose is
-niore than c.ompensated fo·r by the fact that together w.e are c10-
-architects o·f .a society larger· than we could ·C·onstruct on our own,
+more than c.compensated fo·r by the fact that together w.e are c10-
+architects o·f .a society larger· than we could ·C·construct on our own,
 o.ne in which our voice, is heard and attended to even if it d,oes. not
-carry the day. J·ust as. co,rnmunity· is built on the willingness. to let
-the 'I' be shaped by· the ''We'', so society i.s lllade ·b·y the readiness
+carry the day. J·ust as. co,community· is built on the willingness. to let
+the 'I' be shaped by· the ''We'', so society i.s made ·b·y the readiness
 
 ·r h
 
@@ -4742,7 +4742,7 @@ Defend the cause of the fatherless,
 Plead the case of the widow ...
 Your silver has become dross,
 
-Contrih,ution.· The M o,ral Case for th,e Market Economy
+Contribution,ution.· The M o,ral Case for th,e Market Economy
 
 -
 
@@ -4762,7 +4762,7 @@ e
 Y
 our c .01ce wine is
 Your rulers are rebels, companions of thieves;
-They all love b,ribes and c,hase after gifts. (Isaiah 1: 17�,2,3)
+They all love b,bribes and c,chase after gifts. (Isaiah 1: 17�,2,3)
 
 I ute. wit water,
 •. h
@@ -4783,36 +4783,36 @@ di
 
 The perennial temptations of th.e market - to pursue gain at
 SOD1eone else'',s expen,se, to take adv,antag,e of ignorance, to, treat
-etnployees with indifference - needed to be fo,ught against.
-Canons of fair tr,ading and conditions of employme,nt have, to be
-1esta.blished a.nd poli,c1ed. From a Jewish perspective this is part of
+employees with indifference - needed to be fo,ught against.
+Canons of fair tr,ading and conditions of employment,nt have, to be
+1esta.established a.nd poli,c1ed. From a Jewish perspective this is part of
 the religious life, bec.ause th.e relatio,nship between man and God
-ca.nnot be d,ivorced. fr,om th.at between m.an and man. Morality
-belon,gs no less in the boardroom than in the bedr,oom:, in the
-market-place as, m.u1ch, as in a ho,use 1of p,rayer.
+ca.nnot be d,divorced. fr,om th.at between m.an and man. Morality
+belon,gs no less in the boardroom than in the bedroom,oom:, in the
+market-place as, m.u1ch, as in a ho,use 1of p,prayer.
 
-Of any economic s,ystern we must ask: Does it enh,a:nce human
-,di_gnity? Does it create self-respect? Does it enco·ura,ge creativity?
+Of any economic s,system we must ask: Does it enh,a:nce human
+,di_dignity? Does it create self-respect? Does it enco·ura,ge creativity?
 Does it allow· everyone to participate in 'the material blessings of
 thi.s ,created world? Does it sustain a clim.ate o·f equal re,gard - for
 employees as well a·s employ1ers, th,e poo1r no less than th.e rich?
 Does it protect the vulnerable and help tho,se in need to escape the
-trap of need? Does it ens-ure· that no one lacksl the n1eans for a
-dignified existe·nce? .Do those who succeed share their' blessings
-with those who have less? Does the ec-ono,mic system str,e·ngthen
+trap of need? Does it ens-ure· that no one lacks the n1eans for a
+dignified existence·nce? .Do those who succeed share their' blessings
+with those who have less? Does the ec-ono,mic system str,e·strengthen
 the bonds of human solidarity? And does it know its own. limits -
 does it reco,gni:ze· that its valu,es, are not the only values,, th.at the.re
 is more to life than a perpetual striving after wealth, that the
-market is not the only mec.hanism of distributio,n, a.nd that an
-ec.on.ornic system is a mea.ns n,ot an e·nd?
+market is not the only mec.mechanism of distribution,n, a.nd that an
+ec.on.economic system is a mea.ns n,ot an e·nd?
 
-These are th,e questions we mu,st. ask, of ,global ca·pitalis,m, if we,
-are to exercise responsibility. The e·thical im.perative· is ubiquitous
-and non-·ne,gotiable. Beyond every 'is'' lies the claim of 'ought'. No
-,s,ysrten1 - not scientific or political or e,conomic -- is self�justifying,
-worth'y of endo,rsem,ent just b,ecau.s-e it hap,pens to be what it is.
+These are th,e questions we mu,st. ask, of ,global ca·capitalism,m, if we,
+are to exercise responsibility. The e·ethical im.perative· is ubiquitous
+and non-·ne,negotiable. Beyond every 'is'' lies the claim of 'ought'. No
+,s,system1 - not scientific or political or e,economic -- is self�justifying,
+worthy of endorsement,endorsement,ent just b,ecau.s-e it hap,pens to be what it is.
 Th.at is what I want t.o e,xplore i:n this a.nd the next four chapte·rs,
-be_gi:nning with the market itself and th,e values it 1embodies and to
+be_gi:beginning with the market itself and th,e values it 1embodies and to
 w _··1c. _ 1t gives .nse.
 
 h. h .
@@ -4836,7 +4836,7 @@ contribution of Islam to the development of finance and trade is
 significant and goes back as far as the eighth century, when
 Baghdad and Basra became world centres of commerce. The vast
 extent of the Islamic empire encouraged trust and trade between
-distant lands, and the Hanafite school of Islamic jurisprudence, in
+distant lands, and the Hanafi school of Islamic jurisprudence, in
 particular, pioneered in the development of business contracts.8
 So there is no specifically Jewish association with the market
 economy. Undeniably, though, Jews did play an important part
@@ -4912,7 +4912,7 @@ paper, porcelain and explosives. Why then was it Europe that
 leapt ahead in the nineteenth century? Landes' answer has been
 challenged by some scholars, but it is broadly this: that culture, not
 natural resources, climate or other material factors, makes the
-difference. Europe had what China did not: a J udeo-Christian
+difference. Europe had what China did not: a J Judeo-Christian
 ethic.
 
 Landes identifies several significant features of this ethic. First
@@ -4946,7 +4946,7 @@ The central question therefore is: how do we build social
 structures that honour and sustain the freedom, integrity and
 creativity of the individual? The brief answer is that the Hebrew
 Bible is an extended critique of what we would today call big
-governme�t. At one extreme is the biblical portrait of ancient
+government�t. At one extreme is the biblical portrait of ancient
 Egypt, a nation which builds extraordinary buildings but at the
 
 Contribution: The Moral Case for the Market Economy
@@ -4977,7 +4977,7 @@ invasion on the other. Long before Hobbes, Locke and Jefferson,
 therefore, biblical Judaism is a theory of limited government. This
 principled insistence on the moral limits of power is the only
 secure defence of the individual against the collective, whether it
-be the tyranny of kings or whatJohn Stuart Mill, following Alexis
+be the tyranny of kings or what John Stuart Mill, following Alexis
 de Tocqueville, called the 'tyranny of the majority'. God, in the
 Hebrew Bible, seeks the free worship of free human beings, and
 two of the most powerful defences of freedom are private property
@@ -4996,7 +4996,7 @@ to build the ark. The high value Judaism sets on work is well
 brought out in the following passage:
 
 Rabbi Shimon hen Elazar said: Great is work because even
-Adam did not taste food until he had perforrned work, as it
+Adam did not taste food until he had performed work, as it
 is said, 'The Lord God took the man and placed him in the
 Garden of Eden to till it and preserve it' (Genesis 2: 15).
 Only then do we read, 'The Lord God commanded the
@@ -5049,7 +5049,7 @@ This is in marked contrast to the ethics of ancient Greece.
 Plutarch, for example, says that we may be pleased with a piece of
 work while still regarding those who produced it as 'low and
 sordid people'. In Plato's Gorgias, Socrates asks Callicles whether
-he would perrnit his daughter to marry the son of an engineer.
+he would permit his daughter to marry the son of an engineer.
 Aristotle concedes that a society needs agricultural workers and
 craftsmen, but their work is for serfs and slaves, not free citizens of
 the polis. In Greek myth the gods did not work, unlike Genesis in
@@ -5203,15 +5203,15 @@ through redistributive taxation than by creating a society in
 Cont·rih·ution: The .M,oral Case Jo.r the· Market Economy
 
 w.hich the poor had access to h,elp· when they need.ed it, through
-chari ty to be sure, but also and especially· through job creation ..
-Hen.cc with w·ealth came res-'ponsi.bility� Richesse oblige� Successful
+charity ty to be sure, but also and especially· through job creation ..
+Hen.cc with w·ealth came res-'responsibility.bility� Richesse oblige� Successful
 businessm.en. and wo.men ( the famous 3 1 st cha.pter of Proverbs, 'A
 woman of stren.gt.h who can find?'' is essen tially· a. hyn1n ,of praise to
 the businesswoman) were expected to S·et an example oi:f ·public
-ge.nerosity an·d communal leaden,hip. ,Conspicuous. co,.nsumption
-was frowned upon, and p·eriodically ·ba.nned through loc.al
+ge.generosity an·d communal leaden,hip. ,Conspicuous. co,.consumption
+was frowned upon, and p·periodically ·ba.banned through loc.al
 '
-su.mptuary aws· . · lD·C·e wca t .. : w·as a - l'Vtne
+su.sumptuary aws· . · lD·C·e wca t .. : w·as a - divine
 bl
 ·
 , ess1ng, 1.t car.r1 .·_
@@ -5227,39 +5227,39 @@ I h
 
 ·
 
-What is therefore mor,ally una.cceptable a.bout the new
+What is therefore mor,ally una.unacceptable a.bout the new
 economy· :fro,m la Jewis.h point or· vie·w i,s not the free mark,et itself,
 but the break.down it is creating in the sense of social solidarity,
 the increasing segre1gation of the wealthy from the poo·r, and th.e
 waning sense of the responsibilities of su.cc.ess -· what J ..
 . K,i
 Galbraith called 'the culture of contentment' . 39 As corporations
-,and their hig.h-·flyers ,are ·fr·ee to relocate, their co.ntrib·ution to the
+,and their hig.h-·flyers ,are ·fr·ee to relocate, their co.contribution·ution to the
 tax ·bu.rden. - and thus to collective p.ro·vision of education, health
-.and. w·,elfare - h.as ste.adily· decli.necl . Th.e new class - the 'symbolic
-analysts' - is less enga.g,ed with the disad·vanta.g,e1d, less likely to
-m 1eet and 01ix with them, and less inclin.ed to u.se pu.blic seivice.s,
+.and. w·,elfare - h.as ste.steadily· decli.declined . Th.e new class - the 'symbolic
+analysts' - is less enga.g,ed with the disad·disadvantaged.g,e1d, less likely to
+m 1eet and 01ix with them, and less inclined.ed to u.se pu.blic services.s,
 than wer·e th.eir predecessors. Th.at is ·wro.ng. It turns poverty into
 [social exclusion and threatens to mak.e it .a fa·te passed 10n across
-the g·e.nerations. I t 01ean,s. that wealth, instead of strength,eni.ng
+the g·e.generations. I t 01ean,s. that wealth, instead of strength,eni.ng
 k
 ·ens 1t.
-comm.unrty, wea '
+comm.community, wea '
 
 e
 
 The rabbis favoured markets and ,co111petition because they
 gener·ated ·wealth , lower,ed. p1ri,ce·s, in,c.reased choice, reduced
 absolute lev·els of poverty, and in the course ,of time extended
-hurnanity·'s control over the environment, narrowing· the· ex.tent to
+humanity·'s control over the environment, narrowing· the· ex.tent to
 which ·we are the passive victims of circumstance and fate ..
 Competition rele,ases ene·rgy an.d creativity., but it must also serve
-the ge·neral good . 1So Jewish. law ·permitted protectionist policies
-whe·n t.h.e .. y were essential t.o s.afeg·uard. the
+the ge·general good . 1So Jewish. law ·permitted protectionist policies
+whe·n t.h.e .. y were essential t.o s.safeguard·uard. the
 local econ.omy,
 especially when the· ,outsid.e t.rad,er did not pay taxes. There wer·e
-also tinies when the rabbis intervened to lower prices of· essential
-conitnodi ties.. Provided.,, therefore, that the free market went hand
+also times when the rabbis intervened to lower prices of· essential
+commodities ties.. Provided.,, therefore, that the free market went hand
 
 9- 9·-,1 '
 
@@ -5399,7 +5399,7 @@ Contribution.�· The Mor4l Case for the Markel E,,onomy
 on·e anoth,er a,nd from their seve·ral and d.ifferent skills. The
 interlinking· of n.ations in a n:etwork of ·t.rade· causes ·many
 proble01s, to 'Which I now tu·rn. B1ut it. is also our l.as·t best hope
-for peace. Unlike th,e ·battlefiel,d, 'the market is, an are·na in which
+for peace. Unlike th,e ·battlefield,d, 'the market is, an are·na in which
 both sides can win .
 
 .
@@ -5407,7 +5407,7 @@ both sides can win .
 I . Fried,.man 200(),, pp" I O I � J l .
 2. Soros 1998.
 3. Babylonian Talmud, Sliabbat, p� I I 9h.�
-4. Mekhilta to Ex·odus 1 5: 26...
+4. Mekhilta to Ex·Exodus 1 5: 26...
 5. Babylonian Talmud,, Baba Kamma,, p. 30a.
 6.. w·eber 1 985.
 7. Novak 1 99.3.
@@ -5416,19 +5416,19 @@ I . Fried,.man 200(),, pp" I O I � J l .
 l O. See Buber 1 996.
 1 1 . See Dennis and Halsey 1 988,.; D1ale 2000.
 1 2 . Plato, 'Tht1 R�/J.u·bli,., Book IV, Chapter 2; 1915.5, p1p. 1 6 1 -Si
-1 3 � Aristo1tle, TM Polilics, p. 1 3'28b4 1 ; 1 988, p. 1 68.
+1 3 � Aristotle1tle, TM Politics, p. 1 3'28b4 1 ; 1 988, p. 1 68.
 1 4. Qu,oted in Hirschma.n 1 997, p. 1 06.
 1 5. See Acton 1. 993, pp., 3·2�3.
 1 6. Quoted. in Acton I 993, p., 5 7 .
 1 ·1 . Landes 1 998 ...
 1 8. Mishnah Avot (Ethics· oj' IM Fatlur1) , 2: 2.
 1 9 .. A.vot de Rabbi Nalan.,. Chapte·r I I .
-20. Bab·ylonian Talmud, .BerakAot, p. Ba
-2 1. . Babylonian Talmud, P,sachim, p. I :t 8.a ...,
+20. Bab·Babylonian Talmud, .Berakhot, p. Ba
+2 1. . Babylonian Talmud, P,P'sachim, p. I :t 8.a ...,
 22. R.a.'bbenu Bachya., Kad haknnach. Quoted i.n Tam.ari ·1 1987,, p. 3 1 ..
 23,. Mai1nonides, Mishneh Tor/JR, Laws o,f Theft, 6: 8- l l �
 2'4. See Meilaender 2·000', p. 16.
-25. T1osefta, Kitldrukin, I .: 1 1 �
+25. T1Tosefta, Kitldrukin, I .: 1 1 �
 2:6. Maim.onides., Mishneh Torah, L.aws of Torah S1t.ud.y, 3 : 1 0.l
 27 . See 1Stitskin 1. 982', p. 8,3.
 28·., Jerusalem Talm.ud, Berakhot, 9: 2.
@@ -5490,7 +5490,7 @@ macro-economics. In each individual transaction, both sides gain.
 But when the results of billions of transactions are aggregated,
 their effects can be, and often are, massively inequitable. That is
 something globalization has magnified, not diminished. It turns
-the planet into a single market with highly mobile funds and nearperfect information and competition. Investment moves from
+the planet into a single market with highly mobile funds and near perfect information and competition. Investment moves from
 country to country, seeking maximal returns without regard to
 human consequences. Our world is getting less equal by the year.
 That inequality exists both within and between countries. In
@@ -5654,7 +5654,7 @@ Often it is invested in sectors with quick gains, fuelling property
 booms while leaving long-term growth untouched. Stiglitz
 compares some of the economic policies imposed by the
 International Monetary Fund on poor countries to setting small
-boats loose on a rough sea. Even if the boats are sound and wellcaptained, they are likely to be hit broadside by a big wave and
+boats loose on a rough sea. Even if the boats are sound and well captained, they are likely to be hit broadside by a big wave and
 capsize. 7
 
 Nor has help always come from multinational corporations.
@@ -5670,9 +5670,9 @@ local misery and disruption do not accrue to them. Even if they
 did, most multinationals have divested themselves of ownership of
 their manufacturing base, which is now contracted out. Corporate
 responsibility of first-world companies for third-world economies
-has become diffuse and easily evaded. Multinational firrns have
+has become diffuse and easily evaded. Multinational firms have
 become the targets of a growing protest movement, documented
-in Naomi Klein's No Logo, by people rightly concerned at highprofit companies factoring out their production to countries where
+in Naomi Klein's No Logo, by people rightly concerned at high profit companies factoring out their production to countries where
 workers labour for long hours at low pay in insanitary conditions.
 There is a strong case for international regulation to improve
 wage-rates and work conditions. But there is also a convergence of
@@ -5703,7 +5703,7 @@ domestic welfare. Under conditions of total mobility of production, work goes to
 
 1 10
 
-Co mpassion: The Idea of Tzedakah
+Co Compassion: The Idea of Tzedakah
 
 ment is exported, which means, in the short ter1n at least, that
 unemployment is imported. This may benefit some in the
@@ -5730,7 +5730,7 @@ largely out of anyone's hands. One development seems to
 have sparked the next, without any clear decision having
 been made about consequences. No one explicitly decided
 that technologies of communication, transportation, and
-infortnation would advance as quickly as they have. Or that
+information would advance as quickly as they have. Or that
 these technologies would push the economy from large-scale
 production toward a wide array of innovative products and
 services, with easy switching to better ones . . . Nor,
@@ -5789,7 +5789,7 @@ power.' 10 Early Israelite religion was the attempt to create a
 
 1 1 2
 
-Compassion: The idea ofTzedakah
+Compassion: The idea of Tzedakah
 
 'heterogeneous, classless, decentralized association of tribes
 conceived as a brotherhood - and at least in larger measure than
@@ -5822,7 +5822,7 @@ through which the guilty are punished, the innocent acquitted
 and human rights secured. Tzedakah, by contrast, refers to
 distributive justice, a less procedural and more substantive idea.
 It is difficult to translate tzedakah because it combines in a single
-word two notions norn1ally opposed to one another, namely charity
+word two notions normally1ally opposed to one another, namely charity
 and justice. Suppose, for example, that I give someone £100.
 Either he is entitled to it, or he is not. If he is, then my act is a
 form of justice. If he is not, it is an act of charity. In English (as
@@ -5834,7 +5834,7 @@ both.
 1 1 3
 
 I t arises from the theology of Judaism, which insists on the
-difference between possession and ownership. Ul tima tely, all
+difference between possession and ownership. Ul ultimately tely, all
 things are owned by God, creator of the world. What we possess,
 we do not own - we merely hold i t in trust for God. The clearest
 example is the provision in Leviticus: 'The land must not be sold
@@ -5858,7 +5858,7 @@ that no one should be without
 What tz_edakah signifies, therefore, is what is often called 'social
 the basic
 justice', meaning
-requiremen ts of existence, and that those who have more than
+requirements ts of existence, and that those who have more than
 they need must share some of that surplus with those who have
 less. This is absolutely fundamental to the kind of society the
 Israelites were charged with creating, namely one in which
@@ -5957,7 +5957,7 @@ last provision was open to
 1-2). This
 circumvention, so the Bible warns explicitly against it:
 
-Compassion: The Idea of Tzcdakah
+Compassion: The Idea of Tzedakah
 
 Be careful not to harbour this wicked thought: 'The seventh
 year, the year for cancelling debts, is near', so that you do
@@ -6010,7 +6010,7 @@ corrective to the market by restoring a level playing field to those
 who have been forced to sell either their labour or their land.
 They break the cycle of poverty and dependence.
 
-With the transition, some 2,000 years ago, from biblical to postbiblical Judaism, we find a greater emphasis on t;:,edakah, the
+With the transition, some 2,000 years ago, from biblical to post-biblical Judaism, we find a greater emphasis on t;:,edakah, the
 direct provision of financial aid, as opposed to agricultural
 produce. Israel had become less of an agrarian economy, more a
 society of small businesses and trade, and rabbinic law is a
@@ -6030,7 +6030,7 @@ this to include gifts as well as loans. More importantly they read it
 as offering a definition of the kinds of poverty they were called on
 to address:
 
-Sufficient for his need - means that you are cornmanded to
+Sufficient for his need - means that you are commanded to
 maintain him, but you are not commanded to make him
 rich. That which he lacks - means even a horse to ride on and
 a slave to run before him. It is told of Hillel the elder (head
@@ -6065,7 +6065,7 @@ meaning that they were not to be treated as servants of any human
 being. Freedom presupposes self-respect, and a free society will
 therefore be one that robs no one of that basic human entitlement.
 One element of self-respect is independence. This explains a
-remarkable feature of tzedalcah legislation. Maimonides lists the
+remarkable feature of tzedakah legislation. Maimonides lists the
 various levels of giving-to-others, all except one of which involve
 philanthropy. The supreme act, however, does not:
 
@@ -6160,7 +6160,7 @@ applied socially, today applies globally. The scope of our interconnectedness de
 Tiu Digniry of Difference
 
 T;:,edakah is a concept for our time. The retreat, set in motion by
-Reagonomics and Thatcherism, from a welfare state, together
+Reaganomics and Thatcherism, from a welfare state, together
 with the deregulation of financial markets throughout the world,
 has led to increased and increasing inequalities both in developed
 countries and the developing world. The importance of tzedakah is
@@ -6181,7 +6181,7 @@ conditions, or human rights - what are generally called
 The inequities of markets are no reason to abandon the market.
 Globalization has led to increased prosperity for those countries
 which have participated in it. We will not cure poverty by destroying
-a system of wealth-creation, any more than we will cure illn� by
+a system of wealth-creation, any more than we will cure illness� by
 abolishing doctors or end crime by annulling law. New technologies
 and the growth of trade are our best - our only - hope for ending
 hunger, curing disease, and raising living standards throughout the
@@ -6207,7 +6207,7 @@ through the market mechanism on its own.
 No religion can propose precise policies for the alleviation of
 hunger and disease. What it can do, and must, is to inspire us
 collectively with a vision of human solidarity and with concepts,
-such as tzedakah within thejewish tradition and its counterparts in
+such as tzedakah within the Jewish tradition and its counterparts in
 other faiths, that serve as a broad moral template for what
 constitutes a fair and decent world. Globalization, writes
 Zygmunt Bauman, 'divides as much as it unites . . . signalling a
@@ -6248,7 +6248,7 @@ Tht Dignity of Difference
 12. Sen 1999, p. 284.
 13. Ibid., p. 3.
 14. Brown 2002.
-15. Babylonian Talmud, Ketuhot, p. 67b.
+15. Babylonian Talmud, Mishneh, p. 67b.
 16. Maimonides, Mishnth Torah, Gifts to the Poor, 10: 7.
 1 7 . Lindblom 1 962, p. 344.
 I 8. Heschel I 962, p. 16.
@@ -6258,14 +6258,14 @@ I 8. Heschel I 962, p. 16.
 
 Chapter 7
 
-Creativity: The Iniperative of
+Creativity: The Imperative of
 Education
 
 Technologies are not mere exterior aids but also interior
 transformations of consciousness, and never more so than
 when they affect the word.
 
-(Walter J. Ong, Oraliry and Literacy)
+(Walter J. Ong, Orality and Literacy)
 
 Every invention changes the human environment, but none so
 fundamentally as those that change the way we record and
@@ -6300,7 +6300,7 @@ reform but to a redrawing of the political map of Europe, the
 growth of science, the development of the nation-state and, in the
 broadest sense, the 'birth of the modern'. One of the stranger facts
 about that history is that some of the main features of the
-Reforrnation had already been set out by John Wycliffe in Oxford
+Reformation had already been set out by John Wycliffe in Oxford
 in the fourteenth century. Why was it that when he advocated
 change, little happened, but when Luther did likewise two
 centuries later, the tremors spread to virtually every country in
@@ -6341,7 +6341,7 @@ words in the privacy of their homes. Many of the early Protestants
 attributed 'this gift of printing' to divine providence, and certainly
 its timing was providential and its effects tumultuous. Soon,
 though, even they began to realize that it was capable of
-under1nining not one authority but all. Printing became, in the
+under1undermining not one authority but all. Printing became, in the
 words of one commentator, 'the principal natural ally of libertine,
 heterodox and ecumenical philosophers'. One utopian pamphlet,
 Macaria, published in 1641, predicted that 'The art of printing
@@ -6352,7 +6352,7 @@ Andrew Marvell imagined a future bishop saying to himself that
 
 the press . . . hath done much more mischief to the discipline
 of our church than all the doctrine can make amends for.
-'Twas an happy time when all learning was in manuscript,
+''Twas an happy time when all learning was in manuscript,
 and some little officer . . . did keep the keys of the library . . .
 But now a man cannot write a book, but presently he is
 answered . . . There have been ways found out to banish
@@ -6415,7 +6415,7 @@ matter of a few strokes and geometrical patterns. Memory devices
 Creativity: The Imperative of Education
 
 also appeared early - knots in cords, notches in sticks, marks on
-stones, tokens and other aides-mimoire. Writing as such, however,
+stones, tokens and other aides-mementoire. Writing as such, however,
 did not appear until the people known as the Sumerians entered
 southern Mesopotamia during the fourth millennium BCE.4
 
@@ -6424,13 +6424,13 @@ almost certainly a byproduct of new building materials,
 specifically the making of bricks from clay tablets dried in the
 sun. Marks made by a wedge-shaped stick while the clay was still
 wet would become indelible once the tablet had become hard and
-could thus serve as perrnanent records. The first signs to be
+could thus serve as permanent records. The first signs to be
 inscribed were pictographic - no more than schematic representations of objects. But the technique developed rapidly into a system
 not of representation but communication. Symbols were strung
 together in linear sequences and became phonetic, standing not
 for objects but for sounds. The wedge-shaped sticks used to make
 impressions in the clay gave this first of written languages its
-name: cuneifor1n.
+name: cuneiform1n.
 
 The settlement of populations, the development of agriculture
 and the birth of complex economies with their division of labour
@@ -6560,7 +6560,7 @@ memorable statement of this kind of worldview:
 
 The heavens themselves, the planets, and this centre,
 Observe degree, priority, and place,
-lnsisture, course, proportion, season, form,
+Insisture, course, proportion, season, form,
 Office, and custom, in all line of order . . .
 Take but degree away, untune that string,
 And, hark, what discord follows!9
@@ -6687,7 +6687,7 @@ the historically concretized, primordial power to establish
 and sustain social equality in the face of counter·oppression
 from without and against provincial and nonegalitarian
 tendencies from within the society . . . Israel thought it was
-different because it was different: it constituted an egalitar·
+different because it was different: it constituted an egalitarian·
 ian social system in the midst of stratified societies. 1 1
 
 This, I have suggested, would have been impossible without the
@@ -6785,7 +6785,7 @@ speaking of them when you sit at home and when you walk on the
 road, when you lie down and when you rise up'(Deuteronomy 6: 7).
 Returning to Israel from Babylon in the fifth century BCE, Ezra
 
-The Digniv of Difference
+The Dignity of Difference
 
 assembles the people at one of the gates of Jerusalem and reinstates
 the teaching of the Law in a vast ceremony of adult education:
@@ -6871,10 +6871,10 @@ information technology almost four millennia ago: the invention
 
 of the alphabet. The revolution we are living through - of
 personal computers, modems, e-mails, interactive CD-ROMs and
-the Internet - should be understood in the same tertns. Their
+the Internet - should be understood in the same terms. Their
 ultimate significance is their contribution to the democratization of
 knowledge, and thus of dignity and creativity. The first imperative
-of the new inforrnation technology should be to make available to
+of the new information technology should be to make available to
 every child the universe of knowledge opened up by instantaneous
 global communication.
 
@@ -6905,7 +6905,7 @@ discoveries in coffee bars that has made Silicon Valley in
 California the world leader in computer technologies. Knowledge
 grows by being shared.
 
-Information technology has not only transforn1ational possibilities but also deep ethical implications. Worldwide, the number of
+Information technology has not only transformational1ational possibilities but also deep ethical implications. Worldwide, the number of
 children - girls especially - who lack adequate education is a
 scandal. It means that most will remain disadvantaged through-
 
@@ -6951,7 +6951,7 @@ glue that holds them together is the agreed-upon transaction
 price . . . A strong community is a prerequisite for a healthy
 economy because it alone produces social trust.
 
-Ueremy Rifkin, The Age of Access)
+Jeremy Rifkin, The Age of Access)
 
 Enthusiasts of the global market are the latest in the line of those
 who have been held captive by possibly the single most influential
@@ -6984,8 +6984,8 @@ importantly a richer sense of the importance of culture and
 community - what I will call 'covenantal relationships' - in
 sustaining social life. One of the more significant conclusions is that
 economics and politics, the two master disciplines of contemporary
-society, turn out to be insufficient if we are to preseive our human
-ecology. First, though, how did competition come to occupy centrestage in modern thought?
+society, turn out to be insufficient if we are to preserve our human
+ecology. First, though, how did competition come to occupy center stage in modern thought?
 
 One of the turning points in the history of the West came when
 a series of thinkers asked the question: How can the destructive
@@ -7255,7 +7255,7 @@ on the one hand, or by paying for services rendered and received
 on the other, would not be a family. I call such relationships -
 using a keyword of the Bible - covenantal. Whereas contracts are
 
-Tht Dignity of Dijftrtnct
+Tht Dignity of Difference
 
 about the self, covenants are about the larger groupings in and
 through which we develop our identity. They are about the 'We'
@@ -7419,7 +7419,7 @@ becoming self-destructive.
 The new economy has an adverse effect on trust, and it does so in
 multiple ways. One is what Robert Reich strikingly calls 'the
 The sheer pres.,ure of change means that
-omolescence of loyalty' .
+omnipotence of loyalty' .
 jobs are no longer secure. Companies are constantly 'downsizing',
 'deselecting' or 're-engineering', shedding employees or putting
 them on part-time or project-specific contracts. Companies that
@@ -7429,7 +7429,7 @@ lo�. Large corporations that once dominated particular towns,
 employing a significant part of their workforce, now outsource much
 of their production abroad and have ceased to be major civic
 presences. Whole areas of employment can, it seems, be wiped out
-almost overnight. En9clopaedia Britannica, a 230-year-old company,
+almost overnight. En9Encyclopaedia Britannica, a 230-year-old company,
 disbanded its entire door-to-door sales force when it went online. In
 a business environment in which there is constant pressure on
 employers, employees, consumers and investors to switch to
@@ -7564,7 +7564,7 @@ covenants and means replace ends, we are left with freedom
 without meaning, which is certainly more pleasant but not
 necessarily more fulfilling than meaning without freedom.
 
-Tlzt Digni!) of Difference
+The Digni!) of Difference
 
 To be sure, the problem does not arise in the same way
 throughout the world. In some societies, most notably the liberal
@@ -7663,7 +7663,7 @@ Glendon and Blankenhorn 1995; Warren 1999 and 2001.
 
 14. Robert Putnam, 'Bowling Alone: America's Declining Social
 
-Capital', Journal of Democracy Uanuary 1995): pp. 65· 78.
+Capital', Journal of Democracy January 1995): pp. 65· 78.
 
 15. Reich 2001, pp. 65 · 83.
 16. Ibid., p. 83.
@@ -7676,8 +7676,8 @@ Capital', Journal of Democracy Uanuary 1995): pp. 65· 78.
 
 Chapter 9
 
-Conservation: Environniental
-Sus taina bili ty
+Conservation: Environmental
+Sus sustainability bility ty
 
 I believe that we have little chance of averting an
 environmental catastrophe unless we recognize that we are
@@ -7700,7 +7700,7 @@ is one of the remotest places on earth. When the Dutch explorer Jakob
 Roggeveen came there in I 722 he found almost a thousand of the
 statues, some weighing to 85 tons and up to 37 feet tall. Hewn from
 volcanic quarries, over 300 statues had been transported miles and
-raised upright on platfonns by the island inhabitants, despite the fact
+raised upright on platforms by the island inhabitants, despite the fact
 that they had no metal or wheels or any power source other than their
 own energy. Hundreds more lay unfinished in the quarries or
 
@@ -7793,10 +7793,10 @@ Th·e Dign.i{y of Differen.c:e
 
 I n ·010 other s.phere of current concern has there been a rn.ore
 religious tone to public awareness .. Ri.ghtly so, for it is he·re if
-.anywher·e that we co,m.e face to face with the fund.an1ental
+.anywhere·e that we co,m.e face to face with the fund.an1ental
 questions of our place ·in the uni·vers·e and our responsibility· for iit:
-with the destructive potential of human in·terve.ntion on the o:ne·
-hand, a.nd ·On t.he other the awe-inspirin.g bea.uty of so 1nany o·f 'the
+with the destructive potential of human in·terve.intervention on the o:ne·
+hand, a.nd ·On t.he other the awe-inspiring.g bea.uty of so 1many o·f 'the
 , .eas ave· � ecn rev1v - ,
 111,e 1orms now at r1s • . · nc1ent p.agan 1.1
 i · r. C �
@@ -7807,28 +7807,28 @@ b
 a single orga.nism (Gaia was the Greek earth goddess, ,a name
 suggested to Lovelock by the novelist William Golding) . 3 I t is not
 cle.ar, th.ou,gh, that ear·t·h wo1rship is th.e best w·ay of charting a
-p,ath fo1rwa.rd. Earth worshippers we·re as d1estructive of life· fonns
+p,ath fo1rwa.rd. Earth worshippers we·re as d1destructive of life· forms
 as any other group, and as philosopher John Passmore points out,•
 th.e cure may be W10·_rse t.ha.n the disease. To1 turn o,ur back on
 t.1echnology will not impr·ove but substantially reduce hu1nan
-welfare, now and in the futur1e11 More significantly, it will impair
-10·Ur ability to c,onserve nature as well as. exp1loit it. What isl needed
-is not less science but a more far .. sig·hted view of its e·ffects.
+welfare, now and in the future1e11 More significantly, it will impair
+10·Ur ability to c,conserve nature as well as. exp1exploit it. What isl needed
+is not less science but a more far .. sig·sighted view of its e·effects.
 
 h
 
 . o ·
 on -_r: · the
 
-Passn1or·e's own view is that th1e Hebrew Bible is a k,ey sour·ce of
+Passmore1or·e's own view is that th1e Hebrew Bible is a k,ey sour·ce of
 ecological .awareness. Few· passages ha.ve had a deeper influence
-on W,este·.rn civilizatio,n than th.e first chap1ter o·f Ge.nesis with its
+on W,Western·.rn civilization,n than th.e first chap1ter o·f Ge.Genesis with its
 !
 ,.. r·se com· ·· 1�ng 1'"' nto be1·ng as t -he wor·k1 of
 m: men . ·u . _· 1 1
 · o-- - - ·
 · to s v·s
-God . Mankind, the last and g·re·ates't of c.reations, is giv·en
+God . Mankind, the last and g·re·ates't of c.creations, is giv·en
 1domini.on over natu.re: 'Be fruitful an.d. multiply, fill the ear·th a.nd
 .
 , ,ere 1s a sen.se 0 1 • won .le·r ·ere·, an •. more exp 1c1t y 1.n
@@ -7898,7 +7898,7 @@ The moon and the stars,
 Which you have set in place.
 What is, n1a.n th.at you are mindful of him,
 The· son of man that you ca.r·e for hi111?
-Yet ·y·ou h.a ve· niade .hi111 little lower than th.e angels
+Yet ·y·ou h.a ve· made .hi111 little lower than th.e angels
 And crow.ned him. ·with glory and ho.nour. ( Psalm 8: 3-5 )
 
 1 64
@@ -7970,7 +7970,7 @@ of Greek influence' that seventeenth-century thinkers and their
 successors were 'led to think of nature as nothing but a system of
 resources, man's relationships with which are in no respect subject
 to moral censure'. 5 In fact, Genesis sets forth a view of nature
-which is not man-centred but God-centred. To be sure, h umanity
+which is not man-centred but God-centred. To be sure, h humanity
 with its unique capacity for moral choice is the focus of its
 concerns. But Maimonides warns us against an anthropocentric
 view of reality. 'The universe does not exist for man's sake, but
@@ -8031,7 +8031,7 @@ land', says God, 'is Mine; you are but strangers resident with Me'
 Another group of commandments is directed against interference
 with nature. The Bible forbids crossbreeding livestock, planting a
 field with mixed seeds, and wearing a garment of mixed wool and
-linen. It calls these rules chukkim or 'statutes'. The thirteenthcentury scholar Nahmanides understood this terrn to mean laws
+linen. It calls these rules chukkim or 'statutes'. The thirteenthcentury scholar Nahmanides understood this term to mean laws
 which respect the integrity of nature. To mix different species, he
 argued, was to presume to be able to improve on the order of
 creation, and thus an affront to the Creator. Each species has its
@@ -8171,7 +8171,7 @@ from the standpoint of a hard-nosed utilitarianism. But our
 disposition to hesitate before the mystery of nature, to
 renounce our presumption of mastery, and to respect the
 process by which life is made, must surely prompt us to
-sympathise with such an interdiction. And these very same
+sympathize with such an interdiction. And these very same
 feelings, had we allowed them to prevail, would have caused
 us to hesitate before feeding to cows, which live and thrive
 on pasture, the dead remains of their own and other
@@ -8226,7 +8226,7 @@ Wilson draws this sombre conclusion:
 everything . . . We are adults who have discovered which
 covenants are necessary for our survival, and we have
 accepted the necessity of securing them by sacred oath . . .
-[I]f we should surrender our genetic nature to machineaided ratiocination, and our ethics and art and our very
+[I]f we should surrender our genetic nature to machine-aided ratiocination, and our ethics and art and our very
 meaning to a habit of careless discursion in the name of
 
 Conservation: Environmental Sustainabiliry
@@ -8283,7 +8283,7 @@ groups per111anently excluded, with many of them less well off
 than they were a generation ago. The destabilizing effects of the
 modern market and the sheer speed of change have left us all less
 secure, and that has been combined with an erosion of the social
-ecology that once provided people with networks of s upport as
+ecology that once provided people with networks of s support as
 well as systems of moral meaning. These are not minor problems.
 They go to the very heart of the human project: constructing a
 society of substantive justice, collective grace and equal access to
@@ -8576,7 +8576,7 @@ done was essentially to create a computer simulation of
 reconciliation. Forgetting is as close as a computer gets to forgiving.5
 Recall that the original Tit-for-Tat was a model of retributive
 justice: as you do to others so shall it be done unto you. Nowak's
-new approach to the I terated Prisoner's Dilemma was to add a
+new approach to the I iterated Prisoner's Dilemma was to add a
 further element to the equation: the ability to overlook or
 disregard at least some of the hostile moves made against you.
 What Nowak had done was, in effect, to rediscover the ancient
@@ -8638,7 +8638,7 @@ me, but God intended it for good.'
 The Joseph story is one of the definitive narratives of the
 Hebrew Bible. Long, detailed and highly structured, it brings to
 closure one of the motifs of the Book of Genesis, namely sibling
-rivalry. We tend to forget that fraterniry, a key word of modern
+rivalry. We tend to forget that fraternity, a key word of modern
 politics, is anything but a straightforward virtue. The archetypal
 relationships in Genesis - Cain and Abel, Isaac and Ishmael,
 Jacob and Esau, Joseph and his brothers - are fraught with
@@ -8737,23 +8737,23 @@ The Digni� of D,iff,rm,e
 
 good nor ,e,vil, altho,ugh Absolo111 h,ated .An1no,n. ' Rather, he
 is commanded to speak to him and say to him, 'Why did you
-do t.his to me? Why did ·y·ou .sin agains1t me in. such·-an.d.-s.uch
+do t.his to me? Why did ·y·ou .sin against1t me in. such·-an.d.-s.uch
 a matter?'' Thus it is said, 'Y D·U shall surely .rebuke y·our
-·nei.ghbo,ur.' If he repen·ts and. requ.ests fo·rgivenes:s, then one
+·nei.neighbor,ur.' If he repen·ts and. requ.ests fo·forgiveness:s, then one
 must forgive· and not be .ha,rsh.9
 
 This is not alw·aya necessary. To forgive with,out the dialectic of
-accusation a.nd apolo,gy·, as an unconditional act or· grace, is
+accusation a.nd apology,gy·, as an unconditional act or· grace, is
 1eq ually mandated, ,and a sign of .moral greatness:
 
-1r· so,meone is sinned again,st by another and th.e 1offen1ded
+1r· so,someone is sinned again,st by another and th.e 1offen1ded
 p.arty d.oes not wish to rebuke .him o·r to say anything to him
 - pe·r,.ha.ps beca·use th.e sinne.r is simple�min,ded ,or distraught
 -
 1n _· · _
 · -
 • no
-anim.osi.ty again·st him .an.d does not re'buke him, this is
+anim.osi.ty again·st him .an.d does not rebuke him, this is
 indeed the way of' saintliness [ middat hassidut] . 1· 0
 
 then !r· one r.--c rg·ves h1· m·
@@ -8784,7 +8784,7 @@ then !r· one r.--c rg·ves h1· m·
 •
 
 For Maimonides,, as ·for other interpreters of Jewish la·w, th.e
-bibli 1cal pro.hibitio1n,, 'Do n,ot. seek revenge or· bear a grudge'] w.as
+biblical 1cal pro.prohibition1n,, 'Do n,ot. seek revenge or· bear a grudge'] w.as
 an essential precondition. of social existence:
 
 ·
@@ -8842,11 +8842,11 @@ an essential precondition. of social existence:
 If o,ne bears a gr·ud,ge ab·out something and r,em,em.bers it,
 then one may come to take revenge. Therefore the ·Tor·ah
 w,as p,articu.larly concern.ed (to avoid] grudge-bearing so
-that the w·rong done should. be c,ompletely b1lot.ted out from
+that the w·rong done should. be c,completely b1lot.ted out from
 a Per·son's heart an· d not remem· · be- red-· T1h- 1
 .s 1s . _ _ a.,,� prothe · p
 -
-priate ch.aracter t:rait and makes possible the settle1111e,nt o·f
+priate ch.character t:trait and makes possible the settle1111e,nt o·f
 the earth and social relations among hu man beings. 1 1
 •
 
@@ -8854,12 +8854,12 @@ the earth and social relations among hu man beings. 1 1
 Judaism is often portrayed as a religion of jus·tice rather th.an
 rne·rcy and forgiveness. That, I hope I hav,e s.hown, is n1ot the case ..
 ·• an ·. . ,_ ac:. · 1s an answer to . e
-ustI,ce an . 1or,g1veness go - an � -.1n- 1
+justice,ce an . 1or,g1forgiveness go - an � -.1n- 1
 th
 J
 problem of revenge, a.nd ·neit:her is suffi.cient on its ow:n., Justice
-takes the sense or· wrong· and transfornt.s it fr101m personal
-reta.lia.tion - reveng·e -- to the impersonal processes of la·w �
+takes the sense or· wrong· and transforms.s it fr101m personal
+retaliation.lia.tion - revenge·e -- to the impersonal processes of la·w �
 
 h d "' h d E h .
 
@@ -8918,7 +8918,7 @@ acknowledgement that the past is past and must not be allowed to
 cast its shadow over the future. Forgiveness heals moral wounds
 the way the body heals physical wounds. At its height it is a
 process of shared mourning between those who commit and those
-wl10 suffer the consequences of wrong; the former for harrn done,
+wl10 suffer the consequences of wrong; the former for harm done,
 the latter for harm suffered - and like all acts of mourning it is the
 only bridge from the pain of loss to reintegration with the present
 and its tasks.
@@ -9047,7 +9047,7 @@ Enright and North 1998; Gopin 2000; and Henderson 2002.
 Deot), 6: 6.
 l 0. Ibid., 6: 9.
 1 1. Ibid., 7: 8.
-12. lgnatieff 1997, p. 188.
+12. Ignatieff 1997, p. 188.
 13. The Times, 25, 26 March 2002.
 
 Chapter 11
@@ -9095,7 +9095,7 @@ renders us inarticulate in the face of the random cruelties of fate.
 Our habits of consumption are denuding the world of its
 natural resources, leaving future generations with ever less on
 which to survive. Our despoliation of the environment threatens
-more species with extinction than at any time since homo sapi,ens
+more species with extinction than at any time since homo sapiens,ens
 first set foot on earth. Global warming endangers the biosphere.
 Genetic intervention in the food chain poses unquantifiable risks
 to health. Eugenic cloning and other medical technologies may
@@ -9199,7 +9199,7 @@ the creative, redeeming God.
 
 Is this a 'religious' insight? Yes and no. There have been
 
-secular humanists who have affi1111ed it; there have been religious
+secular humanists who have affirmed1111ed it; there have been religious
 zealots who have denied it. What matters most is not why we hold
 it, but that we hold it. Global capitalism heralds the prospect of a
 vast amelioration of the human condition. Equally it threatens
@@ -9245,7 +9245,7 @@ and led them instead to the pursuit of trade - constitutes, to its
 
 critics, its shortcomings. The virtues of a liberal democratic order
 are, from another perspective, its vices. People turn away from
-public life to private devices and desires. They become selfabsorbed, domesticated, bourgeois. They no longer ally themselves to the great causes that once called forth patriotism, loyalty,
+public life to private devices and desires. They become self-absorbed, domesticated, bourgeois. They no longer ally themselves to the great causes that once called forth patriotism, loyalty,
 the willingness to sacrifice oneself for the sake of one's country or
 one's faith. But the urge to these passions does not die. It remains
 as a genetic residue from an earlier age when men had to fight
@@ -9338,7 +9338,7 @@ written almost a decade before September 11 and the subsequent
 spate of suicide bombings in the Middle East, reverberate with
 ever greater urgency now.
 
-In the after1nath of the European wars of religion in the
+In the after1aftermath of the European wars of religion in the
 sixteenth and seventeenth centuries a doctrine was born which
 laid the foundations for the modern nation-state. It was called
 toleration. Essentially, it privatized conscience. It allowed that
@@ -9587,7 +9587,7 @@ between covenant and contract is akin to that between the
 American Declaration of Independence ( 1776) and the Constitution ( 1 789). The latter specifies the constitutional structure of the
 state, the former the moral principles of the society on which it is
 
-The Dignily of Difference
+The Dignity of Difference
 
 founded. Covenants are beginnings, acts of moral engagement.
 They are couched in broad ter1ns whose precise meaning is the
@@ -9639,7 +9639,7 @@ ourselves, casting our fate to the winds and tides of fortune which
 at best we can hope to appease, at worst we can resign ourselves
 to. Hope is the knowledge that we can choose; that we can learn
 from our mistakes and act differently next time; that history is not
-what Joseph Heller called it, a 'trashbag of random coincidences
+what Joseph Heller called it, a 'trash bag of random coincidences
 blown open by the wind', but a long, slow journey to redemption,
 whatever the digressions and false turns along the way.
 
@@ -9851,7 +9851,7 @@ Dennis, Norman and Halsey, A. H . (1988), English Ethical Socialism.
 
 Oxford: Clarendon Press.
 
-Diamond, Jared ( 1992), The Third Chimpan<.tt. New York: Harper
+Diamond, Jared ( 1992), The Third Chimpanzee<.tt. New York: Harper
 
 Perennial.
 
@@ -9894,13 +9894,13 @@ _ _ _
 
 R ow,m an &
 
-.Li t tl e fiel1 d .
+.Li t tl e field1 d .
 
 El a za r, D an i.e l
 
-( J 9,89 ) , Pioplt' a·nd Polity· .. De tro i t , M l : W ayn e S ta te
+( J 9,89 ) , People' a·nd Polity· .. De tro i t , M l : W ayn e S ta te
 
-U n iversi t y Press .
+U n University t y Press .
 
 ___
 
@@ -9915,7 +9915,7 @@ E n rig.h t , R obert an1d N o,r t h , J o a n n a ( ed s )
 
 ( 1 99'8 ) , Exploring Forgiveness .
 
-M a1d iso n , ·w 1 : U n i. versi t y of Wisconsi n Press .
+M a1d iso n , ·w 1 : U n i. versi t y of Wisconsin n Press .
 
 E tz i o n i. , Ami t a i a nd
 
@@ -9923,29 +9923,29 @@ E tz i o n i. , Ami t a i a nd
 
 ( eds ) ,
 
-( I 9 9 7 ) , Repen tanci �· A
+( I 9 9 7 ) , Repen repentance �· A
 
-Compa rativ.e .Pe rspective. La nh, am ,,. M D : ,R.o,wman & Li t tlefield .
+Compa Comparative.e .Pe Perspective. La nh, am ,,. M D : ,R.o,Rowman & Li t littlefield .
 
-Fink i e l k ra u t, Alai n (' 200 1 ) ,. In tkt .Nam,, of Hamanit, . Lon.d o.n : 'Pim lico .
+Fink i e l k ra u t, Alain n (' 200 1 ) ,. In tkt .Nam,, of Hamanit, . Lon.d o.n : 'Pim Pimlico .
 
-F ra:n k. , Thom as (. 200'2 } ,, Ont Market Undtr Godl Lond,on :: V i n t age .
+F ra:n k. , Thom as (. 200'2 } ,, Ont Market Under Gold Lond,on :: V i n t age .
 
 F ried.man. , Tho·mas
 
 ( 2000 ) , The Lexus and
 
-th,· Ol'ive
+th,· Olive
 
 'Tre,,. London :.
 
-H a rpe rCol l i ns ,�
+H a rpe Collins l i ns ,�
 
 F u k 1u y am a , F r.a ,nc is ( 1 9891) , 'T'he E ,nd of H is.tory? ' , Tile Nat
 
 i
 
-ona l lnta,st , 1 6
+ona l lntent,st , 1 6
 
 :
 
@@ -9962,14 +9962,14 @@ H ami l
 ton .
 
 ___
--- ( 1 99 5 ) , Tru�st. Lo nd o1n � H am i s h H am.ilto1n .
+-- ( 1 99 5 ) , Tru�st. Lo nd o1n � H am i s h H am.Hamilton1n .
 ___
 �� ( 1 99 9 ) , The Great Disruption . Lond on : P:ro·file .
 ,G a l. bra i t h ,I J 1oh n K en ne th
 
-( 1 99 2 ) ,1 The Cu lturr, � of. Con,tentment. Lo.nd on :
+( 1 99 2 ) ,1 The Cu Culture, � of. Con,Contentment. Lo.nd on :
 
-Si, nc l a i r� S t e venson ..
+Si, nc l a i r� S t e Stevenson ..
 
 Geo rge ,] Hle nry ( 1 90 7 ) , Moses, Lec t u re,
 
@@ -9995,21 +9995,21 @@ Gom per tz , Lewis
 
 ( 1 99
 
-2 ) , MortJ'/ lnqu i·ries on the· Situa tion of Man and the
+2 ) , Mortality'/ lnqu i·ries on the· Situa tion of Man and the
 
-Beasts , Fo n.twe ll ,I S ussex : C
+Beasts , Fo n.twe ll ,I S Sussex : C
 
 e n t au r 'Press ..
 
 G·o pi n ,. M a rc
 
-( 2 000 ) , Between. Eden and A rm ageddon . Ox ford, :
+( 2 000 ) , Between. Eden and A rm Armageddon . Ox ford, :
 
 10xford
 
 U n i ve rsi ty P ress .
 
-Go t tw·ald ., No :rman K . ( l 980 ) ,. The TribeJ of rah,weh ., London : S,CM Press ,
+Go t tw·ald ., No :rman K . ( l 980 ) ,. The Tribe of rah,weh ., London : S,CM Press ,
 
 G, :ra·y , J oh n ( l 9 9 7 ) , Endgames . Oxfo1rd : Bl a c.kwe lt.
 
@@ -10022,66 +10022,66 @@ Cam brid ge
 
 U n i versi t y P r1ess .
 
-H a rri ,90 0 , L.awre n c e an,id H ·u n ti ng t:on ,
+H a rri ,90 0 , L.Lawrence n c e an,id H ·u n ti ng t:on ,
 
 ;S am u e l
 
 ( e ds )
 
-( 2000 ) , Cullu:rt
+( 2000 ) , Culture:rt
 
-Ma tters . N ew Y·o rk : Basic Books ..
+Ma Matters . N ew Y·o rk : Basic Books ..
 
 Bibliography
 
-Havel , v·aclav, ( 1 '998,) , The Art. of' t.lie lmpossihlt. N,ew York : Fromm ,
-H,e.ld , David (ed� ) ( 2000) , A GlolJalizing 1Wo,ld? L·ondon: Ro·u tledge .
-H eld , D,aivid and McGrew, Anthony (eds) (2000) , Tkt Glo,bal Transformations Reader. 1Cam b.ridg·e,: Pol.i.ty Press ..
+Havel , v·Vaclav, ( 1 '998,) , The Art. of' t.lie Impossible. N,ew York : Fromm ,
+H,e.ld , David (ed� ) ( 2000) , A Globalizing 1Wo,ld? L·ondon: Ro·u Routledge .
+H eld , D,David and McGrew, Anthony (eds) (2000) , Tkt Glo,bal Transformations Reader. 1Cam b.Bridge·e,: Pol.i.ty Press ..
 
-He,n,derson , Michael (2002 ) , ,Fo,gi'vtnt:ss i· Breaking tht Chain of Hatt.
+He,n,Henderson , Michael (2002 ) , ,Fo,Givintness:ss i· Breaking tht Chain of Hatt.
 
 London: Grosvenor Boo:ks ..
 
 . He,rtz., Noreen,a ( 200 1 ) , TM Silent 'Takeover .. London: William. Heinemann .
-H cschel,. A. J . ( 1 962 ) , The Proph,ts. Ph,iladelphia, PA: Jewish Publicati.o·n
+H Heschel,. A. J . ( 1 962 ) , The Prophets,ts. Ph,iladelphia, PA: Jewish Publication.o·n
 
 S,ociety�
 
-Hill , Christopher ( 1 994) , Tlze English Bi6l, an1d tht Sevmteenth Century
+Hill , Christopher ( 1 994) , Tlze English Bi6l, an1d tht Seventeenth Century
 
 Revolution.. Lo·ndon::· Pen,guin ...
 
-Hillers, Delbert ( 1 969) , Cove.nanl.: The Histo·ry of a Biblical Idea .. Bal tim.ore,
+Hillers, Delbert ( 1 969) , Cove.Covenant.: The Histo·ry of a Biblical Idea .. Bal tim.ore,
 
 MD: J·oh,ns .Hopkins U niversi ty Press ..
 
-Hirsch, Samson Raphael ( 1 969 ) , Tiu Nintt.etn Ltturs., New Y,ork: Feld.heim,
+Hirsch, Samson Raphael ( 1 969 ) , Tiu Nineteenth.etn Letters., New Y,ork: Feld.heim,
 Hirschman, Albert ( 1 997) , The Passions ,and tlu Interests. Princeton, NJ· :
 
-P·rinceton U niverSity Pre·ss .
+P·Princeton U niverSity Pre·ss .
 
-Hobbes, Th,omas ( 1 99 1 ) , Uv,�alhan . Cambridge: Cambridge U niversi ty
+Hobbes, Th,omas ( 1 99 1 ) , Uv,�Uvalhan . Cambridge: Cambridge U niversi ty
 
 Pre.ss ..
 
-Ho,warcl, M.ic:hael (2000) ,. 'The Invention of Ptact'. London,: Profile .
-H un tington, Samuel ( I 1996 ) , The Clash ,of C£vilitati,ons and the Re,making of
+Ho,warcl, M.ic:Michael (2000) ,. 'The Invention of Pact'. London,: Profile .
+H un Huntington, Samuel ( I 1996 ) , The Clash ,of C£Civilizations,ons and the Re,making of
 
 World Order .. New Y',o·rk: Sim,on & Sc.hu.ster.
 
-Ignatieff, Michael ( 1' 993 ) , Blao,,d and Belonging. Lon,d,on : Vi king ..
+Ignatieff, Michael ( 1' 993 ) , Blaod,,d and Belonging. Lon,d,on : Vi king ..
 ___
 ___
 -- (2·00 I ) , Human Righls as Politics and Idolatry., Prin.c,eton , ,NJ : Princeton
 
-,� ( 1 99 7 ) , The Warrio.r's Honor, N,ew York : Metropolitan Books ...
+,� ( 1 99 7 ) , The Warrior.r's Honor, N,ew York : Metropolitan Books ...
 
 U niversity 'Ptess.
 
 J a.m.es, Oli.ver { 1 99,7 ) ,, Brita:in on tlze Couch. London: Century�
-J ay , Peter (200 1 ) ,. R'oad to Richesi Lo,ndon :. Ph1oenix ..
-Johnston, Dou,glas and S,ampson, Cynthia (eds) ( 1 9'94,) , Rtligion ,, Tke
-Missing Dimension, of State,raft i Oxfor-d : Oxford U niversi ty Press.
+J ay , Peter (200 1 ) ,. Road to Riches Lo,ndon :. Ph1Phoenix ..
+Johnston, Dou,glas and S,Sampson, Cynthia (eds) ( 1 9'94,) , Religion ,, Tke
+Missing Dimension, of State,raft i Oxford-d : Oxford U niversi ty Press.
 ( 1 918·· 4. ) rrr.,. l•her·a·11 -� t o·if· ; Rt �·11o·n· · s.;b· "l• trv C· h1·1c··ag·o·
 . .. ·.
 
@@ -10124,40 +10124,40 @@ Universi ty P'ress.
 
 ( 1 996 ) , Mor·tality arid Mo·rality . Ev·ans ton , J L :, Nort h w·e,stern
 
-Klein , .N,aomi ( 200 I ) , No logo .
-. Kort.e.n, David ( 2000) ,, PoJl.'�1Corpo,ate world .. West H:artford, 1CT : Kuma,rian ..
+Klein , .N,Naomi ( 200 I ) , No logo .
+. Kort.e.n, David ( 2000) ,, Poli.'�1Corpo,ate world .. West H:Hartford, 1CT : Kumarian,rian ..
 ,L,a:ndes, D1avid ( 1 998 ) , Tht Wealth: and Poverty of Nations. London: Li tt.le,
 
 . Lo.ndon : Flam .ingo .
 
 Bro,wn & Co.
 
-Lang., Beret ( I 996) ,, Heidegger's Slltnce� London : Athlone Press.
-Lasch , 1Chr istoph.er, ( 1 99 1 ) , 'The Tru,, and Only Heaven. N,e·w York: V\r � 'A' ,
+Lang., Beret ( I 996) ,, Heidegger's Silence� London : Athlone Press.
+Lasch , 1Chr Christopher.er, ( 1 99 1 ) , 'The Tru,, and Only Heaven. N,e·w York: V\r � 'A' ,
 
 N·orton ...
 
 2 1 3
 
-'Th, D1igni.ty of Difftrmce
+'Th, D1Dignity.ty of Difference
 
-L,eadbeater, Ch,arles (2000 ) , Limng an Thia .Air. London: P1en.g-uin.
-Levi, Primo ( 1 987 ) , If This is ,al Man .. Londo:n: Abacu,s.
-Lind 1blom , Jo.hannes, ( l 962) , Prophe9 in A11c.iat Israel. Oxford : Blackwell.
-Mac I n t.yre, .Alasd .. ai.r ,( 1 98 1 ) , .Aftn Vi'rtw·� ,Londo,n: Duckworth ..
-Man, J'ohn ( 200 1 ) , .Alpha B,ta. : How 0111 Alpbab·,I' Shap,d th, Wesllm World�
+L,Leadbeater, Ch,arles (2000 ) , Living an Thia .Air. London: P1en.g-uin.
+Levi, Primo ( 1 987 ) , If This is ,al Man .. Londo:n: Abacus,s.
+Lind 1blom , Jo.Johannes, ( l 962) , Prophets9 in A11c.iat Israel. Oxford : Blackwell.
+Mac I n t.yre, .Alasdair .. ai.r ,( 1 98 1 ) , .Afternoon Virtue·� ,Londo,n: Duckworth ..
+Man, John ( 200 1 ) , .Alpha B,ta. : How 0111 Alphabets·,I' Shap,d th, Western World�
 
 :London : Headline.
 
-Meilaender, G·ilbert (2000 ) , Working.·, Its Mtaning ,and Its Limits� Notre
+Meilaender, G·ilbert (2000 ) , Working.·, Its Meaning ,and Its Limits� Notre
 
-Dame,, I N: University o,f Notr1e Dame Press.
+Dame,, I N: University o,f Notre1e Dame Press.
 
-Mendes-Flo1hr, P·aul and Re1inharz, J'·udah ( 1 980) , Tiu Jew in tJu, Modem'
+Mendes-Flo1hr, P·aul and Re1Reinhartz, J'·Judah ( 1 980) , Tiu Jew in tJu, Modem'
 
 World. New York: Ox·ford ..
 
-M.ic.klethwait, Jo'h,n and Woolridge, Adri.a.n (2001 1 ) , A Fatu,, Ptrfecl,
+M.ic.Micklethwait, John,n and Woolridge, Adrian.a.n (2001 1 ) , A Fatuity,, Perfect,
 
 Mo·n
 
@@ -10216,81 +10216,81 @@ Nye, Jo.seph S . (2·002 ) , Tiu Paradox of ,A,mtrican· .Pown. New Yo·rk: Oxfo
 
 . N·,ew 'York: F'ree
 
-U nivenity Press .
+U University Press .
 
 Og'burn,, William ( 1 964) ., Social ]Change. Gloucester-, MA: Peter S,mi.th,.
-Ong, Walter J . ( 1 99'2) , ,Oral,ity and .Lilnacy. London: Routledge .
+Ong, Walter J . ( 1 99'2) , ,Oral,ity and .Literacy. London: Routledge .
 Passmore,, John ( 1 980) , Man's Responsihilityfar NrJturt. London: Duckworth.
 Perlas, Nicanor ( 2000 ) , Shaping 1Globo1�,ation ., Philippines.:, 1Centre for
 
-Altern.ative Development I nitiatives.
+Altern.ative Development I initiatives.
 
-Picco, 1Giandomenico (2100 1 ) , ,Crossing· ,th, Div1d.1: Dialogue Among ,Ciuilila·
+Picco, 1Giandomenico (2100 1 ) , ,Crossing· ,th, Div1d.1: Dialogue Among ,Civilization·
 
 ,tions. Sou th Orange, NJ : ,Set.on Hall, Universi t,y.,
 
 Plamenatz, Joh.n, ( 1 '963 ) , Ma,n and Socie!.J, Voli I . Lon.,don: Longman.
-Plato ( 1' 955) , The R,public ( trans� H� D� P. Lee) � Hannondsworth: Penguin.,
-R.awls, John ( 1 9193) , ,Poli'tical Li:b,n:alism,. New ·vor,k: Colum,bia Univf!rsity
+Plato ( 1' 955) , The R,public ( trans� H� D� P. Lee) � Harmondsworth: Penguin.,
+R.awls, John ( 1 9193) , ,Political Li:b,n:alism,. New ·vor,k: Colum,bia University!rsity
 
-Pressl
+Press
 
 2 1 4
 
-Bi'bliograpky
+Bibliography
 
 ___
--� ( 1 9991) , The Law of Ptoplts. Cambridge, MA,: Harvard ·u Diversity· Press.
+-� ( 1 9991) , The Law of Profits. Cambridge, MA,: Harvard ·u Diversity· Press.
 Reich , ·R,obert ( 1 992 ) ,1 The Work of Nations, New York: Vi.nta,ge.
 ___
--- ( 2·00 1 ) , Tile Fulur, of Su.ccu.s. Londo,n : William Heinemann.
+-- ( 2·00 1 ) , Tile Future, of Su.ccu.s. Londo,n : William Heinemann.
 Ridley, M att ( 1' 996) , 'The· Origins of Virtue. London: Viki·ng.
 ___
-�� ( 1 9919) , Gmomt. London: Fourth Estate.
-Rifkin, Jer,emy ( 1 999) , The Biou,Ji C:entury ... London,: Phoenix ..
+�� ( 1 9919) , Germot. London: Fourth Estate.
+Rifkin, Jer,emy ( 1 999) , The Biology,Ji C:entury ... London,: Phoenix ..
 ___
--- (2000) , The Ag, <!/ Access. Lond1on : P!enguin�
-Rorty, Ric:hard ( 1' 980) , Pliilosopl,y, ,and ,ilu Mi"or of Nature. 10,xford:
+-- (2000) , The Ag, <!/ Access. Lond1on : P!Penguin�
+Rorty, Ric:hard ( 1' 980) , Philosophy,y, ,and ,ilu Mi"or of Nature. 10,xford:
 ___
 
-( 1 989) , Co,ntingency, Irony and Solidarity. Ca.mbridge: 1Cambridge
+( 1 989) , Co,Contingency, Irony and Solidarity. Ca.mbridge: 1Cambridge
 
 Bla.ck.we·II .
 
 U niversity Press.
 
-Rot.enstr1eich, Nathan ( 1 984) , J,ws and German Phuosophyi,. New York:
+Rot.Rotenstriech1eich, Nathan ( 1 984) , J,ws and German Philosophy,. New York:
 
 Schocken ..
-Sacks, Jonat,han
+Sacks, Jonathan,han
 
 ( 1 990 ) , Tradition in an Untraditional Age, London:
 
 Vallentine Mitch,ell.
 
 ___
---· ( l. 995 ,) ,. Commun.i.� of .Faitk. London : Peter Halban.
+--· ( l. 995 ,) ,. Commun.i.� of .Faith. London : Peter Halban.
 ___
-_.......,,... ( 1 999) Morals and Marktls ca ·Lond,on : Institute of Ec.on.1omic Affairs ..
+_.......,,... ( 1 999) Morals and Markets ca ·Lond,on : Institute of Ec.on.1omic Affairs ..
 ___
--- (2000) , The Po1lilics of ,Hoflt, 2nd edn. Lond1on.: Vintage.
+-- (2000) , The Po1Politics of ,Holt, 2nd edn. Lond1on.: Vintage.
 ___
--- ( 200 1 ) , Radical 'Tli·m, Rtlditai Now .
+-- ( 200 1 ) , Radical 'Tli·m, Radical Now .
 Sandel , Mi.cha·el ( 1 982} , Liberalism a,id the· limits of Justice. Cam bridge:
 ___
--- ( ed .. ) ( 1 9,84) , Lib,ralism and its Critics. Oxford :, Bla,ckwell.
+-- ( ed .. ) ( 1 9,84) , Lib,ralism and its Critics. Oxford :, Bla,Blackwell.
 Schu mpe ter, Joseph ( 1 947 ) , Capitalism·., Socialism 1and Democracy. Lo,n1don :
 
 Cam bridge University· Press .
 
 . London: HarperCollins.
 
-Geor,ge Allen & ·u nwin.
+Geor,ge Allen & ·u unwin.
 
-Scruton, :Rog1er ( 1 996 ) , ,Anim.al Riglzls and Wrongs.. London : Demos.
+Scruton, :Rog1er ( 1 996 ) , ,Anim.al Rights and Wrongs.. London : Demos.
 ___
 
-( 1 99,8 ) ,. An lnt·elligent Person's Guid, to Modern ,Cultut,. Londo:n.:
+( 1 99,8 ) ,. An lnt·Intelligent Person's Guid, to Modern ,Culture,. Londo:n.:
 
 Duckworth .
 
@@ -10298,54 +10298,54 @@ Seligman, .Ada:m ( 1 997) , ·71,, Problem of Trust � Princeton, NJ : Prin:cet
 
 U niversi ty Ptess.
 
-Selznick, P1hilip
+Selznick, P1Philip
 
 U nive.rsity o,f c·a(ifornia Press.
 
-( 1 994 ) , T/J, Moral Commonw,ealth., B·erkeley, CA :
+( 1 994 ) , T/J, Moral Commonwealth,ealth., B·Berkeley, CA :
 
 Sen , Amartya ( 1 1999 ) , Development as Fre,do,m. Oxford : Oxford Univ1ersi ty
 
 P.ress.
 
-Na.lions., New Y·ork: Modern Libr,ary�
+Na.lions., New Y·ork: Modern Library,ary�
 
-Shriver, Donald ( ·t 99.5), An Etkit for .Enemies. Oxfo.rd: Oxford U nivcrsity Press.
-Smi th , Ad.a.m ( 1 19,3 7 ) , .An lnqu.iry into tht Nature and Cawts ,of tht Wea,th of
+Shriver, Donald ( ·t 99.5), An Ethics for .Enemies. Oxfo.rd: Oxford U University Press.
+Smi th , Ad.a.m ( 1 19,3 7 ) , .An lnqu.iry into tht Nature and Causes ,of tht Wea,th of
 ___
-- ( 1976) , Th,, Theory of Moral Sentimmts. l n1dianapolis, I N : Liberty Press.
+- ( 1976) , Th,, Theory of Moral Sentiments. l n1Indianapolis, I N : Liberty Press.
 ___
--- ( 1. 986 ) , The Wtaltla of Nal:ions,[ Books I-Ill. Londo.n : P1e·nguin Classics ..
+-- ( 1. 986 ) , The Wealth of Nal:ions,[ Books I-Ill. Londo.n : P1e·Penguin Classics ..
 'W erner ( 1 '919 7 ) , Th, J,w,s ,and' Ma,d,rn. Capitalism . New
 Som bart ,
 
-Bru.nswick : Transaction ..
+Bru.Brunswick : Transaction ..
 
 2 1 5
 
-SoriC>S,. George ( 1 998 ) , The· Crisis of 1Global Ctipilalism. London: Little, Bro·wn
+SoriC>S,. George ( 1 998 ) , The· Crisis of 1Global Capitalism. London: Little, Bro·wn
 
 & Co.
 
 _ _ _
 
-( 2000 ) , Optn Soc.itry.4 Reforming 1Glo.bal Capitalism . London: Li t tle ,
+( 2000 ) , Open Soc.Society.4 Reforming 1Glo.bal Capitalism . London: Li t tle ,
 
 Brown & Co.
 
 ___
-�--· ( 2002 ) , O.n Glo1bal.iiation. Oxford : Publi.c Affairs�
+�--· ( 2002 ) , O.n Glo1bal.globalization. Oxford : Publi.c Affairs�
 S tackhouse, Max (ed.) (2000) , God and Globalization·. Volume J : Rel.i�on and tlu
-Powers of the Common .Lift .. Harrisb·urg., PA: T'rinity Press l nternational.
+Powers of the Common .Lift .. Harrisburg·urg., PA: T'rinity Press l nternational.
 (200· 1 ) , God and Globalization, 'Volume 2: Tht .Spirit and .the .Mo.drm
 
 ___
 
 �=
 
-Authorities .. ·Harrisburg,. PA: Trini ty Ptess I n .te·rn.ati.onal .
+Authorities .. ·Harrisburg,. PA: Trinity ty Ptess I n .te·rn.ati.onal .
 
-S titskin , Leon ( 1 982 ) , Ltlt1,s of M·a im·onides. New Y1ork : Yesh iva
+S titskin , Leon ( 1 982 ) , Laws1,s of M·a im·onides. New Y1ork : Yesh iva
 
 U niversity Press.
 
@@ -10353,41 +10353,41 @@ Press ..
 
 T.a.bb, William ( 2'00 1 ) , The Arno�al El,phant. New 'York : Month ly :Revi,ew
 ___
--- ( 2002 ) ,. Uniqual Partn·trs. New York : New P·ress�
-Tamari, M eir ( 1 98 7 ) ,. With .All Tour· Po.ssession·s .. � Jewish Ethics and· Eco·nomic
+-- ( 2002 ) ,. Unique Partners·trs. New York : New P·ress�
+Tamari, M eir ( 1 98 7 ) ,. With .All Tour· Po.Possessions·s .. � Jewish Ethics and· Eco·nomic
 ___
--- { 1 995 ) , Th, Challl!lgt of ·wealth .. Northvale, NJ· : Jason Aronson ..
-Tocq ueville, Alexis de ( 1 968) ,. DemoCTag i'n America., London : Fontan.a ..
-Toffl.er, Alvin ( 1. 97 1 ) , Futurt Shock� Londo·n: Pa.n .
-V 1oegelin, Eric ( 1 9.56 ) , Order and Histo·ry. Vol�·mt 1 , lsra·el land Revelation.
+-- { 1 995 ) , Th, Challenge!lgt of ·wealth .. Northvale, NJ· : Jason Aronson ..
+Tocq Tocqueville, Alexis de ( 1 968) ,. Democracy i'n America., London : Fontana.a ..
+Toffler.er, Alvin ( 1. 97 1 ) , Future Shock� Londo·n: Pa.n .
+V 1oegelin, Eric ( 1 9.56 ) , Order and Histo·ry. Vol�·mt 1 , Israeli·el land Revelation.
 
 L.ife New· York : Free P'ress.
 
-Columbia, MO:. u· ni.versity of Misso·uri Pr1ess .
+Columbia, MO:. u· ni.versity of Missouri·uri Pr1ess .
 
 Wal.zer, M ichael ( 1 994 ) ,1 Thick and Thin. Notre Dame, I N: U niversi ty ,of
 
-N·otre Dam,e Press.
+N·Notre Dam,e Press.
 
 ___
 -- (ed . ) ( 1 995 ) ,I Tow1ard 1a Global Civil Society,, ·Providence, R I : Berghahn
 
 .Books.�
 
-Warren, Mark (ed . ) ( 1 999 ) , Democra·cy and ·Trust .. Cambrid.,ge: Cambridge
+Warren, Mark (ed . ) ( 1 999 ) , Democra·cy and ·Trust .. Cambridge.,ge: Cambridge
 
 U niv·ersi ty Press ..
 
 _ _ _
 
-( 2·00 1 ) , n,emo-crary and Associalion .. Prince t1on, NJ : Pri nce ton
+( 2·00 1 ) , n,emo-democracy and Association .. Prince t1on, NJ : Pri nce ton
 
-U ni,,ersity Press ..
+U ni,,University Press ..
 
 Weber, M.ax { 1 952 ) ,, Anci,nt Judaism. New York: Free· Press .
 ___
 
-( 1 985 ) , The Protestant Ethic a11d the Spi.rit Qf Capitalis.r1t. London :
+( 1 985 ) , The Protestant Ethic a11d the Spi.rit Qf Capitalism.r1t. London :
 
 _ nw1 n .
 ·u
@@ -10395,17 +10395,17 @@ _ nw1 n .
 ,
 
 \Vei ls, H � G . ( n .. d . ) , Th e S.tudy of History .. Londo:n : G·eorge Newnes.
-W:hiitehead ,I Alf red North. ( 1 942 ) ,1 Adventurts of Ideas. H.armondswort'h:
+W:Whitehead ,I Alf red North. ( 1 942 ) ,1 Adventures of Ideas. H.Harmondsworth:
 
 Penguin.
 
-\V il lia·ms, Bernard ( 1 985 } , Eth ,�cs a,itl .the Limi�ls- of P/Jilosopn.,p.. Londo:n :
+\V il lia·ms, Bernard ( 1 985 } , Eth ,�cs a,itl .the Limi�ls- of P/Philosophy.,p.. Londo:n :
 
 F1ontana .
 
-W·i lson , Ed ward 0 .. ( 1 9'99 ) , 1Co.nsilience .. London·: A'bacusi
+W·i Wilson , Ed ward 0 .. ( 1 9'99 ) , 1Co.consilience .. London·: Abacusi
 Wrig·ht, Robert ( 1 995 ) , 'The Mor:al Animal. London: Li t tle, B·rown 1& Co.
 ___
-� ( 2000) , NonZvero�· The Logic of Human D1estiny .. Ne·w York : Pa,n theon�
+� ( 2000) , NonZero�· The Logic of Human D1destiny .. Ne·w York : Pa,n theon�
 
 2 1 6

@@ -178,7 +178,7 @@ difficulties, a democratized and user-centric system of innovation appears well 
 striving for.
 
 Users, as the term will be used in this book, are firms or individual consumers that
-In contrast, manufacturers exexpect to benefit from using a product or a service.
+In contrast, manufacturers expect to benefit from using a product or a service.
 pect to benefit from selling a product or a service. A firm or an individual can have
 different relationships to different products or innovations. For example, Boeing is a
 manufacturer of airplanes, but it is also a user of machine tools. If we were examining
@@ -384,7 +384,7 @@ contributors would routinely and systematically freely reveal code they had deve
 at private expense (Raymond 1999). However, free revealing of product innovations
 has a history that began long before the advent of open source software. Allen, in his
 1983 study of the eighteenth-century iron industry, was probably the first to consider
-the phenomon systematically. Later, Nuvolari (2004) discussed free revealing in the
+the phenomenon systematically. Later, Nuvolari (2004) discussed free revealing in the
 early history of mine pumping engines. Contemporary free revealing by users has
 been documented by von Hippel and Finkelstein (1979) for medical equipment, by Lim
 (2000) for semiconductor process equipment, by Morrison, Roberts, and von Hippel
@@ -747,7 +747,7 @@ produce significant performance advances."
 Although most products and product modifications that users or others develop will be 79
 minor, users are by no means restricted to developing minor or incremental innovations.
 Qualitative observations have long indicated that important process improvements are
-developed:rubyd gsub!(//, "") by users. Smith (1776, pp. 11–13) pointed out the importance of "the invention of a great number of machines which facilitate and abridge
+developed:rubbed gsub!(//, "") by users. Smith (1776, pp. 11–13) pointed out the importance of "the invention of a great number of machines which facilitate and abridge
 labor, and enable one man to do the work of many." He also noted that "a great part
 of the machines made use of in those manufactures in which labor is most subdivided,
 were originally the invention of common workmen, who, being each of them employed
@@ -929,7 +929,7 @@ to develop the modifications they wanted for them). Application of these four va
 in a logit model classified libraries into innovator and non-innovator categories with an
 accuracy of 88 percent (table 2.3).
 
-Table 2.3 Factors associated with innovating in librararies (logit model). 2/4 = 33.85; 2
+Table 2.3 Factors associated with innovating in libraries (logit model). 2/4 = 33.85; 2
 = 0.40; classification rate = 87.78%.
 
 Leading-edge status
@@ -1091,7 +1091,7 @@ Lead user characteristic 2: high benefit from innovationd
 5.13
 
 Significance
-differencec
+difference
 
 of
 
@@ -1633,7 +1633,7 @@ still scanty, but high heterogeneity of need is a very straightforward explanati
 why there is so much customization by users: many users have "custom" needs for
 products and services.
 
-Those interested can easily enhance their intuitions about heterogenity of user need 163
+Those interested can easily enhance their intuitions about heterogeneity of user need 163
 and related innovation by users. User innovation appears to be common enough so
 that one can find examples for oneself in a reasonably small, casual sample. Readers therefore may find it possible (and enjoyable) to do their own informal tests of the
 matter. My own version of such a test is to ask the students in one of my MIT classes
@@ -1994,7 +1994,7 @@ $153
 
 N
 
-Minimimum cost of waiting
+Minimum cost of waiting
 for manufacturer to deliver
 $1,400
 $1,400
@@ -2079,7 +2079,7 @@ Whether a user firm should innovate or buy is a variant of a well-known problem:
 one should place an activity in a supply chain. In any real-world case many complexities
 In the model that follows, Baldwin and I ignore most of these and consider a
 enter.
-simple base case focused on the impact of transaction costs on users' innovate-orbuy considerations. The model deals with manufacturing firms and user firms rather
+simple base case focused on the impact of transaction costs on users' innovate-innovate or buy considerations. The model deals with manufacturing firms and user firms rather
 than individual users. We assume that user firms and manufacturer firms both will hire
 designers from the same homogeneous pool if they elect to solve a user problem. We
 also assume that both user firms and manufacturer firms will incur the same costs to
@@ -3255,10 +3255,10 @@ one major innovation. NA: data not available.
 
 Number of users developing this number of major innovations
 
-Scientific Instrumentsa
-Scientific Instrumentsb
-Process equipmentc
-Sports equipmentd
+Scientific Instruments
+Scientific Instruments
+Process equipment
+Sports equipment
 
 NA
 
@@ -3563,7 +3563,7 @@ technique have evolved to the point that kites can be guided both with and again
 wind by a skilled kitesurfer, and can lift rider and board many meters into the air for
 tens of seconds at a time.
 
-Designing kites for kitesurfing is a sophisticated undertaking, involving low-speed aerodynamical considerations that are not yet well understood. Early kites for kitesurfing were developed and built by user-enthusiasts who were inventing both kitesurfing
+Designing kites for kitesurfing is a sophisticated undertaking, involving low-speed aerodynamic considerations that are not yet well understood. Early kites for kitesurfing were developed and built by user-enthusiasts who were inventing both kitesurfing
 techniques and kitesurfing equipment interdependently. In about 2001, Saul Griffith,
 an MIT PhD student with a long-time interest in kitesurfing and kite development, decided that kite-surfing would benefit from better online community interaction. Accordingly, he created a site for the worldwide community of user-innovators in kitesurfing
 (www.zeroprestige.com). Griffith began by posting patterns for kites he had designed
@@ -3953,7 +3953,7 @@ We will learn over time whether and how widely the practice of creating and defe
 intellectual commons diffuses across fields. There obviously can be cases where it will
 continue to make sense for innovators, and for society as well, to protect innovations
 as private intellectual property. However, it is likely that many user innovations are
-kept private not so much out of rational motives as because of a general, not-thoughtthrough attitude that "we do not give away our intellectual property," or because the
+kept private not so much out of rational motives as because of a general, not-thought-through attitude that "we do not give away our intellectual property," or because the
 administrative cost of revealing is assumed to be higher than the benefits. Firms and
 society can benefit by rethinking the benefits of free revealing and (re)developing policies regarding what is best kept private and what is best freely revealed.
 
@@ -4348,7 +4348,7 @@ Linux, and also sells the complementary service of Linux technical support to us
 Opportunities to provide profitable complements are not necessarily obvious at first
 glance, and providers often reap benefits without being aware of the user innovation
 for which they are providing a complement. Hospital emergency rooms, for example,
-certainly gain considerable business from providing medical care to the users and userdevelopers of physically demanding sports, but may not be aware of this.
+certainly gain considerable business from providing medical care to the users and user-developers of physically demanding sports, but may not be aware of this.
 
 All the examples above explore how manufacturers can integrate themselves into a 487
 user-centered innovation system. However, manufacturers will not always find user
@@ -4358,7 +4358,7 @@ worry about the user-programmed engine controller chips that racing aficionados 
 others often install to change their cars' performance. The result can be findings of
 eventual commercial value as users explore new performance regimes that manufacturers' engineers might not have considered. However, if users choose to override
 manufacturers' programming to increase engine performance, there is also a clear risk
-of increased warrantee costs for manufacturers if engines fail as a consequence (Mollick
+of increased warranty costs for manufacturers if engines fail as a consequence (Mollick
 2004).
 
 We have seen that manufacturers can often find ways to profit from user innovation.
@@ -4642,7 +4642,7 @@ for authorizing new product-development investment expenditures.) We also obtain
 data from a 1995 internal study that compared 3M's sales forecasts with actual sales.
 We combined this information to develop a distribution of forecast errors for a number
 of 3M divisions, as well as overall forecast errors across the entire corporation. Those
-errors range from forecast/actual of +30 percent (over-forecast) to –13 percent (underforecast). On the basis of the information just described, and in consultation with
+errors range from forecast/actual of +30 percent (over-forecast) to –13 percent (under-forecast). On the basis of the information just described, and in consultation with
 3M management, we deflated all sales forecast data by 25 percent. That deflator is
 consistent with 3M's historical experience and, we think, provides conservative sales
 forecasts.17 Deflated data appear in table 10.1 and in the following tables.
@@ -4738,17 +4738,17 @@ developed by 3M in the past.
 Table 10.3 Major new product lines (MNPLs) generated by lead-user methods are similar to MNPLs generated by 3M in the past.
 
 Novelty a compared with competition
-Originality/newness of customer needs addresseda
+Originality/newness of customer needs addressed
 % market share in year 5
 Estimated sales in year 5 (deflated for forecast error)
 Potential for entire product familya
 Operating profit
 Probability of success
 Strategic importance*
-Intellectual property protectiona
-Fit with distribution channelsa
-Fit with manufacturing capabilitiesa
-Fit with strategic plana
+Intellectual property protection
+Fit with distribution channels
+Fit with manufacturing capabilities
+Fit with strategic plan
 
 LU MNPLs (n = 5)
 
@@ -4905,7 +4905,7 @@ user innovation and custom design illustrate this possibility. In this new innov
 accurately and in detail. Instead, they outsource only need-related innovation tasks
 to their users, who are equipped with appropriate toolkits. This process change differs
 from the lead user search processes discussed earlier in an interesting way. Lead user
-searchs identify existing innovations, but do nothing to change the conditions affecting
+search identify existing innovations, but do nothing to change the conditions affecting
 user-innovators at the time a new product or service is being developed. Toolkits for
 users, in contrast, do change the conditions potential innovators face. By making innovation cheaper and quicker for users, they can increase the volume of user innovation.
 They also can channel innovative effort into directions supported by toolkits.
@@ -4994,7 +4994,7 @@ idea behind toolkits for user design is, as was mentioned earlier, to partition 
 product-development task into subproblems, each drawing on only one locus of sticky
 information. Then, each task is assigned to the party already having the sticky information needed to solve it. In this approach, both the user and the manufacturer still
 engage in iterative, trial-and-error problem solving to solve the problems assigned to
-them. But this iteration is internal to each party—no costly and time-consuming crossboundary iteration between user and manufacturer is required (von Hippel 1998, 2001;
+them. But this iteration is internal to each party—no costly and time-consuming cross-boundary iteration between user and manufacturer is required (von Hippel 1998, 2001;
 Thomke and von Hippel 2002; von Hippel and Katz 2002).
 
 To appreciate the major advantage in problem-solving speed and efficiency that concentrating problem solving within a single locus can create, consider a familiar example: the contrast between conducting financial strategy development with and without
@@ -5032,7 +5032,7 @@ Repartitioning of Development Tasks
 
 To create the setting for a toolkit, one must partition the tasks of product development
 to concentrate need-related information in some and solution-related information in
-others. This can involve fundamental changes to the underlying architecture of a product or service. As illustration, I first discuss the repartioning of the tasks involved in
+others. This can involve fundamental changes to the underlying architecture of a product or service. As illustration, I first discuss the repartitioning of the tasks involved in
 custom semiconductor chip development. Then, I show how the same principles can
 be applied in the less technical context of custom food design.
 
@@ -5104,7 +5104,7 @@ without modification by the manufacturer.
 
 Learning through Trial and Error
 
-It is crucial that user toolkits for innovation enable users to go through complete trialand-error cycles as they create their designs. Recall that trial-and-error problem solving is essential to product development. For example, suppose that a user is designing a new custom telephone answering system for her firm, using a software-based
+It is crucial that user toolkits for innovation enable users to go through complete trial-and-error cycles as they create their designs. Recall that trial-and-error problem solving is essential to product development. For example, suppose that a user is designing a new custom telephone answering system for her firm, using a software-based
 computer-telephony integration (CTI) design toolkit provided by a vendor. Suppose
 also that the user decides to include a new rule to "route all calls of X nature to Joe" in
 her design. A properly designed toolkit would allow her to temporarily place the new
@@ -5406,9 +5406,9 @@ Customers and independent tool developers can eventually learn to design toolkit
 applicable to the processes of several manufacturers. Indeed, this is precisely what has
 happened in the custom integrated circuit industry. The toolkits revealed to users by
 the initial innovator, LSI, and later by rival producers were producer-specific. Over time,
-however, Cadance and other specialist toolkit supply firms emerged and developed
+however, Cadence and other specialist toolkit supply firms emerged and developed
 toolkits that could be used to make designs producible by a number of vendors. The
-end result is that manufacturers that previously benefited from selling their productdesign skills and their production skills can be eventually forced by the shifting of design
+end result is that manufacturers that previously benefited from selling their product design skills and their production skills can be eventually forced by the shifting of design
 tasks to customers via toolkits to a position of benefiting from their production skills
 only.
 
@@ -5439,7 +5439,7 @@ Information Communities
 Many of the considerations I have discussed with respect to user innovation communities apply to information communities as well—a much more general category of which
 user innovation communities are a subset. I define information communities as communities or networks of individuals and/or organizations that rendezvous around an information commons, a collection of information that is open to all on equal terms.
 
-In close analogy to our discussions of innovation communities, I propose that commonsbased information communities or networks will form when the following conditions
+In close analogy to our discussions of innovation communities, I propose that commons-based information communities or networks will form when the following conditions
 hold: (1) Some have information that is not generally known. (2) Some are willing to
 freely reveal what they know. (3) Some beyond the information source have uses for
 what is revealed. On an intuitive basis, one can immediately see that these conditions
@@ -5640,7 +5640,7 @@ Porter proposes that domestic manufacturers will have with respect to filling th
 of local lead users may be eroding in the Internet age. As has been seen in the case of
 open source software, and by extension in the cases of other information-based products, users are capable of developing complex products in a coordinated way without
 geographic proximity. Participants in a particular open source project, for example, may
-come from a number of countries and may never meet face to face. In the case of physical products, the emergence of a pattern of user-based design followed by "foundrystyle" production may also reduce the importance of propinquity between innovating
+come from a number of countries and may never meet face to face. In the case of physical products, the emergence of a pattern of user-based design followed by "foundry style" production may also reduce the importance of propinquity between innovating
 lead users and manufacturers. As in the cases of integrated circuits and kitesurfing
 discussed earlier in this book, users can transmit CAD product-design information files
 from anywhere to any suitably equipped manufacturer for production. Probably only
@@ -5665,7 +5665,7 @@ are developed, how they evolve, and whether and how they eventually die. Groups 
 construct the meanings of a product centrally include, but are not restricted to, product
 users. For example, in the case of the bicycle, some relevant groups were users of
 various types—people who wanted to travel from place to place via bicycle, people
-who wanted to race bicycles, etc. Relevant non-user groups included "anticyclists,"
+who wanted to race bicycles, etc. Relevant non-user groups included "anti-cyclists,"
 who had a negative view of the bicycle in its early days and wanted it to fail (Bijker
 1995).
 
@@ -5780,7 +5780,7 @@ becoming manufacturers. This may be a fairly common practice in some fields. Sha
 (2000) found that users of sports equipment sometimes became manufacturers by a
 very natural process. The users would demonstrate the performance and value of their
 innovations as they used them in public sporting events. Some of the participants in
-the meets would then ask "Can you make one of those for me too?" Informal hobbylevel production would then sometimes become the basis of a major company. Lettl,
+the meets would then ask "Can you make one of those for me too?" Informal hobby level production would then sometimes become the basis of a major company. Lettl,
 Herstatt, and Gemünden (2004) report on case histories in which user-innovators became heavily involved in promoting the commercialization of important innovations in
 surgical equipment. These innovations tended to be developed by surgeons, who then
 often made major efforts to induce manufacturers to commercialize them. Hienerth
@@ -6018,7 +6018,7 @@ Policy, 1994, 523-532.
 A. Arora, A. Fosfuri, A. Gambardella "Markets for Technology", 2001, MIT Press.
 
 K. Arrow "Economic Welfare and the Allocation of Resources for Inventions", The Rate 696
-and Direction of Inventive ActivityR. R. R. R. Nelson, 1962, Princeton University
+and Direction of Inventive Activity R. R. R. R. Nelson, 1962, Princeton University
 Press..
 
 A. Arundel "The Relative Effectiveness of Patents and Secrecy for Appropriation", Research Policy, 2001, 611-624.
@@ -6248,7 +6248,7 @@ L. B. Jeppesen "User Toolkits for Innovation: Users Support Each Other", Journal
 
 Product Innovation Management, 2005.
 
-M. Jokisch "Open Source Software-Entwicklung: Eine Analyse des Geschäftsmodells der
+M. Jokisch "Open Source Software-Entwicklung: Eine Analyse des Geschägeschäftsmodell der
 
 STATA Corp", 2001.
 

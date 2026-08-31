@@ -305,12 +305,12 @@ street. (Kabul, Sarajevo, East Mostar, Grozny, sixteen
 
 acres of lower Manhattan after September 11, 2001, the
 
-refugee camp injenin ... ) Look, the photographs say, this
+refugee camp Jenin ... ) Look, the photographs say, this
 
 is what it's like. This is what war does. And that, that is
-what it does, too. War tears, rends. War rips open, evis
+what it does, too. War tears, rends. War rips open, eviscerates
 
-cerates. War scorches. War dismembers. War ruins.
+eviscerates. War scorches. War dismembers. War ruins.
 
 Not to be pained by these pictures, not to recoil from
 
@@ -402,7 +402,7 @@ oppression and injustice on the other, and that the fight
 
 ing must go on, what matters is precisely who is killed and
 
-by whom. To an IsraeliJew, a photograph of a child torn
+by whom. To an Israeli Jew, a photograph of a child torn
 
 apart in the attack on the Sbarro pizzeria in downtown
 
@@ -440,7 +440,7 @@ based in Qatar, of the destruction in the Jenin refugee
 
 camp in April 2002. Incendiary as that footage was to the
 
-many who watch AlJazeera throughout the world, it did
+many who watch Al Jazeera throughout the world, it did
 
 not tell them anything about the Israeli army they were
 
@@ -448,7 +448,7 @@ not already primed to believe. In contrast, images offer-
 
 I I
 
-ing evidence that contradicts cherished pieties are invari
+ing evidence that contradicts cherished pieties are invariably
 ably dismissed as having been staged for the camera. To
 photographic corroboration of the atrocities committed
 by one's own side, the standard response is that the pic
@@ -548,7 +548,7 @@ triptych depicted the fate of a wounded Taliban soldier in
 
 uniform who had been found in a ditch by Northern Al
 
-liance soldiers advancing toward Kabul. First panel: be
+Alliance soldiers advancing toward Kabul. First panel: be
 
 ing dragged on his back by two of his captors-one has
 
@@ -580,10 +580,10 @@ FoR A LONG TIME some people believed that if the
 horror could be made vivid enough, most people would
 finally take in the outrageousness, the insanity of war.
 
-Fourteen years before Woolf published Three Guineasin 1924, on the tenth anniversary of the national mobi
+Fourteen years before Woolf published Three Guineas 1924, on the tenth anniversary of the national mobi
 lization in Germany for the First World War-the
 conscientious objector Ernst Friedrich published his Krieg
-dem Kriegel (Htar Against War!). This is phot:Ography as
+dem Kriegel (Htar Against War!). This is photography:Ography as
 shock therapy: an album of more than one hundred and
 eighty photographs mostly drawn from German military
 and medical archives, many of which were deemed un
@@ -647,7 +647,7 @@ Gance's film ends in a new military cemetery, not just to
 
 remind us of how many millions of young men were sac
 
-rificed to militarism and ineptitude between 1914 and
+sacrificed to militarism and ineptitude between 1914 and
 
 1918 in the war cheered on as "the war to end all wars,"
 
@@ -689,13 +689,13 @@ Being a spectator of calamities taking place in an
 
 other country is a quintessential modern experi
 ence, the cumulative offering by more than a century and
-a half's worth of those professional, specialized tourists
+a half worth of those professional, specialized tourists
 known as journalists. Wars are now also living room
 sights and sounds. Information about what is happening
 elsewhere, called "news," features conflict and violence
 "If it bleeds, it leads" runs the venerable guideline of
 tabloids and twenty-four-hour headline news shows-to
-which the response is compassion, or indignation, or titil
+which the response is compassion, or indignation, or titillation
 lation, or approval, as each misery heaves into view.
 
 How to respond to the steadily increasing flow of in
@@ -718,7 +718,7 @@ resonate in their ears ...
 
 Moynier was thinking of the soaring casualties of com
 
-batants on all sides, whose sufferings the Red Cross was
+combatants on all sides, whose sufferings the Red Cross was
 
 founded to succor impartially. The killing power of
 armies in battle had been raised to a new magnitude by
@@ -755,9 +755,9 @@ knowing about it is expected to be transmitted tersely and
 
 emphatically.
 
-Awareness of the suffering that accwnulates in a select
+Awareness of the suffering that accumulates in a select
 
-nwnber of wars happening elsewhere is something con
+number of wars happening elsewhere is something con
 
 structed. Principally in the form that is registered by cam
 
@@ -941,14 +941,14 @@ and Nagasaki in early August.
 The era of shock-for Europe-began three decades
 earlier, in 1914. Within a year of the start of the Great
 War, as it was known for a while, much that had been
-taken for granted came to seem fragile, even undefend
+taken for granted came to seem fragile, even undefendable
 able. The nightmare of suicidally lethal military engage
 ment from which the warring countries were unable to
 extricate themselves-above all, the daily slaughter in the
 trenches on the Western Front-seemed to many to have
 exceeded the capacity of words to describe.* In 1915,
 none other than the august master of the intricate co
-cooning of reality in words, the magician of the verbose,
+cocooning of reality in words, the magician of the verbose,
 Henry James, declared to The New Tork Times: "One finds
 it in the midst of all this as hard to apply one's words as
 to endure one's thoughts. The war has used up words;
@@ -994,7 +994,7 @@ mere contrivance. Pictures of hellish events seem more
 
 authentic when they don't have the look that comes from
 being "properly" lighted and composed, because the pho
-tographer either is an amateur or-just as serviceablehas adopted one of several familiar anti-art styles. By
+tographer either is an amateur or-just as serviceable adopted one of several familiar anti-art styles. By
 flying low, artistically speaking, such pictures are thought
 to be less manipulative--all widely distributed images of
 suffering now stand under that suspicion-and less likely
@@ -1108,9 +1108,9 @@ fear,
 
 the exhaustion, the grief But one day captions will be
 
-needed, of course. And the misreadings and the misre
+needed, of course. And the misreadings and the misrememberings
 
-memberings, and new ideological uses for the pictures,
+misrememberings, and new ideological uses for the pictures,
 
 will make their difference.
 
@@ -1134,13 +1134,13 @@ graphs, we use what we know of the drama of which the
 picture's subject is a part. "Land Distribution Meeting,
 Extremadura, Spain, 1936," the much-reproduced photo
 graph by David Seymour ("Chim") of a gaunt woman
-standing with a baby at her breast lookiug upward (in
+standing with a baby at her breast looking upward (in
 tently? apprehensively?), is often recalled as showing
 someone fearfully scanning the sky for attacking planes.
 The expressions on her face and the faces around her
 seem charged with apprehensiveness. Memory has altered
 the image, according to memory's needs, conferring em
-blematic status on Chim's picture not for what it is de
+blematic status on Chim picture not for what it is de
 scribed as showing (an outdoor political meeting, which
 took place four months before the war started) but for
 what was soon to happen in Spain that would have such
@@ -1151,7 +1151,7 @@ used as a weapon of war for the first time in Europe.* Be-
 •.Nothing in Franco 's barbarous conduct of the war is as well remembered as
 these raids, mostly executed by the unit of the German air force sent by
 Hitler to aid Franco, the Condor Legion, and memorialized in Picasso's
-Guemica. But they were not \\-"ithout precedent. During the First \Vorld \Var,
+Guernica. But they were not \\-"ithout precedent. During the First \Vorld \Var,
 there had been some sporadic, relatively ineffective bombing; for example,
 the Germans conducted raids from Zeppelins, then from planes, on a num-
 
@@ -1166,7 +1166,7 @@ The photographs Woolf received are treated as a win
 dow on the war: transparent views of their subject. It was
 of no interest to her that each had an "author"--that
 photographs represent the view of someone--although it
-was precisely in the late 1930s that the profession of bearber of cities, including London, Paris, and Antwerp. Far more lcthally
+was precisely in the late 1930s that the profession of barber of cities, including London, Paris, and Antwerp. Far more lethally
 starting with the attack by Italian fighter planes near Tripoli in October
 1911 - European nations had been bombing their colonies. So-called "air
 control operations'" were fa,·ored as an economical alternative to the costly
@@ -1251,7 +1251,7 @@ file holding a camera to his face: "The Greatest War
 
 Photographer in the World: Robert Capa." War photog
 
-raphers inherited what glamour going to war still had
+photographers inherited what glamour going to war still had
 
 among the anti-bellicose, especially when the war was felt
 
@@ -1272,7 +1272,7 @@ pher) on September 5, 1936, was originally published in Ht on September 23,
 1936, above a second photograph, taken from the same angle and in the same
 light, of another Republican soldier collapsing. his rifle leaving his right hand,
 on the same spot on the hillside; that photograph was never reprinted. The
-first picture also appeared soon after in a newspaper, lbris-Soir.
+first picture also appeared soon after in a newspaper, Libres-Soir.
 
 mously felt by the winning side to have been a necessary
 war, a war that had to be fought.
@@ -1280,7 +1280,7 @@ war, a war that had to be fought.
 Photojournalism came into its own in the early
 1940s--wartime. This least controversial of modern
 wars, whose justness was sealed by the full revelation of
-Nazi evil as the war ended in 1945, offered photojournal
+Nazi evil as the war ended in 1945, offered photojournalists
 ists a new legitimacy, one that had little place for the left
 wing dissidence that had informed much of the serious
 use of photographs in the interwar period, including
@@ -1299,7 +1299,7 @@ the most influential and prestigious consortium of photo
 journalists-was a practical one: to represent venture
 some freelance photographers to the picture magazines
 sending them on assignments. At the same time, Mag
-num's charter, moralistic in the way of other founding
+Magnum charter, moralistic in the way of other founding
 
 charters of the new international organizations and
 guilds created in the immediate postwar period, spelled
@@ -1308,7 +1308,7 @@ journalists: to chronicle their own time, be it a time of
 war or a time of peace, as fair-minded witnesses free of
 chauvinistic prejudices.
 
-In Magnum's wice, photography declared itself a
+In Magnum vice, photography declared itself a
 global enterprise. The photographer's nationality and na
 tional journalistic affiliation were, in principle, irrelevant.
 The photographer could be from anywhere. And his or
@@ -1334,7 +1334,7 @@ dred thousand soldiers, and which was covered by a Ger
 man photojournalist, Willi Ruge, whose superb close-up
 battle pictures are as forgotten as that war. But the Span
 ish Civil War in the second half of the 1930s, the Serb
-and Croat wars against Bosnia in the mid-199os, the dras
+and Croat wars against Bosnia in the mid-199os, the drastic
 tic worsening of the Israeli-Palestinian conflict that began
 in 2000-these contests were guaranteed the attention of
 many cameras because they were invested with the mean
@@ -1349,7 +1349,7 @@ ethnic cleansing; and the ongoing conflict over the char
 acter and governance of territories claimed by both Israeli
 Jews and Palestinians because of a variety of flashpoints,
 starting with the inveterate fame or notoriety of the Jew
-ish people, the unique resonance of the Nazi extermina
+ish people, the unique resonance of the Nazi extermination
 tion of European Jewry, the crucial support that the
 United States gives to the state of Israel, and the identifi
 cation of Israel as an apartheid state maintaining a brutal
@@ -1362,13 +1362,13 @@ against the Kurds, the Russian invasions and occupation
 of Chechnya) have gone relatively underphotographed.
 The memorable sites of suffering documented by ad
 mired photographers in the 1950s, 196os, and early 1970s
-were mostly in Asia and Afiica-Werner Bischof's photo
+were mostly in Asia and Africa-Werner Bischof's photo
 graphs of famine victims in India, Don McCullin's pic
 tures of victims of war and famine in Biafra, W. Eugene
 Smith's photographs of the victims of the lethal pollution
 of a Japanese fishing village. The Indian and African
 famines were not just "natural" disasters; they were pre
-ventable; they were crimes of great magnitude. And
+preventable; they were crimes of great magnitude. And
 what happened in Minamata was obviously a crime: the
 Chisso Corporation knew it was dumping mercury-laden
 waste into the bay. (After a year of taking pictures, Smith
@@ -1413,7 +1413,7 @@ Exception made for Europe today, which has claimed
 
 the right to opt out of war-making, it remains as true as
 
-ever that most people will not question the rationaliza
+ever that most people will not question the rationalizations
 
 tions offered by their government for starting or continu
 
@@ -1453,11 +1453,11 @@ or childbirth, is scantily represented in the history of art;
 
 that caused by accident, virtually not at all-as if there
 
-were no such thing as suffering by inadvertence or misad
+were no such thing as suffering by inadvertence or misadventure
 
 venture.) The statue group of the writhing Laocoon and
 
-his sons, the innumerable versions in painting and sculp
+his sons, the innumerable versions in painting and sculpture
 
 ture of the Passion of Christ, and the inexhaustible vi
 
@@ -1465,7 +1465,7 @@ sual catalogue of the fiendish executions of the Christian
 
 martyrs-these are surely intended to move and excite,
 
-and to instruct and exemplify. The viewer may commiser-
+and to instruct and exemplify. The viewer may commiserate-
 
 ate with the sufferer's pain-and, in the case of the Chris
 tian saints, feel admonished or inspired by model faith
@@ -1500,7 +1500,7 @@ that displays the artist's skill of eye and hand. The other
 
 is a camera's record, from very near, of a real person's
 unspeakably awful mutilation; that and nothing else. An
-invented horror can be quite overwhehning. (I, for one,
+invented horror can be quite overwhelming. (I, for one,
 
 find it difficult to look at Titian's great painting of the
 flaying of Marsyas, or indeed at any picture of this sub
@@ -1524,7 +1524,7 @@ spectators or cowards, unable to look. Those with the
 stomach to look are playing a role authorized by many
 glorious depictions of suffering. Torment, a canonical
 
-subject in art, is often represented in painting as a specta
+subject in art, is often represented in painting as a spectacle
 cle, something being watched (or ignored) by other peo
 ple. The implication is: no, it cannot be stopped-and
 the mingling of inattentive with attentive onlookers un
@@ -1546,7 +1546,7 @@ tury, when contemporary realignments of power become
 
 material for artists. In 1633 Jacques Callot published a
 
-suite of eighteen etchings titled Les Miseres et Les Malheurs
+suite of eighteen etchings titled Les Miseries et Les Malheurs
 de la Guerre (The Miseries and Misfortunes ef War), which
 depicted the atrocities committed against civilians by
 
@@ -1605,7 +1605,7 @@ peasants. But the preeminent concentration on the hor
 rors of war and the vileness of soldiers run amok is
 
 Goya's, in the early nineteenth century. Los Desastres de la
-Guerra (The Disasf,ers ef it'lzr), a numbered sequence of
+Guerra (The Desastres,ers ef it'lzr), a numbered sequence of
 eighty-three etchings made between 1810 and 1820 (and
 
 first published, all but three plates, in 1863, thirty-five
@@ -1632,7 +1632,7 @@ suffering they inflicted, stands independently of the oth
 
 ers. The cumulative effect is devastating.
 
-The ghoulish cruelties in The Disast,ers ef it'lzr are meant
+The ghoulish cruelties in The Desastres,ers ef it'lzr are meant
 to awaken, shock, wound the viewer. Goya's art, like
 
 Dostoyevsky's, seems a turning point in the history of
@@ -1686,7 +1686,7 @@ annotated "Patient will probably have a limp!" Nor
 
 should there be a need to speak for the photograph in the
 photographer's voice, offering assurances of the image's
-veracity, as Goya does in The Disasters of Wizr, writing be
+veracity, as Goya does in The Disasters of Wiz, writing be
 neath one saw this (10 /,o vt). And beneath an
 other: This is the truth (Esto es /,o verdadero). Of course the
 photographer saw it. And unless there's been some tam
@@ -1729,7 +1729,7 @@ That is why photographs, unlike handmade images, can
 
 count as evidence. But evidence of what? The suspicion
 
-that Capa's "Death of a Republican Soldier"-titlecl
+that Capa's "Death of a Republican Soldier"-titled
 
 "The Falling Soldier" in the authoritative compilation of
 
@@ -1805,7 +1805,7 @@ Father and I looked out on the map, were eagerly dis
 
 cussed.
 
-War was and still is the most irresistible--and pictur
+War was and still is the most irresistible--and picturesque
 
 esque--news. (Along with that invaluable substitute for
 
@@ -1820,7 +1820,7 @@ whose incompetence was responsible for the war's drag
 
 ging on, with so much loss of British life. The toll on the
 
-soldiers from causes other than combat was horren
+soldiers from causes other than combat was horrendous
 
 dous--twenty-two thousand died of illnesses; many thou
 
@@ -1836,7 +1836,7 @@ month stay, having contracted to publish his photographs
 
 (in the form of engravings) in a less venerable and less
 
-critical weekly paper, The Illustrated lnndon News, exhibit
+critical weekly paper, The Illustrated London News, exhibit
 
 them in a gallery, and market them as a book upon his re
 
@@ -1850,9 +1850,9 @@ from photographing most other subjects by the cumber-
 
 some technology of picture-taking, Fenton went about
 rendering the war as a dignified all-male group outing.
-With each image requiring a separate chemical prepara
+With each image requiring a separate chemical preparation
 tion in the darkroom and with exposure time as long as
-fifteen ~econds, Fenton could photograph British officers
+fifteen ~seconds, Fenton could photograph British officers
 in open-air confabulation or common soldiers tending
 the cannons only after asking them to stand or sit to
 gether, follow his directions, and hold still. His pictures
@@ -1861,7 +1861,7 @@ war-movement, disorder, drama--stays off-camera.
 The one photograph Fenton took in the Crimea that
 reaches beyond benign documentation is "The Valley of
 the Shadow of Death," whose title evokes the consolation
-offered by the biblical psahnist as well as the disaster of
+offered by the biblical psalmist as well as the disaster of
 the previous October in which six hundred British sol
 diers were ambushed on the plain above Balaklava
 Tennyson called the site "the valley of Death" in his
@@ -1931,7 +1931,7 @@ and Confederate soldiers lying on the blasted ground of
 Gettysburg and Antietam. Though access to the battle
 field came as a privilege extended to Brady and his team
 by Lincoln himself, the photographers were not commis
-sioned as Fenton had been. Their status evolved in a
+commissioned as Fenton had been. Their status evolved in a
 more American fashion, with nominal government spon
 sorship giving way to the force of entrepreneurial and
 freelance motives.
@@ -1945,19 +1945,19 @@ truth beyond appeal, was allied with the rising prestige of
 a certain idea of subjects needing further attention
 known as realism--soon to have more defenders among
 novelists than among photographers.• In the name
-of realism, one was perrnittcd--requircd--to show un
+of realism, one was permitted--required--to show un
 pleasant, hard facts. Such pictures also convey "a useful
 
 ~he deflating realism of the photographs of slain soldiers lying about the
-battlefield is dramatized in Tu Ru1 IJaJlce of Courage, in which everything is
+battlefield is dramatized in Tu Ru1 Balance of Courage, in which everything is
 seen through the bewildered, terrified consciousness of someone who could
 well have been one of those soldiers. Stephen Crane's piercingly visual,
-mono-wiccd antiwiu' newel-which appeared in 11195, thirty ycan after the
+mono-wicked antiwar' newel-which appeared in 11195, thirty ycan after the
 war ended (Crane was born in 1871}-is a long, simplifying emotional dis
-tance from Walt Whitman's contcmpo~ multiform treatment of war's
-"red busines" In Dnlm-Ta;s, the poem cycle Whitman published in 1865
+tance from Walt Whitman's contemporary~ multiform treatment of war's
+"red business" In Dnlm-Ta;s, the poem cycle Whitman published in 1865
 (and later folded into /.-s ef Gnus), many voices are summoned to speak.
-Though far from enthusiastic about this war, which he identified with fratri
+Though far from enthusiastic about this war, which he identified with fratricide
 cide, and for all his sorrow over the suffering on both sides, Whitman could
 not hdp but hear war's epic and heroic music. His ear kept him martial, al
 beit in his own generous, complex, amatory way.
@@ -1978,7 +1978,7 @@ that he published after the war. (Gardner left Brady's em
 
 ploy in 1863.) "Here are the dreadful details! Let them aid
 
-in prewnting such another calamity from falling upon the
+in preventing such another calamity from falling upon the
 
 nation." But the frankness of the most memorable pic
 tures in Gardner's Photographic Sketch Book ef the War (1866)
@@ -2020,16 +2020,16 @@ desolate site where a great deal of dying had indeed
 taken place, Beato's image of the devastated Sikan
 darbagh Palace involved a more thorough arrangement
 of its subject, and was one of the first photographic de
-pictions of the horrific in war. The attack had taken place
+depictions of the horrific in war. The attack had taken place
 in November 1857, after which the victorious British
 troops and loyal Indian units searched the palace room
-by room, bayoneting the eighteen hundred swviving Se
+by room, bayoneting the eighteen hundred surviving Se
 poy defenders who were now their prisoners and throw
 ing their bodies into the courtyard; vultures and dogs did
 the rest. For the photograph he took in March or April
 1858, Beato constructed the ruin as an unburial ground,
 stationing some natives by two pillars in the rear and dis
-tributing hwnan bones about the courtyard.
+tributing human bones about the courtyard.
 
 At least they were old bones. It's now known that the
 Brady team rearranged and displaced some of the re
@@ -2123,7 +2123,7 @@ invention from scratch of a photographer on the prowl in
 
 Kensington after an air raid who, discovering the library
 
-of the greatjacobean mansion sheared open to view, had
+of the great jacobean mansion sheared open to view, had
 
 brought in three men to play the imperturbable browsers,
 
@@ -2139,7 +2139,7 @@ graph retains its period charm and authenticity as a cele
 
 bration of a now vanished ideal of national fortitude and
 
-sangfroid. \Yith time, many staged photographs turn
+sangfroid. \With time, many staged photographs turn
 
 back into historical evidence, albeit of an impure kind
 
@@ -2176,7 +2176,7 @@ intrepid lone photographer with Leica or Nikon in hand,
 operating out of sight much of the time, now had to
 compete with and endure the proximity of TV crews: the
 witnessing of war is now hardly ever a solitary venture.
-Technically, the possibilities for doctoring or electroni
+Technically, the possibilities for doctoring or electronically
 cally manipulating pictures are greater than ever-almost
 unlimited. But the practice of inventing dramatic news
 pictures, staging them for the camera, seems on its way to
@@ -2207,7 +2207,7 @@ viewer, this viewer, even many years after the picture was
 taken ... well, one can gaze at these faces for a long time
 and not come to the end of the mystery, and the inde
 
-cency, of such co-spectatorship.
+indecency, of such co-spectatorship.
 
 More upsetting is the opportunity to look at people
 who know they have been condemned to die: the cache of
@@ -2240,10 +2240,10 @@ see no more than a grainy figure, a body and head, an
 
 energy, swerving from the camera as he falls. These Cam
 
-bodian women and men of all ages, including many chil
+Cambodian women and men of all ages, including many chil
 
 dren, photographed from a few feet away, usually in half
-figure, are-as in Titian's The Flayi.ng of Marsyas, where
+figure, are-as in Titian's The Flaying.ng of Marsyas, where
 
 Apollo's knife is eternally about to descend-forever
 
@@ -2279,9 +2279,9 @@ people as individuals, even as human beings. This, of
 
 course, is how war looks when it is seen from afar, as an
 
-llilage.
+village.
 
-Victims, gnevmg relatives, consumers of news--all
+Victims, giving relatives, consumers of news--all
 
 have their own nearness to or distance from war. The
 
@@ -2307,7 +2307,7 @@ carelessly down the great thoroughfare, saunter less at
 
 their ease, were a few dripping bodies, fresh from the
 
-field , laid along the pavement. There would be a gatlwr
+field , laid along the pavement. There would be a gather
 
 ing up of skirts and a careful picking of way ...
 
@@ -2394,10 +2394,10 @@ photographer ten days after the British defeat, which had
 cost the lives of thirteen hundred of their soldiers, it gives
 an intrusive view down a long shallow trench packed with
 unburied bodies. What is particularly aggressive about
-the image is the absence of a landscape. The trench's re
+the image is the absence of a landscape. The trench re
 ceding jumble of bodies fills the whole picture space.
 British indignation upon hearing of this latest Boer out
-rage was keen, if stiffiy expressed: to have made public
+rage was keen, if stiffly expressed: to have made public
 such pictures, declared Amateur Photographer, "serves no
 useful purpose and appeals to the morbid side of human
 nature solely."
@@ -2430,7 +2430,7 @@ queasy about the struggles for which they are being mo
 
 bilized, much less of disseminating propaganda against
 
-wagmg war.
+waging war.
 
 Since then, censorship---the most extensive kind, self
 
@@ -2472,7 +2472,7 @@ scripts who, having fled Kuwait City at the end of the
 war, on February 27, were carpet bombed with explo
 radioactive DU (depleted uranium)
 
-sives, napalm,
+explosive, napalm,
 rounds, and cluster bombs as they headed north, in con
 voys and on foot, on the road to Basra, Iraq-a slaughter
 notoriously described by one American officer as a
@@ -2487,7 +2487,7 @@ war has become an activity prosecuted with increasingly
 exact optical devices for tracking the enemy. There is no
 war without photography, that notable aesthete of war
 Ernst Jiinger observed in 1930, thereby refining the irre
-pressible identification of the camera and the gun,
+irrepressible identification of the camera and the gun,
 "shooting" a subject and shooting a human being. War
 making and picture-taking are congruent activities: "It is
 
@@ -2527,8 +2527,8 @@ the enemy to inflict any casualties at all; American and
 
 allied soldiers who die in vehicle accidents or from
 
-*Thus, thirteen ycan before the destruction of Gucrnica, Arthur Harris,
-later the chief of Bombing Command in the Royal Air furcc during the Sec
+*Thus, thirteen ycan before the destruction of Guernica, Arthur Harris,
+later the chief of Bombing Command in the Royal Air force during the Sec
 ond World War, then a young RAF squadron leader in Iraq, described the
 air campaign to crush the rebellious natives in this newly acquired British
 colony, complete with photographic proof of the success of the mission.
@@ -2610,7 +2610,7 @@ Pearl's widow to be spared more pain was pitted against
 the newspaper's right to print and post what it saw fit and
 the public's right to see. The video was quickly taken off
 line. Notably, both sides treated the three and a half min
-utes of horror only as a snuff fihn. Nobody could have
+utes of horror only as a snuff film. Nobody could have
 learned from the debate that the video had other footage,
 a montage of stock accusations (for instance, images of
 Ariel Sharon sitting with George W. Bush at the White
@@ -2619,7 +2619,7 @@ it was a political diatribe and ended with dire threats and
 a list of specific demands-all of which might suggest
 that it was worth suffering through (if you could bear it)
 
-to confront better the particular viciousness and intransi
+to confront better the particular viciousness and intransigence
 
 gence of the forces that murdered Pearl. It is easier to
 
@@ -2753,7 +2753,7 @@ mals in ethnological exhibitions mounted in London,
 
 Paris, and other European capitals from the sixteenth un
 
-til the early twentieth centUl)'. In The Tempest, Trinculo's
+til the early twentieth century)'. In The Tempest, Trinculo's
 
 first thought upon coming across Caliban is that he could
 
@@ -2781,7 +2781,7 @@ Regarding tbe Pain of Others
 
 begging for his life whose fate was pictured prominently
 in The New Tork Tunes also had a wife, children, parents,
-sisters and brothers, soine of whom may one day come
+sisters and brothers, some of whom may one day come
 
 across the three color photographs of their husband, fa
 
@@ -2793,7 +2793,7 @@ C entral to modern expectations, and modern ethical
 
 feeling, is the conviction that war is an aberration, if
 
-an unstoppable one. That peace is the norm, if an unat
+an unstoppable one. That peace is the norm, if an unattainable
 tainable one. This, of course, is not the way war has been
 
 regarded throughout history. War has been the norm and
@@ -2810,7 +2810,7 @@ suffering it inflicts; and to represent war in words or in
 
 pictures requires a keen, unflinching detachment. When
 
-Leonardo da Vmci gives instructions for a battle painting,
+Leonardo da Da Vinci gives instructions for a battle painting,
 
 he insists that artists have the courage and the imagina
 
@@ -2849,10 +2849,10 @@ catastrophic misfortune, seems diluted-distracted- by
 fear, while fear (dread, terror) usually manages to swamp
 
 pity. Leonardo is suggesting that the artist's gaze be, liter
-ally, pitiless. The image should appall, and in that terribi
+ally, pitiless. The image should appall, and in that terribility
 lita lies a challenging kind of beauty.
 
-That a gory battlescape could be beautifulin the
+That a gory battlescape could be beautiful in the
 
 sublime or awesome or tragic register of the beautiful-is
 
@@ -2868,7 +2868,7 @@ heartless. But the landscape of devastation is still a land
 scape. There is beauty in ruins. To acknowledge the
 beauty of photographs of the World Trade Center ruins
 in the months following the attack seemed frivolous, sac
-rilegious. The most people dared say was that the photo
+sacrilegious. The most people dared say was that the photo
 graphs were "surreal," a hectic euphemism behind which
 the disgraced notion of beauty cowered. But they were
 beautiful, many of them - by veteran photographers
@@ -2914,7 +2914,7 @@ could be an image from one of the searing movies made
 
 about the war-King Vidor's The Big Parade (1925) or
 
-G. \V Pabst's Wes!front 1918, Lewis Milestone's All Qyiet on
+G. \V Pabst's Wes!front 1918, Lewis Milestone's All Quiet on
 
 the Western Front, or Howard Hawks's The Dawn Patrol (all
 
@@ -2931,9 +2931,9 @@ authenticity of Steven Spielberg's acclaimed re-creation
 *The photographs of Bergen-Belsen, Buchenwald, and Dachau taken in
 April and l\Iay 1945 by anonymous witnesses and military photographers
 seem more valid than the "better" professional images taken by two cele
-brated professionals, l\Iargaret Bourke-White and Lee l\liller. But the criti
+brated professionals, l\Margaret Bourke-White and Lee l\Miller. But the criti
 cism of the professional look in war photography is not a recent \'iew. \\'alker
-E\"ans, for example, detested the work of Bourke-\\ihite. But then Evans,
+E\"ans, for example, detested the work of Bourke-\\White. But then Evans,
 who photographed poor American peasants for a book with the heavily
 ironic title Let Us Now Praise Famous ,\fen, would never take a picture of any
 body famous.
@@ -2948,7 +2948,7 @@ seems inauthentic, even though there is nothing staged
 
 about it, when it looks like a still from a movie. A photog
 
-rapher who specializes in world misery (including but not
+photographer who specializes in world misery (including but not
 
 restricted to the effects of war), Sebastiao Salgado, has
 
@@ -2972,7 +2972,7 @@ the detriment of the pictures, however unfair this may be.
 
 (There is much humbug to be found, and ignored, in dec
 
-larations made by some of the most admirable photogra
+declarations made by some of the most admirable photogra
 
 phers of conscience.) Salgado's pictures have also been
 
@@ -3002,7 +3002,7 @@ too irrevocable,
 ings and misfortunes are too vast,
 too epic to be much changed by any local political in
 tervention. With a subject conceived on this scale, com
-passion can only flounde~and make abstract. But
+passion can only flounder~and make abstract. But
 all politics, like all of history, is concrete. (To be sure, no
 body who really thinks about history can take politics al
 together seriously.)
@@ -3091,7 +3091,7 @@ to alter conduct, they must shock.
 An example: A few years ago, the public health author
 ities in Canada, where it had been estimated that smok
 ing kills forty-five thousand people a year, decided to
-supplement the warning printed on every pack of ciga
+supplement the warning printed on every pack of cigarettes
 rettes with a shock-photograph-of cancerous lungs, or a
 stroke-clotted brain, or a damaged heart, or a bloody
 mouth in acute periodontal distress. A pack with such a
@@ -3101,7 +3101,7 @@ effects of smoking would be sixty times more likely to in
 
 spire smokers to quit, a research study had somehow cal
 
-culated, than a pack with only the verbal warning.
+calculated, than a pack with only the verbal warning.
 
 Let's assume this is true. But one might wonder, for
 
@@ -3163,10 +3163,10 @@ But do people want to be horrified? Probably not. Still,
 there are pictures whose power does not abate, in part
 because one cannot look at them often. Pictures of the
 ruin of faces that will always testify to a great iniquity
-survived, at that cost: the faces of honibly disfigured First
+survived, at that cost: the faces of horribly disfigured First
 World War veterans who survived the inferno of the
 trenches; the faces melted and thickened with scar tissue
-of swvivors of the American atomic bombs dropped on
+of survivors of the American atomic bombs dropped on
 Hiroshima and Nagasaki; the faces cleft by machete
 blows of Tutsi survivors of the genocidal rampage
 launched by the Hutus in Rwanda-is it correct to say
@@ -3177,7 +3177,7 @@ sociated with the expectation of photographic evidence.
 Such evidence is, usually, of something posthumous; the
 remains, as it were--the mounds of skulls in Pol Pot's
 Cambodia, the mass graves in Guatemala and El Sal
-vador, Bosnia and Kosovo. And this posthumous reality is
+Salvador, Bosnia and Kosovo. And this posthumous reality is
 
 their
 
@@ -3196,11 +3196,11 @@ tographs: it was inevitable that the photographs of ema
 ciated Bosnian prisoners at Omarska, the Serb death
 camp created in northern Bosnia in 1992, would recall
 the photographs taken in the Nazi death camps in 1945.
-Photographs of atrocity illustrate as well as corrobo
+Photographs of atrocity illustrate as well as corroborate
 rate. Bypassing disputes about exactly how many were
 killed (numbers are often inflated at first), the photograph
 gives the indelible sample. The illustrative function of
-photographs leaves opinions, prejudices, fantasies, misin
+photographs leaves opinions, prejudices, fantasies, misinformation
 formation untouched. The information that many fewer
 Palestinians died in the assault on Jenin than had been
 claimed by Palestinian officials (as the Israelis had said all
@@ -3216,7 +3216,7 @@ China, notably the massacre of nearly four hundred
 thousand, and the rape of eighty thousand, Chinese in
 December 1937, the so-called Rape of Nanking; the rape
 of some one hundred and thirty thousand women and
-girls (ten thousand of whom committed suicide) by victo
+girls (ten thousand of whom committed suicide) by victorious
 rious Soviet soldiers unleashed by their commanding offi
 cers in Berlin in 1945-seem more remote. These are
 memories that few have cared to claim.
@@ -3226,7 +3226,7 @@ sense of the present and immediate past. Photographs lay
 down routes of reference, and serve as totems of causes:
 sentiment is more likely to crystallize around a photo
 graph than around a verbal slogan. And photographs
-help construct-and revisc--our sense of a more distant
+help construct-and revise--our sense of a more distant
 past, with the posthumous shocks engineered by the cir
 culation of hitherto unknown photographs. Photographs
 that everyone recognizes are now a constituent part of
@@ -3248,7 +3248,7 @@ trigger predictable thoughts, feelings. Poster-ready photo
 graphs--the mushroom cloud of an A-bomb test, Martin
 Luther King, Jr., speaking at the Lincoln Memorial in
 Washington, D.C., the astronaut walking on the moon
-are the visual equivalent of sound bites. They commemo
+are the visual equivalent of sound bites. They commemorate
 rate, in no less blunt fashion than postage stamps,
 Important Historical Moments; indeed, the triumphalist
 ones (the picture of the A-bomb excepted) become
@@ -3270,16 +3270,16 @@ good deal more than that.
 
 The memory museum in its current proliferation is a
 product of a way of thinking about, and mourning, the de
-struction of Europeanjewry in the 1930s and 1940s, which
-came to institutional fruition in Yad Vashem injerusalem,
+struction of European Jewry in the 1930s and 1940s, which
+came to institutional fruition in Yad Vashem in Jerusalem,
 the Holocaust Memorial Museum in Washington, D.C.,
 and the Jewish Museum in Berlin. Photographs and other
 memorabilia of the Shoah have been committed to a per
-petual recirculation, to ensure that what they show will be
+perpetual recirculation, to ensure that what they show will be
 remembered. Photographs of the suffering and martyrdom
 of a people are more than reminders of death, of failure, of
 victimization. They invoke the miracle of survival. To aim
-at the perpetuation of memories means, inevitabl); that
+at the perpetuation of memories means, inevitably); that
 one has undertaken the task of continually renewing, of
 creating, memories-aided, above all, by the impress of
 iconic photographs. People want to be able to visit-and
@@ -3290,7 +3290,7 @@ ferings. Armenians, for example, have long been clamoring
 for a museum in Washington to institutionalize the mem
 ory of the genocide of Armenian people by the Ottoman
 Turks. But why is there not already, in the nation's capital,
-which happens to be a city whose population is oveiwhelm
+which happens to be a city whose population is overwhelmingly
 ingly African-American, a Museum of the History of Slav-
 
 eey? Indeed, there is no Museum of the History of Slav
@@ -3319,7 +3319,7 @@ try, has its tragic past does not sit well with the founding,
 and sti.11 all-powerful, belief in American exceptionalism.
 The national consensus on American history as a history of
 
-progress is a new setting for distressing photograpffi-one
+progress is a new setting for distressing photographs-one
 that focuses our attention on wrongs, both here and else
 where, for which America sees itself as the solution or cure.
 
@@ -3369,7 +3369,7 @@ doesn't tell us everything we need to know.
 
 From an identification given by the photographer, Ron
 
-Haviv, we learn the photograph was taken in the town
+Bijeijina, we learn the photograph was taken in the town
 
 of Bijeijina in April 1992, the first month of the Serb
 
@@ -3405,7 +3405,7 @@ The pictures of Bosnian atrocities were seen soon after
 
 the events took place. Like pictures from the Vietnam
 
-\Var, such as Ron Haberle's evidence of the massacre in
+\Var, such as Ron Haberle evidence of the massacre in
 
 March 1968 by a company of American soldiers of some
 
@@ -3441,7 +3441,7 @@ gallery in New York in 2000. The lynching pictures tell us
 
 about human wickedness. About inhumanity. They force
 
-us to think about the extent of the evil unleashed specifi
+us to think about the extent of the evil unleashed specifically
 
 cally by racism. Intrinsic to the perpetration of this evil is
 
@@ -3455,7 +3455,7 @@ churchgoing citizens as most of them had to be, posing
 
 for a camera with the backdrop of a naked, charred, mu
 
-tilated body hanging from a tree. The display of these
+mutilated body hanging from a tree. The display of these
 
 pictures makes us spectators, too.
 
@@ -3469,7 +3469,7 @@ the better for seeing these images? Do they actually teach
 us anything? Don't they rather just confirm what we al
 ready know (or want to know)?
 
-All these questions were raised at the time of the exhi
+All these questions were raised at the time of the exhibition
 bition and afterward when a book of the photographs,
 Without Sanctuary, was published. Some people, it was
 said, might dispute the need for this grisly photographic
@@ -3506,7 +3506,7 @@ civilians, three-fourths of them women, were massacred
 
 in the RAF firebombing of Dresden on the night of Feb
 
-ruary 13, 194s; seventy-two thousand civilians were incin
+ruary 13, 194s; seventy-two thousand civilians were incinerated
 
 erated in seconds by the American bomb dropped on
 
@@ -3560,7 +3560,7 @@ obliged to think about what it means to look at them,
 about the capacity actually to assimilate what they show.
 Not all reactions to these pictures are under the supervi
 sion of reason and conscience. Most depictions of tor
-mented, mutilated bodies do arouse a pntrient interest.
+mented, mutilated bodies do arouse a prurient interest.
 (The Disasters of Uizr is notably an exception: Goya's im
 ages cannot be looked at in a spirit of prurience. They
 don't dwell on the beauty of the human body; bodies are
@@ -3594,7 +3594,7 @@ sire, which drives the self to become angry with a part of
 
 its nature. Plato has been developing a tripartite theory of
 
-mental function, consisting of reason, anger or indigna
+mental function, consisting of reason, anger or indignation
 
 tion, and appetite or desire-anticipating the Freudian
 
@@ -3719,7 +3719,7 @@ extreme suffering as something more than just suffering,
 as a kind of transfiguration. It is a view of suffering, of
 the pain of others, that is rooted in religious thinking,
 which links pain to sacrifice, sacrifice to exaltation
-a view that could not be more alien to a modern sensibil
+a view that could not be more alien to a modern sensibility
 ity, which regards suffering as something that is a mistake
 or an accident or a crime. Something to be fixed. Some
 thing to be refused. Something that makes one feel
@@ -3835,15 +3835,15 @@ one starts to get bored, cynical, apathetic.
 
 *Telling-ly, that connoisseur of death and high priest of the delights of apa
 thy, Andy ·warhol, was drawn to news reports of a variety of violent deaths
-(car and plane crashes, suicides, executions). But his silk-screened transcrip
+(car and plane crashes, suicides, executions). But his silk-screened transcriptions
 tions excluded death in war. A news photo of an electric chair and a tabloid's
-screaming front page, "129 Die injet," yes. "Hanoi Bombed," no. The only
+screaming front page, "129 Die injury," yes. "Hanoi Bombed," no. The only
 photograph Warhol silk-screened that refers to the violence of war is one
 that had become iconic; that is, a cliche: the mushroom cloud of an atomic
 bomb, repeated as on a sheet of postage stamps (like the faces of Marilyn,
 Jackie, Mao) to illustrate its opaqueness, its fascination, its banality.
 
-And it is not necessarily better to be moved. Sentimen
+And it is not necessarily better to be moved. Sentimentality
 
 tality, notoriously, is entirely compatible with a taste for
 
@@ -3949,7 +3949,7 @@ certainly becomes more real than it would have been had
 
 one never seen the photographs, after repeated exposure
 
-it also becomes less real. As much as they create sympa
+it also becomes less real. As much as they create sympathy
 
 thy, I wrote, photographs shrivel sympathy. Is this true? I
 
@@ -3973,7 +3973,7 @@ sooner or later, one tires. What looks like callousness has
 
 its origin in the instability of attention that television is
 organized to arouse and to satiate by its surfeit of images.
-Image-glut keeps attention light, mobile, relatively indif
+Image-glut keeps attention light, mobile, relatively indifference
 ferent to content. Image-flow precludes a privileged im
 age. The whole point of television is that one can switch
 channels, that it is normal to switch channels, to become
@@ -3991,7 +3991,7 @@ horrors by which we are corrupted and to which we
 gradually become habituated is a founding idea of the
 critique of modernity-the critique being almost as old
 as modernity itself. In 1800, Wordsworth, in the Preface
-to Lyrical &llads, denounced the corruption of sensibility
+to Lyrical &Lyrical Ballads, denounced the corruption of sensibility
 produced by "the great national events which are daily
 taking place, and the increasing accumulation of men in
 cities, where the uniformity of their occupations produces
@@ -4000,7 +4000,7 @@ a craving for extraordinary incident, which the rapid
 
 communication of intelligence hourly gratifies." This
 
-process of overstimulation acts "to blunt the discriminat
+process of overstimulation acts "to blunt the discriminating
 
 ing powers of the mind" and "reduce it to a state of al
 
@@ -4030,7 +4030,7 @@ It is impossible to glance through any newspaper, no mat
 
 ter what the day, the month or the year, without finding
 
-on every line the most frightful traces of human perver
+on every line the most frightful traces of human perversity
 
 sity ... Every newspaper, from the first line to the last, is
 
@@ -4045,7 +4045,7 @@ with this loathsome appetizer that civilized man daily
 washes down his morning repast.
 
 Newspapers did not yet carry photographs when Baude
-laire wrote. But this doesn't make his accusatory descrip
+laire wrote. But this doesn't make his accusatory description
 tion of the bourgeois sitting down with his morning
 newspaper to breakfast with an array of the world's hor
 rors any different from the contemporary critique of how
@@ -4054,7 +4054,7 @@ sion as well as the morning paper. Newer technology pro
 vides a nonstop feed: as many images of disaster and
 atrocity as we can make time to look at.
 
-Since On Plwtography, many critics have suggested that
+Since On Photography, many critics have suggested that
 the excruciations of war-thanks to television-have de
 volved into a nightly banality. Flooded with images of the
 sort that once used to shock and arouse indignation, we
@@ -4062,13 +4062,13 @@ are losing our capacity to react. Compassion, stretched to
 its limits, is going numb. So runs the familiar diagnosis.
 But what is really being asked for here? That images of
 carnage be cut back to, say, once a week? More generally,
-that we work toward what I called for in On Phnwgraphy:
-an "ecology of images"? There isn't going to be an ecol
+that we work toward what I called for in On Photography:
+an "ecology of images"? There isn't going to be an ecology
 ogy of images. No Committee of Guardians is going to
 ration horror, to keep fresh its ability to shock. And the
 horrors themselves are not going to abate.
 
-THE VIEW PROPOSED IN On Plwwgrap~that our ca
+THE VIEW PROPOSED IN On Photography~that our ca
 pacity to respond to our experiences with emotional
 
 freshness and ethical pertinence is being sapped by the
@@ -4179,7 +4179,7 @@ countries where people have the dubious privilege of be-
 
 Regarding the Pain or Others
 
-ing spectators, or of declining to be spectaton, of other
+ing spectators, or of declining to be spectator, of other
 people's pain, just as it is absurd to generalize about the
 ability to respond to the sufferings of others on the basis
 of the mind-set of those consumers of news who know
@@ -4203,7 +4203,7 @@ never been near a war, and from the war-weary who are
 enduring the miseries being photographed.
 
 Citizens of modernity, consumers of violence as spec
-tacle, adepts of proximity without risk, are schooled to be
+spectacle, adepts of proximity without risk, are schooled to be
 cynical about the possibility of sincerity. Some people will
 do anything to keep themselves from being moved. How
 much easier, from ones chair, far from danger, to claim
@@ -4261,7 +4261,7 @@ ings alongside the sufferings of another people was to
 
 compare them (which hell was worse?), demoting Sara
 
-jevo's martyrdom to a mere instance. The atrocities tak
+Sarajevo's martyrdom to a mere instance. The atrocities tak
 
 ing place in Sarajevo have nothing to do with what
 
@@ -4269,7 +4269,7 @@ happens in Africa, they exclaimed. Undoubtedly there
 
 was a racist tinge to their indignation-Bosnians are Eu
 
-ropeans, people in Sarajevo never tired of pointing out to
+Europeans, people in Sarajevo never tired of pointing out to
 
 their foreign friends-but they would have objected too
 
@@ -4287,7 +4287,7 @@ thing about how to extract people from that hell,
 how to moderate hell's flames. Still, it seems a good in it
 self to acknowledge, to have enlarged, one's sense of how
 much suffering caused by human wickedness there is in
-the world we share with others. Someone who is perenni
+the world we share with others. Someone who is perennially
 ally surprised that depravity exists, who continues to feel
 disillusioned (even incredulous) when confronted with ev
 idence of what humans are capable of inflicting in the
@@ -4371,7 +4371,7 @@ of disasters throughout the world. It seems as if there is a
 greater quantity of such news than before. This is probably
 an illusion. It's just that the spread of news is "every
 where." And some people's sufferings have a lot more in
-trinsic interest to an audience (given that suffering must be
+intrinsic interest to an audience (given that suffering must be
 acknowledged as having an audience) than the sufferings of
 others. That news about war is now disseminated world
 wide does not mean that the capacity to think about the
@@ -4416,7 +4416,7 @@ passion, cannot dictate a course of action.
 
 The frustration of not being able to do anything about
 
-what the images show may be translated into an accusa
+what the images show may be translated into an accusation
 
 tion of the indecency of regarding such images, or the
 
@@ -4514,9 +4514,9 @@ in some setting. And the settings have multiplied. A noto
 
 rious advertising campaign for Benetton, the Italian man
 
-ufacturer of casual clothing, used a photograph of the
+manufacturer of casual clothing, used a photograph of the
 
-blood-stained shirt of a dead Croatian soldier. Advertis
+blood-stained shirt of a dead Croatian soldier. Advertising
 
 ing photographs are often just as ambitious, artful, slyly
 
@@ -4547,7 +4547,7 @@ I 2 I
 
 there seems no way to guarantee contemplative or m
 
-hibiting space for anything now.
+exhibiting space for anything now.
 
 So far as photographs with
 
@@ -4557,7 +4557,7 @@ heartrending subject matter are art-and this is what
 
 they become when they hang on walls, whatever the dis
 
-claimers-they partake of the fate of all wall-hung or
+disclaimers-they partake of the fate of all wall-hung or
 
 floor-supported art displayed in public spaces. That is,
 
@@ -4578,12 +4578,12 @@ talking. Still, at some moment the book will be closed.
 The strong emotion will become a transient one. Eventu-
 
 *The evolution of the museum itself has gone far toward expanding this am
-bience of distraction. Once a repository for conserving and displaying the
+ambience of distraction. Once a repository for conserving and displaying the
 fine arts of the past, the museum has become a vast educational institution
 cum-emporium, one of whose functions is the exhibition of art. The pri
 mary function is entertainment and education in various mixes, and the
 marketing of experiences, tastes, and simulacra. The Metropolitan Museum
-of Art in New York mounts an exhibition of the clothes worn by Jacquelint'
+of Art in New York mounts an exhibition of the clothes worn by Jacqueline'
 Bouvier Kennedy Onassis during her White House years, and the Imperial
 War Museum in London, admired for its collections of military hardware
 and pictures, now offers two replicated environments to visitors: from the
@@ -4596,13 +4596,13 @@ underground shelter.
 
 ally the specificity of the photographs' accusations will
 
-fade; the denunciation of a particular conflict and attri
+fade; the denunciation of a particular conflict and attribution
 
 bution of specific crimes will become a denunciation of
 
 human cruelty, human savagery as such. The photogra
 
-pher's intentions are irrelevant to this larger process.
+photographer's intentions are irrelevant to this larger process.
 
 Is THERE AN ANTIDOTE to the perennial seductiveness
 
@@ -4620,7 +4620,7 @@ say, Dreiser's An American Tragedy or Turgenev's "The Exe
 
 cution of Troppmann," an account by the expatriate
 
-writer, invited to be an obsef\"er in a Paris prison, of a fa
+writer, invited to be an observer\"er in a Paris prison, of a fa
 
 mous criminal's last hours before being guillotined? A
 
@@ -4656,13 +4656,13 @@ ordered or condoned.
 
 Among single antiwar images, the huge photograph
 
-thatjeff Wall made in 1992 titled "Dead Troops Talk (A
+that Jeff Wall made in 1992 titled "Dead Troops Talk (A
 
 Vision After an Ambush of a Red Army Patrol near
 
 Moqor, Afghanistan, Winter 1986)" seems to me exem
 
-plary in its thoughtfulness and power. The antithesis of a
+exemplary in its thoughtfulness and power. The antithesis of a
 
 document, the picture, a Cibachrome transparency seven
 
@@ -4678,7 +4678,7 @@ Afghanistan. The ambush is a made-up event in a savage
 
 war that had been much in the news. Wall set as his task
 
-the imagining of war's horror (he cites Goya as an inspi
+the imagining of war's horror (he cites Goya as an inspiration
 
 ration), as in nineteenth-century history painting and
 
@@ -4701,7 +4701,7 @@ tic" but, of course, the image is not. Dead soldiers don't
 
 talk. Here they do.
 
-Thirteen Russiari soldiers in bulky winter uniforms and
+Thirteen Russian soldiers in bulky winter uniforms and
 high boots are scattered about a pocked, blood-splashed
 slope lined with loose rocks and the litter of war: shell
 casings, crumpled metal, a boot that holds the lower part
@@ -4712,7 +4712,7 @@ conscripts, slaughtered in the Soviet Union's own late
 folly of a colonial war, were never buried. A few still have
 their helmets on. The head of one kneeling figure, talking
 animatedly, foams with his red brain matter. The atmo
-sphere is warm, com·ivial, fraternal. Some slouch, leaning
+sphere is warm, com·convivial, fraternal. Some slouch, leaning
 on an elbow, or sit, chatting, their opened skulls and de
 stroyed hands on view. One man bends over another who
 lies on his side as if asleep, perhaps encouraging him to
@@ -4848,7 +4848,7 @@ tographs of the Crimean War," The Yale Journal ef Cri!U-ism vol. 14, no.
 Fenton's "The Valley of the Shadow of Death" to Mark Haworth
 
 Booth of the Victoria and Albert Museum; both are reproduced in
-The Ultimate Spectade: A Visual History ef the Crimean War, by Ulrich
+The Ultimate Spectacle: A Visual History ef the Crimean War, by Ulrich
 Keller (Routledge, 2001). The account of the British reaction to the
 
 photograph of unburied British dead at the Battle of Spion Kop

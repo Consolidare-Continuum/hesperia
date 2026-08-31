@@ -21,8 +21,8 @@ publiés sur le gouvernement représentatif et la constitution
 actuelle, ou Cours de politique constitutionnelle, 4 vols.
 (Paris and Rouen, 1820), vol. 4, pp. 238-74.
 
-The speech contains numerous repetitions and reformulations of passages which appeared in the Spint of
-Conquest and Usurpation and in the Prinaples of Politics.
+The speech contains numerous repetitions and reformulations of passages which appeared in the Spirit of
+Conquest and Usurpation and in the Principles of Politics.
 The general significance of these reformulations is discussed in the Introduction to this volume. It seemed too
 pedantic to indicate the repeated passages one by one in
 the annotation, as their presence does not affect the
@@ -148,7 +148,7 @@ Lacedaemonian could not visit his new bride freely. In Rome, the
 censors cast a searching eye over family life. The laws regulated
 customs, and as customs touch on everything, there was hardly anything that the laws did not regulate.
 
-Thus ainong the ancients the individual, almost always sovereign in
+Thus among the ancients the individual, almost always sovereign in
 public affairs, was a slave in all his private relations. As a citizen, he
 decided on peace and war; as a private individual, he was constrained,
 
@@ -283,7 +283,7 @@ Thirdly, commerce does not, like war, leave in men's lives intervals'
 of inactivity. The constant exercise of political rights, the daily discussion of the affairs of the state, disagreements, confabulations, the
 whole entourage and movement of factions, necessary agitations, the
 
-Speech gtven at the Athénée Royal
+Speech given at the Athénée Royal
 
 compulsory filling, if I may use the term, of the life of the peoples of
 antiquity, who, without this resource would have languished under the
@@ -344,7 +344,7 @@ body in Athens, than he is in any of the free states of Europe today.
 
 It follows from what I have just indicated that we can no longer enjoy
 the liberty of the ancients, which consisted in an active and constant
-participation in coilective power. Our freedom must consist of peaceful
+participation in collective power. Our freedom must consist of peaceful
 enjoyment and private independence. The share which in antiquity
 everyone held in national sovereignty was by no means an abstract
 presumption as it is in our own day. The will of each individual had real
@@ -364,7 +364,7 @@ pleasures that the ancients found in it, while at the same time the
 progress of civilization, the commercial tendency of the age, the communication amongst peoples, have infinitely multiplied and varied the
 means of personal happiness.
 
-a Xenophon, De Republica Lacedaemonium, УШ, 2 in: J. М. Moore (ed.), Aristotle and
+a Xenophon, De Republica Lacedaemonian, УШ, 2 in: J. М. Moore (ed.), Aristotle and
 
 Xenophon on democracy and oligarchy (London, 1975).
 
@@ -436,7 +436,7 @@ for the nation to be sovereign, and that the individual should be
 enslaved for the people to be free.
 
 The abbé de Mably, like Rousseau and many others, had mistaken,
-just as the ancients did, the authority of the sucial body for liberty; and
+just as the ancients did, the authority of the social body for liberty; and
 to him any means seemed good if it extended his area of authority over
 that recalcitrant part of human existence whose independence he
 deplored. The regret he expresses everywhere in his works is that the
@@ -627,7 +627,7 @@ arrest by refusing to ratify the decisions of the authority.
 
 What I have just said of the revival of censorship in modern times
 applies also to many other aspects of social organization, in relation to
-which antiquity is cited even more frequently and with greater emphas
+which antiquity is cited even more frequently and with greater emphasis
 sis. As for example, education; what do we not hear of the need to allow
 the government to take possession of new generations to shape them to
 its pleasure, and how many erudite quotations are employed to support
@@ -674,7 +674,7 @@ diminish the value of political liberty. I do not draw from the evidence І
 have put before your eyes the same conclusions that some others have.
 From the fact that the ancients were free, and that we cannot any longer
 be free like them, they conclude that we are destined to be slaves. They
-would like'to reconstitute the new social state with a small number of
+would like to reconstitute the new social state with a small number of
 elements which, they say, are alone appropriate to the situation of the
 world today. These elements are prejudices to frighten men, egoism to
 
@@ -713,7 +713,7 @@ defend it which the ancients did not.
 
 Commerce makes the action of arbitrary power over our existence
 more oppressive than in the past, because, as our speculations are more
-varied, arbitrary power must multiply itself to reach them. But commerce also makes the action of arbitrary power easier tu elude, becausé
+varied, arbitrary power must multiply itself to reach them. But commerce also makes the action of arbitrary power easier tu elude, becauseé
 it changes the nature of property, which becomes, in virtue of this
 change, almost impossible to seize.
 
@@ -760,7 +760,7 @@ do herself. Poor men look after their own business; rich men hire
 а Charles Ganilh, Essai politique, vol. 1, pp. 64-5.
 + 'A deficit of 60 million caused the French revolution. Under Vespasian, a deficit of
 600 million did not produce the slightest unrest in the empire.' Е. Hofmann (ed.),
-Les 'Prinaipes de Politique', vol. 2, р. 426.
+Les 'Principes de Politique', vol. 2, р. 426.
 
 eee
 

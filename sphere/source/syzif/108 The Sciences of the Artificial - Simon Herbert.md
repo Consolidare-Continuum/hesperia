@@ -2151,7 +2151,7 @@ tactile sense of its environment but capable of exploring a room, and periodical
 seeking its nest to recharge its batteries.1 Today, robots with modest visual
 intelligence
 sensory capabilities roam about
-alaboratories.2 Suppose we undertook to design an automaton with the
+laboratories.2 Suppose we undertook to design an automaton with the
 approximate dimensions of an ant, similar means of locomotion, and comparable
 sensory acuity. Suppose we provided it with a few simple adaptive capabilities:
 when faced with a steep slope, try climbing it obliquely; when faced with an
@@ -2712,7 +2712,7 @@ Where experiments appear to show that more than two chunks are retained
 across an interruption, the phenomena can almost always be explained
 parsimoniously by mechanisms we have already discussed in the previous
 section. In some of these experiments the explanation as already pointed out by
-Milleris that the subject recodes the stimulus into a smaller number of chunks
+Miller that the subject recodes the stimulus into a smaller number of chunks
 before storing it in short-term memory. If ten items can be recoded as two
 chunks, then ten items can be retained. In the other experiments where "too
 much" appears to be retained in short-term memory, the times allowed the
@@ -2959,7 +2959,7 @@ which shows, by one curve, the quantity of a commodity that will be supplied to
 the market at each price, and by another curve, the quantity that will be
 demanded at each price. If we notice that the two curves intersect, we can
 interpret the intersection as the point at which the supply and demand quantities
-are equal, a point of market equilibrium; and we can read off directly from the xaxis and y-axis of the diagram the equilibrium quantity and price (the x and y
+are equal, a point of market equilibrium; and we can read off directly from the x-axis and y-axis of the diagram the equilibrium quantity and price (the x and y
 coordinates of the intersection). All this processing goes on in the mind's eye,
 using the information read from the diagram.
 
@@ -3956,7 +3956,7 @@ learning a lesson by rote and learning it with understanding, or meaningfully.
 When something has been learned by rote, it can be regurgitated more or less
 literally, but it cannot be used as a cognitive tool. Laboratory experiments have
 shown that material can usually be learned more rapidly with understanding than
-by rote, is retained over longer periods of time, and can be transfered better to
+by rote, is retained over longer periods of time, and can be transferred better to
 new tasks.11
 
 In spite of the great pragmatic importance of the distinction between rote and
@@ -4247,7 +4247,7 @@ adapting a known representation and inventing the calculus.
 
 In the difficult "insight" problem known as the "Mutilated Checkerboard," a
 checkerboard is covered by 32 dominoes, each of which covers exactly two
-squares. Someone mutilates the board by snipping off the upper-left and lowerright corner squares. Can the mutilated board be covered by (31) dominoes? If
+squares. Someone mutilates the board by snipping off the upper-left and lower right corner squares. Can the mutilated board be covered by (31) dominoes? If
 so, how; if not, why not?
 
 Typically, subjects work for hours in the given problem space of the board and
@@ -4582,7 +4582,7 @@ A theory of design as applied to the game of chess would encompass not only the
 utopian mini max principle but also some practicable pro-
 
 3. The use of the notion of "possible worlds" to embed the logic of imperatives in declarative logic
-goes back at least to Jørgen Jørgensen, "Imperatives and Logic," Erkenntnis, 7(1937 1938):288 296.
+goes back at least to Jørgen JøJørgensen, "Imperatives and Logic," Erkenntnis, 7(1937 1938):288 296.
 See also my Administrative Behavior (New York: Macmillan, 1947), chapter 3. Typed logics can be
 used to distinguish, as belonging to different types, statements that are true under different conditions
 (i.e., in different possible worlds), but, as my example shows, even this device is not usually needed.
@@ -4721,7 +4721,7 @@ worlds. Only as it begins to acquire experience as to how elements of the one
 relate to elements of the other can it act purposefully on the world.
 
 The computer problem-solving program called GPS, designed to model some of
-the main features of human problem solving, exhibits in stark form how goaldirected action depends on building this kind of bridge between the afferent and
+the main features of human problem solving, exhibits in stark form how goal directed action depends on building this kind of bridge between the afferent and
 the efferent worlds. On the afferent, or sensory, side, GPS must be able to
 represent desired situations or desired objects as well as the present situation. It
 must be able also to represent differences between the desired and the present.
@@ -4850,7 +4850,7 @@ In the case of highway design the higher-level search is directed toward
 discovering "bands of interest" within which the prospects of finding a good
 specific route are promising. Within each band of interest one or more locations
 is selected for closer examination. Specific designs are then developed for
-particular locations. The scheme is not limited of course to this specific threelevel division, but it can be generalized as appropriate.
+particular locations. The scheme is not limited of course to this specific three level division, but it can be generalized as appropriate.
 
 Manheim's scheme for deciding which alternatives to pursue from one level to
 the next is based on assigning costs to each of the design activities and
@@ -5732,7 +5732,7 @@ short-run fluctuations in product orders. Energy storage in the tissues of a
 predator enables it to cope with uncertainties in the availability of prey. A
 modest excess of capacity in electric generating plants avoids the need for
 precise estimation of peak loads. Homeostatic mechanisms are especially useful
-for handling short-range fluctuations in the environment, hence for making shortrange prediction unnecessary.
+for handling short-range fluctuations in the environment, hence for making short range prediction unnecessary.
 
 Feedback mechanisms, on the other hand, by continually responding to
 discrepancies between a system's actual and desired states, adapt it to long-range
@@ -6170,7 +6170,7 @@ growth of knowledge of the kinds I have been describing represents such moral
 progress.
 
 But we should not be hasty in our evaluation of the consequences of lengthening
-perspectives in space or time. The present century is not lacksing in horrible examples of man's inhumanity to man. We must be alert also to
+perspectives in space or time. The present century is not lacking in horrible examples of man's inhumanity to man. We must be alert also to
 the possibility that rationality applied to a broader domain will simply be a more
 calculatedly rational selfishness than the impulsive selfishness of the past.
 
@@ -6203,7 +6203,7 @@ Attention of the decision-making bodies has to be allocated correspondingly.
 It is a commonplace organizational phenomenon that attending to the needs of
 the moment putting out fire stakes precedence over attending to the needs for
 new capital investment or new knowledge. The more crowded the total agenda
-and the more frequently emergencies arise, the more likely it is that the middlerange and long range decisions will be neglected. In formal organizations a
+and the more frequently emergencies arise, the more likely it is that the middle-range and long range decisions will be neglected. In formal organizations a
 remedy is often sought for this
 
 condition by creating planning groups that are insulated in one way or another
@@ -6691,7 +6691,7 @@ of the first was the meteorologist E. N. Lorenz, who started to explore in the
 early 1960s the possibility that weather was a chaotic phenomenon the possibility
 that the butterfly in Singapore, by flapping its wings, could cause a thunderstorm
 in New York. Soon, fluid turbulence in general was being discussed in terms of
-chaos; and the possible inculpation of chaos in the complex behavior of a wide
+chaos; and the possible implication of chaos in the complex behavior of a wide
 range of physical and biological systems was being studied. Solid experimental
 evidence that specific physical systems do, in fact, behave chaotically began to
 appear in the late 1970s.11
@@ -6700,7 +6700,7 @@ The growth in attention to chaos must be viewed against the background of our
 general understanding of dynamic systems. For a long time we have had a quite
 general theory of systems of linear differential equa-
 
-10. H. Poincaré, Les Methodes Nouvelle de la Méchanique Céleste. (Paris: Gauthier-Villars, 1892).
+10. H. Poincaré, Les Méthodes Nouvelle de la Mémécanique Céleste. (Paris: Gauthier-Villars, 1892).
 11. An excellent selection of the literature of chaos, both mathematical and experimental, up to the
 middle 1980s can be found in P. Cvitanovic * (ed.), Universality in Chaos (Bristol: Adam Hilger, 1986).
 

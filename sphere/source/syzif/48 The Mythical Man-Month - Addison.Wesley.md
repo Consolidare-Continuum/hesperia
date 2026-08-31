@@ -746,7 +746,7 @@ raw in another.
 
 Now I do not think software managers have less inherent
 courage and firmness than chefs, nor than other engineering managers. But false scheduling to match the patron's desired date is
-much more common in our discipline than elsewhere in engineering. It is very difficult to make a vigorous, plausible, and jobrisking defense of an estimate that is derived by no quantitative
+much more common in our discipline than elsewhere in engineering. It is very difficult to make a vigorous, plausible, and job-risking defense of an estimate that is derived by no quantitative
 method, supported by little data, and certified chiefly by the
 hunches of the managers.
 
@@ -757,7 +757,7 @@ such data.
 
 Until estimating is on a sounder basis, individual managers
 will need to stiffen their backbones and defend their estimates
-with the assurance that their poor hunches are better than wishderived estimates.
+with the assurance that their poor hunches are better than wish-derived estimates.
 
 Regenerative Schedule Disaster
 
@@ -814,7 +814,7 @@ takes a month, 3 man-months will have been devoted to work not in the
 original estimate. Furthermore, the task, originally partitioned three
 ways, must be repartitioned into five parts; hence some work
 already done will be lost, and system testing must be lengthened.
-So at the end of the third month, substantially more than 7 manmonths of effort remain, and 5 trained people and one month are
+So at the end of the third month, substantially more than 7 man-months of effort remain, and 5 trained people and one month are
 available. As .8 suggests, the product is just as late as if no
 one had been added (.6).
 
@@ -979,7 +979,7 @@ The administrator. The surgeon is boss, and he must have the
 last word on personnel, raises, space, and so on, but he must spend
 almost none of his time on these matters. Thus he needs a professional administrator who handles money, people, space, and machines, and who interfaces with the administrative machinery of
 the rest of the organization. Baker suggests that the administrator
-has a full-time job only if the project has substantial legal, contractual, reporting, or financial requirements because of the userproducer relationship. Otherwise, one administrator can serve two
+has a full-time job only if the project has substantial legal, contractual, reporting, or financial requirements because of the user-producer relationship. Otherwise, one administrator can serve two
 teams.
 
 The editor. The surgeon is responsible for generating the documentation—for maximum clarity he must write it. This is true of
@@ -1375,7 +1375,7 @@ soon as he has relatively vague assumptions about the manual,
 somewhat clearer ideas about the technology, and well-defined
 cost and performance objectives. He can begin designing data
 flows, control sequences, gross packaging concepts, and so on. He
-devises or adapts the tools he will need, especially the recordkeeping system, including the design automation system.
+devises or adapts the tools he will need, especially the record-keeping system, including the design automation system.
 
 Meanwhile, at the realization level, circuits, cards, cables,
 frames, power supplies, and memories must each be designed,
@@ -1552,7 +1552,7 @@ to allow selective tracing and snapshotting without interpretive
 overhead or recompilation. The imaginative concepts of the Share
 Operating System3 for the 709 have been brought to full bloom.
 Meanwhile, the whole notion of batch debugging without
-reeompilation was becoming obsolete. Interactive computing systems, using language interpreters or incremental compilers have
+recompilation was becoming obsolete. Interactive computing systems, using language interpreters or incremental compilers have
 provided the most fundamental challenge. But even in batch systems, the appearance of fast-compile/slow-execute compilers has
 made source-level debugging and snapshotting the preferred technique. How much better the system would have been if the TES-
 TRAN effort had been devoted instead to building the interactive
@@ -1620,7 +1620,7 @@ a schedule.
 
 The manual must not only describe everything the user does
 see, including all interfaces; it must also refrain from describing
-what the user does not see. That is the implementer's business, and
+what the user does not see. That is the implementers business, and
 there his design freedom must be unconstrained. The architect
 must always be prepared to show an implementation for any
 feature he describes, but he must not attempt to dictate the implementation.
@@ -1720,7 +1720,7 @@ by programmers. When we undertook to emulate the IBM 1401
 on System/360, for example, it developed that there were 30
 different "curios"—side effects of supposedly invalid operations—
 that had come into widespread use and had to be considered as
-part of the definition. The implementation as a definition overprescribed; it not only said what the machine must do, it also said a
+part of the definition. The implementation as a definition over-prescribed; it not only said what the machine must do, it also said a
 great deal about how it had to do it.
 
 Then, too, the implementation will sometimes give unexpected and unplanned answers when sharp questions are asked,
@@ -1881,7 +1881,7 @@ early and simultaneously with design.
 Why Did the Tower
 of Babel Fail?
 
-Why Did theTower
+Why Did the Tower
 of Babel Fail?
 
 Now the whole earth used only one language, with few
@@ -1949,7 +1949,7 @@ available and the uses to be made of the outputs.
 
 The Project Workbook
 
-For example, the implementer of a program-overlaying function may run into problems and reduce speedr relying on statistics
+For example, the implementer of a program-overlaying function may run into problems and reduce speed relying on statistics
 that show how rarely this function will arise in application programs. Meanwhile, back at the ranch, his neighbor may be designing a major part of the supervisor so that it critically depends upon
 the speed of this function. This change in speed itself becomes a
 major specification change, and it needs to be proclaimed abroad
@@ -2393,7 +2393,7 @@ programmers
 
 Years
 
-Maayears
+Man-years
 
 Program
 words
@@ -2483,7 +2483,7 @@ effort included. And the productivity number is a good average
 between the control program and translator productivities of other
 projects.
 
-But Corbato's number is lines per man-year, not wordsl Each
+But Corbato's number is lines per man-year, not words Each
 statement in his system corresponds to about three to five words
 of handwritten code! This suggests two important conclusions.
 
@@ -2525,7 +2525,7 @@ month.
 
 One frequently hears horror expressed that a 2 M byte machine may have 400 K devoted to its operating system. This is as
 foolish as criticizing a Boeing 747 because it costs $27 million. One
-must also ask, "What does it do?" What does one get in ease-ofuse and in performance (via efficient system utilization) for the
+must also ask, "What does it do?" What does one get in ease-of use and in performance (via efficient system utilization) for the
 dollars so spent? Could the $4800 per month thus invested in
 memory rental have been more fruitfully spent for other hardware, for programmers, for application programs?
 
@@ -2622,7 +2622,7 @@ constant. So the first area of craftsmanship is in trading function
 for size. Here there comes an early and deep policy question. How
 much of that choice shall be reserved for the user? One can design
 a program with many optional features, each of which takes a little
-space. One can design a generator that will take an option Jist and
+space. One can design a generator that will take an option List and
 tailor a program to it. But for any particular set of options, a more
 monolithic program would take less space. It's rather like a car; if
 the map light, cigarette lighter, and clock are priced together as a
@@ -2668,7 +2668,7 @@ Representation Is the Essence of Programming
 
 Beyond craftsmanship lies invention, and it is here that lean,
 spare, fast programs are born. Almost always these are the result
-of stategic breakthrough rather than tactical cleverness. Sometimes the strategic breakthrough will be a new algorithm, such as
+of strategic breakthrough rather than tactical cleverness. Sometimes the strategic breakthrough will be a new algorithm, such as
 the Cooley-Tukey Fast Fourier Transform or the substitution of
 an n log n sort for an n* set of comparisons.
 
@@ -2959,7 +2959,7 @@ Plan to Throw One Away
 
 cussed than practiced. They include careful modularization, extensive subroutining, precise and complete definition of
 intermodule interfaces, and complete documentation of these.
-Less obviously one wants standard calling sequences and tabledriven techniques used wherever possible.
+Less obviously one wants standard calling sequences and table-driven techniques used wherever possible.
 
 Most important is the use of a high-level language and selfdocumenting techniques so as to reduce errors induced by
 changes. Using compile-time operations to incorporate standard
@@ -3056,7 +3056,7 @@ ceases to gain any ground. Each forward step is matched by a
 backward one. Although in principle usable forever, the system
 has worn out as a base for progress. Furthermore, machines
 change, configurations change, and user requirements change, so
-the system is not in fact usable forever. A brand-new, from-theground-up redesign is necessary.
+the system is not in fact usable forever. A brand-new, from-the ground-up redesign is necessary.
 
 And so from a statistical mechanical model, Belady and Lehman arrive for programming-systems at a more general conclusion
 supported by the experience of all the earth. "Things are always
@@ -3141,7 +3141,7 @@ The debugging machine, or its software, also needs to be instrumented, so that c
 Memory-use patterns, for instance, are powerful diagnostics of
 the causes of weird logical behavior or unexpectedly slow performance.
 
-Scheduling. When the target machine is rtew, as when its first
+Scheduling. When the target machine is new, as when its first
 operating system is being built, machine time is scarce, and scheduling it is a major problem. The requirement for target machine
 time has a peculiar growth curve. In OS/360 development we had
 good System/360 simulators and other vehicles. From previous
@@ -3209,7 +3209,7 @@ simulator for it. This gives a debugging vehicle long before the real
 target exists. Equally important, it gives access to a dependable
 debugging vehicle even after one has a target machine available.
 Dependable is not the same as accurate. The simulator will
-surely fail in some respect to be a faithful and accurate implemen-
+surely fail in some respect to be a faithful and accurate implementation-
 
 tation of the new machine's architecture. But it will be the same
 implementation from one day to the next, and the new hardware
@@ -3285,7 +3285,7 @@ to have been independently developed on several massive programming projects inc
 programs. It is an indispensable technology.
 
 Program tools. As new debugging techniques appear, the old
-ones diminish but do not vanish. Thus one needs dumps, sourcefile editors, snapshot dumps, even traces.
+ones diminish but do not vanish. Thus one needs dumps, source file editors, snapshot dumps, even traces.
 
 Likewise one needs a full set of utilities for putting decks on
 disks, making tape copies, printing files, changing catalogs. If one
@@ -3512,7 +3512,7 @@ made, and additional control structures, such as an n-way branch
 contingencies, and a disaster bail-out (GO TO ABNORMAL
 END) are very convenient. Further, some have become very doctrinaire about avoiding all GO TO's, and that seems excessive.
 
-The important point, and the one vital to constructing bugfree programs, is that one wants to think about the control structures of a system as control structures, not as individual branch
+The important point, and the one vital to constructing bug-free programs, is that one wants to think about the control structures of a system as control structures, not as individual branch
 statements. This way of thinking is a major step forward.
 
 Component Debugging
@@ -3608,7 +3608,7 @@ my debugging log, filing updated program listings in my system
 notebook, explaining strange phenomena. The other half is spent
 in preparation: planning changes and improvements and designing
 detailed tests for next time. Without such planning, it is hard to
-stay productive for as much as two hours. Without the postsession sweep-up, it is hard to keep the succession of terminal
+stay productive for as much as two hours. Without the post-session sweep-up, it is hard to keep the succession of terminal
 sessions systematic and forward-moving.
 
 Test cases. As for the design of actual debugging procedures and
@@ -4007,7 +4007,7 @@ space! For the program product, the other face to the user is fully
 as important as the face to the machine.
 
 Most of us have quietly excoriated the remote and anonymous
-author of some skimpily documented program. And many of us
+author of some skimpy documented program. And many of us
 have therefore tried to instill in new programmers an attitude
 about documentation that would inspire for a lifetime, overcoming sloth and schedule pressure. By and large we have failed. I
 think we have used wrong methods.
@@ -4609,7 +4609,7 @@ and pipes and filters. As a result, conceptual structures that in
 principle could always call, feed, and use one another can indeed easily do so in practice.
 
 This breakthrough in turn stimulated the development of
-whole toolbenches, since each new tool could be applied to any
+whole tool benches, since each new tool could be applied to any
 programs using the standard formats.
 
 Because of these successes, environments are the subject of
@@ -4677,7 +4677,7 @@ of design.
 Nevertheless, such advances can do no more than to remove all the accidental difficulties from the expression of the design. The complexity of the design itself is essential; and such
 
 attacks make no change whatever in that. An order-of-magnitude gain can be made by object-oriented programming only if
-the unnecessary underbrush of type specification remaining today in our programming language is itself responsible for ninetenths of the work involved in designing a program product. I
+the unnecessary underbrush of type specification remaining today in our programming language is itself responsible for nine-tenths of the work involved in designing a program product. I
 doubt it.
 
 Artificial intelligence. Many people expect advances in artificial intelligence to provide the revolutionary breakthrough that
@@ -4689,7 +4689,7 @@ Parnas has clarified the terminological chaos:
 Two quite different definitions of AI are in common use today.
 AI-1: The use of computers to solve problems that previously could
 only be solved by applying human intelligence. AI2: The use of a
-specific set of programming techniques known as heuristic or rulebased programming. In this approach human experts are studied to
+specific set of programming techniques known as heuristic or rule-based programming. In this approach human experts are studied to
 determine what heuristics or rules of thumb they use in solving
 problems. . . . The program is designed to solve a problem the way
 that humans seem to solve it.
@@ -5095,7 +5095,7 @@ conceptual designs and good ones may lie in the soundness of
 design method, the difference between good designs and great
 ones surely does not. Great designs come from great designers.
 Software construction is a creative process. Sound methodology
-can empower and liberate the creative mind; it cannot enflame
+can empower and liberate the creative mind; it cannot inflame
 or inspire the drudge.
 
 The differences are not minor—it is rather like Salieri and
@@ -5234,7 +5234,7 @@ Some writers show that I failed to make some arguments clear.
 Accident. The central argument of "NSB" is as clearly stated in
 the Abstract to Chapter 16 as I know how to put it. Some have
 been confused, however, by the terms accident and accidental,
-which follow an ancient usage going back to Aristotle.4 By accidental, I did not mean occurring by chance, nor misfortunate, but
+which follow an ancient usage going back to Aristotle.4 By accidental, I did not mean occurring by chance, nor unfortunate, but
 more nearly incidental, or appurtenant.
 
 I would not denigrate the accidental parts of software construction; instead I follow the English dramatist, detective story
@@ -5446,7 +5446,7 @@ and methodology available then, such tasks were similarly formidable. Failures, 
 He then describes how the postulated failures, errors, and
 missed deadlines in the conventional little one-person programs
 were improved by an order of magnitude over the next 25 years.
-But the state of the art in the 1950s was not in fact small oneperson programs. In 1952, the Univac was at work processing
+But the state of the art in the 1950s was not in fact small one-person programs. In 1952, the Univac was at work processing
 the 1950 census with a complex program developed by about
 eight programmers.13 Other machines were doing chemical dynamics, neutron diffusion calculations, missile performance
 calculations, etc.14 Assemblers, relocating linkers and loaders,
@@ -5834,7 +5834,7 @@ was known in 1975. Which of the assertions in the original 1975
 edition have been supported by data and experience? Which
 have been disproved? Which have been obsoleted by the changing world? To help you judge, here in outline form is the essence
 of the 1975 book—assertions I believed to be true: facts and
-ruleof-thumb-type generalizations from experience—extracted
+rule-of-thumb-type generalizations from experience—extracted
 without change of meaning. (You might ask, "If this is all the
 original book said, why did it take 177 pages to say it?") Comments in brackets are new.
 
@@ -6296,7 +6296,7 @@ Chapter 11, Plan to Throw One Away
 
 11.4 The discard and redesign may be done in one lump, or
 
-piece-by-pieee, but it will be done.
+piece-by-piece, but it will be done.
 
 11.5 Delivering the first system, the throwaway, to users will
 buy time, but only at the cost of agony for the user, distraction for the builders supporting it while they do the
@@ -6453,7 +6453,7 @@ today they have been adopted universally]
 
 12.14 High-level language improves not only productivity but
 
-also debugging; fewer bugs and easier to findr
+also debugging; fewer bugs and easier to finder
 
 12.15 The classical objections of function, object-code space,
 
@@ -6858,7 +6858,7 @@ system architect has gone on to greater glories, and the architecture is in the 
 Microsoft Word 6.0 says "Word 6.0 packs in features; update
 slowed by baggage. . . . Word 6.0 is also big and slow." It notes
 with dismay that Word 6.0 requires 4 MB of RAM, and goes on
-to say that the rich added function means that "even a Macintosh Ilfx [is] just barely up to the Word 6 task".2
+to say that the rich added function means that "even a Macintosh IIFX [is] just barely up to the Word 6 task".2
 
 Defining the user set. The larger and more amorphous the
 user set, the more necessary it is to define it explicitly if one is
@@ -6983,7 +6983,7 @@ videotapes of users, or computer tracings of cursor movements,
 I am immediately struck that one cursor is having to do the work
 of two: pick an object in the desktop part of the window; pick a
 verb in the menu portion; find or re-find an object in the desktop; again pull down a menu (often the same one) and pick a
-verb. Back and forth, back and forth the cursor goes, from dataspace to menu-space, each time discarding the useful information as to where it was last time it was in this space—altogether,
+verb. Back and forth, back and forth the cursor goes, from data space to menu-space, each time discarding the useful information as to where it was last time it was in this space—altogether,
 an inefficient process.
 
 A brilliant solution. Even if the electronics and software could
@@ -7018,7 +7018,7 @@ is just below the Z and X keys; therefore the highest-frequency
 operations are encoded as
 
 Incremental transition from novice to power user. This dual
-system for specifying command verbs not only meets the lowlearning-effort needs of the novice and the efficiency needs of
+system for specifying command verbs not only meets the low-learning-effort needs of the novice and the efficiency needs of
 the power user, it provides for each user to make a smooth transition between modes. The letter encodings, called short cuts, are
 shown on the menus beside the verbs, so that a user in doubt
 can pull down the menu to check the letter equivalent, instead
@@ -7093,7 +7093,7 @@ system piece by piece, rather than in one lump. This is fine so
 far as it goes, but it fails to get at the root of the problem. The
 waterfall model puts system test, and therefore by implication
 user testing, at the end of the construction process. Thus one can
-find impossible awkwardnesses for users, or unacceptable performance, or dangerous susceptibility to user error or malice,
+find impossible awkwardness for users, or unacceptable performance, or dangerous susceptibility to user error or malice,
 only after investing in full construction. To be sure, the Alpha
 test scrutiny of the specifications aims to find such flaws early,
 but there is no substitute for hands-on users.
@@ -7563,7 +7563,7 @@ the World-Wide Web will mean for a writer's impromptu research.
 Most important, the new fluidity of the media makes easy
 the exploration of many radically different alternatives when a
 creative work is just taking form. Here is another case where an
-order of magnitude in a quantitative parameter, here changetime, makes a qualitative difference in how one goes about a
+order of magnitude in a quantitative parameter, here change time, makes a qualitative difference in how one goes about a
 task.
 
 Tools for drawing enable building designers to explore
@@ -7604,7 +7604,7 @@ systems make shared access to check-in, build, and the application of test cases
 
 Similar advances in user interfaces have occurred. The
 WIMP interface provides much more convenient editing of program texts as well as of English-language texts. The 24-line,
-72-column screen has been replaced by full-page or even twopage screens, so programmers can see much more context for
+72-column screen has been replaced by full-page or even two-page screens, so programmers can see much more context for
 changes they are making.
 
 Whole New Software Industry—Shrink-Wrapped Software
@@ -7671,7 +7671,7 @@ schedule and the details of function were negotiable, development cost might not
 schedule and function quite dominate development cost.
 
 As one would expect, the starkly different economics have
-given rise to rather different programming cultures. The classical industry tended to be dominated by large firms with established management styles and work cultures. The shrinkwrapped industry, on the other hand, began as hundreds of
+given rise to rather different programming cultures. The classical industry tended to be dominated by large firms with established management styles and work cultures. The shrink-wrapped industry, on the other hand, began as hundreds of
 start-ups, freewheeling and fiercely focused on getting the job
 done rather than on process. In this climate, there has always
 been a much greater recognition of the talent of the individual
@@ -7691,7 +7691,7 @@ Buy and Build—Shrink-Wrapped Packages As Components
 had only by moving up a level, and making programs by the
 composition of modules, or objects. An especially promising
 trend is the use of mass-market packages as the platforms on
-which richer and more customized products are built. A trucktracking system is built on a shrink-wrapped database and communications package; so is a student information system. The
+which richer and more customized products are built. A truck tracking system is built on a shrink-wrapped database and communications package; so is a student information system. The
 want ads in computer magazines offer hundreds of HyperCard
 stacks and customized templates for Excel, dozens of special
 functions in Pascal for MiniCad or functions in AutoLisp for
@@ -7882,7 +7882,7 @@ divisions are given in Wolverton, R. W., "The cost of developing large-scale sof
 
 3. Figures 2.5 through 2.8 are due to Jerry Ogdin, who in quoting my example from an earlier publication of this chapter
 much improved its illustration. Ogdin, J. L., "The Mongolian hordes versus superprogrammer,"
-Infosy'stems (Dec.,
+Infosystems (Dec.,
 1972), pp. 20-23.
 
 294 Notes and References
@@ -7900,7 +7900,7 @@ experimental studies comparing online and offline programming performance," CACM
 
 Chapter 4
 
-1. Eschapasse, M., Reims Cathedral, Caisse Narionale des Monuments Historiques, Paris, 1967.
+1. Eschapasse, M., Reims Cathedral, Caisse Nationale des Monuments Historiques, Paris, 1967.
 
 2. Brooks, F. P., "Architectural philosophy," in W. Buchholz
 (ed.), Planning A Computer System. New York: McGraw-Hill,
@@ -9115,7 +9115,7 @@ mentor, 203, 275
 menu, 260
 
 Merwin, R. E., 299
-Merwin-Dagget, M., 300
+Merwin-Daggett, M., 300
 metaphor, 260
 metaprogramming, 285
 microcomputer revolution, 214,

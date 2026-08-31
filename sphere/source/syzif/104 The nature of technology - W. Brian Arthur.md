@@ -104,7 +104,7 @@ technologies had a recursive structure. And every technology, I realized, was ba
 several. Therefore, collectively technology advanced by capturing phenomena and putting them to use. I also began to see that the economy
 was not so much a container for its technologies, as I had been implicitly taught. The economy arose from its technologies. It arose from the
 productive methods and legal and organizational arrangements that we use to satisfy our needs. It therefore issued forth from all these
-capturings of phenomena and subsequent combinations.
+capturing of phenomena and subsequent combinations.
 
 Stalking these ideas brought me into the library stacks at Stanford, browsing for writings on technology. At first the volume of work
 seemed large. But on reflection I realized that it was small, curiously small, considering that the collective of technology is as large and
@@ -346,7 +346,7 @@ showed is that for some technologies, certainly for ships, we can trace a detail
 
 For a full theory of evolution we would need something more. We would need an argument that all technologies, not just some, are
 descended from earlier technologies, and an explicit mechanism by which this happens. Attempts to provide such an argument have been
-few, and unsuccesful. Most, like Butler's, have been more proposals than theories, and all base their reasoning squarely on Darwin's. The
+few, and unsuccessful. Most, like Butler's, have been more proposals than theories, and all base their reasoning squarely on Darwin's. The
 central idea works this way. A given technology, the railroad locomotive, say, exists at a particular time in many variants. This is because it
 has different purposes to fulfill, different environments to operate in (different "habitats" to adapt to, if you like), and different designers
 who use different ideas. From these variations, some perform better and are selected for further use and development; they pass on their
@@ -903,7 +903,7 @@ pattern establishes exactly the years in which the wood in the structure was gro
 
 Archaeomagnetic dating works because the earth's magnetic field changes direction over time gradually in a known way. Clays or other
 materials in a firepit, when fired and cooled, retain a weak magnetism that aligns with the earth's field, and this establishes a rough date for
-the firepit's last use.
+the fire pit last use.
 
 There are still other techniques: potassium-argon dating, thermoluminescence dating, hydration dating, fission-track dating. But what I
 
@@ -1029,7 +1029,7 @@ phenomena working together.
 
 None of these phenomena is particularly esoteric; most are fairly basic physical effects. Let me list some of them (with the system that uses
 
-them in parenthesis): A fluid flow alters in velocity and pressure when energy is transferred to it (used in the compressor); certain carbonbased molecules release energy when combined with oxygen and raised to a high temperature (the combustion system); a greater
+them in parenthesis): A fluid flow alters in velocity and pressure when energy is transferred to it (used in the compressor); certain carbon-based molecules release energy when combined with oxygen and raised to a high temperature (the combustion system); a greater
 temperature difference between source and sink produces greater thermal efficiency (again the combustion system); a thin film of certain
 molecules allows materials to slide past each other easily (the lubrication systems); a fluid flow impinging on a movable surface can produce
 "work" (the turbine); load forces deflect materials (certain pressure-measuring devices); load forces can be transmitted by physical structures
@@ -1167,7 +1167,7 @@ electrical current in a nearby conductor.
 We could say Faraday used scientific insight and experiment to do this, and certainly that would be true. But if we look more closely, we
 see that he uncovered induction using instruments and understandings that had grown from effects uncovered earlier. The battery used
 electrochemical effects discovered earlier. The effect that coils produce stronger magnetic fields when wound around a magnetic material like
-iron had recently been discovered by Gerrit Moll of Utrecht. And his current-detecting device exploited Ørsted's discovery of eleven years
+iron had recently been discovered by Gerrit Moll of Utrecht. And his current-detecting device exploited ØØrsted discovery of eleven years
 earlier that an electrical current deflects a magnetic needle. Faraday's discovery was possible because earlier effects had been harnessed into
 existing methods and understandings.
 
@@ -1397,7 +1397,7 @@ programming language.
 
 Domaining
 Design in engineering begins by choosing a domain, that is, by choosing a suitable group of components to construct a device from. When
-architects design a new office building, they may choose, for visual and structural reasons, glass-and-steel components over granite-andmasonry ones. That is, they may choose between different characteristic palettes of components, and we would want to call these domains
+architects design a new office building, they may choose, for visual and structural reasons, glass-and-steel components over granite-and masonry ones. That is, they may choose between different characteristic palettes of components, and we would want to call these domains
 too. Often this choice—I will call it domaining the device—is automatic. A marine radar designer will domain a master oscillator
 unthinkingly within the group of components we call electronics, simply because no other domain would be appropriate.
 
@@ -1432,7 +1432,7 @@ under the earlier manual technology, an inherently unstable aircraft would be un
 
 We could say in this case that aircraft controls underwent an "innovation." And indeed they did. But more accurately we should say that
 aircraft controls were domained differently—redomained. This distinction is important. Innovations in history may often be improvements in
-a given technology—a better way to architect domes, a more efficient steam engine. But the significant ones are new domainings. They are
+a given technology—a better way to architect domes, a more efficient steam engine. But the significant ones are new domain. They are
 the expressing of a given purpose in a different set of components, as when the provision of power changed from being expressed in
 waterwheel technology to being expressed in steam technology.
 
@@ -2275,8 +2275,8 @@ The solution, when it comes, may come abruptly. "The key revelation came in a ru
 
 become the maser. And Whittle says:
 
-While I was at Whittering, it suddenly occurred to me to substitute a turbine for the piston engine [to drive the compressor]. This
-change meant that the compressor would have to have a much higher pressure ratio than the one I had visualized for the pistonengined scheme. In short, I was back to the gas turbine, but this time of a type that produced a propelling jet instead of driving a
+While I was at Whitting, it suddenly occurred to me to substitute a turbine for the piston engine [to drive the compressor]. This
+change meant that the compressor would have to have a much higher pressure ratio than the one I had visualized for the piston-engined scheme. In short, I was back to the gas turbine, but this time of a type that produced a propelling jet instead of driving a
 propeller. Once the idea had taken shape, it seemed rather odd that I had taken so long to arrive at a concept which had become very
 obvious and of extraordinary simplicity. My calculations satisfied me that it was far superior to my earlier proposals.
 
@@ -3238,7 +3238,7 @@ over time, and creatively transforming the industries that encounter them.
 
 Each of these types of innovation is important. And each is perfectly tangible. Innovation is not something mysterious. Certainly it is not a
 matter of vaguely invoking something called "creativity." Innovation is simply the accomplishing of the tasks of the economy by other means.
-In the cases I have studied, again and again I am struck that innovation emerges when people are faced by problems—particular, wellspecified problems. It arises as solutions to these are conceived of by people steeped in many means—many functionalities—they can
+In the cases I have studied, again and again I am struck that innovation emerges when people are faced by problems—particular, well-specified problems. It arises as solutions to these are conceived of by people steeped in many means—many functionalities—they can
 combine. It is enhanced by funding that enables this, by training and experience in myriad functionalities, by the existence of special projects
 and labs devoted to the study of particular problems, and by local cultures that foster deep craft. But it is not the monopoly of a single
 region, or country, or people. It arises anywhere problems are studied and sufficient background exists in the pieces that will form solutions.
@@ -3320,7 +3320,7 @@ Of course, to say that technology creates itself does not imply it has any consc
 way for its own purposes. The collective of technology builds itself from itself with the agency of human inventors and developers much as a
 coral reef builds itself from itself from the activities of small organisms. So, providing we bracket human activity and take it as given, we can
 say that the collective of technology is self-producing—that it produces new technology from itself. Or, we can pick up a word coined by
-Humberto Maturana and Francisco Varela to describe self-producing systems, and say that technology is autopoietic ("self-creating," or "selfbringing-forth," in Greek).
+Humberto Maturana and Francisco Varela to describe self-producing systems, and say that technology is autopoietic ("self-creating," or "self-bringing-forth," in Greek).
 
 Autopoiesis may appear to be an abstract property, the sort of thing that belongs most properly to systems theory or philosophy. But
 actually, it tells us a lot. It tells us that every novel technology is created from existing ones, and therefore that every technology stands upon
@@ -3341,7 +3341,7 @@ version.
 
 In the beginning, the first phenomena to be harnessed were available directly in nature. Certain materials flake when chipped: whence
 bladed tools from flint or obsidian. Heavy objects crush materials when pounded against hard surfaces: whence the grinding of herbs and
-seeds. Flexible materials when bent store energy: whence bows from deer's antler or saplings. These phenomena, lying on the floor of nature
+seeds. Flexible materials when bent store energy: whence bows from deer antler or saplings. These phenomena, lying on the floor of nature
 as it were, made possible primitive tools and techniques. These in turn made possible yet others. Fire made possible cooking, the hollowing
 out of logs for primitive canoes, the firing of pottery. And it opened up other phenomena—that certain ores yield formable metals under
 high heat: whence weapons, chisels, hoes, and nails. Combinations of elements began to occur: thongs or cords of braided fibers were used to
@@ -3443,14 +3443,14 @@ But this is still far from the whole picture. The vast majority of niches for te
 needs of technologies themselves. The reasons are several. For one thing, every technology by its very existence sets up an opportunity for
 fulfilling its purpose more cheaply or efficiently; and so for every technology there exists always an open opportunity. And for another, every
 technology requires supporting technologies: to manufacture it, organize for its production and distribution, maintain it, and enhance its
-performance. And these in turn require their own subsupporting technologies. The automobile in 1900 created a set of ancillary needs—
+performance. And these in turn require their own sub-supporting technologies. The automobile in 1900 created a set of ancillary needs—
 opportunity niches—for assembly-line manufacture, for paved roads and properly refined gasoline, for repair facilities and gas stations. And
 gasoline in turn set up further needs for refineries, for the importation of crude oil, and for the exploration of oil deposits.
 
 There is a third reason technology generates needs. Technologies often cause problems—indirectly—and this generates needs, or
 opportunities, for solutions. In the 1600s, mining expanded all across Europe, and as easy-to-access deposits were exhausted, mines ran
 deeper. Water seepage became a problem, and so a need arose for efficient means of drainage. In 1698 this was fulfilled (not very
-successfully) by Thomas Savery's "new Invention for Raiseing of Water and occasioning Motion to all Sorts of Mill Work by the Impellent
+successfully) by Thomas Savery's "new Invention for Raising of Water and occasioning Motion to all Sorts of Mill Work by the Impellent
 Force of Fire"—a primitive version of the steam engine.
 
 For our argument we do not need a complete theory of how human and technical needs form. But we do need the awareness that the
@@ -3462,7 +3462,7 @@ collective grows.
 The Core Mechanism
 These driving forces give us a broad picture of how technology builds out. Existing technologies used in combination provide the possibilities
 of novel technologies: the potential supply of them. And human and technical needs create opportunity niches: the demand for them. As new
-technologies are brought in, new opportunities appear for further harnessings and further combinings. The whole bootstraps its way upward.
+technologies are brought in, new opportunities appear for further harnessing and further combinations. The whole bootstraps its way upward.
 
 By what exact steps—what exact mechanism—does this bootstrapping work?
 Think of the collective as a network that builds upon itself and organically grows outward. In this network each technology (I will usually
@@ -3732,13 +3732,13 @@ almost limitless collective of entities that interact to produce new entities—
 evolution of technology every bit as much as the possibilities for fresh combination and the unearthing of phenomena. Without the presence
 of unmet needs, nothing novel would appear in technology.
 
-One last thought. I said that technology is self-creating. It is a living webwork that weaves itself out of itself. Can we say from this that in
+One last thought. I said that technology is self-creating. It is a living web work that weaves itself out of itself. Can we say from this that in
 
 some sense—some literal sense—technology is alive?
 
 There is no formal definition of "life." Rather, we judge whether something is "alive" by asking whether it meets certain criteria. In systems
 
-language we can ask: is the entity self-organizing (are there simple rules by which it puts itself together?), and autopoietic (is it selfproducing?). Technology (the collective) passes both these tests. In more mundane language we can ask: does the entity reproduce, grow,
+language we can ask: is the entity self-organizing (are there simple rules by which it puts itself together?), and autopoietic (is it self-producing?). Technology (the collective) passes both these tests. In more mundane language we can ask: does the entity reproduce, grow,
 respond and adapt to its environment, and take in and give out energy to maintain its being? Technology (again the collective) also passes
 these tests. It reproduces itself in the sense that its individual elements, like cells in an organism, die and are replaced. Its elements grow—
 they grow without cease. It adapts closely to its environment, both collectively and in its individual elements. And it exchanges energy with
@@ -3932,7 +3932,7 @@ the status quo by finding new combinations that are better versions of the goods
 accommodations and of new problems, and in so doing it creates new opportunity niches that call forth fresh combinations which in turn
 introduce yet further technologies—and further problems.
 
-The economy therefore exists always in a perpetual openness of change—in perpetual novelty. It exists perpetually in a process of selfcreation. It is always unsatisfied. We can add to this that novel technologies of all degrees of significance enter the economy at any time
+The economy therefore exists always in a perpetual openness of change—in perpetual novelty. It exists perpetually in a process of self-creation. It is always unsatisfied. We can add to this that novel technologies of all degrees of significance enter the economy at any time
 alongside each other. The result is not just Schumpeter's disturbance of equilibrium, but a constant roiling of simultaneous changes, all
 overlapping and interacting and triggering further change. The result is change begetting change.
 
@@ -4076,7 +4076,7 @@ to what is sensed. Does this constitute some form of "intelligence"? To some deg
 say with E. coli bacteria sensing an increased concentration of glucose and moving toward that—is being able to sense an environment and
 react appropriately. Thus, as modern technology organizes itself increasingly into networks of parts that sense, configure, and execute
 appropriately, it displays some degree of cognition. We are moving toward "smart" systems. The arrival of genomics and nanotechnology
-will enhance this. In fact, not only will these systems in the future be self-configuring, self-optimizing, and cognitive, they will be selfassembling, self-healing, and self-protecting.
+will enhance this. In fact, not only will these systems in the future be self-configuring, self-optimizing, and cognitive, they will be self-assembling, self-healing, and self-protecting.
 
 My purpose here is not to point to some science fiction future, or to discuss the implications of these trends. Others have done this
 
@@ -4111,7 +4111,7 @@ The Generative Economy
 If technology is changing to become more configurable and more biological, does the economy in any way reflect this? It should, if indeed it
 is an expression of its technologies. And indeed it does.
 
-Technology has long shifted away from the Victorian era's dominance of bulk material processing, and now it is shifting again: from singlepurpose fixed processes or machines into raw functionalities that can be programmed to different purposes in different combinations.
+Technology has long shifted away from the Victorian era's dominance of bulk material processing, and now it is shifting again: from single-purpose fixed processes or machines into raw functionalities that can be programmed to different purposes in different combinations.
 Reflecting this, the economy—the high-tech part of it, at least—is more about the putting together of things than about the refining of fixed
 operations. Business operations—commercial banks, oil companies, insurance companies—of course still reflect the era of large, fixed
 technologies. But increasingly, as with the operations of putting together a startup company, or venture capital, or financial derivatives, or
@@ -4142,7 +4142,7 @@ wealth derives not so much from the ownership of resources as from the ownership
 
 wealth derives not so much from the ownership of resources as from the ownership of specialized scientific and technical expertise.
 Companies too draw their competitive advantage from their ownership of technical expertise. Often in putting together a new combination
-they lack specific expertises, and in the pressure of competition they do not have time to develop them in-house. So they buy small
+they lack specific expertise, and in the pressure of competition they do not have time to develop them in-house. So they buy small
 companies, or form strategic alliances with other companies that do possess the requisite craft. Such alliances are often put together for a
 specific purpose, then reconfigured or dropped. And so we see combination at the firm level, expressed as a continuously reconfiguring series
 of loose alliances—ephemeral, and occasionally highly successful.
@@ -4285,7 +4285,7 @@ Chapter 1: Questions
 
 9 monkey with tiny electrodes: Meel Velliste, et al. "Cortical Control of a Prosthetic Arm for Self-feeding," Nature, 453, 1098–101, June 19,
 
-13 Georges Cuvier: The quote is from his Tableau Élémentaire de l'Histoire Naturelle des Animaux, Baudouin, Paris, 1798.
+13 Georges Cuvier: The quote is from his Tableau Éléélémentaire de l'Histoire Naturelle des Animaux, Baudouin, Paris, 1798.
 15 The word "evolution"… general meanings: See Stephen Jay Gould, "Three Facets of Evolution," in Science, Mind, and Cosmos, J.
 
 Brockman and K. Matson, eds., Phoenix, London, 1995.
@@ -5146,7 +5146,7 @@ Hertz, Heinrich Rudolf, 114, 122
 historians, 4, 14, 15, 16, 20, 194–95
 Hoare, C. A. R. "Tony," 98
 hormones, 53
-hositals, 192
+hospitals, 192
 housing, 175, 196, 197
 Hughes, Thomas, 94–95, 148
 hydration dating, 46

@@ -1028,7 +1028,7 @@ tests, always proceeds on the following lines. From a new idea, put up
 tentatively, and not yet justified in any way—an anticipation, a hypothesis, a theoretical system, or what you will—conclusions are drawn by
 means of logical deduction. These conclusions are then compared with
 one another and with other relevant statements, so as to find what
-logical relations (such as equivalence, derivability, compatiblity, or
+logical relations (such as equivalence, derivability, compatibility, or
 incompatibility) exist between them.
 
 We may if we like distinguish four different lines along which the
@@ -1311,7 +1311,7 @@ In order to make this idea a little more precise, we may distinguish
 three requirements which our empirical theoretical system will
 have to satisfy. First, it must be synthetic, so that it may represent a
 
-11 Cf. also: Planck. Positivismus und reale Aussenwelt (1931) and Einstein, Die Religiosität der
+11 Cf. also: Planck. Positivismus und reale Aussenwelt (1931) and Einstein, Die Religiositätät der
 Forschung, in Mein Weltbild, 1934, p. 43; English translation by A. Harris: The World as I See It,
 1935, pp. 23 ff. *See also section 85, and my Postscript.
 *1 Cf. appendix *x.
@@ -1576,7 +1576,7 @@ so as to make the effect reproducible). Indeed the scientifically significant ph
 3 Cf. Kritik der reinen Vernunft, Transcendentale Elementarlehre §19 (2nd edition, p. 142;
 English translation by N. Kemp Smith, 1933: Critique of Pure Reason, Transcendental
 Doctrine of Elements, §19, p. 159).
-4 Cf. Kritik der reinen Vernuft, Methodenlehre, 2. Haupstück, 3. Abschnitt (2nd edition,
+4 Cf. Kritik der reinen Vernunft, Methodenlehre, 2. Haupstück, 3. Abschnitt (2nd edition,
 p. 849; English translation, chapter ii, section 3, p. 646).
 5 Kant realized that from the required objectivity of scientific statements it follows that
 they must be at any time inter-subjectively testable, and that they must therefore have the
@@ -1625,7 +1625,7 @@ sources of error'. *See also section 22, especially footnote *1.
 a survey of some fundamental problems 25
 
 feeling of conviction was strong or weak; whether it came from a
-strong or even irresistible impression of indubitable certainty (or 'selfevidence'), or merely from a doubtful surmise. None of this has any
+strong or even irresistible impression of indubitable certainty (or 'self-evidence'), or merely from a doubtful surmise. None of this has any
 bearing on the question of how scientific statements can be justified.
 
 Considerations like these do not of course provide an answer to the
@@ -2085,8 +2085,8 @@ system, nor ever give up our attempts to explain causally any kind of
 event we can describe.1 This rule guides the scientific investigator in his
 
 1 The idea of regarding the principle of causality as the expression of a rule or of a
-decision is due to H. Gomperz, Das Problem der Willensfreiheit, 1907. Cf. Schlick, Die Kausalitat
-in der gegenwartigen Physik, Naturwissenschaften 19, 1931, p. 154.
+decision is due to H. Gomperz, Das Problem der Willensfreiheit, 1907. Cf. Schlick, Die Kausalität
+in der gegenwärtigen Physik, Naturwissenschaften 19, 1931, p. 154.
 
 work. The view that the latest developments in physics demand the
 renunciation of this rule, or that physics has now established that
@@ -2143,7 +2143,7 @@ about an unlimited number of individuals. So interpreted it clearly
 cannot be replaced by a conjunction of a finite number of singular
 statements.
 
-My use of the concept of a strictly universal statement (or 'allstatement') stands opposed to the view that every synthetic universal
+My use of the concept of a strictly universal statement (or 'all-statement') stands opposed to the view that every synthetic universal
 statement must in principle be translatable into a conjunction of a
 finite number of singular statements. Those who adhere to this view2
 insist that what I call 'strictly universal statements' can never be verified, and they therefore reject them, referring either to their criterion
@@ -2410,7 +2410,7 @@ these things or states of affairs: they rule them out. And it is precisely
 because they do this that they are falsifiable. If we accept as true one
 singular statement which, as it were, infringes the prohibition by
 asserting the existence of a thing (or the occurrence of an event) ruled
-out by the law, then the law is refuted. (An instance would be, 'In suchand-such a place, there is an apparatus which is a perpetual motion
+out by the law, then the law is refuted. (An instance would be, 'In such-and-such a place, there is an apparatus which is a perpetual motion
 machine'.)
 
 Strictly existential statements, by contrast, cannot be falsified. No
@@ -2501,7 +2501,7 @@ A theoretical system may be said to be axiomatized if a set of statements, the a
 four fundamental requirements. (a) The system of axioms must be free
 
 *2 The word 'only' here should not be taken too seriously. The situation is quite simple.
-If it is characteristic of empirical science to look upon singular statements as teststatements, then the asymmetry arises from the fact that, with respect to singular statements,
+If it is characteristic of empirical science to look upon singular statements as test statements, then the asymmetry arises from the fact that, with respect to singular statements,
 universal statements are falsifiable only and existential statements verifiable only. See also
 section *22 of my Postscript.
 
@@ -3022,7 +3022,7 @@ statements unambiguously into the following two non-empty subclasses. First, the
 
 *1 Foundations equivalent to the one given here have been put forward as criteria of the
 meaningfulness of sentences (rather than as criteria of demarcation applicable to theoretical
-systems) again and again after the publication of my book, even by critics who poohpoohed my criterion of falsifiability. But it is easily seen that, if used as a criterion of
+systems) again and again after the publication of my book, even by critics who pooh-poohed my criterion of falsifiability. But it is easily seen that, if used as a criterion of
 demarcation, our present formulation is equivalent to falsifiability. For if the basic statement
 b2 does not follow from b1, but follows from b1 in conjunction with the theory t (this is
 the present formulation) then this amounts to saying that the conjunction of b1 with the
@@ -3145,7 +3145,7 @@ will be falsified if these possible occurrences do in fact occur.
 
 The use of this vague expression 'occurrence' is perhaps open to
 criticism. It has sometimes been said1 that expressions such as 'occurrence' or 'event' should be banished altogether from epistemological
-discussion, and that we should not speak of 'occurrences' or 'nonoccurrences', or of the 'happening' of 'events', but instead of the truth
+discussion, and that we should not speak of 'occurrences' or 'non-occurrences', or of the 'happening' of 'events', but instead of the truth
 or falsity of statements. I prefer, however, to retain the expression
 'occurrence'. It is easy enough to define its use so that it is
 unobjectionable. For we may use it in such a way that whenever we
@@ -3304,7 +3304,7 @@ In order to show the fundamental importance of this requirement it
 is not enough to mention the obvious fact that a self-contradictory
 system must be rejected because it is 'false'. We frequently work with
 statements which, although actually false, nevertheless yield results
-which are adequate for certain purposes.*1 (An example is Nernst's
+which are adequate for certain purposes.*1 (An example is Nernst
 approximation for the equilibrium equation of gases.) But the importance of the requirement of consistency will be appreciated if one realizes that a self-contradictory system is uninformative. It is so because
 any conclusion we please can be derived from it. Thus no statement is
 singled out, either as incompatible or as derivable, since all are derivable. A consistent system, on the other hand, divides the set of all
@@ -3598,7 +3598,7 @@ look at our experiment, and think again.
 An assertion which owing to its logical form is not testable can at
 best operate, within science, as stimulus: it can suggest a problem. In
 the field of logic and mathematics, this may be exemplified by Fermat's
-problem, and in the field of natural history, say, by reports about seaserpents. In such cases science does not say that the reports are
+problem, and in the field of natural history, say, by reports about sea serpents. In such cases science does not say that the reports are
 unfounded; that Fermat was in error or that all the records of observed
 sea-serpents are lies. Instead, it suspends judgment.3
 
@@ -3633,7 +3633,7 @@ hypotheses, and thus for the falsification of theories. (Cf. section 22.)
 Basic statements must therefore satisfy the following conditions. (a)
 From a universal statement without initial conditions, no basic statement can be deduced.*1 On the other hand, (b) a universal statement
 
-4 The expression is Böhm-Bawerk's ('Produktionsumweg').
+4 The expression is Böhm-Böhm-Bawerk ('Produktionsumweg').
 5 Frank, Das Kausalgesetz und seine Grenzen, 1932, p. 1. *Concerning instrumentalism, see note
 *1 before section 12, and my Postscript, especially sections *12 to *15.
 *1 When writing this, I believed that it was plain enough that from Newton's theory
@@ -3713,7 +3713,7 @@ Sometimes we may even obtain a basic statement by joining one basic
 statement to another statement which is not basic. For example, we
 may form the conjunction of the basic statement, r 'There is a pointer at
 the place k' with the singular non-existence statement p¯, 'There is no
-pointer in motion at the place k'. For clearly, the conjunction r·p¯ ('r-andnon-p') of the two statements is equivalent to the singular existential
+pointer in motion at the place k'. For clearly, the conjunction r·p¯ ('r-and non-p') of the two statements is equivalent to the singular existential
 statement 'There is a pointer at rest at the place k'. This has the consequence that, if we are given a theory t and the initial conditions r,
 from which we deduce the prediction p, then the statement r·p¯ will be a
 falsifier of the theory, and so a basic statement. (On the other hand, the
@@ -3955,7 +3955,7 @@ towards our theories if we do not wish to argue in circles: the attitude of tryi
 them.
 *4 The story is briefly and excellently told by Max Born in Albert Einstein, Philosopher-Scientist,
 edited by P. A. Schilpp, 1949, p. 174. There are better illustrations, such as Adams's and
-Leverrier's discovery of Neptune, or that of Hertzean waves.
+Leverrier's discovery of Neptune, or that of Hertzian waves.
 3 Mach, Die Prinzipien der Wärmelehre 1896, p. 438.
 
 circumstances' (thus acknowledging the significance of theories in
@@ -4094,10 +4094,10 @@ absolute must get subjectivity—ego-centricity—into the bargain, and whoever 
 objectivity cannot avoid the problem of relativism.' And before this we find, 'What is
 immediately experienced is subjective and absolute . . . ; the objective world, on the other
 hand, which natural science seeks to precipitate in pure crystalline form . . . is relative'.
-Born expresses himself in similar terms (Die Relativitätstheorie Einsteins und ihre physikalischen
+Born expresses himself in similar terms (Die RelativitäRelativitätstheorie Einsteins und ihre physikalischen
 Grundlagen, 3rd edition, 1922, Introduction). Fundamentally, this view is Kant's theory of
 objectivity consistently developed (cf. section 8 and note 5 to that section). Reininger also
-refers to this situation. He writes in Das Psycho-Physische Problem, 1916, p. 29, 'Metaphysics
+refers to this situation. He writes in Das Psycho-Psychophysische Problem, 1916, p. 29, 'Metaphysics
 as science is impossible . . . because although the absolute is indeed experienced, and for
 that reason can be intuitively felt, it yet refuses to be expressed in words. For "Spricht die
 Seele, so spricht, ach! schon die Seele nicht mehr". (If the soul speaks then alas it is no
@@ -5466,7 +5466,7 @@ the geometrical form or shape of a curve, then what we demand is invariance
 with respect to all transformations belonging to the group of displacements, and we may demand invariance with respect to similarity
 transformations; for we do not think of a geometrical figure or shape as
 being tied to a definite position. Consequently, if we think of the shape of
-a one-parametric logarithmic curve (y = logax) as lying anywhere in a
+a one-parametric logarithmic curve (y = log a x) as lying anywhere in a
 plane, then it would have five parameters (if we allow for similarity
 transformations). It would thus be by no means a particularly simple
 curve. If, on the other hand, a theory or law is represented by a logarithmic curve, then co-ordinate transformations of the kind described
@@ -6061,7 +6061,7 @@ for what follows.
 Let a finite reference-class α be given, for example the class of buttons in a box, and two property-classes, β (say, the red buttons) and γ
 (say, the large buttons). We may now take the product-class α.β as a new
 reference-class, and raise the question of the value of α.βF″ (γ), i.e. of the
-frequency of γ within the new reference-class.2 The new referenceclass α.β may be called 'the result of selecting β-elements from α', or
+frequency of γ within the new reference-class.2 The new reference class α.β may be called 'the result of selecting β-elements from α', or
 the 'selection from α according to the property β'; for we may think of
 it as being obtained by selecting from α all those elements (buttons)
 which have the property β (red).
@@ -6301,7 +6301,7 @@ predecessors, i.e., 2-free; and after this, we can go on to sequences
 which are 3-free, etc. In this way we are led to a general idea which is
 fundamental for what follows. It is the idea of freedom from the aftereffects of all the predecessors up to some number n; or, as we shall say,
 of n-freedom. More precisely, we shall call a sequence 'n-free' if, and
-only if, the relative frequencies of its primary properties are 'ninsensitive', i.e. insensitive to selection according to single predecessors
+only if, the relative frequencies of its primary properties are 'n-insensitive', i.e. insensitive to selection according to single predecessors
 and according to pairs of predecessors and according to triplets of
 predecessors . . . and according to n-tuples of predecessors.1
 
@@ -7256,7 +7256,7 @@ deviate only from relative frequencies. And clearly, it must be inadmissible to 
 different from the one which was given to it before the deduction.3
 
 Thus we see that the subjective theory is incapable of interpreting
-Bernouilli's formula in terms of the statistical law of great numbers.
+Bernoulli's formula in terms of the statistical law of great numbers.
 Derivation of statistical laws is possible only within the framework of
 the frequency theory. If we start from a strict subjective theory, we
 shall never arrive at statistical statements—not even if we try to bridge
@@ -7733,7 +7733,7 @@ From the non-falsifiability and non-verifiability of probability
 statements it can be inferred that they have no falsifiable consequences,
 and that they cannot themselves be consequences of verifiable statements. But the converse possibilities are not excluded. For it may be (a)
 that they have unilaterally verifiable consequences (purely existential
-consequences, or there-is-consequences) or (b) that they are themselves consequences of unilaterally falsifiable universal statements (allstatements).
+consequences, or there-is-consequences) or (b) that they are themselves consequences of unilaterally falsifiable universal statements (all statements).
 
 Possibility (b) will scarcely help to clarify the logical relation
 between probability statements and basic statements: it is only too
@@ -9236,7 +9236,7 @@ case.5
 Using this terminology, we can formulate the statistical scatter
 
 5 The term is due to Weyl (Zeitschrift fur Physik 46, 1927, p. 1) and J. von Neumann
-(Göttinger Nachrichten, 1927, p. 245). If, following Weyl (Gruppentheorie und Quantenmechanik, p. 70; English translation p. 79; cf. also Born-Jordan, Elementare Quanten-mechanik,
+(GöGöttinger Nachrichten, 1927, p. 245). If, following Weyl (Gruppentheorie und Quantenmechanik, p. 70; English translation p. 79; cf. also Born-Jordan, Elementare Quanten-mechanik,
 p. 315), we characterize the pure case as one '. . . which it is impossible to produce
 by a combination of two statistical collections different from it', then pure cases
 satisfying this description need not be pure momentum or place selections. They could
@@ -9671,7 +9671,7 @@ by your arguments'.
 
 If asked to elaborate his thesis by means of a physical example, my
 opponent might proceed as follows: 'Imagine a beam of electrons, like
-one in a cathode tube. Assume the direction of this beam to be the xdirection. We can obtain various physical selections from this beam.
+one in a cathode tube. Assume the direction of this beam to be the x-direction. We can obtain various physical selections from this beam.
 For example, we may select or separate a group of electrons according to
 their position in the x-direction (i.e. according to their x-co-ordinates
 at a certain instant); this could be done, perhaps, by means of a shutter
@@ -9911,7 +9911,7 @@ laws permit us to calculate what occurs when the particles collide,
 provided we are given two of the four magnitudes which described
 the collision (i.e. of the momenta a1 and b1 before, and a2 and b2 after
 the collision) and one component3 of a third one. (The method of
-calculation is well known as part of the theory of the Comptoneffect.4)
+calculation is well known as part of the theory of the Compton effect.4)
 
 Let us now imagine the following experimental arrangement. (See
 figure 2.) We cross two particle beams (of which one at most may be a
@@ -9939,11 +9939,11 @@ momentum a2, and also b2, i.e. the momentum after collision of the
 particles with which they collided. To every particle of [A] which was
 deflected at the point P with the momentum a2, in the direction X,
 
-5 I am thinking of a light ray and any kind of corpuscular ray (negaton, position, or
+5 I am thinking of a light ray and any kind of corpuscular ray (negatron, position, or
 neutron); in principle, however, two corpuscular rays could be used of which at least one
 is a neutron ray. (Incidentally, the words 'negatron' and 'position', now becoming
-current usage, seem to me linguistic monstrosities—after all, we neither say 'positrive'
-nor 'protron'.)
+current usage, seem to me linguistic monstrosities—after all, we neither say 'positive'
+nor 'proton'.)
 
 some observations on quantum theory 241
 
@@ -10089,7 +10089,7 @@ law'.1
 
 *2 I still believe that this analysis is essentially correct: we cannot conclude from the
 success of frequency predictions about penny tosses that the single penny tosses are
-undetermined. But we may argue in favour of, say, an inderministic metaphysical view by
+undetermined. But we may argue in favour of, say, an indeterministic metaphysical view by
 pointing out difficulties and contradictions which this view might be able to dissolve.
 1 Schlick, Die Kausalität in der gegenwärtigen Physik, Die Naturwissenschaften 19, 1931, p. 155,
 writes as follows: (I quote the passage in full; cf. also my notes 7 and 8 to Section 4) 'Our
@@ -10214,7 +10214,7 @@ up to tests. In brief, we should try to assess how far it has been
 'corroborated'.*1
 
 *1 I introduced the terms 'corroboration' ('Bewährung') and especially 'degree of corroboration'
-('Grad der Bewährung', 'Bewährungsgrad') in my book because I wanted a neutral term to
+('Grad der Bewährung', 'BewäBewährungsgrad') in my book because I wanted a neutral term to
 
 corroboration, or how a theory stands up to tests 249
 
@@ -10230,13 +10230,13 @@ will rise tomorrow; but this uncertainty may be neglected: the fact that
 theories may not only be improved but that they can also be falsified by
 new experiments presents to the scientist a serious possibility which may at
 any moment become actual; but never yet has a theory had to be
-regarded as falsified owing to the sudden breakdown of a wellconfirmed law. It never happens that old experiments one day yield
+regarded as falsified owing to the sudden breakdown of a identified law. It never happens that old experiments one day yield
 
 describe the degree to which a hypothesis has stood up to severe tests, and thus 'proved
 its mettle'. By 'neutral' I mean a term not prejudging the issue whether, by standing up
 to tests, the hypothesis becomes 'more probable', in the sense of the probability calculus.
 In other words, I introduced the term 'degree of corroboration' mainly in order to be
-able to discuss the problem whether or not 'degree of corroboration' could be indentified with 'probability' (either in a frequency sense or in the sense of Keynes, for
+able to discuss the problem whether or not 'degree of corroboration' could be erhärten with 'probability' (either in a frequency sense or in the sense of Keynes, for
 example).
 
 Carnap translated my term 'degree of corroboration' ('Grad der Bewährung'), which I had
@@ -10244,7 +10244,7 @@ first introduced into the discussions of the Vienna Circle, as 'degree of confir
 (See his 'Testability and Meaning', in Philosophy of Science 3, 1936; especially p. 427); and so
 the term 'degree of confirmation' soon became widely accepted. I did not like this term,
 because of some of its associations ('make firm'; 'establish firmly'; 'put beyond doubt';
-'prove'; 'verify': 'to confirm' corresponds more closely to 'erhärten' or 'bestätigen' than to
+'prove'; 'verify': 'to confirm' corresponds more closely to 'erhäerhärten' or 'bestätigen' than to
 'bewähren'). I therefore proposed in a letter to Carnap (written, I think, about 1939) to use
 the term 'corroboration'. (This term had been suggested to me by Professor H. N.
 Parton.) But as Carnap declined my proposal, I fell in with his usage, thinking that words
@@ -10405,7 +10405,7 @@ the single statement is true or false. The truth or falsity of a statement
 can thus be looked upon as a limiting case of probability; and conversely, probability can be regarded as a generalization of the concept
 
 1 Reichenbach, Erkenntnis 1, 1930, pp. 171 f.
-2 According to Keynes, A Treatise on Probability, 1921, p. 101 ff., the expression 'truthfrequency' is due to Whitehead; cf. the next note.
+2 According to Keynes, A Treatise on Probability, 1921, p. 101 ff., the expression 'truth frequency' is due to Whitehead; cf. the next note.
 
 of truth, in so far as it includes the latter as a limiting case. Finally, it is
 possible to define operations with truth-frequencies in such a way that
@@ -10433,7 +10433,7 @@ statements, then one is at once confronted with the question: with
 reference to what sequence of statements can a probability value be assigned
 
 3 I am giving here an outline of the construction of the probability logic developed by
-Reichenbach (Wahrscheinlichkeitslogik, Sitzungsberichte der Preussischen Akademie der Wissenschaften,
+Reichenbach (Wahrscheinlichkeitslogik, Sitzungsberichte der Preußischen Akademie der Wissenschaften,
 Physik-mathem. Klasse 29, 1932, p. 476 ff.) who follows E. L. Post (American Journal of
 Mathematics 43, 1921, p. 184), and, at the same time, the frequency theory of von Mises.
 Whitehead's form of the frequency theory, discussed by Keynes, op. cit. p. 101 ff. is
@@ -11147,7 +11147,7 @@ consisting of many hypotheses. Here again one wonders why we
 should ever bother to construct these adventurous theories. If we
 shrink from conflict with reality, why invite it by making assertions?
 The safest course is to adopt a system without any hypotheses. ['Speech is
-silvern, silence is golden.']
+silver, silence is golden.']
 
 My own rule which requires that auxiliary hypotheses shall be used
 as sparingly as possible (the 'principle of parsimony in the use of
@@ -11334,7 +11334,7 @@ crucial experiment can be designed for it, then the system will contain,
 as a first approximation, some well corroborated theory, and at the
 same time also something new—and something that can be tested.
 Thus the system will not, of course, be 'metaphysical'. In this case, the
-system in question may be looked upon as a new advance in the quasiinductive evolution of science. This explains why a link with the science of the day is as a rule established only by those theories which are
+system in question may be looked upon as a new advance in the quasi-inductive evolution of science. This explains why a link with the science of the day is as a rule established only by those theories which are
 proposed in an attempt to meet the current problem situation; that is,
 the current difficulties, contradictions, and falsifications. In proposing a
 solution to these difficulties, these theories may point the way to a
@@ -11399,7 +11399,7 @@ Our method of research is not to defend them, in order to prove how
 corroboration, or how a theory stands up to tests 279
 
 right we were. On the contrary, we try to overthrow them. Using all
-the weapons of our logical, mathematical, and technical armoury, we
+the weapons of our logical, mathematical, and technical armory, we
 try to prove that our anticipations were false—in order to put forward,
 in their stead, new unjustified and unjustifiable anticipations, new 'rash
 and premature prejudices', as Bacon derisively called them.*3
@@ -11852,7 +11852,7 @@ i.γ = α.γ.
 
 (4bs)
 
-To the right side of the result we apply (1′), both to the denumerator
+To the right side of the result we apply (1′), both to the denominator
 and denominator. Thus we obtain:
 
 (4s)
@@ -12093,7 +12093,7 @@ one of the length 2n + 1.
 Proofs of the validity of the rule of construction here given were found by Dr. L.R.B.
 
 Elton and myself. We intend to publish jointly a paper on the subject.
-*2 To take a concrete example of this construction—the construction of a shortest randomlike sequence, as I now propose to call it—we may start with the period
+*2 To take a concrete example of this construction—the construction of a shortest random-like sequence, as I now propose to call it—we may start with the period
 
 (0)
 
@@ -12417,7 +12417,7 @@ an 'instantaneous shutter', in the way indicated, then Schrödinger's
 wave-packets (obtained by superimposition of waves of various frequencies) give us only probabilities, to be interpreted statistically, of the
 occurrence of particles in this group which have the given momentum.
 For any given finite range of momenta ∆px, this probability tends
-towards to provided we make the length of the wavetrain infinitely
+towards to provided we make the length of the wave train infinitely
 short, i.e. measure the position with arbitrary precision (by opening
 the instantaneous shutter for an arbitrarily short time). In the same
 way, the probability tends towards o for any finite period during which
@@ -12440,7 +12440,7 @@ further, this 'after-glow' produced by the filter would last the longer
 the more highly selective the filter was.*2
 
 *2 This is precisely what will happen, according to Einstein's remarks printed here in
-appendix *xii. See also C. F. von Weizsäcker's criticism of my imaginary experiment in Die
+appendix *xii. See also C. F. von WeizsäWeizsäcker criticism of my imaginary experiment in Die
 Naturwissenschaften 22, 1934, p. 807.
 
 APPENDIX vii
@@ -12716,7 +12716,7 @@ Wittgenstein) was provoked by the fact that even in those days my
 
 appendix *i 313
 
-views were discussed, by the Circle, under the misappre-hension that I
+views were discussed, by the Circle, under the misapprehension-hension that I
 was advocating the replacement of the verifiability criterion of meaning by a falsifiability criterion of meaning, whereas in fact I was not
 concerned with the problem of meaning, but with the problem of demarcation. As my letter shows, I tried to correct this misinterpretation of my
 views as early as 1933. I have tried to do the same in my Logik der
@@ -12888,14 +12888,14 @@ science was considered to be a system of knowledge—of knowledge as
 certain as it could be made. 'Induction' was supposed to guarantee the
 truth of this knowledge. Later it became clear that absolutely certain
 truth was not attainable. Thus one tried to get in its stead at least some
-kind of watered-down certainty or turth; that is to say, 'probability'.
+kind of watered-down certainty or truth; that is to say, 'probability'.
 
 But speaking of 'probability' instead of 'truth' does not help us to
 
 escape either from the infinite regress or from apriorism.1
 
 From this point of view, one sees that it is useless and misleading to
-employ the concept of probabiliy in connection with scientific
+employ the concept of probability in connection with scientific
 hypotheses.
 
 The concept of probability is used in physics and in the theory of
@@ -13160,7 +13160,7 @@ two groups. Group A is formed by the axioms for the junctional
 6 See Popper, l.c., 71, 151.
 *2 The absolute system (s2) has an advantage over the relative system (s1) only as long as
 the relative probability p(x, y) is considered as indeterminate if pa(y) = 0. I have since
-developed a system (see appendix *iv) in which relative probabilitiés are determinate
+developed a system (see appendix *iv) in which relative probabilitiesés are determinate
 even in case pa(y) = 0. This is why I now consider the relative system superior to the
 absolute system. (I may also say that I now consider the term 'axiom of uniqueness' as
 badly chosen. What I intended to allude to was, I suppose, something like postulate 2 or
@@ -13427,7 +13427,7 @@ or the law of commutation
 
 (b)
 
-or the law of indempotence
+or the law of idempotence
 
 (c)
 
@@ -14071,7 +14071,7 @@ In order to show that our system is consistent even under the
 assumption that S is denumerably infinite, the following interpretation
 may be chosen. (It is of interest because of its connection with the
 frequency interpretation.) Let S be the class of rational fractions in
-diadic representation, so that, if a is an element of S, we may write a as a
+dyadic representation, so that, if a is an element of S, we may write a as a
 sequence, a = a1, a2 . . . , where ai is either 0 or 1. We interpret ab as the
 = aibi and a¯ as the sequence
 sequence ab = a1b1, a2b2, . . . so that (ab)i
@@ -14356,7 +14356,7 @@ between Kolmogorov's treatment of the subject and mine in some
 detail because it seems to me illuminating.
 
 I first define, in probabilistic terms, what I mean by saying that a is a
-super-element of b (and wider than, or equal to, b) or that b is a subelement of a (and logically stronger than, or equal to, a). The definition
+super-element of b (and wider than, or equal to, b) or that b is a sub-element of a (and logically stronger than, or equal to, a). The definition
 is as follows. (See also the end of appendix *v.)
 
 a is a super-element of b, or b is a sub-element of a—in symbols,
@@ -14411,7 +14411,7 @@ missing half-interval' is the following.
 
 S1 is a system of certain half-open sub-intervals of the universal
 interval u = (0, 1]. S1 contains, precisely, (a) the decreasing sequence A
-2 + 2 − n], and in addition (b) the set-theoretic prodsuch that an
+2 + 2 − n], and in addition (b) the set-theoretic products that an
 ucts of any two of its elements and the set-theoretic complements of
 any one of its elements.
 
@@ -14447,7 +14447,7 @@ empty element in every S, every S will contain, like S1, a product element (in t
 contain any wider element satisfying (i), the empty element will
 
 always fill the bill. That this is not so is shown by an example S2
-containing, in addition to the elements of S1, the elements (plus the settheoretic products of any two elements and the set-theoretic complement of any one element) of the sequence B = b1, b2, where bn
+containing, in addition to the elements of S1, the elements (plus the set-theoretic products of any two elements and the set-theoretic complement of any one element) of the sequence B = b1, b2, where bn
 =
 (0, (2n − 1)/2n + 2]. It will be easily seen that, although each bn satisfies
 condition (i) for the product-element of A, none of them satisfies condition (ii); so that in fact, there is no widest element in S2 that satisfies the
@@ -14479,7 +14479,7 @@ lim p(an, b) = p(a, b)
 12 I might have added here 'and if p(ab, ab) ≠ 0, so that ab is empty': this would have
 approximated my formulation still more closely to Kolmogorov's. But this condition is
 not necessary. I wish to point out here that I have received considerable encouragement
-from reading A. Rényi's most interesting paper 'On a New Axiomatic Theory of Probability', Acta Mathematica Acad. Scient. Hungaricae 6, 1955, pp. 286–335. Although I had
+from reading A. Rényi's most interesting paper 'On a New Axiomatic Theory of Probability', Acta Mathematica Acad. Scient. Hungarica 6, 1955, pp. 286–335. Although I had
 realized for years that Kolmogorov's system ought to be relativized, and although I had
 on several occasions pointed out some of the mathematical advantages of a relativized
 system, I only learned from Rényi's paper how fertile this relativization could be. The
@@ -14526,7 +14526,7 @@ more precisely the non-redundancy of our first definition—by violating it—it
 Kolmogorov's 'axiom of continuity' which is clearly satisfied by our
 example. For the missing half-interval, h = (0, 1
 2], whether in S or not, is
-the only set-theoretic product of A, so that a = h is true for the settheorist, whether or not a is in S. And with a = h, we have
+the only set-theoretic product of A, so that a = h is true for the set-theorist, whether or not a is in S. And with a = h, we have
 lim p(an) = p(a). Thus Kolmogorov's axiom is satisfied (even if we omit
 the condition p(a¯, a) ≠ 0; cf. footnote 12).
 
@@ -15425,7 +15425,7 @@ that, for a ≠ b, a and b are independent (and thus ab random). Let S
 contain the two sequences consisting of 0's and of 1's only. We put
 
 p (a, b) = lim ((anbn)/bn),
-p(ab, c) = lim ((anbncn)/cn),
+p(ab, c) = lim ((anbn)/cn),
 p(a¯, b) = lim (((1 − an) bn)/bn),
 p(a) = lim ((an)/n);
 
@@ -15769,7 +15769,7 @@ also my Postscript, note 1 to section *2 and note 2 to section *50.
 5 loc. cit., section xii (the italics are Hume's). The next quotation is from loc. cit., section vi.
 
 inferences from observed to unobserved objects, then, Hume says, 'I
-wou'd renew my question, why from this experience we form any conclusion
+would renew my question, why from this experience we form any conclusion
 beyond those past instances, of which we have had experience'. In other words,
 Hume points out that we get involved in an infinite regress if we appeal
 to experience in order to justify any conclusion concerning unobserved
@@ -16133,7 +16133,7 @@ The problem of a1
 
 = 'All planets
 move in ellipses' is clearly covered by our rule, and so is even the case
-= 'All planets move in ellipses with an eccenof comparing a1 and a3
+= 'All planets move in ellipses with an eccentricity comparing a1 and a3
 tricity other than zero'; for p(a3) > p(a1) will hold in all sufficiently
 large finite universes (of possible observations, say) in the simple sense
 that there are more possibilities compatible with a3 than with a1.
@@ -16261,7 +16261,7 @@ two theories a1
 in ellipses', then we can take as our field all the statements of the form
 'At the time x the planet y was in the position z', which will be our
 relative atomic statements. And if we assume that we already know that
-the track of the planet is a plane curve, then we can take a graphpaper
+the track of the planet is a plane curve, then we can take a graph paper
 that represents the field and enter on it the various positions, marking
 in each case the time, and the name of the planet in question, so that
 
@@ -16315,7 +16315,7 @@ becomes finite.
 We now consider the representation of a theory with d parameters
 which in the continuous case was represented by a d-dimensional continuum whose points (d-tuples) each represented a curve. We find that
 we can still use a similar representation, except that our d-dimensional
-continuum will be replaced by a d-dimensional arrangement of ddimensional 'cubes' (with the side ε). Each chain of these cubes will
+continuum will be replaced by a d-dimensional arrangement of d-dimensional 'cubes' (with the side ε). Each chain of these cubes will
 now represent one 'quasi curve', and thus one of the possibilities
 favourable to the theory; and the d-dimensional arrangement will represent the set of all 'quasi-curves' compatible with, or favourable to, the
 theory.
@@ -16481,7 +16481,7 @@ with the same number of parameters. Jeffreys himself gives as examples
 y = ax and y = ax2; and he says of them: 'laws involving the same number of parameters can be taken as having the same prior probability.'7
 But the number of laws having the same prior probability is infinite, for
 Jeffreys's own examples can be continued to infinity: y = ax3, y = ax4,
-. . . y = axn, and so on, with n → ∞. Thus for each number of paramenters, the same problem would recur as for the whole sequence.
+. . . y = axn, and so on, with n → ∞. Thus for each number of parameters, the same problem would recur as for the whole sequence.
 
 Moreover, Jeffreys himself recognizes, in the same § 3.0,8 that a law,
 a1, say, may be obtained from a law a2 with one additional parameter,
@@ -17866,7 +17866,7 @@ heads, or whether it contains exactly half heads and half tails. This
 shows that we cannot use, as evidence for or against h, our total observational knowledge, but that we must extract, from our observational
 knowledge, such statistical statements as can be compared with statements which either follow from h, or which have at least a high
 probability, given h. Thus if e consists of the complete results of a long
-sequence of tosses, then e is, in this form, completely useless as a teststatement of a statistical hypothesis. But a logically weaker statement of
+sequence of tosses, then e is, in this form, completely useless as a test statement of a statistical hypothesis. But a logically weaker statement of
 the average frequency of heads, extracted from the same e, could be used.
 For a probabilistic hypothesis can explain only statistically interpreted findings, and it can therefore be tested and corroborated only by statistical
 abstracts—and not, for example, by the 'total available evidence', if
@@ -18035,7 +18035,7 @@ frequency r ± δ. Then Bernoulli's theorem says that the probability of
 δ
 r(a)n will approach 1, with growing n, given h, i.e. given that p(a, b) = r.
 (It also says that this probability will approach 0, given that p(a, b) = s,
-wheever s falls outsider r ± δ; which is important for the refutation of
+whenever s falls outsider r ± δ; which is important for the refutation of
 probabilistic hypotheses.)
 
 Now this means that we may write Bernoulli's theorem in the form
@@ -18127,7 +18127,7 @@ our selection of e: that we must not ignore unfavourable cases; and that
 e must comprise reports on our total observational knowledge,whether
 favourable or unfavourable. (Note that the inductivist's requirement
 that e must comprise our total observational knowledge cannot be represented in any formalism. It is a non-formal requirement, a condition
-of adequacy which must be satisfied if we wish to interpretp(h, e) as degree
+of adequacy which must be satisfied if we wish to interpret(h, e) as degree
 of our imperfect knowledge of h.)
 
 In opposition to this inductivist attitude, I assert that C(h, e) must not
@@ -18814,7 +18814,7 @@ initial conditions held (in our world) than those which actually do
 hold'.
 
 Nevertheless, the phrase in (N°) 'all worlds which differ (if at all)
-from our world only with respect to the initial conditions' undoubt-
+from our world only with respect to the initial conditions' undoubted-
 
 '∼(a). ((a) ⊃ ψ(a))'. I wonder whether Kneale realized that this expression of his was
 only a complicated way of saying '∼(a)'; for who would ever think of asserting that
@@ -19402,7 +19402,7 @@ quite a big thing, say a billiard ball) moving with a certain constant
 velocity to and fro between two parallel walls by which it is elastically
 reflected. Einstein shows that this system can be represented in
 Schrödinger's theory by a standing wave; and he shows further that the
-pilot wave theory of de Broglie, or Bohm's so-called 'causal interpretation of quantum theory' leads to the paradoxial result (first pointed
+pilot wave theory of de Broglie, or Bohm's so-called 'causal interpretation of quantum theory' leads to the paradoxical result (first pointed
 out by Pauli) that the velocity of the particle (or billiard ball) vanishes;
 or in other words, our original assumption that the particle moves with
 some arbitrarily chosen velocity leads in this theory, for every chosen
@@ -19794,7 +19794,7 @@ This view makes it unnecessary to distinguish, more particularly, between "pure"
 appendix *xii 483
 
 findings is merely the result of interfering with a system from without, which comprises measuring it, while the systems in themselves—described by a ψ-
-function—behave in a deterministic fashion. Heisenberg flirts [liebäugelt] with this interpretation, without adopting it consistently. But
+function—behave in a deterministic fashion. Heisenberg flirts [liebäliebäugelt] with this interpretation, without adopting it consistently. But
 one can also put the question thus: should we regard the ψ-function
 whose time-dependent changes are, according to Schrödinger's equation, deterministic, as a complete description of physical reality, and
 should we therefore regard the (insufficiently known) interference
@@ -20070,7 +20070,7 @@ Keynes, J.M. 6n, 68n, 102nq, 108n,
 252n, 253n, 263n, 270q&n, 272,
 322n, 375, 382n, 402, 409, 421,
 424&n, 428
-Kirchof, G.R. 121
+Kirchhoff, G.R. 121
 Klein, F. 119n
 Klein, O. 300
 Kneale, W.C. 116n, 126nq–127n,
@@ -20459,7 +20459,7 @@ Boldness of science 16, 281, see also
 
 Content
 
-Bookean algebra 331–2, 333, 339,
+Boolean algebra 331–2, 333, 339,
 347, 349, 356, 362, 363–4;
 derivation of 363–8
 
@@ -20477,7 +20477,7 @@ Classes of statements 42, 43, 45, 51,
 100, 108, see also Reference class;
 Sequence, of statements
 
-Collective, Misessian see Reference
+Collective, Misesian see Reference
 sequence; Sequences, chance
 like
 
@@ -20565,7 +20565,7 @@ also Belief, 'rational' degree of
 
 Constitute, Constitution 64nt,
 
-Coordinates, spacio-temporal,
+Coordinates, spatio-temporal,
 
 76t&nt, 455, see also Reduction
 Content, empirical or informative
@@ -20735,7 +20735,7 @@ Definition xxiii, 34, 53–4, 63, 119,
 subject index 499
 
 456; essential 452; implicit 51–4;
-intentional and estensional 157,
+intentional and extensional 157,
 180, 182; operational 462&n;
 ostensive 42, 53–4, 60, 117–19,
 130; recursive 150n
@@ -20762,7 +20762,7 @@ section 6, 17–20, 28, 33, 48,
 314–16, 445–6; meaning as,
 inadequate 12–15, 16–19, 309,
 see also Asymmetry; Certainty;
-Empirical character; estability;
+Empirical character; stability;
 Falsifiability; Meaning, positivist
 dogma of; Verification
 
@@ -21168,7 +21168,7 @@ probabilistic 145t, 146&n, 160,
 axioms see Probability, formal,
 see also Irrelevance
 
-Indeterminis, metaphysical 205&n,
+Indeterminism, metaphysical 205&n,
 
 section 78, 244&n–7;
 metaphysical 199&n, 211
@@ -21227,7 +21227,7 @@ Interference by measurement see
 
 Heisenberg's formula, orthodox
 interpretation of; Imaginary
-experiment, Bohrs and
+experiment, Bohr's and
 Heisenberg's
 
 Interpretation of axioms 52–4; of
@@ -21331,7 +21331,7 @@ Decidability; Instrumentalism;
 Necessity, natural; Pragmatism;
 Thermodynamics
 
-Likelihood, Bernouillian 436–7;
+Likelihood, Bernoulli 436–7;
 
 Fisher's 334, 403–4, 404–5, 407,
 414&n, 428, 430, 432–3&n
@@ -21420,7 +21420,7 @@ Metaphysics 11, 12, 13, 14–16, 24,
 313, 315, 458, 460; the great role
 they may play in scientific activity
 15–16, 116, 199n, 267–8, 316;
-positivists's hatred of 12–16, 32n,
+positivists' hatred of 12–16, 32n,
 315, 459n, 475–6; probability
 185&n, 187, section 67, 188–90,
 250, 251; purely existential
@@ -21436,7 +21436,7 @@ view of 15, 28, 32, section 11, 34,
 3–6, 11–13, 16, 18, 30, 42, 58n, 75,
 113n, 123, 158–9, 175, 276;
 empirical 17, 28, 51, 63, 91–2,
-280; historical xixt–xxi; naturalist
+280; historical xi–xxi; naturalist
 view of 12, section 10, 29, 31t, 32,
 260; philosophical, nonexistent
 xix–xxi; scientific 17, chapter II,
@@ -21653,7 +21653,7 @@ autonomous axiom system of
 174&n, 175, 321–2, appendix iii,
 325–8, 375–8&n, 388n;
 consistence of 342–5; definitions
-in 350–5, 364–5; derivaions in
+in 350–5, 364–5; derivations in
 appendix v, 356–68; frequency
 133–4, 134n, 144, 201&n, 203,
 206–7, 321–2; incompleteness of
@@ -21669,14 +21669,14 @@ calculus of section 47, 133–7,
 147n, 204, 207–8, 319, 320;
 games of chance or classical 103,
 
-319–20; indutive see Probability
+319–20; inductive see Probability
 logic; logical 134n, 135&n–6, 182,
 184n, 254n, 261n, 321–2, 330–1,
 422–3, 433, 434, 436–7;
 propensity 134n, 137n, 138n,
 155n, 163n, 205&n, 205n, 309,
 310&n–11, 427&n; statistical or
-relative frequence 133–4&n,
+relative frequency 133–4&n,
 137&n, 139–40, 163, 320, 427
 Probability logic, Carnap's view of
 272n, 382n, 409, 410; frequency

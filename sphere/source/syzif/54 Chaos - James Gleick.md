@@ -560,7 +560,7 @@ world had turned into Camelot, or some particularly bland version of
 
 southern California.
 
-Outside his window Lorenz could watch real weather, the earlymorning fog creeping along the Massachusetts Institute of Technology
+Outside his window Lorenz could watch real weather, the early morning fog creeping along the Massachusetts Institute of Technology
 
 campus or the low clouds slipping over the rooftops from the Atlantic. Fog
 and clouds never arose in the model running on his computer. The
@@ -855,7 +855,7 @@ numbers, assuming that the difference—one part in a thousand—was
 
 inconsequential.
 
-It was a reasonable assumption. If a weather satellite can read oceansurface temperature to within one part in a thousand, its operators
+It was a reasonable assumption. If a weather satellite can read ocean surface temperature to within one part in a thousand, its operators
 
 consider themselves lucky. Lorenz's Royal McBee was implementing the
 classical program. It used a purely deterministic system of equations.
@@ -1152,7 +1152,7 @@ could make it do something different from what it would otherwise have
 
 done. But if you did, then you would never know what it would otherwise
 
-have done. It would be like giving an extra shuffle to an already wellshuffled pack of cards. You know it will change your luck, but you don't
+have done. It would be like giving an extra shuffle to an already well shuffled pack of cards. You know it will change your luck, but you don't
 
 know whether for better or worse.
 
@@ -3174,7 +3174,7 @@ populations do what they do in neat one-year intervals. Changes year to
 year are often more important than changes on a continuum. Unlike
 people, many insects, for example, stick to a single breeding season, so
 
-their generations do not overlap. To guess next spring's gypsy moth
+their generations do not overlap. To guess next spring gypsy moth
 population or next winter's measles epidemic, an ecologist might only
 
 need to know the corresponding figure for this year. A year-by–year
@@ -3779,7 +3779,7 @@ PERIOD-DOUBLINGS AND CHAOS. Instead of using individual diagrams to show the beh
 populations with different degrees of fertility, Robert May and other scientists used a "bifurcation
 diagram" to assemble all the information into a single picture.
 
-The diagram shows how changes in one parameter—in this case, a wildlife population's "boomand-bustiness"—would change the ultimate behavior of this simple system. Values of the
+The diagram shows how changes in one parameter—in this case, a wildlife population's "boom and-bustiness"—would change the ultimate behavior of this simple system. Values of the
 
 parameter are represented from left to right; the final population is plotted on the vertical axis. In
 a sense, turning up the parameter value means driving a system harder, increasing its
@@ -4429,7 +4429,7 @@ was independent of scale: curves for daily price changes and monthly
 
 price changes matched perfectly. Incredibly, analyzed Mandelbrot's way,
 
-the degree of variation had remained constant over a tumultuous sixtyyear period that saw two World Wars and a depression.
+the degree of variation had remained constant over a tumultuous sixty year period that saw two World Wars and a depression.
 
 Within the most disorderly reams of data lived an unexpected kind of
 
@@ -4684,7 +4684,7 @@ shock brought on by the computer, with its power to feed a new
 
 mathematics of the eye. But that was too late for Mandelbrot, unable to
 
-live by Bour-baki's formalisms and unwilling to abandon his geometrical
+live by Bour-Bourbaki's formalisms and unwilling to abandon his geometrical
 
 intuition.
 
@@ -5407,7 +5407,7 @@ or in the cartoon notion of a fish eating a smaller fish eating a smaller fish
 
 eating a smaller fish. Mandelbrot likes to quote Jonathan Swift: "So,
 
-Nat'ralists observe, a Flea/Hath smaller Fleas that on him prey,/And these
+Naturalists observe, a Flea/Hath smaller Fleas that on him prey,/And these
 
 have smaller Fleas to bite 'em,/ And so proceed ad infinitum."
 
@@ -5736,7 +5736,7 @@ visible from space. Categories mislead. The ends of the continuum are of a
 piece with the middle.
 
 It happens that the equations of fluid flow are in many contexts
-dimensionless, meaning that they apply without regard to scale. Scaleddown airplane wings and ship propellers can be tested in wind tunnels
+dimensionless, meaning that they apply without regard to scale. Scaled-down airplane wings and ship propellers can be tested in wind tunnels
 
 and laboratory basins. And, with some limitations, small storms act like
 
@@ -5810,7 +5810,7 @@ branching that behaves consistently from
 
 large scales to small.
 
-Anatomists study the vas-culatory system by classifying blood vessels into
+Anatomists study the vas-vasculatory system by classifying blood vessels into
 
 categories based on size—arteries and arterioles, veins and venules. For
 
@@ -6035,7 +6035,7 @@ computers began to play their new role. Those who used computers to
 
 conduct experiments became more like laboratory scientists, playing by
 
-rules that allowed discovery without the usual theorem-proof, theoremproof of the standard mathematics paper.
+rules that allowed discovery without the usual theorem-proof, theorem-proof of the standard mathematics paper.
 
 Mandelbrot's book was wide-ranging and stuffed with the minutiae
 
@@ -6079,7 +6079,7 @@ different starting points to one of four possible solutions (in this case the eq
 
 FRACTAL CLUSTERS. A random clustering of particles generated by a computer produces a
 
-"percolation network," one of many visual models inspired by factal geometry. Applied physicists
+"percolation network," one of many visual models inspired by fractal geometry. Applied physicists
 discovered that such models imitate a variety of real-world processes, such as the formation of
 
 polymers and the diffusion of oil through factured rock. Each color in the percolation network
@@ -6370,7 +6370,7 @@ describable with just a few numbers. The vogue for geometrical
 
 architecture and painting came and went. Architects no longer care to
 
-build blockish skyscrapers like the Seagram Building in New York, once
+build blocky skyscrapers like the Seagram Building in New York, once
 
 much hailed and copied. To Mandelbrot and his followers the reason is
 
@@ -7205,7 +7205,7 @@ meaning that paragraphs would begin with Definition or Proposition or
 
 Proof, followed by the inevitable thrust: Let….
 
-"Proposition (5.2). Let Xµ be a one-parameter family of Ck vectorfields on
+"Proposition (5.2). Let Xµ be a one-parameter family of Ck vector fields on
 
 a Hilbert space H such that…"
 
@@ -7672,7 +7672,7 @@ version of the coolness that greeted Ruelle: "Your result is no more than
 
 an almost periodic oscillation. Don't form a selfish concept of steady
 
-states.") In Germany Otto Rössler, a nonpracticing medical doctor who
+states.") In Germany Otto Rössler, a non-practicing medical doctor who
 
 came to chaos by way of chemistry and theoretical biology, began with an
 
@@ -8767,7 +8767,7 @@ to the speed of the vibrations. Considering how little evidence supported
 
 this notion, it was as unjustifiable as it was brilliant. What is red? To a
 
-physicist, it is light radiating in waves between 620 to 800 bil-lionths of a
+physicist, it is light radiating in waves between 620 to 800 bil-billionths of a
 
 meter long. Newton's optics proved themselves a thousand times over,
 
@@ -9237,7 +9237,7 @@ population biologists who had previously failed to notice the possibility of
 
 any but orderly cycles in changing animal populations. En route to chaos
 
-in this region was a cascade of period-doublings, the splitting of twocycles into four-cycles, four-cycles into eight-cycles, and so on. These
+in this region was a cascade of period-doublings, the splitting of two-cycles into four-cycles, four-cycles into eight-cycles, and so on. These
 
 splittings made a a fascinating pattern. They were the points at which a
 
@@ -9933,7 +9933,7 @@ Nobel Symposium in Sweden, and there the controversy swirled. Benoit
 
 Mandelbrot gave a wickedly pointed talk that listeners later described as
 
-his "antifeigenbaum lecture." Somehow Mandelbrot had exhumed a
+his "anti-feigenbaum lecture." Somehow Mandelbrot had exhumed a
 
 twenty-year–old paper on period-doubling by a Finnish mathematician
 
@@ -10276,7 +10276,7 @@ a quirk of political fate, Libchaber's own life was saved by the protection
 of a local chief of the Pétain secret police, a man whose fervent right-wing
 
 beliefs were matched only by his fervent antiracism. After the war, the
-testified, only halften-year–old boy returned
+testified, only half-ten-year–old boy returned
 
 favor. He
 
@@ -10348,7 +10348,7 @@ stainless steel cell sat a bottom plate of high-purity copper. Above sat a
 top plate of sapphire crystal. The materials were chosen according to how
 they conducted heat. There were tiny electric heating coils and Teflon
 
-gaskets. The liquid helium flowed down from a reservoir, itself just a halfinch cube. The whole system sat inside a container that maintained an
+gaskets. The liquid helium flowed down from a reservoir, itself just a half-inch cube. The whole system sat inside a container that maintained an
 extreme vacuum. And that container, in turn, sat in a bath of liquid
 
 nitrogen, to help stabilize the temperature.
@@ -10409,7 +10409,7 @@ Libchaber knew that American and French experiments had
 
 weakened the Landau idea for the onset of turbulence by showing that
 
-turbulence arrived in a sudden transition, instead of a continuous pilingup of different frequencies. Experimenters like Jerry Gollub and Harry
+turbulence arrived in a sudden transition, instead of a continuous piling-up of different frequencies. Experimenters like Jerry Gollub and Harry
 
 Swinney, with their flow in a rotating cylinder, had demonstrated that a
 
@@ -10786,7 +10786,7 @@ In science, on the whole, physical cause dominates. Indeed, as
 
 astronomy and physics emerged from the shadow of religion, no small
 
-part of the pain came from discarding arguments by design, forwardlooking teleology—the earth is what it is so that humanity can do what it
+part of the pain came from discarding arguments by design, forward-looking teleology—the earth is what it is so that humanity can do what it
 
 does. In biology, however, Darwin firmly established teleology as the
 central mode of thinking about cause. The biological world may not fulfill
@@ -11406,7 +11406,7 @@ west to the far east, with zero at the center. But this line is only the
 equator of a world that also stretches to infinity in the north and the
 
 south. Each number is composed of two parts, a real part, corresponding
-to east-west longitude, and an imaginary part, corresponding to northsouth latitude. By convention, these complex numbers are written this
+to east-west longitude, and an imaginary part, corresponding to north-south latitude. By convention, these complex numbers are written this
 way: 2 + 3i, the i signifying the imaginary part. The two parts give each
 
 number a unique address in this two-dimensional plane. The original line
@@ -11486,7 +11486,7 @@ process of iteration zooms in on an answer like a dynamical system
 seeking its steady state. The process is fast, the number of accurate
 
 decimal digits generally doubling with each step. Nowadays, of course,
-square roots succumb to more analytic methods, as do all roots of degreetwo polynomial equations—those in which variables are raised only to the
+square roots succumb to more analytic methods, as do all roots of degree-two polynomial equations—those in which variables are raised only to the
 
 second power. But Newton's method works for higher-degree polynomial
 equations that cannot be solved directly. The method also works
@@ -13060,7 +13060,7 @@ through the formalities, get his doctorate and move on to the real world.
 
 As for chaos, there were questions of academic suitability. No one at Santa
 
-Cruz was qualified to supervise a course of study in this field-without–aname. No one had ever received a doctorate in it. Certainly no jobs were
+Cruz was qualified to supervise a course of study in this field-without–a name. No one had ever received a doctorate in it. Certainly no jobs were
 
 available for graduates with this kind of specialty. There was also the
 
@@ -13100,7 +13100,7 @@ Farmer, Packard, and Crutchfield now cut themselves off.
 
 When certain kinds of electronic equipment began to disappear at
 
-night, it became prudent to look for them in Shaw's former lowtemperature laboratory. Occasionally a member of the collective would be
+night, it became prudent to look for them in Shaw's former low-temperature laboratory. Occasionally a member of the collective would be
 
 able to cadge a hundred dollars from the graduate student association, or
 
@@ -13110,7 +13110,7 @@ Plotters, converters, electronic filters began to accumulate. A particle
 
 physics group down the hall had a small digital computer that was
 
-destined for the scrapheap; it found its way to Shaw's lab. Farmer became
+destined for the scrap heap; it found its way to Shaw's lab. Farmer became
 
 a particular specialist in scrounging computer time. One summer he was
 
@@ -13533,7 +13533,7 @@ of data in ordinary language is less than random; each new bit is partly
 
 constrained by the bits before; thus each new bit carries somewhat less
 
-than a bit's worth of real information. There was a hint of paradox
+than a bit worth of real information. There was a hint of paradox
 
 floating in this formulation. The more random a data stream, the more
 
@@ -13623,7 +13623,7 @@ This was suitably far-fetched—a prize lucratively endowed by a French
 
 financier who had nurtured a private theory about the structure of the
 
-universe, galaxies within galaxies. It called for essays on Jacot's theme,
+universe, galaxies within galaxies. It called for essays on Jacot theme,
 
 whatever that was. ("It sounded like a bunch of crank mail," Farmer said.)
 
@@ -13777,7 +13777,7 @@ ask whether the whorl is to the right or the left.
 
 If the whorls are static, the data stream will look like this: left-left–
 
-left-left–left-left–left-left–left-left–left-left–left-left–left-left–left-left–leftleft–. After a while, the observer starts to feel that new bits of data are
+left-left–left-left–left-left–left-left–left-left–left-left–left-left–left-left–left left–. After a while, the observer starts to feel that new bits of data are
 
 failing to offer new information about the system.
 
@@ -15489,7 +15489,7 @@ waits, listening to the steady heartbeat, until it becomes necessary to
 
 release a burst of electricity. Ideker began to assemble the physical
 
-understanding necessary to make the design of defibrillators less a highpriced guessing game, more a science.
+understanding necessary to make the design of defibrillators less a high priced guessing game, more a science.
 
 WHY SHOULD THE LAWS of chaos apply to the heart, with its peculiar
 
@@ -15514,7 +15514,7 @@ outside pacemaker at all. The pulsation was clearly visible through a
 
 microscope. The next step was to apply an external rhythm as well, and
 
-the McGill scientists did this through a microelectrode, a thin tube of glass
+the McGill scientists did this through a micro electrode, a thin tube of glass
 
 drawn out to a fine point and inserted into one of the cells. An electric
 
@@ -15527,7 +15527,7 @@ They summed up their findings this way in Science in 1981: "Exotic
 dynamic behavior that was previously seen in mathematical studies and
 
 in experiments in the physical sciences may in general be present when
-biological oscillators are periodically perturbed." They saw perioddoubling—beat patterns that would bifurcate and bifurcate again as the
+biological oscillators are periodically perturbed." They saw period doubling—beat patterns that would bifurcate and bifurcate again as the
 
 stimulus changed. They made Poincaré maps and circle maps. They
 
@@ -16406,7 +16406,7 @@ has experienced, and the combinations may as well be infinite.
 
 BALANCING STABILITY AND INSTABILITY. As a liquid crystallizes, it forms a growing tip (shown in
 
-a multiple-exposure photograph) with a boundary that becomes unstable and sends off sidebranches (left). Computer simulations of the delicate thermodynamic processes mimic real
+a multiple-exposure photograph) with a boundary that becomes unstable and sends off side branches (left). Computer simulations of the delicate thermodynamic processes mimic real
 
 snowflakes (above).
 
@@ -16775,7 +16775,7 @@ listed twenty-four awards, prizes, and medals, two decorations, nineteen
 societies, fifteen memberships on editorial boards and committees, and a
 
 variety of items bearing his name, including a "Tree along the Nobel
-Lane" in Balantonfüred, Hungary, a laboratory in China, and an asteroid.
+Lane" in Balatonfüredüred, Hungary, a laboratory in China, and an asteroid.
 
 The principles they discovered and the concepts they invented have
 
@@ -16800,7 +16800,7 @@ to admit, is 300 pages, okay?" he says.) Then came Stochastic Processes,
 Modeling Simulation, Cellular Automata, Computation Theory and
 Information Theory, Scaling, Renormalization, and Fractals, Neural
 
-Networks, Attractor Networks, Homogenous Systems, Inhomogenous
+Networks, Attractor Networks, Homogenous Systems, Inhomogeneous
 
 Systems, and so on.
 
@@ -16949,7 +16949,7 @@ information theory, as invented by Claude Shannon. Chaos is a creator of
 
 information—another apparent paradox. This thread connects with
 
-something Bernardo Hubemian said: that he was seeing complex
+something Bernardo Huberman said: that he was seeing complex
 
 behaviors emerge unexpectedly in information networks. Something was
 
@@ -17470,7 +17470,7 @@ Lorenz Equations, Bifurcations, Chaos, and Strange Attractors (Springer-Verlag,
 
 "ED, WE KNOW" Malkus, Lorenz.
 
-NO ONE THOUGHT "Deterministic Nonperiod Flow" was cited about once a
+NO ONE THOUGHT "Deterministic Nonperiodic Flow" was cited about once a
 
 year in the mid 1960s by the scientific community; two decades later, it
 
@@ -17517,7 +17517,7 @@ A PARTICLE PHYSICIST Cvitanović
 
 TOLSTOY Ford, interview and "Chaos: Solving the Unsolvable, Predicting
 
-the Unpredictable," in Chaotic Dynamics andFractals, ed. M. F. Barnsley and
+the Unpredictable," in Chaotic Dynamics and Fractals, ed. M. F. Barnsley and
 
 S. G. Demko (New York: Academic Press, 1985).
 
@@ -18163,7 +18163,7 @@ UNIVERSALITY
 
 "YOU CAN FOCUS" Feigenbaum. Feigenbaum's crucial papers on universality
 
-are "Quantitative Unversality for a Class of Nonlinear Transformations,"
+are "Quantitative Universality for a Class of Nonlinear Transformations,"
 
 Journal of Statistical Physics 19 (1978), pp. 25–52, and "The Universal Metric
 
@@ -18292,7 +18292,7 @@ THE EXPERIMENTER
 
 HE SURVIVED THE WAR Libchaber.
 
-"HEUUM IN A SMALL BOX" Albert Libchaber, "Experimental Study of
+"HELIUM IN A SMALL BOX" Albert Libchaber, "Experimental Study of
 
 Hydrodynamic Instabilities. Rayleigh-Benard Experiment: Helium in a
 
@@ -18635,7 +18635,7 @@ thousands of dots.
 
 LANFORD LISTENED POLITELY Farmer.
 
-"IT WAS MY NAÏIVETÉ" Farmer.
+"IT WAS MY NAÏNAÏVETÉÉ" Farmer.
 
 "AUDIOVISUAL AIDS" Shaw.
 
@@ -18845,7 +18845,7 @@ CHAOS AND BEYOND
 
 THE WORD ITSELF (Holmes) SIAM Review 28 (1986), p. 107; (Hao) Chaos
 
-(Singapore: World Scentific, 1984), p. i; (Stewart) "The Geometry of
+(Singapore: World SCIENTIFIC, 1984), p. i; (Stewart) "The Geometry of
 
 Chaos," in The Unity of Science, Brookhaven Lecture Series, No. 209 (1984),
 
@@ -18957,7 +18957,7 @@ Dimensional Dynamics in an Epidemic," Journal of Theoretical Biology 112
 
 YEARS LATER, SCHAFFER LIVED Schaffer; also William M. Schaffer, "A Personal
 
-Hejeira," unpublished.
+HEJIRA," unpublished.
 
 ACKNOWLEDGMENTS
 
@@ -18988,7 +18988,7 @@ Harry Swinney, Arthur Winfree, Bruce Stewart, Fereydoon Family, Irving
 Epstein, Martin Glicksman, Scott Burns, James Crutchfield, John Milnor,
 Richard Voss, Nancy Sterngold, and Adolph Brotman. I am also grateful to
 
-my parents, Beth and Donen Gleick, who not only brought me up right but
+my parents, Beth and Donan Gleick, who not only brought me up right but
 
 corrected the book.
 
@@ -19726,7 +19726,7 @@ instability, 18, 169, 198, 299
 
 in pattern formation, 309
 
-Institut des Hautes Études Scienti–fiques, 132, 134
+Institut des Hautes Études Scienti–scientifiques, 132, 134
 
 Institute for Advanced Study, 14, 37, 69, 132, 272
 
@@ -19951,7 +19951,7 @@ vs. physics, 47, 52, 66, 69, 113, 118, 178
 
 and turbulence, 121–25, 130–33, 137
 
-Maurei, Jean, 192, 203
+Maurel, Jean, 192, 203
 Maxwell, James Clerk, 181
 
 May, Robert, 4, 69–80, 135, 166–67, 171, 172, 182, 208, 259, 303, 321
@@ -19970,9 +19970,9 @@ Medawar, Sir Peter, 200
 
 Menger sponge, 101
 
-meterorites, 29, 314
+meteorites, 29, 314
 
-meterology, 3, 11–13, 21–22, 55, 168–169
+meteorology, 3, 11–13, 21–22, 55, 168–169
 
 Metropolis, Nicholas, 167–68, 173, 182
 
@@ -20028,7 +20028,7 @@ National Institute of Mental Health, 275
 
 National Institutes of Health, 275
 
-National Meterological Center, 19
+National Meteorological Center, 19
 
 National Oceanic and Atmospheric Administration, 21
 
@@ -20619,7 +20619,7 @@ copyright © 1987, 2008 by James Gleick
 
 cover design by Milan Bozic
 
-motion graphics by José Córdova
+motion graphics by José CóCórdova
 
 selective image remastering and animation art direction by Pablo Defendini
 

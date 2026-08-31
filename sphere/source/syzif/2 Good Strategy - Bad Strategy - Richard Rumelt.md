@@ -147,7 +147,7 @@ Stewardship Council A.C. (FSC). It is ancient-forest friendly. The
 
 printer holds FSC chain of custody SGS-COC-2061
 
-For Ruthjane
+For Ruth Jane
 
 CONTENTS
 
@@ -192,7 +192,7 @@ CHAPTER 4 WHY SO MUCH BAD STRATEGY?
 
 Strategy involves choice, and DEC's managers can't choose
 
-The path from charisma to transformational leadership to fillin-the-blanks template-style strategy
+The path from charisma to transformational leadership to fill-in-the-blanks template-style strategy
 
 New Thought from Emerson to today and how it makes
 strategy seem superfluous
@@ -542,7 +542,7 @@ results achieved.
 businesses. The term "Web 2.0" purportedly referred to a new
 approach to Web services, but none of the technologies involved
 were really new. The term was actually a code word for Google,
-MySpace, YouTube, Facebook, and various other new Webbased businesses that had suddenly become very valuable. At
+MySpace, YouTube, Facebook, and various other new Web-based businesses that had suddenly become very valuable. At
 lunch, I found myself seated with seven other attendees at a
 round table. Someone asked me what I do. I briefly explained
 that I was a faculty member at UCLA where I taught and did
@@ -817,7 +817,7 @@ out distributors and dealers.
 
 What is remarkable about Jobs's turnaround strategy for Apple is
 
-how much it was "BusinBusiness 101 is surprisingess 101" and yet
+how much it was "Business 101 is surprising 101" and yet
 how much of it was unanticipated. Of course you have to cut back
 and simplify to your core to climb out of a financial nosedive. Of
 course he needed up-to-date versions of Microsoft's Office software
@@ -1037,7 +1037,7 @@ retaliation to such use.
 Iraq fled Kuwait, much of its invading army destroyed.4 Coalition
 
 casualties were light—on the first day there were eight dead and
-twenty-seven wounded. The coalition's success with the combinedarms left-hook strategy was so stark that pundits who were worried
+twenty-seven wounded. The coalition's success with the combined arms left-hook strategy was so stark that pundits who were worried
 about trench warfare in February were, by March, opining that the
 coalition had amassed more forces than it needed and that the
 outcome had been a foregone conclusion.
@@ -1374,7 +1374,7 @@ deeper conventional wisdom of his era: the doctrine of
 decentralization, that each kettle should sit on its own bottom. Kmart
 had long adhered to this doctrine, giving each store manager
 authority to choose product lines, pick vendors, and set prices. After
-all, we are told that decentralization is a good thing. But the oftforgotten cost of decentralization is lost coordination across units.
+all, we are told that decentralization is a good thing. But the oft-forgotten cost of decentralization is lost coordination across units.
 Stores that do not choose the same vendors or negotiate the same
 terms cannot benefit from an integrated network of data and
 transport. Stores that do not share detailed information about what
@@ -1637,7 +1637,7 @@ be backed up with much stronger intelligence.
 To initiate a preemptive war, it is reasonable to expect that one
 would move far beyond secondhand intelligence and demand actual
 hands-on hard evidence obtained by U.S. forces. Preparing the
-capability for such a major evidence-producing prestrike operation
+capability for such a major evidence-producing pre-strike operation
 would have to be a critical objective, yet it was not. Nor was there any
 evidence that the policy makers had thought through the problem,
 evident in both the Bosnian and Iraqi interventions, of the United
@@ -2365,7 +2365,7 @@ Chen Brothers' strategy had been to target local specialty retailers
 that would pay a price premium to carry distinctive products not
 available at the large chain stores. Top management had divided its
 customers and potential customers into three tiers and set strategic
-objectives for each tier. The most important objectives were shelfspace dominance in the top tier, promotional parity or better in the
+objectives for each tier. The most important objectives were shelf space dominance in the top tier, promotional parity or better in the
 middle tier, and growing penetration in the lowest tier.
 
 The recent rapid growth of Whole Foods was putting increasing
@@ -2428,7 +2428,7 @@ bridge between that challenge and action, between desire and
 immediate objectives that lie within grasp. Thus, the objectives a
 good strategy sets should stand a good chance of being
 accomplished, given existing resources and competence. (See the
-discussion of proximate objectives in chapter 7.) By contrast, a bluesky objective is usually a simple restatement of the desired state of
+discussion of proximate objectives in chapter 7.) By contrast, a blue-sky objective is usually a simple restatement of the desired state of
 affairs or of the challenge. It skips over the annoying fact that no one
 has a clue as to how to get there.
 
@@ -2930,7 +2930,7 @@ Fill in your unique vision of what the
 school/business/nation will be like in the future. Currently
 popular unique visions are to be "the best" or "the
 leading" or "the best known." For example, Dow
-Chemical's vision is "To be the most profitable and
+Chemical vision is "To be the most profitable and
 respected science-driven chemical company in the
 world."6 Enron's vision was "to become the world's
 leading energy company."
@@ -3744,7 +3744,7 @@ possible actions. Considering the needs of the busy professional with
 little time to cook, she could see that the second checkout stand
 would help handle the burst of traffic at 5 p.m. So would more parking
 in the alley. In addition, she felt she could take space currently used
-for selling munchies to students and offer prepared high-quality takehome foods instead. Professionals, unlike students, would not come
+for selling munchies to students and offer prepared high-quality take home foods instead. Professionals, unlike students, would not come
 
 shopping at midnight, so there was no need for very late hours. The
 busy professionals would appreciate adequate staffing after work
@@ -3942,7 +3942,7 @@ car that is uniquely safe. And Jaguar buyers want something more
 distinctive than a "sporty Volvo." These two sets of concepts and
 actions were in conflict rather than being coherent.
 
-What about a list of nonconflicting but uncoordinated actions? In
+What about a list of non conflicting but uncoordinated actions? In
 
 2003, I worked with a company whose initial "strategy" was to (1)
 close a plant in Akron and open a new plant in Mexico, (2) spend
@@ -4213,9 +4213,9 @@ States, but I do not anticipate that the stultifying iron curtain between
 the CIA and the FBI will be removed short of all-out war. I expect that
 Google will continue to develop office-oriented applications that can
 be used online through a browser, but I do not anticipate effective
-responses from Microsoft, who will be loath to cannibalize its PCbased Microsoft Office business. I anticipate a rapidly growing use of
+responses from Microsoft, who will be loath to cannibalize its PC based Microsoft Office business. I anticipate a rapidly growing use of
 smart phones, but I also anticipate that this will overtax the cell phone
-infrastructure, leading to some industry consolidation and a usagebased fee structure.
+infrastructure, leading to some industry consolidation and a usage based fee structure.
 
 PIVOT POINTS
 
@@ -5671,7 +5671,7 @@ since 1939, and its profit roll continues despite the recession of 2008–
 9.
 
 The driving element in Paccar's strategy is quality, with its
-Kenworth and Peterbilt brands widely recognized as the highestquality trucks made in North America. Paccar has received J. D.
+Kenworth and Peterbilt brands widely recognized as the highest quality trucks made in North America. Paccar has received J. D.
 Power awards for its heavy trucks and for its service. The company
 prices accordingly, maintaining its strong market position despite
 premium prices.
@@ -5708,7 +5708,7 @@ strategy is a subtle shift away from seeing quality purely in terms of
 operating cost. Instead, Paccar views quality through the eyes of the
 owner-driver. Owner-drivers increase their wages by pushing
 
-themselves harder, driving sixteen hours a day or more. Ownerdrivers care about efficiency but also look beyond cost per mile,
+themselves harder, driving sixteen hours a day or more. Owner drivers care about efficiency but also look beyond cost per mile,
 because the truck is their home, office, lounge, and TV room on the
 road. In addition, drivers prize the special sense of classic American
 style—a Harley-Davidson-type aura—that attaches to Paccar's
@@ -5735,7 +5735,7 @@ same directions by their drivers' preferences. Whatever the fleet
 owner's opinion, many of their drivers prefer Paccar trucks.
 Paccar's strategy is based on doing something well and
 
-consistently over a long period of time. That has created difficult-toreplicate resources: its image, its network of experienced dealers, its
+consistently over a long period of time. That has created difficult-difficult to replicate resources: its image, its network of experienced dealers, its
 loyal customers, and the knowledge embedded in its staff of
 designers and engineers. This position and these kinds of slow-build
 resources are simply not available to companies, mesmerized by the
@@ -6181,7 +6181,7 @@ control.
 
 In 1998, troubles appeared. Crown's foray into plastic containers
 
-had paralleled the rapid growth in this business. The new blowmolded polyethylene terephthalate (PET) containers were taking
+had paralleled the rapid growth in this business. The new blow molded polyethylene terephthalate (PET) containers were taking
 significant business away from traditional glass and metal containers
 in soft drinks and certain foods categories (for example, ketchup and
 salad dressing). But this growth was not powered by a basic increase
@@ -6522,7 +6522,7 @@ Afghanistan against the Taliban. The present strategy of the United
 States in Afghanistan is based on turning the populace against the
 Taliban and toward the central government. This approach had
 traction in Iraq where the populace was accustomed to a strong
-central government. By contrast, Afghanistan is a medieval warlordbased society where loyalty and power is local. After years of U.S.
+central government. By contrast, Afghanistan is a medieval warlord based society where loyalty and power is local. After years of U.S.
 support, the Afghan central government remains corrupt and
 ineffective outside of Kabul. Thus, the Taliban's terror tactics against
 the population are brutally effective because any protection against
@@ -6928,7 +6928,7 @@ new arena can rebound to damage the core.
 A good example of the care management must take in extending
 its brands and reputation is that of the Walt Disney Company. It has
 long enjoyed a substantial competitive advantage in the
-entertainment industry because of its ability and reputation in familyfriendly fare. To appreciate the magnitude of this advantage, note that
+entertainment industry because of its ability and reputation in family friendly fare. To appreciate the magnitude of this advantage, note that
 no other film company is able to pull viewers to its movies by its brand
 name alone. Many kids go to (or are taken to) the newest Disney film
 without much regard to its content. By contrast, no one goes to a
@@ -7796,7 +7796,7 @@ To aid my own vision into the fog of change I use a number of mental
 guideposts. Each guidepost is an observation or way of thinking that
 seems to warrant attention.
 
-The first guidepost demarks an industry transition induced by
+The first guidepost demarcates an industry transition induced by
 escalating fixed costs. The second calls out a transition created by
 deregulation. The third highlights predictable biases in forecasting. A
 fourth marks the need to properly assess incumbent response to
@@ -7810,10 +7810,10 @@ force the industry to consolidate because only the largest competitors
 can cover these fixed charges. For example, in the photographic film
 industry, the movement from black-and-white to color film in the
 1960s strengthened the industry leaders. One insightful analysis of
-this wave of change points is that in the previously mature black-andwhite photo film industry, there was little incentive for competitors to
+this wave of change points is that in the previously mature black-and-white photo film industry, there was little incentive for competitors to
 invest heavily in R & D because film quality already exceeded the
 needs of most buyers.5 But there were large returns to improvements
-in quality and the ease of processing color film. As the costs of colorfilm R & D escalated, many firms were forced out of the market,
+in quality and the ease of processing color film. As the costs of color film R & D escalated, many firms were forced out of the market,
 including Ilford in the United Kingdom and Ansco in the United States.
 That wave of change left behind a consolidated industry of fewer but
 larger firms, dominated by Kodak and Fuji.
@@ -7998,7 +7998,7 @@ standardized data pipeline.
 
 An attractor state provides a sense of direction for the future
 evolution of an industry. There is no guarantee that this state will
-come to be, but it does represent a gravitylike pull. The critical
+come to be, but it does represent a gravity-like pull. The critical
 distinction between an attractor state and many corporate "visions" is
 that the attractor state is based on overall efficiency rather than a
 single company's desire to capture most of the pie. The "IP
@@ -8134,7 +8134,7 @@ strategy:
 
 • Successful strategies often owe a great deal to the inertia and
 
-inefficiency of rivals. For example, Netflix pushed past the nowbankrupt Blockbuster because the latter could not, or would not,
+inefficiency of rivals. For example, Netflix pushed past the now bankrupt Blockbuster because the latter could not, or would not,
 abandon its focus on retail stores. Despite having a large early
 lead in mobile phone operating systems, Microsoft's slowness in
 improving this software provided a huge opening for competitors,
@@ -8162,7 +8162,7 @@ The Inertia of Routine
 
 The heartbeat of any sizable business is the rhythmic pulse of
 standard procedures for buying, processing, and marketing goods. Its
-more conscious actions are guided by less rhythmic but still wellmarked paths. Even the breathless chase after an important new
+more conscious actions are guided by less rhythmic but still well marked paths. Even the breathless chase after an important new
 client, the sizing of a new facility, and the formulation of plans are
 familiar moves in a game that has been played before. An
 organization of some size and age rests on layer upon layer of
@@ -8240,7 +8240,7 @@ had given a talk to Wall Street analysts, saying his strategy was to
 eliminate short feeder routes and "concentrate on the long-haul
 routes where the bucks are." He committed United to spending $3
 billion to build a new long-haul fleet, centered in Chicago. Braniff
-International had also reacted to the new era by adding new longhaul routes. I hoped that our analysis would show how Continental
+International had also reacted to the new era by adding new long haul routes. I hoped that our analysis would show how Continental
 could be smarter.
 
 My ideas were not well received by the executive committee. The
@@ -8326,7 +8326,7 @@ crash in prices and major losses. And, in a normal industry,
 competitors cannot all add capacity at the same time unless there is a
 remarkable surge in demand. But in the airline business, the CAB lent
 a hand, propping up prices—and even increasing them—in these
-periods of overcapacity. Reequipment by the regulated airlines had
+periods of overcapacity. Re-equipment by the regulated airlines had
 not been a strategic problem. A simple rule sufficed: reequip when
 everyone else does.
 
@@ -8384,7 +8384,7 @@ strategies in computing and communications.
 The strategic plans I helped formulate at AT&T included
 
 developing and bonding key software packages with the AT&T brand
-name.1 In addition, we planned on making these packages and addon modules available for sale electronically, over telephone lines,
+name.1 In addition, we planned on making these packages and add-on modules available for sale electronically, over telephone lines,
 with AT&T "communicating computers."* Finally, we were interested
 in developing a simpler version of AT&T's Unix for the PC platform,
 one that would begin to support a graphical user interface.
@@ -8552,7 +8552,7 @@ they served. With the advent of the Internet, which were the first to
 offer digital subscriber line services? The telephone companies'
 primary data offering to business had been T1 lines, priced at about
 four thousand dollars per month and offering 1.5 mbps. In 1998, DSL
-speeds were about one-third of T1 speeds, but DSL prices were onethirtieth. That is, a customer could replicate a T1 line with three DSLs
+speeds were about one-third of T1 speeds, but DSL prices were one-thirtieth. That is, a customer could replicate a T1 line with three DSLs
 for one-tenth the cost. Rather than cannibalize their very profitable T1
 business, telephone companies serving New York, Chicago, and San
 Francisco just punted—they didn't offer DSL. These telephone
@@ -8663,7 +8663,7 @@ cumulative total, bringing it up to $4.68 million. But, beginning with
 outlet 15, negative GTOs begin to drag down the cumulative total. In
 fact, the negative GTOs of outlets 15 through 28 summed to negative
 $4.4 million, almost totally canceling out the contributions of the
-positive GTO stores. As you can see, the number one outlet's GTO
+positive GTO stores. As you can see, the number one outlet GTO
 was higher than that of the whole chain of twenty-eight!
 
 DENTON'S ADJUSTED CUMULATIVE GAIN TO OPERATING
@@ -8803,7 +8803,7 @@ piece of paper. Each quarter, each year, each decade, corporate
 leadership must work to maintain the coherence of the design.
 
 Without constant attention, the design decays. Without active
-maintenance, the lines demarking products become blurred, and
+maintenance, the lines demarcating products become blurred, and
 coherence is lost.
 
 If the company is fully decentralized, this blurring of boundaries is
@@ -10452,7 +10452,7 @@ certain kinds of complex information quickly and come up with a
 judgment and yet not know how we got there. We all know this is true,
 especially with regard to making decisions about other people and
 social settings, and about matching patterns—seeing that one thing
-has characteristics that remind us of another. These are lightningquick computations. Gladwell makes the case that we should trust
+has characteristics that remind us of another. These are lightning-quick computations. Gladwell makes the case that we should trust
 these judgments made in the blink of an eye, especially when they
 are made by people with good experience.
 
@@ -10672,7 +10672,7 @@ directions chosen to the problems that these choices address.
 Applying the problem-solution methodology to TiVo's situation
 
 means identifying the obstacles it is attempting to overcome. A
-simple engineering view would be that it tries to let consumers timeshift television viewing and, perhaps, skip commercials. Other ways
+simple engineering view would be that it tries to let consumers time-shift television viewing and, perhaps, skip commercials. Other ways
 of addressing this problem—solutions that compete with the TiVo
 solution—are VCRs, video-on-demand services, and DVD rental and
 sales, especially of entire commercial-free seasons of TV shows.
@@ -11412,7 +11412,7 @@ mountain of securities on the premise that home prices never
 decline—does not necessarily display the flaw until it collapses.
 The collapse is virtually certain, but it is not signaled by a history
 of shakiness or vibration. Importantly, the collapse is not due to
-totally unforseeable or almost impossible events—things the
+totally unforeseeable or almost impossible events—things the
 financial community tends to call "black swans"6 or "tail-risks."
 Given the design flaws in the system, a collapse was inevitable.
 
@@ -11575,7 +11575,7 @@ When this giant credit bubble burst, it was devastating. In
 
 September 1873, the New York Stock Exchange closed for ten days
 and a chain reaction of bank failures and corporate collapses
-followed. About eighteen thousand businesses failed, including onequarter of the United States' railroads. Unemployment reached 14
+followed. About eighteen thousand businesses failed, including one quarter of the United States' railroads. Unemployment reached 14
 percent and the U.S. labor movement began in earnest.
 
 Twenty years later, the Panic of 1893 was triggered by the failure of
@@ -12403,7 +12403,7 @@ Fundamental Issues in Strategy: A Research Agenda, eds.
 Richard Rumelt, Dan Schendel, and David Teece (Harvard
 Business School Press, 1994), 71–96.
 
-8. The OECD, a descendant of the Marshall Plan, contains thirtythree advanced countries. Its purpose is to foster economic
+8. The OECD, a descendant of the Marshall Plan, contains thirty-three advanced countries. Its purpose is to foster economic
 progress and trade.
 
 9. Richard J. Herring and Susan Wachter, "Real Estate Booms
@@ -12522,7 +12522,7 @@ wrestling the gorilla, 160–61
 
 advertising, threshold effect in, 103
 Afghanistan, 161–62
-Agnelli famly, 157
+Agnelli family, 157
 airlines:
 
 Continental, 204–8
@@ -13599,7 +13599,7 @@ Denver. U.S. West had the fewest number of T1 lines on lease
 and served fast-growing corporate and residential markets. It was
 an innovator in creating and offering DSL services to businesses.
 
-* Here, performance is measured as "fillrate," the number of pixels
+* Here, performance is measured as "fill rate," the number of pixels
 
 output per second.
 
@@ -13618,7 +13618,7 @@ quite one year later.
 
 Bros., Chase & Sanborn) were acquired in 1998 from Nestlé and
 Café Pilão. P&G's main brand was Folgers, sold to Smucker's in
-2008. P&G began to make and market Dunkin' Donuts brand
+2008. P&G began to make and market Dunkin'' Donuts brand
 coffee in 2007.
 
 * The sale was technically for a twenty-five-year right to the

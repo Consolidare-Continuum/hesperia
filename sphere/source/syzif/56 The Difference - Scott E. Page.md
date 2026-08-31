@@ -354,7 +354,7 @@ Moving from a theoretical science of distributed and collective
 intelligence to the practical art of distributed, decentralized organizations requires additional conceptual unpacking. Take the case of
 what is often called distributed information production. Examples
 of this include Wikipedia, Digg.com, and Epinions. For these
-collective projects to take off, knowledge must be dispersely held,
+collective projects to take off, knowledge must be dispersed held,
 people must have incentives to reveal their information, a significant percentage of the information must be useful, and biases and
 errors must be identifiable and correctable. Wikipedia has been
 such a smashing success because it meets all of these requirements.
@@ -458,7 +458,7 @@ dramatic improvement in efficiency.
 
 A final key determinant in the success of decentralized organizational forms is culture. Culture has hundreds of definitions.
 Here, I mean norms and modes of behavior. We should not be
-surprised that distributed approaches have succeeded in opensource software and in the ATLAS project in physics. Both of these
+surprised that distributed approaches have succeeded in open source software and in the ATLAS project in physics. Both of these
 communities have norms of sharing and collaboration. The future
 success of distributed cognition depends partly on the spread of
 positive-sum thinking. We have to think of sharing ideas not as
@@ -575,7 +575,7 @@ complex tome, destined to be misunderstood by its twelve readers,
 Tim transformed into what you see. I had only to remove his many
 insertions of the word indeed.
 
-The orginal manuscript was edited by Madeleine Adams, who
+The original manuscript was edited by Madeleine Adams, who
 corrected more punctuation errors in one month than most
 seventh grade teachers can claim in a lifetime. The final galley
 proofs were subject to the expert eye of Andrea Jones-Rooy, who
@@ -944,7 +944,7 @@ Midwest. Only the people running Alph's site knew the identities
 of both seekers and solvers. In the parlance of the Web, the
 participants were double blind.
 
-Alph called his site InnoCentive. With it, he created a modernday version of the Wild West wanted poster. But rather than
+Alph called his site InnoCentive. With it, he created a modern-day version of the Wild West wanted poster. But rather than
 
 I N T R O D U C T I O N
 
@@ -1009,7 +1009,7 @@ machines, smaller than manual typewriters, among their forces to
 create random ciphers that allowed them to communicate secretly
 with one another. Breaking the code was a priority for the Allies,
 since it allowed the Nazis to coordinate attacks both on land and
-at sea, deliver needed supplies, and generally coordinate their farflung military might. The German navy was especially adept at
+at sea, deliver needed supplies, and generally coordinate their far-flung military might. The German navy was especially adept at
 using the Enigma code and sank, on average, sixty supply ships a
 month.
 
@@ -1125,7 +1125,7 @@ image of the lone worker toiling away at his or her craft makes a
 nice subject for a Norman Rockwell Saturday Evening Post cover
 illustration but increasingly misrepresents the modern economy.
 Pa Ingalls cleared the field all by himself one hundred thirty years
-ago. His decendents now interact in groups and with networks of
+ago. His descendants now interact in groups and with networks of
 other people. The same is true for most of us. We make partial
 contributions to larger and more complex tasks. We change a few
 lines of code in a computer program or a few lines of dialogue
@@ -1192,7 +1192,7 @@ companies by their equity value, while another might categorize
 them by industry. One voter might categorize senators by their
 ideology. Another might categorize them by their home state. The
 first refers to Olympia Snowe as a Republican. The second refers to
-her as a Mainer. Formally speaking, interpretations create manyto-one mappings from the set of alternatives that form categories.
+her as a Mainer. Formally speaking, interpretations create many-to-one mappings from the set of alternatives that form categories.
 Informally speaking, interpretations lump things together.
 
 A third framework captures the different tools people use to
@@ -2015,7 +2015,7 @@ Internal languages can assign different words to the same object.
 What do we mean when we say that these internal languages differ across people? To modify an example from Daniel Dennett, one
 person could internally represent a right triangle by the length of
 its two edges. Another person could internally represent the same
-triangle with a nonright angle and its adjacent edge. These two
+triangle with a non-right angle and its adjacent edge. These two
 people can communicate the existence of the triangle by drawing
 it, but they don't have to translate between their internal languages; they need only translate their internal languages into reality.7
 So we have some thing, some object or event, and we have
@@ -2709,7 +2709,7 @@ from 1 to 14 so that the house numbers increase with price. House
 number 14 has the highest price and house number 1 the lowest.
 Note that this is a different numbering than our square footage
 ranking. A one-dimensional perspective can be thought of as a
-list of these fourteen numbers. If the perspective creates a singlepeaked landscape, the house numbers in the list must increase up
+list of these fourteen numbers. If the perspective creates a single-peaked landscape, the house numbers in the list must increase up
 to 14 and decrease after it. The perspective 1, 4, 5, 6, 9, 11, 14,
 13, 12, 10, 8, 7, 3, 2 is single-peaked, but the perspective 1, 2, 3,
 4, 13, 5, 6, 7, 8, 9, 14, 12, 11, 10, is not. It has a second peak
@@ -2844,7 +2844,7 @@ Time:
 often have no idea what people are saying. Acronym overlap
 makes understanding even more difficult. The acronym ABM represents everything from activity-based management to agent-based
 models, anti-ballistic missiles, and the Association of Breastfeeding
-Mothers. This leads many of us to espouse AFC. (That's acronymfree communication.)
+Mothers. This leads many of us to espouse AFC. (That's acronym-free communication.)
 
 Although common perspectives arise because of imitation and
 the need to communicate, they also arise for less productive
@@ -3235,7 +3235,7 @@ routes listed earlier, P sits between I and B. Switching Boston and
 Pittsburgh or Pittsburgh and Indianapolis would not make much
 sense. However, if the T stands for Toledo, Ohio, and the W stands
 for Washington, DC, switching Boston and Indianapolis would cut
-more than six hundred miles off that subsection of Orit's route
+more than six hundred miles off that subsection of Orit route
 (see figure 2.1).
 
 With a little effort, we could extend this example to show the
@@ -3273,7 +3273,7 @@ the amount of salt he adds. This would be applying a gradient
 heuristic. He's moving in the direction that should most increase
 satisfaction. Alternatively, Carter might shut his eyes and choose
 a random spice—perhaps rosemary, perhaps cumin. Maybe this
-works, maybe it doesn't. In doing so, he's following an errorallowing heuristic (note: his family might not like this approach).
+works, maybe it doesn't. In doing so, he's following an error-allowing heuristic (note: his family might not like this approach).
 Finally, Carter might add the garlic cumin paste he made earlier in
 the week that worked well with tofu. If so, he's using a population
 heuristic. He's borrowing part of another solution to help locate a
@@ -3521,7 +3521,7 @@ algorithm, but it seems far removed from something that people
 would do in their heads. To claim that people approximate taking
 derivatives on the basketball court may be defensible, but to
 suggest that people apply cooling schedules might seem a sign of a
-disconnect from reality. And yet, groups of people use annealinglike heuristics all the time; we just don't call them annealing. We
+disconnect from reality. And yet, groups of people use annealing-like heuristics all the time; we just don't call them annealing. We
 called them brainstorming sessions.11
 
 To see how brainstorming mimics simulated annealing, consider
@@ -3811,7 +3811,7 @@ MEET A-Square. He lives on a two-dimensional
 world. Reality has three dimensions, of course, but A-Square sees
 only two, so he has something of a different interpretation of what
 he sees than the rest of us do. A-Square is a character in Edwin
-Abbot's classic Flatland. The high point of the book is A-Square's
+Abbot classic Flatland. The high point of the book is A-Square's
 encounters with a sphere. The sphere tries to explain the third
 dimension to our poor benighted square. We might think of the
 sphere as not unlike modern string theorists who claim hidden
@@ -3833,7 +3833,7 @@ You say I have a Third Dimension, which you call 'height'.
 Now, Dimension implies direction and measurement. Do but
 measure my 'height,' or merely indicate to me the direction in
 which my 'height' extends, and I will become your convert.
-Otherwise, your Lordship's own understanding must hold me
+Otherwise, your Lordship own understanding must hold me
 excused."
 
 Stranger: (To himself.) I can do neither. How shall I convince
@@ -5471,7 +5471,7 @@ determined on the field of play. They want a game to decide the
 best team.9
 
 All this talk of football serves an important purpose. We can
-show that settling matters "on the field," so to speak, in head-tohead competition, may not work either. A best team may not exist.
+show that settling matters "on the field," so to speak, in head-to-head competition, may not work either. A best team may not exist.
 This same logic applies to people. If we had some way of having
 people compete to see who was the most intelligent, head-to-head
 (so to speak), we might have no clear winner for the same reason.
@@ -5675,7 +5675,7 @@ Whitman and Carl Sagan would stand in awe of their diversity and
 number.
 
 To complete this example, we must make a similar calculation
-for Carl. We find that he has 4,481,381,406,320, or roughly fourand-a-half trillion toolboxes from which to choose. These first two
+for Carl. We find that he has 4,481,381,406,320, or roughly four-and-a-half trillion toolboxes from which to choose. These first two
 calculations provide most of the information needed to make the
 third calculation: the likelihood that Bobbi possesses every tool
 that Carl does. To calculate this, we assign an arbitrary fifteen
@@ -6071,7 +6071,7 @@ The toolbox framework offers an alternative interpretation to IQ scores for capt
 held: lots of people know how to add and subtract, multiply
 and divide. Fewer people know how to invert a matrix, and
 only experts know other, more complicated tools, such as how
-to compute a Lyaponuv exponent to determine the stability of
+to compute a Lyapunov exponent to determine the stability of
 a dynamic system. A person's capabilities are determined by the
 tools she possesses, and not just by her score on a test. Of course,
 
@@ -6354,7 +6354,7 @@ better cup of coffee.
 
 The model's simplicity made the results more transparent. I
 could represent an agent graphically by the two directions it
-searched. When I plotted the two search directions of the bestperforming agent, I saw that both directions pointed toward the
+searched. When I plotted the two search directions of the best performing agent, I saw that both directions pointed toward the
 upper right-hand corner of the square. I then plotted the search
 
 Time:
@@ -6699,7 +6699,7 @@ Jetta
 
 Saab 9-5
 
-Sonata Madza6
+Sonata Mazda6
 
 might then expect the diverse group to generate lots of solutions
 but not expect all of those solutions to be good. Some might be
@@ -7115,7 +7115,7 @@ which is F .
 
 Working through this example required some effort. People
 who like math probably found it cool, but should anyone else
-(any nongeeks) care?9 Yes. They (you) should. This example
+(any non-geeks) care?9 Yes. They (you) should. This example
 shows that internal diversity (diverse perspectives and diverse
 heuristics) need not create external diversity (movements in the
 space of solutions). People can be different and yet search for
@@ -7384,7 +7384,7 @@ at their perspectives and heuristics directly. The best problem
 solvers get stuck at fewer local optima, and these local optima
 tend have higher values. Less effective individual problem solvers
 have more local optima, and many of these may have low values.
-Before we go too far, let's keep in mind that the diversity-trumpsability result doesn't always hold. It holds given certain conditions.
+Before we go too far, let's keep in mind that the diversity-trumpability result doesn't always hold. It holds given certain conditions.
 We take up these conditions one at a time. Then we look at the
 
 Time:
@@ -7405,7 +7405,7 @@ find the answer to a calculus problem, we can often just ask an
 expert. The expert can give us the correct answer. A random group
 might not. However, if we have a difficult, previously unsolved
 math problem, we would want to ask a diverse collection of
-mathamaticians. Diversity benefits to kick in when the problems
+mathematicians. Diversity benefits to kick in when the problems
 we face are hard—designing products, curing diseases, improving
 our educational system. We need not think of this as a limiting
 assumption.
@@ -7810,7 +7810,7 @@ lucky that Gordon announced his small-pipe solution.
 
 Scenario 2: Deserving Belinda. Belinda's perspective and
 heuristic were such that she too would have thought of the
-small-pipe solution and then from there thought of the pipeinside-a-pipe trick.
+small-pipe solution and then from there thought of the pipe inside-a-pipe trick.
 
 Scenario 3: The Coin Flip. Belinda might have first suggested
 the current pipe inside an even larger circumference pipe.
@@ -8948,7 +8948,7 @@ minuses which cancel each other out, the balance which remains
 is the general will. (Jean-Jacques Rousseau, The Social Contract,
 Or Principles of Political Right, 1762)
 
-This quotatioin from Rousseau describes in words what social
+This quotation from Rousseau describes in words what social
 scientists explain with all of those mathematical symbols—the
 errors cancel out. Crowds can be wise if each person sees the
 
@@ -9117,7 +9117,7 @@ Any easy predictive task (which will be warmer on January 8,
 California?) requires neither a crowd nor an expert. Similarly,
 if the individual predictors do not know much of anything, the
 crowd may not predict well. If we ask ten thousand first graders to
-guess the weight of a fully loaded Boeing 747 (about fourty tons),
+guess the weight of a fully loaded Boeing 747 (about forty tons),
 we should expect their average guess to be well off the mark. Some
 might guess as low as one hundred pounds. Some might guess as
 
@@ -9635,7 +9635,7 @@ diversity cannot exceed one thousand. Any more diversity and the
 collective error would become negative, an impossibility.
 
 Fine, we've got some caveats. But they just reveal some of the
-theorem's subtleties. What's important is that we keep in mind
+theorem subtleties. What's important is that we keep in mind
 the core insight: individual ability (the first term on the right-hand
 side) and collective diversity (the second term) contribute equally
 to collective predictive ability. Being different is as important as
@@ -13825,7 +13825,7 @@ phonograph. His mind was prepared and he noticed a dimension
 
 We need not go all the way back to Edison. Steven Jobs, the
 founder of Apple, took calligraphy courses in college. That experience taught him to care about fonts—something other designers
-ignored. Sometimes serindipity allows someone to directly apply
+ignored. Sometimes serendipity allows someone to directly apply
 an idea from the past to a current problem. Tom Plaskett, once
 the head of marketing for American Airlines, applied an idea
 
@@ -14468,7 +14468,7 @@ turn lead to more solutions.
 
 A recent study of prediction showed that racially diverse groups
 predicted better than all-white groups. The task was predicting
-the guilt or innocence of a black defendent, a task in which race
+the guilt or innocence of a black defendant, a task in which race
 might well matter. The evidence shows that whites constructed
 more subtle predictive models based on finer interpretations when
 in diverse groups.32
@@ -15978,7 +15978,7 @@ If people have fundamental preference diversity, they may feel
 uncomfortable with the idea of second-order diversity. If ethnic
 or racial identity correlates with fundamental preference diversity,
 then a majority-minority body could choose an outcome that lies
-far from the median voter's ideal point. Defenders of secondorder diversity question why a minority group getting the outcome
+far from the median voter's ideal point. Defenders of second-order diversity question why a minority group getting the outcome
 they most prefer 10 percent of the time is any less fair than that
 same group never getting the outcome they most prefer. And while
 second-order diversity could increase policy ping-ponging, a little
@@ -16025,7 +16025,7 @@ No one can claim to predict the sources of inspiration. Nevertheless, all else b
 be their differences in training, experiences, or identity—to be
 more likely to have the unique experience that leads to the
 breakthrough, to recognize the organizing principle of atomic
-weight, or to not see space as seperate from time.
+weight, or to not see space as separate from time.
 
 Time: 09:32am
 
@@ -16257,7 +16257,7 @@ Time:
 
 N O T E S
 
-(the "C" in the OCEAN model) is more likely to make tpyographical
+(the "C" in the OCEAN model) is more likely to make typographical
 errors and introduce an acronym without explaining what each letter
 represents.
 
@@ -16285,8 +16285,8 @@ theorists, educators, computer
 
 existing models and ideas produced by some
 
-summarize, condense, and syncreative
-thesize
+summarize, condense, and synthesize
+synthesize
 scienpsychologists, organizational
 scientists, and statisticians.
 tists, economists, biologists, political
@@ -16358,7 +16358,7 @@ failed release of the Chevy Nova in Mexico (no va means "no go"
 Time:
 
 in Spanish) is outlandish. As argued on www.snopes.com/business/
-misxlate/nova.asp, would Americans think that a dinette set called
+mistranslate/nova.asp, would Americans think that a dinette set called
 Notable means "no table"? Doubtful.
 
 16. P. Frymer and J. D. Skrentny (2004) "The Rise of Instrumental
@@ -16508,7 +16508,7 @@ discussion of this trade-off.
 
 6. Barry Schwartz (2004) The Paradox of Choice: Why More Is Less
 
-(New York: Hapercollins).
+(New York: HarperCollins).
 
 7. David H. Wolpert and William G. MacCready (1995) "No free
 Lunch Theorems for Search," Technical Report SFI-TR-95-02-010, Santa
@@ -17571,7 +17571,7 @@ Firm," MIT Department of Economics working paper (September).
 28. A. C. Filley, R. J. House, and S. Kerr (1976) Managerial Process
 and Organizational Behavior (Glenview,
 IL: Scott, Foresman, and
-Co.); E. Hoffnan (1979) "Applying Experiential Research on Group
+Co.); E. Hoffman (1979) "Applying Experiential Research on Group
 Problem Solving to Organizations," Journal of Applied Behavioral
 Science 15: 375–91; Joseph E. McGrath (1984) Groups: Interaction
 and Performance (Englewood Cliffs, NJ: Prentice-Hall); R. A. Guzzo
@@ -17806,7 +17806,7 @@ a/toni-morrison.htm.
 The Handbook of Social Psychology, ed. D. T. Gilbert, S. T. Fiske, and
 G. Lindzey (Boston, MA: McGraw Hill); J. E. McGrath, H. Arrow, and
 J. L. Berdahl (2000) "The Study of Groups: Past, Present, and Future,"
-Personality and Social Psychology Review 4 (1): 95–105; H. Tafjel and
+Personality and Social Psychology Review 4 (1): 95–105; H. Tajfel and
 J. C. Turner (1986) "The Social Identity Theory of Intergroup Behavior,"
 in Psychology of Intergroup Relations, ed. S. Austin and W. G. Austin
 (Chicago: Nelson Hall).
@@ -18034,7 +18034,7 @@ limitations of, 367–69; pipelines
 used to recruit minorities, caution
 regarding, 364; seek diversity and
 create diversity, 359–60; testing for
-toolbox diversity, 360–61; toolboxcreated difficulties, accepting,
+toolbox diversity, 360–61; toolbox-created difficulties, accepting,
 
 Time:
 

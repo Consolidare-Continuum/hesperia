@@ -728,7 +728,7 @@ signicant customer adoption—in the millions—for one of its new
 products. Powered by a splashy launch, the company successfully
 executed its plan. Unfortunately, customers did not ock to the
 product in great numbers. Even worse, the company had invested in
-massive infrastructure, hiring, and support to handle the inux of
+massive infrastructure, hiring, and support to handle the influx of
 customers it expected. When the customers failed to materialize, the
 
 customers it expected. When the customers failed to materialize, the
@@ -991,7 +991,7 @@ Stories like this one are not nearly as common inside large
 corporations as they should be. After all, SnapTax competes directly
 with one of Intuit's agship products: the fully featured TurboTax
 desktop software. Usually, companies like Intuit fall into the trap
-described in Clayton Christensten's The Innovator's Dilemma: they
+described in Clayton Christensen's The Innovator's Dilemma: they
 are very good at creating incremental improvements to existing
 products and serving existing customers, which Christensen called
 sustaining innovation, but struggle to create breakthrough new
@@ -1036,7 +1036,7 @@ and an initially tiny market. A decade later, the company went
 public and subsequently fended owell-publicized attacks from
 larger incumbents, including the software behemoth Microsoft.
 Partly with the help of famed venture capitalist John Doerr, Intuit
-became a fully diversied enterprise, a member of the Fortune
+became a fully diversified enterprise, a member of the Fortune
 1000 that now provides dozens of market-leading products across
 its major divisions.
 This is the kind of entrepreneurial success we're used to hearing
@@ -1046,7 +1046,7 @@ Flash-forward to 2002. Cook was frustrated. He had just tabulated
 ten years of data on all of Intuit's new product introductions and
 had concluded that the company was getting a measly return on its
 massive investments. Simply put, too many of its new products
-were failing. By traditional standards, Intuit is an extremely wellmanaged company, but as Scott dug into the root causes of those
+were failing. By traditional standards, Intuit is an extremely well-managed company, but as Scott dug into the root causes of those
 the prevailing
 failures, he came
 management paradigm he and his company had been practicing
@@ -1216,7 +1216,7 @@ what they say they want or what we think they should want. We
 must discover whether we are on a path that will lead to growing a
 sustainable business.
 In the Lean Startup model, we are rehabilitating learning with a
-concept I call validated learning. Validated learning is not after-thefact rationalization or a good story designed to hide failure. It is a
+concept I call validated learning. Validated learning is not after-the fact rationalization or a good story designed to hide failure. It is a
 rigorous method for demonstrating progress when one is embedded
 in the soil of extreme uncertainty in which startups grow. Validated
 learning is the process of demonstrating empirically that a team has
@@ -1341,7 +1341,7 @@ unfounded, because nobody even tried our product. At rst I was
 relieved because at least nobody was nding out how bad the
 product was, but soon that gave way to serious frustration. After all
 the hours we had spent arguing about which features to include and
-which bugs to x, our value proposition was so far othat
+which bugs to x, our value proposition was so far so that
 customers weren't getting far enough into the experience to nd out
 how bad our design choices were. Customers wouldn't even
 download our product.
@@ -1389,7 +1389,7 @@ Talking to Customers
 Out of desperation, we decided to talk to some potential customers.
 We brought them into our oce, and said, "Try this new product;
 it's IMVU." If the person was a teenager, a heavy user of IM, or a
-tech early adopter, he or she would engage with us. In constrast, if
+tech early adopter, he or she would engage with us. In contrast, if
 it was a mainstream person, the response was, "Right. So exactly
 what would you like me to do?" We'd get nowhere with the
 mainstream group; they thought IMVU was too weird.
@@ -1648,7 +1648,7 @@ making genuine progress, not deluding ourselves. It is also the right
 way to think about productivity in a startup: not in terms of how
 
 way to think about productivity in a startup: not in terms of how
-much stuwe are building but in terms of how much validated
+much stuff are building but in terms of how much validated
 learning we're getting for our efforts.4
 For example, in one early experiment, we changed our entire
 website, home page, and product registration ow to replace
@@ -1892,7 +1892,7 @@ the shoes?
 
 Zappos'
 
-initial experiment provided a clear, quantiable
+initial experiment provided a clear, quantifiable
 outcome: either a sucient number of customers would buy the
 shoes or they would not. It also put the company in a position to
 observe, interact with, and learn from real customers and partners.
@@ -1953,8 +1953,8 @@ should have on the company over the next four years. Like many
 entrepreneurs, she has a business plan that lays out her intentions
 nicely. Yet despite all that work, she is—so far—creating one-oto
 
-nicely. Yet despite all that work, she is—so far—creating one-owins and no closer to knowing if her vision will be able to scale.
-One assumption, for example, might be that the company's longthe
+nicely. Yet despite all that work, she is—so far—creating one-one-offs and no closer to knowing if her vision will be able to scale.
+One assumption, for example, might be that the company's long-term
 improving
 included a commitment
 standing values
@@ -2096,7 +2096,7 @@ trying to solve?
 3. Would they buy it from us?
 4. Can we build a solution for that problem?"
 The common tendency of product development is to skip straight
-to the fourth question and build a solution before conrming that
+to the fourth question and build a solution before confirming that
 customers have the problem. For example, Kodak Gallery oered
 wedding cards with gilded text and graphics on its site. Those
 designs were popular with customers who were getting married,
@@ -2163,7 +2163,7 @@ promising, the team made a major discovery. Through the use of
 online surveying tool KISSinsights, the team learned that many
 customers wanted to be able to arrange the order of pictures before
 they would invite others to contribute. Knowing they weren't ready
-to launch, Cook held ohis division's general manager by
+to launch, Cook held his division's general manager by
 explaining how iterating and experimenting before beginning the
 marketing campaign would yield far better results. In a world
 where marketing launch dates were often set months in advance,
@@ -2247,7 +2247,7 @@ Left to its own devices, a new government agency would
 probably hire a large stawith a large budget to develop a plan
 that is expensive and time-consuming. However, the CFPB is
 considering doing things differently. Despite its $500 million budget
-and high-profile origins, the CPFB is really a startup.
+and high-profile origins, the CFPB is really a startup.
 President Obama tasked his chief technology ocer, Aneesh
 Chopra, with collecting ideas for how to set up the new startup
 agency, and that is how I came to be involved. On one of Chopra's
@@ -2335,14 +2335,14 @@ credit cards coming rst. As their rst experiment unfolds, they will
 have the opportunity to closely monitor all of the other complaints
 and consumer feedback they receive. This data will inuence the
 depth, breadth, and sequence of future offerings.
-As David Forrest, the CFPB's chief technology ocer, told me,
+As David Forrest, the CFPB chief technology ocer, told me,
 "Our goal is to give American citizens an easy way to tell us about
 the problems they see out there in the consumer nancial
 marketplace. We have an opportunity to closely monitor what the
 public is telling us and react to new information. Markets change
 all the time and our job is to change with them."6
 
-The entrepreneurs and managers proled in this book are smart,
+The entrepreneurs and managers profiled in this book are smart,
 capable, and extremely results-oriented. In many cases, they are in
 the midst of building an organization in a way consistent with the
 best practices of current management thinking. They face the same
@@ -2648,7 +2648,7 @@ trained in state-of-the-art engineering, on the ground oor of one of
 trained in state-of-the-art engineering, on the ground oor of one of
 the biggest market opportunities in history. Yet the vast majority
 managed to make no money at all.5 We saw the same phenomenon
-with Facebook, which faced early competition from other collegebased social networks whose head start proved irrelevant.
+with Facebook, which faced early competition from other college-based social networks whose head start proved irrelevant.
 What dierentiates the success stories from the failures is that the
 successful entrepreneurs had the foresight, the ability, and the tools
 to discover which parts of their plans were working brilliantly and
@@ -3391,7 +3391,7 @@ what quality is.
 
 Even a "low-quality" MVP can act in service of building a great
 high-quality product. Yes, MVPs sometimes are perceived as lowquality by customers. If so, we should use this as an opportunity to
-learn what attributes customers care about. This is innitely better
+learn what attributes customers care about. This is infinitely better
 than mere speculation or whiteboard strategizing, because it
 provides a solid empirical foundation on which to build future
 products.
@@ -3408,7 +3408,7 @@ screen. The reason? We were building an MVP and had not yet
 tackled the dicult task of creating the technology that would
 allow avatars to walk around the virtual environments they inhabit.
 In the video game industry, the standard is that 3D avatars should
-move uidly as they walk, avoid obstacles in their path, and take
+move fluidly as they walk, avoid obstacles in their path, and take
 an intelligent route toward their destination. Famous best-selling
 games such as Electronic Arts' The Sims work on this principle. We
 didn't want to ship a low-quality version of this feature, so we
@@ -3470,7 +3470,7 @@ ability to learn and so are dangerous to tolerate in any production
 process. We will consider methods for guring out when to make
 investments in preventing these kinds of problems in Part Three.)
 As you consider building your own minimum viable product, let
-this simple rule suce: remove any feature, process, or eort that
+this simple rule suffice: remove any feature, process, or eort that
 does not contribute directly to the learning you seek.
 
 SPEED BUMPS IN BUILDING AN MVP
@@ -3612,7 +3612,7 @@ MEASURE
 
 A
 t the beginning, a startup is little more than a model on a piece
-of paper. The nancials in the business plan include projections
+of paper. The financials in the business plan include projections
 of how many customers the company expects to attract, how
 much it will spend, and how much revenue and prot that will
 lead to. It's an ideal that's usually far from where the startup is in
@@ -3654,7 +3654,7 @@ I recently met with a phenomenal startup team. They are well
 nanced, have signicant customer traction, and are growing
 rapidly. Their product is a leader in an emerging category of
 enterprise software that uses consumer marketing techniques to sell
-into large companies. For example, they rely on employee-toemployee viral adoption rather than a traditional sales process,
+into large companies. For example, they rely on employee-to-employee viral adoption rather than a traditional sales process,
 which might target the chief information ocer or the head of
 information technology (IT). As a result, they have the opportunity
 to use cutting-edge experimental techniques as they constantly
@@ -4454,7 +4454,7 @@ followed by extensive testing and validation. As engineers look for
 ways to increase their productivity, they start to realize that if they
 include the validation exercise from the beginning, the whole team
 can be more productive.
-For example, why build a new feature that is not part of a splittest experiment? It may save you time in the short run, but it will
+For example, why build a new feature that is not part of a split-test experiment? It may save you time in the short run, but it will
 take more time later to test, during the validation phase. The same
 logic applies to a story that an engineer doesn't understand. Under
 the old system, he or she would just build it and nd out later what
@@ -4463,7 +4463,7 @@ is clearly
 counterproductive: without a clear hypothesis, how can a story ever
 be validated? We saw this behavior at IMVU, too. I once saw a
 junior engineer face down a senior executive over a relatively
-minor change. The engineer insisted that the new feature be splittested, just like any other. His peers backed him up; it was
+minor change. The engineer insisted that the new feature be split-tested, just like any other. His peers backed him up; it was
 considered absolutely obvious that all features should be routinely
 tested, no matter who was commissioning them. (Embarrassingly,
 all too often I was the executive in question.) A solid process lays
@@ -5576,7 +5576,7 @@ team to nd more customers, they were forced to reach out more to
 mainstream customers, but mainstream customers are less forgiving
 of an early product. The activation and monetization rates of new
 customers started to go down, driving up the cost of acquiring new
-customers. Pretty soon, our growth was atlining and our engine
+customers. Pretty soon, our growth was flatlining and our engine
 sputtered and stalled.
 It took us far too long to make the changes necessary to x this
 
@@ -5611,12 +5611,12 @@ case. It lacked the features and functionality of the old design and
 had many new mistakes as well. But the team relentlessly improved
 the design until, months later, it performed better. This new design
 laid the foundation for our future growth.
-This foundation has paid ohandsomely. By 2009, revenue had
+This foundation has paid handsomely. By 2009, revenue had
 more than doubled to over $25 million annually. But we might
 have enjoyed that success earlier if we had pivoted sooner.5
 
 A CATALOG OF PIVOTS
-Pivots come in dierent avors. The word pivot sometimes is used
+Pivots come in dierent flavors. The word pivot sometimes is used
 incorrectly as a synonym for change. A pivot is a special kind of
 
 incorrectly as a synonym for change. A pivot is a special kind of
@@ -5968,8 +5968,8 @@ approach, we wouldn't nd that out until nearly the end. With
 small batches, we'd know almost immediately. What if the
 envelopes are defective and won't seal? In the
 large-batch
-approach, we'd have to unstuall the envelopes, get new ones, and
-restuthem. In the small-batch approach, we'd nd this out
+approach, we'd have to unstall the envelopes, get new ones, and
+restuff. In the small-batch approach, we'd nd this out
 immediately and have no rework required.
 All these issues are visible in a process as simple as stung
 envelopes, but they are of real and much greater consequence in the
@@ -6001,7 +6001,7 @@ It was against this backdrop that innovators such as Taiichi Ohno,
 Shigeo Shingo, and others found a way to succeed by using small
 batches. Instead of buying large specialized machines that could
 produce thousands of parts at a time, Toyota used smaller generalpurpose machines that could produce a wide variety of parts in
-small batches. This required guring out ways to recongure each
+small batches. This required guring out ways to reconfigure each
 machine rapidly to make the right part at the right time. By
 focusing on this "changeover time," Toyota was able to produce
 entire automobiles by using small batches throughout the process.
@@ -6052,7 +6052,7 @@ foundation of Toyota's success can be used to dramatically improve
 the speed at which startups find validated learning.
 Toyota discovered that small batches made their factories more
 ecient. In contrast, in the Lean Startup the goal is not to produce
-more stueciently. It is to—as quickly as possible—learn how to
+more efficiently. It is to—as quickly as possible—learn how to
 build a sustainable business.
 Think back to the example of envelope stung. What if it turns
 out that the customer doesn't want the product we're building?
@@ -6085,7 +6085,7 @@ development of a new product proceeds on a virtual assembly line.
 Product managers gure out what features are likely to please
 customers; product designers then gure out how those features
 should look and feel. These designs are passed to engineering,
-which builds something new or modies an existing product and,
+which builds something new or modifies an existing product and,
 once this is done, hands it oto somebody responsible for verifying
 that the new product works the way the product managers and
 designers intended. For a product such as the iPhone, these internal
@@ -6439,7 +6439,7 @@ The original version had been years
 expectations for the next release were incredibly high. But the
 longer we worked, the more afraid we became of how customers
 would react when they nally saw the new version. As our plans
-became more ambitious, so too did the number of bugs, conicts,
+became more ambitious, so too did the number of bugs, conflicts,
 and problems we had to deal with. Pretty soon we got into a
 situation in which we could not ship anything. Our launch date
 seemed to recede into the distance. The more work we got done,
@@ -6448,7 +6448,7 @@ precipitated a crisis and a change of management, all because of the
 trap of large batches.
 These misconceptions about batch size are incredibly common.
 Hospital pharmacies often deliver big batches of medications to
-patient oors once a day because it's ecient (a single trip, right?).
+patient floors once a day because it's ecient (a single trip, right?).
 But many of those meds get sent back to the pharmacy when a
 patient's orders have changed or the patient is moved or discharged,
 causing the pharmacy staff to do lots of rework and reprocessing (or
@@ -6571,8 +6571,8 @@ building a heat exchanger and a generic device to transfer heat from
 to another as well as doing project-specic
 one medium
 engineering. For instance, if Alphabet wanted to build a solution for
-a utility such as Pacic Gas and Electric, the heat exchanger would
-have to be congured, shaped, and installed to capture the heat
+a utility such as Pacific Gas and Electric, the heat exchanger would
+have to be configured, shaped, and installed to capture the heat
 from a power plant's exhaust system.
 What makes Alphabet Energy unique is that the company made a
 savvy decision early on in the research process. Instead of using
@@ -6632,7 +6632,7 @@ benets before committing to a larger deployment. These early
 deployments are putting more of Alphabet's assumptions to the
 test. Unlike in the computer hardware business, customers are not
 willing to pay top dollar for maximum performance. This has
-required signicant changes in Alphabet's product, conguring it to
+required signicant changes in Alphabet's product, configuring it to
 achieve the lowest cost per watt possible.
 All this experimentation has cost the company a tiny fraction of
 what other energy startups have consumed. To date, Alphabet has
@@ -6717,7 +6717,7 @@ investors.
 
 The problem was that neither company was growing.
 Both CEOs brought me identical-looking graphs showing that
-their early growth had atlined. They could not understand why.
+their early growth had flatlined. They could not understand why.
 They were acutely aware of the need to show progress to their
 employees and investors and came to me because they wanted
 advice on how to jump-start their growth. Should they invest in
@@ -6797,7 +6797,7 @@ Engines of growth are designed to give startups a relatively small
 set of metrics on which to focus their energies. As one of my
 mentors, the venture capital investor Shawn Carolan, put it,
 "Startups don't starve; they drown." There are always a zillion new
-ideas about how to make the product better oating around, but
+ideas about how to make the product better floating around, but
 the hard truth is that most of those ideas make a dierence only at
 the margins. They are mere optimizations. Startups have to focus on
 the big experiments that lead to validated learning. The engines of
@@ -6805,7 +6805,7 @@ growth framework helps them stay focused on the metrics that
 matter.
 
 The Sticky Engine of Growth
-This brings us back to the two startups that kicked othis chapter.
+This brings us back to the two startups that kicked kicked chapter.
 Both are using the exact same engine of growth despite being in
 very dierent industries. Both products are designed to attract and
 retain customers for the long term. The underlying mechanism of
@@ -6834,7 +6834,7 @@ mobile telephone service provider: when a customer cancels his or
 her service, it generally means that he or she is extremely
 dissatised or is switching to a competitor's product. This is in
 contrast to, say, groceries on a store aisle. In the grocery retail
-business, customer tastes uctuate, and if a customer buys a Pepsi
+business, customer tastes fluctuate, and if a customer buys a Pepsi
 this week instead of Coke, it's not necessarily a big deal.
 Therefore, companies using the sticky engine of growth track
 their attrition rate or churn rate very carefully. The churn rate is
@@ -6866,7 +6866,7 @@ other words, its churn rate and new customer acquisition balanced
 each other almost perfectly, leading to a compounding growth rate
 of just 0.02 percent—almost zero.
 This is typical for companies in an engagement business that are
-struggling to nd growth. An insider who worked at the dot-comera company PointCast once showed me how that company
+struggling to nd growth. An insider who worked at the dot-dot-com company PointCast once showed me how that company
 suered a similar dysfunction. When PointCast was struggling to
 grow, it was nonetheless incredibly successful in new customer
 acquisition—just like this sticky startup (39 percent every period).
@@ -6920,7 +6920,7 @@ opportunity not only to sell Tupperware products but also to
 persuade other customers to become Tupperware representatives.
 Tupperware parties are still going strong decades after they started.
 Many other contemporary companies, such as Pampered Chef
-(owned by Warren Buett's Berkshire Hathaway), Southern Living,
+(owned by Warren Buffett's Berkshire Hathaway), Southern Living,
 and Tastefully Simple, have adopted a similar model successfully.
 Like the other engines of growth, the viral engine is powered by
 a feedback loop that can be quantied. It is called the viral loop,
@@ -7021,7 +7021,7 @@ the product over his or her "lifetime" as a customer. Once variable
 costs are deducted, this usually is called the customer lifetime value
 (LTV). This revenue can be invested in growth by buying
 
-including notable dot-com ameouts
+including notable dot-com cameos
 
 (LTV). This revenue can be invested in growth by buying
 advertising.
@@ -7058,12 +7058,12 @@ its most expensive, that cost only a few hundred dollars per month.
 The NGO literally could not make the purchase because it had no
 process in place for buying something so inexpensive. Additionally,
 the NGO needed substantial help in managing the rollout, educating
-its staon the new tool, and tracking the impact of the change;
+its staff on the new tool, and tracking the impact of the change;
 those were all services the company was ill equipped to oer.
 
 those were all services the company was ill equipped to oer.
 Changing customer segments required them to switch to hiring a
-sizable outbound sales stathat spent time attending conferences,
+sizable outbound sales staff that spent time attending conferences,
 educating executives, and authoring white papers. Those much
 higher costs came with a corresponding reward: the company
 switched from making only a few dollars per customer to making
@@ -7072,7 +7072,7 @@ customer. Their new engine of growth led to sustained success.
 Most sources of customer acquisition are subject to competition.
 For example, prime retail storefronts have more foot trac and are
 therefore more valuable. Similarly, advertising that is targeted to
-more auent customers generally costs more than advertising that
+more affluent customers generally costs more than advertising that
 reaches the general public. What determines these prices is the
 average value earned in aggregate by the companies that are in
 competition for any given customer's attention. Wealthy consumers
@@ -7083,7 +7083,7 @@ its CPA bid up by this competition. If everyone in an industry
 makes the same amount of money on each sale, they all will wind
 up paying most of their marginal prot to the source of acquisition.
 Thus, the ability to grow in the long term by using the paid engine
-requires a dierentiated ability to monetize a certain set of
+requires a differentiated ability to monetize a certain set of
 customers.
 IMVU is a case in point. Our customers were not considered very
 lucrative by other online services: they included a lot of teenagers,
@@ -7263,7 +7263,7 @@ Their past successes were built on a nely tuned engine of growth.
 If that engine runs its course and growth slows or stops, there can
 be a crisis if the company does not have new startups incubating
 within its ranks that can provide new sources of growth.
-Companies of any size can suer from this perpetual aiction.
+Companies of any size can suer from this perpetual affliction.
 They need to manage a portfolio of activities, simultaneously tuning
 their engine of growth and developing new sources of growth for
 when that engine inevitably runs its course. How to do this is the
@@ -7305,7 +7305,7 @@ processes and systems designed to coordinate the company's
 operations at each larger size. And yet I had also seen many startups
 
 operations at each larger size. And yet I had also seen many startups
-become ossied and bureaucratic out of a misplaced desire to
+become ossified and bureaucratic out of a misplaced desire to
 become "professional."
 Having no system at all was not an option for IMVU and is not
 an option for you. There are so many ways for a startup to fail. I've
@@ -8056,7 +8056,7 @@ launch, everything looked good.
 The rst beta release was in June, and customer feedback started
 coming in negative. Although customers were complaining, there
 wasn't sucient cause to stop the release because it was technically
-awless—it didn't crash computers. At that point, Greg was in a
+flawless—it didn't crash computers. At that point, Greg was in a
 bind. He had no way of knowing how the feedback would translate
 to real customer behavior in the market. Were these just isolated
 complaints, or part of a widespread problem? He did know one
@@ -8181,7 +8181,7 @@ built. Thus, the reaction of some PMs to the change was: "What's
 my job? What am I supposed to be doing?" Similarly, some on the
 engineering side just wanted to be told what to do; they didn't want
 to talk to customers. As is typically the case in large-batch
-development, both groups had been willing to sacrice the team's
+development, both groups had been willing to sacrifice the team's
 ability to learn in order to work more "efficiently."
 Communication was critical for this change process to succeed.
 All the team leaders were open about the change they were driving
@@ -8286,7 +8286,7 @@ new kind of portfolio thinking, which is the subject of Chapter 12.
 
 INNOVATE
 
-onventional wisdom holds that when companies become larger,
+conventional wisdom holds that when companies become larger,
 they inevitably lose the capacity for innovation, creativity, and
 growth. I believe this is wrong. As startups grow, entrepreneurs
 can build organizations that learn how to balance the needs of
@@ -8360,7 +8360,7 @@ bonus system must be used instead, the best incentives are tied to
 the long-term performance of the new innovation.
 However, I do not believe that a personal stake has to be
 nancial. This is especially important in organizations, such as
-nonprots and government, in which the innovation is not tied to
+nonprofits and government, in which the innovation is not tied to
 nancial objectives. In these cases, it is still possible for teams to
 have a personal stake. The parent organization has to make it clear
 who the innovator is and make sure the innovator receives credit
@@ -8509,7 +8509,7 @@ However, at the heart of this departmental feud was a very rational
 fear. This company served two customer segments: a business-tobusiness enterprise segment and a consumer segment. In the B2B
 segment, the company employed sales stato sell large volumes of
 the product to other companies, whereas the consumer segment
-was driven mostly by one-opurchases made by individuals. The
+was driven mostly by one-one-off purchases made by individuals. The
 bulk of the company's current revenue came from B2B sales, but
 growth in that segment had been slowing. Everyone agreed there
 was tremendous potential for growth in the consumer segment, but
@@ -8665,7 +8665,7 @@ The sandbox also promotes rapid iteration. When people have a
 chance to see a project through from end to end and the work is
 done in small batches and delivers a clear verdict quickly, they
 benefit from the power of feedback. Each time they fail to move the
-numbers, they have a real opportunity to act on their ndings
+numbers, they have a real opportunity to act on their findings
 immediately. Thus, these teams tend to converge on optimal
 solutions rapidly even if they start out with really bad ideas.
 
@@ -8755,7 +8755,7 @@ The way out of this dilemma is to manage the four kinds of work
 dierently, allowing strong cross-functional teams to develop
 around each area. When products move from phase to phase, they
 are handed obetween teams. Employees can choose to move with
-the product as part of the handoor stay behind and begin work
+the product as part of the handoff stay behind and begin work
 on something new. Neither choice is necessarily right or wrong; it
 depends on the temperament and skills of the person in question.
 Some people are natural inventors who prefer to work without
@@ -8763,7 +8763,7 @@ the pressure and expectations of the later business phases. Others
 are ambitious and see innovation as a path toward senior
 management. Still others are particularly skilled at the management
 of running an established business, outsourcing, and bolstering
-eciencies and wringing out cost reductions. People should be
+efficiencies and wringing out cost reductions. People should be
 allowed to find the kinds of jobs that suit them best.
 In fact, entrepreneurship should be considered a viable career
 path for innovators inside large organizations. Managers who can
@@ -8910,7 +8910,7 @@ numbers of bosses all act as a drag on eciency. However, the
 individual eciency of these specialists is not the goal in a Lean
 Startup. Instead, we want to force teams to work cross-functionally
 to achieve validated learning. Many of the techniques for doing this
-—actionable metrics, continuous deployment, and the overall Buildto
+—actionable metrics, continuous deployment, and the overall Build to
 Measure-Learn
 suboptimize for their individual functions. It does not matter how
 fast we can build. It does not matter how fast we can measure.
@@ -8966,7 +8966,7 @@ pass. We are living in the world he imagined. And yet, the
 revolution that he unleashed has been—in many ways—too
 successful. Whereas Taylor preached science as a way of thinking,
 many people confused his message with the rigid techniques he
-advocated: time and motion studies, the dierential piece-rate
+advocated: time and motion studies, the differential piece-rate
 system, and—most galling of all—the idea that workers should be
 treated as little more than automatons. Many of these ideas proved
 extremely harmful and required the eorts of later theorists and
@@ -9508,7 +9508,7 @@ blog as well: http://blog.500startups.com/. Dave's "Startup Metrics
 for Pirates" presentation laid out a framework for thinking about
 and measuring online services that greatly inuenced the concept of
 "engines of growth." You can see the original presentation here:
-http://500hats.typepad.com/500blogs/2008/09/startup-metri-
+http://500hats.typepad.com/500blogs/2008/09/startup-metrics-
 2.html
 here:
 as my
@@ -9516,7 +9516,7 @@ well
 as
 http://www.startuplessonslearned.com/2008/09/three-drivers-ofgrowth-for-your.html
 Sean Ellis writes the Startup Marketing Blog, which has been
-inuential in my thinking about how to integrate marketing into
+influential in my thinking about how to integrate marketing into
 startups: http://startup-marketing.com/
 Andrew Chen's blog Futuristic Play is one of the best sources for
 thoughts on viral marketing, startup metrics, and design:
@@ -9607,13 +9607,13 @@ Product Development
 by Donald G. Reinertsen.
 
 The Toyota Way by Jeffrey Liker.
-http://ericri.es/thetoyotaway
+http://ericri.es/The Toyota Way
 
 in Your
 Lean Thinking: Banish Waste and Create Wealth
 Corporation, Revised and Updated by James P. Womack and Daniel
 T. Jones.
-http://ericri.es/LeanThinking
+http://ericri.es/Lean Thinking
 
 The People's Tycoon: Henry Ford and the American Century by
 Steven Watts.
@@ -9629,11 +9629,11 @@ http://ericri.es/ScientificManagement
 
 Extreme Programming Explained: Embrace Change by Kent Beck
 and Cynthia Andres.
-http://ericri.es/EmbraceChange
+http://ericri.es/Embrace Change
 
 Toyota Production System: Beyond Large-Scale Production by
 Taiichi Ohno.
-http://ericri.es/TaiichiOhno
+http://ericri.es/Taiichi Ohno
 
 The idea of the Build-Measure-Learn feedback loop owes a lot to
 ideas from maneuver warfare, especially John Boyd's OODA
@@ -9651,14 +9651,14 @@ http://ericri.es/MyYears
 Billy, Alfred, and General Motors: The Story of Two Unique Men, a
 Legendary Company, and a Remarkable Time in American History
 by William Pelfrey.
-http://ericri.es/BillyAlfred
+http://ericri.es/Billy Alfred
 
 The Practice of Management by Peter F. Drucker.
 http://ericri.es/PracticeOfManagement
 
 Getting to Plan B: Breaking Through to a Better Business Model by
 John Mullins and Randy Komisar.
-http://ericri.es/GettingToPlanB
+http://ericri.es/Getting to Plan B
 
 Endnotes
 
@@ -9884,7 +9884,7 @@ You've Never Heard Of" at http://​tech.​fortune.​cnn.​com/​2011/​
 
 6. This description courtesy of Lifehacker: http://​lifehacker.​com/​
 5586203/​food-​on-​the-​table-​builds-​menus-​and-​grocery-​lists-​
-based-​on-​your-​familys-​preferences
+based-​on-​your-​family's-​preferences
 
 7. This list was compiled by my colleague, Professor Tom
 Eisenmann at Harvard Business School, Launching Technology
@@ -9908,7 +9908,7 @@ social-​search-​engine-​aardvark-​for-​50-​million/
 
 Christensen.
 
-11. For more, see http://bit.ly/DontLaunch
+11. For more, see http://bit.ly/Don'tLaunch
 
 Chapter 7. Measure
 1. By contrast, Google's main competitor Overture (eventually
@@ -9951,7 +9951,7 @@ For more
 5. IMVU's results have been shared publicly on a few occasions. For
 see http://​www.​worldsinmotion.​biz/​2008/​06/​imvu_​
 2008,
-reaches_​20_​million_​regist.​php; for 2009 see http://​www.​imvu.​
+reaches_​20_​million_​register.​php; for 2009 see http://​www.​imvu.​
 and
 com/​about/​press_​releases/​press_​release_​20091005_1.​php,
 for 2010 see http://​techcrunch.​com/​2010/​04/​24/​imvu-​revenue/
@@ -10087,7 +10087,7 @@ Chapter 13. Epilogue: Waste Not
 3. http://​www.​ibiblio.​org/​eldritch/​fwt/​ti.​html
 4. In fact, some such research has already begun. For more on Lean
 Startup research programs, see Nathan Furr's Lean Startup
-Research Project at BYU, http://​nathanfurr.​com/​2010/​09/​15/​
+Research Project at BYU, http://​affiliations.​com/​2010/​09/​15/​
 the-​lean-​startup-​research-​project/, and Tom Eisenmann of
 Harvard Business School's Launching Technology Ventures
 p ro j e ct, http://​platformsandnetworks.​blogspot.​com/​2011/​01/​
@@ -10282,7 +10282,7 @@ courage to step into the void of entrepreneurship or have found my
 own voice as a writer. I know my grandparents have been with me
 every step of this journey—they believed deeply in the power of
 writing and took supreme joy in my sisters' and my every
-accomplishment. To my sisters Nicole and Amanda and my brotherin-law Dov, I can only say: thank you for supporting me all these
+accomplishment. To my sisters Nicole and Amanda and my brother-in-law Dov, I can only say: thank you for supporting me all these
 years.
 My wife, Tara Sophia Mohr, has been a constant source of joy
 and comfort every step of the way. She has experienced every stress,

@@ -562,7 +562,7 @@ children negotiate with other adults in children's lives.
 
 This book is based on intensive "naturalistic" observations of twelve
 families (six white, five Black, and one interracial) with children nine and
-ten years old. The twelve families are part of a larger study of eightyeight children from the middle-class, working-class, and poor.15 (For
+ten years old. The twelve families are part of a larger study of eighty-eight children from the middle-class, working-class, and poor.15 (For
 details of how the study was done, see Appendix A, Methodology.) I met
 most of these children when I visited their third-grade classrooms in an
 urban school, Lower Richmond, and a suburban school, Swan (both of
@@ -645,7 +645,7 @@ problems. (It also has the invidious effect of relegating every Black social
 scientist to studying Black Americans rather than whatever suits his or
 her fancy.) Moreover, the "groups" at hand are always diverse. What
 about members of the same ethnic group who are of a different gender:
-Are the walls blocking understanding equally high? In a series of everreflecting mirrors, does this tension mean that the only person you can
+Are the walls blocking understanding equally high? In a series of ever-reflecting mirrors, does this tension mean that the only person you can
 truly "cross the divide" to study is yourself? This book takes the position
 that it is possible for outsiders of a group to study across boundaries. It
 reports findings from a study that used ethnographic methods to try to
@@ -897,7 +897,7 @@ District rules do not require classroom rosters to be finalized until several
 weeks into the school year. As late as mid-October, a child may be reassigned to a new teacher (the district sometimes reconstitutes classrooms
 in order to meet staffing and budgetary concerns). Other aspects of the
 district-imposed bureaucracy create difficulties as well. As a teacher
-explained, a seemingly simple request could require a cumbersome, timeconsuming response:
+explained, a seemingly simple request could require a cumbersome, time-consuming response:
 
 The grandmother called and said that [an after-school program] needed information. And I'm not allowed to give out any written information on a student
 unless you have the written consent of the parents and something on letterhead
@@ -1098,7 +1098,7 @@ make sure it happens.
 
 Parents also often have an exaggerated sense of their children's accomplishments. For instance, they describe their children as "being bored"
 with schoolwork when, from the teacher's perspective, these children
-have not mastered the material. In addition, parents can be quick to criticize teachers. As this third-grade teacher reports, the mother of a highachieving student was outraged to learn that her daughter's grade had
+have not mastered the material. In addition, parents can be quick to criticize teachers. As this third-grade teacher reports, the mother of a high-achieving student was outraged to learn that her daughter's grade had
 been read aloud:
 
 She came in one day [to complain] because I had read Chloe's grade [aloud] as an
@@ -1107,7 +1107,7 @@ eighty-six and Chloe was humiliated—because Chloe does not get eighty-sixes.
 The teacher feels that the mother does not have an accurate view of her
 daughter's performance:
 
-Chloe is very, very bright and in the addition and subtraction pretest she got a fiftyeight. Her mother was telling me how bored she was. "Chloe has done this and
+Chloe is very, very bright and in the addition and subtraction pre-test she got a fiftyeight. Her mother was telling me how bored she was. "Chloe has done this and
 knows it so well." I showed her the fifty-eight. Well, she was absolutely shocked.
 
 Parents watch teachers closely and do not hesitate to intervene on their
@@ -1430,9 +1430,9 @@ that there are recognizable, categorical differences by social class.
 One problem with these claims, however, is that the studies on which
 they draw have been fragmented and overly specialized, asking precise
 but small questions. In assessing the common linkages, researchers have
-drawn on multiple studies that they put together in an ill-fitting, jigsawpuzzle form of explanation. What is needed is research that is less narrow. Specifically, studies are required that investigate wide swaths of
+drawn on multiple studies that they put together in an ill-fitting, jigsaw puzzle form of explanation. What is needed is research that is less narrow. Specifically, studies are required that investigate wide swaths of
 social life in order to determine how social class makes a substantial difference in children's lives and also acknowledge those areas of life that
-may be largely immune to class influence. In short, we need a more holis-
+may be largely immune to class influence. In short, we need a more holistic-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 31
 
@@ -1631,7 +1631,7 @@ poor family, Katie Brindle. Although each chapter provides some basic
 information about each child, each chapter also seeks to highlight particular dimensions in social class differences. In particular, Chapter 4
 portrays a less hectic life that emphasizes the importance of informal play
 with fewer organized activities (Tyrec Taylor), and Chapter 5 discusses
-economic strain and the treatment of children's activities as inconse-
+economic strain and the treatment of children's activities as inconsequential-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 37
 
@@ -1660,7 +1660,7 @@ does this.)
 Mr. Tallinger's elation over an evening with no prior commitments is testimony to his family's hectic pace. His reaction highlights the degree to
 which the concerted cultivation of children controls adults' leisure time.
 Both Don Tallinger and his wife, Louise, work full time in professional
-jobs with travel requirements. Their three children, Garrett (a fourthgrader), Spencer (a second-grader), and Sam (a preschooler), are enrolled
+jobs with travel requirements. Their three children, Garrett (a fourth grader), Spencer (a second-grader), and Sam (a preschooler), are enrolled
 in a variety of activities. On any given weeknight or weekend day, one,
 two, or sometimes all three of the boys have events, often at different
 times and in different parts of town. Organized sports are a top priority
@@ -2181,7 +2181,7 @@ an hourly wage?" Other times, Garrett must skip one activity to attend
 another. For example, the night of the school concert, he makes it to
 swim practice but not to a soccer game. On Father's Day, Garrett cannot
 play in the father-child special golf tournament at the country club
-because, as he explains, "I have two soccers and a baseball game" that
+because, as he explains, "I have two soccer and a baseball game" that
 day. Spencer does play in the tournament, however. Thus, even on
 Father's Day, the family goes in different directions.
 
@@ -2269,7 +2269,7 @@ than what we observed among fathers in other middle-class homes. He
 regularly and competently gets the children off to school on mornings
 when his wife has an early meeting or is out of town. One morning when
 Ms. Tallinger leaves early, he stays behind to take the children to school
-and to attend "Donuts with Dad," an event sponsored by the parentteachers organization. The boys are in the basement, playing. They have
+and to attend "Donuts with Dad," an event sponsored by the parent-teachers organization. The boys are in the basement, playing. They have
 stuffed pillows under their shirts to make themselves look more like
 hockey goalies:
 
@@ -2470,7 +2470,7 @@ Spencer saying, "Oh yeah? I'm better than you." Spencer seems to ignore him.
 He is undaunted by Garrett's comment. Spencer continues, "I mean, this isn't
 what he does well in. He's not the best player." Garrett seems a bit more irritated
 by Spencer's comments and says with calm defensiveness, "Oh yeah? That's why
-I had [x] rebounds in the game. More than anyone in gym class." Spencer matterof-factly states, "I am saying this isn't the game you are the best in."
+I had [x] rebounds in the game. More than anyone in gym class." Spencer matter-of-factly-factly states, "I am saying this isn't the game you are the best in."
 
 Spencer also periodically flaunts his status as part of the school's gifted
 program. Garrett, despite two attempts, missed the program's cutoff of
@@ -2956,7 +2956,7 @@ The Taylors' house has three stories, with narrow, steep stairs. All the
 bedrooms are on the upper floors; there is one bathroom, which has
 darkly colored, exotic-looking fans opened out and hung on the walls,
 next to gold butterflies. On the first floor, there is a living room, a dining
-area, and a kitchen. The kitchen is large with metal cabinets, florescent
+area, and a kitchen. The kitchen is large with metal cabinets, fluorescent
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 69
 
@@ -3030,7 +3030,7 @@ Tyrec's sister, Anisha, is thirteen. While Ms. Taylor is away at work,
 Anisha frequently "mothers" her younger brother, for example, by
 reminding Tyrec to pick up his dishes. She enjoys socializing, and during
 the summer especially, she looks forward to spending at least part of each
-day hanging out with friends who live in the neighborhood. Eighteenyear-old Malcolm is in the process of graduating from high school and is
+day hanging out with friends who live in the neighborhood. Eighteen-year-old Malcolm is in the process of graduating from high school and is
 also working full time. He is not certain of what he will do next; he
 might take some community college classes in the fall.
 
@@ -3248,7 +3248,7 @@ Tyrec spits hugely on the boy—the boy's shirt I later notice has a big
 blue stain from Tyrec's ice-pop mouth. Anisha notices this and turns
 around to yell at Tyrec, who has run away from the boy to the opposite
 end of the block. She says, in between his arguments with her, "Tyrec!
-Why you spittin'? That's disgusting! I'm going to tell mama when she
+Why you spitting'? That's disgusting! I'm going to tell mama when she
 gets home, you hear?"
 
 As these examples make clear, unlike middle-class children, who tend
@@ -3627,7 +3627,7 @@ The Brindles' apartment is not well maintained. The living room ceil-
 Lareau(E).qxd 5/7/2003 5:10 PM Page 85
 
 ing leaks; Ms. Brindle must periodically move the furniture to keep it out
-of the way of dripping water. The toilet runs constantly. The mustardcolored rag rug at the entrance to the unit has prominent dark stains on
+of the way of dripping water. The toilet runs constantly. The mustard-colored rag rug at the entrance to the unit has prominent dark stains on
 it. Roaches appear regularly; even during the day, they crawl up the
 walls. At night, when the bathroom light is turned on, roaches scatter,
 scurrying across the white tiles. These ever-present pests bother Ms.
@@ -3969,7 +3969,7 @@ greater significance, however, is the fact that the three washers and two
 dryers at the apartment complex are routinely out of order:
 
 CiCi says, "I wish I had a car to drive. I'm almost out of clothes." (She looks at
-her pile of dirty clothes next to the love seat.) I ask, "Is the washing machine broken?" She replies, "When I first went down, I was freakin' out. I went down and
+her pile of dirty clothes next to the love seat.) I ask, "Is the washing machine broken?" She replies, "When I first went down, I was freaking' out. I went down and
 the water was coming out of the washers. Today the washers were still full of
 water. And I went to the ones up [at a nearby complex]. They were locked, so I
 think they're messed up too. . . . The heat isn't on [in the laundry room]. It's
@@ -4011,7 +4011,7 @@ where they live. Thus, Katie's family makes do with roaches in their
 apartment, a poorly maintained building, snow and ice on the steps,
 chronically broken appliances, and leaky plumbing. So far, though, they
 have been "lucky" with their neighbors, meaning that no serious threats
-have materialized in this apartment building. Ms. Brindle's former sisterin-law and close friend, Mary, was not so fortunate. Drug dealers moved
+have materialized in this apartment building. Ms. Brindle's former sister-in-law-law and close friend, Mary, was not so fortunate. Drug dealers moved
 into the complex.
 
 Despite its many problems, the Brindles' apartment at least provides
@@ -5270,7 +5270,7 @@ request his mother makes after he has finished opening his birthday presents in 
 
 He opens the last present. He goes across the room and stands next to his mother.
 His mother prompts him, "What do you say?" Alex hollers to everyone in a very
-loud voice, "Thank you!" A tone of alienation and boredom (as in, "My-motheris-making-me-do-this") is slightly detectable in his voice.
+loud voice, "Thank you!" A tone of alienation and boredom (as in, "My-mother is-making-me-do-this") is slightly detectable in his voice.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 128
 
@@ -5540,7 +5540,7 @@ walking distance, however. The housing project is considered a dangerous area; l
 deliveries there.
 
 The McAllister family lives in a part of the project consisting of rows
-of two- and three-story brick units. The brown, blocklike units on their
+of two- and three-story brick units. The brown, block-like units on their
 side contain five two-story apartments. Because the apartments have only
 one small window per room, they are dark on the inside. Sometimes residents keep lights on during the day. Outside, each has its own small yard
 enclosed by a concrete-and-wood fence. A large deciduous tree stands in
@@ -5732,7 +5732,7 @@ McAllister home
 
 Dara (mother of
 
-Runako and Giuon)
+Runako and Guion)
 
 30's
 
@@ -5775,7 +5775,7 @@ Father
 
 30's
 
-Common-lawhusband of Jane
+Common-law husband of Jane
 
 Lives across town (with his
 mother and brother), but
@@ -5984,7 +5984,7 @@ field-worker: When I walk around during the day, they think I'm from
 
 DHS [Department of Human Services].
 
-Jane: I'm tellin' you.6
+Jane: I'm telling' you.6
 
 Harold's world is only slightly less Black outside the project. The
 degree of racial segregation in the surrounding urban area is considered
@@ -6131,7 +6131,7 @@ where to find a bargain:
 Jane hands Harold and Alexis each a bag of caramel corn, which they open soon
 afterward. She scolds, "Why you opening those things?" They don't answer.
 Somehow the price of the caramel corn comes up. Jane says she got them on sale
-at a gas station up the hill—two bags for a dollar, when usually they cost fiftynine cents each.12
+at a gas station up the hill—two bags for a dollar, when usually they cost fifty-nine cents each.12
 
 Interspersed with this sort of intermittent talk are adult-issued directives. Children are told to do certain things (e.g., shower, take out the
 garbage) and not to do others (e.g., curse, talk back). Ms. McAllister uses
@@ -6550,7 +6550,7 @@ Jane: . . . I'm sick of your stupid fuckin' games. I'm gonna get me a stick and
 
 you're gonna get out before I fuck you up!
 
-Jill: Nobody puttin' me the fuck out!
+Jill: Nobody putting' me the fuck out!
 
 In the middle of this, Alexis is hollering from the bathroom that she
 needs toilet paper. Ms. McAllister leaves, goes to a neighbor's house and
@@ -6564,7 +6564,7 @@ Jane (yelling): You gettin' the fuck out! . . .
 There's a lull as Jane searches [for Harold's missing shirts]. Lori turns
 to me (I've slowly come downstairs as I heard the yelling from Lori's
 room; now I stand against the banister wall of the living room). Lori (to
-me): "Her's no excuse for it." She says this with her head down; she
+me): "There's no excuse for it." She says this with her head down; she
 looks so sad, like she might cry. Alexis is standing on the second step of
 the stairs, saying to me: "They always do this. The only thing is, it makes
 me scared."18 She looks sad.
@@ -6630,7 +6630,7 @@ Jane (looking at the doctor): Not all the time.21
 Doctor: No. Fruit or juice?
 Jane (low voice, little or no eye contact, looks at the doctor's scribbles on the
 
-paper he is filling out): Ummh humn.
+paper he is filling out): Um hum.
 Doctor: Does he drink milk every day?
 Jane(abruptly and in a considerably louder voice): Yeah.
 Doctor: Cereal, bread, rice, potato, anything like that?
@@ -6677,7 +6677,7 @@ children, which children comply with immediately. Some of the directives
 that adults issue center on obligations of children to others in the family
 ("don't beat on Guion" or "go do [her] hair for camp").23 One consequence of this is that Harold, despite occasional tiffs, is much nicer to his
 sister (and his cousins) than the siblings we observed in middle-class
-homes. At family gatherings he voluntarily cares for his sixteen-monthold niece. Overall, children and parents spend less time talking; but, as in
+homes. At family gatherings he voluntarily cares for his sixteen-month-old niece. Overall, children and parents spend less time talking; but, as in
 the choice of the towel for summer camp, the fewer words spoken ("girl
 colors") do not impede the clear communication of one's wishes. The use
 of directives and the pattern of silent compliance are not universal in
@@ -7006,7 +7006,7 @@ mothers, not fathers, who do this work. This is true even when the mothers are e
 girls in a series of different summer camps, did all of the coordinating
 and scheduling. Fern's and Stacey's camps were located in different parts
 of the suburbs, and they had different registration dates, forms to fill out,
-precamp requirements (physicals), specialties, and directors. Although
+pre-camp requirements (physicals), specialties, and directors. Although
 Mr. Marshall will share in the driving if requested, Mr. and Ms. Marshall
 agree that it is overwhelmingly Ms. Marshall who handles the girls' lives
 and their activities, as well as any complaints about Fern's or Stacey's
@@ -7080,7 +7080,7 @@ Marshall focuses on Tina, the instructor, as the source of the problem.
 We sat in the car for a minute and I said, "Look, Stace," I said. She said, "I-I,"
 and she started crying. I said, "You wait here." The instructor had come to the
 door, Tina. So I went to her and I said, "Look." I said, "Is there a problem?" She
-said, "Aww . . . she'll be fine. She just needs to work on certain things." Blahblah-blah. And I said, "She's really upset. She said you-you-you [were] pretty
+said, "Aww . . . she'll be fine. She just needs to work on certain things." Blah-blah. And I said, "She's really upset. She said you-you-you [were] pretty
 much correcting just about everything." And [Tina] said, "Well, she's got—she's
 gotta learn the terminology."
 
@@ -7260,7 +7260,7 @@ to have her daughters tested privately (to the tune of $200 per child) and
 was able to get both girls admitted to the program.
 
 Much as getting Stacey enrolled in the private gymnastics class was
-only the first in a long series of interventions, so too with the gifted-andtalented program. Ms. Marshall remained in close contact with the consultant for the program, overseeing the selection of teachers for her
+only the first in a long series of interventions, so too with the gifted-and talented program. Ms. Marshall remained in close contact with the consultant for the program, overseeing the selection of teachers for her
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 177
 
@@ -7874,7 +7874,7 @@ to move the pennies but says nothing. Then she stops moving the coins.)
 Ms. Handlon: And?
 Melanie: And I count the groups.
 Ms. Handlon: But you're supposed to divide by seven.
-Melanie: OOHH . . .
+Melanie: OHHH . . .
 Ms. Handlon: That's why I didn't understand what you were doing. (Melanie
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 192
@@ -8654,7 +8654,7 @@ Lower Richmond educators, however, tend not to stress these kinds of
 institutional differences as important factors in Wendy's persistent reading problems. Instead, they often emphasize the critical role of parents.
 During the parent-teacher conference, Mr. Tier, Wendy's fourth-grade
 teacher, expresses his outrage that she has made it to fourth grade without knowing how to read. He urges Ms. Driver to be more demanding
-with him and other school personnel, telling Ms. Driver in a parentteacher conference: "If our roles were reversed—I'd be beating me on the
+with him and other school personnel, telling Ms. Driver in a parent-teacher conference: "If our roles were reversed—I'd be beating me on the
 head."
 
 Here, Mr. Tier suggests that Ms. Driver should take a concerted cultivation approach to her daughter's education. She should aggressively
@@ -9088,7 +9088,7 @@ baseball games, assisting the coach, and chastising Billy to swing at the
 ball. (He will yell, "Swing!" Shaking his head ruefully, he says, "He is
 afraid of the ball.") Mr. Yanelli also plays cards with Little Billy. As he
 passes through the house, Mr. Yanelli will affectionately ruffle the top of
-Billy's head, calling him "Muke," a favorite nickname. In accord with the
+Billy's head, calling him "Mike," a favorite nickname. In accord with the
 traditional gender division of labor, however, he is not involved at all in
 Billy's child care or schooling: "it is her department." Ms. Yanelli also has
 a twenty-one-year-old son, Manny, from a previous marriage who works
@@ -9141,7 +9141,7 @@ go, willing to do anything. He's a fun kid. He loves sports. . . . He plays base
 He wants to play hockey. See, I'm the kind of mother that—I feel like I'm the one
 that's wrong.
 
-Ten-year-old Little Billy is short and pudgy and often wears long Tshirts that hang down over his pants. Still, with his closely cropped blond
+Ten-year-old Little Billy is short and pudgy and often wears long T-shirts that hang down over his pants. Still, with his closely cropped blond
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 224
 
@@ -10467,7 +10467,7 @@ real world. Some take a gradational approach: on the basis of the key elements o
 income—they rank individuals or families in a relatively seamless hierarchy. Yet occupations differ greatly, particularly in the amount of autonomy workers enjoy, the degree to which some people supervise others,
 the pay, the cleanliness or dirtiness of the work performed, and the
 amount of prestige that the job commands. I think of these differences in
-nongradational terms.
+non-gradational terms.
 
 There is also disagreement over how to conceptualize classes (i.e.,
 whether to use a Marxian and Weberian approach).2 Regardless of approach, however, most current conceptualizations deploy a relatively
@@ -10478,7 +10478,7 @@ small number of families. Indeed, with a small sample, and with a desire
 to compare children across gender and race lines, adopting the finegrained differentiation of categories characteristic of neo-Marxist and
 neo-Weberian studies was untenable and unreasonable.
 
-Initially, I settled on two class categories, guided by the populations represented in the town where I was observing. Since employers or selfemployed workers were less common than others in the population as a
+Initially, I settled on two class categories, guided by the populations represented in the town where I was observing. Since employers or self-employed workers were less common than others in the population as a
 whole, I decided to concentrate exclusively on parents who were employees
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 261
@@ -10520,7 +10520,7 @@ biological parents. Although some of the poor children have regular contact with
 Lareau(E).qxd 5/7/2003 5:10 PM Page 262
 
 intensive observations had their biological fathers at home. The workingclass families were in between. This pattern raises questions of whether
-the pattern of concerted cultivation depends on the presence of a twoparent marriage. The scope of the sample cannot provide a satisfactory
+the pattern of concerted cultivation depends on the presence of a two-parent marriage. The scope of the sample cannot provide a satisfactory
 answer to this question. Still, indications are that family structure, while
 it may influence aspects of the cultural logic of child rearing, does not
 determine it. For example, in the sample of thirty-six middle-class families, there were three single parents. These single-parent families clearly
@@ -10744,7 +10744,7 @@ For example, the disciplinary practices in the students' childhood homes
 seemed to affect what each recorded in his or her field notes as noteworthy.
 Some field-workers with middle-class origins were upset by parents' threats
 to "beat" children. A field-worker from a working-class family was not
-troubled by that, but he was shocked by the disrespect that many middleclass children used in routine interactions with their parents. A twentyminute car ride with a whining middle-class four-year-old left this research
+troubled by that, but he was shocked by the disrespect that many middleclass children used in routine interactions with their parents. A twenty-minute car ride with a whining middle-class four-year-old left this research
 assistant with a headache and a general feeling of disgust ("I wanted to
 kick his mother's butt for letting him get away with that whining . . .
 
@@ -10815,7 +10815,7 @@ evening schedule. We often carried tape recorders, especially after family
 members had gotten used to us.
 
 All of the families considered the request to observe them odd. Mr.
-Tallinger summed up the majority view. Following up on the fieldworker's description of the research project as "unusual," he said:
+Tallinger summed up the majority view. Following up on the field worker's description of the research project as "unusual," he said:
 
 "Yeah, I know. It's really unusual. The only people weirder than the people agreeing to be watched are the people who want to watch!"
 
@@ -10843,7 +10843,7 @@ varied by class. Poor and working-class children were genuinely excited
 to see us. Having adults paying close attention to them at home was out
 of the ordinary. At the end of any given day of observing, it was common
 for these children, especially the girls, to plead with us to stay longer. As
-the Irwin's daughter explained in an exit interview, "It was nice to have
+the Irwins' daughter explained in an exit interview, "It was nice to have
 somebody different in the house." Little Billy Yanelli said that having the
 field-workers in his home "felt good" to him. And Harold McAllister,
 when queried, smiled shyly and replied that he "liked it" when the fieldworkers were at his house. Middle-class children were more blasé; they
@@ -10873,7 +10873,7 @@ back for a visit "anytime"). I continue to stay in touch with the families
 (I did not, however, circulate the draft manuscript of this book among
 the families, although I will give them a copy of the book). Every year
 since the children were in fourth grade, I have sent them a Christmas
-card with a five-dollar bill tucked inside. I plan to reinterview the children as young adults.
+card with a five-dollar bill tucked inside. I plan to re-interview the children as young adults.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 271
 
@@ -13413,7 +13413,7 @@ graduates is 78%, for parents with some college it is 92%, and for college gradu
 Education 1995, p. 182.
 
 25. See U. S. Department of Education, Condition of Education, 1995 and
-Entwhistle et al., Children, Schools, and Inequality. At the same level of parental
+Entwisle et al., Children, Schools, and Inequality. At the same level of parental
 education, white students generally receive higher scores than do Black students.
 See also Christopher Jencks and Meredith Phillips, eds., The Black-White Test
 Score Gap.
@@ -13452,7 +13452,7 @@ class-consciousness exist.
 32. My debt to Bourdieu is enormous, especially regarding his preoccupation
 in the transmission of advantage. Although some have critiqued his model of
 social reproduction for being overly deterministic, a close reading of his theoretical ideas makes clear that Bourdieu sees a great deal of indeterminacy in how life
-trajectories unfold (see Marlis Buchman's book The Script of Life for a particularly lucid description of Bourdieu's model). Still, there is one key way that I have
+trajectories unfold (see Marlis Buchmann book The Script of Life for a particularly lucid description of Bourdieu's model). Still, there is one key way that I have
 parted company with Bourdieu. As Elliot Weininger has noted in his article
 "Class and Causation in Bourdieu," Bourdieu has a gradational (rather than categorical) conception of class structure. In addition, Bourdieu is deeply interested
 in fractions or divisions within a social class, an issue that space (and sample size)
@@ -13477,7 +13477,7 @@ almost $6,000 annually on hockey alone.
 3. As with many American households, the Tallingers had accumulated debt
 and had limited savings. For a more detailed discussion of the Tallingers' financial situation (as well as the Yanelli, Driver, and Greeley families), see the dissertation by Patricia Berhau, Class and the Experiences of Consumers.
 
-4. See Gai Ingham Berlage's paper, "Are Children's Competitive Team Sports
+4. See Gai Ingham Berlage paper, "Are Children's Competitive Team Sports
 Teaching Corporate Values?" for a study of fathers of children on hockey and
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 296
@@ -14072,7 +14072,7 @@ of reasoning in child rearing. Since there is an emphasis in broader cultural re
 all social classes might report that they use reasoning. Indeed, for many of the
 working-class and poor parents, physical discipline was a "last resort." Studies
 do consistently show that more educated mothers, however, are more likely to
-stress reasoning. See, among others, Cheryl Blueston and Catherine S. Tamis-
+stress reasoning. See, among others, Cheryl Bluestone and Catherine S. Tamis-
 LeMonda, "Correlates of Parenting Styles in Predominantly Working- and
 Middle-Class African American Mothers."
 
@@ -14207,7 +14207,7 @@ great deal of time playing with their younger siblings. For an overview of the
 research on gender role socialization in childhood, see Eleanor Maccoby, The
 Two Sexes.
 
-46. See David Halle's book, America's Working Man.
+46. See David Halle book, America's Working Man.
 47. Michael B. Katz, The Undeserving Poor.
 
 1. In retrospect, the decision to forgo interviewing the children was a serious

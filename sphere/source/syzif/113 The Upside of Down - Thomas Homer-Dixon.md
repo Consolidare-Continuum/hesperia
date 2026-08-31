@@ -75,7 +75,7 @@ for Non-Fiction, and Environment,
 Scarcity, and Violence.
 
 Jacket design by Honi Werner
-Jacket photo courtesty of The Bancroft Library,
+Jacket photo courtesy of The Bancroft Library,
 
 University of California, Berkeley
 BANC PIC 1958.021 Vol. 3: 337—fALB
@@ -460,7 +460,7 @@ P r o l o g u e
 |
 
 destruction would also produce some good; that it would not only lead to
-a rejuvinated city but also trigger a wave of events that would sweep
+a rejuvenated city but also trigger a wave of events that would sweep
 around the world and, years hence, help create the Federal Reserve
 System of the United States—the country's bank of last resort, an essential defense against financial panic, and one of the most important new
 institutions of the twentieth century.1
@@ -644,7 +644,7 @@ Driving fast in the fog is, of course, not sensible. But it's exactly what
 we're doing today.
 
 Think of the road as the line of time, stretching endlessly from the past
-behind us and into the future in front of us. We live in an instant of fastforward motion between what has been and what's to come. We don't give
+behind us and into the future in front of us. We live in an instant of fast-forward motion between what has been and what's to come. We don't give
 the past much thought, although we might occasionally glimpse bits and
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 8
@@ -742,7 +742,7 @@ the abrupt failure of critical technological, economic, and social systems.
 
 When the power went off in August 2003, all air conditioners, elevators, subways, and traffic signals failed—but that wasn't surprising.
 What did surprise many people, though, was the simultaneous failure of
-portable phones, automatic tellers, debit card machines, electronic hotelroom doors, electric garage doors, and almost all clocks. Most disconcerting of all was the loss of the constant flow of information that's
+portable phones, automatic tellers, debit card machines, electronic hotel room doors, electric garage doors, and almost all clocks. Most disconcerting of all was the loss of the constant flow of information that's
 become a drug in our lives, as people were cut off from television, e-mail,
 and—worst of all—the Web. No one could tell what was going on. It was
 as if darkness had fallen in mid-afternoon. People clustered around cars
@@ -1046,7 +1046,7 @@ insurance companies think about all the time: a perhaps low-probability
 event that would nevertheless exact a colossal toll if it happened.16 We
 spend enormous amounts of money and time trying to make such outcomes even less likely—for instance, by building dikes and breakwaters
 along our coastlines to protect against the every-hundred-years storm
-or by reinforcing our buildings and bridges to withstand the everyhundred-years earthquake. Synchronous failure would be the same kind
+or by reinforcing our buildings and bridges to withstand the every hundred-years earthquake. Synchronous failure would be the same kind
 of disaster, except on a far greater scale, and it's something we must do
 our very best to avoid.
 
@@ -1271,7 +1271,7 @@ beforehand, even with complete knowledge of all his separate parts.
 Now recent research—which we'll get to know in later chapters—
 shows that some kinds of complex systems adapt to their changing environment by going through a four-stage cycle of growth, breakdown,
 reorganization, and renewal (the last three of these stages are what I call
-catagenesis).22 There's an important caveat to this general idea of a fourstage cycle, though: while breakdown is essential to long-run adaptation
+catagenesis).22 There's an important caveat to this general idea of a four-stage cycle, though: while breakdown is essential to long-run adaptation
 and renewal, it must not be too severe. In other words, breakdown must
 be constrained—just as the great San Francisco fire was constrained
 when it was stopped at Van Ness Avenue—for catagenesis to happen.23
@@ -1643,7 +1643,7 @@ Spanish countryside—incorporate voussoir arches.
 The keystone lodged above my head was massive: about two meters
 deep, one meter high, one and a half meters wide at the top of its wedge,
 and three-quarters of a meter wide at the bottom. It was made of travertine,
-a kind of limestone that has been quarried for millennia near the presentday town of Tivoli (known to the Romans as Tibur), about thirty kilometers to the east. Tivoli travertine is a cream color, streaked with darker
+a kind of limestone that has been quarried for millennia near the present-day town of Tivoli (known to the Romans as Tibur), about thirty kilometers to the east. Tivoli travertine is a cream color, streaked with darker
 indentations and small holes that make it look a bit like white cork. But
 here, over time, age, pollution, and years of inattention had allowed a thick
 layer of grime to coat the rock's white surface, turning it a muddy brown.
@@ -1991,7 +1991,7 @@ swathes of land around the Mediterranean basin. Some of the farms
 existed before the Romans arrived. Especially
 in the eastern
 Mediterranean—for instance, in modern-day Lebanon and Syria—the
-expanding empire often simply took over existing cities and their foodproduction and tax systems, while in northwestern Europe, in places like
+expanding empire often simply took over existing cities and their food production and tax systems, while in northwestern Europe, in places like
 the Rhône valley, new land was sometimes converted into farms. But
 wherever the farms were located, they played a role in the Roman
 energy economy similar to that of solar battery chargers: they converted
@@ -2188,7 +2188,7 @@ find accurate data for the work involved in assembling, disassembling,
 and moving the cranes, we had to omit these important tasks from our
 estimate. Finally, the Colosseum project was, in thermodynamic terms, a
 classic open system. For example, the Romans had to harvest and transport timber for scaffolding and cranes, and they needed enormous
-amounts of firewood to slake lime, melt metal, and fire brick. Their woodharvesting operation must have extended far into the city's hinterland
+amounts of firewood to slake lime, melt metal, and fire brick. Their wood harvesting operation must have extended far into the city's hinterland
 and involved not only woodcutters but also countless teams of oxen and
 drivers, road builders, and a host of people supplying tools and food to
 these workers and animals. To make our task tractable, however, we
@@ -2524,7 +2524,7 @@ Persian Gulf.
 The second lesson is less obvious but more important: after a certain
 point in time, without dramatic new technologies for finding and using
 energy, a society's return on its investments to produce energy—its
-EROI—starts to decline. The Roman empire was locked into a foodbased energy system. As the empire expanded and matured; as it
+EROI—starts to decline. The Roman empire was locked into a food-based energy system. As the empire expanded and matured; as it
 exploited, and in some cases exhausted, the Mediterranean region's best
 cropland and then moved on to cultivate poorer lands; and as its grain
 supply lines snaked farther and farther from its major cities, it had to
@@ -2577,7 +2577,7 @@ reigned for long periods and governed competently. Their combined
 reigns saw the peak of Rome's imperial achievement—a pax Romana of
 unprecedented stability and prosperity.1
 
-Then things went horribly wrong. Marcus Aurelius's son Commodus—
+Then things went horribly wrong. Marcus Aurelius son Commodus—
 callow and ill suited to rule—was assassinated in 192, and in the subsequent nine decades some twenty-three emperors came to power in the
 city of Rome itself. "Succession by murder and civil war now became
 the norm," writes the military historian Edward Luttwak. Many other
@@ -2928,7 +2928,7 @@ Latin America, across the Timor and Arafura Seas between Australia
 and Southeast Asia, and along the boundaries between Europe, North
 Africa, and Western Asia. Large numbers of Africans cross the
 Mediterranean at the Strait of Gibraltar and also at the relatively narrow
-stretch of water between Tunisia and the Italian islands of Pantellenia,
+stretch of water between Tunisia and the Italian islands of Pantelleria,
 Lampedusa, and Sicily.23 Many of these people die horrible deaths:
 they drown when their rickety boats founder off the coast of Sicily and
 Spain; they die of thirst in the blistering heat of the southern Arizona
@@ -3828,7 +3828,7 @@ to talk about these issues after they retire.39 Once in a while, though, a
 senior person still in the industry's employ admits the situation is critical. A startling example appeared in the pages of the industry journal
 World Energy in 2002. Harry Longwell, then director and executive
 vice president of ExxonMobil, presented global oil-discovery data
-compiled by his company's researchers. His graph shows a clear bellshaped discovery curve: world crude discovery peaked around 1964
+compiled by his company's researchers. His graph shows a clear bell-shaped discovery curve: world crude discovery peaked around 1964
 and fell quickly afterward, with upward blips in the late 1970s (when
 Alaska's Prudhoe Bay and Europe's North Sea fields were found) and
 again around 2000.40 Annual output outstripped discovery a quarter
@@ -4298,7 +4298,7 @@ downward, where it melts into magma and occasionally bursts back to
 the surface in spectacular volcanoes.1
 
 All this churning beneath the Italian peninsula has left its mark on
-the civilizations that have come and gone on the land above. It has sometimes brought disaster, as in 79 CE, when Mount Vesuvius's eruption
+the civilizations that have come and gone on the land above. It has sometimes brought disaster, as in 79 CE, when Mount Vesuvius eruption
 buried Pompeii. But it has also created a land of fertility, geographic
 variety, and great abundance. Volcanism forged the stone so characteristic of Rome's magnificent buildings: subterranean magma heated water
 deep underground, which then dissolved limestone lying in layers of
@@ -4472,7 +4472,7 @@ visit to the Roman Forum.
 An American flag flapped in the breeze. It was tied to a length of
 charred pipe that someone had jammed into a mound of twisted
 debris. Around this lonely symbol of pride and perseverance were the
-blackened remains of a refrigerator and a hot-water tank; a naked, ashcovered brick chimney; and the concrete foundations of the house that
+blackened remains of a refrigerator and a hot-water tank; a naked, ash-covered brick chimney; and the concrete foundations of the house that
 once stood there. Beyond this perimeter was a forest of dead pine
 trees, their burned, needleless branches reaching up toward the sky as
 if appealing for salvation.
@@ -5069,7 +5069,7 @@ million square feet of office space, and exacting upward of $20 billion
 in direct costs. A major telephone switching office was destroyed and
 another heavily damaged, while some key transit lines were buried
 under rubble. The attack also immobilized the Bank of New York, one
-of two banks that provide clearance services for Wall Street's fixedincome transactions, and an institution vital to the market for U.S.
+of two banks that provide clearance services for Wall Street's fixed-income transactions, and an institution vital to the market for U.S.
 Treasury securities.40
 
 Yet, despite the horrific damage to the area's infrastructure, the immediate operation of the financial system, and the New York economy, the
@@ -5214,7 +5214,7 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 124
 
 In history, we can find many examples of civilizations that have
 been pushed over the edge to collapse by the combination of multiple
-stresses and weakened resilience. A good example is classic Mayan civilization, which flourished in and around Mexico's Yucatán peninsula
+stresses and weakened resilience. A good example is classic Mayan civilization, which flourished in and around Mexico's Yucatánán peninsula
 from the third to the eighth centuries. In this case, a key long-term
 stress was an expanding population that became too large for the
 region's resource base, given the limited productivity of Mayan agriculture. Once peasant farmers had fully exploited the fertile valleys,
@@ -5854,7 +5854,7 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 141
 1 4 1
 
 of fires burn nonstop in underground coal seams, often triggered by
-poor mining practices. China alone has hundreds of these deep, humancreated fires, and by some estimates they consume more than two hundred million metric tons of coal each year and produce nearly as much
+poor mining practices. China alone has hundreds of these deep, human-created fires, and by some estimates they consume more than two hundred million metric tons of coal each year and produce nearly as much
 carbon dioxide as all the cars and small trucks in United States.28
 
 We've also changed the planet's cycles of sulfur and nitrogen—elements both essential to life's functions (the proteins in our bodies contain
@@ -5874,7 +5874,7 @@ number of reasons. It upsets the chemical balance of soil on land, contributes t
 fertilized fields, is a potent greenhouse gas), and appears to be overfertilizing forests around the world, increasing their vulnerability to climate
 extremes and to parasites.32 It also causes overabundant growth of algae
 and other aquatic plants in lakes and coastal waters. After these organisms die, they sink to the bottom and decay, sucking oxygen from the
-water, driving away fish and invertebrates, and killing many bottomdwelling creatures. Oxygen-starved "dead" zones can now be found
+water, driving away fish and invertebrates, and killing many bottom-dwelling creatures. Oxygen-starved "dead" zones can now be found
 from New York's Long Island Sound to the Gulf of Mexico, the Florida
 coast, the Baltic Sea, and the lagoon of Australia's Great Barrier Reef.
 Since 1990 the number of such zones around the world has doubled.33
@@ -5892,7 +5892,7 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 142
 
 |
 
-we've transformed and often degraded about half of the world's icefree land.35 Row-crop agriculture, cities with their suburban sprawl, and
+we've transformed and often degraded about half of the world's ice-free land.35 Row-crop agriculture, cities with their suburban sprawl, and
 industrial zones alone cover about 15 percent of Earth's ice-free land—
 an area larger than the United States, Canada, and Mexico combined.
 
@@ -6741,7 +6741,7 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 165
 be vulnerable to increasingly destructive hurricanes, typhoons, and
 cyclones.40 Almost any warming will cause agricultural output in the
 tropics to fall, while warming of more than a few degrees Celsius will hurt
-agriculture in midlatitudes too.41 Higher sea temperatures will bleach
+agriculture in mid-latitudes too.41 Higher sea temperatures will bleach
 and kill coral reefs, and wildfires will ravage forests, as we're already
 seeing around the planet.42 More people will die of heat stress, of diseases
 carried by insects like malaria and dengue fever, and of waterborne diseases like cholera.43
@@ -6959,7 +6959,7 @@ How does this relate to the global climate? Many scientists now
 believe that the planet's ocean-atmospheric system has multiple equilibriums, which means that climate change caused by global warming won't
 always occur steadily and incrementally. Instead, sometimes it will
 happen in sharp jumps as Earth's intimately interlinked currents of air
-and ocean water flip—all together—to new patterns of behavior.56 Icecore records from Greenland and elsewhere going back more than one
+and ocean water flip—all together—to new patterns of behavior.56 Ice core records from Greenland and elsewhere going back more than one
 hundred thousand years show that the planet's climate has reorganized
 itself dozens of times. In the process, large regions have warmed or
 cooled 10 degrees Celsius or more in as little as a decade.57 And once
@@ -6988,7 +6988,7 @@ the South Atlantic.
 
 The North Atlantic is one of only two places on Earth where large
 quantities of water descend from the ocean's surface to its depths (the
-other is near Antarctica). The process is a key element of a planetwide
+other is near Antarctica). The process is a key element of a planet-wide
 flow of water—often called the Great Ocean Conveyor—that snakes
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 171
@@ -7199,7 +7199,7 @@ N O E Q U I L I B R I U M
 l c o m e t o t h e C o u n c i l o n Fo r e i g n R e l at i o n s ."
 
 The room fell silent. The speaker was Leslie Gelb,
-president of the Council and former columnist and opinionpage editor of The New York Times. He stood at a lectern in the Council's
+president of the Council and former columnist and opinion page editor of The New York Times. He stood at a lectern in the Council's
 elegant Mansion Ballroom, its walls paneled in dark wood and adorned
 with oil portraits in heavy golden frames. Beyond the floor-to-ceiling
 windows, evening was gathering along New York's Park Avenue. It had
@@ -8000,7 +8000,7 @@ operate, maintain, and repair the new technologies. In offices, for
 example, information-processing technology has eliminated secretaries,
 while the accelerated pace, organizational complexity, and technological
 sophistication of work has increased the need for highly proficient
-administrative assistants. In factories, robots have replaced assemblyline workers while creating jobs for engineers and technicians who
+administrative assistants. In factories, robots have replaced assembly line workers while creating jobs for engineers and technicians who
 design and maintain robotic systems. Not everyone can be educated or
 trained to fill such jobs, though; we can't all be computer programmers,
 financial analysts, or robotic-systems designers. And in any case, the
@@ -8158,7 +8158,7 @@ can cripple economies, cause unemployment to skyrocket, and catalyze political e
 mass unemployment is "politically and socially explosive" and must
 never happen again.86
 
-So, somewhat ironically, even the most conservative of today's economic policy makers are closet advocates of the kind of demandinducing taxation, spending, and monetary policies advocated in the
+So, somewhat ironically, even the most conservative of today's economic policy makers are closet advocates of the kind of demand-inducing taxation, spending, and monetary policies advocated in the
 1930s by the economist John Maynard Keynes—the bête noire of conservatives. If there's a hint of an economic downturn, our politicians
 eagerly cut taxes and otherwise prime the pump—often, in the process,
 racking up enormous national budget deficits. Meanwhile, central
@@ -8192,7 +8192,7 @@ The growth imperative worsens instability in other ways too. It
 tends to cause ever tighter connectivity among economies, financial
 institutions, corporations, and investors. Because economic policy
 makers in both rich and poor countries often believe that creating
-larger, more integrated markets will help sustain growth, they sign freetrade treaties and build institutions like the World Trade Organization.
+larger, more integrated markets will help sustain growth, they sign free trade treaties and build institutions like the World Trade Organization.
 Larger markets, more open trade and investment, and a more efficient
 global economy do indeed produce huge benefits, especially for rich
 countries and for some poor countries that specialize in standardized
@@ -8448,7 +8448,7 @@ can this behavior, observable with the naked eye, be reconciled with circular or
 
 Claudius Ptolemaeus, the last of the great Alexandrian astronomers,
 was born in Egypt around 85 CE, just five years after the Colosseum
-opened in Rome. He wrote multivolume books on geography and optics
+opened in Rome. He wrote multi-volume books on geography and optics
 as well as treatments of such tricky geometric problems as the appropriate angles for a sundial. But his truly monumental and most enduring
 achievement was the Almagest, a thirteen-volume mathematical treatise,
 likely written around the middle of the second century, on the motions
@@ -9266,7 +9266,7 @@ change and variety on the other."31 It's at once conserving and creative—
 a characteristic of all highly adaptive systems.
 
 Holling and his colleagues use a three-dimensional image to represent
-the relationship bewteen a system's rising potential and connectedness and
+the relationship between a system's rising potential and connectedness and
 its declining resilience. The shape looks like a distorted figure eight or
 infinity symbol floating in space.322 In the foreground is the growth
 phase—a curve that moves upward as the system's potential and connectedness increase. At the same time, the curve moves forward in three-dimensional space—toward the observer—as the system's resilience declines.
@@ -9397,7 +9397,7 @@ happens, they'll reinforce each other's collapse."
 
 "The third reason," he continued, "is the rise of mega-terrorism—
 the increasing risk of attacks that will kill huge numbers of people and
-produce major disruptions in world systems. I'm not sure why megaterrorism has become more likely now. I suppose it's partly a result of
+produce major disruptions in world systems. I'm not sure why mega-terrorism has become more likely now. I suppose it's partly a result of
 technological changes and the rise of particularly virulent kinds of fundamentalism. But I do know that in a tightly connected world where
 vulnerabilities are aligned, such attacks could trigger deep collapse—
 and that's particularly worrisome.
@@ -9565,7 +9565,7 @@ hundred meters across the narrow but deep valley below. Erected in
 about five years sometime in the middle of the first century CE (not
 long before the Colosseum was built), and made of fifty thousand
 metric tons of stone, it was a key part of a system that carried water
-from the Eure and Plantery springs near the present-day town of Uzès
+from the Eure and Planetary springs near the present-day town of Uzès
 to the Roman provincial settlement of Nemausus, which has since
 become the city of Nîmes. After decades of testing and refinement, the
 aqueduct eventually carried some forty thousand cubic meters of water
@@ -9612,7 +9612,7 @@ sunglasses, which are resting on the striated deposits; the channel itself is at
 
 the far right.)
 
-The interior of the aqueduct, in other words, tells a story about yearby-year changes in the capacity and competence of Roman administration—and about the disintegration of Roman power—in southern Gaul
+The interior of the aqueduct, in other words, tells a story about year-by-year changes in the capacity and competence of Roman administration—and about the disintegration of Roman power—in southern Gaul
 in the waning days of the western empire.7
 
 Looking carefully at the bent rock, I could see clearly the difference
@@ -10052,7 +10052,7 @@ on the land had steadily less food for their families and no longer the
 wherewithal to protect their cropland from long-term damage.64
 Malnutrition and outright starvation appear to have caused rural death
 rates to surge beyond birthrates, so the empire's population never recovered from the plagues of the second and third centuries.65 And as peasant
-populations fell, finding enough conscripts for the army became difficult. Still, with famers chafing under the burden of rising taxes, the army
+populations fell, finding enough conscripts for the army became difficult. Still, with farmers chafing under the burden of rising taxes, the army
 was an increasingly vital source of the emperor's power and legitimacy.66
 By the fifth century in the West, the empire was literally burning
 through its capital—its productive farmland and its peasantry. Peasants
@@ -10188,7 +10188,7 @@ a whole, though, can't get its resources or expel its pollution beyond
 Earth's boundaries.
 
 More important, as our global social-ecological system moves
-through the growth phase of its adaptive cycle—toward a Hollandtimes-ten future—it's losing resilience because of processes I've outlined
+through the growth phase of its adaptive cycle—toward a Hollands-times-ten future—it's losing resilience because of processes I've outlined
 in this book. Capitalism's constant pressure on companies to maximize
 efficiency tightens links between producers and suppliers; reduces slack,
 buffering, and redundancy; and so makes cascading failures more likely
@@ -10678,7 +10678,7 @@ are bound together mainly by radical ideologies that give them only the
 most general framing and injunctions for action. So Al Qaeda, in the
 wake of heavy pressure from the United States and its allies, has mutated
 from a coherent global organization into a motivating symbol or potent
-idea—that of Al Qaedaism and its resistance to Western oppression of
+idea—that of Al Qaedism and its resistance to Western oppression of
 Muslims.115 This means that the U.S. "war on terrorism" can't be war in
 any conventional sense. It's more like a worldwide guerrilla conflict, in
 
@@ -12038,7 +12038,7 @@ T H E L A S T R O C K
 
 T a
 
-rget: Saudi Oil Industry," the headline read.
+target: Saudi Oil Industry," the headline read.
 
 It was the evening of Monday, May 31, 2004. My short flight
 from Amman, Jordan, to Beirut, Lebanon, had reached cruising
@@ -12196,7 +12196,7 @@ out what our goal is, we need to be clearheaded about our values.
 In Western liberal societies, public discussion of values is dreadfully
 impoverished. As long as one person's values don't interfere with other
 people's interests, they're usually considered a private matter. To the
-extent that we discuss values at all, we do so only when provoked by hotbutton issues like abortion, drugs, sexuality, or political corruption. And
+extent that we discuss values at all, we do so only when provoked by hot-button issues like abortion, drugs, sexuality, or political corruption. And
 we often assume that most things around us in our societies don't involve
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 301
@@ -12246,7 +12246,7 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 302
 |
 
 We finally arrived at Baalbek. The main street was lined with electricity
-poles decorated with Hezbollah flags, behind which stood dreary lowrise concrete buildings. After passing a traffic island occupied by a large
+poles decorated with Hezbollah flags, behind which stood dreary low-rise concrete buildings. After passing a traffic island occupied by a large
 model of Jerusalem's Al Aqsa Mosque, we pulled up in front of the
 Palmyra Hotel. I stepped out of the car into a bizarre jumble of times
 and cultures.
@@ -12267,7 +12267,7 @@ ruins, it was Lebanon's first Western-style hotel. Now it looked like a
 dilapidated time capsule, empty of life (it seemed as though I was the
 sole guest), and home mainly to the ghosts of more glamorous times.
 The manager sat in a dimly lit office with two 1940s-era Bakelite rotary
-phones on his desk. The hallways and rooms featured weary Ottomanera antiques and dusty display cabinets full of bowls, figurines, and
+phones on his desk. The hallways and rooms featured weary Ottoman-era antiques and dusty display cabinets full of bowls, figurines, and
 glassware. On the crumbling plaster walls were faded photos of the dignitaries, artists, and actors who had stayed there over the decades. There
 was something indescribably sad about the place.
 
@@ -12294,7 +12294,7 @@ in Athens, it was twice its size in area and four times its total volume.
 Fifty-four beautifully sculpted Corinthian columns, each twenty meters
 high and 135 tons in weight, stood around the temple's perimeter.
 Across the top of these columns was a delicately carved entablature
-nearly six meters high. Each block of this entablature, spanning the distance between two columns, weighed almost sixty tonnes. And the corners of the temple's pediment—the triangular gablelike structure that
+nearly six meters high. Each block of this entablature, spanning the distance between two columns, weighed almost sixty tonnes. And the corners of the temple's pediment—the triangular gable-like structure that
 supported the temple's roof at the front—weighed an astonishing
 seventy-five tonnes.7 Only six of the columns still stand—those that I'd
 spied from my hotel—while many bits and pieces of entablature and
@@ -12541,7 +12541,7 @@ caused the fire.
 
 2. Rome's ruins have inspired literature, art, and scholarly investigation for millennia. Perhaps most famously, Edward Gibbon said he was prompted to write his
 monumental history on October 15, 1764, as he "sat musing amidst the ruins of
-the Capitol, while the barefooted fryars were singing Vespers in the temple of
+the Capitol, while the barefooted friars were singing Vespers in the temple of
 Jupiter." Unfortunately, modern scholars aren't sure exactly where Gibbon was
 sitting at the time; there were no visible ruins of the Temple of Jupiter's superstructure in the eighteenth century. Gibbon's remark from his autobiography is
 quoted in David Womersley's introduction to Edward Gibbon, The History of the
@@ -12667,7 +12667,7 @@ Security (Andover, MA: Brick House, 1982), 1.
 
 granted for quotation.
 
-19. The word catagenesis is also used in petroleum geology: categenesis happens when
+19. The word catagenesis is also used in petroleum geology: catagenesis happens when
 organic compounds are "cracked" or broken down into oil under conditions of
 high pressure and temperature deep underground.
 
@@ -12721,7 +12721,7 @@ of the Millennium Project of the American Council for the United Nations
 University. This project produces annual reports that are among the best efforts
 at synthesizing large amounts of data and expert opinion on humankind's future.
 Once again, though, forecasts tend to be straight-line extrapolations of current
-trends. Further information is available at http://www.acunu.org.
+trends. Further information is available at http://www.acorn.org.
 
 28. James William Sullivan, "The Future Is a Fancyland Palace," in Dave Walter, ed.,
 Today Then: America's Best Minds Look 100 Years into the Future on the Occasion of the
@@ -13047,7 +13047,7 @@ range "from well below 10 percent to as much as 40 percent (and even higher figu
 wheat, see USDA Agricultural Research Service, Nutrient Data Laboratory.
 USDA National Nutrient Database for Standard Reference. Release 18, 2006, "Wheat,
 hard white," NDB no. 20074, available from http://www.ars.usda.gov/main/
-site_main.htm?modecode=12354500. For caloric content of alfalfa hay, see
+site_main.htm?mode code=12354500. For caloric content of alfalfa hay, see
 Douglas M. Considine, ed., "Feedstuffs," Foods and Food Production Encyclopedia
 (New York: Van Nostrand Reinhold, 1982), 616–63, especially 621.
 
@@ -13308,7 +13308,7 @@ countries; such a distinction, however, would not materially affect my argument.
 See Geoffrey Garrett, "Globalization's Missing Middle," Foreign Affairs 83, no. 6
 (November–December 2004): 84–97. On the disparity in population growth
 between rich and poor countries, see Nathan Keyfitz's review of Alfred Sauvy,
-L'Europe submergée: Sud ‡ Nord dans 30 ans (Paris: Dunod, 1987), in Population and
+L'Europe submergéeée: Sud ‡ Nord dans 30 ans (Paris: Dunod, 1987), in Population and
 Development Review 15, no. 2 (1989): 359–62.
 
 22. Norimitsu Onishi, "Out of Africa or Bust, with a Desert to Cross," New York
@@ -13533,7 +13533,7 @@ How India Operates," New York Times, June 5, 2005, national edition, 2.
 
 Times, Week in Review, March 14, 2004, national edition, 3.
 
-4. China's desperation is reflected in its leaders' words. Prime Minister Wen Jiabo
+4. China's desperation is reflected in its leaders' words. Prime Minister Wen Jiabao
 declared in early 2004, "We must speed up the development of large coal mines,
 important power generating facilities and power grids, [and] the exploration and
 exploitation of petroleum and other important resources." Quoted in Yardley,
@@ -13689,7 +13689,7 @@ Russian discovery peaked in 1960, while its production peaked in 1987.
 Many analysts, such as Daniel Yergin, head of Cambridge Energy Research
 Associates (CERA), believe that Russia has huge undiscovered and untapped
 reserves of oil and will have the capacity to meet a large portion of increased
-world oil demand in coming decades. Other analysts believe that Russian's
+world oil demand in coming decades. Other analysts believe that Russia's
 reserves are much more limited and that the country has already passed peak
 output. For example, R. W. Bentley writes, "There is recognition within the
 industry that [Russia] is now past its physical resource peak."
@@ -13750,7 +13750,7 @@ Center Newsletter 3 (2002): 2.
 
 32. "USGS Study Revisited," ASPO Newsletter 63 (March 2006), 10, available at
 http://www.peakoil.ie/downloads/newsletters/newsletter63_200603.pdf. For an
-assessment of the USGS's study's predictions by the study's authors themselves,
+assessment of the USGS study's predictions by the study's authors themselves,
 see T. R. Klett, Donald Gautier, and Thomas Ahlbrandt, "An Evaluation of the
 U.S. Geological Survey World Petroleum Assessment 2000," American Association
 of Petroleum Geologists (AAPG) Bulletin 89, no. 8 (August 2005): 1033–42.
@@ -14202,7 +14202,7 @@ structure and toward transition to a new structure." In political science, Karl
 Deutsch, Samuel Huntington, and Alexander Motyl, among others, have proposed
 overload-breakdown theories of social and political change. Huntington, for
 instance, argues that societies are vulnerable to instability when their level of political
-participation exceeds their level of political institutionalization. See Émile Durkeim,
+participation exceeds their level of political institutionalization. See Émile Durkheim,
 Suicide: A Study in Sociology, trans. John A. Spaulding and George Simpson (Glencoe,
 IL: Free Press, [1897] 1951); Talcott Parsons, chapter 11, "The Processes of Change
 of Social Systems," in The Social System (Glencoe, IL: Free Press, 1951), especially
@@ -14302,7 +14302,7 @@ Washington, DC: NASA, August 2003).
 (American Institute of Physics, October–November 2003): 8–13; and James Glanz
 and Andrew Revkin, "Set of Rules Too Complex to Be Followed Properly, or Not
 Complex Enough," New York Times, August 19, 2003, national edition, A20.
-28. Andrew Revkin, "Experts Point to Strains on Electric Grid's Specialists," New
+28. Andrew Revkin, "Experts Point to Strains on Electric Grid Specialists," New
 York Times, September 2, 2003, national edition, A12. For a complete assessment
 of the causes of the 2003 blackout, see U.S.–Canada Power System Outage Task
 Force, Final Report on the August 14, 2003, Blackout in the United States and Canada:
@@ -15264,7 +15264,7 @@ Cyclone Number, Duration, and Intensity in a Warming Environment," Science
 41. The impacts of climate change on agriculture in the United States are discussed
 in Joel Smith, A Synthesis of Potential Climate Change Impacts on the U.S.
 (Arlington, VA: Pew Center on Global Climate Change, 2004), 10–11, available
-at http://www.pewclimate.org/docUploads/Pew%2DSynthesis%2Epdf.
+at http://www.pewclimate.org/docUploads/Pew%2Synthesis%2Epdf.
 
 42. On climate change and the decline of coral reefs, see Robert Buddemeier, Joan
 
@@ -15278,7 +15278,7 @@ Kleypas, and Richard Aronson, Coral Reefs & Global Climate Change: Potential
 Contributions of Climate Change to Stresses on Coral Reef Ecosystems (Arlington, VA: Pew
 Center on Global Climate Change, 2004), available at http://www.pewclimate.org/
 docUploads/Coral%5FReefs%2Epdf. See also D. Bellwood, T. Hughes, C. Folke,
-and M. Nyström, "Confronting the Coral Reef Crisis," Nature 429, no. 6994
+and M. Nyströmöm, "Confronting the Coral Reef Crisis," Nature 429, no. 6994
 (June 24, 2004): 827–33.
 
 43. On the health effects of global warming in general, see Jonathan Patz et al.,
@@ -15581,7 +15581,7 @@ Press, 2004), 295–303.
 12. The first real examples of international financial panic, according to most economic historians, were the South Sea and Mississippi bubbles of the early eighteenth century. See Charles Kindleberger, Manias, Panics, and Crashes: A History of
 Financial Crises (New York: John Wiley, 1996 [3rd ed.]), 111–12.
 
-13. Jospeh Stiglitz, Globalization and Its Discontents (New York: Norton, 2002), 97.
+13. Joseph Stiglitz, Globalization and Its Discontents (New York: Norton, 2002), 97.
 14. Lee Clarke, Worst Cases: Terror and Catastrophe in the Popular Imagination
 
 (Chicago: University of Chicago Press, 2006), 109.
@@ -15994,7 +15994,7 @@ Human Resource Group, Ekos Research Associates, 1996); and Michael Cox and
 Richard Alm, Federal Research Bank of Dallas, A Better Way: Productivity and
 Reorganization in the American Economy, 2003 Annual Report (Dallas: Federal
 Research Bank of Dallas, 2003), 19–21. Cox and Alm write, "Over time, our work
-moves up a hierarchy of human talents, focusing on new tasks that require higherorder skills, ones that machinery or out-sourcing can't do as well." For a general
+moves up a hierarchy of human talents, focusing on new tasks that require higher order skills, ones that machinery or out-sourcing can't do as well." For a general
 discussion of these trends, see Frank Levy and Richard Murnane, The New
 Division of Labor: How Computers Are Creating the Next Job Market (New York:
 Russell Sage, 2004), especially 37–54.
@@ -16144,7 +16144,7 @@ Report to the Club of Rome (London: Earthscan, 1997).
 92. I discuss the concept of energy intensity in chapter 4. Between 1980 and 2001,
 energy intensity in OECD countries fell from 12,443 to 9,165 BTUs per dollar of
 GDP (1995 dollars at purchasing power parity). See Energy Information
-Administration, "Overview," World Energy Use and Carbon Dioxide Emissions, available at http://www.eia.doe.gov/emeu/cabs/carbonemiss/chapter1.html.
+Administration, "Overview," World Energy Use and Carbon Dioxide Emissions, available at http://www.eia.doe.gov/emeu/cabs/carbon emissions/chapter1.html.
 
 93. "Sui Genocide," The Economist (December 19, 1998): 130–31.
 94. Peter Huber, Hard Green: Saving the Environment from the Environmentalists: A
@@ -16182,7 +16182,7 @@ Trends," Daedalus 125, no. 3 (Summer 1996): 171–98.
 
 98. Between 1975 and 1994, the total material requirement for the U.S. economy,
 which includes both direct and indirect material flows, changed from 21.4 to 21.9
-million metric tons. Albert Adriaaanse et al., Resource Flows: The Material Basis of
+million metric tons. Albert Adriaans et al., Resource Flows: The Material Basis of
 (Washington, DC: World Resources Institute, U.S.A.;
 Industrial Economies
 
@@ -16503,7 +16503,7 @@ stresses and rigidities to accumulate." Holling, "Understanding," 399.
 chapter ten
 
 1. A comprehensive statement of this research is Sander van der Leeuw, F. Favory
-and J. L. Fiches, eds., Archéologie et systèmes socio-environnementaux: études multiscalaires sur la vallée du Rhône dans le programme ARCHAEOMEDES (Valbonne:
+and J. L. Fiches, eds., Archéologie et systèmes socio-environnementaux: études multiscalaires sur la valléeée du Rhône dans le programme ARCHAEOMEDES (Valbonne:
 CNRS, Monographies du CRA, 2003).
 
 2. Jean-Pierre Adam, "Civil Engineering," chapter 10 in Roman Building: Materials
@@ -16739,7 +16739,7 @@ University of Michigan Press, 1999), 177–78.
 circular mirrors, unless there are slabs of Alexandrine marble picked out with
 overlay of Numidian; unless the marbles themselves are treated everywhere with
 elaborate surface-color designs as variegated as fresco; unless the ceiling is
-masked with glass; unless the basins into which we plunge our sapless, oversweated bodies have kerbs of the Thasian marble that once was only a rarity to be
+masked with glass; unless the basins into which we plunge our sapless, oversweated bodies have curbs of the Thasian marble that once was only a rarity to be
 stared at in some temple; unless the nozzles from which the water spouts are
 silver." Lucius Annaeus Seneca, c. 4 BCE–65 CE, Seneca's Letters to Lucilius. E.
 Phillips Barker, trans. (Oxford: Clarendon Press, 1932), 43–44.
@@ -16905,7 +16905,7 @@ Elinor Ostrom, "Designing Complexity to Govern Complexity," in Property Rights
 and the Environment, eds. Susan Hanna and Mohan Munasinghe (Washington, DC:
 Beijer International Institute of Ecological Economics and the World Bank, 1995).
 75. In the following paragraphs, I use "Holland" to refer to the Netherlands. Although
-such usage is commonplace, technically "Holland" refers solely to the centralwestern provinces of the Netherlands, North and South Holland.
+such usage is commonplace, technically "Holland" refers solely to the central western provinces of the Netherlands, North and South Holland.
 
 76. At almost four hundred people per square kilometer, the Netherlands ranks fourth
 in population density, if we don't count city-states and islands. Using 2005 population estimates, and including in national land area inland water bodies (lakes, reservoirs, and rivers), the world's most densely populated countries are Bangladesh
@@ -17087,7 +17087,7 @@ Goldstone, "Toward a Fourth Generation of Revolutionary Theory," 146–48.
 because small groups have power wholly disproportionate to their resources and size.
 101. "Hezbollah and the West African Diamond Trade," Middle East Intelligence
 Bulletin 6, no. 6–7 (June–July 2004), available at http://www.meib.org/articles/0407_12.htm; and Douglas Farah and Richard Shultz, "Al Qaeda's Growing
-Sancturary," Washington Post, July 14, 2004, A19.
+Sanctuary," Washington Post, July 14, 2004, A19.
 
 102. In 2004, Graham Allison of the Kennedy School of Government at Harvard
 University wrote, "In my own considered judgment, on the current path, a nuclear
@@ -17201,7 +17201,7 @@ Occidentalism: The West in the Eyes of Its Enemies (New York: Penguin, 2004).
 systems analysis, has developed the concept of global guerrilla warfare at length.
 See his blog at http://globalguerrillas.typepad.com/globalguerrillas/.
 
-117. Analysts distinguish between guerrilla war and insurgency. Both involve hit-andrun attacks by dispersed and usually small units taking advantage of local terrain
+117. Analysts distinguish between guerrilla war and insurgency. Both involve hit-and run attacks by dispersed and usually small units taking advantage of local terrain
 or cover (in Iraq, mainly urban cover) and the passive support of at least a portion
 of the local population. Both seek the long-term exhaustion of the conventional
 forces they're opposing—in other words, they win by not losing. But guerrilla war
@@ -17273,7 +17273,7 @@ national edition, A23.
 
 13. Jad Mouawad, "Saudi Arabia Looks Past Oil; Enriched by Record Prices, the Nation
 Seeks to Diversify," New York Times, December 13, 2005, national edition, B1.
-14. In late February 2006, Al Qaeda terrorists attacked the Saudi Abqaiq oilprocessing facility. According to a statement released by "al Qaeda in the Arab
+14. In late February 2006, Al Qaeda terrorists attacked the Saudi Abqaiq oil processing facility. According to a statement released by "al Qaeda in the Arab
 peninsula," the bombing was intended to stop "crusaders and Jews" from stealing
 Muslim wealth. On the general threat to Saudi oil facilities, see "What If?
 Terrorists are now targeting Saudi Arabia's oil infrastructure. How bad could
@@ -17446,7 +17446,7 @@ http://www.gwu.edu/~elliott/news/transcripts/wolf.html.
 
 43. In January 2004, the International Monetary Fund issued a blunt warning about the
 dangers of these deficits and "ballooning" liabilities to foreigners. Martin
-Mühleisen and Christopher Towe, eds., U.S. Fiscal Policies and Priorities for Long-
+MüMühleisen and Christopher Towe, eds., U.S. Fiscal Policies and Priorities for Long-
 Run Sustainability, Occasional Paper 227 (Washington, DC: IMF, 2004). The sentiment was echoed by the former U.S. Treasury Secretary Lawrence Summers in
 "America Overdrawn," Foreign Policy 143 (July–August 2004): 47–49.
 
@@ -17546,7 +17546,7 @@ Woodrow Wilson Centre Press, 1998), 27–28.
 
 54. The term "fundamentalism" first appeared among American Protestant evangelicals in the first decades of the twentieth century. Today the term generally
 refers to all forms of absolutist religious doctrine and practice that are reactions
-against modernity, although this usage's pejorative connotation makes it contentious in some quarters. Moreover, the term is often misapplied. R. Scott
+against modernity, although this usage pejorative connotation makes it contentious in some quarters. Moreover, the term is often misapplied. R. Scott
 Appleby and Martin Marty helpfully clarify the concept in "Fundamentalism,"
 Foreign Policy 128 (January–February 2002): 16–22. See also Marty and Appleby,
 The Glory and the Power: The Fundamentalist Challenge to the Modern World
@@ -17641,7 +17641,7 @@ in the event of financial panic. For an argument along these lines, see Guillerm
 Calvo, "Crises in Emerging Market Economies: A Global Perspective," Working
 paper 11305, National Bureau of Economic Research, April 2005.
 
-66. It's commonly assumed among economists, business analysts, and systems managers that just-in-time production increases vulnerabily to cascading failures.
+66. It's commonly assumed among economists, business analysts, and systems managers that just-in-time production increases vulnerability to cascading failures.
 But in some circumstances just-in-time production can actually boost resilience
 by stimulating continuous learning of better problem-solving and crisismanagement techniques among firms in the production chain. See Toshihiro
 Nishiguchi and Alexandre Beaudet, "Case Study: The Toyota Group and the
@@ -17839,7 +17839,7 @@ Arrow et al., Journal of Economic Perspectives 18, no. 3 (Summer 2004): 147–72
 that becomes more elaborate and rigid as it evolves upward along the adaptive
 cycle's front loop, or growth phase. The cycle's collapse is brought about, in part,
 by the emergence of an "antithesis," while the recombination and regeneration in
-the backloop is a process of finding a new "synthesis."
+the back loop is a process of finding a new "synthesis."
 
 90. Many of the ideas in this paragraph, especially regarding how greater diversity of a
 system's elements can increase creativity, are developed further in Stuart
@@ -17906,7 +17906,7 @@ Cambridge University Press, 2003), 120–25.
 
 8. Andrew Collins provides one of the more credible and well-researched arguments to this effect in "Baalbek: Lebanon's Sacred Fortress," New Dawn
 Magazine 43 (July–August 1997), available at http://www.newdawnmagazine.com/
-articles/Baalbek%20-%20Lebanons%20Sacred%20Fortress1.html.
+articles/Baalbek%20-%20Lebanon's%20Sacred%20Fortress1.html.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 404
 

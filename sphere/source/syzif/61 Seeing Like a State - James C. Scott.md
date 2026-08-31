@@ -125,7 +125,7 @@ Acknowledgments
 
 This book has been longer in the making than I would care to admit. It
 would be nice to be able to claim that it just took that long to think it
-through. Nice, but not truthful. A nearly fatal combination of m alingering and adm inistrative chores accounts for part of the delay. For the
+through. Nice, but not truthful. A nearly fatal combination of m malingering and adm inistrative chores accounts for part of the delay. For the
 rest, the scope of the book simply expanded, in an academic version of
 Parkinsons Law, to fill all the space that I would give to it. Finally, I had
 to call an arbitrary halt or else start thinking of it as a life's work.
@@ -162,7 +162,7 @@ efforts and unfailing friendship of Heinz Lechleiter and Ursula Hess
 brought my German to a (barely) tolerable level.
 
 At various stages in the laborious preparation of this book, I had
-the privilege of making extended visits to institutions filled with largespirited but skeptical colleagues. My good luck was that they so often
+the privilege of making extended visits to institutions filled with large-spirited but skeptical colleagues. My good luck was that they so often
 made a project of straightening me out. They might not be satisfied with
 the final result, but I'll bet that they can see their influence at work. At
 the Ecole des Hautes Etudes en Sciences Sociales, Marseille, I especially want to thank my patron, Jean-Pierre Olivier de Sardan, Thomas
@@ -244,7 +244,7 @@ owes a great deal to Joel Gao Hiza, who wrote a brilliant senior honors
 thesis on the subject while at Yale University and who generously
 shared his voluminous research materials. (He is now finishing a thesis
 in anthropology at the University of California at Berkeley.) Bruce
-McKim, Ron Aminzade, Goran Hyden, David Sperling, and Allen Isaacm an read the chapter on Tanzania and saved me from some blunders;
+McKim, Ron Aminzade, Goran Hyden, David Sperling, and Allen Isaacman an read the chapter on Tanzania and saved me from some blunders;
 some undoubtedly rem ain despite their efforts. Birgit M uller's fine
 analysis of the role of "fixers and traders" in the East Germ an factory
 economy before unification helped me to understand the symbiotic relationship between planned order and informal arrangem ents.
@@ -545,7 +545,7 @@ projects. It was reluctantly swept aside to shorten w hat is still a long
 book.)
 
 Finally, in chapter 9 I attem pt to conceptualize the nature of practical knowledge and to contrast it with more formal, deductive, epistemic knowledge. The term m etis, which descends from classical Greek
-and denotes the knowledge that can come only from practical experience, serves as a useful portm anteau w ord for w hat I have in mind.
+and denotes the knowledge that can come only from practical experience, serves as a useful portmanteau anteau w ord for w hat I have in mind.
 
 In tro d u ctio n 7
 
@@ -592,7 +592,7 @@ pay. A m arket necessarily reduces quality to quantity via the price
 m echanism and promotes standardization; in markets, money talks,
 not people. Today, global capitalism is perhaps the most powerful force
 for homogenization, whereas the state may in some instances be the
-defender of local difference and variety. (In E nlightenm ent's Wake,
+defender of local difference and variety. (In E Enlightenment ent's Wake,
 John Gray makes a similar case for liberalism, which he regards as
 self-limiting because it rests on cultural and institutional capital that
 it is bound to underm ine.) The "interruption," forced by widespread
@@ -659,7 +659,7 @@ for people and domestic animals; twigs and branches, as bedding, fencing, hop po
 for tanning; sap, for making resins; and so forth. Each species of tree—
 indeed, each part or growth stage of each species— had its unique
 properties and uses. A fragment of the entry under "elm " in a popular
-seventeenth-century encyclopedia on aboriculture conveys something
+seventeenth-century encyclopedia on agriculture conveys something
 of the vast range of practical uses to which the tree could be put.
 
 Elm is a timber of most singular use, especially whereby it may be continually dry, or wet, in extremes; therefore proper for water works,
@@ -704,7 +704,7 @@ If the utilitarian state could not see the real, existing forest for the
 was hardly unique in this respect. Some level of abstraction is necessary for virtually all forms of analysis, and it is not at all surprising that
 the abstractions of state officials should have reflected the param ount
 fiscal interests of their employer. The entry under "forest" in Diderot's
-Encyclopedic is almost exclusively concerned with the utilite publique
+Encyclopedic is almost exclusively concerned with the utilité publique
 of forest products and the taxes, revenues, and profits that they can be
 made to yield. The forest as a habitat disappears and is replaced by the
 forest as an economic resource to be m anaged efficiently and profitably.5 Here, fiscal and commercial logics coincide; they are both resolutely fixed on the bottom line.
@@ -754,7 +754,7 @@ more efficient woodstoves.
 
 The first attem pt at more precise m easurem ents of forests was
 made by Johann Gottlieb Beckmann on a carefully surveyed sample
-plot. Walking abreast, several assistants carried com partm entalized
+plot. Walking abreast, several assistants carried com compartmentalized entalized
 boxes with color-coded nails corresponding to five categories of tree
 sizes, which they had been trained to identify. Each tree was tagged
 with the appropriate nail until the sample plot had been covered. Because each assistant had begun with a certain num ber of nails, it was a
@@ -944,7 +944,7 @@ habitat still planted with a single species of conifers for production purposes.
 The m etaphorical value of this brief account of scientific production
 forestry is that it illustrates the dangers of dismembering an exceptionally complex and poorly understood set of relations and processes in
 order to isolate a single element of instrumental value. The instrument,
-the knife, that carved out the new, rudim entary forest was the razorsharp interest in the production of a single commodity. Everything that
+the knife, that carved out the new, rudim entary forest was the razor-sharp interest in the production of a single commodity. Everything that
 interfered with the efficient production of the key commodity was implacably eliminated. Everything that seemed unrelated to efficient production was ignored. Having come to see the forest as a commodity, scientific forestry set about refashioning it as a commodity m achine.28
 Utilitarian simplification in the forest was an effective way of maximizing wood production in the short and intermediate term. Ultimately,
 however, its emphasis on yield and paper profits, its relatively short
@@ -1028,7 +1028,7 @@ no community paid more than one-third of what they were assessed.34
 The result was that the state routinely relied on exceptional measures
 to overcome shortfalls in revenue or to pay for new expenses, particularly military campaigns. The crown exacted "forced loans" (rentes,
 droits alienes) in return for annuities that it might or might not honor;
-it sold offices and titles (venalites d 'offices); it levied exceptional hearth
+it sold offices and titles (vénalités d 'offices); it levied exceptional hearth
 taxes (fouages extraordinaires); and, worst of all, it billeted troops directly in communities, often ruining the towns in the process.35
 
 The billeting of troops, a common form of fiscal punishm ent, is to
@@ -1083,7 +1083,7 @@ Forging the Tools of Legibility: Popular Measures,
 State Measures
 Nonstate forms of m easurem ent grew from the logic of local practice.
 As such, they shared some generic features despite their bewildering
-variety— features that made them an impedim ent to administrative
+variety— features that made them an impediment ent to administrative
 uniformity. Thanks to the synthesis of the medievalist Witold Kula, the
 reasoning that anim ated local practices of m easurem ent may be set
 out fairly succinctly.37
@@ -1228,7 +1228,7 @@ the grain was to be poured (from shoulder height, which packed it
 somewhat, or from waist height?), how damp it could be, whether the
 container could be shaken down, and, finally, if and how it was to be
 leveled off when full were subjects of long and bitter controversy.
-Some arrangements called for the grain to be heaped, some for a "halfheap," and still others for it to be leveled or "striked" (ras). These were
+Some arrangements called for the grain to be heaped, some for a "half-heap," and still others for it to be leveled or "striked" (ras). These were
 not trivial matters. A feudal lord could increase his rents by 25 percent
 by insisting on receiving wheat and rye in heaped bushels.46 If, by custom, the bushel of grain was to be striked, then a further micropolitics
 erupted over the strickle. Was it to be round, thereby packing in grain
@@ -1438,7 +1438,7 @@ crops, however, may be planted, and every seven years the usufruct
 34 l e g i b i l i t y a n d s im p l i f i c a t i o n
 
 land is redistributed among resident families according to each family's
-size and its number of able-bodied adults. After the harvest of the mainseason crop, all cropland reverts to common land where any family
+size and its number of able-bodied adults. After the harvest of the main season crop, all cropland reverts to common land where any family
 may glean, graze their fowl and livestock, and even plant quickly m aturing, diy-season crops. Rights to graze fowl and livestock on pastureland held in common by the village is extended to all local families, but
 the num ber of animals that can be grazed is restricted according to
 family size, especially in dry years when forage is scarce. Families not
@@ -1478,10 +1478,10 @@ because they are strongly local, particular, and adaptable, their plas­
 
 N atu re an d S pace 35
 
-ticity can be the source of microadjustm ents that lead to shifts in prevailing practice.
+ticity can be the source of micro-adjustments ents that lead to shifts in prevailing practice.
 
 Imagine a lawgiver whose only concern was to respect land practices. Imagine, in other words, a written system of positive law that attempted to represent this complex skein of property relations and land
-tenure. The mind fairly boggles at the clauses, sub-clauses, and subsub-clauses that would be required to reduce these practices to a set of
+tenure. The mind fairly boggles at the clauses, sub-clauses, and sub-sub-clauses that would be required to reduce these practices to a set of
 regulations that an adm inistrator might understand, never m ind enforce. And even if the practices could be codified, the resulting code
 would necessarily sacrifice m uch of their plasticity and subtle adaptability. The circum stances that might provoke a new adaptation are
 too num erous to foresee, let alone specify, in a regulatory code. That
@@ -1494,7 +1494,7 @@ find that the code devised to fit one set of local practices would not
 travel well. Each village, with its own particular history, ecology, cropping patterns, kinship alignments, and economic activity, would require a substantially new set of regulations. At the limit, there would be
 at least as many legal codes as there were communities.
 
-Administratively, of course, such a cacophony of local property regulations would be a nightmare. The nightm are is experienced not by
+Administratively, of course, such a cacophony of local property regulations would be a nightmare. The nightmare are is experienced not by
 those whose particular practices are being represented but by those
 state officials who aspire to a uniform, homogeneous, national adm inistrative code. Like the "exotic" units of weights and measures, local
 land tenure practice is perfectly legible to all who live within it from
@@ -1553,7 +1553,7 @@ example, their commitment to equality and liberty was contradicted by
 custom ary rural contracts like those used by craft guilds, which still
 employed the terms "master" (m aitre) and "servant" (serviteur). As rulers of a new nation— not a kingdom— they were likewise offended by
 the absence of an overall legal fram ework for social relations. For
-some, a new civil code covering all Frenchm en seemed as if it would
+some, a new civil code covering all Frenchmen en seemed as if it would
 be sufficient.64 But for bourgeois owners of rural property who, along
 with their noble neighbors, had been threatened by the local uprisings
 
@@ -1608,7 +1608,7 @@ tithe. For its part, the state had neither the adm inistrative tools nor the
 information to penetrate to this level.
 
 The limitations on state knowledge were partly due to the complexity and variability of local production. This was not the most important
-reason, however. The collective form of taxation m eant that it was generally in the interest of local officials to m isrepresent their situation in
+reason, however. The collective form of taxation m eant that it was generally in the interest of local officials to m misrepresent their situation in
 order to minimize the local tax and conscription burden. To this end,
 they might minimize the local population, systematically understate
 the acreage under cultivation, hide new comm ercial profits, exaggerate crop losses after storms and droughts, and so on.70 The point of the
@@ -1628,7 +1628,7 @@ rights for using local arable, waste, and forest land. It would have been
 impossible in such a community to associate a household or individual
 with a particular holding on a cadastral map. The Norwegian large
 farm (gard) posed similar problems. Each household held rights to a
-given proportion of the value (skyId) of the farm, not to the plot of
+given proportion of the value (skyd) of the farm, not to the plot of
 land; none of the joint owners could call a specific part of the farm his
 own.72 Although it was possible to estimate the arable land of each
 community and, making some assumptions about crop yields and subsistence needs, arrive at a plausible tax burden, these villagers derived
@@ -1785,7 +1785,7 @@ of land with its ow ner—the taxpayer.82 In this spirit, the survey for a
 
 Nature and Space 45
 
-surveyors were to use the same m easurements, surveyors' instruments
+surveyors were to use the same m measurements, surveyors' instruments
 were to be periodically inspected to ensure conformity, and all maps
 were to be drawn up on a uniform scale of 1:2,880.83
 
@@ -1800,7 +1800,7 @@ holder's obligations to the domain. One imagines such a docum ent
 proving valuable to a young heir, new to the managem ent of a domain.
 But a proper map seems to have come into use especially when a brisk
 m arket in land developed. The Netherlands was thus a leader in land
-mapping because of its early com mercialization and because each
+mapping because of its early com commercialization and because each
 speculator who invested in the draining of land by windmill wanted to
 know in advance precisely w hat plot of the newly opened land he
 would be entitled to. The map was especially crucial to the new bourgeois owners of landed estates, for it allowed them to survey a large
@@ -1808,9 +1808,9 @@ territory at a glance. Its m iniaturization helped it to serve as an aidememoire
 owner was not intimately familiar with the terrain.
 
 As early as 1607, an English surveyor, John Norden, sold his services to the aristocracy on the premise that the map was a substitute for
-the tour of inspection; "A plot rightly drawne by true information, discribeth so the lively image of a manor, and every branch and member of
-the same, as the lord sitting in his chayre, may see w hat he hath, and
-where and how he lyeth, and in whole use and occupation of every particular is upon suddaine view.''84 A national tax administration requires
+the tour of inspection; "A plot rightly drawn by true information, describeth so the lively image of a manor, and every branch and member of
+the same, as the lord sitting in his chair, may see w hat he hath, and
+where and how he lieth, and in whole use and occupation of every particular is upon sudden view.''84 A national tax administration requires
 the same logic: a legible, bureaucratic formula which a new official can
 quickly grasp and adm inister from the documents in his office.
 
@@ -1922,7 +1922,7 @@ for example, created a new class who, because they paid the taxes on
 the land, became full owners with rights of inheritance and sale where
 none had existed earlier.92 At the same time, literally millions of cultivators, tenants, and laborers lost their custom ary rights of access to
 the land and its products. Those in the colonies who first plumbed the
-mysteries of the new tenure adm inistration enjoyed unique opportunities. Thus the Vietnamese secretaires and interpretes who served as interm ediaries between the French officials in the Mekong Delta and
+mysteries of the new tenure adm inistration enjoyed unique opportunities. Thus the Vietnamese secrétaires and interpretes who served as interm ediaries between the French officials in the Mekong Delta and
 their Vietnamese subjects were in a position to make great fortunes. By
 concentrating on the legal paperwork, such as title deeds, and the appropriate fees, they occasionally became landlords to whole villages of
 cultivators who had imagined they had opened common land free for
@@ -1969,13 +1969,13 @@ there will always be a shadow land-tenure system lurking beside and
 beneath the official account in the land-records office. We must never
 assume that local practice conforms with state theory.
 
-All centralizing states recognized the value of a uniform, com prehensive cadastral map. Carrying out the mapm aking, however, was
+All centralizing states recognized the value of a uniform, com prehensive cadastral map. Carrying out the mapping aking, however, was
 another matter. As a rule of thumb, cadastral mapping was earlier and
 more comprehensive where a powerful central state could impose itself on a relatively weak civil society. Where, by contrast, civil society
 was well organized and the state relatively weak, cadastral mapping
 was late, often voluntary, and fragmentary. Thus Napoleonic France
 was m apped m uch earlier than England, where the legal profession
-m anaged for a long time to stymie this threat to its local, incomeearning function. It followed from the same logic that conquered
+m anaged for a long time to stymie this threat to its local, income-earning function. It followed from the same logic that conquered
 colonies ruled by fiat would often be cadastrally m apped before the
 m etropolitan nation that ordered it. Ireland may have been the first.
 After Cromwell's conquest, as Ian Hacking notes, "Ireland was com ­
@@ -2400,7 +2400,7 @@ w hat the Faubourg Saint-Antoine had been earlier— an illegible, insurrectiona
 community, but that it became the sort of community which the bourgeoisie feared, which the police could not penetrate, which the governm ent could not regulate, where the popular classes, with all their
 unruly passions and political resentments, held the upper hand."32 If,
 as many claim, the Commune of Paris in 1871 was partly an attem pt
-to reconquer the city ("la reconquete de la Ville par la Ville")33 by those
+to reconquer the city ("la reconquête de la Ville par la Ville")33 by those
 exiled to the periphery by Haussm ann, then Belleville was the geographical locus of that sentiment. The Communards, militarily on the
 defensive in late May 1871, retreated toward the northeast and Belleville, where, at the Belleville town hall, they made their last stand.
 Treated as a den of revolutionaries, Belleville was subjected to a brutal military occupation.
@@ -2412,7 +2412,7 @@ would foil a popular insurrection had proved their value. "Thanks to
 Haussmann, the Versailles army could move in one fell swoop from the
 Place du Chateau d 'eau to Belleville."34 The second irony was that, just
 as the Faubourg Saint-Antoine had been effaced by Haussmann's dem ­
-olitions, so too was much of the newly offending quarter obliterated by
+demolitions, so too was much of the newly offending quarter obliterated by
 the building of the Eglise Sacre Coeur, built "in the guilty town . . . as
 restitution made on the site of the crime."35
 
@@ -2445,8 +2445,8 @@ the contem porary West, the only plausible answer is "It depends."37
 
 For the insider who grows up using these nam ing practices, they
 are both legible and clarifying. Each nam e and the contexts of its use
-convey im portant social knowledge. Like the netw ork of alleys in
-Bruges, the assortm ent of local weights and m easures, and the intricacies of custom ary land tenure, the complexity of nam ing has some
+convey im portant social knowledge. Like the network ork of alleys in
+Bruges, the assortment ent of local weights and m easures, and the intricacies of custom ary land tenure, the complexity of nam ing has some
 direct and often quite practical relations to local purposes. For an outsider, however, this byzantine complexity of nam es is a formidable obstacle to understanding local society. Finding someone, let alone situating him or her in a kinship network or tracing the inheritance of
 property, becomes a major undertaking. If, in addition, the population
 in question has reason to conceal its identity and its activities from ex­
@@ -2479,10 +2479,10 @@ old one hundred surnames," which in modern China has come to mean
 while established among ruling houses and related lines, was absent
 among commoners. They did not have surnames, nor did they even imitate elite practices in this respect. The assigning of patronyms by family was integral to state policy prom oting the status of (male) family
 heads, giving them legal jurisdiction over their wives, children, and ju ­
-niors and, not incidentally, holding them accountable for the fiscal
+juniors and, not incidentally, holding them accountable for the fiscal
 obligations of the entire family.41 This (Qin) policy required registering
 the entire population, after which the "hodgepodge of terms by which
-people were called were all classified as hsing [surname], to be passed
+people were called were all classified as xing [surname], to be passed
 down to their patrilineal descendants indefinitely."42 On this account,
 both the establishment of perm anent patronyms and the creation of the
 patrilineal family itself can be attributed to early state simplification.
@@ -2581,14 +2581,14 @@ may be dealing with a perm anent patronym.
 
 The increasing intensity of interaction with the state and statelike
 structures (large manors, the church) exactly parallels the development of perm anent, heritable patronym s. Thus, when Edward I
-clarified the system of landholding, establishing prim ogeniture and
+clarified the system of landholding, establishing prim primogeniture and
 hereditary copyhold tenure for m anorial land, he provided a powerful
 incentive for the adoption of perm anent patronym s. Taking one's father's surname became, for the eldest son at least, part of a claim to the
 property on the father's death.50 Now that property claims were subject to state validation, surnam es that had once been m ere bureaucratic fantasies took on a social reality of their own. One imagines that
 for a long time English subjects had in effect two nam es— their local
 name and an "official," fixed patronym. As the frequency of interaction
 with impersonal administrative structures increased, the official name
-came to prevail in all but a m an's intim ate circle. Those subjects living
+came to prevail in all but a m an's intimate ate circle. Those subjects living
 at a greater distance, both socially and geographically, from the organs
 of state power, as did the Tuscans, acquired perm anent patronyms
 much later. The upper classes and those living in the south of England
@@ -2616,7 +2616,7 @@ Spanish.53 Filipinos were instructed by the decree of November 21,
 he had been determ ined to rationalize existing law, provincial boundaries, and the calendar.54 He had observed, as his decree states, that
 Filipinos generally lacked individual surnam es, which might "distinguish them by families," and that their practice of adopting baptismal
 names drawn from a small group of saints' names resulted in great
-"confusion." The remedy was the catalogo, a com pendium not only of
+"confusion." The remedy was the catalogo, a com compendium not only of
 personal names but also of nouns and adjectives draw n from flora,
 fauna, minerals, geography, and the arts and intended to be used by the
 authorities in assigning permanent, inherited surnames. Each local
@@ -2639,7 +2639,7 @@ legible list of subjects and taxpayers. This is abundantly clear from the
 
 70 LEGIBILITY AND SIM PLIFICATIO N
 
-short pream ble to the decree: "In view of the extreme usefulness and
+short preamble ble to the decree: "In view of the extreme usefulness and
 practicality of this measure, the time has come to issue a directive for
 the form ation of a civil register [formerly a clerical function], which
 may not only fulfill and ensure the said objectives, but may also serve
@@ -2667,12 +2667,12 @@ make sure that the names would stick. Schoolteachers were ordered to
 forbid their students to address or even know one another by any name
 except the officially inscribed family name. Those teachers who did not
 apply the rule with enthusiasm were to be punished. More efficacious
-perhaps, given the minuscule school enrollm ent, was the proviso that
+perhaps, given the minuscule school enrollment ent, was the proviso that
 forbade priests and military and civil officials from accepting any docum ent, application, petition, or deed that did not use the official surnames. All documents using other names would be null and void.
 
 Actual practice, as one m ight expect, fell considerably short of
 Claveria's adm inistrative utopia of legible and regim ented taxpayers.
-The continued existence of such non-Spanish surnam es as Magsaysay or M acapagal suggests that part of the population was never m ustered for this exercise. Local officials subm itted incomplete returns or
+The continued existence of such non-Spanish surnam es as Magsaysay or M acapagal suggests that part of the population was never m mustered for this exercise. Local officials subm itted incomplete returns or
 none at all. And there was another serious problem, one that Claveria
 had foreseen but inadequately provided for. The new registers rarely
 recorded, as they were supposed to, the previous nam es used by the
@@ -2697,7 +2697,7 @@ clarity of full names and, increasingly, fixed addresses. While the utilitarian 
 liberal ideas of citizenship, which implied voting rights and conscription, also contributed greatly to the standardization of naming practices. The legislative imposition of perm anent surnames is particularly
 clear in the case of Western European Jews who had no tradition of last
 names. A Napoleonic decree "concernant les Juifs qui n'ont pas de nom
-de famille et de prenom s fixes," in 1808, m andated last names.59 Austrian legislation of 1787, as part of the emancipation process, required
+de famille et de prénoms s fixes," in 1808, m andated last names.59 Austrian legislation of 1787, as part of the emancipation process, required
 Jews to choose last names or, if they refused, to have fixed last names
 chosen for them. In Prussia the em ancipation of the Jews was contingent upon the adoption of surnam es.60 Many of the immigrants to the
 United States, Jews and non-Jews alike, had no perm anent surnames
@@ -2757,7 +2757,7 @@ of standard French now defined full participation in French culture.
 The implicit logic of the move was to define a hierarchy of cultures,
 relegating local languages and their regional cultures to, at best, a
 quaint provincialism. At the apex of this implicit pyramid was Paris and
-its institutions: m inistries, schools, academ ies (including the guardian of the language, l'Academie Frangaise). The relative success of this
+its institutions: m inistries, schools, academ ies (including the guardian of the language, l'Academie Française). The relative success of this
 cultural project hinged on both coercion and inducements. "It was centralization," says Alexandre Sanguinetti, "which perm itted the making
 of France despite the French, or in the midst of their indifference. . . .
 France is a deliberate political construction for whose creation the
@@ -2765,7 +2765,7 @@ central power has never ceased to fight."67 Standard (Parisian) French
 and Paris were not only focal points of power; they were also magnets.
 The growth of markets, physical mobility, new careers, political patronage, public service, and a national educational system all m eant
 that facility in French and connections to Paris were the paths of social
-advancem ent and m aterial success. It was a state simplification that
+advancement ent and m aterial success. It was a state simplification that
 promised to rew ard those who complied with its logic and to penalize
 those who ignored it.
 
@@ -2867,9 +2867,9 @@ cases of cholera in a certain district.
 These typifications are indispensable to statecraft. State simplifications such as maps, censuses, cadastral lists, and standard units of
 m easurem ent represent techniques for grasping a large and complex
 reality; in order for officials to be able to com prehend aspects of the
-ensemble, that complex reality must be reduced to schematic categories. The only way to accom plish this is to reduce an infinite array of
+ensemble, that complex reality must be reduced to schematic categories. The only way to accom accomplish this is to reduce an infinite array of
 detail to a set of categories that will facilitate sum m ary descriptions,
-comparisons, and aggregation. The invention, elaboration, and deploym ent of these abstractions represent, as Charles Tilly has shown, an
+comparisons, and aggregation. The invention, elaboration, and deployment ent of these abstractions represent, as Charles Tilly has shown, an
 enorm ous leap in state capacity— a move from tribute and indirect
 rule to taxation and direct rule. Indirect rule required only a minim al
 state apparatus but rested on local elites and comm unities who had
@@ -2902,7 +2902,7 @@ state is thereby insulated from some forms of finely tuned state interventions, 
 sonal income taxes). The interventions it does experience will typically
 be m ediated by local trackers who know the society from inside and
 who are likely to interpose their own particular interests. Without this
-m ediation— and often with it— state action is likely to be inept, greatly
+m mediation— and often with it— state action is likely to be inept, greatly
 overshooting or undershooting its objective.
 
 An illegible society, then, is a hindrance to any effective intervention by the state, whether the purpose of that intervention is plunder or
@@ -2913,7 +2913,7 @@ such ignorance can well be disabling. A thoroughly legible society eliminates lo
 transparency through the uniformity of codes, identities, statistics, regulations, and measures. At the same time it is likely to create new positional advantages for those at the apex who have the knowledge and
 access to easily decipher the new state-created format.
 
-The discrim inating interventions that a legible society makes possible can, of course, be deadly as well. A sobering instance is w ordlessly recalled by a map produced by the City Office of Statistics of Amsterdam, then under Nazi occupation, in May 1941 ().76 Along
+The discrim inating interventions that a legible society makes possible can, of course, be deadly as well. A sobering instance is w wordlessly recalled by a map produced by the City Office of Statistics of Amsterdam, then under Nazi occupation, in May 1941 ().76 Along
 with lists of residents, the map was the synoptic representation that
 guided the rounding up of the city's Jewish population, sixty-five thousand of whom were eventually deported.
 
@@ -2935,12 +2935,12 @@ K - VERSPREIDIMG VAH DE JODEr
 ^ E R D E G E M E E M T E ( memsmi
 
 13. Map produced by the City Office of Statistics of Amsterdam and entitled
-"The Distribution of Jews in the M unicipality (May 1941)"
+"The Distribution of Jews in the M municipality (May 1941)"
 
 Legibility implies a viewer whose place is central and whose vision is synoptic. State simplifications of the kind we have examined are
 designed to provide authorities with a schematic view of their society, a
 view not afforded to those without authority. Rather like U.S. highway
-patrolm en wearing m irrored sunglasses, the authorities enjoy a quasimonopolistic picture of selected aspects of the whole society. This
+patrolmen en wearing m irrored sunglasses, the authorities enjoy a quasimonopolistic picture of selected aspects of the whole society. This
 privileged vantage point is typical of all institutional settings where
 command and control of complex hum an activities is param ount. The
 monastery, the barracks, the factory floor, and the adm inistrative bureaucracy (private or public) exercise many statelike functions and
@@ -3525,7 +3525,7 @@ based on a scheme to rationalize the body.40
 W hat is most remarkable about both traditions is, once again, how
 widely they were believed by educated elites who were otherwise poles
 apart politically. "Taylorism and technocracy were the watchwords of
-a three-pronged idealism; the elimination of economic and social crisis, the expansion of productivity through science, and the reenchantm ent of technology. The vision of society in which social conflict was
+a three-pronged idealism; the elimination of economic and social crisis, the expansion of productivity through science, and the reenchantment ent of technology. The vision of society in which social conflict was
 eliminated in favor of technological and scientific imperatives could
 embrace liberal, socialist, authoritarian, and even communist and fascist solutions. Productivism, in short, was politically promiscuous."41
 The appeal of one or another form of productivism across much of
@@ -3538,7 +3538,7 @@ or "best practice," for any problem in the organization of work. The
 logical outcome was some form of slide-rule authoritarianism in the
 interest, presumably, of all.42
 
-A combination of Rathenau's broad training in philosophy and economics, his wartim e experience with planning, and the social conclusions that he thought were inherent in the precision, reach, and transforming potential of electric power allowed him to draw the broadest
+A combination of Rathenau's broad training in philosophy and economics, his wartime e experience with planning, and the social conclusions that he thought were inherent in the precision, reach, and transforming potential of electric power allowed him to draw the broadest
 lessons for social organization. In the war, private industry had given
 way to a kind of state socialism; "gigantic industrial enterprises had
 transcended their ostensibly private owners and all the laws of property."43 The decisions required had nothing to do with ideology; they
@@ -3570,7 +3570,7 @@ proletariat nor the revolutionary petty-bourgeois dem ocrats can keep
 within the limits of capitalism."46 He and his economic advisers drew
 directly on the work of Rathenau and Mollendorf in their plans for the
 Soviet economy. The German w ar economy was for Lenin "the ultimate in modern, large-scale capitalist techniques, planning and organization"; he took it to be the prototype of a socialized economy.47 Presumably, if the state in question were in the hands of representatives of
-the working class, the basis of a socialist system would exist. Lenin's vision of the future looked much like R athenau's, providing, of course,
+the working class, the basis of a socialist system would exist. Lenin's vision of the future looked much like R Rathenau's, providing, of course,
 we ignore the not so small m atter of a revolutionary seizure of power.
 Lenin was not slow to appreciate how Taylorism on the factory
 floor offered advantages for the socialist control of production. Although he had earlier denounced such techniques, calling them the
@@ -3640,7 +3640,7 @@ best grasped through the working out of its high ambitions and its consequences.
 
 An Experiment and a Critique
 
-No one, wise Kuublai, knows better than you that the city m ust never be confused with the words that describe it.
+No one, wise Kublai, knows better than you that the city m ust never be confused with the words that describe it.
 — Italo Calvino, Invisible Cities
 Time is a fatal handicap to the baroque conception of the world: its m echanical order makes no allow ances for growth, change, adaptation, and creative
 renewal. In short, a baroque plan was a block achievement. It must be laid out
@@ -3655,14 +3655,14 @@ Pierre-Charles L'Enfant's Washington in particular and at baroque
 urban planning in general.1 Greatly amplified, M umford's criticism
 could be applied to the work and thought of the Swiss-born French essayist, painter, architect, and planner Charles-Edouard Jeanneret,
 who is better known by his professional name, Le Corbusier. Jeanneret
-was the em bodim ent of high-modernist urban design. Active roughly
+was the em embodiment ent of high-modernist urban design. Active roughly
 between 1920 and 1960, he was less an architect than a visionary planner of planetary ambitions. The great majority of his gargantuan
 schemes were never built; they typically required a political resolve
 and financial wherewithal that few political authorities could muster.
-Some m onuments to his expansive genius do exist, the most notable of
+Some m monuments to his expansive genius do exist, the most notable of
 which are perhaps Chandigarh, the austere capital of India's Punjab,
 and L'Unite d'Habitation, a large apartm ent complex in Marseilles, but
-his legacy is most apparent in the logic of his unbuilt m egaprojects.
+his legacy is most apparent in the logic of his unbuilt m megaprojects.
 At one time or another he proposed city-planning schemes for Paris,
 Algiers, Sao Paulo, Rio de Janeiro, Buenos Aires, Stockholm, Geneva,
 and Barcelona.2 His early politics was a bizarre combination of Sorel's
@@ -3719,10 +3719,10 @@ scorn was, as we shall see, on functional and scientific grounds; a city
 that was to become efficient and healthful would indeed have had to
 demolish much of what it had inherited. But another source of his
 scorn was aesthetic. He was visually offended by disarray and confusion. And the disorder he wished to correct was not so much a disorder
-at ground level but a disorder that was a function of distance, a bird'seye view.7 His mixed motives are nicely captured in his judgm ent on
+at ground level but a disorder that was a function of distance, a bird's-eye view.7 His mixed motives are nicely captured in his judgm ent on
 small rural properties as seen from the air (). "From airplanes, a look down on infinitely subdivided, incongruously shaped
 plots of land. The more m odern machinery develops, the more land is
-chopped up into tiny holdings that render the m iraculous prom ise of
+chopped up into tiny holdings that render the m miraculous prom ise of
 m achinery useless. The result is waste: inefficient, individual scrabbling."8 The purely formal order was at least as im portant as the accommodation with the machine age. "Architecture," he insisted, "is the art
 above all others which achieves a state of platonic grandeur, m athem atical order, speculation, the perception of harm ony that lies in
 em otional relationships."9
@@ -3733,7 +3733,7 @@ the ideal industrial city, in which the "general truths" behind the m achine age
 unity of this ideal city required that it make as few concessions as possible to the history of existing cities. "We m ust refuse to afford even the
 slightest concession to what is: to the mess we are in now," he wrote.
 "There is no solution to be found there." Instead, his new city would
-preferably rise on a cleared site as a single, integrated urban composi-
+preferably rise on a cleared site as a single, integrated urban composition-
 
 T he H ig h-M od em ist City 107
 
@@ -3743,7 +3743,7 @@ tion. Le Corbusier's new urban order was to be a lyrical marriage between Cartes
 in the name of the steamship, the airplane, and the automobile, the
 right to health, logic, daring, harmony, perfection."10 Unlike the existing city of Paris, which to him resembled a "porcupine" and a "vision
 of Dante's Inferno," his city would be an "organized, serene, forceful,
-aiiy, ordered entity."11
+airy, ordered entity."11
 
 Geometry and Standardization
 
@@ -3813,7 +3813,7 @@ simplification. Perhaps the most decisive step, however, was Le Corbusier's life
 this doctrine was the second of fourteen principles he enunciated at
 the beginning of La ville radieuse, namely, "the death of the street.'' What
 he m eant by this was simply the complete separation of pedestrian
-traffic from vehicle traffic and, beyond that, the segregation of slowfrom fast-moving vehicles. He abhorred the mingling of pedestrians
+traffic from vehicle traffic and, beyond that, the segregation of slow from fast-moving vehicles. He abhorred the mingling of pedestrians
 and vehicles, which made walking unpleasant and impeded the circulation of traffic.
 
 The principle of functional segregation was applied across the
@@ -4108,7 +4108,7 @@ case, of the key elements of high-modernist planning— often exaggerated— tha
 
 T he H ig h-M od em ist C ity
 
-called the "total efficiency and total rationalization" of a new machineage civilization was uncom promising.49 Although he was obliged to
+called the "total efficiency and total rationalization" of a new machine age civilization was uncom promising.49 Although he was obliged to
 deal with nation-states, his vision was universal. As he put it, "city planning everywhere, universal city planning, total city planning."50 His actual plans for Algiers, Paris, and Rio were, as we have seen, on a scale
 that was virtually w ithout precedent. Le Corbusier was influenced, as
 were others of his generation, by the spectacle of total military mobilization in World War I. "Let's make our plans," he urged, "plans on a
@@ -4150,7 +4150,7 @@ who have access to the forest, so the urban planner must contend with
 
 the tastes and financial means of his patrons as well as the resistance
 of builders, workers, and residents. Even so, Brasilia is about the closest thing we have to a high-modernist city, having been built more or
-less along the lines set out by Le Corbusier and CIAM. Thanks to an excellent book by Jam es Holston, The M odernist City: An Anthropological Critique o f B rasilia,55 it is possible to analyze both the logic of the
+less along the lines set out by Le Corbusier and CIAM. Thanks to an excellent book by Jam es Holston, The M odernist City: An Anthropological Critique o f B Brasília,55 it is possible to analyze both the logic of the
 plan for Brasilia and the extent of its realization. An appreciation of
 the slippage between what Brasilia m eant for its originators on one
 hand and for its residents on the other will in turn pave the way (no
@@ -4253,7 +4253,7 @@ transformation. There are no streets in the sense of public gathering
 places; there are only roads and highways to be used exclusively by
 motorized traffic (compare figures 19 and 20).
 
-There is a square. But what a square! The vast, monum ental Plaza
+There is a square. But what a square! The vast, monumental ental Plaza
 of the Three Powers, flanked by the Esplanade of the Ministries, is of
 such a scale as to dwarf even a military parade (compare figures 21
 and 22, and figures 23 and 24). In comparison, Tiananmen Square and
@@ -4290,7 +4290,7 @@ market, Sao Salvador, 1980
 22. The Plaza of the Three Powers, with the m useum of the city and
 Planalto Palace, Brasilia, 1980
 
-23. The Praga de Se, Sao Paulo, 1984
+23. The Praça de Se, Sao Paulo, 1984
 
 24. The Plaza of the Three Powers and the Esplanade of the M inistries, Brasilia,
 
@@ -4327,7 +4327,7 @@ practices of its residents. In some im portant respects, Brasilia is to Sao
 Paulo or Rio as scientific forestry is to the unplanned forest. Both
 plans are highly legible, planned simplifications devised to create an
 efficient order that can be monitored and directed from above. Both
-plans, as we shall see, m iscarry in comparable respects. Finally, both
+plans, as we shall see, m miscarry in comparable respects. Finally, both
 plans change the city and the woods to conform to the simple grid of
 the planner.
 
@@ -4359,7 +4359,7 @@ brasilite to refer to their feelings about a daily life w ithout the pleasures�
 of outdoor life in other Brazilian cities."64 Meeting someone normally
 requires seeing them either at their apartm ent or at work. Even if we
 allow for the initial simplifying premise of Brasilia's being an administrative city, there is nonetheless a bland anonymity built into the very
-structure of the capital. The population simply lacks the small accessible spaces that they could colonize and stam p with the character of
+structure of the capital. The population simply lacks the small accessible spaces that they could colonize and stamp p with the character of
 their activity, as they have done historically in Rio and Sao Paulo. To
 be sure, the inhabitants of Brasilia haven't had m uch time to modify
 the city through their practices, but the city is designed to be fairly recalcitrant to their efforts.65
@@ -4386,7 +4386,7 @@ em bedded conceptions of home. Holston asked a class of nine-yearold children, m
 and a pitched roof.67 The superquadra blocks, by contrast, resist the
 stamp of individuality, while the glass walls on their exteriors infringe
 on the sense of private space in the home.68 Concerned with the overall aesthetic of the plan, the architects erased not only the external
-display of status distinctions but also much of the visual play of difference. Just as the general design of the city m ilitates against an autonomous public life, so the design of the residential city militates
+display of status distinctions but also much of the visual play of difference. Just as the general design of the city m militates against an autonomous public life, so the design of the residential city militates
 against individuality.
 
 The disorienting quality of Brasilia is exacerbated by architectural
@@ -4460,7 +4460,7 @@ the poor— were not merely a footnote or an accident; one could say
 that the cost of this kind of order and legibility at the center of the plan
 virtually required that it be sustained by an unplanned Brasilia at the
 margins. The two Brasilias were not just different; they were symbiotic.
-Radically transform ing an entire nation of B razil's size and diversity— let alone in only five years—was all but inconceivable. One
+Radically transform ing an entire nation of B Brazil size and diversity— let alone in only five years—was all but inconceivable. One
 senses that Kubitschek, like many rulers with great ambitions for their
 countries, despaired of a direct assault on all Brazil and all Brazilians
 and turned to the more plausible task of creating from zero a utopian
@@ -4504,7 +4504,7 @@ gathering places, Le Corbusier shifted the scale and arranged the zoning in orde
 one recent observer: "On the ground, the scale is so large and the
 width between meeting streets so great that one sees nothing but vast
 stretches of concrete paving with a few lone figures here and there.
-The small-scale street trader, the hawker or the rehris (barrows) have
+The small-scale street trader, the hawker or the rehri (barrows) have
 
 132 TRANSFORM ING VISIONS
 
@@ -4520,20 +4520,20 @@ Jane Jacobs's book The Death and Life o f Great Am erican Cities was
 w ritten in 1961 against a high tide of modernist, functional urban
 planning. Hers was by no means the first criticism of high-m odernist
 urbanism , but it was, I believe, the most carefully observed and intellectually grounded critique.76 As the most com prehensive challenge to
-contem poraiy doctrines of urban planning, it sparked a debate, the
+contem contemporary doctrines of urban planning, it sparked a debate, the
 reverberations of which are still being felt. The result, some three
 decades later, has been that many of Jacobs's views have been incorporated into the working assumptions of today's urban planners. Although what she called her "attack on current city planning and rebuilding" was concerned prim arily with American cities, she located
 Le Corbusier's doctrines, as applied abroad and at home, at the center
 of her field of fire.
 
 W hat is rem arkable and telling about Jacobs's critique is its unique
-perspective. She begins at street level, with an ethnography of m icroorder in neighborhoods, sidewalks, and intersections. W here Le Corbusier "sees" his city initially from the air, Jacobs sees her city as a
+perspective. She begins at street level, with an ethnography of m microorder in neighborhoods, sidewalks, and intersections. W here Le Corbusier "sees" his city initially from the air, Jacobs sees her city as a
 pedestrian on her daily rounds would. Jacobs was also a political activist involved in many campaigns against proposals for zoning changes,
 road building, and housing development that she thought ill-advised.77
 It was all but inconceivable that a radical critique, grounded in this
 fashion, could ever have originated from within the intellectual circle
 of urban planners.78 Her novel brand of everyday urban sociology applied to the design of cities was simply too far rem oved from the orthodox educational routines of urban planning schools at the tim e.79
-An exam ination of her critique from the m argins serves to underline
+An exam ination of her critique from the m margins serves to underline
 many of the failings of high modernism.
 
 Visual Order Versus Experienced Order
@@ -4556,7 +4556,7 @@ A fundam ental mistake that urban planners made, Jacobs claims,
 was to infer functional order from the duplication and regim entation
 of building forms: that is, from purely visual order. Most complex systems, on the contrary, do not display a surface regularity; their order
 must be sought at a deeper level. "To see complex systems of functional
-order as order, and not as chaos, takes understanding. The leaves dropping from the trees in the autum n, the interior of an airplane engine,
+order as order, and not as chaos, takes understanding. The leaves dropping from the trees in the autumn n, the interior of an airplane engine,
 the entrails of a rabbit, the city desk of a newspaper, all appear to be
 chaos if they are seen without comprehension. Once they are seen as
 systems of order, they actually look different." At this level one could
@@ -4578,7 +4578,7 @@ This error drove them to the further error of rigidly segregating func­
 
 tions. In their eyes, mixed uses of real estate— say, stores intermingled
 with apartm ents, small workshops, restaurants, and public buildings— created a kind of visual disorder and confusion. The great advantage of single uses— one shopping area, one residential area—
-was that it made possible the m onofunctional uniform ity and visual
+was that it made possible the m monofunctional uniform ity and visual
 regim entation that they sought. As a planning exercise, it was of
 course vastly easier to plan an area zoned for a single use than one
 zoned for several. Minimizing the num ber of uses and hence the num ­
@@ -4761,7 +4761,7 @@ for a certain quantity of shoppers and goods. Even the category of entertainm en
 playgrounds, athletic fields, theaters, and so on.
 
 Thus, the second result of Jacobs's having a wom an's eye is her realization that a great deal of hum an activity (including, by all means,
-work) is pursued for a wide range of goals and satisfactions. An am iable lunch with co-workers may be the most significant part of the day
+work) is pursued for a wide range of goals and satisfactions. An am amiable lunch with co-workers may be the most significant part of the day
 for a jobholder. Mothers pushing baby carriages may also be talking to
 friends, doing errands, getting a bite to eat, and looking for a book at
 the local bookstore or library. In the course of these activities, still another "purpose" m ight arise, unbidden. The m an or woman driving to
@@ -4806,7 +4806,7 @@ From time to time Jacobs stands back from the infinite and changing variety of A
 num bers of people to make and carry out countless plans— is in many
 ways a great wonder. We ought not to be reluctant to make this living
 collection of interdependent uses, this freedom, this life, more understandable for w hat it is, nor so unaw are that we do not know what
-it is."99 The m agisterial assum ption behind the doctrines of many
+it is."99 The m magisterial assum ption behind the doctrines of many
 urban planners— that they know w hat people w ant and how people
 should spend their tim e— seems to Jacobs shortsighted and arrogant.
 They assumed, or at least their plans assumed, that people preferred
@@ -4844,7 +4844,7 @@ satisfies the simplifications required by the formula. The logic of planning for
 feet of commercial space, parceled out among such categories as food
 and clothing, they realized that they would then have to make these
 shopping centers monopolistic within their areas, lest nearby competitors draw away their clientele. The whole point was to legislate the formula, thereby guaranteeing the shopping center a monopoly of its
-catchm ent area.100 Rigid, single-use zoning is, then, not just an aesthetic measure. It is an indispensable aid to scientific planning, and it
+catchment ent area.100 Rigid, single-use zoning is, then, not just an aesthetic measure. It is an indispensable aid to scientific planning, and it
 can also be used to transform formulas posing as observations into
 self-fulfilling prophesies.
 
@@ -4927,7 +4927,7 @@ evolves. A language is the joint historical creation of millions of speakers. Al
 weigh in heavily. But the process is not particularly amenable to a dictatorship, either. Despite the efforts toward "central planning," language
 (especially its everyday spoken form) stubbornly tends to go on its own
 rich, multivalent, colorful way. Similarly, despite the attempts by urban
-planners toward designing and stablizing the city, it escapes their grasp;
+planners toward designing and stabilizing the city, it escapes their grasp;
 it is always being reinvented and inflected by its inhabitants.106 For both
 a large city and a rich language, this openness, plasticity, and diversity
 allow them to serve an endless variety of purposes— many of which
@@ -4955,7 +4955,7 @@ the interaction between its inhabitants and w hat that produces.
 Jacobs has a kind of informed respect for the novel forms of social
 order that emerge in many city neighborhoods. This respect is reflected in her attention to the m undane but meaningful hum an connections in a functioning neighborhood. While recognizing that no
 urban neighborhood can ever be, or should be, static, she stresses the
-minim al degree of continuity, social networks, and "street-term s" acquaintanceship required to knit together an urban locality. "If selfgovernm ent in the place is to work," she muses, "underlying any float
+minim al degree of continuity, social networks, and "street-term s" acquaintanceship required to knit together an urban locality. "If selfgovernment ent in the place is to work," she muses, "underlying any float
 of population must be a continuity of people who have forged neighborhood networks. These networks are a city's irreplaceable social
 capital. Whenever the capital is lost, from whatever cause, the [social]
 income from it disappears, never to return until and unless new capital is slowly and chancily accumulated."107 It follows from this vantage
@@ -5146,7 +5146,7 @@ struggle," the "ability to renounce an open fight against overwhelming
 and concentrated forces, and yet capable of taking advantage of the
 awkwardness and immobility of the enemy and of attacking at a time
 and a place where he least expects attack."8 The earlier failures of social
-dem ocrat revolutionaries could, he insisted, be attributed precisely to
+dem democrat revolutionaries could, he insisted, be attributed precisely to
 the absence of organization, planning, and coordination that a general
 staff could provide. These "young warriors," who had "m arched to battle with astonishingly primitive equipment and training," were "like
 peasants from the plough, snatching up a club." Their "immediate and
@@ -5222,7 +5222,7 @@ they are doing.
 The analogy to the division of labor in modern capitalist production
 has im plications roughly parallel to those of the military metaphor.
 Both, for example, require authoritarian methods and central control.
-Thus Lenin wrote of the party's need "to distribute the thousand-andone m inute functions of their organizational work," com plained of
+Thus Lenin wrote of the party's need "to distribute the thousand-one m inute functions of their organizational work," com plained of
 "technical defects," and called for the unification of "all these tiny fractions into one whole." As he concluded, "specialization necessarily presupposes centralization, and in its turn imperatively calls for it."15
 
 It is surely a great paradox of What Is to Be Done? that Lenin takes
@@ -5299,7 +5299,7 @@ If professional revolutionists are to be effective leaders, they require
 the kind of detailed understanding and knowledge of the workers that
 successful teachers need of their students, military officers need of
 their troops, or production m anagers need of their workforce. It is
-knowledge for the purpose of achieving goals set by an elite. The relationship depicted is so asymmetrical that one is even tem pted to compare it to the relation that a craftsman has to his raw material. A woodw orker or a mason must know his inert m aterials well in order to
+knowledge for the purpose of achieving goals set by an elite. The relationship depicted is so asymmetrical that one is even tem pted to compare it to the relation that a craftsman has to his raw material. A woodworker orker or a mason must know his inert m aterials well in order to
 realize his designs. In Lenin's case, the relative inertness of the m aterial being shaped is implied by the global imagery of "the m asses" or
 "the proletariat." Once these flattened terms are used, it becomes difficult to examine the enormous differences in history, political experience, organizational skills, and ideology (not to mention religion, ethnicity, and language) that exist within the working class.
 
@@ -5333,7 +5333,7 @@ party.
 It is perhaps for these reasons that when Lenin wrote of propaganda and agitation, it was a one-way transmission of information and
 ideas that he had in mind. His unrelenting emphasis on a party newspaper fit nicely into this context. A newspaper, even more than "agitation" before heckling or sullen crowds, creates a decidedly one-sided
 relationship.20 The organ is a splendid way to diffuse instructions, explain the party line, and rally the troops. Like its successor, the radio,
-the newspaper is a m edium better suited to sending messages than to
+the newspaper is a m medium better suited to sending messages than to
 receiving them.
 
 On many occasions, Lenin and his colleagues took the threat of
@@ -5344,7 +5344,7 @@ environment that was as sterile and germ-free as possible lest the party
 contract one of the many diseases lurking outside.22
 
 Lenin's general treatment of the working class in What Is to Be Done?
-is strongly rem iniscent of Marx's famous depiction of the smallholding
+is strongly rem reminiscent of Marx's famous depiction of the smallholding
 French peasantry as a "sack of potatoes"—just so many "homologous"
 units lacking any overall structure or cohesion. This premise shapes in
 turn the role of the vanguard party. The trick is to change a formless,
@@ -5642,7 +5642,7 @@ logic — Lenin indicates how remorseless the system will be: "Escape
 from this national accounting will inevitably become increasingly
 difficult . . . and will probably be accom panied by such swift and severe punishm ent (for the arm ed workers are men of practical life, not
 sentim ental intellectuals and they will scarcely allow anyone to trifle
-with them), that very soon the necessity of observing the simple, fundam ental rules of social life in common will have become a fiafiif.''47
+with them), that very soon the necessity of observing the simple, fundam ental rules of social life in common will have become a fiasco.''47
 
 Except for the fact that Lenin's utopia is more egalitarian and is set
 in the context of the dictatorship of the proletariat, the parallels with
@@ -5695,7 +5695,7 @@ idea of common property prevented the full developm ent of capitalism, which, in
 The Revolutionary Party 165
 
 ancient, conservative, barbarous, ignorant, and pauper methods of
-economy on peasant allotments be transform ed. The three-field system, the primitive implements, the patriarchical impecuniosity of the
+economy on peasant allotments be transform ed. The three-field system, the primitive implements, the patriarchal impecuniosity of the
 tiller, the routine methods of stock breeding and crass naive ignorance
 of the conditions and requirem ents of the m arket m ust all be thrown
 overboard."51
@@ -5724,14 +5724,14 @@ of overwork and underconsumption. Although such patterns of "autoexploitation" w
 and small farming had to be an incidental anachronism. We have since
 learned how efficient and tenacious small-scale production can be, but
 Lenin was in no doubt about what the future held. "This inquiry dem ­
-onstrates the technical superiority of large-scale production in agriculture . . . [and] the overwork and underconsum ption of the small
+onstrates the technical superiority of large-scale production in agriculture . . . [and] the overwork and underconsumption ption of the small
 peasant and his transform ation iritixa regular or day-labourer for the
 
 166 TRANSFORM ING V ISIO N S
 
 landlord. . . . The facts prove incontestably that under the capitalist
 system the position of the small peasant in agriculture is in every way
-analogous to that of the handicraftsm an in industry."54
+analogous to that of the handicraftsman an in industry."54
 
 The Agrarian Question also allows us to appreciate an additional
 facet of Lenin's high modernism: his celebration of the m ost m odern
@@ -5758,7 +5758,7 @@ that basis.''57
 Much of the attraction of electricity for Lenin had to do with its perfection, its m athem atical precision. Man's work and even the work of
 the steam-driven plow or threshing machine were imperfect; the operation of an electric machine, in contrast, seemed certain, precise, and
 continuous. Electricity was also, it should be added, centralizing.58 It
-produced a visible network of transm ission lines em anating from a
+produced a visible network of transm ission lines em emanating from a
 central power station from which the flow of power was generated,
 distributed, and controlled. The nature of electricity suited Lenin's
 utopian, centralizing vision perfectly. A m ap of electric lines from the
@@ -5780,7 +5780,7 @@ technicians, and engineers would replace am ateurs as leaders. Centralized autho
 degree of order provided by routines and the substitutability of units,
 and the extent of m echanization were all yardsticks of superior efficiency and rationality. In the case of farms and factories, the larger
 and more capital intensive they were, the better. One can already
-glimpse in Lenin's conception of agriculture the m ania for machinetractor stations, the establishm ent of large state farms and eventual
+glimpse in Lenin's conception of agriculture the m ania for machine-tractor stations, the establishm ent of large state farms and eventual
 collectivization (after Lenin's death), and even the high-modernist
 spirit that would lead to such vast colonization schemes as Khrushchev's Virgin Lands initiative. At the same time, Lenin's views have a
 strong Russian lineage. They bear a family resemblance to Peter the
@@ -5853,7 +5853,7 @@ whole situation (the "totality"), whereas most workers were more likely
 to see only their local situation and their particular interests. Neither
 Lenin nor Luxemburg had what might be called a sociology of the
 party. That is, it did not occur to them that the intelligentsia of the
-party m ight have interests that did not coincide with the workers' interests, however defined. They were quick to see a sociology of tradeunion bureaucracies but not a sociology of the revolutionary Marxist
+party m ight have interests that did not coincide with the workers' interests, however defined. They were quick to see a sociology of trade union bureaucracies but not a sociology of the revolutionary Marxist
 party.
 
 Luxemburg, in fact, was not above using the m etaphor of the factory manager, as did Lenin, to explain why the worker might be wise to
@@ -5930,11 +5930,11 @@ that the cost of centralized hierarchy lay in the loss of creativity and
 initiative from below: "The 'discipline' Lenin has in mind is by no
 means only im planted in the proletariat by the factory, but equally by
 the barracks, by the m odern bureaucracy, by the entire mechanism of
-the centralized bourgeois state apparatus. . . . The ultracentrism advocated by Lenin is perm eated in its very essence by the sterile spirit of a
+the centralized bourgeois state apparatus. . . . The ultracentrism advocated by Lenin is perm permeated in its very essence by the sterile spirit of a
 nightwatchm an (Nachtwachtergeist) rather than by a positive and creative spirit. He concentrated mostly on controlling the party, not on fertilizing it, on narrowing it down, not developing it, on regimenting and
 not unifying it."69
 
-The core of the disagreem ent between Lenin and Luxemburg is
+The core of the disagreement ent between Lenin and Luxemburg is
 caught best in the figures of speech they each use. Lenin comes across
 as a rigid schoolmaster with quite definite lessons to convey— a schoolm aster who senses the unruliness of his pupils and wants desperately
 to keep them in line for their own good. Luxemburg sees that unruliness as well, but she takes it for a sign of vitality, a potentially valuable
@@ -6001,7 +6001,7 @@ of interventions that could be made. The physician needed to respect
 the patient's constitution and assist according to its potential strengths
 and weaknesses. Finally, the autonomy and history of the patient
 would inevitably influence the outcome. The proletariat could not be
-reshaped from the ground up and fitted neatly into a predeterm ined
+reshaped from the ground up and fitted neatly into a predetermined ined
 design.
 
 But the major, recurrent theme of Luxemburg's criticism of Lenin
@@ -6063,7 +6063,7 @@ the press and assembly, without a free struggle of opinion, life dies out
 in every public institution. . . . Public life gradually falls asleep. . . . In
 reality only a dozen outstanding heads [party leaders] do the leading
 and an elite of the working class is invited to applaud the speeches of
-the leaders, and to approve proposed resolutions unanim ously— at
+the leaders, and to approve proposed resolutions unanimously ously— at
 bottom then, a clique affair,... a dictatorship in the bourgeois sense."80
 
 The Revolutionary Party 175
@@ -6236,7 +6236,7 @@ units in question might be citizens, villages, trees, fields, houses, or people 
 W hatever the units being manipulated, they m ust be organized in a
 m anner that permits them to be identified, observed, recorded, counted,
 aggregated, and monitored. The degree of knowledge required would
-have to be roughly com m ensurate with the depth of the intervention.
+have to be roughly com m commensurate with the depth of the intervention.
 In other words, one might say that the greater the manipulation envisaged, the greater the legibility required to effect it.
 
 It was precisely this phenomenon, which had reached full tide by
@@ -6314,7 +6314,7 @@ power than its physical extent.
 The precolonial state was thus vitally interested in the sedentarization of its population— in the creation of permanent, fixed settlements.
 The greater the concentration of people, providing that they produced
 an economic surplus, the greater the ease of appropriating grain,
-labor, and military service. At the crudest level, this determ inist geographical logic is nothing more than an application of standard theories of location. As Johann Heinrich von Thiinen, Walter Christaller,
+labor, and military service. At the crudest level, this determ determinist geographical logic is nothing more than an application of standard theories of location. As Johann Heinrich von Thünen, Walter Christaller,
 and G. William Skinner have amply demonstrated, the economics of
 movement, other things being equal, tend to produce recurring geographical patterns of m arket location, crop specialization, and adm inistrative structure.4 The political appropriation of labor and grain
 tends to obey much the same locational logic, favoring population concentration rather than dispersion and reflecting a logic of appropriation based on transportation costs.5 In this context, much of the classical literature on statecraft is preoccupied with the techniques of
@@ -6354,7 +6354,7 @@ by building irrigation works, capturing subjects in wars, forcing settlement, co
 easily transportable, storable grain and tribute and providing a surplus
 of manpower for security, war, and public works.
 
-Edm und Leach's perceptive effort to understand the frontiers of
+Edm und Leach perceptive effort to understand the frontiers of
 Burm a implicitly followed this logic in its reconstruction of the traditional Burmese polity. He suggested that we look at the precolonial
 Burmese state not as a physically contiguous territory, as we would in
 the context of modern states, but as a complex patchwork that followed an entirely different logic. We should picture the kingdom, he
@@ -6385,7 +6385,7 @@ without saying, have served as refuges for fleeing peasants, rebels, bandits, an
 Of course, the ecology of different elevations is only one among
 many factors that might characterize nonstate spaces. They also appear to share one or more of the following distinctive features: they are
 relatively im penetrable (wild, trackless, labyrinthine, inhospitable);
-their population is dispersed or migratory; and they are unprom ising
+their population is dispersed or migratory; and they are unpromising ising
 sites for surplus appropriation.11 Thus marshes and swamps (one thinks
 of the now beleaguered Marsh Arabs on the Iraqi-Iranian border),
 ever-shifting deltas and estuaries, mountains, deserts (favored by nomadic Berbers and Bedouins), and the sea (home to the so-called sea
@@ -6407,7 +6407,7 @@ who at the same time practice shifting cultivation, who live in con­
 stantly changing kinship units, who are widely dispersed over a demanding terrain, and who are, in Indonesian eyes, pagans, the Meratus are a tough case for development. Indonesian officials have tried,
 in their desultory fashion, to concentrate the M eratus in planned villages near the main roads. The implicit goal was to create a fixed, concentrated population that officials in charge of the m anagem ent of isolated populations could see and instruct when touring the district.13
 M eratus immobility was the precondition of state supervision and development, whereas much of the identity of the M eratus as a people
-depended on "unham pered mobility."14
+depended on "unhampered pered mobility."14
 
 The inaccessibility of the M eratus was, in state-development parlance and in the eyes of government officials, an index of their lamentable backwardness. They were described by their would-be civilizers
 as "not yet arranged" or "not yet ordered" (belum di-ator), as "not yet
@@ -6424,7 +6424,7 @@ It is in the context of actual rebellion where the effort to create and
 sharply distinguish state spaces from nonstate spaces is carried to its
 logical conclusion. The nature of military threat requires clearly defined
 and easily monitored and patrolled state spaces, such as forts, forced
-settlements, or internm ent camps. Modern examples of this can be
+settlements, or internment ent camps. Modern examples of this can be
 found in the so-called new villages in Malaya during the Emergency
 following World War II, which were designed particularly to sequester
 a Chinese smallholder and rubber-tapping population and prevent it
@@ -6618,7 +6618,7 @@ A transform ation of the physical world was not, however, the only
 item on the Bolshevik agenda. It was a cultural revolution that they
 sought, the creation of a new person. Members of the secular intelligentsia were the most devoted partisans of this aspect of the revolution. Campaigns to promote atheism and to suppress Christian rituals
 were pressed in the villages. New "revolutionary" funeral and m arriage ceremonies were invented amidst m uch fanfare, and a ritual of
-"Octobering" was encouraged as an alternative to baptism.6 Cremation
+"October" was encouraged as an alternative to baptism.6 Cremation
 — rational, clean, econom ical— was promoted. Along with this secularization came enorm ous and widely popular campaigns to prom ote
 education and literacy. Architects and social planners invented new
 com munal living arrangem ents designed to supersede the bourgeois
@@ -6751,12 +6751,12 @@ of foreclosure), and marketing muscle. W hat they gave away in agility
 and quality labor they often made up for in their considerable political
 and economic clout.
 
-Many large industrial farms managed along scientific lines were established in the 1920s and 1930s.22 Some of them were the stepchil­
+Many large industrial farms managed along scientific lines were established in the 1920s and 1930s.22 Some of them were the stepchildren­
 
 Soviet Collectivization 199
 
 dren of depression foreclosures that left banks and insurance com panies holding many farms they could not sell. Such "chain farms," consisting of as many as six hundred farmsteads organized into one integrated operation (one farm to farrow pigs, say, and another to feed
-them out, along the lines of contemporary "contract farming" for poultry), were quite common, and buying into them was a speculative investm ent.23 They proved no more competitive to the family farm than
+them out, along the lines of contemporary "contract farming" for poultry), were quite common, and buying into them was a speculative investment ent.23 They proved no more competitive to the family farm than
 did Campbell's corporation. In fact, they were so highly capitalized that
 they were vulnerable to unfavorable credit m arkets and lower farm
 gate prices, given their high fixed costs in payroll and interest. The
@@ -6877,7 +6877,7 @@ twenty-five thousand battle-tested, urban Communists and proletarians with full 
 the Soviet state. In reply to a personal letter from Mikhail Sholokhov
 (author of And Quiet Flows the D on) alerting him to the fact that peasants along the Don were on the verge of starvation, Stalin replied, "The
 esteemed grain growers of your district (and not only of your district
-alone) carried on an 'Italian strike' (ital'ianka), sabotage!, and were
+alone) carried on an 'Italian strike' (italyanka), sabotage!, and were
 not loathe to leave the workers and the Red Army without bread. That
 the sabotage was quiet and outwardly harm less (without bloodshed)
 does not change the fact that the esteemed grain growers waged what
@@ -6966,7 +6966,7 @@ about the Bolshevik state. Until 1930, the continuities between the
 rural policy of the Leninist state and its czarist predecessor are more
 striking than their differences. There is the same belief in reform from
 above and in large, modern, mechanized farms as the key to productive agriculture. There is also, alas, the same high level of ignorance
-about a very complex rural economy coupled, disastrously, with heavyhanded raids on the countryside to seize grain by force. Although the
+about a very complex rural economy coupled, disastrously, with heavy-handed raids on the countryside to seize grain by force. Although the
 continuities persisted even after the institutional revolution of 1930,
 w hat is new about the all-out drive to collectivize is the revolutionary
 state's willingness to completely remake the institutional landscape of
@@ -7078,7 +7078,7 @@ order to appear as poor and untaxable as possible.46 As a result of such
 deception in the census of 1917, the arable land in Russia had been underestim ated by about 15 percent. Now, in addition to the woodland,
 pastures, and open land that the peasantry had earlier converted into
 cropland w ithout reporting it, they had an interest in hiding m uch of
-the land they had just seized from the landlords and the gentry. Village committees did, of course, keep records for allocating allotm ent
+the land they had just seized from the landlords and the gentry. Village committees did, of course, keep records for allocating allotment ent
 land, organizing communal plow teams, fixing grazing schedules, and
 so on, but none of these records was made available either to officials
 or to the kombedy. A popular saying of the period captures the situation nicely: the peasant "owned by decree" (that is, the Land Decree)
@@ -7114,7 +7114,7 @@ Unable to remake the rural landscape, the Bolsheviks turned to the
 same m ethods of forced tribute under m artial law that had been used
 by their czarist predecessors during the war. The term "martial law,"
 however, conveys an orderliness that was absent from actual practice.
-Armed bands (otriady)— some authorized and others form ed spontaneously by hungry townsm en—plundered the countryside during the
+Armed bands (otriady)— some authorized and others form ed spontaneously by hungry townsmen en—plundered the countryside during the
 grain crisis of spring and summer 1918, securing whatever they could.
 Insofar as grain procurem ent quotas were set at all, they were "purely
 mechanical accounting figures originating from an unreliable estimate
@@ -7221,14 +7221,14 @@ about scale and mechanization, a specialist could devise a plan with
 little reference to local knowledge and conditions. A visiting agricultural official wrote back to Moscow from the Urals in March 1930 to
 complain that, "on the instruction of the Raion Executive Committee,
 twelve agronomists have been sitting for twenty days composing an
-operational-production plan for the non-existent raion commune without ever leaving their offices or going out into the field."60 When another bureaucratic monstrosity in Velikie Lukie in the west proved unwieldy, the planners simply reduced the scale without sacrificing
+operational-production plan for the non-existent raion commune without ever leaving their offices or going out into the field."60 When another bureaucratic monstrosity in Velikie Luki in the west proved unwieldy, the planners simply reduced the scale without sacrificing
 abstraction. They divided the 80,000-hectare scheme into thirty-two
 equal squares of 2,500 hectares each, with one square constituting a
 kolkhoz. "The squares were drawn on a map without any reference to
 actual villages, settlements, rivers, hills, swamps or other demographic
 and topological characteristics of the land."61
 
-Semiotically, we cannot understand this m odernist vision of agriculture as an isolated ideological fragment. It is always seen as the
+Semiotics, we cannot understand this m odernist vision of agriculture as an isolated ideological fragment. It is always seen as the
 negation of the existing rural world. A kolkhoz is m eant to replace a
 m ir or village, machines to replace horse-drawn plows and hand labor,
 proletarian workers to replace peasants, scientific agriculture to replace folk tradition and superstition, education to replace ignorance
@@ -7406,7 +7406,7 @@ conditions. Finally, the Leninist political structure of the Soviet Union
 gave agriculture officials little or no incentive to adapt to, or negotiate
 with, its rural subjects. The very capacity of the state to essentially reenserf rural producers, dismantle their institutions, and impose its will,
 in the crude sense of appropriation, goes a long way toward explaining
-the state's failure to realize anything but a sim ulacrum of the highmodernist agriculture that Lenin so prized.
+the state's failure to realize anything but a sim simulacrum of the highmodernist agriculture that Lenin so prized.
 
 State Landscapes of Control and Appropriation
 Drawing on the history of Soviet collectivization, I shall now venture a
@@ -7588,7 +7588,7 @@ the monopoly rent of the state.
 The Limits of Authoritarian High Modernism
 W hen are high-modernist arrangem ents likely to work and when are
 they likely to fail? The abject perform ance of Soviet agriculture as an
-efficient producer of foodstuffs was, in retrospect, "overdeterm ined"
+efficient producer of foodstuffs was, in retrospect, "overdetermined ined"
 
 Soviet Collectivization 221
 
@@ -7710,7 +7710,7 @@ Villagization in Tanzania 225
 sign or representation of order. As Jacobs suggested, they may substitute an apparent visual order for the real thing. The fact that they look
 right becomes more im portant than whether they work; or, better put,
 the assumption is that if the arrangem ent looks right, it will also, ipso
-facto, function well. The im portance of such representations is m anifested in a tendency to miniaturize, to create such microenvironments
+facto, function well. The im portance of such representations is m manifested in a tendency to miniaturize, to create such microenvironments
 of apparent order as model villages, demonstration projects, new capitals, and so on.
 
 Finally, like Soviet collectives, ujam aa villages were economic and
@@ -7735,7 +7735,7 @@ crops, private-sector plantations, and the encouragement of white settlers were 
 especially after it, the British in East Africa turned to planning largescale development projects and mobilizing the required labor. A straw
 in the wind was the conscription of nearly thirty thousand laborers
 for work on plantations (particularly sisal plantations) during the war.
-Postwar schemes, although they often had prew ar precedents, were
+Postwar schemes, although they often had prewar ar precedents, were
 far more ambitious: a gigantic groundnut (peanut) scheme; various
 rice, tobacco, cotton, and cattle schemes; and, above all, elaborate soilconservation plans mandating a strict regimen of practices. Resettlement and mechanization were integral parts of many schemes.5 The
 vast majority of these projects were neither popular nor successful. In
@@ -7743,7 +7743,7 @@ fact, one of the standard explanations for the successes of t a n u in the
 
 226 RURAL SETTLEM ENT AND PRODUCTION
 
-countryside was precisely the widespread popular resentm ent against
+countryside was precisely the widespread popular resentment ent against
 colonial agricultural policy—particularly forced conservation m easures and such livestock regulations as destocking and cattle dipping.6
 The most searching account of the logic underlying these schemes
 of "welfare colonialism" is William Beinert's study of neighboring Malawi (then Nyasaland).7 Although the ecology is different in Malawi, the
@@ -7756,7 +7756,7 @@ The point of departure for colonial policy was a complete faith in
 what officials took for "scientific agriculture" on one hand and a nearly
 total skepticism about the actual agricultural practices of Africans on
 the other. As a provincial agricultural officer in the Shire (Tchiri) Valley put it, "The African has neither the training, skill, nor equipment to
-diagnose his soil erosion troubles nor can he plan the rem edial m easures, which are based on scientific knowledge, and this is where I think
+diagnose his soil erosion troubles nor can he plan the rem remedial m easures, which are based on scientific knowledge, and this is where I think
 we rightly come in."8 Although the officer's sentim ent was no doubt
 perfectly sincere, one cannot fail to note how it justified, at the same
 time, the im portance and authority of agricultural experts over mere
@@ -7814,7 +7814,7 @@ dry out quickly during the dry season, encouraging white ants to attack
 the roots of crops. Would-be settlers hated the regimentation of the governm ent schemes; a "model settlement with communal farming" drew
 no voluntary migrants and had to be converted into a government maize
 farm using wage labor. The prohibitions on farming the settlement's rich
-m arshland (dim ba) deterred volunteers. Later, officials conceded that
+m marshland (dim ba) deterred volunteers. Later, officials conceded that
 they, and not the peasants, had been mistaken in this respect.
 
 228 RURAL SETTLEM ENT AND PRODUCTION
@@ -8007,7 +8007,7 @@ arrest. Dodoma was a preview of what was to come.
 Lest there be any doubt that villagization m eant central control and
 not simply village form ation and communal farming, the sorry fate of
 the Ruvuma Development Association ( r d a ) settled the matter.31 The
-r d a was an um brella organization representing fifteen communal villages scattered over one hundred miles in the Songea, a remote and
+r d a was an um umbrella organization representing fifteen communal villages scattered over one hundred miles in the Songea, a remote and
 poor district in the southwestern part of the country. Unlike most ujam aa villages, these were the spontaneous creation of young local militants in t a n u . They began in 1960, long before Nyerere's policy declaration of 1967, with each village inventing its own forms of communal
 enterprise. Early on, Nyerere singled out one of the villages, Litowa,
 heralding it as a place where he could send people to see rural socialism in action.32 Its school, milling cooperative, and marketing association were the envy of neighboring villages. Given the high level of patronage and financial backing the villagers attracted, it is hard to tell
@@ -8074,7 +8074,7 @@ settled villages with cooperative production would move the Tanzanian
 population toward that ideal.
 
 Rural Tanzanians were understandably reluctant to move into new
-communities planned by the state. Their past experience, whether before independence or after, w arranted their skepticism. As cultivators
+communities planned by the state. Their past experience, whether before independence or after, w warranted their skepticism. As cultivators
 and pastoralists, they had developed patterns of settlement and, in
 many cases, patterns of periodic movements that were finely tuned
 adaptations to an often stingy environment which they knew exceptionally well. The state-mandated movement threatened to destroy the
@@ -8162,7 +8162,7 @@ on the other hand, dem onstrate how the goal of extending the state's
 control over the peasantry often trum ped the state's other goal of raising agricultural production. As Stalin had learned, a captured peasantry was not necessarily a productive peasantry.
 
 The visual aesthetics of how a proper new village should look combined elements of administrative regularity, tidiness, and legibility
-linked to an overall Cartesian order. This was the m odern adm inistra­
+linked to an overall Cartesian order. This was the m odern adm administrative­
 
 238 RURAL SETTLEM ENT AND PRODUCTION
 
@@ -8314,7 +8314,7 @@ Tanzania have to face."69
 
 Nyerere entirely agreed with the majority of the extension officials,
 who believed that their job was to "overcome [the farmers'] apathy and
-attachm ent to outmoded practices."70 He and the World Bank saw eyeto-eye in having the first plan provide for sixty new settlement schemes
+attachment ent to outmoded practices."70 He and the World Bank saw eye-eye in having the first plan provide for sixty new settlement schemes
 in which farm ers who followed the rules would receive land. There is
 no mistaking this picture of a willfully ignorant and less than diligent
 class of cultivators in Nyerere's first broadcast as prim e m inister in
@@ -8338,7 +8338,7 @@ The order of the fields was replicated in the order of the plants
 within the fields. Tanzanian farmers often planted two or more crops
 together in the same field (a technique variously called polycropping,
 intercropping, or relay cropping). In the coffee-growing areas, for example, coffee was often interplanted with bananas, beans, and other
-annuals. For most agronomists, this practice was anathem a. As one
+annuals. For most agronomists, this practice was anathema a. As one
 dissenting specialist explained, "The agricultural extension service has
 been encouraging farmers to plant pure-stand coffee and considering
 this practice the sine qua non of modern farming."75 If the crop were bananas, the banana trees must also be in pure stands. Agricultural field
@@ -8382,7 +8382,7 @@ The first tendency was most readily apparent in the displacem ent
 of goals tow ard strictly quantitative criteria of perform ance. What
 m ight be called a "substantive ujam aa village," whose residents had
 freely consented to move, had agreed on how to manage a communal
-plot, and were productive farm ers m anaging their own local affairs
+plot, and were productive farm ers m managing their own local affairs
 (Nyerere's initial vision), was replaced by a "notional ujam aa village,"
 an integer that could be added to an avalanche of statistics. Thus
 party cadres and civil servants, in showing how m uch they had accomplished, emphasized the num bers of people moved, new villages created, house lots and com m unal fields surveyed, wells drilled, areas
@@ -8393,7 +8393,7 @@ dumped at a site m arked off with a few surveyors' stakes; it still
 counted as one ujam aa village to the officials' credit. In addition, a
 pettifogging aesthetics might prevail over substance. The desire to
 have all the houses in a planned village perfectly aligned, which was
-presum ably linked to easy surveying and the desire to please the inspecting officials, might require that a house be dism antled in order to
+presum ably linked to easy surveying and the desire to please the inspecting officials, might require that a house be dism dismantled in order to
 move it a scant fifty feet to the surveyor's line.77
 
 The "productivity of the political apparatus" was judged by num erical results that perm itted aggregation and, perhaps more important,
@@ -8426,7 +8426,7 @@ communities. Now there are about 13,065,000 people living together in
 of ta n u and Government leaders in cooperation with the people of Tanzania. It means that something like 70% of our people have moved
 their homes in the space of about three years.81
 The second, and surely most ominous, deflection of the ujam aa
-cam paign brought off by state authorities was to see that its im plementation systematically served to underwrite their status and power.
+cam paign brought off by state authorities was to see that its im implementation systematically served to underwrite their status and power.
 As Andrew Coulson has perceptively noted, in the actual process of
 creating new villages, the adm inistrators and party officials (them ­
 selves competitors) effectively evaded all those policies that would
@@ -8459,7 +8459,7 @@ so much hubris and so little inform ation and planning to the dislocation of so 
 irrational scheme which was bound to fail both the expectations of its
 planners and the m aterial and social needs of its hapless victims.
 
-The inhum anities of compulsory villagization were magnified by
+The inhumanities anities of compulsory villagization were magnified by
 the deeply ingrained authoritarian habits of the bureaucracy and by
 the pell-mell rush of the campaign. To concentrate on such adm inistrative and political shortcomings, however, is to miss the point. Even if
 the campaign had been granted more time, more technical skill, and a
@@ -8479,7 +8479,7 @@ Peasants were forcibly moved from annually flooded lands that were
 vital to their cropping regime and shifted to poor soils on high ground.
 They were, as we have seen, moved to all-weather roads where the soil
 was unfam iliar or unsuitable for the crops envisaged. Village living
-placed cultivators far from their fields, thus thw arting the crop watching and pest control that more dispersed hom esteads m ade possible.
+placed cultivators far from their fields, thus thw thwarting the crop watching and pest control that more dispersed hom esteads m ade possible.
 The concentration of livestock and people often had the unfortunate
 consequence of encouraging cholera and livestock epidemics. For the
 
@@ -8522,7 +8522,7 @@ Amharic-speaking peoples and, more generally, to bring fractious
 provinces under central control.
 
 Although the Marxist revolutionary elite that seized power in early
-1974 resorted to forced settlement at an early stage, its leader, Lieutenant Colonel Mengistu Haile M ariam and the Dergue—the shadowy
+1974 resorted to forced settlement at an early stage, its leader, Lieutenant Colonel Mengistu Haile M Mariam and the Dergue—the shadowy
 ruling body of the revolutionary regim e— did not call for full-scale villagization until 1985. The policy anticipated the eventual resettlement
 of all 33 million rural Ethiopians. Echoing Nyerere, Mengistu declared,
 "The scattered and haphazard habitation and livelihood of Ethiopian
@@ -8542,7 +8542,7 @@ nomad society."93
 The pace of resettlement, however, was far more brutal in Ethiopia,
 inadvertently helping to lay the groundwork for the subsequent rebellions that brought down the regime. By M arch 1986, a scant year into
 the operation, the regime claimed that 4.6 million peasants had been
-settled in 4,500 villages.94 Only three m onths were allotted between
+settled in 4,500 villages.94 Only three m months were allotted between
 the first "agitation and propaganda" (read, "com mand") and the move
 itself— often over huge distances. All accounts suggest that many of
 the new settlements received almost nothing in the way of services and
@@ -8558,7 +8558,7 @@ m arked by pegs and sod cuts, have followed the geom etric grid pattern required
 rigidly laid out; for example, one farm er had to move his large, wellconstructed tukul [traditional thatched house] some 20 feet so that it
 would be 'in line' with all the other buildings in its row."95
 
-The close alignm ent between theory and practice can be seen by
+The close alignment ent between theory and practice can be seen by
 com paring the layout of a government plan for an ideal village with
 an aerial photograph of a new village (figures 32 and 33). Notice the
 central location of all key government functions. A standardizing,
@@ -8630,7 +8630,7 @@ these skills were of little or no avail. Only in such circum stances was
 
 252 RURAL SETTLEM ENT AND PRODUCTION
 
-it possible for camp officials to reduce m igrants to m endicants whose
+it possible for camp officials to reduce m igrants to m mendicants whose
 obedience and labor could be exacted for subsistence rations.
 
 Although the drought that coincided with forced migration in Ethiopia was real enough, much of the famine to which international aid
@@ -8644,7 +8644,7 @@ their immediate family and forbidden to leave, the settlers in the camps
 were far more vulnerable to starvation than they had been in their
 home regions.
 
-The im m anent logic, never achieved, of the Dergue's rural policy is
+The im m anent logic, never achieved, of the Dergue rural policy is
 telling. If implemented successfully, rural Ethiopians would have been
 permanently settled along the m ain roads in large, legible villages,
 where uniform, numbered houses would have been set in a grid centered on the headquarters of the peasant association (that is, the party),
@@ -8659,7 +8659,7 @@ Conclusion
 
 In quiet and untroubled times, it seem s to every administrator that it is only by
 his efforts that the whole population under his rule is kept going, and in this
-consciousness of being indispensable every adm inistrator finds the chief reward of his labor and efforts. While the sea of history rem ains calm the ruleradm inistrator in his frail bark, holding it with a boat hook to the ship of the
+consciousness of being indispensable every adm inistrator finds the chief reward of his labor and efforts. While the sea of history rem ains calm the ruler-administrator inistrator in his frail bark, holding it with a boat hook to the ship of the
 people and himself moving, naturally imagines that his efforts move the ship he
 is holding on to. But as soon as a storm arises and the sea begins to heave and
 the ship to move, such a delusion is no longer possible. The ship moves independently with its own enormous motion, the boat hook no longer reaches the
@@ -8688,7 +8688,7 @@ plans were not scientific or rational in any meaningful sense of those
 terms. W hat these planners carried in their mind's eye was a certain
 aesthetic, what one might call a visual codification of m odern rural
 production and community life. Like a religious faith, this visual codification was almost impervious to criticism or discontinuing evidence.
-The belief in large farms, monocropping, "proper" villages, tractorplowed fields, and collective or communal farming was an aesthetic
+The belief in large farms, monocropping, "proper" villages, tractor-plowed fields, and collective or communal farming was an aesthetic
 conviction undergirded by a conviction that this was the way in which
 the world was headed— a teleology.103 For all but a handful of specialists, these were not empirical hypotheses derived from particular contexts in the tem perate West that would have to be carefully examined
 in practice. In a given historical and social context— say, wheat growing by farm ers breaking new ground on the plains of Kansas— many
@@ -8775,11 +8775,11 @@ Anyone who has worked in a formal organization— even a small
 one strictly governed by detailed rules— knows that handbooks and
 w ritten guidelines fail utterly in explaining how the institution goes
 successfully about its work. Accounting for its smooth operation are
-nearly endless and shifting sets of implicit understandings, tacit coor­
+nearly endless and shifting sets of implicit understandings, tacit coordination­
 
 256 RURAL SETTLEM ENT AND PRODUCTION
 
-dinations, and practical mutualities that could never be successfully
+coordinations, and practical mutualities that could never be successfully
 captured in a written code. This ubiquitous social fact is useful to em ­
 ployees and labor unions. The premise behind what are tellingly called
 work-to-rule strikes is a case in point. When Parisian taxi drivers want
@@ -8814,7 +8814,7 @@ to the thinness of artificially designed languages.113 Communities
 planned at a single stroke— Brasilia or the planned village in Tanzania
 or Ethiopia— are to older, unplanned communities as Esperanto is to,
 say, English or Burmese. One can in fact design a new language that in
-many respects is more logical, simpler, more universal, and less irreg­
+many respects is more logical, simpler, more universal, and less irregular­
 
 Villagization in Tanzania 257
 
@@ -8837,7 +8837,7 @@ to enforcing a high degree of formal compliance with its directives.
 Those who have their hearts set on realizing such plans cannot fail to
 be frustrated by stubborn social realities and m aterial facts.
 
-One response to this frustration is a retreat to the realm of appearances and m iniatures— to model cities and Potemkin villages, as it
+One response to this frustration is a retreat to the realm of appearances and m miniatures— to model cities and Potemkin villages, as it
 w ere.115 It is easier to build Brasilia than to fundamentally transform
 Brazil and Brazilians. The effect of this retreat is to create a small, relatively self-contained, utopian space where high-modernist aspirations
 might more nearly be realized. The limiting case, where control is maximized but im pact on the external world is minimized, is in the m useum or the theme park.116
@@ -8869,7 +8869,7 @@ in its entirety, the m iniaturization of high-m odernist development offers a vi
 
 M iniaturization of one kind or another is ubiquitous. It is tem pting to w onder w hether the hum an tendency to m iniaturization— to
 create "toys" of larger objects and realities that cannot so easily be
-m anipulated— does not also have a bureaucratic equivalent. Yi-fu
+m manipulated— does not also have a bureaucratic equivalent. Yi-fu
 Tuan has brilliantly examined how we miniaturize, and thereby domesticate, the larger phenom ena that are outside our control, often
 with benign intentions. Under this elastic rubric, he includes bonsai,
 bonseki, and gardens (a miniaturization of the plant world) along with
@@ -8910,7 +8910,7 @@ heed.
 A great many nations, some of them form er colonies, have built
 entirely new capitals rather than com prom ise with an urban past
 that their leaders were determ ined to transcend; one thinks of Brazil,
-Pakistan, Turkey, Belize, Nigeria, the Ivory Coast, Malawi, and Tanzania.120 Most were built following the plans of Western or Westerntrained architects, even when they attempted to incorporate references
+Pakistan, Turkey, Belize, Nigeria, the Ivory Coast, Malawi, and Tanzania.120 Most were built following the plans of Western or Western-trained architects, even when they attempted to incorporate references
 to vernacular building traditions. As Lawrence Vale points out, many
 new capitals seem intended as completed and self-contained objects.
 No subtraction, addition, or modification is contem plated— only admiration. And in their strategic use of hills and elevation, of complexes
@@ -8929,7 +8929,7 @@ to be a utopian space that both represented the future and explicitly
 
 negated Dar es Salaam. The master plan for Dodoma condemned Dar
 as a "dom inant focus of development, . .. the antithesis of what Tanzania is aiming for, and is growing at a pace, which if not checked, will
-dam age the city as a hum anist habitat and Tanzania as an egalitarian
+dam age the city as a hum humanist habitat and Tanzania as an egalitarian
 socialist-state."122 While planning villages for everyone else whether
 they liked it or not, the rulers also designed for themselves a new symbolic center incorporating, not by accident, I think, a hilltop refuge
 amidst manicured, orderly surroundings.
@@ -8972,7 +8972,7 @@ unofficial reality— a "dark twin"— that arises to perform many of the
 various needs that the planned institution fails to fulfill. Brasilia, as
 Holston showed, engendered an "unplanned Brasilia" of construction
 workers, migrants, and those whose housing and activities were necessary but were not foreseen or were precluded by the plan. Nearly
-every new, exemplary capital city has, as the inevitable accom panim ent of its official structures, given rise to another, far more "disorderly" and complex city that makes the official city w ork—that is virtually a condition of its existence. That is, the dark twin is not just an
+every new, exemplary capital city has, as the inevitable accom accompaniment ent of its official structures, given rise to another, far more "disorderly" and complex city that makes the official city w ork—that is virtually a condition of its existence. That is, the dark twin is not just an
 anomaly, an "outlaw reality"; it represents the activity and life without
 which the official city would cease to function. The outlaw city bears
 the same relation to the official city as the Parisian taxi drivers' actual
@@ -8986,7 +8986,7 @@ The most rigidly planned economies tend to be accompanied by large
 ways, what the formal economy fails to supply.127 W hen this economy
 is ruthlessly suppressed, the cost has often been economic ruin and
 starvation (the Great Leap Forward and the Cultural Revolution in
-China; the autarkic, moneyless economy of Pol Pot's Cambodia). Efforts to force a country's inhabitants to m aintain perm anent, fixed residences tend to produce large, illegal, undocum ented populations in
+China; the autarkic, moneyless economy of Pol Pot's Cambodia). Efforts to force a country's inhabitants to m aintain perm anent, fixed residences tend to produce large, illegal, undocumented ented populations in
 urban areas where they have been forbidden to go.128 The insistence on
 a rigid visual aesthetic at the core of the capital city tends to produce
 settlements and slums teeming with squatters who, as often as not,
@@ -9326,7 +9326,7 @@ self-confidence in the American model that is hard to overestimate.
 T am ing N ature 271
 
 A few skeptics like Rachel Carson were beginning to question the
-model, but they were greatly outnum bered by a chorus of visionaries
+model, but they were greatly outnumbered bered by a chorus of visionaries
 who saw an unlim ited and brilliant future ahead. Typical of the optimism was an article by James B. Billard entitled "More Food for Our
 Multiplying Millions: The Revolution in American Agriculture," which
 appeared in a 1970 issue of N ational Geographic,31 Its vision of the
@@ -9366,7 +9366,7 @@ close to a distant city. The sam e m achine that cuts the grain prepares the lan
 soybeans as a jet-powered helicopter sprays insecticides.
 
 "Across a service road, conical mills blend feed for beef cattle, fattening in multilevel pens that conserve ground space. Tubes carry the
-feed to be m echanically distributed. A central elevator transports the cattle up and down, while a tubular side drain flushes wastes to be broken down for fertilizer. Beside the farther pen, a processing plant packs beef into cylinders for shipm ent to market by helicopter and m onorail. Illuminated plastic dom es provide controlled environments for growing high-value crops such as strawberries, tomatoes, and celery.
+feed to be m echanically distributed. A central elevator transports the cattle up and down, while a tubular side drain flushes wastes to be broken down for fertilizer. Beside the farther pen, a processing plant packs beef into cylinders for shipm ent to market by helicopter and m monorail. Illuminated plastic dom es provide controlled environments for growing high-value crops such as strawberries, tomatoes, and celery.
 N ear a d istan t lake and recreation area, a p u m ping station sup p lies w ater for the vast operation."
 
 T am ing N ature 273
@@ -9506,7 +9506,7 @@ else planted above them a few weeks later.37
 
 278 RURAL SETTLEM ENT AND PRODUCTION
 
-Like the micrologic of the Guatem alan garden, the logic of West
+Like the micrology of the Guatemalan alan garden, the logic of West
 African polycropping systems, long dismissed as being primitive, has
 finally been recognized. In fact, they came under investigation partly
 as a reaction against the many m onocropping schemes that m iscarried. The advantages were often evident even at the level of narrow
@@ -9532,7 +9532,7 @@ agriculture, which might in the aggregate do m ore to increase crop
 production and soil fertility than revolutionary changes to green m anuring or mixed farming."42
 
 The m ultistoried effect of polyculture has some distinct advantages
-for yields and soil conservation. "Upper-story" crops shade "lowerstory" crops, which are selected for their ability to thrive in the cooler
+for yields and soil conservation. "Upper-story" crops shade "lower story" crops, which are selected for their ability to thrive in the cooler
 soil tem perature and increased humidity at ground level. Rainfall
 reaches the ground not directly but as a fine spray that is absorbed with
 less dam age to soil structure and less erosion. The taller crops often
@@ -9581,7 +9581,7 @@ Soil fertility was a m atter of not simply chemical composition but also
 structural properties; the soil's tilth (or crum b structure), its degree of
 aeration, its moisture-holding power, and the "fungus bridge" (the mycorrhizal association) necessary to humus creation.46 Some but not all
 elements in this complex soil interaction could be precisely measured,
-while others could be recognized by a practiced observer but not readily measured. Howard undertook elaborate experiments in humus production, soil structure, and plant response and was able to show fieldtrial yield results superior to those achieved by standard Western
+while others could be recognized by a practiced observer but not readily measured. Howard undertook elaborate experiments in humus production, soil structure, and plant response and was able to show field trial yield results superior to those achieved by standard Western
 practices. His main concern, however, was not with how many bushels
 of wheat or maize could be gotten from an acre as with the health and
 quality of the crops and soil over the long haul.
@@ -9640,7 +9640,7 @@ safety, the visual interest that an animated and convenient neighborhood provide
 
 282 RURAL SETTLEM ENT AND PRODUCTION
 
-mulative.52 The diversity and complexity that cause systems of flora to
+cumulative.52 The diversity and complexity that cause systems of flora to
 become more durable and resilient work, at another level apparently, to
 cause hum an communities to become more nimble and satisfactory.
 
@@ -9654,7 +9654,7 @@ and m inimum tillage were often combined with shifting cultivation.
 
 Like polycropping, shifting cultivation, as we shall see, turns out to
 be a rational, efficient, and sustainable technique under the soil, climate, and social conditions where it is generally practiced. Polycropping and shifting cultivation are almost invariably associated. Harold
-Conklins early, detailed, and still unsurpassed account of shifting cultivation in the Philippines noted that, for a newly cleared plot, the average
+Conklin's early, detailed, and still unsurpassed account of shifting cultivation in the Philippines noted that, for a newly cleared plot, the average
 num ber of cultivars in a single season was between forty and sixty.54 At
 the same time, shifting cultivation is an exceptionally complex and
 hence quite illegible form of agriculture from the perspective of a sovereign state and its extension agents. The fields themselves are "fugitive,"
@@ -9671,7 +9671,7 @@ to shifting cultivation were almost entirely negative," Richards notes.
 "It was a bad system: exploitative, untidy, and misguided."56 The finely
 adapted logic of shifting cultivation depended on disturbing the landscape and ecology as little as possible and mimicking, where it could,
 many of the symbiotic associations of local plants. This m eant that such
-fields looked far more like unimproved nature than the neatly m anicured, rectilinear fields that most agricultural officers were used to.
+fields looked far more like unimproved nature than the neatly m manicured, rectilinear fields that most agricultural officers were used to.
 
 Taming Nature 283
 
@@ -9815,9 +9815,9 @@ claims to be neutral technicians with no institutional stake in the outcome can 
 The centralizing effects of Soviet collectivization and ujam aa villages were perfectly obvious. So are those of large irrigation projects,
 where authorities decide when to release the water, how to distribute
 it, and w hat water fees to charge, or of agricultural plantations, where
-the workforce is supervised as if it were in a factory setting.69 For colonialized farmers, the effect of such centralization and expertise was a
+the workforce is supervised as if it were in a factory setting.69 For colonized farmers, the effect of such centralization and expertise was a
 radical de-skilling of the cultivators themselves. Even in the context of
-family farm s and a liberal economy, this was in fact the utopian prospect held up by Liberty Hyde Bailey, a plant breeder, apostle of agricultural science, and the chairm an of the Country Life Commission
+family farm s and a liberal economy, this was in fact the utopian prospect held up by Liberty Hyde Bailey, a plant breeder, apostle of agricultural science, and the chairman an of the Country Life Commission
 under Theodore Roosevelt. Bailey declared, "There will be established
 in the open country plant doctors, plant breeders, soil experts, health
 
@@ -9838,7 +9838,7 @@ century— innovations that seemed purely technical and hence neutral
 political monopolies that inevitably diminished the autonomy of the
 farmer. The revolution in hybrid seeds, particularly corn, had this effect.72 Since hybrids are either sterile or do not breed "true," the seed
 company that has bred the parents of the hybrid-cross has valuable
-property in hybrid seed, which it can sell every year, unlike the openpollinated varieties which the farm er can select himself.73
+property in hybrid seed, which it can sell every year, unlike the open-pollinated varieties which the farm er can select himself.73
 
 A similar but not identical centralizing logic applied to the highyielding varieties ( h y v s ) of wheat, rice, and maize developed over the
 past thirty years. Their enormous impact on yields (an impact that varied widely by crop and growing conditions) depended on combining a
@@ -9860,7 +9860,7 @@ The Sim plifying Assumptions of Agricultural Science
 This attempt at total control is an invitation to disorder. And the rule seem s to
 be that the more rigid and exclusive is the specialist's boundary, and the
 stricter the control within it, the more disorder rages around it. One can take
-a greenhouse and grow summ er vegetables in the wintertim e, but in doing so
+a greenhouse and grow summ er vegetables in the wintertime e, but in doing so
 one creates a vulnerability to the weather and to the possibility of failure
 where none existed before. The control by w hich a tomato plant lives through
 January is m uch m ore problem atic than the natural order by w hich an oak
@@ -10135,7 +10135,7 @@ alone can be appreciated from Richards's observations about how the
 considerations are weighed in Sierra Leone.
 
 A phrase like "it cooks badly" is often a catch-all for a range of properties connected with storage, preparation and consumption, going well
-beyond subjective questions of "taste." Is the variety concerned welladapted to local food processing techniques? Is it readily peeled,
+beyond subjective questions of "taste." Is the variety concerned well-adapted to local food processing techniques? Is it readily peeled,
 milled, and pounded? How much water and fuel does it require in
 cooking? How long does it keep, prior to cooking and once cooked?
 Mende women claim that improved swamp rices are much less palatable than the harder "upland" rices when served up a second time.
@@ -10176,7 +10176,7 @@ Experimental Plots Versus Actual Fields
 
 All environments, as we noted earlier, are intractably local. There is
 always w hat we might call the translation problem in converting the
-generic, standardized High Church Latin which em anates from labs
+generic, standardized High Church Latin which em emanates from labs
 and experimental stations into the vernacular of the local parish. Standardized solutions to field preparation, planting schedules, and fertilizer requirem ents always have to be adjusted when they are applied to,
 say, a stony, low-lying, north-facing field which has just grown two
 crops of oats. Agricultural scientists at research stations and extension
@@ -10266,7 +10266,7 @@ therefore can be obtained by the application of higher mathematics to
 a technique which is so fundamentally unsound?96
 H ow ard's second premise is that many of the most im portant indications of a farm and a crop's health are qualitative: "Can a mutually
 interacting system like the crop and the soil, for example, dependent on
-a multitude of factors which are changing from week-to-week and yearto-year, ever be made to yield quantitative results corresponding to the
+a multitude of factors which are changing from week-to-week and year-to-year, ever be made to yield quantitative results corresponding to the
 precision of mathem atics?"97 As Howard sees it, the danger is that the
 narrow, experimental, and exclusively quantitative approach will succeed in completely driving out the other forms of local knowledge and
 judgm ent possessed by most cultivators.
@@ -10482,7 +10482,7 @@ were and are surrounded by hundreds or thousands of other local experim enters w
 could be said to have instant access to the popular equivalent of an im ­
 pressive research library. Now it is also undeniably the case that they
 carry out most of their research without the proper experimental controls and are therefore prone to drawing false inferences from their
-findings. They are also limited by w hat they can observe; m icroprocesses only visible in the laboratory necessarily escape them. Nor is it
+findings. They are also limited by w hat they can observe; m microprocess only visible in the laboratory necessarily escape them. Nor is it
 
 Taming Nature 305
 
@@ -10527,7 +10527,7 @@ aperture that the experimental method has constructed for its adm ission. Tradit
 
 306 RURAL SETTLEM ENT AND PRODUCTION
 
-sayings, are seen presumptively as not m eriting attention, let alone
+sayings, are seen presumptively as not m meriting attention, let alone
 verification.
 
 And yet, as we have seen, cultivators have devised and perfected a
@@ -10590,7 +10590,7 @@ to some considerable degree parasitic on informal processes, which the
 formal scheme does not recognize, without which it could not exist,
 and which it alone cannot create or maintain.
 
-This homely insight has long been of great tactical value to generations of trade unionists who have used it as the basis of the work-torule strike. In a work-to rule action (the French call it greve du zele),
+This homely insight has long been of great tactical value to generations of trade unionists who have used it as the basis of the work-to-rule strike. In a work-to rule action (the French call it greve du zele),
 employees begin doing their jobs by meticulously observing every one
 of the rules and regulations and performing only the duties stated in
 their job descriptions. The result, fully intended in this case, is that the
@@ -10651,7 +10651,7 @@ indigenous technical knowledge suggests that it relies on an accum ulation of ma
 confirm the oak-leaf formula, a prudent planter might delay further.
 
 Compare this advice to that based on more universalistic units of
-measurement. A typical local edition of The Farmer's Alm anac is a case
+measurement. A typical local edition of The Farmer's Alm almanac is a case
 in point. It may suggest planting corn after the first full moon in May
 or after a specified date, such as May 20. In New England, at any rate,
 this advice would require considerable adjustm ent by latitude and altitude. A date that would serve for southern Connecticut would not suit
@@ -10784,7 +10784,7 @@ people lift two weights and judge which of the two was heavier. At first,
 their discrim ination was rather crude. But as they practiced for long
 periods, they became able to distinguish accurately quite minute differences in weight. They could not pinpoint what it was that they sensed
 or felt, but their actual capacity to discriminate grew enormously. Peirce
-took the results as evidence for a kind of sublim inal com munication
+took the results as evidence for a kind of subliminal inal com munication
 via "faint sensations" between people. For our purposes, however, it illustrates a rudim entary kind of knowledge that can be acquired only
 by practice and that all but defies being com m unicated in w ritten or
 oral form apart from actual practice.12
@@ -10844,7 +10844,7 @@ under variable conditions.15 Such knowledge is particular, by definition; it can
 bird or an insect that has adapted brilliantly to a narrow ecological
 niche, the pilot knows one harbor. Much of his knowledge would be irrelevant if he were suddenly transposed to a different port.16 Despite
 the rather narrow context of this knowledge, it is agreed by captains,
-harborm asters, and, not least, those who insure m aritim e commerce
+harbormaster asters, and, not least, those who insure m aritim e commerce
 against losses that the pilot's knowledge of a particular port must prevail. The pilot's experience is locally superior to the general rules of
 navigation.
 
@@ -10948,7 +10948,7 @@ logic of mathematics, ten multiplied by ten equals one hundred everywhere and fo
 ninety degrees of a circle; in the conventions of physics, the freezing
 point of w ater is always zero degrees centigrade.18 Techne is settled
 knowledge; Aristotle wrote that techne "came into being when from
-many notions gained from experience, a universal judgem ent about a
+many notions gained from experience, a universal judgment ent about a
 group of similar things arises."19 The universality of techne arises from
 the fact that it is organized analytically into small, explicit, logical steps
 and is both decomposable and verifiable. This universality means that
@@ -11132,9 +11132,9 @@ its active ingredient was quinine or why it worked. Westerners knew
 that certain foods consumed in the early spring, such as rhubarb, could
 relieve the symptoms of wintertime scurvy, without knowing anything
 about Vitamin C. The mold from certain breads was used to stem infections long before the isolation of penicillin.43 According to Anil Gupta,
-roughly three-quarters of the m odern pharm acopoeia are derivatives
+roughly three-quarters of the m odern pharm pharmacopeia are derivatives
 of traditionally known medicines.44 Even in the absence of remedies,
-people often knew w hat measures would lessen their chances of contracting a dreaded contagious disease. The Londoners in Daniel Defoes
+people often knew w hat measures would lessen their chances of contracting a dreaded contagious disease. The Londoners in Daniel Defoe's
 Journal o f the Plague Year knew that moving to the country or, failing
 that, sealing oneself up in one's rooms vastly improved one's chances of
 surviving the bubonic plague of 1665.45 Knowing, as we now do, that
@@ -11161,7 +11161,7 @@ smallpox. "Fresh" smallpox m atter— from the pustules or scabs of
 someone with an active infection contracted in the usual way— was
 never used. The inoculation was typically made with attenuated m atter
 saved from those who had had mild cases during last year's epidemic
-or with m atter taken from the pustules of those who had been inocu­
+or with m atter taken from the pustules of those who had been inoculated­
 
 326 THE M ISSIN G LINK
 
@@ -11180,7 +11180,7 @@ following this lead, inoculated his own children with cowpox m atter
 and observed that they showed no reaction to a subsequent smallpox
 vaccination. Vaccination was, of course, a great advance over variolation. Because it used live smallpox matter, variolation induced a mild
 but active case that was contagious, and 1 to 3 percent of those so
-treated died from the treatment, a ratio that nonetheless com pared favorably with the one or two in six who perished in an epidemic. Jenn er's technique used killed virus, thus avoiding contagion, and his vaccination had a remarkably low iatrogenic rate: only one in a thousand
+treated died from the treatment, a ratio that nonetheless com pared favorably with the one or two in six who perished in an epidemic. Jenner er's technique used killed virus, thus avoiding contagion, and his vaccination had a remarkably low iatrogenic rate: only one in a thousand
 died of the vaccination itself. His achievem ent is rightly celebrated,
 but it is im portant to recognize that "Jennerian vaccination was not
 an abrupt break with the past, but the direct descendant and heir of
@@ -11200,7 +11200,7 @@ time to "simmer" (as the experimenters and their clients observed the
 results of various stratagems through successive epidemics), and the
 sharing (through chains of communication) of the experim ental results. As long as it didn't require an electron microscope, it would in
 fact be surprising if such a combination of passionate interest, close
-observation, large numbers of am ateur specialists trying different pos­
+observation, large numbers of am amateur specialists trying different pos­
 
 P ractical K now ledge 327
 
@@ -11218,7 +11218,7 @@ valley, makes his first move, locating and building one or more check
 dams. He waits to see what Nature's response is. This determines the
 forest engineer's next move, which may be another dam or two, an increase in the form er dam, or the construction of side retaining walls.
 Another pause for observation, the next move is made, and so on, until
-erosion is checkmated. The operations of natural forces, such as sedim entation and re-vegetation, are guided and used to the best advantage to keep down costs and to obtain practical results. No more is attem pted than Nature has already done in the region."51 The engineer in
+erosion is checkmated. The operations of natural forces, such as sedimentation entation and re-vegetation, are guided and used to the best advantage to keep down costs and to obtain practical results. No more is attem pted than Nature has already done in the region."51 The engineer in
 H ow ard's account recognizes implicitly that he is dealing with "an art
 of one valley." Each prudent, small step, based on prior experience,
 yields new and not completely predictable effects that become the point
@@ -11239,7 +11239,7 @@ comprehensively addressed. Models of public adm inistration, Lind-
 
 blom complained, implicitly assumed a synoptic m astery of a policy
 initiative, when in practice, knowledge was both limited and fragmentary, and means could never be neatly separated from goals. His
-characterization of actual policy practice emphasized a piecemeal approach of limited comparisons, a sequence of trials and errors followed by revised trials, reliance on past experience, and "disjointed incrementalism."54 Albert H irschm an has m ade the same point, rather
+characterization of actual policy practice emphasized a piecemeal approach of limited comparisons, a sequence of trials and errors followed by revised trials, reliance on past experience, and "disjointed incrementalism."54 Albert H Hirschman an has m ade the same point, rather
 more metaphorically, by com paring social policy to house building:
 "The architect of social change can never have a reliable blueprint.
 Not only is each house he builds different from any other that was built
@@ -11330,10 +11330,10 @@ the case of the experienced doctor, in fact, it is metis that informs a decision
 Even the part of metis that can be conveyed by rules of thumb is the
 codification of practical experience. The boiling down of maple sap
 into syrup is a tricky business. If one goes too far, the sap will boil over.
-The stopping point can be determ ined by a therm om eter or by a hydrom eter (which indicates specific gravity). But those with experience
+The stopping point can be determ ined by a thermometer om eter or by a hydrometer eter (which indicates specific gravity). But those with experience
 look for the mass of small bubbles that forms on the surface of the sap
 just before it begins to boil over— a visual rule of thum b that is far easier to use. Achieving the insight, however, requires that, at least once,
-the syrup m aker make a mistake and go too far. Chinese recipes, it has
+the syrup m maker make a mistake and go too far. Chinese recipes, it has
 always amused me, often contain the following instruction: "Heat the
 oil until it is alm ost smoking." The recipes assume that the cook has
 made enough mistakes to know what oil looks like just before it begins
@@ -11349,7 +11349,7 @@ Practical Knowledge 331
 
 currents, and the relative strength of tides— all of w hich are vitally
 im portant to their sailing plans and safety.62 Calculating on the basis
-of time of day, the num ber of days into the lunar cycle, and the m onsoon season, the Bugis captain holds in his head a system that provides
+of time of day, the num ber of days into the lunar cycle, and the m monsoon season, the Bugis captain holds in his head a system that provides
 all the accurate inform ation he needs about tides. From an astronom er's perspective, it seems odd that the scheme makes no reference to
 the angle of declination of the moon. But since the monsoon is directly
 related to the declination of the moon, it serves effectively as a proxy.
@@ -11400,7 +11400,7 @@ of nearly perfect competition, and local monopolies are likely to be broken by i
 it is likely to find a clientele.
 
 In his defense of traditionalism against rationalism , Michael
-Oakeshott emphasizes the pragm atism of real, existing traditions:
+Oakeshott emphasizes the pragm pragmatism of real, existing traditions:
 "The big mistake of the rationalist— though it is not inherent in the
 m ethod— is to assume that 'tradition,' or w hat is better called 'practical knowledge,' is rigid, fixed and unchanging— in fact it is 'preem ­
 inently fluid.' "68 Tradition, in part because of its local variation, is pliable and dynamic. "No traditional way of behavior, no traditional skill
@@ -11477,11 +11477,11 @@ and preserves knowledge of this kind.
 One purpose of this illustration is to alert us to the social conditions
 necessary for the reproduction of com parable practical knowledge.
 These social conditions, at a minimum, would seem to require a community of interest, accumulated information, and ongoing experimentation. Occasionally there are formal institutions that seem almost perfectly tailored to the collection and exchange of practical information,
-such as the veillees of nineteenth-century France. The veillee, as its
+such as the veillées of nineteenth-century France. The veillee, as its
 name implies, was a traditional pattern of gathering practiced by farm
 families during winter evenings, often in barns to take advantage of
 the warm th generated by the livestock and thus save on fuel. With no
-agenda save sociability and economy, the gatherings am ounted to local assemblies where opinions, stories, agricultural news, advice, gossip, and religious or folk tales were exchanged while the participants
+agenda save sociability and economy, the gatherings am amounted to local assemblies where opinions, stories, agricultural news, advice, gossip, and religious or folk tales were exchanged while the participants
 shelled nuts or embroidered. Given the fact that each m em ber there
 possessed a lifetime of interested observation and practice in which
 eveiy family paid for the consequences of its agricultural decisions, the
@@ -11499,7 +11499,7 @@ forms of knowledge can confer.71 In this respect metis is not unitary,
 
 Practical Knowledge 335
 
-and we should perhaps speak of metises, recognizing its nonhom ogeneity. The second irony is that, however plastic and receptive metis
+and we should perhaps speak of metis, recognizing its nonhomogeneity ogeneity. The second irony is that, however plastic and receptive metis
 is, some forms of it seem to depend on key elements of preindustrial
 life for their elaboration and transm ission. Communities that are m arginal to markets and to the state are likely to retain a high degree of
 metis; they have no choice, as they have to rely disproportionately on
@@ -11515,7 +11515,7 @@ local knowledge. Once matches become widely available, why would
 anyone want to know, except as a m atter of idle curiosity, how to make
 fire with flint and tinder? Knowing how to scrub clothes on a w ashboard or on a stone in the river is undoubtedly an art, but one gladly
 abandoned by those who can afford a washing machine. Darning skills
-were similarly lost, w ithout much nostalgia, when cheap, machinem ade stockings came on the market. As the older Bugis seamen say,
+were similarly lost, w ithout much nostalgia, when cheap, machine ade stockings came on the market. As the older Bugis seamen say,
 "These days, with charts and compasses, anyone can steer.''73 And why
 not? The production of standardized knowledge has made certain
 skills more broadly— more dem ocratically— available, as they are no
@@ -11563,7 +11563,7 @@ that efficient production could still be organized on an artisanal basis
 
 The genius of m odern m ass-production m ethods, Frederick Taylor, saw the issue of destroying metis and turning a resistant, quasiautonomous, artisan population into more suitable units, or "factory
 hands," with great clarity. "Under scientific m anagem ent. . . the m anagers assume . .. the burden of gathering together all of the traditional
-knowledge which in the past has been possessed by the workm en and
+knowledge which in the past has been possessed by the workmen en and
 then of classifying, tabulating, and reducing this knowledge to rules,
 laws, formulae. . . . Thus all of the planning which under the old system was done by the workmen, m ust of necessity under the new system be done by management in accordance with the law of science.''78
 
@@ -11630,7 +11630,7 @@ metis knowledge of farmers into a standardized system that will allow
 him greater control over the work and its intensity. The plantation
 was one solution. In colonial countries, where able-bodied m en were
 pressed into service as gang labor, the plantation represented a kind
-of private collectivization, inasmuch as it relied on the state for the extram arket sanctions necessary to control its labor force. More than
+of private collectivization, inasmuch as it relied on the state for the extramarket arket sanctions necessary to control its labor force. More than
 one plantation sector has made up what it lacked in efficiency by using
 its political clout to secure subsidies, price supports, and monopoly
 privileges.
@@ -11646,7 +11646,7 @@ kind of high-tech putting-out system.86 The large firm contracts with a
 farm er to supply him with chicks and then to buy back (after six weeks
 or so) a certain number of chickens meeting their standards. The farmer,
 for his part, is obliged to construct and pay for a building that meets
-corporate specifications and to feed, water, and m edicate the chickens
+corporate specifications and to feed, water, and m medicate the chickens
 
 Practical Knowledge 339
 
@@ -11740,7 +11740,7 @@ leaders in the nonindustrial world (occasionally revolutionary leaders
 themselves) could not be faulted for hating their past of colonial dom ­
 ination and economic stagnation, nor could they be faulted for wasting
 no time or democratic sentimentality on creating a people that they
-could be proud of. Understanding the history and logic of their commitm ent to high-modernist goals, however, does not perm it us to overlook the enormous damage that their convictions entailed when com ­
+could be proud of. Understanding the history and logic of their commitment ent to high-modernist goals, however, does not perm it us to overlook the enormous damage that their convictions entailed when com ­
 bined with authoritarian state power.
 
 10 Conclusion
@@ -11787,7 +11787,7 @@ have dreamed. Thus it has happened that so many of the twentieth century's polit
 
 We have examined in considerable detail how these schemes have
 failed their intended beneficiaries. If I were asked to condense the reasons behind these failures into a single sentence, I would say that the
-progenitors of such plans regarded themselves as far sm arter and
+progenitors of such plans regarded themselves as far sm smarter and
 farseeing than they really were and, at the same time, regarded their
 subjects as far more stupid and incompetent than they really were. The
 rem ainder of this chapter is devoted to expanding on this cursory judgment and advancing a few modest lessons.
@@ -11837,14 +11837,14 @@ with some confidence, guess the im mediate consequences of their
 moves, no one could specify, let alone calculate, the second- or thirdorder consequences or their interaction effects. The wild cards in
 their deck, however, were the hum an and natural events outside their
 m odels— droughts, wars, revolts, epidemics, interest rates, world consum er prices, oil embargoes. They could and did, of course, attempt to
-adjust and improvise in the face of these contingencies. But the m agnitude of their initial intervention was so great that many of their missteps could not be righted. Stephen Marglin has put their problem succinctly: If "the only certainty about the future is that the future is
+adjust and improvise in the face of these contingencies. But the m magnitude of their initial intervention was so great that many of their missteps could not be righted. Stephen Marglin has put their problem succinctly: If "the only certainty about the future is that the future is
 uncertain, if the only sure thing is that we are in for surprises, then no
 am ount of planning, no amount of prescription, can deal with the contingencies that the future will reveal."1
 
 There is a curiously resounding unanimity on this point, and on no
 others, between such right-wing critics of the com m and economy as
 Friedrich Hayek and such left-wing critics of Communist authoritarianism as Prince Peter Kropotkin, who declared, "It is impossible to
-legislate for the future." Both had a great deal of respect for the diversity of hum an actions and the insurm ountable difficulties in successfully coordinating millions of transactions. In a blistering critique of
+legislate for the future." Both had a great deal of respect for the diversity of hum an actions and the insurmountable ountable difficulties in successfully coordinating millions of transactions. In a blistering critique of
 failed development paradigms, Albert Hirschm an made a comparable
 
 Conclusion 345
@@ -11858,8 +11858,8 @@ following lines.
 
 Take sm all steps. In an experimental approach to social change, presume that we cannot know the consequences of our interventions in advance. Given this postulate of ignorance, prefer wherever possible to
 take a small step, stand back, observe, and then plan the next small
-move. As the biologist J. B. S. Haldane m etaphorically described the
-advantages of smallness: "You can drop a mouse down a thousandyard mineshaft; and on arriving at the bottom, it gets a slight shock
+move. As the biologist J. B. S. Haldane m metaphorically described the
+advantages of smallness: "You can drop a mouse down a thousand-yard mineshaft; and on arriving at the bottom, it gets a slight shock
 and walks away. A rat is killed, a m an broken, a horse splashes."3
 
 Favor reversibility. Prefer interventions that can easily be undone if
@@ -11965,7 +11965,7 @@ ecological disaster. No Taylorist factory can sustain production without
 the unplanned improvisations of an experienced workforce. Planned
 Brasilia is, in a thousand ways, underw ritten by unplanned Brasilia.
 Without at least some of the diversity identified by Jacobs, a strippeddown public housing project (like Pruitt-Igoe in Saint Louis or Cabrini
-Green in Chicago) will fail its residents. Even for the lim ited p u rposes of a myopic plan—com m ercial timber, factory output— the
+Green in Chicago) will fail its residents. Even for the lim ited p u purposes of a myopic plan—com m ercial timber, factory output— the
 one-dimensional m ap will simply not do. As with industrial agriculture and its dependency on landraces, the first m ap is possible only
 because of processes lying outside its param eters, which it ignores at
 its peril.
@@ -12060,7 +12060,7 @@ their own economic survival.
 
 An indication of the kinds of improvisations both tolerated and required may be inferred from an astute case study of two East German
 factories before the Wall came down in 1989.12 Each factory was
-under great pressure to meet production quotas— on which their allim portant bonuses depended— in spite of old machinery, inferior raw
+under great pressure to meet production quotas— on which their all-important portant bonuses depended— in spite of old machinery, inferior raw
 materials, and a lack of spare parts. Under these draconian conditions,
 two employees were indispensable to the firm, despite their modest
 place in the official hierarchy. One was the jack-of-all-trades who improvised short-term solutions to keep machinery running, to correct or
@@ -12145,7 +12145,7 @@ In their absence, it is still rem arkable how the dogged, day-to-day re­
 
 Conclusion 353
 
-sistance of thousands of citizens forced the abandonm ent or restructuring of projects. Given sufficient time and leeway, of course, any
+resistance of thousands of citizens forced the abandonm ent or restructuring of projects. Given sufficient time and leeway, of course, any
 high-modernist plan will be utterly remade by popular practice. Soviet
 collective farms, the most draconian case, were finally brought down
 as m uch by the dispirited work and resistance of the kolkhozniki as by
@@ -12178,7 +12178,7 @@ unprofitable in a narrow profit-and-loss sense.
 
 A roughly similar case can be made, I think, for hum an institutions
 — a case that contrasts the fragility of rigid, single-purpose, centralized
-institutions to the adaptability of more flexible, multipurpose, decentral­
+institutions to the adaptability of more flexible, multipurpose, decentralized­
 
 354 THE M ISSIN G LINK
 
@@ -12250,7 +12250,7 @@ surprising, in view of the stark political cleavages the war still inspires.20
 W hat is most remarkable, however, is the way that the Vietnam Memorial works for those who visit it, particularly those who come to pay
 their respects to the memory of a com rade or loved one. They touch
 the names incised on the wall, make rubbings, and leave artifacts and
-mementos of their ow n— everything from poems and a woman's highheeled shoe to a glass of champagne and a poker hand of a full house,
+mementos of their ow n— everything from poems and a woman's high-heeled shoe to a glass of champagne and a poker hand of a full house,
 aces high. So many of these tributes have been left, in fact, that a m useum has been created to house them. The scene of many people together at the wall, touching the names of particular loved ones who fell
 in the same war, has moved observers regardless of their position on
 the w ar itself. I believe that a great part of the memorial's symbolic
@@ -12320,7 +12320,7 @@ Notes
 
 Chapter 1: Nature and Space
 
-1. Henry E. Lowood, "The Calculating Forester: Quantification, Cameral Science, and the Em ergence of Scientific Forestry M anagement in Germany," in Tore
+1. Henry E. Lowood, "The Calculating Forester: Quantification, Cameral Science, and the Em emergence of Scientific Forestry M anagement in Germany," in Tore
 Frangsmyr, J. L. Heilbron, and Robin E. Rider, eds., The Quantifying Spirit in the
 Eighteenth Century (Berkeley: University of California Press, 1991), pp. 31 5 -4 2.
 The following account is largely drawn from Lowood's fine analysis.
@@ -12329,7 +12329,7 @@ The following account is largely drawn from Lowood's fine analysis.
 game" (e.g., deer, boars, foxes) for the hunt and hence to the protection of its habitat.
 Lest one im agine this to be a quaint premodern affectation, it is worth recalling the
 enormous social importance of the hunt to such recent "monarchs" as Erich
-Honeker, Nicolae Ceau§escu, Georgy Zhuvkov, Wtadyslaw Gomutka, and Marshal
+Honeker, Nicolae Ceau§escu, Georgii Zhukov, Wladyslaw Gomulka, and Marshal
 Tito.
 
 3. John Evelyn, Sylva, or A Discourse o f Forest Trees (London, 1664, 1679), p.
@@ -12340,7 +12340,7 @@ Haven: Yale University Press, 1994), pp. 97 -9 8 .
 for the state typically sought to control, regulate, and extinguish those practices
 that interfered with its own m anagem ent policies. For much of my (admittedly
 lim ited) early education in the history of forestry, I am grateful to Ramachandra
-Guha and his two books, The Unquiet Woods: E cological Change and Peasant Resistance in the H im alaya (Berkeley: University of California Press, 1989), and,
+Guha and his two books, The Unquiet Woods: E cological Change and Peasant Resistance in the H im Himalaya (Berkeley: University of California Press, 1989), and,
 with Madhav Gadgil, This Fissured Land: An E cological H istory o f India (Delhi:
 Oxford University Press, 1992). For an evocative and wide-ranging exploration of
 the changing cultural m eaning of the forest in the West, see Robert Pogue Harrison, Forests: The Shadow o f Civilization (Chicago: University of Chicago Press,
@@ -12358,7 +12358,7 @@ more closely resembles the stripped down, abstract image the lens had revealed.
 
 7. See Keith Tribe, Governing Economy: The Reformation o f German Economic
 Discourse, 1750-1840 (Cambridge: Cambridge University Press, 1988). The more
-general process of codifying the principles of state administration in seventeenthand eighteenth-century Europe is exam ined by M ichel Foucault under the (misleading) heading of "police state" (from Polizeiwissenschaft) in his lectures on
+general process of codifying the principles of state administration in seventeenth eighteenth-century Europe is exam ined by M ichel Foucault under the (misleading) heading of "police state" (from Polizeiwissenschaft) in his lectures on
 "governmcntality," delivered at the College de France. See Graham Burchell, Colin
 Gordon, and Peter Miller, eds., The Foucault Effect: Studies in G ovem m entality
 (London: Harvester Wheatsheaf, 1991), especially chap. 4.
@@ -12402,7 +12402,7 @@ point at which the added value of another year of growth was exceeded by the
 added value (minus the amortized cost of earlier felling and replanting) of new
 growth. The precision was, of course, predicated on the com parisons made possible by the assumption of homogeneous units of timber and market prices.
 
-16. The term "redesigned" is adopted from Chris M aser's valuable book, The
+16. The term "redesigned" is adopted from Chris M Maser valuable book, The
 Redesigned Forest (San Pedro: R. and E. Miles, 1988). Much of his argument can be
 inferred from the oppositions he em phasizes in the headings of the early sections:
 "Nature designed a forest as an experiment in unpredictability. . . . We are trying to
@@ -12418,9 +12418,9 @@ based on isolated products" (p. vii).
 17. See, for example, Honore de Balzac's Les pay sans (Paris: Pleiades, 1949); E.
 P. Thompson, Whigs and Hunters: The Origin o f the Black Act (New York: Pantheon,
 1975); Douglas Hay, "Poaching on Cannock Chase," in Douglas Hay et al., eds., Albion's Fatal Tree (New York: Pantheon, 1975); and Steven Hahn, "Hunting, Fishing,
-and Foraging: Common Rights and Class Relations in the Postbellum South," R adical History Review 26 (1982): 3 7 -6 4 . For an apposite German case, see one of Karl
+and Foraging: Common Rights and Class Relations in the Postbellum South," R Radical History Review 26 (1982): 3 7 -6 4 . For an apposite German case, see one of Karl
 Marx's first published articles linking the theft of wood to the business cycle and
-unem ploym ent in the Rhineland: reported in Peter Linebaugh, "Karl Marx, the
+unem employment ent in the Rhineland: reported in Peter Linebaugh, "Karl Marx, the
 Theft of Wood, and Working-Class Composition: A Contribution to the Current Debate," Crime and Social Justice, Fall-Winter 1976, pp. 5 -1 6 .
 
 18. The results of three rotations might require as much as two hundred years,
@@ -12429,9 +12429,9 @@ results of three rotations of maize, which would require only three years. For m
 contemporary forests, the results of the third rotation are not yet in. In forest experim entation, the experimental period easily stretches well beyond a single lifetime. See Maser, The Redesigned Forest.
 
 19. There was within Germany a debate between the utilitarian outlook I have
-described and an anti-utilitarian, anti-Manchester School stream of thought represented by, among others, Karl Geyer, an exponent of the M ischwald and natural regeneration. But the short-run success of the utilitarians ensured that their view becam e the hegem onic "export m odel" of German scientific forestry. I am grateful to
+described and an anti-utilitarian, anti-Manchester School stream of thought represented by, among others, Karl Geyer, an exponent of the M ischwald and natural regeneration. But the short-run success of the utilitarians ensured that their view becam e the hegemonic onic "export m odel" of German scientific forestry. I am grateful to
 Arvid N elson for this inform ation and for sharing his deep knowledge about the
-history of forest policy in Germany. In 1868, Deitrich Brandes, the German chief of
+history of forest policy in Germany. In 1868, Dietrich Brandes, the German chief of
 colonial India's forests, proposed a plan that would have encouraged community
 forests as w ell as state production forests, but the first part of his plan was vetoed
 by British administrators. The interests of state officials, it appears, tended to select
@@ -12477,7 +12477,7 @@ managed young growth forests. As pieces are continually removed from the forest
 with the notion of the sim plistic uniformity that is termed 'intensive timber managem ent,' w e come closer to the ultimate sim plistic view of modern forestry— the
 plantation or 'Christmas tree farm' '' (Maser, The Redesigned Forest, p. 19).
 
-24. The key step in this process seem s to be the below-ground, symbiotic fungusroot structures (mycorrhizal association) studied closely by Sir Albert Howard. See
+24. The key step in this process seem s to be the below-ground, symbiotic fungus root structures (mycorrhizal association) studied closely by Sir Albert Howard. See
 chapter 7.
 
 25. Som e of the pests in question included the "pine looper moth, pine beauty,
@@ -12489,7 +12489,7 @@ rust, honey fungus, red rot" (Maser, The Redesigned Forest, p. 78).
 they seem ed to herald the use of biological controls rather than pesticides.
 
 27. The untoward consequences of engineering a forest in order to maximize
-the production of a single comm odity is by now a worldwide experience. After
+the production of a single comm commodity is by now a worldwide experience. After
 World War II, Japan adopted a policy of replacing many of the forests that had been
 plundered for fuelwood and building materials with a single species: the Japanese
 cedar, selected for its rapid growth and comm ercial value. Now it is clear that the
@@ -12521,7 +12521,7 @@ tried to fix the forests has ended up making them worse" (Forest Dreams, Forest
 Nightmares, p. 2).
 
 32. The brief description that follows is drawn largely from James B. Collins,
-Fiscal Lim its o f A bsolutism : Direct Taxation in Early Seventeenth-Century France
+Fiscal Lim its o f A Absolutism : Direct Taxation in Early Seventeenth-Century France
 (Berkeley: University of California Press, 1988).
 
 33. P. M. Jones, The Peasantry in the French Revolution (Cambridge: Cambridge
@@ -12538,7 +12538,7 @@ quarter troops in their parish (introduction to Tore Frangsmyr, J. L. Heilbron, 
 Robin E. Rider, eds., The Quantifying Spirit in the Eighteenth Century [Berkeley:
 University of California Press, 1991], p. 13).
 
-36. This assumes that the crown wanted to m axim ize its proceeds in the long
+36. This assumes that the crown wanted to m maximize ize its proceeds in the long
 run. It was and is common, of course, for regimes in political or military crises to
 mortgage their futures by squeezing as much as possible from their forests or their
 subjects. See, in this context, the superb analytical synthesis of Charles Tilly, Coercion, Capital, and European States, a .d . 990-1992 (Oxford: Blackwell, 1990), who
@@ -12570,17 +12570,17 @@ renegotiation, to treat the existing arrangement as fixed and sacrosanct.
 
 364 Notes to Pages 28-32
 
-in this connection, the evidence for a long decline in tithe payments in France: Emmanuel LeRoi Ladurie and Joseph Gay, Tithe and Agrarian H istory from the Fourteenth Century to the Nineteenth Century: An E ssay in Comparative History, trans.
+in this connection, the evidence for a long decline in tithe payments in France: Emmanuel LeRoi Ladurie and Joseph Gay, Tithe and Agrarian H istory from the Fourteenth Century to the Nineteenth Century: An E Essay in Comparative History, trans.
 Susan Burke (Cambridge: Cambridge University Press, 1982), p. 27.
 
 44. Kula, Measures and Men, p. 150. In Lower Burma in the 1920s and '30s, the
-landlord's paddy basket for receiving tenants' rent in kind was nicknamed "the cartbreaker" (James C. Scott, The Moral Econom y o f the Peasant: Rebellion and Subsistence in Southeast Asia [New Flaven: Yale University Press, 1976], p. 71).
+landlord's paddy basket for receiving tenants' rent in kind was nicknamed "the New Haven" (James C. Scott, The Moral Econom y o f the Peasant: Rebellion and Subsistence in Southeast Asia [New Flaven: Yale University Press, 1976], p. 71).
 
 45. The famous iron toise of Paris, for example, was set in one of the walls of the
 Grand Chatelet; see Ken Alder, "A Revolution Made to Measure: The Political Economy of the Metric System in France," in Norton W. Wise, ed., Values o f Precision
 (Princeton: Princeton University Press, 1995), p. 44.
 
-46. Marsenne, in the seventeenth-century spirit of exactitude, calculated that a
+46. Mersenne, in the seventeenth-century spirit of exactitude, calculated that a
 striked boisseau held 172,000 grains of wheat, whereas a heaped measure held
 220,160 (Kula, Measures and Men, p. 172). The advantage with oats, a larger grain,
 is less.
@@ -12627,7 +12627,7 @@ baum and Ira Katznelson, eds., Paths o f E m ancipation: Jews, States, and Citiz
 
 61. Gianfranco Poggi, The Development o f the M odem State: A Sociological Introduction (Stanford: Stanford University Press, 1978), p. 78. For all the advance in
 human rights that equal citizenship carried with it, it is worth recalling that this
-mom entous step also undercut the intermediary structures between the state and
+mom momentous step also undercut the intermediary structures between the state and
 the citizen and gave the state, for the first time, direct access to its subjects. Equal
 citizenship im plied not only legal equality and universal male suffrage but also universal conscription, as those mobilized into Napoleons armies were shortly to discover. From the heights of the state, the society below increasingly appeared as an
 endless series of nationally equal particuliers with whom it dealt in their capacity
@@ -12636,13 +12636,13 @@ as subjects, taxpayers, and potential military draftees.
 63. As E. P. Thompson wrote in Whigs and Hunters: The Origin o f the Black Act
 (New York: Pantheon, 1975): "During the eighteenth century one legal decision
 after another signaled that the lawyers had becom e converted to notions of absolute property ownership, and that (wherever the least doubt could be found) the
-law abhorred the m essy complexities of coincident use-right" (p. 241).
+law abhorred the m messy complexities of coincident use-right" (p. 241).
 
 64. The code civil did not deal with agriculture explicitly, with one exception: it
 specified guidelines for tenant farming (fermage), in recognition of the wealthy and
 influential large tenants in the Paris basin and to the north. I am grateful to Peter
 Jones for bringing to my attention the study on which this brief discussion is based:
-Serge Aberdam, Aux origines du code rural, 1789-1900: Un siecle de debat (n.d., but
+Serge Aberdam, Aux origines du code rural, 1789-1900: Un siecle de débat (n.d., but
 probably 1978-80).
 
 65. "En resume, la ligne generale du projet de 1807 est de refuser toute
@@ -12656,7 +12656,7 @@ w hole [my translation]; ibid., p. 19).
 66. No such political scruples were in evidence in the colonies, where administrative convenience and com m ercial logic prevailed over popular opinion and
 practice. See, for example, the fine case study by Dennis Galvan, "Land Pawning as
 a Response to the Standardization of Tenure," chap. 4 of "The State Is Now Master
-of Fire: Peasant Lore, Land Tenure, and Institutional Adaptation in the Siin Region
+of Fire: Peasant Lore, Land Tenure, and Institutional Adaptation in the Sine Region
 of Senegal" (Ph.D. diss., Department of Political Science, University of California,
 Berkeley, 1996).
 
@@ -12693,11 +12693,11 @@ states and Canada is but one of many pieces of conflicting evidence. For more, s
 George Yaney, The Urge to Mobilize: Agrarian Reform in Russia (Urbana: University
 of Illinois Press, 1982), pp. 165-69.
 
-74. A contemporary example from M exico can be found in a fine analysis by
+74. A contemporary example from M Mexico can be found in a fine analysis by
 Sergio Zendejas in "Contested Appropriation of Governmental Reforms in the Mexican Countryside: The Ejido as an Arena of Confrontation of Political Practices," in
 Sergio Zendejas and Pieter de Vries, eds., R ural Transformation as Seen from
 Below: Regional and Local Perspectives from Western Mexico (La Jolla, Calif.: Center
-for U.S.-M exican Studies, University of California, San Diego, 1997). As Zendejas
+for U.S.-M Mexican Studies, University of California, San Diego, 1997). As Zendejas
 shows, the ejido system emerging from the Mexican revolution has had the effect of
 depriving the state of a great deal of knowledge about agricultural patterns, house
 lots, or village common-land tenure in most of the twenty-eight thousand ejidos in
@@ -12738,7 +12738,7 @@ cadastral map, such land was generally designated as state land. All land was ac
 
 83. Kain and Biagent, The Cadastral Map, p. 33. Seas, rivers, and wastes were
 to be omitted since they did not bear revenue. The whole operation was guided by
-a manual entitled Mode d 'arpentagepour I'im pot fonder.
+a manual entitled Mode d 'arpentagepour Im pot fonder.
 
 84. Quoted in ibid., p. 5.
 85. In a Third World setting, as Peter Vandergeest points out, a cadastral or
@@ -12809,7 +12809,7 @@ Society and History 29, no. 3 (1987): 4 1 7 -5 2 .
 
 98. Ian Hacking, The Taming o f Chance (Cambridge: Cambridge University
 Press, 1990), p. 17. Petty, a student of Hobbes, conducted the survey with an eye to
-accurate assessments of value and productivity. His theoiy of political econom y can
+accurate assessments of value and productivity. His theory of political econom y can
 be found in Political Arithmetik, or A Discourse Concerning the Value o f Lands, People, Buildings . . . (1691).
 
 99. The fiction that North American and Australian landscapes were essentially empty, which in turn meant that they were not being used as a factor of production in market exchange, was the basis on which such lands were "redesignated." This is a fiction that joins the Highland Clearances and the expropriation of
@@ -12941,7 +12941,7 @@ last refuges of urban liberties? No wonder that Napoleon III sanctioned the brea
 provide wide boulevards. It was the best possible protection against assault from
 within" (The City in History, pp. 369-70).
 
-21. Quoted in Louis Girard, Nouvelle histoire de Paris: La deuxieme republique et
+21. Quoted in Louis Girard, Nouvelle histoire de Paris: La deuxième république et
 le second empire, 1848-1870 (Paris, 1981), p. 126. Cited in Merriman, Aux marges de
 la ville, p. 15. The parallels with the later ceinture rouge, the leftist working-class
 suburbs ringing Paris, are striking. Soweto and other black townships in South
@@ -12957,20 +12957,20 @@ cited in Merriman, Aux marges de la ville, p. 10.
 
 24. Ibid., pp. 8 -9 .
 25. Ibid., p. 9. Translation by Merriman.
-26. Pinkney, Napoleon III, p. 23. A com m onplace of dem ographic history has
+26. Pinkney, Napoleon III, p. 23. A com m onplace of dem demographic history has
 been that urban populations in Western Europe, beset with epidem ics and generally high mortality, did not successfully reproduce them selves until well into the
 
 Notes to Pages 62-65 371
 
 nineteenth century; the growth of cities came largely from in-migration from the
 healthier countryside. Although this position has been challenged, the evidence for
-it is still convincing. See the judicious synthesis and assessm ent by Jan de Vries,
+it is still convincing. See the judicious synthesis and assessment ent by Jan de Vries,
 European Urbanization, 1500-1800 (Cambridge: Harvard University Press, 1984),
 pp. 175-200.
 
 27. Pinkney, Napoleon III, chap. 2.
 28. Merriman, Aux marges de la ville, pp. 7 -8 . See also T. J. Clark, The Painting
-o f M odem Life: Paris in the Art o f M anet and His Followers (Princeton: Princeton
+o f M odem Life: Paris in the Art o f M Manet and His Followers (Princeton: Princeton
 University Press, 1984), p. 35. Louis Napoleon's and Haussmann's m ania for
 straight lines was the butt of many jokes. A character in a play by Edmond About,
 for instance, dreams of the day when the Seine itself will be straightened, because,
@@ -12999,7 +12999,7 @@ Aux marges de la ville, p. 27.
 35. Ibid., p. 30.
 36. I owe this astute observation about The Witness to Benedict Anderson. More
 generally, his analysis of the census and the map as totalizing classificatory grids,
-particularly in colonial settings, has greatly influenced my thinking here. See Anderson, Im agined Comunities: Reflections on the Origin and Spread o f Nationalism
+particularly in colonial settings, has greatly influenced my thinking here. See Anderson, Im agined Communities: Reflections on the Origin and Spread o f Nationalism
 (London: Verso, 1983), and also the remarkable book by Thongchai Winichakul,
 Siam Mapped: A H istory o f the Geo-Body o f a N ation (Honolulu: University of
 Hawaii Press, 1994).
@@ -13069,12 +13069,12 @@ put down on the roll for their father and grandfather" (ibid., p. 44). And given
 vagaries of the mortality rate in fourteenth-century England, younger sons might
 want to keep the name as well, just in case.
 
-51. In historical documents one can occasionally glim pse a moment when a
+51. In historical documents one can occasionally glimpse pse a moment when a
 permanent surname seem s to gel. Under Henry VIII in the early sixteenth century,
 for example, a Welshman who appeared in court was asked for his name, and he
 answered, in the Welsh fashion, "Thomas Ap [son of] William, Ap Thomas, Ap
 Richard, Ap Hoel, Ap Evan Vaughan." He was scolded by the judge, who instructed
-him to "leave the old manner, . . . whereupon he after called him self Moston, according to the name of his principal house, and left that name to his posteritie"
+him to "leave the old manner, . . . whereupon he after called him self Moston, according to the name of his principal house, and left that name to his posterity"
 (William Camden, Remains Concerning Britain, ed. R. D. Dunn [1605; Toronto:
 
 Notes to Pages 68-71 373
@@ -13083,7 +13083,7 @@ University of Toronto Press, 1984], p. 122). This "administrative" last name alm
 certainly remained unknown to Thomas's neighbors.
 
 52. See the classic study by Rodney Hilton, Bond Men Made Free: Medieval
-Peasant M ovements and the English R ising o f 1381 (New York: Viking Press, 1977),
+Peasant M movements and the English R ising o f 1381 (New York: Viking Press, 1977),
 pp. 160-64.
 
 53. I am particularly grateful to Rosanne Ruttan, Otto van den Muijzenberg,
@@ -13103,7 +13103,7 @@ had not, of course, adjusted for their westward travel halfway around the globe.
 56. Ibid., p. vii.
 57. As if the Filipinos did not have perfectly adequate oral and written ge­
 
-nealogical schem es to achieve the same end.
+genealogical schem es to achieve the same end.
 
 58. Abella, Catalogo alfabetico de Apellidos, p. viii.
 59. For the best treatment of permanent patronyms in France and their relation
@@ -13140,7 +13140,7 @@ jani thus means Ali Akbar from Rafsanjan. Although this system has the advantage
 of designating the homes of the generation that adopted it, it certainly doesn't clarify much locally in Rafsanjan. It may well be that the state is particularly concerned
 with monitoring those who are mobile or "out of place."
 
-62. Dietary laws that all but preclude com m ensality are also powerful devices
+62. Dietary laws that all but preclude com m commensality are also powerful devices
 for social exclusion. If one were designating a set of cultural rules in order to wall
 off a group from surrounding groups, making sure its members cannot easily speak
 to or eat with others is a splendid beginning.
@@ -13151,7 +13151,7 @@ that the "national past" is so often fitted with a bogus pedigree.
 
 64. Eugen Weber, Peasants into Frenchmen: The M odernization o f Rural France,
 1870-1914 (Stanford: Stanford University Press, 1976), chap. 6. Weber points out
-that in the last twenty-five years of the nineteenth century, fully half of the Frenchmen reaching adulthood had a native tongue other than French. See Peter Sahlins's
+that in the last twenty-five years of the nineteenth century, fully half of the Frenchmen reaching adulthood had a native tongue other than French. See Peter Sahlins
 remarkable book Boundaries: The Making o f France and Spain in the Pyrenees
 (Berkeley: University of California Press, 1989) for a discussion of French language
 policy at its periphery. Although administrative official languages have a lineage
@@ -13175,7 +13175,7 @@ University Press, 1995), chap. 6.
 
 71. Weber, Peasants into Frenchmen, p. 195.
 72. There were continual debates over various plans: their cost, their comm ercial viability, and their military efficacy. Some of this history can be found in
-Francois Caron, Histoire de I'exploitation d 'un grand reseau: La compagnie des
+Francois Caron, Histoire de Exploitation d 'un grand réseau: La compagnie des
 chemins de fer du Nord (Paris: Mouton, 1973), and Louis-Maurice Jouffroy, Here du
 rail (Paris: A. Colin, 1953). I thank Ezra Suleiman for his bibliographical help.
 
@@ -13226,7 +13226,7 @@ or cash? The som etim es quite arbitrary decisions about how to classify such ca
 are obscured by the final result, in which only the prevailing categories appear.
 Theodore Porter notes that officials in France's Office of National Statistics report
 that even trained coders will code up to 20 percent of occupational categories differently (Trust in Numbers, p. 41). The goal of the statistical office is to ensure the
-m aximum reliability among coders, even if the conventions applied to achieve it
+m maximum reliability among coders, even if the conventions applied to achieve it
 sacrifice som ething of the true state of affairs. The second problem, to which we
 shall return later, is how the categories and, more particularly, the state pow er behind the categories shape the data. For example, during the recession in the United
 States in the 1970s, there was som e concern that the official unemployment rate,
@@ -13275,7 +13275,7 @@ European nation-state as the replacement of indirect rule with direct rule (Coer
 88. Donald Chisholm, Coordination Without Hierarchy: Inform al Structures in
 M ultiorganizational System s (Berkeley: University of California Press, 1989), p. 10.
 89. This process is best described by Benedict Anderson: "Guided by its [the
-colonial states] imagined map, it organized the new educational, juridical, publichealth, police and immigration bureaucracies it was building on the principle of
+colonial states] imagined map, it organized the new educational, juridical, public health, police and immigration bureaucracies it was building on the principle of
 ethno-racial hierarchies which were, however, always understood in terms of parallel series. The flow of subject populations through the mesh of differential schools,
 courts, clinics, police stations and immigration offices created 'traffic-habits' which
 in time gave real social life to the state's earlier fantasies" (Imagined Communities,
@@ -13311,15 +13311,15 @@ high taste. The 'modernization' of European econom ies proceeded apace, while th
 whole thrust of international politics and trade was justified as bringing a benevolent and progressive 'modernization process' to a backward Third World" (p. 35).
 4. For case studies of "public entrepreneurs" in the United States, see Eugene
 Lewis's study of Hyman Rickover, J. Edgar Hoover, and Robert M oses, Public Entrepreneurs: Toward a Theory o f Bureaucratic Political Power: The Organizational
-Lives o f H yman Rickover, J. Edgar Hoover, and Robert Moses (Bloomington: Indiana
+Lives o f H Hyman Rickover, J. Edgar Hoover, and Robert Moses (Bloomington: Indiana
 University Press, 1980).
 
 Monnet, like Rathenau, had experience in econom ic mobilization during World
-War I, when he helped organize the transatlantic supply of war material for Britian
+War I, when he helped organize the transatlantic supply of war material for Britain
 and France, a role that he resumed during World War II. By the time he helped
 plan the postwar integration of French and German coal and steel production, he
 had already had several decades of experience in supranational management. See
-Franqois Duchene, Jean Monnet: The First Statesman o f Interdependence (New York:
+François Duchêne, Jean Monnet: The First Statesman o f Interdependence (New York:
 Norton, 1995).
 
 5. I will not pursue the argument here, but I think Nazism is best understood as
@@ -13353,7 +13353,7 @@ Holmes and Meier, 1976), p. 11.
 environm entalism , see Douglas R. Weiner, "Demythologizing Environmentalism,"
 Journal o f the H istory of Biology 25, no. 3 (Fall 1992): 385 -4 11.
 
-11. See M ichael Adas's Machines as the Measure o f Men: Science, Technology,
+11. See M ichael Adas Machines as the Measure o f Men: Science, Technology,
 and Ideologies o f Western Dominance (Ithaca: Cornell University Press, 1989) and
 Marshall Berm an's A ll That Is Solid M elts into Air: The Experience o f M odernity
 (New York: Penguin, 1988). What is new in high modernism, I believe, is not so
@@ -13426,7 +13426,7 @@ To signal its intention to create a wholly new Cambodian nation, the Pol Pot reg
 began with "year zero."
 
 25. Quoted in Harvey, The Condition o f Post-M odemity, p. 99.
-26. In this section, the m asculine personal pronoun is less a convention than a
+26. In this section, the m masculine personal pronoun is less a convention than a
 choice made with som e deliberation. See Carolyn Merchant, The Death o f Nature:
 Women, Ecology, and the Scientific Revolution (San Francisco: Harper, 1980).
 
@@ -13444,7 +13444,7 @@ schem es, the greater their appeal in terms of power and patronage. For a critiq
 of flood-control projects and World Bank projects in this context, see James K.
 Boyce, "Birth of a Megaproject: Political Economy of Flood Control in Bangladesh," Environmental M anagement 14, no. 4 (1990): 4 1 9 -2 8 .
 31. Harvey, The Condition o f Post-M odemity, p. 12.
-32. See Charles Tilly's important theoretial contribution in Coercion, Capital,
+32. See Charles Tilly's important theoretical contribution in Coercion, Capital,
 
 and European States, a .d . 990 -1 992 (Oxford: Blackwell, 1990).
 
@@ -13529,9 +13529,9 @@ human beings as a screw, a nut, a m achine. But we must undertake this as fearle
 1918, cited in Maier, "Between Taylorism and Technocracy," p. 51 n. 58.
 
 50. Graham Burchell, Colin Gordon, and Peter Miller, The Foucault Effect:
-Studies in Govemm entality, with two lectures by and an interview with Michel Foucault (London: Wheatsheaf, 1991), p. 106.
+Studies in Governmentality entality, with two lectures by and an interview with Michel Foucault (London: Wheatsheaf, 1991), p. 106.
 
-51. This point has been made forcefully and polem ically in the twentieth century by Friedrich Hayek, the darling of those opposed to postwar planning and the
+51. This point has been made forcefully and polemical ically in the twentieth century by Friedrich Hayek, the darling of those opposed to postwar planning and the
 welfare state. See, especially, The Road to Serfdom (Chicago: University of Chicago
 Press, 1976).
 
@@ -13555,7 +13555,7 @@ Practice (Cresskill, N.J.: Hampton Press, 1995).
 5. Le Corbusier (Charles-Edouard Jeanneret), The R adiant City: Elements o f a
 Doctrine o f Urbanism to Be Used as the Basis o f Our Machine-Age Civilization, trans.
 Pamela Knight (New York: Orion Press, 1964). The original French edition is La
-ville radieuse: Elements d'une doctrine d 'urbanisme pour Tequipement de la civilisation m achiniste (Boulogne: Editions de l'Architecture d'Aujourd'hui, 1933). The
+ville radieuse: Elements d'une doctrine d 'urbanisme pour Équipement de la civilisation m achiniste (Boulogne: Editions de l'Architecture Aujourd'hui'hui, 1933). The
 following analysis draws heavily on both.
 
 6. Le Corbusier, The Radiant City, p. 220.
@@ -13624,7 +13624,7 @@ rather more interesting than his theoretical doctrines.
 city plan Plato outlines in The Laws: an acropolis at the center, concentric rings of
 the urban core, an artisan (noncitizen) suburb, and the the inner and outer rings of
 the cultivated area. The "pie" is divided into twelve segments that form the basis for
-the recruitm ent and annual rotation of the guard force. See Pierre Vidal-Naquet,
+the recruitment ent and annual rotation of the guard force. See Pierre Vidal-Naquet,
 "A Study in Ambiguity: Artisans in the Platonic City," chap. 11 of The Black Hunter:
 Forms o f Thought and Forms o f Society in the Greek World, trans. Andrew Szegedy-
 Maszak (Baltimore: Johns Hopkins University Press, 1986), pp. 2 2 4 -4 5 .
@@ -13649,7 +13649,7 @@ den Muijzenberg for this reference.
 but I think this one is justified here. When Le Corbusier writes of the beauty of the
 Parthenon, the celebration of violence is just beneath the surface. "Remember the
 Parthenon," he writes. "Remember its clarity, its clear lines, its intensity, its economy, its violence, remember its great cry in the midst of that landscape created by
-grace and terror. Strength and purity" (ibid., p. 187 [emphasis added]). Le Corbusier also has the tendency, as w e shall presently see, to dehum anize his opponents and the urban poor: "Everything depends upon the wisdom of the plans. . . .
+grace and terror. Strength and purity" (ibid., p. 187 [emphasis added]). Le Corbusier also has the tendency, as w e shall presently see, to dehumanize anize his opponents and the urban poor: "Everything depends upon the wisdom of the plans. . . .
 I am talking here of a society that has already provided itself with a planned economy and swept away all the parasites present in the society we know today" (p. 73
 [emphasis added]).
 
@@ -13665,7 +13665,7 @@ not necessarily from an esprit geometrique, as it did with Descartes; the planne
 was seen to demonstrate royal power and to be more healthful, even in the seventeenth century. Thus John Evelyn, recently back from European exile with Charles
 II, wrote that London was "a city consisting of a wooden, northern, and inartificial
 congestion of houses, som e of its principal streets so narrow, as there is nothing
-more deformed and unlike the prospect of it at a distance, and its assymmetrie
+more deformed and unlike the prospect of it at a distance, and its assymmetry
 within the w alls" (quoted in Mark Jenner, "The Politics of London Air: John Evelyn's Fumifugium and the Restoration," H istorical Journal 38, no. 3 [1995]: 542
 [emphasis added]).
 
@@ -13751,7 +13751,7 @@ later renounced.
 
 56. Brazil has something of a history of making ambitious plans to claim the interior and then seeing them com e to grief. In 1972, the trans-Amazonian highway
 was opened amid much fanfare (and ecological concern); by the late 1980s, much
-of the road was overgrown and impassible.
+of the road was overgrown and impassable.
 
 57. Quoted in Lawrence J. Vale, Architecture, Power, and N ational Identity (New
 
@@ -13776,7 +13776,7 @@ a safe environment for children.
 66. Ibid., p. 163.
 67. Ibid., p. 171. The freestanding small house could also be merely a repre­
 
-sentational convention that gets established early in childhood.
+representational convention that gets established early in childhood.
 
 68. See Holston's interesting analysis of how the superquadra apartment design
 eliminates the most public or social space of the traditional Brazilian dwelling, the
@@ -13849,7 +13849,7 @@ began as an artist and never stopped painting.
 
 84. Ibid., p. 437.
 85. Ibid., pp. 3 1 -3 2 . The recent social science literature on social trust and
-social capital, dem onstrating the econom ic costs of their absence, signals that
+social capital, dem demonstrating the econom ic costs of their absence, signals that
 this hom ely truth is now a subject of formal inquiry. It is important to specify that
 Jacobs's point about "eyes on the street" assum es a rudimentary level of com m unity feeling. If the eyes on the street are hostile to som e or all m em bers of the
 community, as Talja Potters has reminded me, public security is not enhanced.
@@ -13860,7 +13860,7 @@ community, as Talja Potters has reminded me, public security is not enhanced.
 88. Ibid., pp. 6 0 -6 1 . Jacobs offers a catalogue of nonreimbursed services provided by a typical candy-store proprietor in the course of a single morning, acknowledging that many of these small services allow the shopkeeper to further "entangle" his or her clientele.
 
 89. Ibid., p. 56 (emphasis in original).
-90. Ibid., pp. 8 4 -8 8 . Jacobs quotes a 1928 regional planning report on recre­
+90. Ibid., pp. 8 4 -8 8 . Jacobs quotes a 1928 regional planning report on recreation­
 
 Notes to Pages 137-42 387
 
@@ -13904,7 +13904,7 @@ Property," pp. 267 -3 03.
 99. Ibid., p. 391. The echoes of such influential anarchist thinkers as Pierre-
 Joseph Proudhon and Peter Kropotkin reverberate in this passage. I do not know
 whether Jacobs intended these resonances, which may have come from the work of
-Paul Goodman. But what is m issing is a recognition that, in the absence of statebased urban planning, large comm ercial and speculative interests are transforming the urban landscape every day. The effect of her argument is to "naturalize" the
+Paul Goodman. But what is m missing is a recognition that, in the absence of state-based urban planning, large comm ercial and speculative interests are transforming the urban landscape every day. The effect of her argument is to "naturalize" the
 unplanned city by treating it as the consequence of thousands of small and notionally equal acts.
 
 100. Ibid., p. 737.
@@ -14015,7 +14015,7 @@ Princeton University Press, 1970), chap. 3, especially pp. 129-30.
 22. When it came to preventing actual disease and infection, Lenin took it on
 him self to ensure that the Kremlin was a clean, germ-free environment by writing
 its sanitary regulations himself. He instructed, for example, that "all those arriving
-(by train) shall before entering their accom m odation take a bath and hand their
+(by train) shall before entering their accom m accommodation take a bath and hand their
 dirty clothes to the disinfector at the baths. . . . Anyone refusing to obey the sanitary
 regulations w ill be expelled from the Kremlin at once and tried for causing social
 harm." From Dimitri Volkogonov, Lenin: Life and Legacy, trans. Harold Shukman
@@ -14065,7 +14065,7 @@ October 1917 was recognized by Lenin when he said, in 1918, "Anarchist ideas
 have now taken on living form." See Daniel Guerin, Anarchism: From Theory to
 Practice, trans. Mary Klopper (New York: Monthly Review Press, 1970), p. 85. Much
 of the early Bolshevik legislation, Guerin notes, was the ex post facto legalization of
-autonmous actions and practices.
+autonomous actions and practices.
 
 32. See the illuminating, detailed study, based on rich archival material, by Orlando Figes: Peasant Russia, Civil War: The Volga Countryside in Revolution,
 1917-1921 (Cambridge: Cambridge University Press, 1996).
@@ -14080,8 +14080,8 @@ entirely supplant the individual and collective experiences of those who actuall
 and who thus come to the revolution via the schoolbook or patriotic speech, however,
 the official story will prevail unless there is another conflicting source of information.
 36. This is the point of the ditty "For want of a nail the shoe was lost; for want of
-a shoe the horse was lost; for want of a horse the m essenger was lost; for want of a
-m essage the battle was lost; for want of a victory a kingdom was lo s t. . ." (John M.
+a shoe the horse was lost; for want of a horse the m messenger was lost; for want of a
+m message the battle was lost; for want of a victory a kingdom was lo s t. . ." (John M.
 Merriman, ed., For Want o f a Horse: Choice and Chance in H istory [Lexington,
 Mass.: S. Greens Press, 1985]).
 
@@ -14140,7 +14140,7 @@ was boundless and echoes the quasi-racist attitude of Victorian elites toward th
 48. Stites, Revolutionary Dreams, p. 32.
 49. V. I. Lenin, The Agrarian Question and the Critics o f Marx, 2nd rev. ed.
 (Moscow: Progress Publishers, 1976). Lenin's basic position on agriculture had
-been worked out long before in his 1889 book, The Development o f C apitalism in
+been worked out long before in his 1889 book, The Development o f C capitalism in
 
 392 Notes to Pages 164-67
 
@@ -14176,7 +14176,7 @@ proven more practical than electricity.
 
 58. The centralization that electrification makes possible also sets the stage for
 large-scale pow er failures and brownouts. The practice of this technical centralization is often in stark, if not comic, contrast to its utopian promise. See, for an illuminating example from the Philippines under Marcos, Otto van den Muijzenberg,
-"As Bright Lights Replace the Kingke: Som e Sociological Aspects of Rural Electrification in the Philippines," in Margaret M. Skutsch et al., eds., Towards a Sustainable Development (forthcoming).
+"As Bright Lights Replace the Kingdom: Som e Sociological Aspects of Rural Electrification in the Philippines," in Margaret M. Skutsch et al., eds., Towards a Sustainable Development (forthcoming).
 
 59. As m ight be expected, the analogy between the light of electricity and the
 "enlightenment" of the narod was often evoked in Soviet rhetoric, combining, as it
@@ -14210,13 +14210,13 @@ from Lenin's view when he was out of power.
 
 64. Elzbieta Ettinger suggests that one likely source of Luxemburg's faith in the
 wisdom of ordinary workers was her love of the great Polish nationalist poet, Adam
-M ickiewicz, who celebrated the insight and creativity of ordinary Poles. See Rosa
+M Mickiewicz, who celebrated the insight and creativity of ordinary Poles. See Rosa
 Luxemburg: A Life (Boston: Beacon Press, 1986), pp. 2 2 -2 7 .
 
-65. Luxemburg, "M ass-Strike, Party, and Trade Unions," p. 229. Despite Luxem burg's dism issive reference to anarchism, her views overlap considerably with
+65. Luxemburg, "M ass-Strike, Party, and Trade Unions," p. 229. Despite Luxem burg's dism dismissive reference to anarchism, her views overlap considerably with
 an anarchist view of the independent, creative role of ordinary actors in a revolution. See, for example, G. D. Maximoff, ed., The Political Philosophy o f Bakunin: Scientific Anarchism (New York: Free Press, 1953), p. 289, in which Bakunin's view of
 the limitations of leadership by a central comm ittee prefigures Luxemburg's own
-modest opinion of a central comm ittee's role.
+modest opinion of a central comm committee role.
 
 66. This way of analyzing working-class movements grew directly out of Luxemburg's research for her 1898 doctoral thesis at the University of Zurich, "The Industrial Developm ent of Poland." See J. P. Nettl, Rosa Luxemburg, vol. 1 (London:
 Oxford University Press, 1966).
@@ -14255,7 +14255,7 @@ formal instruction was the norm. Luxemburg spent m uch of her career meeting
 classes and grading papers at the higher party school of the SDP.
 
 78. Ibid. (emphasis added). Compare this with the approach of the Italian anarchist Errico Malatesta, who in 1907 stated in Anarchy that even if rule by beneficent
-authoritarian socialists were possible, it "would im m ensely dim inish [productive
+authoritarian socialists were possible, it "would im m ensely dim diminish [productive
 force], because the government would restrict initiative to the few" (quoted in Irving
 Louis Horowitz, The Anarchists [New York: Dell, 1964], p. 83).
 
@@ -14282,7 +14282,7 @@ but as "our children, those of the Communist state."
 
 Introduction to Part 3
 
-1. Pierre-Joseph Proudhon, "Q'est-ce que c'est la propriete?" quoted in Daniel
+1. Pierre-Joseph Proudhon, "Qu'est-ce que c'est la propriété?" quoted in Daniel
 Guerin, Anarchism: From Theory to Practice, trans. Maty Klopper (N ew York:
 Monthly Review Press, 1970), pp. 15-16.
 
@@ -14313,7 +14313,7 @@ profitable and manageable for trade conducted over long distances.
 Narathihapate from Queen Saw, taken from The Glass Palace Chronicle o f the Kings
 o f Burma, trans. Pe Maung Tin and G. H. Luce (London: Oxford University Press,
 1923), p. 177: '"Consider the state of the realm. Thou hast no folk or people, no host
-of countrymen and countrywomen around thee. . . . Thy countrymen and countrywom en tarry and w ill not enter thy kingdom. They fear thy domination; for thou, O
+of countrymen and countrywomen around thee. . . . Thy countrymen and countrywomen en tarry and w ill not enter thy kingdom. They fear thy domination; for thou, O
 King Alaung, art a hard master."'
 
 The classic analysis of the phenom enon in Southeast Asia m ay be found in
@@ -14368,7 +14368,7 @@ cedes control to a rebellious or resistant population.
 
 land more easily available for inclusion in state logging and revenue plans.
 
-14. Anna Lowenhaupt Tsing, In the Realm o f the D iam ond Queen: M arginality
+14. Anna Lowenhaupt Tsing, In the Realm o f the D iam ond Queen: M Marginality
 in an Out-of-the-Way Place (Princeton: Princeton University Press, 1993), pp. xiii,
 28, 41.
 
@@ -14390,7 +14390,7 @@ unique in this advantage to centralized production.
 work on the estates proved insurmountable, and thus it seem ed more convenient to
 import Indian and Chinese laborers for the growing estate labor force. This fact
 alone favored plantations unless the colonizers were w illing to risk the political
-dangers of creating a class of imported yeom en to com pete with the Malays for
+dangers of creating a class of imported yeomen en to com pete with the Malays for
 land. Elsewhere, there were other solutions to creating a legible sphere of appropriation. On Java, the Culture System required the village, in lieu of taxes, to plant
 an export crop every so often on village lands. Where it was vital to force an economically independent peasantry into wage labor or plantation work, a universal,
 annual head tax payable in cash was often found to be useful.
@@ -14411,10 +14411,10 @@ Group of the Asia Society, circa 1970.
 I believe that this logic of social dem obilization is the key elem ent in the com ­
 monly observed fact that, at the beginning of industrialization, the declining rural
 community is often more likely to be a source of collective protest than is the newly
-constituted proletariat, notwithstanding standard Marxist reasoning to the contrary. Resettlement, whether forced or unforced, often elim inates a prior com m unity and replaces it with a temporarily disaggregated mass of new arrivals. It is
+constituted proletariat, notwithstanding standard Marxist reasoning to the contrary. Resettlement, whether forced or unforced, often elim eliminates a prior com m unity and replaces it with a temporarily disaggregated mass of new arrivals. It is
 ironically just such a population that may, for the time being, more closely resem ­
 ble the "potatoes in a sack" than the peasantry of the bocage described by Marx in
-The Eighteenth Brumiare.
+The Eighteenth Brumaire.
 
 Chapter 6: Soviet Collectivization, Capitalist Dreams
 
@@ -14434,11 +14434,11 @@ these lines, see also Jan P. Nederveen Pieterse and Bhikhu Parekh, eds., The Dec
 
 munist utopian schem es like these by calling them "barracks Communism."
 
-4. One could say that Catherine the Great, being Prussian born and an avid correspondent with several of the Encylopedists, including Voltaire, came by her
+4. One could say that Catherine the Great, being Prussian born and an avid correspondent with several of the Encyclopedists, including Voltaire, came by her
 mania for rational order honestly.
 
 5. Sheila Fitzpatrick, The Russian Revolution (Oxford: Oxford University Press,
-1982), p. 119. The term "gigantom ania" was, I believe, also in use in the Soviet
+1982), p. 119. The term "gigantomania ania" was, I believe, also in use in the Soviet
 Union. The ultimate failure of most of the u s s r 's great schem es is in itself an important story, the significance of which was captured epigrammatically by Robert
 Conquest, who observed that "the end of the Cold War can be seen as the defeat of
 M agnitogorsk by Silicon Valley" ("Party in the Dock," Times Literary Supplement,
@@ -14489,7 +14489,7 @@ buying or leasing land was cheap.
 
 19. Wheat and flax are, in the terminology developed later in this chapter, "pro­
 
-letarian" crops as opposed to "petit-bourgeois" crops.
+proletarian" crops as opposed to "petit-bourgeois" crops.
 
 20. Fitzgerald, Yeoman No More, chap. 4, pp. 15-17 .
 21. See above, nn. 14 and 18.
@@ -14513,7 +14513,7 @@ bowl, see Donald Worster, D ust Bowl: The Southern Plains in the 1930s (New York
 Oxford University Press, 1979).
 
 24. Fitzgerald, Yeoman No More, chap. 4, p. 33. The plan's outline can be found
-in M ordecai Ezekial and Sherman Johnson, "Corporate Farming: The Way Out?''
+in M Mordecai Ezekial and Sherman Johnson, "Corporate Farming: The Way Out?''
 N ew Republic, June 4, 1930, pp. 6 6 -6 8 .
 
 25. Michael Gold, "Is the Small Farmer Dying?" New Republic, October 7, 1931,
@@ -14525,10 +14525,10 @@ American Agriculture in the Soviet Union, 1928-1932 f Agricultural History 70, n
 3 (Summer 1996): 4 5 9 -8 6 .
 
 27. Enthusiastic visitors included the likes of John Dewey, Lincoln Steffens,
-Rexford Tugwell, Robert LaFollette, Morris Llewellyn Cooke (at the time the forem ost exponent of scientific management in the United States), Thurman Arnold,
+Rexford Tugwell, Robert LaFollette, Morris Llewellyn Cooke (at the time the foremost ost exponent of scientific management in the United States), Thurman Arnold,
 and, of course, Thomas Campbell, who called the Soviet experiment "the biggest
 farming story the world has ever heard." Typical of the praise for Soviet plans for a
-progressive, m odernized rural life was this appraisal by Belle LaFollette, the wife
+progressive, m modernized rural life was this appraisal by Belle LaFollette, the wife
 of Robert LaFollette: "If the Soviets could have their way, all land would be cultivated by tractors, all the villages lighted by electricity, each community would have
 a central house serving for the purpose of school, library, assembly hall, and theatre. They would have every convenience and advantage which they plan for the industrial workers in the city" (quoted in Lewis S. Feuer, "American Travelers to the
 Soviet Union, 1917-1932: The Formation of a Component of N ew Deal Ideology,"
@@ -14555,7 +14555,7 @@ in ibid., p. 261).
 be analyzed in comparable terms. I have chosen to concentrate on Soviet Russia
 largely because events there occurred some thirty years before the Great Leap Forward and hence have received much more scholarly attention, especially during
 the past seven years, when the newly opened Russian archives have greatly expanded our knowledge. For a recent popular account of the Chinese experience,
-see Jasper Becker, H ungry Ghosts: China's Secret Famine (London: John Murray,
+see Jasper Becker, H Hungry Ghosts: China's Secret Famine (London: John Murray,
 1996).
 
 35. In cases where yields were high among state farms and show projects, they
@@ -14576,7 +14576,7 @@ term scornfully, implying both criminal tendencies and political opportunism, I 
 38. Stalin, it is now believed, was personally responsible for drafting in August
 1932 a secret decree branding all those who withheld grain, now declared to be
 "sacred and untouchable" state property, as "enemies of the people" and ruling that
-they should be summarily arrested and shot. The sam e Stalin, at the Second Congress of Outstanding Kolkhozniks in 1935, cham pioned the retaining of adequate
+they should be summarily arrested and shot. The sam e Stalin, at the Second Congress of Outstanding Kolkhozniks in 1935, cham championed the retaining of adequate
 private plots: "The majority of kolkhozniks want to plant an orchard, cultivate a
 vegetable garden or keep bees. The kolkhozniks want to live a decent life, and for
 that this 0.12 hectares is not enough. We need to allocate a quarter to half a
@@ -14597,13 +14597,13 @@ ture, 1929-1930 (London: Macmillan, 1980), p. 51.
 was less incentive for the peasantry to sell grain in order to make purchases in the
 market.
 
-44. See Orlando Figes's remarkably perceptive and detailed book, Peasant Russia, Civil War: The Volga Countryside in Revolution, 1917-1921 (Oxford: Clarendon
+44. See Orlando Figes remarkably perceptive and detailed book, Peasant Russia, Civil War: The Volga Countryside in Revolution, 1917-1921 (Oxford: Clarendon
 Press, 1989). Even near revolutions create a similar vacuum. Following the 1905
 revolution, it took the czarist government nearly two years to reassert its control
 over the countryside.
 
 45. The relative unity of the village was itself enhanced by the revolutionary
-process. The richest landlords had left or been burned out, and the poorest, landless families had typically gotten some land. As a result, the villagers were more socioeconom ically similar and therefore more likely to respond similarly to external
+process. The richest landlords had left or been burned out, and the poorest, landless families had typically gotten some land. As a result, the villagers were more socioeconomically ically similar and therefore more likely to respond similarly to external
 demands. Since many of the independent farmers were pressured to return to the
 commune, they were now dependent on the entire village for their household's allotment of the communal lands. Thus it is not hard to understand why, in those instances where the kombedy was an instrument of Bolshevik policy, it faced determined opposition from the more representative village soviet. "One government
 official from Samara Province claimed, with conscious irony, that the conflicts between the kombedy and the Soviets represented the main form of 'class struggle' in
@@ -14652,11 +14652,11 @@ were also ignored.
 peasantry can escape from poverty and darkness" (Davies, The Socialist Offensive,
 p. 282). Perhaps the best visual images of the culturally transforming properties of
 electricity, machinery, and collectivization are found in Sergey Eisenstein's film The
-General Line, a veritable technological romance set in rural Russia. The film m asterfully conveys the utopian aspirations of high modernism by contrasting the plodding dark narod with his horse and scythe with im ages of electric cream separators, tractors, m ow ing machines, engines, skyscrapers, engines, and airplanes.
+General Line, a veritable technological romance set in rural Russia. The film m masterfully conveys the utopian aspirations of high modernism by contrasting the plodding dark narod with his horse and scythe with im ages of electric cream separators, tractors, m ow ing machines, engines, skyscrapers, engines, and airplanes.
 
 63. Fitzpatrick, Stalin's Peasants, p. 194.
 64. Ibid., pp. 3 0 6 -9 .
-65. For an account of how an even more extreme version of regional specialization was im posed on the Chinese countryside, in violation of local soil and clim atological conditions, see Ralph Thaxton, Salt o f the Earth: The Political Origins
+65. For an account of how an even more extreme version of regional specialization was im posed on the Chinese countryside, in violation of local soil and clim climatological conditions, see Ralph Thaxton, Salt o f the Earth: The Political Origins
 o f Peasant Protest and Communist Revolution in China (Berkeley: University of California Press, forthcoming).
 
 66. Figes, Peasant Russia, Civil War, p. 304. The analogy took concrete form in
@@ -14667,7 +14667,7 @@ many of the early revolts against collectivization, during which the peasantry d
 had under serfdom.
 
 67. Conquest, Harvest o f Sorrow, p. 152.
-68. The resem blances to serfdom are spelled out in som e detail in Fitzgerald,
+68. The resem resemblances to serfdom are spelled out in som e detail in Fitzgerald,
 Stalin 's Peasants, pp. 128-39. For a careful and informed discussion of serfdom
 and com parisons to slavery, see Peter Kolchin, Unfree Labor: American Slavery and
 Russian Serfdom (Cambridge: Harvard University Press, 1987).
@@ -14744,7 +14744,7 @@ o f Bakunin: Scientific Anarchism [New York: Free Press, 1953], p. 289).
 between capitalist norms and institutions on one hand and Protestantism on the
 other. His argument is not one of direct causation but of "fit" and symbiosis.
 
-81. See books 4 and 5 in vol. 2 of Gabriel Ardant, Theorie sociologique de I'impot
+81. See books 4 and 5 in vol. 2 of Gabriel Ardant, Theorie sociologique de L'impôt
 
 (Paris: c e v p e n , 1965).
 
@@ -14798,7 +14798,7 @@ crops and eventually a full system of rotational strip cropping" (ibid., p. 104)
 
 10. There is nothing odd about this displacem ent, which occurs alm ost unconsciously. The "look" of agriculture is stamped with specific, historically contingent
 features that tend to be forgotten in practice until one's visual expectations are
-upset. When, for example, I first visited northern B ohem ia before 1989, I was
+upset. When, for example, I first visited northern B Bohemia ia before 1989, I was
 taken aback by huge collectivized m aize fields that extended two or three miles,
 unbroken by fences or lines of trees. I realized that my visual expectations about
 the countryside included the physical evidence of sm all private properties: tree
@@ -14807,7 +14807,7 @@ surprised.)
 
 11. Beinert, "Agricultural Planning," p. 113.
 12. For an exceptionally perceptive account of the differences between the geography of traditional, chiefly power and the Cartesian logic of colonial planning in
-southern Africa, see Isable Hofmyer, They Spend Their Lives as a Tale That Is Told
+southern Africa, see Isabel Hofmyer, They Spend Their Lives as a Tale That Is Told
 (Portsmouth, N.H.: Heinemann, 1994).
 
 13. Ibid., pp. 138-39.
@@ -14996,7 +14996,7 @@ added).
 Survival (Uppsala: Scandinavian Institute of African Studies, 1986), p. 119. Unfavorable price and currency movements meant that a five-fold increase in the volume of imports from 1973 to 1975 now represented a thirty-fold increase in Value.
 55. Here the key is perhaps the difference between subsistence production and
 production for the market. I am grateful to Bruce McKim for emphasizing that the
-m acroeconom ic incentives for market production were minimal. Producer prices,
+m macroeconomic ic incentives for market production were minimal. Producer prices,
 which were set by the state marketing boards, were all but confiscatory, and in any
 case the shops contained few goods on which the proceeds could have been spent.
 56. The intention of this law, which had a long colonial history, was to force the
@@ -15004,7 +15004,7 @@ peasantry into planting crops that did well under arid conditions, thus lowering
 government's food relief expenditures during times of famine.
 
 57. The system of cotton cultivation in Mozambique was a draconian model of
-this policy. The Portuguese made great efforts to concentrate the population (concentragaoes) so that officials or concessionaires could enforce cotton cultivation and
+this policy. The Portuguese made great efforts to concentrate the population (concentrações) so that officials or concessionaires could enforce cotton cultivation and
 delivery. In one variant, plots were marked off by surveyors, and every family was
 assigned a plot. The scheme was enforced by a system in which personalized passes
 indicated whether their bearers had acquitted their cotton quotas for the year; those
@@ -15029,7 +15029,7 @@ food ever becam e much more than an aspiration.
 Moody, Ujamaa, p. 102.
 
 62. Graham Thiele, "Villages as Econom ic Agents," pp. 9 8 -9 9 . See also Don
-Hassett, "The Developm ent of Village Co-operative Enterprise in M chinga II Village, Lindi Region," in Abrahams, Villagers, Villages, pp. 16-54.
+Hassett, "The Developm ent of Village Co-operative Enterprise in M Mchinga II Village, Lindi Region," in Abrahams, Villagers, Villages, pp. 16-54.
 
 Notes to Pages 24 0 -4 5 409
 
@@ -15081,7 +15081,7 @@ to Villagization," in Mwansasu and Pratt, Towards Socialism in Tanzania, p. 128.
 81. Quoted in Coulson, African Socialism in Practice, p. 65. The relentless em ­
 phasis on quantitative achievements was echoed in the newspapers: so many people moved to new villages, so many new villages formed, so m any acres of crops
 sown, such and such a percentage of a district rehoused, so many plots of land allocated, etc. See, for example, typical articles in D aily News [Dar es Salaam]:
-"14,133 Move into Villages in Chjunya," February 19, 1974; "Two Months After Op­
+"14,133 Move into Villages in Chunya," February 19, 1974; "Two Months After Op­
 
 410 Notes to Pages 245-47
 
@@ -15165,7 +15165,7 @@ Isaksson were more inclined to take the regime at its word than were Clay and hi
 colleagues at Cultural Survival.
 
 95. Ibid., p. 449.
-96. A similar geom etrical m eticulousness was followed in Pol Pot's Cambodia.
+96. A similar geom etrical m meticulousness was followed in Pol Pot's Cambodia.
 Walls of earth were thrown up to make long, straight canals, eliminating irregular
 paddies and creating hectare squares of riceland. Concentration of population,
 forced labor, the prohibition of foraging or departure, the control of food rations,
@@ -15208,7 +15208,7 @@ has its own time to plant" (ibid., p. 23).
 104. Food aid was, in turn, used to round up people for resettlement and, when
 resettled, to hold them there. A standard technique of the Dergue was to announce
 a tim e and place for food distribution and then ship off the crowd that assembled.
-105. An extreme version of this visual codification can be seen in Ceau§mescu's
+105. An extreme version of this visual codification can be seen in Ceau§Ceaușescu
 Romania, where hundreds of villages were destroyed in order to make room for
 nonfunctioning towns with "modern apartment flats" (easier to control) and where
 the countryside was divided up into zones of strict agricultural specialization as if
@@ -15219,7 +15219,7 @@ it were a single enterprise with its own division of labor. The regime termed th
 the 1930s (New York: Oxford University Press, 1979).
 
 107. John Berger, Ways o f Seeing (London, 1992), p. 16, quoted in Martin Jay,
-D owncast Eyes: The Denigration o f Vision in Twentieth-Century French Thought
+D Downcast Eyes: The Denigration o f Vision in Twentieth-Century French Thought
 (Berkeley: University of California Press, 1993). For a useful collection on the issue
 of modernity and vision, see also David Michael Levin, ed., M odernity and the Hegemony o f Vision (Berkeley: University of California Press, 1993).
 
@@ -15300,7 +15300,7 @@ contrast to indigenous settlement practices.
 
 Cotton Is the Mother o f Poverty.
 
-125. Quoted in Coulson, "Agricultural Policies in M ainland Tanzania," p. 78.
+125. Quoted in Coulson, "Agricultural Policies in M Mainland Tanzania," p. 78.
 The docum ent goes on to stress how important it is to separate the good, industrious cultivators from the bad, lazy ones. One wonders whether the Latin American
 revolutionary strategy of focos, or creating small insurrectionary enclaves (and
 elaborated by Regis DeBray in the 1960s), shares an intellectual lineage with
@@ -15320,7 +15320,7 @@ elaborated by Regis DeBray in the 1960s), shares an intellectual lineage with
 high-m odernist social fiction and the informal, "deviant" practices that cannot be
 openly avowed but that are its necessary com plem ent is diagnostically characteristic. Although we shall return to this theme, here it is relevant to recall that the
 hypocrisy, cynicism, and comedy generated by the gulf betw een the official pieties
-of a m endacious public sphere and the practices necessary to the reproduction of
+of a m mendacious public sphere and the practices necessary to the reproduction of
 daily life often becom e the raw material for such a society's finest literature, poetry,
 and song.
 
@@ -15951,16 +15951,16 @@ sam e way that I use "metis," and he distinguishes it sharply from "episteme"
 from Pierre Vidal-Naquet: "As G. Cambiano justly [correctly] observes, in the Platonic view, episteme, dynam is, and techne comprise a system of concepts that mutually reinforce one another," he writes. "The Republic, for example, puts under the
 control of mathematics a unit composed of technai, dianoiai, and epistemai: skills,
 intellectual processes, and sciences" (The Black Hunter: Forms o f Thought and
-Forms o f Society in the Greek World, trans. Andrew Szegedy-M aszak [Baltimore:
+Forms o f Society in the Greek World, trans. Andrew Szegedy-M maszak [Baltimore:
 Johns Hopkins Press, 1986], p. 228). Even so, those who are familiar with Marglin's
 argument will note how, in drawing formal comparisons, I have relied on his contrasts while not using his terms.
 
 18. As I recall, this holds only at sea level, as with the standard temperature for
-w ater's boiling point. The constant is, then, a universal convention and does in fact
+w water boiling point. The constant is, then, a universal convention and does in fact
 vary by altitude.
 
 19. Quoted in Nussbaum, The Fragility o f Goodness, p. 95.
-20. There is a large and rapidly growing literature on the practice or ethnom ethodology of science, particularly laboratory science. M ost of this literature
+20. There is a large and rapidly growing literature on the practice or ethnomethodology ethodology of science, particularly laboratory science. M ost of this literature
 em phasizes the difference between actual scientific practice on one hand and its
 codified form (in articles and lab reports, for example) on the other. For an intro­
 
@@ -15984,7 +15984,7 @@ found in M ichael Polanyi, Personal Knowledge: Towards a Post-Critical Philosoph
 
 highest form of love: that between men and boys.
 
-27. M usic is, in a sense, pure form, but Plato was deeply suspicious of m usic's
+27. M usic is, in a sense, pure form, but Plato was deeply suspicious of m music's
 em otional appeal and in fact believed that the ideal republic should ban certain
 modes of music.
 
@@ -15995,7 +15995,7 @@ objective, precise, and strictly replicable set of techniques — a set of techn
 gives impartial and quantitative answers. Thus most forms of formal policy analysis and cost-benefit analysis manage, through heroic assumptions and an im plausible metric for com paring incommensurate variables, to produce a quantitative answer to thorny questions. They achieve impartiality, precision, and replicability at
 the cost of accuracy. A brief and persuasive case along these lines can be found in
 Theodore M. Porter, "Objectivity as Standardization: The Rhetoric of Impersonality
-in M easurement, Statistics, and Cost-Benefit Analysis," in Allan M egill, ed., Rethinking Objectivity (Durham: Duke University Press, 1994), pp. 197-237.
+in M easurement, Statistics, and Cost-Benefit Analysis," in Allan M Megill, ed., Rethinking Objectivity (Durham: Duke University Press, 1994), pp. 197-237.
 
 29. Marglin, "Farmers, Seedsm en, and Scientists," p. 46.
 30. Jeremy Bentham , Pauper Management Improved, cited in Nussbaum , The
@@ -16016,7 +16016,7 @@ pp. 4 4 -4 5 .
 
 33. But while the focus has narrowed in economics, the reach has grown. Witness the efforts of William D. Nordhaus to treat such ecological issues as global
 warming with an often spurious precision. See Nordhaus, "To Slow or Not to Slow:
-The Economics of the Greenhouse Effectf Economic Journal, July 1991, pp. 920 -3 7.
+The Economics of the Greenhouse Effect Economic Journal, July 1991, pp. 920 -3 7.
 34. Marglin, "Economics and the Social Construction of the Economy," p. 31.
 Marglin also describes and critiques the attempts w ithin the boundaries of epistem ic econom ics to deal with such issues as public goods, sustainability, and un­
 
@@ -16056,7 +16056,7 @@ versity Press, 1985).
 44. Anil Gupta, paper presented at a congress entitled "Agrarian Questions: The
 Politics of Farming Anno 1995," May 2 2 -2 4 , 1995, Wageningen, The Netherlands.
 The fact that in the past two or three decades research laboratories have begun to
-inventory and analyze large numbers of traditional m edicines is an indication of
+inventory and analyze large numbers of traditional m medicines is an indication of
 the rich capital of findings which metis has bequeathed to m odern m edicine and
 pharmacology. For questions of property rights in such products, see Jack Ralph
 Kloppenberg, Jr., First the Seed: The Political Econom y o f Plant Biotechnology,
@@ -16086,15 +16086,15 @@ degree that the Darwinian perspective is correct, it forces us to ask w hat the
 beneficial or, m ore precisely, the adaptive functions of a m edical condition might
 be. Surely, a view of plant disease from this angle m ight lead to novel insights.
 For an accessible introduction, see Randolph M. N esse and George C. W illiams,
-E volution and Healing: The N ew Science o f D arw inian M edicine (London: Weidenfeld and Nicolson, 1995).
+E volution and Healing: The N ew Science o f D arw Darwinian M edicine (London: Weidenfeld and Nicolson, 1995).
 
-48. M uch of F. A. Marglin's account is concerned w ith the undoubtedly wellintended but coercive efforts made by the British to suppress variolation and to
+48. M uch of F. A. Marglin's account is concerned w ith the undoubtedly well-intended but coercive efforts made by the British to suppress variolation and to
 substitute vaccination, as w ell as the popular resistance to these efforts. Marglin
 implies that the British pretty quickly succeeded in replacing variolation with vaccination, but Sumit Guha, an Indian colleague who has also studied these matters,
 believes that it is unlikely that the British had either the personnel or the power to
 stamp out variolation so quickly.
 
-49. Donald R. Hopkins, Princes and Peasants: Sm allpox in H istory (Chicago:
+49. Donald R. Hopkins, Princes and Peasants: Sm smallpox in H istory (Chicago:
 University of Chicago Press, 1983), p. 77, cited in Marglin, "Losing Touch," p. 112.
 For the scientific career of vaccination and its application to anthrax and rabies,
 see Gerald L. Geison, The Private Science o f Louis Pasteur (Princeton: Princeton
@@ -16175,7 +16175,7 @@ and Change 26, no. 3 (1995): 4 1 3 -3 9 .
 Ranger, The Invention o f Tradition (New York: Cambridge University Press, 1983).
 Although Hobsbawm and Ranger are largely concerned with traditions "invented"
 by elites to legitim ate their rule and legitimacy, their general point about the
-nonantiquity of many so-called traditions is well taken.
+non-antiquity of many so-called traditions is well taken.
 
 65. I do not deal here with such related issues as how readily people abandon
 habits and norms that are perhaps closer to the center of their self-identity: death
@@ -16267,7 +16267,7 @@ breeding.
 
 88. Quoted in Oakeshott, "Rationalism in Politics," p. 20 (emphasis added).
 89. Quoted in ibid., p. 5.
-90. It is in fact im possible for m ost modern readers to take in the vast com placency with which Oakeshott regards what the past has bequeathed to him in its
+90. It is in fact im possible for m ost modern readers to take in the vast com complacency with which Oakeshott regards what the past has bequeathed to him in its
 habits, practices, and morals without wondering if Jews, wom en, the Irish, and the
 working class in general might not feel as blessed by the deposit of history as did
 this Oxford don.

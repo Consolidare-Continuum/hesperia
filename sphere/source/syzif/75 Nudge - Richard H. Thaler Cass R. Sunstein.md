@@ -2927,7 +2927,7 @@ this affliction.
 
 The example is obviously an extreme one, but many markets are not so
 different from this situation. Most of the time, competition ensures that
-price serves as a good signal of quality. Usually (but not always) the fiftydollar bottles of wine are better than the twenty-dollar bottles. And
+price serves as a good signal of quality. Usually (but not always) the fifty-dollar bottles of wine are better than the twenty-dollar bottles. And
 irrational consumers will not alter the market as long as they do not
 predominate. So if some people choose wine by how much they like the
 label, they will not be harmed, but if many people start to do that, then wine
@@ -2974,7 +2974,7 @@ do I make any money persuading you not to buy it?
 
 There is a general point here. If consumers have a less than fully
 rational belief, firms often have more incentive to cater to that belief than to
-erradícate it. When many people were still afraid of flying, it was common
+eradicateícate it. When many people were still afraid of flying, it was common
 to see airline flight insurance sold at airports at exorbitant prices. There
 were no booths in airports selling people advice not to buy such insurance.
 
@@ -3072,7 +3072,7 @@ experimentally. One of the most famous such demonstrations is the Stroop
 (1935) test. In the modern version of this experiment people see words
 flashed on a computer screen and they have a very simple task. They press
 the right button if they see a word that is displayed in red, and press the left
-button if they see a word diplayed in green. People find the task easy and
+button if they see a word displayed in green. People find the task easy and
 can learn to do it very quickly with great accuracy. That is, until they are
 thrown a curve ball, in the form of the word GREEN displayed in red, or the
 word RED displayed in green. For these incompatible signals, response time
@@ -4131,7 +4131,7 @@ the seminar everyone expressed an interest in saving more, but only 14
 percent actually joined the savings plan. This was an improvement, but not
 a large one, over the 7 percent of comparable employees who did not attend
 a seminar and joined the savings plan.13 Studies of the effects of attendance
-at a "benefit fair" also find only a small effect on participation in a taxdeferred savings account.14
+at a "benefit fair" also find only a small effect on participation in a tax-deferred savings account.14
 
 Save More Tomorrow
 
@@ -4328,7 +4328,7 @@ live to "break even."* The calculator does not take interest, taxes, spouses,
 or anything else into account. The SSA might as well give every senior an
 abacus.†
 
-If theSSA had a designated choice architect, she could surely do better.
+If the SSA had a designated choice architect, she could surely do better.
 It would be possible to ask a series of questions to get at the important four
 factors. (Examples: Are you in good health? Do you plan to keep working?
 If so, how much will you make? At what age did your parents die? How old
@@ -4361,7 +4361,7 @@ implementing the program on an opt-out basis.
 if I start taking lower payments now, or if I wait a few years until I can
 draw higher payments? A simple example illustrates that this calculation is
 one that even Humans can make by themselves. Suppose you can collect
-$1,000 a month at age sixty-two and $1,500 a month starting at age sixtysix. Four years (forty-eight months) of collecting $1,000 a month adds up to
+$1,000 a month at age sixty-two and $1,500 a month starting at age sixty-six. Four years (forty-eight months) of collecting $1,000 a month adds up to
 $48,000. How many months do you have to collect an extra $500 to make
 this up? Ninety-six. Duh.
 
@@ -4576,11 +4576,11 @@ mostly in stocks. More than half of the participants in this plan, many of
 them professors of some sort, selected exactly a 50–50 split between these
 two options. One of these 50–50 investors was Sunstein. Notwithstanding
 his long-standing friendship with Thaler, who many years ago told him that
-over the long haul CREF was a better bet thanTIAA, he hasn't changed a
+over the long haul CREF was a better bet than TIAA, he hasn't changed a
 thing. It is on his list of things to do, right after canceling those magazine
 subscriptions.
 
-Of course, an even split between stocks and bonds is not a selfevidently dumb portfolio, but if the initial allocation is never changed (or
+Of course, an even split between stocks and bonds is not a self-evidently dumb portfolio, but if the initial allocation is never changed (or
 "rebalanced," in the finance parlance), then over time the mix of assets will
 depend on the rates of return. For example, Sunstein has been investing
 equal amounts into TIAA and CREF for more than twenty-five years, and he
@@ -4760,7 +4760,7 @@ company stock like any other investment in a 401(k) plan. Company stock
 in defined-contribution plans now enjoys an important benefit under the
 principal federal fiduciary law, an extremely important and largely
 unintelligible statute named the Employee Retirement Income Security Act
-of 1974 (ERISA). ERISA sets forth three fiduciary principles for retirementplan investments: the exclusive benefit rule, requiring that plans be
+of 1974 (ERISA). ERISA sets forth three fiduciary principles for retirement plan investments: the exclusive benefit rule, requiring that plans be
 managed exclusively for the benefit of participants; the prudence rule,
 requiring that plan assets be invested according to a "prudent investor"
 standard; and the diversification rule, requiring that plan assets be
@@ -4917,7 +4917,7 @@ are about their investing. Consider Homer Simpson's experience when
 leasing a recreational vehicle called a Canyonero.
 
 CANYONERO SALESMAN: Okay, here's how your lease breaks down. This
-is your down payment, then here's your monthly, annnnnnnnnd, there's
+is your down payment, then here's your monthly, and, there's
 your weekly.
 HOMER: And that's it, right?
 SALESMAN: Yup … oh, then after your final monthly payment there's
@@ -4938,7 +4938,7 @@ mortgages had a fixed rate for the life of the mortgage, typically thirty
 years. Most borrowers provided a 20 percent down payment. In this regime,
 comparing loans was a snap—just pick the loan with the lowest interest
 
-rate. This task was made especially easy with the passage of the choicefriendly Truth in Lending Act (also known as Regulation Z), which required
+rate. This task was made especially easy with the passage of the choice friendly Truth in Lending Act (also known as Regulation Z), which required
 all lenders to report interest rates the same way, using what is called the
 annual percentage rate (APR). At the time, the Truth in Lending Act was an
 excellent bit of choice architecture because it made it easy to compare
@@ -5334,7 +5334,7 @@ interest payments alone.8
 
 Looking back at the problems of self-control discussed in Chapter 3,
 we can see how credit cards create serious problems for some people. In the
-pre–credit card era, households were pretty much forced to use a pay-asyou-go accounting system. That is why people used jars of money labeled
+pre–credit card era, households were pretty much forced to use a pay-pay-as-you-go accounting system. That is why people used jars of money labeled
 according to purpose or payee. Now if you don't have the cash to fill your
 car up with gas, there is always your credit card. Credit cards inhibit selfcontrol in other ways. One study by Drazen Prelec and Duncan Simister
 
@@ -5622,7 +5622,7 @@ Comparison of the default fund and the mean actively chosen portfolio
 Note: The table compares the default fund and the mean actively
 chosen portfolio. The data on the asset allocations are from data on
 funds' holdings from Morningstar. Fee is the yearly expense ratio as a
-percentage of fund assets. Ex post performance is returns over a threeyear postreform period (October 31, 2000 through October 31, 2003).
+percentage of fund assets. Ex post performance is returns over a three-year post-reform period (October 31, 2000 through October 31, 2003).
 Funds' market shares following the portfolio choices in year 2000
 have been used as weights to calculate the characteristics of the mean
 actively chosen portfolio.
@@ -6285,7 +6285,7 @@ would be by kindly providing a list of the drugs her mother takes. Thaler
 logged onto the Medicare Part D Web site and tried his luck. What a
 nightmare! Just to give one example, the site does not have a spell checker.
 
-If you type "Zanax" instead of "Xanax," you don't get any help (unlike at
+If you type "Xanax" instead of "Xanax," you don't get any help (unlike at
 Google, for example). This is a problem because drug names resemble
 strings of random letters, so typing errors are to be expected. Getting all the
 dosages right is also tricky. You need to know both the size of the pill (for
@@ -6442,7 +6442,7 @@ parties. The purpose of the information would be to nudge seniors away
 from a status quo bias and encourage comparison shopping by making
 
 prescription drug costs as salient as possible. Because the costs of delay are
-high for large majorities of seniors, similar nudges could be used on nonSenrollees. Price disclosures could be sent to those seniors who delayed
+high for large majorities of seniors, similar nudges could be used on non-enrollees. Price disclosures could be sent to those seniors who delayed
 enrollment, with a clear delineation of the recent and current premiums for
 a sample of popular plans. One goal would be to highlight for seniors how
 much money a delay costs them.
@@ -6544,7 +6544,7 @@ In the United States, most states use what is called an explicit
 consent rule, meaning that people have to take some concrete steps to
 demonstrate that they want to be donors. It is clear that many people who
 are willing to donate organs fail to take the necessary steps. A study of Iowa
-residents by Sheldon Kurtz and Michael Saks confirms the point. "Ninetyseven percent of respondents
+residents by Sheldon Kurtz and Michael Saks confirms the point. "Ninety-seven percent of respondents
 their general support for
 transplantation. Sizeable majorities said they were interested in donating
 tragic
@@ -6691,7 +6691,7 @@ quite differently when the decedent's silence is presumed to indicate a
 decision to donate rather than when it is presumed to indicate a decision not
 to donate. A system of presumed consent allows organ procurement
 organizations and hospital staff to approach the family as the family of a
-'donor' rather than as the family of a 'nondonor.' This shift may make it
+'donor' rather than as the family of a 'non-donor.' This shift may make it
 easier for the family to accept organ donation."5
 
 Mandated Choice
@@ -6803,7 +6803,7 @@ old, dirty sources, and thus increase air pollution, at least in the short run.
 
 In recent years, the focus has shifted to international environmental
 problems, including depletion of the ozone layer, now controlled by a range
-of international agreements, which have succeeded in banning ozonedepleting chemicals. But above all, public attention is focused on climate
+of international agreements, which have succeeded in banning ozone-depleting chemicals. But above all, public attention is focused on climate
 change, which is not yet subject to effective international controls, and on
 which we shall have a few things to say here. Might nudges and improved
 choice architecture reduce greenhouse gases? Definitely; we will sketch
@@ -6892,7 +6892,7 @@ to try to fix the problem by realigning them. In the environmental area, two
 broad approaches have been proposed. The first is to impose taxes or
 penalties on those who pollute. In the domain of climate change, a tax on
 greenhouse gas emissions, favored by many environmentalists (and
-economists too), is a simple example. The second approach is called a capand-trade system. In such systems those who pollute are given (or sold)
+economists too), is a simple example. The second approach is called a cap-and-trade system. In such systems those who pollute are given (or sold)
 "rights" to pollute in certain amounts (the "cap") and these rights are then
 traded in a market. Most specialists believe that such incentive-based
 systems as these should usually displace command-and-control regulation.
@@ -7026,7 +7026,7 @@ established in 1965 and modified in 1969 and 1984, are perhaps the most
 familiar example of a disclosure policy. The Food and Drug Administration
 has long maintained a policy of requiring risk labels for pharmaceutical
 products. The Environmental Protection Agency (EPA) has done the same
-for pesticides and asbestos. Before the phaseout of ozone-depleting
+for pesticides and asbestos. Before the phase-out of ozone-depleting
 chemicals, warning labels were required for products containing such
 chemicals. Congress requires warnings on products with saccharin. Under
 President Reagan, no fan of regulation, the Occupational Safety and Health
@@ -7258,7 +7258,7 @@ in firms are busy and can't pay attention to everything. To implement some
 change, someone in the firm has to champion the change. In most firms,
 managers do not think that being the guy who pushes an energy cost–saving
 policy is the route to the CEO office, especially when the cost savings are
-small relative to the bottom line. The project sounds boring and pennypinching, and the manager who suggests it might be destined for a job in
+small relative to the bottom line. The project sounds boring and penny-pinching, and the manager who suggests it might be destined for a job in
 accounting rather than the president's office.
 
 In theory, the EPA'S programs shouldn't have worked. So much for
@@ -7444,7 +7444,7 @@ inquiry about what is good by saying: "Everything!"
 A creative experiment in Charlotte shows that choices can be
 improved with better and simpler information.4 Charlotte gave parents the
 option to apply for admission at multiple public schools besides their
-default school. Low-income parents tended to put less weight than highincome parents on school quality, as measured by test scores, and rarely
+default school. Low-income parents tended to put less weight than high-income parents on school quality, as measured by test scores, and rarely
 tried to enroll in higher-performing schools. A random sample of parents
 was selected to receive an abbreviated "fact sheet" about the schools—
 much in the spirit of the RECAP idea that we have suggested in other areas.
@@ -8107,7 +8107,7 @@ marriages. It's hardly a bad thing that they can choose a form of marriage
 that fits their goals, and libertarian paternalists are glad that the option is
 available. But the relative unpopularity of covenant marriage, and the
 evident failure of the movement behind it, demonstrates that the
-noncovenant option is pretty "sticky" for nearly all couples.
+non-covenant option is pretty "sticky" for nearly all couples.
 
 Increasingly, marriage is not a particularly extraordinary contract. It is
 dissoluble at the will of the parties, rather than a permanent status. Now that
@@ -8277,7 +8277,7 @@ rules that insure against the most severe kinds of loss.
 As a presumption, people should be permitted to make their own
 provisions if that is what they wish to do. If men and women freely agree to
 an outcome that generally benefits men, the law should respect that
-agreement—and use other parts of the legal system, including the tax-andtransfer system, to help those who need it. Mandatory rules that forbid
+agreement—and use other parts of the legal system, including the tax-and-transfer system, to help those who need it. Mandatory rules that forbid
 people to agree on their preferred terms are not likely to accomplish their
 intended goals; people will contract around the rules by adjusting other
 parts of the deal. But what people wish to do is likely to be affected by the
@@ -8367,7 +8367,7 @@ EXTENSIONS AND OBJECTIONS
 A DOZEN NUDGES
 
 We have described a lot of nudges, but we are confident that there
-are countless others. Here are a dozen more—mininudges, if you will.
+are countless others. Here are a dozen more—mini-nudges, if you will.
 Readers are warmly encouraged to add to the list by sending them to our
 Web site: www.Nudges.org.
 
@@ -8544,7 +8544,7 @@ the Destiny Health Plan now offered in four states (Illinois, Wisconsin,
 Michigan, and Colorado). The plan features a Health Vitality Program
 explicitly designed to give people an incentive to make healthy choices. A
 participant is able to earn "Vitality Bucks" if he works out at a health club
-in a particular week, has a child join a soccer league, or completes a bloodpressure check with normal results. Vitality Bucks can be used to obtain
+in a particular week, has a child join a soccer league, or completes a blood pressure check with normal results. Vitality Bucks can be used to obtain
 airline tickets, hotel rooms, magazine subscriptions, and electronics. The
 Destiny Health Plan is a clever effort to combine health insurance with
 nudges designed to get people to live healthier lives.
@@ -9111,7 +9111,7 @@ The truth, of course, is that there are no hard-and-fast stopping points.
 We have defined libertarian paternalism to include actions, rules, and other
 nudges that can be easily avoided by opting out. We do not have a clear
 definition of "easily avoided," but we hold up "one-click" paternalism to be
-as close as we can get with existing technology. (We can hope for "onethought" or "one-blink" technology in the near future.) Our goal is to allow
+as close as we can get with existing technology. (We can hope for "one-thought" or "one-blink" technology in the near future.) Our goal is to allow
 people to go their own way at the lowest possible cost. To be sure, some of
 the policies we have advocated impose higher costs than one click. To opt
 out of an automatic enrollment plan, an employee typically has to fill out
@@ -10299,7 +10299,7 @@ Gilovich, Thomas. How We Know What Isn't So: The Fallibility of
 
 Human Reason in Everyday Life. New York: Free Press, 1991.
 
-Gilovich, Thomas, Dale Gri¤n, and Daniel Kahneman. Heurisitics and
+Gilovich, Thomas, Dale Gri¤n, and Daniel Kahneman. Heuristics and
 Biases: The Psychology of Intuitive Judgment. Cambridge:
 Cambridge University Press, 2002.
 
@@ -10800,7 +10800,7 @@ Medicare Prescription Drug Plan. "Tips and Tools for People with
 Medicare and Those Who Care for Them." U.S. Department of
 Health
 N.d.
-http://wwwmedicare.gov/medicarereform/drugbenefit.asp.
+http://www.medicare.gov/medicarereform/drugbenefit.asp.
 
 Services.
 
@@ -11962,7 +11962,7 @@ and
 
 job
 
-portable, postretirement income needed in, prudence rule of, "safe
+portable, post-retirement income needed in, prudence rule of, "safe
 harbor status" for, Save More Tomorrow, saving for, simplicity in,
 status quo bias in, synchronized to pay raises, tax-favored savings
 accounts

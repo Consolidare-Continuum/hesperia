@@ -213,7 +213,7 @@ moral or good about these arrangements. Nature was plastic and therefore malleab
 systems.
 
 Mutual Aid lends itself to multiple interpretations. This is partly
-because Kropotkin theorised it by intervening in a longstanding debate
+because Kropotkin theorized it by intervening in a longstanding debate
 about the social and ethical implications of Charles Darwin's Origin of
 Species. In doing so, he enthusiastically adopted Victorian interdisciplinary
 conventions, reading across the arts and sciences to marshal evidence from
@@ -221,11 +221,11 @@ zoology, history, art and newer disciplines, notably sociology, ethnography and 
 Kropotkin decried specialisation, the synthetic quality of Mutual Aid has
 since enabled teams of scholars in the humanities and natural and social
 sciences to bring their special disciplinary perspectives to bear on it. Since
-the publication of Daniel P. Todes's pivotal essay in 1987, Mutual Aid is now
+the publication of Daniel P. Todes pivotal essay in 1987, Mutual Aid is now
 commonly situated in a broader body of Russian evolutionary thought.4
 But the diversity of the literature on it and the range of its conceptual resonances is vast.5 In the other part, Kropotkin developed critical Russian evolutionary biology to show how his account of Darwinian theory exposed
 the flaws in competing belief systems. Kropotkin believed the principle of
-mutual aid scotched Christian moralising, utilitarianism, Marxist materialism and Nietzschean individualism.6 His naturalistic, "scientific" defence
+mutual aid scotched Christian moralizing, utilitarianism, Marxist materialism and Nietzschean individualism.6 His naturalistic, "scientific" defence
 of anarchism thus lends itself to comparison with all these standpoints,
 while also nourishing critics interested in uncovering anarchism's essentialist errors.7
 
@@ -270,7 +270,7 @@ Malthus out. It turned out that Darwin had also favoured the direct impact
 of the environment over natural section but had unfortunately been unable
 fully to revise his published work before he died. According to Kropotkin,
 natural selection had been a working hypothesis, not Darwin's settled view.
-Driving a wedge between Darwin and his "vulgarisers" in 1919, Kropotkin
+Driving a wedge between Darwin and his "vulgarizers" in 1919, Kropotkin
 returned to his main theme. The Darwinists had "succeeded in persuading men that the last word of Science was a pitiless individual struggle for
 life."11 Disinterested research demonstrated that this was untrue: "[T]he
 prominence which is now beginning to be given to the direct action of the
@@ -280,7 +280,7 @@ about the necessity of competition to the knife between all the individuals
 of a given species for evolving new species, opens the way for a quite different comprehension of the struggle for life, and of Nature altogether."12
 
 Kropotkin's decision to spotlight Huxley rather than Spencer as
-Darwin's chief vulgariser was curious, both because it was Spencer not
+Darwin's chief vulgarizer was curious, both because it was Spencer not
 Huxley who was his preferred liberal antagonist and because Huxley's
 Darwinism was ambiguous.13 In all likelihood, it was the complexity of
 Huxley's position that made him interesting to Kropotkin. Huxley fitted
@@ -331,7 +331,7 @@ Emphasising the moral value of cooperation, Kropotkin also attributes
 marmots undertake "citizens' duties."18 Yet the realignment of nature to
 anarchy did not amount to a reductive conception of nature as "good," nor
 did Kropotkin present "nature" as a pristine condition. His argument is
-that "nature" is moralised through social practice and natural and cosmic
+that "nature" is moralized through social practice and natural and cosmic
 worlds are in constant flux. His grand plan to produce a "naturalistic conception of the universe" was linked to the reformulation or anarchization of all fields of knowledge—"sociology, legislation, philosophy, ethics
 and general science"—not to the development of new knowledge.19 The
 truth had already been told but unfortunately existing science had been
@@ -360,7 +360,7 @@ such that the terminology gave "linguistic authority" to actual and relative cla
 liberal thinker John Stuart Mill, Inder Mahwah notes that the categories
 "savage" and "barbarian" were integral to a thesis of sociocultural development pegged to west European norms and values. All societies were deemed
 "measurable by a pre-determined index of social progress, distinguishing
-civilized, self-governing peoples from noncivilized, subject populations."24
+civilized, self-governing peoples from non-civilized, subject populations."24
 "Savages"—traditionally, wild people who inhabited the woods—and "barbarians"—those who babbled in non-Hellenic languages—constituted
 the uncivilised, primitive, infantile peoples that cultured Europeans were
 obliged to prepare for self-government. In the context of British colonialism, the fundamental distinction between chaotic/uncivilised and ordered/
@@ -409,7 +409,7 @@ or both from a stone," before adding "the more we enlarge our knowledge of
 natural life, the less we become able to fix any limit between vegetable and
 animal organisms, or between organisms generally and mineral bodies."31
 Kropotkin's special contribution to anarchist social theory was to
-historicise the series and analyse the progressive extension of mutual aid
+historicize the series and analyse the progressive extension of mutual aid
 in different social settings. Accordingly, he distinguishes "savage" and
 "barbarian" communities by their associative practices. "Savage" societies
 are closed family groups. Association is based on a blood tie. "Barbarian"
@@ -425,7 +425,7 @@ each separate group of individuals in art, crafts, science, commerce, and
 political organization."32
 
 Adopting discourses of colonialism, Kropotkin turned dominant
-civilization narratives on their head. His analysis is contextualised, not
+civilization narratives on their head. His analysis is contextualized, not
 abstract. It differs markedly from Jean-Jacques Rousseau's modelling of
 the noble savage in the state of nature. Admittedly, Kropotkin presented
 "savage" and "barbarian" communities in a progressive series leading to
@@ -433,12 +433,12 @@ the medieval city-state. But if his celebration of the city-state betrayed a
 troubling Eurocentric or western bias,33 his account of history was not
 linear, as Matthew Adams notes.34 There are advances and reversals in
 the practice of mutual aid across the different settings. The city-state was
-remarkable but a failure: it gave rise to the modern colonising European
+remarkable but a failure: it gave rise to the modern colonizing European
 state. In contrast, the village community stimulated the medieval city and
 persisted well after its collapse. Kropotkin also noted comparable shifts in
 the idea of justice, from "'due reward'" to the "higher conception" of "'no
 revenge for wrongs'" in each of these social orders.35 He explicitly rejected
-as "unscientific" not only Rousseau's romanticism but also the anti-Rousseauean counter-narratives that conflated "savage" with "savagery" and
+as "unscientific" not only Rousseau's romanticism but also the anti-Rousseauian counter-narratives that conflated "savage" with "savagery" and
 "barbarian" with "barbaric."36 So-called "barbarians . . . knew nothing of
 the horrid punishments introduced at a later epoch by the laic and canonic
 laws under Roman and Byzantine influence."37 Similarly, where Kropotkin
@@ -465,7 +465,7 @@ Kropotkin's argument that cooperation is a superior principle for
 social organising than competition rests on the observations he makes
 about the weaknesses of mutual aid associations, notably the city-state.
 The common theme is one of internal division leading to domination
-and the monopolisation of power by propertied, military and religious
+and the monopolization of power by propertied, military and religious
 elites. "Savage" communities are undermined by "appearance of a separate family amidst the clan." Kropotkin noted, "a separate family means
 separate property and accumulation of wealth," necessarily upsetting "the
 established unity" based on communalism and communism. Religious and
@@ -544,15 +544,15 @@ pleased to discover that village community continued to exist. Europe was
 "covered with living survivals . . . and European country life is permeated
 with customs and habits dating from the community period."47 Mutual
 aid "customs and habits" animated he "inner life" of Turkish villages and,
-likewise, "in the Arab djemmâa and the Afgan purra, in the villages of Persia,
+likewise, "in the Arab djemmâa and the Afghan purra, in the villages of Persia,
 India, and Java, in the undivided family of the Chinese, in the encampments
 of the semi-nomads of Central Asia and the nomads of the far North."48 In
 colonised Africa, too, "notwithstanding all tyranny, oppression, robberies
 
-and raids, tribal wars, glutton kings, deceiving witches and priests, slavehunters, and the like" the "nucleus of mutual-aid institutions, habits and
+and raids, tribal wars, glutton kings, deceiving witches and priests, slave hunters, and the like" the "nucleus of mutual-aid institutions, habits and
 customs, growing up in the tribe and the village community, remains."49
 Colonised peoples did not require preparation for self-government. They
-did not need the chiefs who had been empowered by colonisers to rule
+did not need the chiefs who had been empowered by colonizers to rule
 them or the rising class of local educated elites who sought to oust both to
 implement direct rule.
 
@@ -593,7 +593,7 @@ class tramps," he added, "even the really revolutionary minded individuals,
 if they remain isolated, turn towards this Individualist Anarchism of the
 bourgeois which is nothing but the epicurean let it go of the Economists,
 spiced with a few 'terrific' phrases of Nihilism." This was "food to frighten
-the Philistines" and best left to "the Nietzsche'ists . . . Bernard Shaw'ists,
+the Philistines" and best left to "the Nietzscheans . . . Bernard Shawists,
 and all the similar arch-Philistine'ists.'"51
 
 If the Nietzscheans' lofty dismissal of organization endangered the
@@ -1412,7 +1412,7 @@ that they had gathered around the corpse of a horse. The old ones, which, as
 a rule, begin the meal first—such are their rules of propriety—already were
 sitting upon the haystacks of the neighbourhood and kept watch, while the
 younger ones were continuing the meal, surrounded by bands of crows.
-From this and like observations, Syevertsoff concluded that the whitetailed eagles combine for hunting; when they all have risen to a great height
+From this and like observations, Syevertsoff concluded that the white-tailed eagles combine for hunting; when they all have risen to a great height
 they are enabled, if they are ten, to survey an area of at least twenty-five
 miles square; and as soon as any one has discovered something, he warns
 the others.12 Of course, it might be argued that a simple instinctive cry of
@@ -1447,7 +1447,7 @@ even more, sociable than rooks.14 The little Egyptian vultures live in close
 friendship. They play in bands in the air, they come together to spend the
 night, and in the morning they all go together to search for their food, and
 never does the slightest quarrel arise among them; such is the testimony
-of Brehm, who had plenty of opportunities of observing their life. The redthroated falcon is also met with in numerous bands in the forests of Brazil,
+of Brehm, who had plenty of opportunities of observing their life. The red-throated falcon is also met with in numerous bands in the forests of Brazil,
 and the kestrel (Tinnunculus cenchris), when it has left Europe, and has
 reached in the winter the prairies and forests of Asia, gathers in numerous
 societies. In the steppes of South Russia it is (or rather was) so sociable
@@ -1480,7 +1480,7 @@ always the same for each flock—and no one has ever seen them fighting for
 the possession of either the bay or the resting place. In South America they
 gather in flocks of from forty to fifty thousand individuals, part of which
 enjoy sleep while the others keep watch, and others again go fishing.17 And
-finally, I should be doing an injustice to the much-calumniated housesparrows if I did not mention how faithfully each of them shares any food
+finally, I should be doing an injustice to the much-calumniated house sparrows if I did not mention how faithfully each of them shares any food
 it discovers with all members of the society to which it belongs. The fact
 was known to the Greeks, and it has been transmitted to posterity how a
 Greek orator once exclaimed (I quote from memory): "While I am speaking to you a sparrow has come to tell to other sparrows that a slave has
@@ -1689,7 +1689,7 @@ For several hundred yards from the shore the air is filled with gulls
 and terns, as with snow-flakes on a winter day. Thousands of plovers and
 sand-coursers run over the beach, searching their food, whistling, and
 simply enjoying life. Further on, on almost each wave, a duck is rocking,
-while higher up you notice the flocks of the Casarki ducks. Exuberant life
+while higher up you notice the flocks of the Casarca ducks. Exuberant life
 swarms everywhere.1
 
 And here are the robbers—the strongest, the most cunning ones, those
@@ -1701,7 +1701,7 @@ Maddened by hunger, the robber soon abandons his usual precautions: he
 suddenly dashes into the living mass; but, attacked from all sides, he again
 is compelled to retreat. From sheer despair he falls upon the wild ducks;
 but the intelligent, social birds rapidly gather in a flock and fly away if the
-robber is an erne; they plunge into the lake if it is a falcon; or they raise a
+robber is an ern; they plunge into the lake if it is a falcon; or they raise a
 cloud of water-dust and bewilder the assailant if it is a kite.2 And while life
 
 continues to swarm on the lake, the robber flies away with cries of anger,
@@ -1865,7 +1865,7 @@ slope, and then, suddenly appearing with a loud barking, make it roll in
 the abyss.12 Audubon, in the thirties, also saw the Labrador wolves hunting
 in packs, and one pack following a man to his cabin, and killing the dogs.
 During severe winters the packs of wolves grow so numerous as to become
-a danger for human settlements, as was the case in France some five-andforty years ago. In the Russian Steppes they never attack the horses otherwise than in packs; and yet they have to sustain bitter fights, during which
+a danger for human settlements, as was the case in France some five-forty years ago. In the Russian Steppes they never attack the horses otherwise than in packs; and yet they have to sustain bitter fights, during which
 the horses (according to Kohl's testimony) sometimes assume offensive
 warfare, and in such cases, if the wolves do not retreat promptly, they run
 
@@ -1927,7 +1927,7 @@ most diabolic means for the extermination of the little robbers. All kinds of
 rapacious birds and beasts of prey having proved powerless, the last word
 of science in this warfare is the inoculation of cholera! The villages of the
 prairie-dogs in America are one of the loveliest sights. As far as the eye can
-embrace the prairie, it sees heaps of earth, and on each of them a prairiedog stands, engaged in a lively conversation with its neighbours by means
+embrace the prairie, it sees heaps of earth, and on each of them a prairie dog stands, engaged in a lively conversation with its neighbours by means
 of short barkings. As soon as the approach of man is signalled, all plunge
 in a moment into their dwellings; all have disappeared as by enchantment.
 But if the danger is over, the little creatures soon reappear. Whole families
@@ -1936,7 +1936,7 @@ one another, they worry one another, and display their gracefulness while
 standing upright, and in the meantime the old ones keep watch. They go
 visiting one another, and the beaten footpaths which connect all their heaps
 testify to the frequency of the visitations. In short, the best naturalists have
-written some of their best pages in describing the associations of the prairiedogs of America, the marmots of the Old World, and the polar marmots of
+written some of their best pages in describing the associations of the prairie dogs of America, the marmots of the Old World, and the polar marmots of
 the Alpine regions. And yet, I must make, as regards the marmots, the same
 remark as I have made when speaking of the bees. They have maintained
 their fighting instincts, and these instincts reappear in captivity. But in their
@@ -2119,7 +2119,7 @@ America when it was not yet affected by man, wrote to the same effect.
 
 Association is found in the animal world at all degrees of evolution; and,
 according to the grand idea of Herbert Spencer, so brilliantly developed in
-Perrier's Colonies Animales, colonies are at the very origin of evolution in
+Perrier Colonies Animales, colonies are at the very origin of evolution in
 the animal kingdom. But, in proportion as we ascend the scale of evolution,
 we see association growing more and more conscious. It loses its purely
 physical character, it ceases to be simply instinctive, it becomes reasoned.
@@ -3344,11 +3344,11 @@ they could not, and they resorted to the most fantastical suggestions. The
 fact is that a savage, brought up in ideas of a tribal solidarity in everything
 for bad and for good, is as incapable of understanding a "moral" European,
 who knows nothing of that solidarity, as the average European is incapable
-of understanding the savage. But if our scientist had lived amidst a halfstarving tribe which does not possess among them all one man's food for
+of understanding the savage. But if our scientist had lived amidst a half-starving tribe which does not possess among them all one man's food for
 so much as a few days to come, he probably might have understood their
 motives. So also the savage, if he had stayed among us, and received our
 education, may be, would understand our European indifference towards
-our neighbours, and our Royal Commissions for the prevention of "babyfarming." "Stone houses make stony hearts," the Russian peasants say. But
+our neighbours, and our Royal Commissions for the prevention of "baby farming." "Stone houses make stony hearts," the Russian peasants say. But
 he ought to live in a stone house first.
 
 Similar remarks must be made as regards cannibalism. Taking into
@@ -3695,7 +3695,7 @@ efforts, was elaborated, and it took the place of the vanishing conceptions
 of common descent. The common gods gradually lost their character of
 ancestors and were endowed with a local territorial character. They became
 the gods or saints of a given locality; "the land" was identified with its
-inhabitants. Territorial unions grew up instead of the consanguine unions
+inhabitants. Territorial unions grew up instead of the consanguineous unions
 of old, and this new organization evidently offered many advantages under
 the given circumstances. It recognized the independence of the family and
 even emphasized it, the village community disclaiming all rights of interference in what was going on within the family enclosure; it gave much
@@ -3835,7 +3835,7 @@ hand, even when the fields had long since ceased to be tilled and sown in
 common, a variety of agricultural work continued, and continues still, to
 be performed by the community. Some part of the communal land is still
 cultivated in many cases in common, either for the use of the destitute,
-or for refilling the communal stores, or for using the produce at the religious festivals. The irrigation canals are digged and repaired in common.
+or for refilling the communal stores, or for using the produce at the religious festivals. The irrigation canals are dug and repaired in common.
 The communal meadows are mown by the community; and the sight of a
 Russian commune mowing a meadow—the men rivalling each other in their
 advance with the scythe, while the women turn the grass over and throw it
@@ -4404,7 +4404,7 @@ Africans, Arabs, and so on, who still continue in the same barbarian stage)
 invariably preferred peace to war. With the exception of a few tribes which
 had been driven during the great migrations into unproductive deserts or
 
-highlands, and were thus compelled periodically to prey upon their betterfavoured neighbours—apart from these, the great bulk of the Teutons, the
+highlands, and were thus compelled periodically to prey upon their better-favoured neighbours—apart from these, the great bulk of the Teutons, the
 Saxons, the Celts, the Slavonians, and so on, very soon after they had
 settled in their newly conquered abodes, reverted to the spade or to their
 herds. The earliest barbarian codes already represent to us societies composed of peaceful agricultural communities, not hordes of men at war with
@@ -4479,20 +4479,20 @@ law was perpetuated in memory; and to retain law in this way became a sort
 of art, a "mystery," carefully transmitted in certain families from generation
 to generation. Thus in Iceland, and in other Scandinavian lands, at every
 
-Allthing, or national folkmote, a lövsögmathr used to recite the whole law
+Allthing, or national folkmote, a lövsölövsögumaðr used to recite the whole law
 from memory for the enlightening of the assembly; and in Ireland there
 was, as is known, a special class of men reputed for the knowledge of the
 old traditions, and therefore enjoying a great authority as judges.6 Again,
 when we are told by the Russian annals that some stems of North-West
 Russia, moved by the growing disorder which resulted from "clans rising
-against clans," appealed to Norman varingiar to be their judges and commanders of warrior scholae; and when we see the knyazes, or dukes, elected
+against clans," appealed to Norman varangians to be their judges and commanders of warrior scholae; and when we see the knyazes, or dukes, elected
 for the next two hundred years always from the same Norman family, we
 cannot but recognize that the Slavonians trusted to the Normans for a
 better knowledge of the law which would be equally recognized as good
 by different Slavonian kins. In this case the possession of runes, used for
 the transmission of old customs, was a decided advantage in favour of the
 Normans; but in other cases there are faint indications that the "eldest"
-branch of the stem, the supposed motherbranch, was appealed to to supply
+branch of the stem, the supposed mother branch, was appealed to to supply
 the judges, and its decisions were relied upon as just;7 while at a later epoch
 we see a distinct tendency towards taking the sentence-finders from the
 Christian clergy, which, at that time, kept still to the fundamental, now
@@ -5182,7 +5182,7 @@ control of the whole amitas, manual labour could not fall into the degraded
 condition which it occupies now, so long as the free city was living.
 
 A difference between master and apprentice, or between master and
-worker (compayne, Geselle), existed but in the medieval cities from their
+worker (companion, Geselle), existed but in the medieval cities from their
 
 very beginnings; this was at the outset a mere difference of age and skill,
 not of wealth and power. After a seven years' apprenticeship, and after
@@ -5206,7 +5206,7 @@ Continent as well, as is shown by the researches of Falke and Schönberg,
 and by many occasional indications. Even in the fifteenth century a mason,
 a carpenter, or a smith worker would be paid at Amiens four sols a day,
 which corresponded to forty-eight pounds of bread, or to the eighth part
-of a small ox (bouvard). In Saxony, the salary of the Geselle in the building
+of a small ox (bouvier). In Saxony, the salary of the Geselle in the building
 trade was such that, to put it in Falke's words, he could buy with his six
 days' wages three sheep and one pair of shoes.6 The donations of workers
 (Geselle) to cathedrals also bear testimony of their relative well-being, to say
@@ -5330,7 +5330,7 @@ The hatred of the burghers towards the feudal barons has found a most
 characteristic expression in the wording of the different charters which they
 compelled them to sign. Heinrich V. is made to sign in the charter granted
 to Speier in 1111, that he frees the burghers from "the horrible and execrable law of mortmain, through which the town has been sunk into deepest
-poverty" (von dem scheusslichen und nichtswürdigen Gesetze, welches gemein
+poverty" (von dem scheußlichen und nichtswürdigenürdigen Gesetze, welches gemein
 Budel genannt wird, Kallsen, i. 307). The coutume of Bayonne, written about
 1273, contains such passages as these: "The people is anterior to the lords.
 It is the people, more numerous than all others, who, desirous of peace,
@@ -5411,7 +5411,7 @@ further undermine the above theory. Already in the years 1130–1150 powerful le
 Barbarossa invaded Italy and, supported by the nobles and some retardatory cities, marched against Milan, popular enthusiasm was roused in
 many towns by popular preachers. Crema, Piacenza, Brescia, Tortona, etc.,
 went to the rescue; the banners of the guilds of Verona, Padua, Vicenza,
-and Trevisa floated side by side in the cities' camp against the banners
+and Treviso floated side by side in the cities' camp against the banners
 of the Emperor and the nobles. Next year the Lombardian League came
 into existence, and sixty years later we see it reinforced by many other
 cities, and forming a lasting organization which had half of its federal warchest in Genoa and the other half in Venice.21 In Tuscany, Florence headed
@@ -5433,7 +5433,7 @@ nobles lived on plunder, and murdered whom they chose to murder," as the
 Wormser Zorn complains, the cities on the Rhine (Mainz, Cologne, Speier,
 Strasburg, and Basel) took the initiative of a league which soon numbered
 sixty allied towns, repressed the robbers, and maintained peace. Later
-on, the league of the towns of Suabia, divided into three "peace districts"
+on, the league of the towns of Swabia, divided into three "peace districts"
 (Augsburg, Constance, and Ulm), had the same purpose. And even when
 such leagues were broken,23 they lived long enough to show that while the
 supposed peacemakers—the kings, the emperors, and the Church-fomented
@@ -5460,7 +5460,7 @@ As to unions between cities for peaceful purposes, they were of quite
 common occurrence. The intercourse which had been established during
 the period of liberation was not interrupted afterwards. Sometimes, when
 the scabini of a German town, having to pronounce judgment in a new or
-complicated case, declared that they knew not the sentence (des Urtheiles
+complicated case, declared that they knew not the sentence (des Urtheile
 nicht weise zu sein), they sent delegates to another city to get the sentence.
 The same happened also in France;26 while Forli and Ravenna are known
 
@@ -5632,7 +5632,7 @@ city created during the four centuries it lived?
 
 The medieval cities have undoubtedly rendered an immense service
 to European civilization. They have prevented it from being drifted into
-the theocracies and despotical states of old; they have endowed it with the
+the theocracies and despotic states of old; they have endowed it with the
 variety, the self-reliance, the force of initiative, and the immense intellectual
 and material energies it now possesses, which are the best pledge for its
 being able to resist any new invasion of the East. But why did these centres
@@ -5774,7 +5774,7 @@ the "tyran"—was appealed to; he massacred the rebels, but the disintegration o
 a new revolt, the people of Florence appealed to their most popular man,
 Gieronimo Savonarola, for advice, the monk's answer was:—"Oh, people
 mine, thou knowest that I cannot go into State affairs . . . purify thy soul,
-and if in such a disposition of mind thou reformest thy city, then, people
+and if in such a disposition of mind thou reform thy city, then, people
 of Florence, thou shalt have inaugurated the reform in all Italy!" Carnival
 masks and vicious books were burned, a law of charity and another against
 usurers were passed—and the democracy of Florence remained where it
@@ -5842,7 +5842,7 @@ to free the peasants from servitude, and gradually corrupted by ideas of
 Roman Caesarism—were doomed to become a prey to the growing military
 States.
 
-However, before submitting for three centuries to come, to the allabsorbing authority of the State, the masses of the people made a formidable attempt at reconstructing society on the old basis of mutual aid
+However, before submitting for three centuries to come, to the all-absorbing authority of the State, the masses of the people made a formidable attempt at reconstructing society on the old basis of mutual aid
 and support. It is well known by this time that the great movement of the
 reform was not a mere revolt against the abuses of the Catholic Church.
 It had its constructive ideal as well, and that ideal was life in free, brotherly communities. Those of the early writings and sermons of the period
@@ -6031,7 +6031,7 @@ was accomplished by separate acts rather than by general sweeping measures—wit
 the communal lands by the lords also began in the fifteenth century, after the
 defeat of the peasant insurrection of 1380—as seen from Rossus's Historia
 and from a statute of Henry the Seventh, in which these seizures are spoken
-of under the heading of "enormitees and myschefes as be hurtfull . . . to the
+of under the heading of "enormities and mischiefs as be hurtful . . . to the
 common wele."9 Later on the Great Inquest, under Henry the Eighth, was
 
 begun, as is known, in order to put a stop to the enclosure of communal
@@ -6344,7 +6344,7 @@ associations. Ten to thirty growers form a syndicate, buy a steam engine
 for pumping water, and make the necessary arrangements for inundating
 their vineyards in turn.27 New associations for protecting the land from
 inundations, for irrigation purposes, and for maintaining canals are continually formed, and the unanimity of all peasants of a neighbourhood,
-which is required by law, is no obstacle. Elsewhere we have the fruitières,
+which is required by law, is no obstacle. Elsewhere we have the fruitièresères,
 or dairy associations, in some of which all butter and cheese is divided in
 equal parts, irrespective of the yield of each cow. In the Ariège we find an
 association of eight separate communes for the common culture of their
@@ -6367,7 +6367,7 @@ Westphalia one finds communes in which all the land is cultivated as one
 common estate, in accordance with all requirements of modern agronomy.
 As to the old communal customs and habits, they are in vigour in most
 parts of Germany. The calling in of aids, which are real fêtes of labour, is
-known to be quite habitual in Westphalia, Hesse, and Nassau. In welltimbered regions the timber for a new house is usually taken from the
+known to be quite habitual in Westphalia, Hesse, and Nassau. In well-timbered regions the timber for a new house is usually taken from the
 communal forest, and all the neighbours join in building the house. Even
 in the suburbs of Frankfort it is a regular custom among the gardeners that
 in case of one of them being ill all come on Sunday to cultivate his garden.31
@@ -6520,7 +6520,7 @@ agriculture and village life altogether. Here, as elsewhere, mutual aid is a
 better leader to progress than the war of each against all, as may be seen
 from the following facts.
 
-Under Nicholas the First's rule many Crown officials and serf-owners used to compel the peasants to introduce the communal culture of
+Under Nicholas the First rule many Crown officials and serf-owners used to compel the peasants to introduce the communal culture of
 small plots of the village lands, in order to refill the communal storehouses
 after loans of grain had been granted to the poorest commoners. Such cultures, connected in the peasants' minds with the worst reminiscences of
 serfdom, were abandoned as soon as serfdom was abolished but now the
@@ -6712,7 +6712,7 @@ legislated against the workers' unions, and in 1799 it finally prohibited all
 
 sorts of combinations, under the menace of severe punishments. In fact,
 the British Parliament only followed in this case the example of the French
-Revolutionary Convention, which had issued a draconic law against coalitions of workers-coalitions between a number of citizens being considered as attempts against the sovereignty of the State, which was supposed
+Revolutionary Convention, which had issued a draconian law against coalitions of workers-coalitions between a number of citizens being considered as attempts against the sovereignty of the State, which was supposed
 equally to protect all its subjects. The work of destruction of the medieval
 unions was thus completed. Both in the town and in the village the State
 reigned over loose aggregations of individuals, and was ready to prevent
@@ -6784,7 +6784,7 @@ support which are constantly practiced by them. Every one has heard of the
 colossal amount of work which was done by volunteer workers for organizing relief during the London dock-labourers' strike; of the miners who, after
 having themselves been idle for many weeks, paid a levy of four shillings
 a week to the strike fund when they resumed work; of the miner widow
-who, during the Yorkshire labour war of 1894, brought her husband's lifesavings to the strike-fund; of the last loaf of bread being always shared with
+who, during the Yorkshire labour war of 1894, brought her husband's life savings to the strike-fund; of the last loaf of bread being always shared with
 neighbours; of the Radstock miners, favoured with larger kitchen-gardens,
 who invited four hundred Bristol miners to take their share of cabbage and
 
@@ -7588,7 +7588,7 @@ the works of Huber and Forel. Naturalists who know these works find no
 "anecdotes" in them.
 
 The recent work of Professor Gottfried Adlerz on the ants in Sweden
-(Myrmecologiska Studier: Svenska Myror och des Lefnadsförhållanden, in
+(Myrmecologiska Studier: Svenska Myror och des LefnadsförhållandenörhåHandlingar, in
 Bihan till Svenska A kademiens Handlingar, Bd. Xi,. no. 18, 1886) may be
 mentioned in this place. It hardly need be said that all the observations
 of Huber and Forel concerning the mutual-aid life of ants, including the
@@ -7635,7 +7635,7 @@ bred on the same rock (Journals, vol. i. 360–363).
 In sight of Anticosti Island, the sea "was literally covered with foolish
 guillemots and with razorbilled auks (Alca torva)." Further on, the air was
 filled with velvet ducks. On the rocks of the Gulf, the herring gulls, the
-terns (great, Arctic, and probably Foster's), the Tringa pusilla, the seagulls, the auks, the Scoter ducks, the wild geese (Anser canadensis), the redbreasted merganser, the cormorants, etc., were all breeding. The sea-gulls
+terns (great, Arctic, and probably Foster's), the Tringa pusilla, the seagulls, the auks, the Scoter ducks, the wild geese (Anser canadensis), the red-breasted merganser, the cormorants, etc., were all breeding. The sea-gulls
 were extremely abundant there; "they are for ever harassing every other
 bird, sucking their eggs and devouring their young"; "they take here the
 place of eagles and hawks."
@@ -7644,7 +7644,7 @@ On the Missouri, above Saint Louis, Audubon saw, in 1843, vultures
 and eagles nesting in colonies. Thus he mentioned "long lines of elevated
 shore, surmounted by stupendous rocks of limestone, with many curious
 holes in them, where we saw vultures and eagles enter towards dusk"—that
-is, Turkey buzzards (Cathartes aura) and bald eagles (Haliaëtus leucocephalus), E. Couës remarks in a footnote (vol. I, 458).
+is, Turkey buzzards (Cathartes aura) and bald eagles (Haliaeetusëtus leucocephalus), E. Couës remarks in a footnote (vol. I, 458).
 
 One of the best breeding-grounds along the British shores are the
 Farne Islands, and one will find in Charles Dixon's work, Among the Birds
@@ -7660,7 +7660,7 @@ IV.—Sociability of Animals
 That the sociability of animals was greater when they were less hunted by
 man, is confirmed by many facts showing that those animals who now live
 isolated in countries inhabited by man continue to live in herds in uninhabited regions. Thus on the waterless plateau deserts of Northern Thibet
-Prjevalsky found bears living in societies. He mentions numerous "herds
+Przewalski found bears living in societies. He mentions numerous "herds
 of yaks, khulans, antelopes, and even bears." The latter, he says, feed upon
 the extremely numerous small rodents, and are so numerous that, "as the
 natives assured me, they have found a hundred or a hundred and fifty of
@@ -7716,7 +7716,7 @@ enemies from other parts of the plains, and how species unprotected by
 their social organization must necessarily succumb before them.
 
 Another excellent illustration in point is given by the same author from
-the Argentine Republic. The coypu (Myiopotamus coypu) is there a very
+the Argentine Republic. The coypu (Myocastor coypu) is there a very
 common rodent—a rat in shape, but as large as an otter. It is aquatic in its
 habits and very sociable. "Of an evening," Hudson writes, "they are all out
 
@@ -8022,7 +8022,7 @@ Several newspapers mentioned it at that time.
 IX.—The "Undivided Family"
 A number of valuable works on the South Slavonian Zadruga, or "compound family," compared to other forms of family organization, have been
 published since the above was written; namely, by Ernest Miler (Jahrbuch
-der Internationaler Vereinung für vergleichende Rechtswissenschaft und
+der Internationaler Vereinigung für vergleichende Rechtswissenschaft und
 Volkswirthschaftslehre, 1897), and I.E. Geszow's Zadruga in Bulgaria, and
 Zadruga-Ownership and Work in Bulgaria (both in Bulgarian). I must also
 mention the well-known study of Bogisic (De la forme dite 'inokosna' de
@@ -8281,7 +8281,7 @@ summarizes, shared Kropotkin's political vision of decentralized federalism but 
 by "individualist" tendencies (advocating "terrorism" and "violent revolution" was also, tactically, problematic).14 Nevertheless, affinities often
 trump differences. After their first meeting, Morris wrote to a friend
 
-relating "Kropotkine new come [sic] from prison and I made his acquaintance . . . I like him very much."15 Thereafter Kropotkin was a frequent
+relating "Kropotkin's new come [sic] from prison and I made his acquaintance . . . I like him very much."15 Thereafter Kropotkin was a frequent
 visitor to Morris's home, Kelmscott House, where he mixed with artists,
 printers, embroiderers, book illustrators, writers, poets, playwrights, and
 radicals.16 He also befriended Morris's daughter, May (1862–1938), who was
@@ -8432,7 +8432,7 @@ A few years later, in 1892, Crane contributed another striking illustration for 
 most famous anarchist was an outgrowth, in part, of his friendship with
 Kropotkin, whose art-related views in The Conquest of Bread guided Crane
 as he wrote "Socialism and Artists."50 Michel founded her school to
-educate the children of political exiles in the spirit of anarchist fraternité.
+educate the children of political exiles in the spirit of anarchist fraternitéé.
 "By taking on all these little French, English, German children, and teaching
 them languages," she related, "I wanted to enable them to know, and later
 understand one another, so that eventually, through the communion of
@@ -8475,7 +8475,7 @@ has been identified as a practice that has proved especially congenial
 for feminists within the anarchist movement.53
 
 Crane's depiction is surrounded by slogans—"From each according to his capacity"; "To each according to his needs"; "Liberty. Equality.
-Fraternity"; "La Solidarité Humaine" (Human Solidarity)—proclaiming
+Fraternity"; "La Solidaritéé Humaine" (Human Solidarity)—proclaiming
 the school's anarchist communist values. Liberty (donning a popular revolutionary symbol of emancipation, the liberty bonnet)54 is the agent of
 education, who holds a glowing lamp of "truth" aloft as she plucks the
 fruits of knowledge from an overflowing "tree of life" and distributes them
@@ -8553,7 +8553,7 @@ pamphlets with Ashbee's assistance in their home near Chipping Campden
 under the imprint Kelmscott & Essex House. Their first publication was
 The Deeper Meaning of the Struggle (1907), in which Coomaraswamy argued
 India's independence could only be realized by rejecting the industrial
-model of modernity and renewing the subcontinent's pre-colonial artisanbased economy.70 In subsequent books and pamphlets, he would broaden
+model of modernity and renewing the subcontinent's pre-colonial artisan-based economy.70 In subsequent books and pamphlets, he would broaden
 the scope of this "post-industrial" revolution by calling for a parallel transformation in the West, a prospect which captivated Ashbee and many in
 the anarchist movement.71
 
@@ -8740,7 +8740,7 @@ by the work of vandals and movement printmakers. Works on the street
 are accessible and immediate, an active and participatory part of everyday
 life rather than being segregated from it. And movement printmakers craft
 imagery to elevate and connect people in their shared commitments using
-easily reproduceable techniques meant to increase distribution and proliferation rather than limit it.
+easily reproducible techniques meant to increase distribution and proliferation rather than limit it.
 
 In that vein, the work in this book is meant for bootlegging, pirating,
 flyering, putting on a zine cover, or whatever way people feel drawn to
@@ -8840,7 +8840,7 @@ Notes
 foreword
 1 Peter Kropotkin to May Morris, March 31, 1889, British Library, Morris Papers, Add. MS 45346 f. 48.
 3 For a discussion of anthropology and ethnography see "Victorian Ethnographies," Victorian Studies 41,
-no. 3 (Spring 1998), especially the introductory essay by James Buzard and Joseph Childrers, 351–353,
+no. 3 (Spring 1998), especially the introductory essay by James Buzard and Joseph Childers, 351–353,
 and the epilogue by Christopher Herbert, 485–494.
 
 "Prince Kropotkin," Blackburn Standard, April 14, 1888, 3.
@@ -8966,12 +8966,12 @@ Chapter i
 1 Origin of Species, chap. iii.
 2 Nineteenth Century, February 1888, 165.
 3 Leaving aside the pre-Darwinian writers, like Toussenel, Fée, and many others, several works containing many striking instances of mutual aid—chiefly, however, illustrating animal intelligence were issued
-previously to that date. I may mention those of Houzeau, Les facultés etales des animaux, 2 vols., Brussels,
-1872; L. Büchner's Aus dem Geistesleben der Thiere, 2nd ed. in 1877; and Maximilian Perty's Ueber das
+previously to that date. I may mention those of Houzeau, Les facultés étales des animaux, 2 vols., Brussels,
+1872; L. Büchner's Aus dem Geistesleben der Thiere, 2nd ed. in 1877; and Maximilian Perty Ueber das
 Seelenleben der Thiere, Leipzig, 1876. Espinas published his most remarkable work, Les Sociétés animales,
 in 1877, and in that work he pointed out the importance of animal societies, and their bearing upon
 the preservation of species, and entered upon a most valuable discussion of the origin of societies. In
-fact, Espinas's book contains all that has been written since upon mutual aid and many good things
+fact, Espinas book contains all that has been written since upon mutual aid and many good things
 besides. If I nevertheless make a special mention of Kessler's address, it is because he raised mutual
 aid to the height of a law much more important in evolution than the law of mutual struggle. The same
 ideas were developed next year (in April 1881) by J. Lanessan in a lecture published in 1882 under this
@@ -8985,8 +8985,8 @@ was issued in 1885. The idea, as seen, was in the air.
 5 See Appendix I.
 6 George J. Romanes, Animal Intelligence, 1st ed., 233.
 7 Pierre Huber's Les fourmis indigènes, Génève, 1861; Forel's Recherches sur les fourmis de la Suisse, Zurich,
-1874, and J.T. Moggridge's Harvesting Ants and Trapdoor Spiders, London, 1873 and 1874, ought to be in
-the hands of every boy and girl. See also Blanchard's Métamorphoses des Insectes, Paris, 1868; J.H. Fabre's
+1874, and J.T. Moggridge Harvesting Ants and Trapdoor Spiders, London, 1873 and 1874, ought to be in
+the hands of every boy and girl. See also Blanchard's MéMétamorphoses des Insectes, Paris, 1868; J.H. Fabre
 Souvenirs entomologiques, Paris, 1886; Ebrard's Etudes des moeurs des fourmis, Génève, 1864; Sir John
 Lubbock's Ants, Bees, and Wasps, and so on.
 
@@ -9371,7 +9371,7 @@ of information about Scotland, Ireland, and Wales. For France, Viollet, Précis 
 Droit privé, 1886, and several of his monographs in Bibl. de l'Ecole des Chartes; Babeau, Le Village sous
 l'ancien régime (the mir in the eighteenth century), 3rd ed., 1887; Bonnemère, Doniol, etc. For Italy and
 Scandinavia, the chief works are named in Laveleye's Primitive Property, German version by K. Bücher.
-For the Finns, Rein's Föreläningar, i. 16; Koskinen, Finnische Geschichte, 1874, and various monographs.
+For the Finns, Rein's FöreläFöreläsningar, i. 16; Koskinen, Finnische Geschichte, 1874, and various monographs.
 For the Lives and Coures, Prof. Lutchitzky in Severnyi Vestnil, 1891. For the Teutons, besides the
 well-known works of Maurer, Sohm (Altdeutsche Reichs- und Gerichts- Verfassung), also Dahn (Urzeit,
 Vökerwanderung, Langobardische Studien), Janssen, Wilh. Arnold, etc. For India, besides H. Maine and
@@ -9417,13 +9417,13 @@ Post's Studien, etc.
 
 12 A number of works, by Ory, Luro, Laudes, and Sylvestre, on the village community in Annam, proving
 that it has had there the same forms as in Germany or Russia, are mentioned in a review of these works
-by Jobbé-Duval, in Nouvelle Revue historique de droit français et étranger, October and December 1896. A
+by Jobbéé-Duval, in Nouvelle Revue historique de droit français et étranger, October and December 1896. A
 good study of the village community of Peru, before the establishment of the power of the Incas, has
 been brought out by Heinrich Cunow (Die Soziale Verfassung des Inka-Reichs, Stuttgart, 1896. The communal possession of land and communal culture are described in that work.
 
 13 Kovalevsky, Modern Custom and Ancient Law, i. 115.
 14 Palfrey, History of New England, ii. 13; quoted in Maine's Village Communities, New York, 1876, 201.
-15 Königswarter, Etudes sur le développement des sociétés humaines, Paris, 1850.
+15 Königswarter, Etudes sur le dédéveloppement des sociétés humaines, Paris, 1850.
 16 This is, at least, the law of the Kalmucks, whose customary law bears the closest resemblance to the
 
 laws of the Teutons, the old Slavonians, etc.
@@ -9628,9 +9628,9 @@ the obligations of the members (Nineteenth Century, November 1890, and August 18
 84.
 
 36 See, for instance, the texts of the Cambridge guilds given by Toulmin Smith (English Guilds, London,
-1870, 274–276), from which it appears that the "generall and principall day" was the "eleccioun day"; or,
+1870, 274–276), from which it appears that the "generall and principall day" was the "election day"; or,
 Ch. M. Clode's The Early History of the Guild of the Merchant Taylors, London, 1888, i. 45; and so on. For
-the renewal of allegiance, see the Jömsviking saga, mentioned in Pappenheim's Altdänische Schutzgilden,
+the renewal of allegiance, see the Jömsviking saga, mentioned in Pappenheim's Altädänische Schutzgilden,
 Breslau, 1885, 67. It appears very probable that when the guilds began to be prosecuted, many of them
 inscribed in their statutes the meal day only, or their pious duties, and only alluded to the judicial
 function of the guild in vague words; but this function did not disappear till a very much later time.
@@ -9655,7 +9655,7 @@ l'histoire de France, 196, ed. 12mo.
 
 1844, t.i. 500.
 
-43 Dr. W. Arnold, Verfassungsgeschichte der deutschen Freistädte, 1854, Bd. ii. 227 seq.; Ennen, Geschichte der
+43 Dr. W. Arnold, Verfassungsgeschichte der deutschen Freistädteädte, 1854, Bd. ii. 227 seq.; Ennen, Geschichte der
 
 Stadt Köln, Bd. i. 228–229; also the documents published by Ennen and Eckert.
 
@@ -9678,15 +9678,15 @@ London (Ochenkowski, England's wirthschaftliche Entwickelung, etc., Jena, 1879, 
 
 49 Ch. Gross, The Gild Merchant, Oxford, 1890, i. 135. His documents prove that this practice existed in
 Liverpool (ii. 148–150), Waterford in Ireland, Neath in Wales, and Linlithgow and Thurso in Scotland.
-Mr. Gross's texts also show that the purchases were made for distribution, not only among the merchant burgesses, but "upon all citsains and commynalte" (136, note), or, as the Thurso ordinance of
+Mr. Gross's texts also show that the purchases were made for distribution, not only among the merchant burgesses, but "upon all citizens and commynalte" (136, note), or, as the Thurso ordinance of
 the seventeenth century runs, to "make offer to the merchants, craftsmen, and inhabitants of the said
-burgh, that they may have their proportion of the same, according to their necessitys and ability."
+burgh, that they may have their proportion of the same, according to their necessities and ability."
 50 The Early History of the Guild of Merchant Taylors, by Charles M. Clode, London, 1888, i. 361, appendix
 
 10; also the following appendix which shows that the same purchases were made in 1546.
 
 51 Cibrario, Les conditions économiques de l'Italie au temps de Dante, Paris, 1865, 44.
-52 de Calonne, La vie municipale au XVme siècle dans le Nord de la France, Paris, 1880, 12–16. In 1485 the
+52 de Calonne, La vie municipale au XVe siècle dans le Nord de la France, Paris, 1880, 12–16. In 1485 the
 city permitted the export to Antwerp of a certain quantity of corn, "the inhabitants of Antwerp being
 always ready to be agreeable to the merchants and burgesses of Amiens" (ibid., 75–77 and texts).
 
@@ -9763,7 +9763,7 @@ was no work at all. The general conclusion is, that the medieval worker worked l
 than the present-day worker (Dr. E. Martin Saint-Léon, Histoire des corporations, 121).
 
 11 W. Stieda, "Hansische Vereinbarungen über städtisches Gewerbe im XIV und XV Jahrhundert," in
-Hansische Geschichtsblätter, Jahrgang 1886, 121. Schönberg's Wirthschaftliche Bedeutung der Zünfte; also,
+Hansische Geschichtsblätterätter, Jahrgang 1886, 121. Schönberg's Wirthschaftliche Bedeutung der Zünfte; also,
 partly, Roscher.
 
 12 See Toulmin Smith's deeply felt remarks about the royal spoliation of the guilds, in Miss Smith's
@@ -9796,9 +9796,9 @@ it obtained its charter in 1076. This charter was repealed twice (1107 and 1138)
 (in 1127 and 1180). Total, 223 years of struggles before conquering the right to independence. Lyons—
 from 1195 to 1320.
 
-16 See Tuetey, "Étude sur Le droit municipal . . . en Franche-Comté," in Mémoires de la Société d'émulation
+16 See Tuetey, "Étude sur Le droit municipal . . . en Franche-Comtéé," in Mémoires de la Société d'émulation
 
-de Montbéliard, 2e série, ii. 129 seq.
+de Montbéliardéliard, 2e série, ii. 129 seq.
 
 17 This seems to have been often the case in Italy. In Switzerland, Bern bought even the towns of Thun
 
@@ -9837,7 +9837,7 @@ After a civil war broken out in Abbeville, Amiens would act, in 1231, as arbiter
 on.
 
 28 See, for instance, W. Stieda, Hansische Vereinbarungen, l.c.,114.
-29 Cosmo Innes's Early Scottish History and Scotland in Middle Ages, quoted by Rev. Denton, loc. cit., 68,
+29 Cosmo Innes Early Scottish History and Scotland in Middle Ages, quoted by Rev. Denton, loc. cit., 68,
 69; Lamprecht's Deutsches wirthschaftliche Leben im Mittelalter, review by Schmoller in his Jahrbuch, Bd.
 xii.; Sismondi's Tableau de l'agriculture toscane, 226 seq. The dominions of Florence could be recognized
 at a glance through their prosperity.
@@ -9850,14 +9850,14 @@ assisting each other, and the consequent subdivision of weight, the eye was sati
 the structure, notwithstanding curiously slender aspects of the separate parts." An art which sprang
 out of the social life of the city could not be better characterized.
 
-31 Dr. L. Ennen, Der Dom zu Köln, seine Construction und Anstaltung, Köln, 1871.
+31 Dr. L. Ennen, Der Dom zu Köln, seine Construction und Anstalt, Köln, 1871.
 32 The three statues are among the outer decorations of Nôtre Dame de Paris.
 33 Medieval art, like Greek art, did not know those curiosity shops which we call a National Gallery or
 a Museum. A picture was painted, a statue was carved, a bronze decoration was cast to stand in its
 proper place in a monument of communal art. It lived there, it was part of a whole, and it contributed
 to give unity to the impression produced by the whole.
 
-34 Cf. J. T. Ennett's "Second Essay," 36.
+34 Cf. J. T. Ennett "Second Essay," 36.
 35 Sismondi, iv. 172; xvi. 356. The great canal, Naviglio Grande, which brings the water from the Tessino,
 was begun in 1179, i.e. after the conquest of independence, and it was ended in the thirteenth century.
 On the subsequent decay, see xvi. 355.
@@ -9869,8 +9869,8 @@ than once been suggested by authoritative writers that education stood, as a rul
 level than is generally supposed. Certainly so in democratic Nuremberg.
 
 37 Whewell, History of Inductive Sciences, i., 252.
-38 Cf. L. Ranke's excellent considerations upon the essence of Roman Law in his Weltgeschichte, Bd. iv.
-Abth. 2, 20–31. Also Sismondi's remarks upon the part played by the légistes in the constitution of royal
+38 Cf. L. Ranke excellent considerations upon the essence of Roman Law in his Weltgeschichte, Bd. iv.
+Abteilung. 2, 20–31. Also Sismondi's remarks upon the part played by the lélégistes in the constitution of royal
 authority, Histoire des Français, Paris, 1826, viii. 85–99. The popular hatred against these "weise Doktoren
 und Beutelschneider des Volks" broke out with full force in the first years of the sixteenth century in
 the sermons of the early Reform movement.
@@ -9878,7 +9878,7 @@ the sermons of the early Reform movement.
 39 Brentano fully understood the fatal effects of the struggle between the "old burghers" and the newcomers. Miaskowski, in his work on the village communities of Switzerland, has indicated the same
 for village communities.
 
-40 The trade in slaves kidnapped in the East was never discontinued in the Italian republics till the fifteenth century. Feeble traces of it are found also in Germany and elsewhere. See Cibrario. Della schiavitù
+40 The trade in slaves kidnapped in the East was never discontinued in the Italian republics till the fifteenth century. Feeble traces of it are found also in Germany and elsewhere. See Cibrario. Della schiavitùù
 e del servaggio, 2 vols. Milan, 1868; Professor Luchitzkiy, "Slavery and Russian Slaves in Florence in the
 Fourteenth and Fifteenth Centuries," in Izvestia of the Kieff University, 1885.
 
@@ -9899,13 +9899,13 @@ suppressed. But those who wrote immediately after the great peasant war estimate
 to 150,000 men the number of peasants slaughtered after their defeat in Germany. See Zimmermann's
 Allgemeine Geschichte des grossen Bauernkrieges. For the measures taken to suppress the movement in
 the Netherlands see Richard Heath's Anabaptism.
-"Chacun s'en est accommodé selon sa bienséance . . . on les a partagés . . . pour dé pouiller les communes,
+"Chacun s'en est accommodéé selon sa bienséance . . . on les a partagésés . . . pour dé pouiller les communes,
 on s'est servi de dettes simulées" (Edict of Louis the Fourteenth, of 1667, quoted by several authors.
 Eight years before that date the communes had been taken under State management).
 
 "On a great landlord's estate, even if he has millions of revenue, you are sure to find the land uncultivated" (Arthur Young). "One-fourth part of the soil went out of culture"; "for the last hundred years
 the land has returned to a savage state"; "the formerly flourishing Sologne is now a big marsh"; and
-so on (Théron de Montaugé, quoted by Taine in Origines de la France Contemporaine, tome i, 441).
+so on (Théron de Montaugéé, quoted by Taine in Origines de la France Contemporaine, tome i, 441).
 
 5 Babeau, Le Village sous l'Ancien Régime, 3e edition. Paris, 1892.
 
@@ -9921,7 +9921,7 @@ XII), i.e. in 1801, the village communities were reintroduced, but not until aft
 all their rights, the mayor and syndics being nominated by the Government in the 36,000 communes of
 France! This system was maintained till after the revolution of 1830, when elected communal councils
 were reintroduced under the law of 1787. As to the communal lands, they were again seized upon by
-the State in 1813, plundered as such, and only partly restored to the communes in 1816. See the classical collection of French laws, by Dalloz, Répertoire de Jurisprudence; also the works of Doniol, Dareste,
+the State in 1813, plundered as such, and only partly restored to the communes in 1816. See the classical collection of French laws, by Dalloz, RéRépertoire de Jurisprudence; also the works of Doniol, Dareste,
 Bonnemère, Babeau, and many others.
 
 8 This procedure is so absurd that one would not believe it possible if the fifty-two different acts were
@@ -10010,7 +10010,7 @@ would agree to make use of it. "What especially characterises such associations,
 "is that no sort of written agreement is concluded. All is arranged in words. There was, however, not
 one single case of difficulties having arisen between the parties."
 
-28 A. Baudrillart, loc. cit., 300, 341, etc. M. Terssac, president of the St. Gironnais syndicate (Ariège), wrote
+28 A. Baudrillart, loc. cit., 300, 341, etc. M. Terssac, president of the St. Gironnaise syndicate (Ariège), wrote
 to my friend in substance as follows:—"For the exhibition of Toulouse our association has grouped
 the owners of cattle which seemed to us worth exhibiting. The society undertook to pay one-half of the
 travelling and exhibition expenses; one-fourth was paid by each owner, and the remaining fourth by
@@ -10029,7 +10029,7 @@ of all landed property, are owned by the village communities (Buchenberger, Agra
 relative to the village community in Germany.
 
 31 K. Bücher, ibid., 89, 90.
-32 For this legislation and the numerous obstacles which were put in the way, in the shape of red-tapeism
+32 For this legislation and the numerous obstacles which were put in the way, in the shape of red-tape-ism
 
 and supervision, see Buchenberger's Agrarwesen und Agrarpolitik, Bd. ii. 342–363, and 506, note.
 
@@ -10424,7 +10424,7 @@ Carpenter," Mother Earth 7, no. 10 (1912): 319.
 61 Fiona McCarthy, The Simple Life: C.R. Ashbee in the Cotswolds (Berkeley: University of California Press,
 1981), 17; 23 (Carpenter's influence); 27–8 (Guild workers own shares and decide what they produce).
 
-62 I am citing's Ashbee's characterization of the natural world in his foreword to Ananda Coomaraswamy,
+62 I am citing Ashbee's characterization of the natural world in his foreword to Ananda Coomaraswamy,
 
 The Indian Craftsman (London: Probsthain, 1909), xiii.
 
@@ -10467,7 +10467,7 @@ Pissarro in His Seventies," in Lucien Pissarro: 1863–1944 (London: Anthony d'O
 
 75 See my discussion of Pissarro's politics in Allan Antliff, "Utopie Vivante," Pissarro à Éragny: La Nature
 
-retrouvée, Richard Brettell, ed. (Paris: Musée du Luxembourg, 2017), 43–44.
+retrouvéeée, Richard Brettell, ed. (Paris: Musée du Luxembourg, 2017), 43–44.
 
 76 Thomas Sturge Moore, "Note on the Relation of the Printed Book as a Work of Art to Life," in A Brief
 
@@ -12095,7 +12095,7 @@ one of the most important theoreticians of the anarchist movement.
 
 In Kropotkin: The Politics of Community, Brian Morris reaffirms with an
 attitude of critical sympathy the contemporary relevance of Kropotkin as a
-political and moral philosopher and as a pioneering social ecologist. Wellresearched and wide-ranging, this volume not only presents an important
+political and moral philosopher and as a pioneering social ecologist. Well-researched and wide-ranging, this volume not only presents an important
 contribution to the history of anarchism, both as a political tradition and as
 a social movement, but also off ers insightful reflections on contemporary
 debates in political theory and ecological thought. After a short biographical
@@ -12249,14 +12249,14 @@ Philosophy, University of Sussex
 
 "Just what we need as we move into a new phase of revolt against the obscenity
 of capitalism: a recovery of the richness of our diff erent traditions of struggle,
-with their weavings and bumpings. Time to move on, time to redeem the
+with their weavings and bump. Time to move on, time to redeem the
 struggles of the past. A valuable and welcome collection."
 —John Holloway, author of Change the World Without Taking Power and
 professor of sociology, Autonomous University of Puebla
 
 Crossroads: I Live Where I Like:
 A Graphic History
-Koni Benson. Illustrated byAndré Trantraal, Nathan
+Koni Benson. Illustrated Andréé Trantraal, Nathan
 Trantraal, and Ashley E. Marais, and with a Foreword by
 Robin D.G. Kelley
 

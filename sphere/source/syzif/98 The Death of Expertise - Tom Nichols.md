@@ -1712,7 +1712,7 @@ geography. A fair number claim familiarity with genuine terms
 
 like centripetal force and photon. But interestingly, they also claim
 some familiarity with concepts that are entirely made up, such
-as the plates of parallax, ultra- lipid, and cholarine. In one study,
+as the plates of parallax, ultra- lipid, and chlorine. In one study,
 roughly 90 percent claimed some knowledge of at least one of
 the nine fictitious concepts we asked them about.
 
@@ -1738,7 +1738,7 @@ you speak.
 The problem of the "least competent" is an immediate challenge
 to discussions between experts and laypeople, but there's not much
 we can do about a fundamental characteristic of human nature. Not
-everyone, however, is incompetent, and almost no one is incompetent at everything. What kinds of errors do more intelligent or agileminded people make in trying to comprehend complicated issues?
+everyone, however, is incompetent, and almost no one is incompetent at everything. What kinds of errors do more intelligent or agile-minded people make in trying to comprehend complicated issues?
 Not surprisingly, ordinary citizens encounter pitfalls and biases that
 befall experts as well.
 
@@ -1833,7 +1833,7 @@ Instead, she ended up nettled at the doctor's insistence on logic:
 
 I try to explain about risk. Because I have recently noticed how
 few people really understand the risks they face. I watch people
-keep guns in their houses, drive without seatbelts, eat arteryclogging French food, and smoke cigarettes, yet they never
+keep guns in their houses, drive without seatbelts, eat artery-clogging French food, and smoke cigarettes, yet they never
 worry about these things. Instead they worry about AIDS. It's
 kind of crazy.
 
@@ -2379,7 +2379,7 @@ both laypeople and experts work in much the same way as confirmation bias. The d
 deeply rooted in our self- image and our most cherished beliefs about
 who we are as people.
 
-As Konnikova put it in her examination of the fraudulent gaymarriage study, confirmation bias is more likely to produce "persistently false beliefs" when it stems "from issues closely tied to our
+As Konnikova put it in her examination of the fraudulent gay-marriage study, confirmation bias is more likely to produce "persistently false beliefs" when it stems "from issues closely tied to our
 conception of self." These are the views that brook no opposition and
 that we will often defend beyond all reason, as Dunning noted:
 
@@ -2863,7 +2863,7 @@ knowledge that lasts well into adulthood.
 When I first arrived at Dartmouth at the end of the 1980s, I was
 told a story about a well- known (and, at the time, still- living) member of the faculty that in a small way illustrates this problem and the
 challenge it presents to experts and educators. The renowned astrophysicist Robert Jastrow gave a lecture on President Ronald Reagan's
-plan to develop space- based missile defenses, which he strongly supported. An undergraduate challenged Jastrow during the questionand- answer period, and by all accounts Jastrow was patient but held
+plan to develop space- based missile defenses, which he strongly supported. An undergraduate challenged Jastrow during the question-and-answer- answer period, and by all accounts Jastrow was patient but held
 to his belief that such a program was possible and necessary. The
 
 student, realizing that a scientist at a major university was not going
@@ -3196,7 +3196,7 @@ wrote, this attempt to lessen the unpleasant impact of actually having to attend
 classroom seats are a commodity rather than a competitively earned
 privilege.
 
-You see the results most visibly in the lazy rivers and rockclimbing walls and increasingly luxurious dorms that colleges
+You see the results most visibly in the lazy rivers and rock climbing walls and increasingly luxurious dorms that colleges
 use to compete for students, but such a shift does not limit itself
 to extraneous amenities. Professors marvel at the way students
 now shamelessly demand to be given good grades, regardless of
@@ -3406,7 +3406,7 @@ and volume can always defeat reason and substance, thus building
 about themselves fortresses that no future teacher, expert, or intellectual will ever be able to breach.
 
 At Yale in 2015, for example, a house master's wife had the temerity to tell minority students to ignore Halloween costumes they
-thought offensive. This provoked a campuswide temper tantrum that
+thought offensive. This provoked a campus-wide temper tantrum that
 included professors being shouted down by screaming students. "In
 your position as master," one student howled in a professor's face, "it
 is your job to create a place of comfort and home for the students… .
@@ -3589,7 +3589,7 @@ reasonable discussion.
 
 Internet users have created many humorous laws and corollaries to describe discussion in the electronic world. The tendency to
 bring up Nazi Germany in any argument inspired Godwin's Law and
-the related reductio ad Hiterlum. The deeply entrenched and usually
+the related reductio ad Hitlerism. The deeply entrenched and usually
 immutable views of Internet users are the foundation of Pommer's
 Law, in which the Internet can only change a person's mind from
 having no opinion to having a wrong opinion. There are many others, including my personal favorite, Skitt's Law: "Any Internet message correcting an error in another post will contain at least one error
@@ -3674,7 +3674,7 @@ research, a skill that would help everyone to navigate this wilderness of
 bad data. This might seem an odd claim coming from a member of the
 scholarly community, because I gladly admit that Internet access makes
 my work as a writer a lot easier. In the 1980s, I had to put together a
-dissertation by lugging around armloads of books and articles. Today,
+dissertation by lugging around arm loads of books and articles. Today,
 I keep browser bookmarks and folders full of electronically readable
 articles at my fingertips. How can that not be better than the hours
 I spent going blind in front of a copier in the bowels of a library?
@@ -3943,7 +3943,7 @@ of a website with the plausibility of an argument."
 This kind of Internet grazing— mistakenly called "research" by
 laypeople— makes interactions between experts and professionals
 arduous. Once again, confirmation bias is a major culprit: although
-many stories on the Internet are false or inaccurate, the one- in- abillion story where Google gets it right and the experts get it wrong
+many stories on the Internet are false or inaccurate, the one- in- a billion story where Google gets it right and the experts get it wrong
 goes viral. In a tragic case in 2015, for example, a British teenager was
 misdiagnosed by doctors who told her to "stop Googling her symptoms."10 The patient insisted she had a rare cancer, a possibility the
 doctors dismissed. She was right, they were wrong, and she died.
@@ -4228,7 +4228,7 @@ agendas over whether the Syrian government used the substance on
 
 Ou
 
-its own people. Even the basic science fell under attack. A Londonbased analyst, Dan Kaszeta— the Sarin expert I  mentioned in the
+its own people. Even the basic science fell under attack. A London-based analyst, Dan Kaszeta— the Sarin expert I  mentioned in the
 last chapter who learned a hard lesson about trying to help a college
 student— told me in late 2015 that
 
@@ -4972,7 +4972,7 @@ Turner got the last laugh, as CNN not only became a cable juggernaut but also la
 News— that would eventually overtake it in the ratings.
 
 Instead of older white males reading the news in stentorian
-voices, Turner gave CNN a far glossier look. On June 1, 1980, thirtynine- year- old David Walker and his thirty- one- year- old wife, Lois
+voices, Turner gave CNN a far glossier look. On June 1, 1980, thirty-nine- year- old David Walker and his thirty- one- year- old wife, Lois
 Hart, anchored the first moments of the new CNN, delivering a story
 about President Jimmy Carter visiting the civil rights leader Vernon
 Jordan in the hospital. The news was no longer a half hour of listening
@@ -5065,7 +5065,7 @@ owned nothing.
 Of course, the idea that Fox was unique, or that the major networks were somehow apolitical, was always a fiction. Media bias, of
 various kinds and in every venue, is real. Fox, like other networks,
 tries to draw a line between its hard- news operations and its opinion programming; like other networks, it often fails. CNN, Fox,
-MSBNC, and the major networks all have excellent news organizations, and yet all of them engage in bias to some extent, if only to
+MSNBC, and the major networks all have excellent news organizations, and yet all of them engage in bias to some extent, if only to
 tailor their broadcasts to the demographic they're seeking. In the
 competition for viewers, simply putting "news" on television isn't
 enough.
@@ -5163,7 +5163,7 @@ time those beliefs become "indistinguishable from hard data." And,
 of course, the most misinformed citizens "tend to be the most confident in their views and are also the strongest partisans."16
 
 This is one reason why few Americans trust what little news, or
-newslike programming, they watch. Too many people approach the
+news-like programming, they watch. Too many people approach the
 news with an underlying assumption that they are already well versed
 in the issues. They do not seek information so much as confirmation,
 and when they receive information they do not like, they will gravitate to sources they prefer because they believe others are mistaken
@@ -5574,7 +5574,7 @@ databases as she could. Then she thought, somebody had to have done
 this before, right?" As it turned out, neither Jensen nor anyone else had
 apparently bothered to do this basic fact- checking.
 
-Jensen later fired back, trying to rebut the work of a gradeschooler by claiming that he was right but that he could have been
+Jensen later fired back, trying to rebut the work of a grade schooler by claiming that he was right but that he could have been
 more accurate in his claims. Debate over his thesis, as the Smithsonian
 magazine later put it, "may still be raging in the comments section"
 of various Internet lists, but Fried's work proves "that anyone with a
@@ -5766,7 +5766,7 @@ a certain amount of risk.
 Other forms of expert failure, however, are more worrisome.
 Experts can go wrong, for example, when they try to stretch their
 expertise from one area to another. This is not only a recipe for error,
-but is maddening to other experts as well. In some cases, the crossexpertise poaching is obvious, as when entertainers— experts in their
+but is maddening to other experts as well. In some cases, the cross-expertise poaching is obvious, as when entertainers— experts in their
 own fields, to be sure— confuse art with life and start issuing explanations of complicated matters.
 
 In other cases, the boundaries are less clear, and the issue is not
@@ -6204,7 +6204,7 @@ taking Vitamin C in the late 1960s on the advice of a self- proclaimed
 doctor named Irwin Stone, who told Pauling that if he took three
 thousand milligrams of C a day— fifty times the recommended daily
 amount— that he would live twenty- five years longer. "Doctor" Stone's
-only degrees, however, were two honorary awards from a nonaccredited correspondence school and a college of chiropractic medicine.18
+only degrees, however, were two honorary awards from a non-accredited correspondence school and a college of chiropractic medicine.18
 Pauling wanted to believe in the concept, and he started gobbling the vitamin. Immediately, he felt its miraculous effects. A more
 impartial observer might suspect a "placebo effect," in which telling
 someone a pill will make them feel better makes them think they feel
@@ -6265,7 +6265,7 @@ were therefore headed for Armageddon?
 The speaker was a woman named Dr. Helen Caldicott. She was
 not a doctor of physics or government or international affairs, but
 a pediatrician from Australia. Her concern about nuclear weapons,
-by her own recollection, stemmed from reading Nevil Shute's 1956
+by her own recollection, stemmed from reading Nevil Shute 1956
 postapocalyptic novel On the Beach (which was set in her native
 country). As she later put it, she saw no point in treating children
 
@@ -6773,7 +6773,7 @@ counted— the Brexiteers admitted that many of their claims had
 been either exaggerated or even wrong. "Frankly," the British politician and Brexit advocate Daniel Hannan said on British television, "if
 people watching think that they have voted and there is now going to
 be zero immigration from the EU, they are going to be disappointed."
-Hannan's comments provoked a backlash from voters who, apparently, thought that such a policy was exactly what they had chosen.
+Hannan comments provoked a backlash from voters who, apparently, thought that such a policy was exactly what they had chosen.
 "There really is no pleasing some people," Hannan said, and he then
 announced that he would "take a month off Twitter."3
 
@@ -6911,7 +6911,7 @@ reporter we talk to is 27 years old, and their only reporting experience
 consists of being around political campaigns," Rhodes said. "That's a
 sea change. They literally know nothing."
 
-Rhodes's implication was clear. Not only did he think the public was too stupid to understand the deal— which was not wrong,
+Rhodes implication was clear. Not only did he think the public was too stupid to understand the deal— which was not wrong,
 although Rhodes did nothing to make them any smarter— but that
 everyone else, including Congress, was too stupid to get it as well.
 For Rhodes, contaminating the debate with misinformation was just
@@ -7735,7 +7735,7 @@ Research," American Journal of Political Science 18(1), February 1974.
 
 online, May 22, 2015.
 Jonathan Kay, "Has Internet- Fueled Conspiracy Mongering Crested?," in
-Mark Bauerline and Adam Bellow, eds., The State of the American Mind (West
+Mark Bauerlein and Adam Bellow, eds., The State of the American Mind (West
 Conshohocken, PA: Templeton, 2015), 138– 139.
 Indeed, the scholar Ross E.  Cheit has argued that the poorly handled cases
 in the 1980s and 1990s backfired tragically, as the pendulum of public opinion swung from always believing small children to being highly skeptical of
@@ -7879,7 +7879,7 @@ to Do for Islam's Holy Month," allenbwest.com, June 29, 2015.
 
 7. Michael Miller, "Gwyneth Paltrow's No Vagina Expert, Doctors Say," People
 
-online, January 29, 2015. Dr. Gunter's blog is at drjengunter.wordpress.com.
+online, January 29, 2015. Dr. Gunter blog is at drjengunter.wordpress.com.
 
 NO T E S T O PA G E S 1 1 6 – 1 3 5
 
@@ -8368,7 +8368,7 @@ Court TV, 152
 Crichton, Michael, 49
 Criswell ( Jeron Criswell Konig), 196
 
-possibly predicts JFK assasination, 246n
+possibly predicts JFK assassination, 246n
 
 Cronkite, Walter, 141, 156
 cultural literacy, 66

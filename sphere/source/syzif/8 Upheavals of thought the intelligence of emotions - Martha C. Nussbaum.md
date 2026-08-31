@@ -237,7 +237,7 @@ PART	III:	ASCENTS	OF	LOVE
 
 9.	Ladders	of	Love:	An	Introduction	457
 
-1.	Love	at	Balhec	457
+1.	Love	at	Balehc	457
 
 II.	A	Disease	and	Its	Cure	459
 
@@ -379,7 +379,7 @@ some	subterranean	jolt,	but	the	thoughts	he	has	about	Charlie	Morel,	a
 person	 who	 has	 suddenly	 become	 central	 to	 his	 well-being,	and	whom
 he	sees	as	inscrutable,	undependable,	and	utterly	beyond	his	control.	It
 is	 these	 thoughts	 about	 value	 and	 importance	 that	 make	 his	mind
-project	outward	like	a	mountain	range,	rather	than	sitting	inert	in	selfsatisfied	ease.
+project	outward	like	a	mountain	range,	rather	than	sitting	inert	in	self-satisfied	ease.
 
 A	 lot	 is	 at	 stake	 in	 the	 decision	 to	 view	 emotions	 in	 this	 way,	 as
 intelligent	 responses	 to	 the	 perception	 of	 value.	 If	 emotions	 are
@@ -409,7 +409,7 @@ them,	 as	 so	 often	 moral	 philosophy	 has	 done.	 It	 means	 that	 a	 central
 part	 of	 developing	 an	 adequate	 ethical	 theory	 will	 be	 to	 develop	 an
 adequate	theory	of	the	emotions,	including	their	cultural	sources,	their
 history	 in	 infancy	 and	 childhood,	 and	 their	 sometimes	 unpredictable
-and	 disoderly	 operation	 in	 the	 daily	 life	 of	 human	 beings	 who	 are
+and	 disorderly	 operation	 in	 the	 daily	 life	 of	 human	 beings	 who	 are
 attached	to	things	outside	themselves.
 
 issues	 a	 challenge
@@ -631,7 +631,7 @@ flexible	nonlinguistic	account	of	cognition.	Indeed,	it	enables	us	to	cut
 through	 a	dilemma	 that	 has	 vexed	 analysts	 of	 musical	 experience.
 Mahler's	 music,	and	 his	 remarkably	 perceptive	 statements	 about	 his
 music,	are	my	guides	here,	and	I	offer	interpretations	of	two	songs	from
-the	 Kinder-	totelieder	 to	 show	 what	 the	 view	 can	 make	 of	 a	 complex
+the	 Kinder-	kindertotenlieder	 to	 show	 what	 the	 view	 can	 make	 of	 a	 complex
 case	of	the	musical	expression	of	grief,	love,	guilt,	and	helplessness.
 
 Thus	 Part	 I	 ends:	 with	 a	 far	 more	 complicated	 version	 of	 the	 view
@@ -813,7 +813,7 @@ theories,	and	also	(a	separate	point)	that	they	can	be	further	specified	in
 many	different	ways.
 
 To	someone	with	these	concerns	(which	a	philosopher	could	associate
-either	with	a	liberal	brand	of	Aristotelianism	or	with	a	flexible	virtueoriented	 type	 of	 Kantianism),	 the	 emotions	 as	 I	 characterize	 them	in
+either	with	a	liberal	brand	of	Aristotelianism	or	with	a	flexible	virtue-oriented	 type	 of	 Kantianism),	 the	 emotions	 as	 I	 characterize	 them	in
 involve
 Part
 acknowledgment	 of	 neediness	 and	 lack	 of	 self-sufficiency,	 emotions
@@ -845,7 +845,7 @@ from	 a	 strictly	 impartial	 viewpoint.	 Moreover,	 they	 develop	 in
 connection	 with	 extremely	 close	 and	 intimate	 attachments,	 and	 my
 historical	account	suggests	that	these	early,	very	particular	attachments
 shadow	later	object	relations.	So	the	emotions	seem	to	be	too	partial	or
-unbal	 anced,	 and	 one	 might	 suppose	 that	 we	 could	 do	 better	 with	 the
+unbalanced	 balanced,	 and	 one	 might	 suppose	 that	 we	 could	 do	 better	 with	 the
 guidance	of	more	detached	forms	of	reasoning.	Again,	this	issue	will	be
 handled	 differently	 by	 different	 normative	 theories;	 but	 it	 is	 one	 that
 any	theory	meeting	my	thin	constraints	needs	to	worry	about,	since	we
@@ -1200,7 +1200,7 @@ account	 of	 why	 we	 do	 so.	 Therefore,	 we	 have	 at	 least	 a	roughly
 demarcated	category	of	phenomena	before	us	that	can	be	scrutinized	to
 see	 what	 their	 common	 features	 might	 be,	 although	 we	should	 be
 prepared,	as	well,	to	find	that	the	boundaries	of	the	class	are	not	clear
-and	that	there	are	noncentral	cases	that	share	only	some	of	the	features
+and	that	there	are	non-central	cases	that	share	only	some	of	the	features
 of	 the	 central	 cases.4	 It	 is	 not	 to	 he	 expected	 that	 any	explanatory
 theory	will	preserve	all	the	phenomena	intact;	but	my	assumption	will
 he	 that	 a	 criterion	 of	 correctness	 for	 a	 theory	 on	 this	topic	 is	 that	 it
@@ -1235,7 +1235,7 @@ even	 to	 include	 in	 the	 definition	 of	 a	 given	 emotion-type	reference	 to
 any	definite	bodily	state	-	though	this	is	a	much	more	contentious	point
 that	 will	 require	 further	 argument.	 Certainly	 we	 are	not	 left	 with	 a
 choice	 between	 regarding	 emotions	 as	 ghostly	 spiritual	energies	 and
-taking	them	to	he	obtuse	nonseeing	bodily	movements,	such	as	a	leap	of
+taking	them	to	he	obtuse	non-seeing	bodily	movements,	such	as	a	leap	of
 the	 heart,	 or	 the	 boiling	 of	 the	 blood.	 Living	 bodies	are	 capable	 of
 intelligence	and	intentionality.
 
@@ -1302,7 +1302,7 @@ all	are	about	my	mother	and	directed	at	her	and	her	life.	A	wind	may	hit
 against	something,	a	current	in	the	blood	may	pound	against	something:
 but	 they	 are	 not	 in	 the	 same	 way	 about	 the	 things	 they	 strike	 in	their
 way.	 My	 fear's	 very	 identity	 as	 fear	 depends	 on	 its	 having	 some	such
-object:	take	that	away	and	it	becomes	a	mere	trembling	or	heartleaping.
+object:	take	that	away	and	it	becomes	a	mere	trembling	or	heart-leaping.
 The	 identity	 of	 the	 wind	 as	 wind	 does	 not	 in	 the	 same	 way	depend	on
 any	particular	object	against	which	it	may	pound."
 
@@ -1516,7 +1516,7 @@ philosophical	 attempts	 to	 define	 the	 emotions	 over	 the	 ages	 confirms
 this	hypothesis:	for	again	and	again,	whether	the	view	announces	itself
 as	 a	cognitive	 view	 or	 not,	 the	 cognitive	 content	 is	 brought	 into	 the
 definition.	Aristotle,	Chrysippus,	Cicero,	Seneca,	Spinoza,	Smith,	even
-Descartes	and	Hurne	(for	whom	this	creates	some	tension	within	their
+Descartes	and	Hume	(for	whom	this	creates	some	tension	within	their
 general	theories	of	mind)	-	all	of	these	figures	define	emotions	in	terms
 of	belief.	Nor,	as	we	shall	see	in	Chapter	z,	have	attempts	in	psychology
 to	 jettison	 the	 cognitive	 elements	 of	 the	 definition	 met	 with	 success.
@@ -1606,7 +1606,7 @@ and	 false	 beliefs,	especially	 about	 matters	 of	 value,	 are	 difficult	 to
 shake.
 
 IV.	JUDGING	AND	ACKNOWLEDGING,
-AND	SUFFICIEN'T'	CONDITIONS
+AND	SUFFICIENT'	CONDITIONS
 
 In	order	to	prepare	for	a	fuller	elaboration	and	defense	of	the	neoStoic
 view,	we	must	now,	however,	say	more	about	judgment.	To	 understand
@@ -1740,7 +1740,7 @@ argumentative	 strategy	 if	 we	 were	 to	 recognize	 too	 many	 such	 cases,
 granted	 that	 we	 are	 commending	 our	 view	 for	 its	 superior	 power	 to
 explain	experience.	But,	as	I	shall	later	argue,	we	may	admit	some	such
 cases	 under	 specific	 conditions:	 if	 the	 person's	 pattern	 of	 behavior
-seems	best	explained	by	the	hypothesis	of	an	unconsious	fear,	or	anger,
+seems	best	explained	by	the	hypothesis	of	an	unconscious	fear,	or	anger,
 or	 grief.	 We	 have	 an	 even	 more	 powerful	 case	 if	 the	 person	 can	 he
 brought	under	certain	circumstances	to	acknowledge	this	fact	about	the
 pattern	of	her	conduct.
@@ -1831,7 +1831,7 @@ Should	we	accept	this	further	claim,	defining	emotions	in	terms	of	a
 definite	 subject	 natter?	 Here	 we	 come	 close	 to	 building	 surprise	 and
 change	 into	 the	 definition	 of	 emotion	 itself,	 a	 move	 that	 has	 recently
 been	 made	 by	 psychologist	 Keith	 Oatley	 and	 philosopher	 Aaron
-BenZe'ev,	but	one	that	we	will	have	reason	to	reject	in	Chapter	z.;°	And
+Ben-Ze'ev,	but	one	that	we	will	have	reason	to	reject	in	Chapter	z.;°	And
 
 we	also	seem	to	compromise	our	methodology:	for	people	do	speak	of
 joy	at	 their	 own	 good	 character,	 as	 even	 Seneca	 acknowledges;	 so	 we
@@ -2030,7 +2030,7 @@ value	can	be	true	or	false,	we	say	instead	that	they	are	"appropriate"	or
 "inappropriate."	 The	 language	 of	 appropriateness,	 however,	 confuses
 the	 issue,	 since	 things	 can	 be	 appropriate	 or	inappropriate	 in	 many
 different	ways:	it	doesn't	single	out	the	aspect	of	value-correctness	that
-we	 want	 to	 single	 out.	 Chrysippus's	 "and	 it	 is	right	 to	 get	 upset"	 does
+we	 want	 to	 single	 out.	 Chrysippus	 "and	 it	 is	right	 to	 get	 upset"	 does
 very	well,	and	makes	a	truth	claim	of	the	relevant	sort	.43
 
 A	point	commonly	made	about	the	emotions,	purportedly	in	order	to
@@ -2207,7 +2207,7 @@ same	 one).	 Only	 one	 of	 these	 three	 ways	 of	 focusing	 on	 my	mother
 makes	reference	to	me;"	and	this	one,	I	have	insisted,	does	not	consider
 her	 a	 person	 of	 merely	 instrumental	 importance.	 And	 yet,	 this	one
 appears	 to	 be	 crucial	 in	 making	 the	 difference	 between	 love	 and
-nonlove,	grief	and	nongrief.
+nonlove,	grief	and	non-grief.
 
 Once	again,	then:	my	view	emphatically	does	not	make	the	emotions
 egoistic,	 unless	 one	 should	 hold	 that	 any	 attachment	 to	 one's	 own
@@ -2916,7 +2916,7 @@ numerical	beliefs.	There	is	a	resistance	to	the	acknowledgment	of	one's
 own	vulnerability	that	must	be	overcome.	To	that	extent,	the	Freudian
 account	 has	 force	 (though	 the	 cases	 I	 discuss	 here	 do	 not	 involve
 repression	 in	 its	 technical	 sense).	 But	 if	 we	 are	 to	 recognize	 such
-hackground	emotions,	I	claim,	we	still	need	good	reasons	for	doing	so.
+background	emotions,	I	claim,	we	still	need	good	reasons	for	doing	so.
 The	attribution	 is	 most	 secure	 when	 it	 can	 be	 validated	 by	 the	 person
 herself,	 who	 ultimately	 should	 acknowledge	 that	 the	 pattern	 of	 her
 
@@ -3180,7 +3180,7 @@ IX.	"FRESHNESS"	AND	THE	DIMINUTION	OF	GRIEF
 The	 Greek	 Stoics	 introduce	 a	 complication	 into	 their	 account	 that	 we
 must	now	consider	-	for	it	arises	prominently	in	the	experience	of	grief.
 They	say	that	a	judgment,	in	order	to	he	equivalent	to	an	emotion,	must
-be	"fresh"	-	using	a	Greek	word,	prospbaton,	that	is	used	frequently	of
+be	"fresh"	-	using	a	Greek	word,	prospation,	that	is	used	frequently	of
 food,	 and	 also	 of	 corpses	 newly	 dead,	 to	 imply	 that	 no	decomposition
 has	set	in.	The	point	of	this	is	to	account	for	the	sort	of	affective	waning
 or	 distancing	 that	 takes	 place	 in	 grief.	 The	 suggestion	is	 that	 the
@@ -3434,7 +3434,7 @@ of	the	reweaving	of	one's	needs,	goals,	and	projects.
 X.	EMOTIONAL	CONFLICT
 
 The	 neo-Stoic	 view	 of	 emotion	 has	 implications	 for	 the	 analysis	 of
-emotional	 conflicts	 -	 both	 conflicts	 between	 emotions	 and	 other	 judgmeats	and	conflicts	among	the	emotions	themselves.	In	the	adversary's
+emotional	 conflicts	 -	 both	 conflicts	 between	 emotions	 and	 other	 judgments	and	conflicts	among	the	emotions	themselves.	In	the	adversary's
 view,	 these	 conflicts	 are	 viewed	 as	 struggles	 between	 two	 forces,
 simultaneously	 active	 in	 the	 soul.	 In	 the	 latter	 case	 we	 have	 two
 uncomprehending	forces	battling	it	out,	like	two	opposing	winds;	in	the
@@ -3545,7 +3545,7 @@ person	 whom	 he	 in	 no	 way	 controls	 (and	 who	 is,	besides,	 especially
 inscrutable	and	unreliable).	And	yet	the	narrator	tells	us	that	this	world
 is	 a	 world	 "enriched"	 -	 and	 enriched	 by	 the	 agitation	itself	 ("par	 la
 meme").	This	normative	conclusion	remains	to	he	examined.	For	now,
-we	are	begining	to	have	some	idea	of	what	it	is	to	understand	emotions
+we	are	beginning	to	have	some	idea	of	what	it	is	to	understand	emotions
 as	 a	 certain	 sort	 of	 vision	 or	 recognition,	 as	 valueladen	 ways	 of
 understanding	the	world.
 
@@ -4052,7 +4052,7 @@ experimentally	 that	dogs	 whose	 muscles	 are	 entirely	 paralyzed	 with
 the
 curare	 while
 subjects.	 Third,	he	 points	 to	 the	 "passive-escape"
-nonparalyzed
+non-paralyzed
 to	rule	 out	 the	 opponent's
 experiment	 devised	 by	 S.	 F.	 Maier
 hypothesis.'`'	 The	 dogs	 in	 this	 experiment	 can	control	 the	 shock	 -	 but
@@ -4257,7 +4257,7 @@ defended	 in	 Chapter	 i.	 Like	 that	 theory,	 it	 stresses	 that	 emotions	 ar
 usually	 eudaimonistic,	 concerned	 with	 one	 or	 more	 of	 the	 creature's
 most	 important	 goals	 and	 projects.	 In	 fact,	 for	 nonhuman	 animals	 it
 seems	 plausible	 to	 claim	 that	 they	 are	 always	 strongly	 eudaimonistic.
-And	 like	 that	 theory,	 Lazurus's	 stresses	 that	 emotions	 are	 usually,
+And	 like	 that	 theory,	 Lazarus's	 stresses	 that	 emotions	 are	 usually,
 though	 not	 necessarily,	 accompanied	 by	 a	 high	 degree	 of	 focused
 sensory	 attention	 to	 the	 object,	 attention	 that	 in	 part	 explains	 their
 motivational	and	adaptive	significance.
@@ -4275,7 +4275,7 @@ to	 which	 "conflict"	and	 "interruption"	 -	 as	 well	 as	 "appraisal"	 -	 are
 central	to	the	analysis	of	emotion.	To	Lazarus's	basic	idea	that	emotions
 are	appraisals	of	the	environment	with	respect	to	the	agent's	important
 goals,	Oatley	adds	the	requirement	that	the	cognition	is	of	some	change
-in	 the	 status	 of	those	 goals.	 "JElmotions	 occur	 when	 a	 psychological
+in	 the	 status	 of	those	 goals.	 "Emotions	 occur	 when	 a	 psychological
 tendency
 is
 interrupted.""'	 Sometimes	he	 puts	 the	 point	 by	 saying	 that	 something
@@ -4319,7 +4319,7 @@ negative	 emotions	 are	 not	 well	 explained	 in	 this	 way:	 we	 may	 he
 persistently	 angry	 over	 an	 event	 that	 is	 fixed	 and	 unchangeable,	 even
 one	 that	 occurred	 before	 we	 were	 horn.	 But	 clearly	 the	 view	 doesn't
 even	 begin	 to	 explain	 contentment,	 joy,	 or	 love.	 (Proust	 does	 give	 a
-rather	 Oatleyesque	 analysis	 of	 love,	 and	 I	 shall	 return	 to	 it	 in	 Chapter
+rather	 Oatley-esque	 analysis	 of	 love,	 and	 I	 shall	 return	 to	 it	 in	 Chapter
 ro;	 but	 I	 believe	 it	 is	 incomplete	 as	 an	 account	 of	 that	 emotion.)	 We
 should	perhaps	see	this	weakness	not	as	a	major	weakness	in	the	theory
 so	far	as	it	goes,	but	as	a	sign	that	the	theory	is	a	theory	well	suited	to
@@ -4360,7 +4360,7 @@ persisting	animal	emotion.
 
 Consider	the	love	of	dogs	for	their	owners,	such	as	the	persisting	love
 of	Lupa	and	Remus	for	George	Pitcher	and	Ed	Cone.	Remus	manifested
-his	love	for	Pitcher	on	the	occasion	of	a	change	in	Pitcher's	demeanorbut	the	reader	of	Pitcher's	narrative	is	in	no	doubt	that	the	two	dogs	love
+his	love	for	Pitcher	on	the	occasion	of	a	change	in	Pitcher's	demeanor but	the	reader	of	Pitcher's	narrative	is	in	no	doubt	that	the	two	dogs	love
 him	 steadily,	 and	 that	 this	 persisting	 love	 organizes	 their	lives,	 as	 it
 does	 his	 own.	 Perhaps	 it	 is	 easier	 for	 psychologists	 to	 be	confident	 in
 ascribing	 emotion	 to	 nonhuman	 animals	 when	 there	 is	 a	change	in	the
@@ -4576,7 +4576,7 @@ operation,	and	which	Damasio's	wife	has	reconstructed	as	the	likely	site
 of	 Phineas	 Gage's	 brain	 damage.	 Such	 conclusions	 are	 extremely
 interesting.	 They	 do	 not	 suggest	 in	 any	 way	 that	 emotions	 are
 nonintentional	physiological	processes:	indeed,	the	whole	thrust	of	Da
-masio's	argument	is	strongly	antireductionistic.	All	cognitive	processes
+Damasio's	argument	is	strongly	antireductionistic.	All	cognitive	processes
 have	their	roots	in	brain	function,	and	this	does	not	mean	that	we	should
 think	 of	 them	 as	 noncognitive	 feelings.	 The	 point	 Damasio	makes	 is
 that	 the	 same	 is	 true	 of	 emotions:	 they	 help	 us	 to	 sort	 out	 the
@@ -4791,7 +4791,7 @@ temporarily	absent,	and	a	boisterous	joy	when	they	returned	home,	that
 showed	that	they	had	put	these	two	men	into	their	lives	in	a	much	more
 than	instrumental	 way	 -	 still	 eudaimonistic,	 in	 the	 sense	 that	 the	 men
 wer e	central	 to	 their	 scheme	 of	 goals	 and	 projects,	 but	 not	 simply
-survivallinked	 in	 the	 way	 of	 many	 of	 the	 eudaimonistic	 emotions	 of
+survival linked	 in	 the	 way	 of	 many	 of	 the	 eudaimonistic	 emotions	 of
 animals.	Repeated	 stories	 of	 the	 dogs'	 loyal	 behavior,	 and	 their	 sheer
 joy	 in	 the	presence	 of	 the	 two	 men,	 confirm	 the	 hypothesis	 that	 the
 attachment	 is	noninstrumental.	 (Remember	 that	 the	 relationship	 with
@@ -4802,7 +4802,7 @@ something	more,	a	trusted	ally.)
 Pitcher	 here	 returns	 to	 a	 theme	 of	 his	 earlier	 philosophical	 work	 on
 emotion,	where	he	stresses	that	love,	unlike	most	of	the	other	emotions,
 is	not	based	on	articulable	reasons,	and	is	therefore	more	unconditional
-than	 the	 reason-based	 enotions.,-	 He	 reaches	 that	 same	 conclusion	 in
+than	 the	 reason-based	 emotions.,-	 He	 reaches	 that	 same	 conclusion	 in
 reflecting	about	Lupa	and	Remus:
 
 Yes,	 we	 had	 many	 reasons	 for	 loving	 Lupa	 and	 Remus,	 but	 when	 it
@@ -4909,7 +4909,7 @@ study	their	own	awareness.	Some	of	the	animals	we	have	discussed	have
 emotions	 without
 self-consciousness.	 We	 have
 selfconsciousness,	but	do	not	always	exercise	it;	and	we	can	ourselves
-discriminate	 threat	 from	 nonthreat,	 the	 loved	 from	 the	 nonloved,
+discriminate	 threat	 from	 non-threat,	 the	 loved	 from	 the	 non-loved,
 without	 explicitly	 formulating	 this	 to	 ourselves	 in	 every	 case,	 or
 reflexively	scrutinizing	our	own	ascriptions.
 
@@ -4918,7 +4918,7 @@ emotions	will	at	times	not	register	at	all	in	felt	experience.	Sometimes
 the	emotion	will	not	attain	consciousness	because	it	is	part	of	a	routine	,
 117	sometimes	 because	 it	 is	 a	 background,	 rather	 than	 a	 situational,
 emotion.	In	both	cases,	nothing	in	the	situation	has	caused	us	to	register
-our	emotion:	it	doesn't	feel	like	anythiing	to	us.	And	yet,	it	is	often	right
+our	emotion:	it	doesn't	feel	like	anything	to	us.	And	yet,	it	is	often	right
 to	say	that	the	emotion	remains	there,	explaining	what	we	do,	just	as	the
 belief	 that	 two	 plus	 two	 equals	 four	 is	 present,	 explaining	higher
 mathematical	 operations,	 even	 though	 we	 are	 not	 aware	 of	 it	 all	the
@@ -5011,7 +5011,7 @@ often	 find	 ourselves	 motivated	 by	 a	 sense	 of	 salience	 that	 is	 not	 on
 
 derived	from	early	childhood	but	still	at	the	level	of	childhood,	inchoate
 and	without	clear	boundaries.	To	bring	this	material	to	verbal	or	other
-symbolic	expression	involves	both	self-discovery	and	selfchange."
+symbolic	expression	involves	both	self-discovery	and	self-change."
 
 What	 we	 need,	 in	 short,	 is	 a	 multifaceted	 notion	 of	 cognitive
 interpretation	 or	 seeing-as,	 accompanied	 by	 a	 flexible	 notion	 of
@@ -5075,7 +5075,7 @@ types	of	objects	they	can	take.	One	may	love	people	or	things,	one	may
 grieve	 for	 an	 animal	 or	 a	 child	 -	 what	 is	 crucial	 to	 the	emotion	 is	 the
 
 value	 with	 which	 the	 object	 has	 been	 invested."	 Emotions,	 then,	 are
-value-suffused	and	(to	some	extent	at	any	rate)	objectflexible.
+value-suffused	and	(to	some	extent	at	any	rate)	object flexible.
 
 Another	 closely	 related	 difference	 pertains	 to	 origins.	 A	 bodily	 ap
 petite	such	as	hunger	is	a	push:	that	is,	it	arises	relatively	independently
@@ -5235,7 +5235,7 @@ moodlike,	endogenous	depression	is	clear	enough;	in	practice	it	may	be
 extremely	 difficult	 to	 differentiate	 them.	 Even	 a	 case	 where	 chemical
 treatment	yields	good	results	for	depression	would	not	show	that	there
 was	no	object;	it	would	only	show	that	at	that	stage	of	the	person's	life
-symptomic	 relief	 was	 sufficient	 to	 make	 a	 real	 improvement.	 It	 may
+symptomatic	 relief	 was	 sufficient	 to	 make	 a	 real	 improvement.	 It	 may
 therefore	 remain	 obscure	 in	 a	 particular	 case	 whether	 we	 are	 dealing
 with	a	mood	or	with	an	emotion	that	has	a	vague,	or	general,	or	hidden
 object.
@@ -5379,7 +5379,7 @@ on	the	floor	mats	near	him,	rose	to	her	knees	as	if	she	had	been	stabbed
 and	pounded	her	fist	violently	against	her	chest.	The	adoptive	mother	...
 began	 to	 scream	 and	 throw	 herself	 about	 on	 the	 ground."	 The	whole
 house	 was	 filled	 with	 crying,	 "from	 low	 moaning	 to	 loud,	wrenching
-and	 mucus-filled	 screaming	 to	 wailingly	 sung	 poem-laments,	and
+and	 mucus-filled	 screaming	 to	 wailing	 sung	 poem-laments,	and
 continued	without	pause	through	the	night.	Both	men	and	women	spent
 tears	in	what	seemed	...	equal	measure."	(The	Ifaluk	believe	that	those
 who	 do	 not	 "cry	 big"	 at	 a	 death	 will	 become	 sick	 afterwards.)
@@ -5968,7 +5968,7 @@ about	 "the	 Indian	 child,"	 however	 suggestive,	 rest	 on	 a	 very	 small
 sample	 and	 don't	 adequately	 reflect	 cultural,	 religious,	 or	 regional
 differences	 -	 or	 differences	 of	 sex,	 since	 all	 the	 studies	 have	 focused
 exclusively	 on	 boys.''-'	 Briggs's	 study	 of	 the	 Utku	 and	 Lutz's	 of	 the
-Ifal uk	are	 different	 because	 they	 have	 attempted	 to	 examine	 all
+Ifaluk uk	are	 different	 because	 they	 have	 attempted	 to	 examine	 all
 individuals,	albeit	 within	 a	 very	 small	 population;	 the	 studies	 carry
 
 conviction
@@ -6255,7 +6255,7 @@ criminal	 law	 embodies	 social	 norms	 about	 the	 occasions	 on	 which	 a
 a	spouse	(but	not	of	a	fiancee)	and	a	blow	to	the	face	(hut	not	a	boxing
 of	the	ears)."	Although	judges	know	well	that	people	got	violently	angry
 at	many	other	provocations,	the	assumption	behind	the	doctrine	is	that
-social	 norms	 should	 guide	 norms	 of	 sentencing:	 the	 wellbrought-up
+social	 norms	 should	 guide	 norms	 of	 sentencing:	 the	 well-brought-up
 person	 responds	 with	 violence	 to	 some	 provocations	 only.	Today	 the
 doctrine	 remains,	 but	 the	 objects	 have	 changed.	 A	 man's	wife	 is	 no
 longer	taken	to	be	his	property;	therefore	adultery	is	no	longer	imagined
@@ -6291,7 +6291,7 @@ wide-ranging	network.	1142
 
 Finally,	emotion	taxonomies	themselves	vary	across	societies.	I	have
 said	 that	 all	 known	 societies	 have	 some	 variety	 of	 the	 major
-emotiontypes:	love,	fear,	grief,	anger,	jealousy,	envy,	compassion,	and
+emotion types:	love,	fear,	grief,	anger,	jealousy,	envy,	compassion,	and
 some	others.	But	even	at	the	level	of	the	big	generic	categories	we	do
 not	 find	 a	 perfect	 one-to-one	 correspondence	 across	 cultures,	 since
 cultures	 organize	 in	 different	 ways	 the	 elements	 that	 individuate
@@ -6412,7 +6412,7 @@ At	one	level,	the	story	is	a	tragedy	of	a	cross-culturally	recognizable
 sort.	 Premature	 death	 from	 disease	 has	 been	 a	 staple	 of	 tragic	 fiction
 through	the	ages,	as	it	is	a	staple	of	real	life,	and	the	death	of	a	young
 woman	is	a	classic	focus	of	audience	grief,	from	Euripides'	Alcestis	to
-Puccini's	La	Bohefne.	This	death	is	in	that	genre.	But	its	specific	physi
+Puccini's	La	Boheme.	This	death	is	in	that	genre.	But	its	specific	physi
 cal	 circumstances	 are	 shrewdly	 chosen	 to	 tap	 specifically	 American
 fears.	These	people	need	not	fear	starvation,	or	human	sacrifice,	or	even
 tuberculosis.	 Breast	 cancer,	 however,	 is	 the	 great	 fear	 of	 young
@@ -6541,10 +6541,10 @@ this	 common	 situation.	 Thus	 the	 works	 of	 Sophocles	 and	 Euripides
 cross	 cultural	 boundaries	 with	 tremendous	 power,	 since	 they	 focus	 on
 myths	of	loss	and	family	conflict	that	are	easily	recognizable	to	other
 cultures.	Homer's	Iliad	has	been	used	successfully	in	treating	Vietnam
-War	veterans	who	suffer	from	postcombat	trauma	-	because	its	stories
+War	veterans	who	suffer	from	post-combat	trauma	-	because	its	stories
 
 of	rage	and	fear	are	recognizable	across	cultural	differences.	So	too	the
-Mahahharata,	 which	 attracted	 huge	 audiences	 when	 presented	 in	 New
+Mahabharata,	 which	 attracted	 huge	 audiences	 when	 presented	 in	 New
 York	by	an	international	cast,	in	a	production	by	Peter	Brooks	intended
 to	 underline	 the	 work's	 human	 universality.	 Jean	 Briggs	 found	 that
 Italian	opera	provided	a	valuable	common	ground	between	Western	and
@@ -7101,7 +7101,7 @@ whose	concept	 of	 "holding"	 incorporates	 nutrition,	 sensitive	 care,	 and
 the	 creation	 of	 a	 "facilitating	 environment."	 As	 Winnicott	 remarks,	 a
 reasonably	 supportive	 "facilitating	 environment"	 is	 one	 in	 which	 the
 omnipotence	 of	 the	 infant	 (which	 is	 also	 to	 say,	 its	 total	 helplessness,
-which	explains	its	demand	to	be	at	the	center	of	attention)	is	rnet	and
+which	explains	its	demand	to	be	at	the	center	of	attention)	is	met	and
 acknowledged.	Through	an	identification	with	the	infant,	the	caretaker
 or	 caretakers	 know	 what	 it	 needs,	 and	 supply	 those	 things:	 not	 only
 food,	 but	 also	 sensitive	 interaction	 and	 comfort.	 Bowlby	 shows,
@@ -7194,7 +7194,7 @@ interplay	 of	 eyes	 and	 face
 
 the	 subtle
 
-r el at i onshi p	can	 go
+r el at i relationship p	can	 go
 overstimulation,	or	depressive	neglect."
 
 awry,
@@ -7245,7 +7245,7 @@ which	 they	 invest	 items	 in	 their	 environment	 is	 instrumental	value
 toward	 the	 removal	 of	 some	 negative	 condition,	 then	 it	 should	 he	as
 Epicurus	 says:	 when	 once	 pain	 and	 disturbance	 is	 undone,	 "the	animal
 has	 no	 need	 to	 go	 off	 anywhere.	 "41	 But	 animals	 initiate	 projects	of
-their	own.	In	human	animals	the	independence	from	mere	selfprotection
+their	own.	In	human	animals	the	independence	from	mere	self-protection
 of	curiosity,	cognitive	interest,	and	wonder	is	especially	apparent,	and
 essential	to	explain	initiative	and	creativity.
 
@@ -7277,7 +7277,7 @@ as	 yet	unable	 to	 conceive	 of	 the	 caretaker	 as	 a	 whole	 person	 with	 a
 separate	career	in	space	and	time.	But	a	kind	of	rudimentary	love	and
 gratitude	are	involved	in	the	awareness	that	others	aid	it	in	its	attempts
 to	live	(Spinoza's	definition	of	love).	At	the	same	time	the	infant	has	an
-incip	ient	kind	of	wonder	and	delight	at	parts	of	the	world	that	are	not
+incipient	ient	kind	of	wonder	and	delight	at	parts	of	the	world	that	are	not
 related	to	its	own	states.	These	parts	of	the	world	include	persons	and
 parts	of	persons,	toward	whom	wonder	and	gratitude	may	be	profoundly
 interwoven.
@@ -7702,7 +7702,7 @@ products,"	 or	objects	 that	 have	 had	 contact	 with	 animals	 or	 animal
 products	 -	 a	major	source	being	contact	with	"people	who	are	disliked
 or	 viewed	 as	unsavory."	 It	 is	 difficult	 to	 explain	 why	 plant	 products
 (apart	 from	decayed	 or	 moldy	 specimens)	 are	 not	 disgusting,73	 but
-research	suggests	that	the	movitating	ideas	have	to	do	with	our	interest
+research	suggests	that	the	motivating	ideas	have	to	do	with	our	interest
 in	 policing	 the	boundary	between	ourselves	and	nonhuman	animals,	or
 our	own	animality.	Hence	tears	are	the	one	human	bodily	secretion	that
 is	 not	 found	 disgusting,	 presumably	 because	 they	 are	 thought	 to	 he
@@ -8081,7 +8081,7 @@ resources	 the	 child	 has	 by	 now	 acquired	 to	 meet	 it.	 First,	 she	 has
 nascent	love	and	gratitude,	now	directed	toward	a	whole	object.	If	early
 holding	 has	 been	 successful,	 she	 has	 developed	 an	 increasingly	 subtle
 interplay	with	the	object,	which	contains	elements	of	trust	and	willing
-selfexposure.	Second,	she	has	curiosity	about	the	world,	combined	with
+self-exposure.	Second,	she	has	curiosity	about	the	world,	combined	with
 wonder	and	love	of	what	is	seen.	Third,	through	her	capacity	to	be	alone
 and	 her	 play	 with	 transitional	 objects,	 combined	 with	 the	 subtle
 interplay	she	has	developed	with	her	caretaker,	she	has	a	nascent	ability
@@ -8441,7 +8441,7 @@ system	 aids	 and	 abets	 primitive	 shame	 or	 conduces	 to	 the	 stifling	 of
 that	 system.	 At	 the	 very	 least,	 we	 have	 reason	 to	 wonder	 about	 its
 transgenerational	stability,	since	it	seems	likely	to	produce	people	like
 B,	 who	 shut	 down	 morally	 and	 cannot	 find	 access	 to	 their	 reparative
-capacity.	 But	 we	 may	 also	 make	 a	 deeper	 criticism:	 that	 such	 miral
+capacity.	 But	 we	 may	 also	 make	 a	 deeper	 criticism:	 that	 such	 moral
 
 systems	 harm	 elements	 of	 the	 human	 being	 that	 need	 support	 and
 sustenance.	 When,	 on	 the	 other	 hand,	 we	 see	 that	 a	 morality	 that
@@ -8603,7 +8603,7 @@ that	 communism	(as	 then	 practiced)	 fares	 very	 badly.	 On	 the	 other
 hand,	 he	 also	 holds	that	 the	 child's	 development	 away	 from	 infantile
 the
 dependence	 and
-renunciation	 of	 exclusive	and	 local	 loves	 and	 the	 acceptance	 of	 everbroader	forms	of	community,	governed	by	reciprocity	and	mutual	care.
+renunciation	 of	 exclusive	and	 local	 loves	 and	 the	 acceptance	 of	 ever-broader	forms	of	community,	governed	by	reciprocity	and	mutual	care.
 "Mature	dependence"	involves	a	recognition	of	the	parent's	separateness
 and	 liberty.	 But	 by	the	 same	 token	 it	 involves	 the	 recognition	 that
 
@@ -8682,7 +8682,7 @@ that	 "imperfection	means	 being	 rejected."	 The	 parent	 should	 choose	 a
 that	strengthens	 the	 child's	 confidence	 in	 her	 reparative
 method
 capacities,	what	Winnicott	calls	her	"growing	confidence	that	there	will
-be	 oportunity	for	contributing-in.""'	For	example,	this	might	involve	a
+be	 opportunity	for	contributing-in.""'	For	example,	this	might	involve	a
 period
 the	 family	 context,	 followed	 by	 a
 reintegration,	 as	 the	child	 is	 allowed	 to	 make	 reparation	 for	 what	 she
@@ -8690,7 +8690,7 @@ has	done.
 
 of	separation	 from
 
-Public	 punishments	 have	 to	 meet	 many	 demands	 that	 parental	 punishnments	 do	 not.	 They	 must	 he	 chosen	 with	 an	 eye	 to	 protecting
+Public	 punishments	 have	 to	 meet	 many	 demands	 that	 parental	 punishments	 do	 not.	 They	 must	 he	 chosen	 with	 an	 eye	 to	 protecting
 society	from	violent	offenders,	and	also	with	an	eye	to	deterring	crime.
 S o	anything	 we	 say	 here	 will	 represent	 only	 a	 part	 of	 what	 must	 be
 considered.	Nonetheless,	the	view	that	I	have	developed	gives	us	some
@@ -9277,7 +9277,7 @@ nondestructive	manner	of	the	depth	and	breadth	of	our	ability	to	feel,"
 "Ikeeping	 our	 personality	 in	 an	 open	 and	 permeable	 condition.	 As
 Aristotle	remarks,	if	one	has	an	"overweening	disposition,"	a	hubristike
 diathesis,	 one	 will	 not	 feel	 pity.	 Tragedies	 construct	 a	 spectator	who
-does	 not	 have	 a	 bubristike	 diathesis,	 who	 is	 open	 to	 emotional
+does	 not	 have	 a	 hubristic	 diathesis,	 who	 is	 open	 to	 emotional
 experiences	 having	 to	 do	 with	 the	 sufferings	 of	 others,	 and	 who	 is
 therefore	(other	things	being	equal)	somewhat	better	prepared	to	relate
 to	fellow	human	beings	on	a	basis	of	mutuality.	We	thus	have	a	fourth
@@ -9285,7 +9285,7 @@ type	 of	 emotion	 to	 add	 to	 our	 list	 of	 spectatorial	 emotions:	 joy	 or
 pleasant	emotion	at	coming	to	understand	something.
 
 For	 this	 reason,	 Proust	 compares	 novels	 to	 experiences	 of	 grief	 or
-other	profound	emotions	in	real	life:	"Iclertain	novels	are	like	great	but
+other	profound	emotions	in	real	life:	"Certain	novels	are	like	great	but
 temporary	 bereavements,	 abolishing	 habit,	 bringing	 us	 once	 more	 into
 contact	with	the	reality	of	life,	but	for	a	few	hours	only	...""	Our	habits
 screen	 from	 us	 our	 real	 situation	 -	 our	 neediness,	 our	 love	 for
@@ -9581,7 +9581,7 @@ analogues	 to	 the	 literary	 figures	 of	 narrator	 and	 characters:	 that	 is,
 subportions	of	the	work	that	express	a	sense	of	life	out	of	keeping	with
 the	work's	overall	sensibility.	This	will	happen	most	obviously	in	opera
 or	in	an	explicitly	programmatic	work,	as	when	Richard	Strauss	depicts
-his	 hero's	 enemies;	 as	 when	 Prokoviev	 satirically	 depicts	 pompous
+his	 hero's	 enemies;	 as	 when	 Prokofiev	 satirically	 depicts	 pompous
 arrogance	 or	 foolish	 love.	 But	 it	 may	 also	 happen	 in	 a	 more	 abstract
 work,	 as	 when	 Mahler	 depicts	 the	 shallow	 docility	 of	 conventional
 society	 in	 a	 subportion	 of	 the	 Scherzo	 of	 the	 Second	 Symphony,	 a
@@ -9825,7 +9825,7 @@ Modern	defenders	of	this	type	of	view	have	added	little	to	Posidonius'
 basic	argument.	For	Arthur	Schopenhauer,	music	is	connected	as	is	 no
 other	art	to	the	"Will,"	that	is,	the	force	of	erotic	striving	that	propels	us
 on	 into	 life	 and	 manifests	 itself	 in	 various	 emotions,	 above	all	 those
-connected	with	love	and	sexuality.	Music	represents	the	surgings	of	this
+connected	with	love	and	sexuality.	Music	represents	the	surging	of	this
 inner	force,	"the	many	different	forms	of	the	will's	efforts,	but	also	its
 satisfaction	 by	 ultimately	 finding	 again	 a	 harmonious	 interval.""	 For
 this	reason,	its	effect	is	more	immediate	and	more	profound	than	that	of
@@ -9853,13 +9853,13 @@ in
 The	 difficulty	 is,	 however,	 that	 this	 does	 not	 really	 answer	 Hanslick's
 
 argument	(or	an	argument	of	Hanslick's	sort,	since	Schopenhauer's	work
-predates	 Hanslick's).	 Hanslick	 convincingly	 claimes	 that	 one	 cannot
+predates	 Hanslick's).	 Hanslick	 convincingly	 claims	 that	 one	 cannot
 identify	 either	 the	 general	 form	 of	 these	 emotions	 or	 their	 particular
 manifestations	without	beliefs	and	concepts.	Schopenhauer	responds,	to
 this	 extent	 plausibly,	 that	 music	 may	 lack	 highly	 specific	 situational
 objects,	 but	 contains	 general	 objects.	 But	 then	 Hanslick	 will	 rightly
 respond	 that	 even	 a	 general	 emotion	 has	 object-directed	 intentionality
-and	requires	some	belieflike	content,	even	if	of	a	highly	general	kind.
+and	requires	some	belief-like	content,	even	if	of	a	highly	general	kind.
 Schopenhauer's	 conception	 of	 the	 Will	 prevents	 him	 from	 giving	 an
 adequate	 account	 of	 this	 content.	 Will	 is	 a	 force	 of	 erotic	 striving
 totally	lacking	in	selectivity,	awareness,	and	intentionality.	Thus	music,
@@ -9872,7 +9872,7 @@ strivings	 and	 most	 powerful	 emotions.	 This	 aspect	 of	 music	 he	 feels
 deeply,	and	in	that	sense	his	response	to	music	is	more	complete	than
 Hanslick's.	 Schopenhauer	 is	 also	 right	 to	 think	 that	 music	 takes	 an
 object	that	is	both	more	general	and	less	demarcated	than	the	objects	of
-situational	 emotions	 in	 daily	 life."'	 His	 view	 is	 a	 major	 antedecent	 of
+situational	 emotions	 in	 daily	 life."'	 His	 view	 is	 a	 major	 antecedent	 of
 the	views	of	music	as	dream	that	I	shall	defend	in	the	next	section.	One
 might	 even	 argue	 that	 Schopenhauer's	 view	 that	 Will	 is	 altogether
 noncognitive	does	not	disable	the	position	completely:	for	he	says,	after
@@ -10155,7 +10155,7 @@ feeling	must	use	a	medium	that	is	in	many	ways	shopworn,	or	blunted	-
 by	our	habitual	use	of	the	words	themselves,	by	our	habits	of	narration,
 by	 our	 very	 at-homeness	 in	 a	 world	 of	 narration	 and	 verbal
 representation.	 Language	 is,	 on	 the	 whole,	 a	 medium	 of	 exchange,	 a
-useful	 tool	of	 communication	 that	 is	 frequently	 abased	 by	 its	 toollike
+useful	 tool	of	 communication	 that	 is	 frequently	 abased	 by	 its	 tool-like
 use.	This	is	why	the	task	of	the	literary	artist	(and	especially	the	poet)
 requires	calling	cognition	back	to	the	language	itself,	to	the	texture	of
 
@@ -10637,7 +10637,7 @@ expressive	function	of	the	child's	hells	is	to	"cut	off	the	torrential	storm
 of	anguish",	and	to	prepare	the	way	for	consolation.	The	piccolo's	"laser
 beam"	then	disperses	the	clouds	of	grief,	the	bells	become	"divested	of
 their	 funereal	 associations	 and	 emerge	 as	 serene	 heralds	 of	the
-concluding	 lullaby."'12	 The	 transition	 to	 D	 major	 now	 "confirmisi	the
+concluding	 lullaby."'12	 The	 transition	 to	 D	 major	 now	 "confirms	the
 attainment	 of	 eternal	 peace	 .	 .	 .	 The	 whole	 cycle	 moves	 into	 the
 lengthening	 shadows,	 out	 of	 the	 light	 and	 into	 -	 this	 time	 -	 a	 benign
 darkness.""
@@ -10745,7 +10745,7 @@ not	bright	and	confident,	but	blunted	and	hesitant.
 What	Mitchell	calls	the	"dialogue"	now	begins,	as	the	strings	and	the
 harp	 enter	 for	 the	 first	 time,	 and	 the	 swelling	 and	 soaring	 vocal	 line
 suggests	the	rising	of	the	sun	-	again	against	the	grain	of	the	words,	"als
-sei	 kein	 Ungluck	 die	 Nacht	 gescheh'n"	 ("as	 if	 no	 misfortune	 had
+sei	 kein	 Unglück	 die	 Nacht	 gescheh'n"	 ("as	 if	 no	 misfortune	 had
 happened	during	the	night").	It	is	one	of	the	remarkable	features	of	the
 orchestration	 of	 the	 cycle	 to	 destabilize	 the	 listener's	 relation	 to	 the
 strings.	Accustomed	on	the	whole	to	hear	strings	as	"normal,"	as	human
@@ -10787,7 +10787,7 @@ as	the	horn	now	assumes	the	oboe's	burden	of	mourning.
 The	second	strophe	follows	the	expressive	pattern	of	the	first	-	with	a
 gradual	advance	on	the	part	of	the	malign	false	blandness	of	nature,	as
 the	 second	 violins	 are	 now	 added	 to	 the	 violas	 and	 cellos.	 Following
-upon	 the	 swelling	 exuberance	 of	 the	 conclusion,	 "schemer	 allgernein"
+upon	 the	 swelling	 exuberance	 of	 the	 conclusion,	 "schemer	 allgemein"
 ("shines	 neutrally"),	 the	 oboe	 cuts	 in	 as	 if	 in	 a	 protest	 against	 the
 onward	march	of	the	light,	with	a	variation	on	its	initial	melody	more
 bitingly	 intense	 in	 its	 chromaticism	 (bars	 41-4);	 at	 the	 conclusion	 of
@@ -10803,7 +10803,7 @@ melody.94	 The	 inversion	 of	 the	 grief	 melody	 represents	 the	 voice's
 attempt	to	conquer	its	own	grief	-	the	official	sentiment	of	the	text;	but
 the	 oboe,	 persisting	 with	 the	 melody's	 original	 form,	 insists	 that	 this
 effort	is	in	vain.9'	As	if	in	response	to	this	struggle	in	the	human	world,
-the	first	violins	now	enter,	pianissimo	but	soaring,	"mit	grossem	Ausdruck,"	asserting	the	pitiless	triumph	of	the	light	-	and	the	arpeggios	of
+the	first	violins	now	enter,	pianissimo	but	soaring,	"mit	großem	Ausdruck,"	asserting	the	pitiless	triumph	of	the	light	-	and	the	arpeggios	of
 the	 harp	 snatch	 the	 child	 out	 of	 the	 parent's	 arms	 into	 the	 world	 of
 
 natural	process	and	decay,	as	the	swelling	vocal	line	ascends	and	broad
@@ -10921,7 +10921,7 @@ then	 suggests	 that	 such	 memories	 are	 made	 more	 difficult	 by	 the
 unconscious	 envy	 and	 jealousy	 children	 often	 feel	 at	 the	 death	 of	 a
 sibling.99	Mahler	 is	 identifying	 with	 his	 parents'	 grief,	 but	 also
 recalling,	with	guilt,	his	own	ambivalence.	If	we	accept	this	suggestion
-(and	 even	 if	 we	do	 not	 accept	 it	 as	 a	 specific	 biographical	 detal),	 we
+(and	 even	 if	 we	do	 not	 accept	 it	 as	 a	 specific	 biographical	 detail),	 we
 may	hear	in	the	music	not	only	the	parent's	guilt	at	failure	to	save	the
 children,	but	a	child's	guilt	at	aggressive	wishes	that	have	now	had	their
 unexpected	fulfillment.	In	that	sense	the	"parent"	really	is	participating
@@ -10983,7 +10983,7 @@ D	 as	 the	 tonic,	 a	 solution	 that	 Cone	 describes	 as	 "unsatisfactory."	 O
 Mitchell's	 reading	 of	 the	 cycle,	 we	 would	 have	 to	 accept	 this
 unsatisfactory	 conclusion	 as	 a	 mistake	 on	 Mahler's	 part.	 On	 my	 read
 ing,	 we	 will	 he	 able	 to	 see	 it	 as	 deliberate	 -	 Mahler's	 way	 of	 showing
-that	the	protagonist	really	doesn't	acccept	the	apparent	comfort	offered
+that	the	protagonist	really	doesn't	accept	the	apparent	comfort	offered
 by	the	words.	As	(,one	writes,	"If	the	children	were	really	in	God's	hand,
 they	would	come	to	rest	in	the	key	of	A	major!"
 
@@ -11041,8 +11041,8 @@ APPENDIX:	TEXTS	AND	TRANSLATIONS	OF	SONGS	1	AND	5
 
 Text	of	"Nun	will	die	Sonn"':
 
-Nun	will	die	Sonn'	so	hell	aufgch'n	Als	sei	kcin	Ungliick	die	Nacht
-gescheh'n.	Das	Ungliick	geschah	nur	mir	allein.	Die	Sonne,	sic	scheinet
+Nun	will	die	Sonn'	so	hell	aufgch'n	Als	sei	kein	Ungliick	die	Nacht
+gescheh'n.	Das	Ungliick	geschah	nur	mir	allein.	Die	Sonne,	sic	scheint
 allgemein.
 
 Du	must	nicht	die	Nacht	in	dir	verschranken,	Musst	sic	ins	ew'ge	Licht
@@ -11062,15 +11062,15 @@ Text	of	"In	diesem	Wetter":
 
 In	diesem	Wetter,	in	diesem	Braus,	nie	hatte'	ich	gesendet	die	Kinder
 hinaus,	man	hat	sic	getragen,	getragen	hinaus.	Ich	durfte	nichts	dare
-sager.	In	diesem	Wetter,	in	diesem	Saus,	nie	hatt'ich	gelassen	die	Kinder
+sager.	In	diesem	Wetter,	in	diesem	Saus,	nie	hatte'ich	gelassen	die	Kinder
 hinaus.	Ich	fiirchtete,	sie	erkranken,	das	rind	nun	eitle	Gedanken.	In
 diesem	Wetter,	in	diesem	Graus,	nie	hatt'	ich	gelassen	die	Kinder	hinaus.
-Ich	sorgte,	sic	stiirben	morgen,	das	ist	nun	nicht	zu	hesorgcn.	In	diesem
+Ich	sorgte,	sic	stiirben	morgen,	das	ist	nun	nicht	zu	besorgen.	In	diesem
 Wetter,	in	diesem	Graus!	nie	hatt'	ich	gesendet	die	Kinder	hinaus.	Man
 hat	sie	hinaus	getragen,	ich	durfte	nichts	dazu	sagen!	In	diesem	Wetter,	in
 diesem	Saus,	in	diesem	Braus,	sic	ruh'n	als	wie	in	der	Mutter	Hans,
 
-von	keinem	Sturm	erschrecket,	von	Gottes	Hand	hedecket,	sic	ruh'n	wie
+von	keinem	Sturm	erschrecket,	von	Gottes	Hand	gedeckt,	sic	ruh'n	wie
 in	der	Mutter	Haus!
 
 In	this	weather,	in	this	tumult,	I	would	never	have	sent	the	children	out,
@@ -11261,7 +11261,7 @@ Parts	II	and	III	ask,	then,	how	and	whether	ethical	agents	can	live	with
 the	facts	of	their	own	interdependence	and	incompleteness	-	venturing
 out	 into	 the	 world	 and	 engaging	 evaluatively	 with	 it	 -	 without	 being
 stifled	by	shame,	disgust,	and	hate.	The	Stoics	recommended	apatheia,
-the	 emotionless	 condition,	 because	 they	 thought	 that	 no	 nonStoic	 life
+the	 emotionless	 condition,	 because	 they	 thought	 that	 no	 non-Stoic	 life
 could	 be	 free	 of	 these	 reactive	 emotions	 and	 the	 evils	 they	bring.	 The
 possibility	of	a	non-Stoic	ethics,	in	which	there	is	some	positive	role	for
 the	 guidance	 of	 emotions,	 depends	 on	 our	 answering	their	 question
@@ -11356,15 +11356,15 @@ turn,	are	 translated	 into	 English	 by	 pity	 -	 although	 the	 British	 moral
 philosophers	 of	 the	 eighteenth	 century	 also	 at	 times	 use	 sympathy	 to
 allude	to	 the	 classical	 tradition	 in	 question."	 In	 German,	 meanwhile,
 Mitleid	is	 the	 word	 most	 commonly	 chosen	 to	 translate	 the	 Greek,
-Latin,	 and	French	 words,	 although	 Mitgefuhl	 also	 occurs.	 Although
+Latin,	 and	French	 words,	 although	 Mitgefühl	 also	 occurs.	 Although
 Mitleid	may	initially	have	slightly	different	associations	from	some	of
 the	 words	 in	the	 family,	 it	 gets	 pulled	 toward	 them	 by	 philosophical
 practices.	English	can	at	times	render	Mitleid	(literally)	by	compassion,
 a	word	with	its	own	(medieval)	Latin	history,	which	I	shall	not	discuss
 here.	 The	interchangeability	of	the	two	English	words	in	philosophical
-contexts	is	 noted	 already	 by	 Hobbes	 in	 Leviathan,	 chapter	 6:	 "Griefe,
-for	the	Calamity	of	another,	is	PITTY;	and	ariseth	from	the	imagination
-that	the	like	calamity	may	befall	himselfe;	and	therefore	is	called	also
+contexts	is	 noted	 already	 by	 Hobbes	 in	 Leviathan,	 chapter	 6:	 "Grief,
+for	the	Calamity	of	another,	is	PITY;	and	ariseth	from	the	imagination
+that	the	like	calamity	may	befall	himself;	and	therefore	is	called	also
 COMPASSION,	 and
 time	 a
 FELLOWFEELING"	 (1991,	 p.	 43).	 Nietzsche	 is	 aware	 of	 all	 of	 these
@@ -11386,14 +11386,14 @@ each	term	one	uses	and	to	he	consistent;	in	the	case	of	historical	texts,
 we	must	ask	to	what	extent	their	analyses	are	shaped	by	their	choices	of
 terms.
 
-II.	'T'ILE	COGNI'T'IVE	STRUCTURE	OF	COMPASSION
+II.	'TITLE	COGNITIVE'IVE	STRUCTURE	OF	COMPASSION
 
 Philoctetes	 was	 a	 good	 man	 and	 a	 good	 soldier.	 When	 he	 was	 on	 his
 way	 to	 fight	 with	 the	 Greeks	 in	 the	 Trojan	 War,	 he	 had	 a	 terrible
 misfortune.	By	sheer	accident	he	trespassed	on	a	sacred	precinct	on	the
 island	 of	 Lemnos.	 As	 punishment	 he	 was	 bitten	 in	 the	 foot	 by	 the
 serpent	 that	 guarded	 the	 shrine.	 His	 foot	 began	 to	 ooze	 with
-foulsmelling	pus,	and	the	pain	made	him	cry	out	curses	that	spoiled	the
+foul-smelling	pus,	and	the	pain	made	him	cry	out	curses	that	spoiled	the
 other	soldiers'	religious	observances.	They	therefore	left	him	alone	on
 the	 island,	 a	 lame	 man	 with	 no	 resources	 but	 his	 bow	 and	 arrows,	 no
 friends	but	the	animals	that	were	also	his	food.''
@@ -11426,7 +11426,7 @@ young	 leader	 to	 grant	 his	 wish	 and	 send	 him	 home.	 Their	 speech	 of
 urging	 begins	 with	 the	 words,	 "Have	 compassion	 on	 him,	 lord"	 ("oiktir',	anax,"	507).	Philoctetes	himself	relies	on	this	connection	when	he
 asks	for	aid:	just	before	pleading	to	be	sent	home,	he	says:
 
-Save	 me,	 have	 compassion	 for	 me	 (eleeson),",)	 seeing	 that	 all	 mortal
+Save	 me,	 have	 compassion	 for	 me	 (eleison),",)	 seeing	 that	 all	 mortal
 life	 lies	open	 to	 risk	 and	 terrible	 affliction:"	 good	 things	 can	 happen,
 but	the	opposite	can	also	happen.	The	person	who	is	outside	of	suffering
 ought	 to	 look	out	 for	 terrible	 affliction,	 and	 when	 someone's	 life	 is
@@ -11457,7 +11457,7 @@ given	 by	 Aristotle	 in	 the	 Rhetoric,	 which	 has	 guided	 the	 subsequent
 philosophical	 tradition.	Aristotle's	 analysis	 is	 continuous	 with	 less	 sys
 tematic	 earlier	 treatments	 in	 Homer,	 the	 tragic	 poets,	 and	 Plato;	 it	is
 taken	 over,	 in	 most	 respects,	 by	 defenders	 of	 compassion	 such	 as
-Rousseau,	 Schopenhaucr,	 and	 Adam	 Smith,	 and	 by	 opponents	 of	 the
+Rousseau,	 Schopenhauer,	 and	 Adam	 Smith,	 and	 by	 opponents	 of	 the
 emotion	 such	 as	 the	 Greek	 and	 Roman	 Stoics,	 Spinoza,	 Kant,	 and
 Nietzsche.',,	 Finally,	 the	 very	 same	 elements	 are	 stressed	 in	 many
 contemporary	 psychological	 accounts	 and	 in	 Candace	 Clark's	 analysis
@@ -11466,7 +11466,7 @@ assess	it	in	the	light	of	the	subsequent	tradition,	and	criticize	it	in	view
 of	my	own	developing	argument.'-
 
 Compassion,	Aristotle	argues,	is	a	painful	emotion	directed	at	another
-person's	 misfortune	 or	 suffering	 (Rhet.	 1385hi	 3	 ff.).	 It	 has	 three
+person's	 misfortune	 or	 suffering	 (Rhetoric.	 1385hi	 3	 ff.).	 It	 has	 three
 cognitive	elements.	It	seems	to	be	Aristotle's	view	that	each	of	these	is
 necessary	 for	 the	 emotion,	 and	 that	 they	 are	 jointly	 sufficient.
 Apparently	 he	 thinks	 that	 the	 pain	 itself	 is	 caused	 reliably	 by	 the
@@ -11675,7 +11675,7 @@ it.	Eleos,	 he	 insists,	 sees	 its	 object	 as	 "undeserving	 (anaxios)"	 of	 t
 s uf -	fering.'66	 Such	 undeserved	 suffering	 appeals	 to	 our	 sense	 of
 injustice	(i386br4-i5).	He	adds	that	for	this	reason	the	emotion	is	more
 likely	to	he	felt	toward	people	who	are	seen	as	in	general	good	(i386b6-
-8):	for	then	we	will	be	more	likely	to	believe	that	they	do'not	deserve
+8):	for	then	we	will	be	more	likely	to	believe	that	they	do not	deserve
 t he	had	 things	 that	 befall	 them.'-	 But	 it	 is	 not	 inconsistent	 with	 his
 account	to	 have	 compassion	 for	 people	 for	 things	 they	 do	 out	 of	 their
 own	had	character	or	culpable	negligence	-	so	long	as	one	can	either	see
@@ -11983,7 +11983,7 @@ Sometimes	 it	 is	 the	 the	 reminder	 of	 a	 similar	 type	 of	 family	life."
 Sometimes	it	may	even	be	sexual	desire.	A	remarkable	moment	of	that
 kind	 is	 shown	 in	 the	 film	 Schindler's	 List,	 when	 the	 Nazi	 camp
 commandant	 confronts	 the	 beautiful	 Jewish	 housemaid.	As	 she	 stands
-in	 her	 basement	 room	 trembling	 in	 her	 slip,	 he	 graps	 her	 chin,	 stares
+in	 her	 basement	 room	 trembling	 in	 her	 slip,	 he	 grabs	 her	 chin,	 stares
 violently	into	her	eyes,	and	asks,	in	some	strange	agony	of	conscience,
 "Is	this	the	face	of	a	rat?"
 
@@ -12354,7 +12354,7 @@ person's	 suffering	is	 serious,	 and	 be	 moved	 accordingly,	 even	 without
 having	 a	 lively	imagination."4	 Similarly,	 images	 of	 a	 compassionate
 god	need	not	endow	that	god	with	empathy	(or	even	imagination),	since
 divine	 omniscience	 might	 offer	 other	 routes	 to	 knowledge	 of	 the
-sufferer's	predica-	nMent.
+sufferer's	predicament-	predicament.
 
 And	yet	there	is	something	correct	in	the	contention	that	empathy	is
 psychologically	important	as	a	guide.	Usually,	without	it,	we	are	likely
@@ -12472,7 +12472,7 @@ presence	 of	 empathy	in	 the	 surrounding	 milieu,	 whether	 used	 for
 compassionate,	 well-intentioned	therapeutic,	 and	 now	 listen,	 even	 for
 utterly	destructive	purposes,	is	still	an	admixture	of	something	positive.
 In	other	words,	there	is	a	step	beyond	an	empathy-informed	hatred	that
-wants	 to	 destroy	 you,	 and	 [this	 is]	 an	 empa-	 thyless	 environment	 that
+wants	 to	 destroy	 you,	 and	 [this	 is]	 an	 empa-	 empathyless	 environment	 that
 just	 brushes	 you	 off	 the	 face	 of	 the	 earth.	 The	dreadful	experiences	of
 prolonged	stays	in	concentration	camps	during	the	Nazi	era	in	Germany
 were	 just	 that.	 It	 was	 not	 cruelty	 on	 the	 whole	 ...	They	 totally
@@ -12481,8 +12481,8 @@ was	the	worst."
 
 In	short,	there	is	something	worse	than	the	empathetic	villain.	Consider
 
-Hannibal	 L.ecter's	 treatment	 of	 Clarice	 Starling	 in	 The	 Silence	 of	 the
-Lambs.	Although	Lecter's	intentions	toward	Clarice	are	entirely	malign,
+Hannibal	 L.Lecter	 treatment	 of	 Clarice	 Starling	 in	 The	 Silence	 of	 the
+Lambs.	Although	Lecter	intentions	toward	Clarice	are	entirely	malign,
 and	although	he	might	easily	be	imagined	eating	her,	nonetheless,	in	his
 very	 effort	 to	 reconstruct	 the	 workings	 of	 her	 mind	 there	 is	 a	basic
 human	respect.	The	evil	of	utter	dehumanization	seems	worse:	for	Jews,
@@ -12493,7 +12493,7 @@ them	as	human.
 
 Some	 human	 beings	 deny	 the	 recognition	 of	 humanity	 across	 the
 hoard.	Such	is	the	case,	for	example,	with	the	psychopathic	killer	who	is
-the	protagonist	of	Joyce	Carol	Oates's	novel	Zombie.	Oates	shows	how
+the	protagonist	of	Joyce	Carol	Oates	novel	Zombie.	Oates	shows	how
 the	inability	to	empathize	at	all	with	others	is	closely	linked,	in	the	life
 of	this	character,	to	a	total	lack	of	awareness	that	he	is	doing	wrong	in
 killing	a	human	being.	In	discussing	her	novel,	Oates	has	said	that	she
@@ -12711,7 +12711,7 @@ unpleasantness,	 or	 the	 desire	 to	 feel	 good	 about	 oneself.	 What	 is	 les
 satisfactory	about	Batson's	experiments,	for	our	purposes,	is	his	account
 of	what	is	being	tested.	As	I	have	mentioned,	Batson	portrays	himself	as
 producing	 two	 groups	 of	 subjects:	 a	 "high-empathy"	 group	 and	 a
-"lowempathy"	group.	Since	by	"empathy"	he	means	(as	he	tells	us)	what
+"low-empathy"	group.	Since	by	"empathy"	he	means	(as	he	tells	us)	what
 philosophers	typically	mean	by	"compassion,	tenderness,	and	the	like,"
 what	 he	 is	 really	 doing	 is	 producing	 a	 compassionate	 group	 and	 a
 noncompassionate	 group	 -	 and	 then	 seeing	 how	 the	 emotion	 affects
@@ -12945,7 +12945,7 @@ If	 we	 consider	 that	 ...	 the	 individual	 must	 eventually	 face	 the	 basic
 conflicts	around	aging,	chronic	illness,	physical	and	mental	limitations,
 and	above	all,	separation,	loss,	and	loneliness	-	then	we	must	conclude
 that	 the	 eventual	confrontation	 of	 the	 grandiose	 self	 with	 the	 frail,
-limited	and	transitory	nature	of	human	life	is	unavoidablc."
+limited	and	transitory	nature	of	human	life	is	unavoidable."
 
 But	he	emphasizes	that	this	kind	of	"deathbed"	realization	is	no	cure	for
 the	personality,	which	has	peopled	the	world	with	lifeless	objects,	and
@@ -12962,7 +12962,7 @@ And	several	different	recent	analyses	of	misogyny	have	traced	it	to	this
 very	type	of	rage	for	control,	a	narcissistic	refusal	to	tolerate	the	reality
 of	something	different	from	oneself,	especially	if	it	is	at	the	same	time
 
-a	 reminder	 of	 one's	 bodily	 vulnerability.	 Elizabeth	 Young-Bruchl,
+a	 reminder	 of	 one's	 bodily	 vulnerability.	 Elizabeth	 Young-Bruch,
 whose	complex	study	of	the	psychological	origins	of	prejudice	stresses
 the	 importance	 of	 seeing	 the	 multiple	 origins	 and	 structures	 of	 social
 prejudice,	holds	that	sexism	is	particularly	closely	linked	to	narcissism,
@@ -12973,7 +12973,7 @@ Both	Klaus	Theweleit	and	Andrea	Dworkin	show	graphically,	through
 historical	 and	 literary	 materials,	 that	 this	 denial	 frequently	involves	 a
 denial	 of	 one's	 own	 vulnerable	 and	 embodied	 self.	 Thus	 they	link
 pathological	 narcissism	 to	 general	 facts	 of	 infancy,	 seeing	 them	 as
-exaggerated	or	perverse	developments	of	deeply	shared	human	difficul
+exaggerated	or	perverse	developments	of	deeply	shared	human	difficult
 ties.	 Because	 a	 child	 aiming	 at	 omnipotence	 does	 not	 accept	 the	 soft,
 fleshy,	 fluid	 aspects	 of	 himself,	 which	 are	 so	 many	 signs	 of	 weakness
 and	 mortality,	 these	 must	 be	 repudiated	 from	 the	 self,	 in	 a	 violent
@@ -12982,7 +12982,7 @@ all,	he	plausibly	argues,	metaphors	for	the	female	body,	and	ultimately
 for	the	vulnerable	aspects	of	their	own.	They	then	project	these	loathed
 attributes	 onto	 various	 groups	 of	 social	 enemies,	 by	 subordinating
 whom	 they	 achieve	 a	 vicarious	 victory	 over	 their	 own	 humanity.	The
-wish	of	such	a	personality	is	given	expression	in	Ernst	Jiinger's	fantasy
+wish	of	such	a	personality	is	given	expression	in	Ernst	Jünger	fantasy
 of	the	new	German	male	body:
 
 These	 are	 the	 figures	 of	 steel	 whose	 eagle	 eyes	 dart	 between	 whirling
@@ -13040,7 +13040,7 @@ soft	 and	 porous,	 receptive	 of	 fluid	 and	 sticky,	 womanlike	 in	 its	 oozy
 sliminess,	 a	 foul	 parasite	 inside	 the	 clean	 body	 of	 the	 German	 male
 self.?'	 When	 Jews	 were	 depicted	 in	 fairy	 tales	 for	 children,	 they	 were
 standardly	represented	as	disgusting	animals	who	had	these	same	prop
-erties.	 Lice,	 vermin,	 viruses	 hearing	 disease	 -	 all	 these	 were	 common
+properties.	 Lice,	 vermin,	 viruses	 hearing	 disease	 -	 all	 these	 were	 common
 images.-'	Thus	for	Hitler	(and	not	only	for	him),	the	Jew	is	a	maggot	in
 a	 festering	 abscess,76	 hidden	 away	 inside	 the	 apparently	 clean	 and
 healthy	body	of	the	nation.
@@ -13126,7 +13126,7 @@ one's	 fellow	 citizens	 is	 essential	 to	 a	 decent	 society.	 And	yet,	 by
 depicting	 Emile	 as	 simply	 learning	 all	 of	 these	 things	 without	strain
 once	 he	 reaches	 the	 age	 of	 puberty,	 Rousseau	 denies	 a	 depth	 and
 complexity	to	the	problem	that	his	own	narrative	reveals.	Despite	Book
-IV's	 injunction	 to	 have	 compassion	 for	 all	 human	 beings,	 there	 is
+IV	 injunction	 to	 have	 compassion	 for	 all	 human	 beings,	 there	 is
 certainly	 at	 least	 one	 human	 being	 for	 whom	 Emile	 never	 shows
 compassion:	his	consort	Sophie,	whom	he	never	tries	to	understand	and
 whom	-	in	Rousseau's	unpublished	conclusion	to	Emile	-	he	eventually
@@ -13154,7 +13154,7 @@ shows	 resources	 that	 the	 personality	 can	 call	 upon	 to	 contend	 against
 these	 problems.	 One,	 clearly,	 is	 the	 development	 of	 the	 love,	 concern,
 and	 guilt	 that	 we	 have	 hypothesized	 in	 the	 (non-pathologically
 narcissistic)	 child's	 relation	 to	 parents:	 for	 these	 experiences	 cement
-outwardlooking	concern,	and	provide	her	with	powerful	motivations	to
+outward-looking	concern,	and	provide	her	with	powerful	motivations	to
 extend	herself	in	helping	behavior	of	many	kinds.	Another	is	the	ability
 to	mourn	a	loss,	which	(again,	absent	pathological	narcissism)	is	a	way
 of	expressing	 and	 further	 developing	 concern	 about	 others,	 and	 also	 a
@@ -13331,7 +13331,7 @@ compassion,	as	a	moral	sentiment	unworthy	of	the	dignity	of	both	giver
 and	 recipient,	 and	 based	 on	 false	 beliefs	 about	 the	 value	 of	 external
 goods.	According	to	this	tradition,	whose	most	influential	exponents	arc
 the	 Greek	 and	 Roman	 Stoics,	 the	 most	 important	 thing	 in	 life	is	 one's
-own	 reason	 and	 will	 -	 what	 the	 Roman	 Stoic	 F,pictetus	 calls	 one's
+own	 reason	 and	 will	 -	 what	 the	 Roman	 Stoic	 F,Epictetus	 calls	 one's
 "moral	 purpose"	 (prohairesis).	 This	 faculty	 of	 moral	 choice	 is	 the
 possession	 of	 all	 humans,	 and	 its	 virtuous	 use	 is	 always	 within	 our
 power,	 no	 matter	 what	 the	 world	 does.	 Moral	 purpose	 is	 a	 source	 of
@@ -13365,7 +13365,7 @@ most	central	prospects	may	he	brought	low	by	fortune."'	As	Kant	puts	it,
 the	 Platonic/Stoic	 position,	 "Such
 adopting	 some	 aspects	 of
 benevolence	is	called	softheartedness	and	should	not	occur	at	all	among
-human	heings.""
+human	beings.""
 
 This	position	on	compassion	becomes	the	basis	for	Plato's	assault	on
 tragedy	in	the	Republic.	12	The	good	person,	he	argues,	will	be	"most	of
@@ -13387,7 +13387,7 @@ on	 compassion	 and	 value	 is	 taken	 over	 with	 little	 change	 by	 Spinoza,
 and	seriously	influences	the	accounts	in	Descartes,	Smith,	and	Kant.14
 It	is	given	an	especially	complex	and	vivid	development	in	the	thought
 of	 Nietzsche,	 whose	 connection	 to	 Stoicism	 has	 not,	 I	 think,	been
-sufficently	understood.'s
+sufficiently	understood.'s
 
 It	is	important	to	see	that	the	motivation	underlying	the	repudiation	of
 compassion	 is	 at	 its	 root	 a	 strongly	 egalitarian	 and	 cosmopolitan	one.
@@ -13467,7 +13467,7 @@ philosophy	was	over,	when	all	these	humane	sentiments	had	been	once
 fairly	expressed,	he	would	pursue	his	business	or	his	pleasure,	take	his
 repose	 or	 his	 diversion,	 with	 the	 same	 ease	 and	 tranquillity,	as	 if	 no
 such	 accident	 had	 happened.	 The	 most	 frivolous	 disaster	 which	could
-bcfal	himself	would	occasion	a	more	real	disturbance.	If	he	was	to	lose
+befall	himself	would	occasion	a	more	real	disturbance.	If	he	was	to	lose
 his	 little	 finger	 to-morrow,	 he	 would	 not	 sleep	 to-night;	 but,	 provided
 he	never	saw	them,	he	will	snore	with	the	more	profound	security	over
 
@@ -13895,7 +13895,7 @@ noticed	how	these	capacities	need	support	from	the	material	world,	and
 therefore	exert	a	claim	against	our	own	comfort	and	effort,	that	we	have
 appropriately	respected	then.
 
-In	 another	 way	 as	 well,	 the	 attack	 is	 too	 blunt.	 For	 it	 takes	 an	 allornothing	position	on	the	importance	of	external	goods	for	flourishing:
+In	 another	 way	 as	 well,	 the	 attack	 is	 too	 blunt.	 For	 it	 takes	 an	 all-or-nothing	position	on	the	importance	of	external	goods	for	flourishing:
 either	 compassion	 all	 over	 the	 place,	 or	 no	 compassion	 at	 all.	 But	 the
 pro-compassion	 tradition	 is	 not	 prevented	 from	 judging	 that	 some
 occasions	 for	 compassion	 are	 illegitimate,	 and	 based	 upon	 false
@@ -14185,7 +14185,7 @@ So	long	as	disaster	is	merely	impending,	the	Stoic	may	move	under	the
 guidance	of	"prudent	caution"	to	ward	it	off.	But	there	is	no	good	affect
 corresponding	to	present	distress:	one	simply	should	say,	"What's	it	to
 me?"41	 Kant	 now	 immediately	 tries	 to	 salvage	 the	 motivational
-foundations	of	benevolence	by	insisting	that,	since	active	he-	nevolence
+foundations	of	benevolence	by	insisting	that,	since	active	he-	benevolence
 is	a	duty,	it	is	also	a	duty	to	seek	out	circumstances	in	which	one	will
 witness	poverty	and	deprivation:
 
@@ -14211,7 +14211,7 @@ remind	them	that	"a	good	will	is	good	not	because	of	what	it	effects	or
 accomplishes,	...	it	is	good	only	through	its	willing,	i.e.	good	in	itself	"?
 4"	He	might	then	reflect,	gazing	at	them,	that
 
-lelven	 if,	 by	 some	 especially	 unfortunate	 fate	 or	 by	 the	 niggardly
+leven	 if,	 by	 some	 especially	 unfortunate	 fate	 or	 by	 the	 niggardly
 provision	of	stepmotherly	nature,	this	will	should	be	wholly	lacking	in
 the	 power	 to	accomplish	 its	 purpose	 ...	 yet	 would	 it,	 like	 a	 jewel,	 still
 shine	by	its	own	light	as	something	which	has	its	full	value	in	itself.	Its
@@ -14397,7 +14397,7 @@ mentors,	he	can	proceed	as	if	it	does	not	really	matter	how	people	live
 from	day	to	day,	how	they	get	their	food.	Thus	again,	having	concluded
 that	 the	 absence	 of	 political	 liberty	 is	 a	 confirming	test	 to	 the	 truly
 strong	spirit,	54	he	is	able	to	dismiss	J.	S.	Mill	as	a	"flathead"	(Will	to
-Power	 30)	 and	 as	 a	 "respectable	 but	 mediocre	Englishm[a]n"	 (Beyond
+Power	 30)	 and	 as	 a	 "respectable	 but	 mediocre	Englishman[a]n"	 (Beyond
 Good	 and	 Evil	 253),	 capable	 only	 of	 an	 English	 "narrowness,	 aridity,
 and	 industrious	 diligence."	 He	 pronounces	that	 "It]he	 highest	 type	 of
 free	 men	 should	 be	 sought	 where	 the	 highest	resistance	 is	 constantly
@@ -14538,7 +14538,7 @@ childhood;	it	is	subverted	by	the	absence	of	such	concern.	Compassion's
 psychological	mechanisms	promote	this	movement.
 
 This	 point	 is	 brilliantly	 developed	 in	 Dickens's	 portrait	 of	 the
-Utilitarian	upbringing	of	the	young	Gradgrinds,	who,	lacking	in	intense
+Utilitarian	upbringing	of	the	young	Gradgrind,	who,	lacking	in	intense
 particular	 attachments,	 end	 up	 being	 totally	 unable	 to	 comprehend	 the
 needs	of	people	at	a	distance,	or	to	invest	human	lives	and	the	external
 goods	 that	 support	 them	 with	 a	 human	 worth	 and	 significance.	 Their
@@ -14584,7 +14584,7 @@ morality,	 unanimated	by	 the	 resources	 of	 the	 imagination,	 can	 too
 easily	 become	 confused	with	 a	 submissiveness	 to	 cultural	 rules,	 or	 to
 rules	handed	down	by	authority.
 
-A	further	literary	example	will	illustrate	this	point.	In	Theodor	Fontane's	 novel	 Effi	 Briest,	 Instetten,	 a	 successful	 civil	 servant	 who	 has
+A	further	literary	example	will	illustrate	this	point.	In	Theodor	Fontane	 novel	 Effi	 Briest,	 Instetten,	 a	 successful	 civil	 servant	 who	 has
 
 married	a	much	younger	wife,	discovers	years	later	that	she	has	had	an
 affair	during	the	early	days	of	their	marriage.	Because	he	can	think	of
@@ -14610,7 +14610,7 @@ is	 a	 ghastly	 simulacrum.	 In	 that	 way,	 Effi,	 though	inconstant	 and
 flawed,	 has	 a	 connection	 to	 the	 core	 of	 what	 is	 important	 in	 life	 that
 Instetten	lacks.	And	the	novel's	moral	center,	in	a	paradoxical	sense,	is
 the	faithful	dog	Rollo,	who	knows	only	sympathy	and	love,	and	whose
-loyalty	remains	uncorrupted	by	either	Effi's	ambition	or	Instetten's	false
+loyalty	remains	uncorrupted	by	either	Effi's	ambition	or	Instetten	false
 values	 of	 honor	 and	 shame.'"I	 In	 short:	 compassion	 does	 not	 supply	 a
 complete	morality;	far	from	it.	But	there	is	reason	to	trust	it	as	guide	to
 something	that	is	at	the	very	heart	of	morality.
@@ -14716,7 +14716,7 @@ ascribe	true	worth.	A	brief	perusal	of	Seneca's	On	Anger	bears	 out	this
 claim.	 For	 although	 once	 in	 a	 while	 he	 does	 represent	 anger	over	 a
 damage	that	an	Aristotelian	would	think	serious,	far	more	frequently	he
 shows	powerful	and	pampered	people	committing	acts	of	violence	over
-trivial	 slights	 -	 a	 slave's	 breaking	 of	 a	 cup,	 a	 host's	 lessthan-attentive
+trivial	 slights	 -	 a	 slave's	 breaking	 of	 a	 cup,	 a	 host's	 less-than-attentive
 treatment,	a	subordinate's	less-than-fawning	subservience.	None	of	this
 
 is	 the	 subject	 matter	 of	 tragedy.	 And	 when	 we	 get	our	 concerns
@@ -14825,7 +14825,7 @@ be	connected	with	an	inclination	to	take	personal	revenge:	instead,	the
 
 interest	in	punishing	the	offender	can	be	channeled	by	the	legal	system.
 Indeed,	 this	 idea	 is	 a	 deep	 part	 of	 the	 tragic	 tradition	 itself.	 As	an
-attentive	spectator	of	tragedies	and	reader	of	novels,	the	procompassion
+attentive	spectator	of	tragedies	and	reader	of	novels,	the	pro-compassion
 person	 will	 have	 recognized	 that	 private	 revenge	 is	 an	especially
 unsatisfactory,	 costly	 way	 to	 effect	 the	 punishment	 of	 offenders,	 one
 that	 usually	 simply	 ensures	 that	 the	 exchange	 of	 damages	 will
@@ -14940,7 +14940,7 @@ narrow	and	self-referential	concerns	to	a	broader	moral	world.
 One	final	concession	must	be	made	to	the	Kantian	challenge.	This	is,
 that	 we	 should	 be	 on	 our	 guard	 lest	 the	 invitation	 to	 weep	 over	 the
 distress	 of	 others
-selfcongratulatory	behavior,	 rather	 than	 real	 helpfulness.	 People	 can	 alltoo-easily	 feel	 that	they	 have	 done	 something	 morally	 good	 because
+selfcongratulatory	behavior,	 rather	 than	 real	 helpfulness.	 People	 can	 all too-easily	 feel	 that	they	 have	 done	 something	 morally	 good	 because
 they	have	had	an	experience	of	compassion	-	without	having	to	take	any
 
 self-indulgent	 and
@@ -15044,7 +15044,7 @@ disciplines;	 so	 we	 might	 reasonably	 expect	 these	 views,	 too,	 to	 be
 shared	 by	 people	 who	 would	otherwise	 differ.	 In	 Part	 Ill,	 we	 shall	 in
 fact	see	interpretations	of	ideas	about	shame,	disgust,	compassion,	and
 omnipotence	 from	 a	 variety	 of	different	 comprehensive	 perspectives,
-including	 those	 of	Augustine,	Dante,	 Mahler,	 Emily	 Brontc,	 and	 Walt
+including	 those	 of	Augustine,	Dante,	 Mahler,	 Emily	 Brontë,	 and	 Walt
 thinkers	were	 concerned	 with	 issues	 of
 Whitman.	 All	 of
 
@@ -15176,7 +15176,7 @@ thought	about	compassion	and	its	public	role.
 Compassion	 requires	 the	 judgment	 that	 there	 are	 serious	 bad	 things
 that	happen	to	others	through	no	fault	of	their	own.	In	its	classic	tragic
 form,	 it	 imagines	 that	 a	 person	 possessed	 of	 basic	 human	 dignity	 has
-been	injured	by	life	on	a	grand	scale.	So	it	adopts	a	thoroughly	antiStoic
+been	injured	by	life	on	a	grand	scale.	So	it	adopts	a	thoroughly	anti-Stoic
 picture	 of	 the	 world,	 according	 to	 which	 human	 beings	 are	 both
 dignified	 and	 needy,	 and	 in	 which	 dignity	 and	 neediness	 interact	 in
 complex	 ways.	 To	 admit	 that	 a	 person	 really	 can	 be	 laid	 low	 by	 life
@@ -15211,7 +15211,7 @@ image	 that	 reinforces	 an	 antiquated	 perception	 of	 women	 as	 frail	and
 helpless.	Betty	Friedan,	similarly,	criticizes	the	rape	crisis	movement:
 "Obsession	with	rape,	even	offering	Band-Aids	to	its	victims,	is	a	kind
 of	 wallowing	 in	 that	 victim	 state,	 that	 impotent	 rage,	 that	sterile
-polarization."'	Naomi	Wolf	decries	a	"victim	feminism"	that	"[c]harges
+polarization."'	Naomi	Wolf	decries	a	"victim	feminism"	that	"[c]charges
 women	to	identify	with	powerlessness.
 
 We	 are	 offered	 the	 same	 contrast,	 again,	 in	 debates	 about	 criminal
@@ -15258,7 +15258,7 @@ helpless	 victims.	 Those	 who	 support	 a	 repeal	 of	 the	 capital	 gains	tax,
 for	example,	do	not	hold	that	this	handout	from	the	government	would
 turn	 investors	 into	 victims	 without	 honor.	 Even	 though	 they	 are	aware
 that	investors	are	quite	capable	of	doing	pretty	well	even	at	the	current
-level	 of	 taxation,	 they	 do	 not	 regard	 this	 legal	 change	 as	 dimin	 ishing
+level	 of	 taxation,	 they	 do	 not	 regard	 this	 legal	 change	 as	 diminishing	 ishing
 agency	or	pushing	people	into	the	category	of	soulless	animals.	If,	then,
 we	 hear	 political	 actors	 saying	 such	 things	 about	 women,	 and	poor
 people,	 and	 racial	 minorities,	 we	 should	 first	 of	 all	 ask	 why	 they	are
@@ -15268,7 +15268,7 @@ female,	or	black	that	means	that	help	is	condescending,	and	compassion
 insulting?
 
 Sophoclean	tragedy	helps	us	to	pursue	this	issue	further.	When	we	see
-Philoctctes	 with	 compassion	 (see	 Chapter	 6),	 we	 see	 him	 as	 a	 victim:
+Philoctetes	 with	 compassion	 (see	 Chapter	 6),	 we	 see	 him	 as	 a	 victim:
 someone	 who	 suffers	 serious	 undeserved	 misfortune.	 And	 so,
 commonly,	do	we	see	a	host	of	other	tragic	characters:	women	who	get
 raped	 in	 wartime,	 little	 children	 who	 are	 sold	 into	 slavery,	 men	 who
@@ -15417,7 +15417,7 @@ deformed	 by	 economic	 deprivation	 and	 social	 hierarchy.	 We	 are	 not
 supposed	to	see	Bigger	as	innately	bad;	the	rage	and	shame	that	make
 him	 a	 criminal	 are	 themselves	 the	 artifacts	 of	 racism.	 Even	 though
 these	factors	ultimately	become	part	of	him,	we	can	also	view	them	as
-t ragi c	calamities	 that	 come	 upon	 him	 from	 outside,	 through	 no
+t tragic c	calamities	 that	 come	 upon	 him	 from	 outside,	 through	 no
 (original)	fault	of	his	own.
 
 Sophoclean	tragedy	imagines	an	adult,	with	character	already	formed,
@@ -15504,7 +15504,7 @@ But	 the	 question	 is,	 is	 this	 a	 struggle	 women	 should	 be	 required	 to
 wage?	Or	do	we	think	that	a	woman's	dignity	demands	that	she	not	have
 to	 fight	 this	 struggle	 all	 the	 time,	 that	 part	 of	 the	 respect	 we	 owe	to	a
 woman	as	an	agent	is	to	let	her	get	on	with	her	work	in	an	atmosphere
-free	 from	 such	 intimidation	 and	 pressure?	 It	 seems	 plausi	 ble	 that
+free	 from	 such	 intimidation	 and	 pressure?	 It	 seems	 plausible	 ble	 that
 women	 will	 be	 more	 productive	 agents	 in	 the	 economy	 and	 in	their
 homes,	with	these	pressures	minimized.
 
@@ -15593,7 +15593,7 @@ different	comprehensive	views	of	the	good	that	citizens	will	hold,	both
 religious	and	secular.	These	views	are	bound	to	differ	in	the	importance
 that	they	attach	to	such	externals	as	money,	love,	and	even	health.	But
 such	 a	 society	 may	 also	 expect	 a	 convergence	 on	 certain	 basic	 goods,
-which,	 at	 some	 specificable	 level,	 should	 be	 available	 to	 all	 citizens.
+which,	 at	 some	 specifiable	 level,	 should	 be	 available	 to	 all	 citizens.
 Constitutional	guarantees	of	basic	rights	and	liberties,	for	example,	tell
 citizens	 (and	 ask	 them	 to	 agree)	 that	 these	 enumerated	 items	 are	 so
 important	that	a	loss	of	any	one	of	them	would	be	especially	tragic.	The
@@ -15714,7 +15714,7 @@ As	 can	 be	 seen,	 the	 capabilities	 list	 corresponds	 closely	 to	 the
 Sophoclean	and	Aristotelian	lists	of	tragic	predicaments,	and	that	is	no
 accident.	 Even	 where	 the	 list	 focuses	 on	 disabilities	 to	 which	 women
 are	especially	vulnerable,	it	tracks	a	long	tragic	tradition	of	focusing	on
-this	 special	 vulnerablity.	 (Aristotle	 did	 not	 mention	 rape,	 but	 Greek
+this	 special	 vulnerability.	 (Aristotle	 did	 not	 mention	 rape,	 but	 Greek
 tragedy	 is	 preoccupied	 with	 it,	 and	 not	 just	 as	 a	 violation	 of	 male
 property	rights.)	Having	a	set	of	constitutional	guarantees	like	those	on
 this	 list,	 or	 based	 upon	 them,	 citizens	 would	 be	 informed	 from	 the
@@ -16050,7 +16050,7 @@ likely	 have	 an	 obtuse	 and	 emotionally	 dead	 citizenry,	 prey	 to	 the
 aggressive	wishes	that	so	often	accompany	an	inner	world	dead	to	the
 images	 of	 others.	 Cutting	 the	 arts	 is	 a	 recipe	 for	 the	 production	 of
 pathological	 narcissism,	 of	 citizens	 who	 have	 difficulty	 connecting	 to
-other	human	beings	with	a	sense	of	the	human	signficance	of	the	issues
+other	human	beings	with	a	sense	of	the	human	significance	of	the	issues
 at	stake.
 
 In	the	child's	first	stories,	rhymes,	and	songs,	there	is	already	exercise
@@ -16465,7 +16465,7 @@ took	compassion	 for	 the	 situation	 of	 the	 slave	 to	 entail	 indignation
 against	those	who	continued	to	defend	the	institution,	especially	when
 they	proclaimed	 high-minded	 moral	 motives	 at	 the	 same	 time.~39	 On
 t he	other	 hand,	 his	 determination	 to	 consider	 the	 lives	 of	 all	 those
-i nvol ved	with	 a	 sympathetic	 narrative	 attitude
+i involved ved	with	 a	 sympathetic	 narrative	 attitude
 led	 him,	 while
 condemning	 injustice,	 to	 advocate	 mercy.	 This	 combined	 attitude	 is
 nowhere	better	exemplified	than	in	the	Second	Inaugural	Address:
@@ -16886,7 +16886,7 @@ understanding	 of	 people	 who	 are	 different	 from	 ourselves.	 They	 are
 likely	 to	do	 this,	 for	 example,	 if	 they	 lead	 our	 minds	 to	 focus	 with
 sympathy	 on	the	 sufferings	 of	 people	 who	 are	 more	 like	 ourselves,
 when	 that	 suffering	 has	 been	 caused	 by	 someone	 unlike.	 As	 I	 have
-insited,	 compassion	can	 he	 blocked	 by	 a	 sense	 of	 distance	 and
+insisted,	 compassion	can	 he	 blocked	 by	 a	 sense	 of	 distance	 and
 unlikeness;	this	distance	can	also	be	reinforced	by	narratives	that	bind
 the	 listener's	 imagination	 to	people	 closer	 to	 home.	 In	 an	 excellent
 article,	 Susan	 Bandes	 argues	convincingly	 that	 the	 introduction	 of
@@ -16934,7 +16934,7 @@ having	 defended	 penalties	 that	 shame,	 has	 turned	 to	 the	 defense	of
 shame's	 cousin,	 disgust,	 urging	 us	 to	 consult	 this	 "uncompromising"
 moral	 sentiment	 when	 we	 assess	 the	 acts	 of	 criminals.	 Disgust,	 writes
 Kahan,	 is	 "brazenly	 and	 uncompromisingly	 judgmental,"'°	 indeed
-"necesslaryj	 ...	 for	 perceiving	 and	 motivating	 opposition	 to	 cruelty.""
+"necessary	 ...	 for	 perceiving	 and	 motivating	 opposition	 to	 cruelty.""
 Kahan's	 argument	 focuses,	 in	 particular,	 on	 cases	 in	 which	 a	 jury	 is
 asked	 to	 consult	 reactions	 of	 disgust	 in	 order	 to	 determine	 whether	 a
 homicide	is	"especially	heinous,	atrocious,	or	cruel,""--	a	determination
@@ -17061,7 +17061,7 @@ the	fact	that	we	might	become	them;	but	this	means	that	in	a	significant
 sense	 we	already	are	them	-	with	the	fearfulness,	weakness,	and	moral
 blindness	 that	 go	 to	 produce	 such	 evils.	 Because	 this	 response	 is	 so
 much	 more	psychologically	 troubling	 and	 politically	 challenging	 than
-the	response	elicited	by	Goldhagcn,	it	is	not	surprising	that	Goldhagen's
+the	response	elicited	by	Goldhagen,	it	is	not	surprising	that	Goldhagen's
 book	has	been	embraced	with	warm	approval.	It	permits	us	to	forget	the
 atrocities	 that	 U.S.	 military	 officers	 perpetrated	 in	 Vietnam,	 the
 atrocities	perpetrated	 against	 slaves	 and	 Native	 Americans	 (not	 to
@@ -17442,7 +17442,7 @@ But	 even	 philosophers	 who	 defend	 the	 ethical	 contribution	 of	 some
 other	emotions	tend	to	dislike	the	impure	intensity	of	the	erotic,	which
 seems	as	subversive	of	the	beneficent	social	passions	as	it	is	of	nonpassionate	calculation.	Schopenhauer,	who	finds	in	compassion	the	root	of
 all	 morality,	 notoriously	 detests	 women	 and	 the	 desires	 they	 inspire.
-The	aim	of	our	lives,	properly	understood,	is	fredom	from	bondage	to
+The	aim	of	our	lives,	properly	understood,	is	freedom	from	bondage	to
 the	will,	that	is,	to	erotic	striving.	Adam	Smith,	who	defends	the	ethical
 role	not	only	of	compassion	but	also	of	certain	types	of	anger	and	fear
 and	grief,	argues	that	passionate	erotic	love	forms	no	part	at	all	of	the
@@ -17549,7 +17549,7 @@ revenge.
 
 Smith	 does	 strongly	 connect	 disgust	 to	 sexual	 love,	 when	 he	 argues
 that	 the	 object	 of	 desire	 is	 "offensive"	 to	 the	 lover	 after	 desire	 is
-satisfied,	 rather	 like	 food	 to	 the	 satieted	 eater.	 Thus	 sexual	 love	 in	 its
+satisfied,	 rather	 like	 food	 to	 the	 satiated	 eater.	 Thus	 sexual	 love	 in	 its
 very	nature	gives	rise	to	a	strong	desire	for	the	removal	of	the	object	-
 which	 we	 would	 carry	 out,	 he	 says,	 but	 for	 other,	 more	 tender
 sentiments	that	we	may	have	toward	her.	Thus	he	regards	as	inevitable	a
@@ -17769,7 +17769,7 @@ commentaries	on	 those	 readings.	 The	 selection	 of	 texts	 is	 not
 haphazard;	 its	 principles	are	 described	 more	 fully	 in	 the	 next	 section.
 And	the	movement	of	the	whole	account	(together	with	the	reflections
 on	 the	 readings)	 ought	 to	give	 a	 sufficiently	 clear	 picture	 of	 the	 story
-that	 I	 would	 attempt	 to	 tell	if	 I	 were	 to	 undertake,	 per	 impossihile,
+that	 I	 would	 attempt	 to	 tell	if	 I	 were	 to	 undertake,	 per	 impossible,
 Proust's	enterprise.	At	the	same	time,	the	texts	stress	the	sheer	variety
 and	 multiplicity	 of	 love,	 and	 thus	provide	 more	 and	 more	 varied
 "optical
@@ -17873,8 +17873,8 @@ closely	 related	 reasons.	 (If	 one	could	 not	 have	 sexual	 desire	 without
 genital	arousal,	impotence	would	not	be	the	problem	that	it	is.)	As	for
 
 erotic	love	-	in	Chapter	z	I	said	that	we	would	need	to	wait	until	Part	III
-to	apply	the	penile	plethysmograph	to	Hcathcliff.	Here	I	can	say	that	if
-we	 did	 so,	 the	 result	would	 be	 quite	 uncertain.	 Wutbering	 Heights
+to	apply	the	penile	plethysmograph	to	Heathcliff.	Here	I	can	say	that	if
+we	 did	 so,	 the	 result	would	 be	 quite	 uncertain.	 Wuthering	 Heights
 confronts	us	with	a	type	of	extremely	intense	erotic	love,	coupled	with
 strong	 desires	 that	 are	 in	some	 sense	 erotic,	 and	 in	 that	 large	 sense
 sexual,	 that	 seems,	 nonetheless,	 to	 have	 little	 to	 do	 with	 genital
@@ -17957,7 +17957,7 @@ rate,	one	should	carefully	distinguish	the	awareness	from	the	project	of
 possession	(or	of	helping),	which	in	no	way	follows	automatically	from
 it.	If	Proust	describes	a	form	of	love	that	has	the	desire	for	possession	at
 its	very	heart	or	as	its	essence,	perhaps	he	is	erring	-	taking	as	essential
-something	 that	 is	 a	 nonessential	 concomi	 tant	 of	 a	 special	 form	 of
+something	 that	 is	 a	 nonessential	 concomitant	 tant	 of	 a	 special	 form	 of
 awareness	of	an	object	-	or	perhaps	he	is	describing	a	narrow	subclass
 of	 experiences,	 in	 which	 that	 desire	 really	is	 essential,	 and	 colors	 the
 very	nature	of	the	awareness.
@@ -18009,7 +18009,7 @@ Thus,	 for	 example,	 a	 comprehensive	 view	 of	 human	 life	 based	 on
 Proust's	 idea	 of	 love,	 with	 its	 emphasis	 on	 jealousy	 and	 the	 desire	 for
 possession,	is	likely	to	be	in	a	deep	tension	with	some	reasonable	goals
 of	 citizenship,	 in	 a	 way	 that	 a	 different	 normative	 conception	 of	 love,
-focused	on	reprocity,	would	not	be.
+focused	on	reciprocity,	would	not	be.
 
 In	asking	normative	questions	about	conceptions	of	love,	we	would	do
 well	 to	 begin	 with	 the	 problems	 the	 philosophical	 tradition	 has
@@ -18155,7 +18155,7 @@ partiality	that	makes	love	a	threat	in	the	social	life.	I	turn	now	to	Plato's
 Symposium,	the	source	for	this	entire	tradition	-	and	also	for	Christian
 
 and	 Romantic	 views	 of	 the	 ladder	 of	 love	 as	 well,	 since	 they	 react	 to
-and	critize	Plato's	account.
+and	criticize	Plato's	account.
 
 II.	ARISTOPHANES:	LOVE	AND	ORIGINAL
 WHOLENESS
@@ -18288,7 +18288,7 @@ FINE	AND	GOOD
 Before	A	 can	 begin	 the	 ascent	 of	 love	 described	 by	 Socrates'	 teacher
 Diotima,	 she	 must	 understand	 the	 definition	 of	 love	 that	 Socrates
 learned	 from	 her,	 which	 goes	 beneath	 and	 in	 a	 subtle	 way	 revises	 the
-Aristophanec	description.	For	love,	it	now	develops,	is	indeed	a	desire
+Aristophanes	description.	For	love,	it	now	develops,	is	indeed	a	desire
 for	 possession	 of	 an	 object	 -	 but	 the	 object	 must	 have	 a	 special
 character	and	description.	For	the	object	must	be	fine'	and	good.7	"Love
 i s	not	 love	 of	 the	 half	 or	 of	 the	 whole,	 if	 that	 does	 not	 in	 some	 way
@@ -18404,7 +18404,7 @@ What	draws	her	to	him	is	a	powerful	need	for	his	entire	body	and	being,
 a	 need	 that	 she	 links	 with	 a	 threat	 to	 the	 security	 of	 her	 identity,	not
 with	 its	 perpetuation.	 She	 can	 be	 convinced	 that	 she	 is	 aiming	 at
 something	good	for	herself,	and	that	this	aim	has	something	in	common
-with	other	ways	in	which	people	aini	for	the	good.	And	yet	it	is	much
+with	other	ways	in	which	people	aim	for	the	good.	And	yet	it	is	much
 more	 difficult	 to	 make	 her	 believe	 that	 it	 has	 anything	 to	 do	 with
 surviving	her	own	death	by	creative	action.
 
@@ -18415,7 +18415,7 @@ phrases?''	That	he	beckons	to	her	from	a	world	of	refinement	and	wit,	in
 which	she	can	create	speeches	very	different	from	the	coarse	schoolgirl
 argot	 that	 captivated	 him	 when	 he	 met	 her?	 The	 idea	 that	she	 will
 become	 better,	 and	 create	 something	 that	 is	 itself	 fine	 and	good,	 is	 a
-powerful	 ingreadient	 in	 her	 love.	 Even	 in	 the	 maternal	comfort	 she
+powerful	 ingredient	 in	 her	 love.	 Even	 in	 the	 maternal	comfort	 she
 gives	him	there	is	an	element	of	creation:	for	then,	when	he	creates	as
 artist,	she	creates	with	him,	she	partakes	in	his	works	as	their	necessary
 precondition	and	background.	And	of	course	it	is	the	novel's	point	that
@@ -18430,7 +18430,7 @@ closely	akin	to,	if	not	thoroughly	homogeneous	with,	all	the	other	goods
 that	 people	 pursue	 in	 their	 many	 projects	 and	 actions;	 and	 that	her
 ultimate	goal	in	this	love	is	to	reproduce	and	perpetuate	herself.
 
-Now	 she	 hears	 from	 Uiotima	 that	 the	 first	 step	 in	 love's	 ascent,	 the
+Now	 she	 hears	 from	 Diotima	 that	 the	 first	 step	 in	 love's	 ascent,	 the
 step	suited	to	a	young	person	such	as	herself,	is	"to	go	to	fine	bodies,
 and	first,	if	the	teacher	gives	correct	guidance,	to	become	the	passionate
 lover	of	one	body,	and	there	to	engender	fine	speeches"	(zioA).	This	she
@@ -18487,7 +18487,7 @@ toward	 a	 deeper	 concern	 for	 the	 character	 and	 psychology	 of	 her
 partners,	 a	 concern	 that	 had	 already	 played	 a	 prominent	 role	 in	 her
 original	passion	for	M.	She	will	"consider	the	fineness	of	the	soul	more
 worthy	of	 esteem	 than	 that	 of	 the	 body,	 so	 that	 if	 a	 good	 person	 has
-even	a	little	charmn"	that	will	he	enough,	and	she	will	passionately	love
+even	a	little	charm"	that	will	he	enough,	and	she	will	passionately	love
 him	and	 care	 for	 him	 and	 create	 and	 seek	 out	 speeches	 of	 that	 sort,
 speeches	that	will	improve	the	character	of	the	young"	(zioBC).
 
@@ -18529,7 +18529,7 @@ of	 the	 young.	 Well,	 what	 does	 A	 think	 the	 young	 should	 read?
 Romantics	 believe
 in
 Dionysian	representations;	A,	though	a	little	of	both,	seems	most	drawn
-to	 M's	 sui	 gencris	 mixture	 of	 classical	 erudition	 and	 deep	 emotion,	 in
+to	 M's	 sui	 genius	 mixture	 of	 classical	 erudition	 and	 deep	 emotion,	 in
 short,	 to	 the	 novel-in-the-making	 in	 M's	 life.	 She	 creates	 herself	as	 a
 part	 of	 that	 novel.	 Would	 she	 then	 not	 hesitate	 to	 give	 the	 young	the
 scenes	 of	 Proust's	 novel	 in	 which	 her	 passion,	 and	 her	 daring,	 and	her
@@ -18611,7 +18611,7 @@ unity;	 and	 she	 sees	 that	 this	 good	 of	 the	 world	 is	 permanent,	 eterna
 beyond	the	particularities	and	mutabilities	of	bodies:
 
 It	is	always,	and	neither	comes	to	he	nor	passes	away,	neither	grows	nor
-decays	 ...	 ISIhe	 will	 see	 it	 as	 itself	 by	 itself	 with	 itself,	 eternal	 and
+decays	 ...	 She	 will	 see	 it	 as	 itself	 by	 itself	 with	 itself,	 eternal	 and
 unitary,	and	see	all	the	other	instances	of	the	fine	as	partaking	of	it	in
 such	 a	 manner	that,	 when	 the	 others	 come	 to	 be	 and	 are	 destroyed,	 it
 never	comes	to	he	any	more	or	less,	nor	passively	suffers	anything	...	In
@@ -18632,7 +18632,7 @@ s he	sees	 the	 fine	 with	 that	 faculty	 to	 which	 it	 is	 visible,	 it	 will
 possible	for	[her]	to	give	birth	not	to	simulacra	of	excellence,	since	it	is
 no	 simulacrum	Is]he	 is	 grasping,	 but	 to	 true	 excellence,	 since	 she	 is
 grasping	truth?	And	as	[s]he	brings	forth	true	excellence	and	nourishes
-it,	she	will	become	godloved,	and,	if	ever	a	human	being	can,	immortal?
+it,	she	will	become	god-loved,	and,	if	ever	a	human	being	can,	immortal?
 (z	1	oE6-zi	zA7)
 
 M	 is	 nowhere	 to	 be	 seen.	 For	 he	 cannot	 be	 seen	 at	 all	 by	 the
@@ -18696,7 +18696,7 @@ pain	 of	 compassion.	 People	 who	 suffer	 look	 like	 children	 -	 or,	 to	use
 Epictetus'	 term,	 fools.	 They	 suffer	 only	 because	 they	 have	 a	 diseased
 sense	 of	 what	 has	 importance.	 Plato	 adds	 that,	 seen	 from	 this	lofty
 vantage	 point,	 their	 concerns	 are	 actually	 disgusting.18	 The	 aspiring
-lover	hounds	herself	off	from	all	that	rubbish	-	"inud,	hair,	and	dirt,"	as
+lover	hounds	herself	off	from	all	that	rubbish	-	"mud,	hair,	and	dirt,"	as
 Parmenides	would	say.'"
 
 In	this	sense,	Socrates'	and	Plato's	harsh	repudiation	of	pity	and	their
@@ -19073,7 +19073,7 @@ and	 Klein.	 If	 we	 think	 of	 the	 infant's	 alternating	 experience	 of	being
 held	 and	 being	 left	 alone,	 as	 the	 parent	 now	 approaches,	 and	now
 recedes	 to	 go	 about	 his	 or	 her	 own	 separate	 life,	 we	 will	 have	 a	good
 way	of	understanding	Spinoza's	insistence	on	the	original	ambivalence
-of	 love.	 Like	 l3owlby	 and	 Fairbairn,	 Spinoza	 posits	 no	 innate
+of	 love.	 Like	 l3Bowlby	 and	 Fairbairn,	 Spinoza	 posits	 no	 innate
 aggression	 to	 explain	 the	 origin	 of	 human	 wickedness,	 but	 instead
 the	 separateness	 and
 this	 experience	 of
@@ -19296,7 +19296,7 @@ solitary	 anxieties	 of	 the	 child	 who	 longs	 passionately	 for	 his	mother's
 
 goodnight	 kiss	 and	 for	 her	 reassuring	 embrace,	 which	 blots	out
 alarming	 stimuli	 from	 the	 world.	 In	 his	 longing	 for	 a	 return	 to	 a
-womhlike	 state	 of	 oneness	 -	 even	 in	 the	 dream,	 he	 wants	 to	 "become
+womanlike	 state	 of	 oneness	 -	 even	 in	 the	 dream,	 he	 wants	 to	 "become
 one	 with"	 the	 woman	 he	 sees	 -	 he	 comes	 to	 view	 even	 his	 mother's
 arrival	with	pain,	because	he	has	learned	that	he	is	not	in	the	womb,	but
 in	a	world	in	which	external	objects,	having	arrived,	soon	depart	again.''
@@ -19425,7 +19425,7 @@ work	of	literature,	using	other	people	as	steps	on	the	ladder.	The	task	is
 a	labor	more	of	decipherment	than	of	creation,	as	one	probes	one's	past
 for	 the	 text	 "which	 has	 been	 dictated	 to	 us	 by	 reality,	the	 only	 one	 of
 which	 the	 `impression'	 has	 been	 printed	 in	 us	 by	 reality	itself"	 (II1-
-914).	 Its	 goal	 is	 the	 disocvery	 "of	 what,	 though	 it	 ought	 to	be	 more
+914).	 Its	 goal	 is	 the	 discovery	 "of	 what,	 though	 it	 ought	 to	be	 more
 precious	 to	 us	 than	 anything	 in	 the	 world,	 yet	 remains	 ordinarily	 for
 ever	unknown	to	us,	the	discovery	of	our	true	life,	of	reality	as	we	have
 felt	it	to	he"	(915).	The	raw	materials	of	this	work	are	impressions	that
@@ -19482,11 +19482,11 @@ material	 enjoyment	 or	 in	 effective	 action"	 (9	 t	 1).	 Thus	 at	bottom,	fo
 Proust	as	for	Spinoza,	love	is	all	about	powerlessness	and	neediness.
 
 The	pain	of	A's	love	for	M	must	now	"detach	itself	from	individuals
-so	that	Ishle	can	comprehend	and	restore	to	it	its	generality"	(933-4).	M
+so	that	Ishmael	can	comprehend	and	restore	to	it	its	generality"	(933-4).	M
 
 will	become	for	her	an	instantiation	of	a	general	form	of	love	and	desire
 whose	 vicissitudes	 she	 endeavors,	 in	 general,	 to	 comprehend.	The
-remembered	pain	of	their	love	will	now	be	surpassed	"by	Iherl	curiosity
+remembered	pain	of	their	love	will	now	be	surpassed	"by	Her	curiosity
 to	 learn	 the	 causes	 of	 this	 calamity"	 (433):	 as	 in	 Spinoza,	causal
 understanding	quiets	pain.	Reaching	back	to	their	love	in	mem	ory,	she
 will	 now	 view	 him	 as	 a	 model	 who	 has	 "quite	 simply	 been	posing	 for
@@ -19845,7 +19845,7 @@ relation	to	the	loved	woman,	but	pass	by	her	side,	brush	up	against	her,
 surround	 her	 like	 the	 tide	 that	 crashes	 along	 the	 rocks	 -	 and	 this
 awareness	of	their	own	instability	increases	still	further	their	conviction
 that	this	woman,	whose	love	they	so	much	desire,	does	not	love	them	...
-ITlhis	 fear,	this	 shame,	 bring	 about	 the	 counter-rhythm,	 the	 ebb-tide,
+This	 fear,	this	 shame,	 bring	 about	 the	 counter-rhythm,	 the	 ebb-tide,
 the	 need	 ...	 to	take	 back	 the	 offensive	 and	 to	 regain	 esteem	 and
 control.40
 
@@ -20015,7 +20015,7 @@ Profoundly	 influenced	 by	 Neoplatonic	 versions	 of	 the	 Symposium's
 ladder	of	 love,'	 he	 uses	 these	 ideas,	 early	 in	 his	 career,	 as	 positive
 paradigms	for	 the	 Christian	 life	 that	 can	 easily	 be	 recast	 in	 Christian
 terms.	 I	 shall	argue	 that	 in	 early	 works	 such	 as	 De	 quantitate	 animae
-and	 De	 Genesi	contra	 Manicheos,	 Augustine	 endorses	 a	 Platonist
+and	 De	 Genesi	contra	 Manichaeans,	 Augustine	 endorses	 a	 Platonist
 characterization	of	the	contrast	between	earthly	love	and	perfected	love,
 holding	 up	 the	contemplative	 self-sufficiency	 of	 the	 philosopher	 as	 a
 goal	 both	 available	 to	 and	 good	 for	 the	 faithful	 Christian	 in	 this	 life.
@@ -20070,7 +20070,7 @@ In	 many	 ways,	 Augustine	 sets	 himself	 in	 the	 Platonist	 ascent
 tradition.	 Repeatedly,	 he	 uses	 the	 metaphor	 of	 ascent	 to	 speak	 of	 the
 Christian	 development	 of	 love	 and	 desire.	 He	 sometimes	 enumerates
 the	stages	 of	 this	 ascent	 in	 a	 manner	 that	 shows	 the	 influence	 of	 the
-Platorust	 texts	 that	 moved	 him.	 Repeatedly,	 too,	 he	 speaks	 of	 the
+Platonic	 texts	 that	 moved	 him.	 Repeatedly,	 too,	 he	 speaks	 of	 the
 disdain	for	earthly	love	that	is	so	much	stressed	by	Plato	as	a	product	of
 ascent.	And	he	seems	to	endorse	the	central	structural	principle	used	by
 
@@ -20125,7 +20125,7 @@ by	certain	great	and	incomparable	souls,	insofar	as	they	thought	it	ought
 to	be	described,	souls	whom	we	believe	to	have	seen	these	things,	and
 to	be	seeing	them	still.	(76)
 
-In	De	Genesi	contra	Manichaeos,	Augustine	depicts	a	similar	process
+In	De	Genesi	contra	Manichaeans,	Augustine	depicts	a	similar	process
 of	ascent.	The	soul	travels,	again,	through	seven	stages.	The	stages	are
 now	 mapped	 onto	 the	 seven	 days	 of	 the	 Creation,	 a	 procedure	 that
 produces	 some	 changes	 in	 their	 order	 and	 content.	 The	 nature	 of	 the
@@ -20235,7 +20235,7 @@ external	 call	 and	 is	 not	 perfectly	 ours	 to	 control.	 Unless	 something
 "happens	 our	 way"	 ("occurat")	 which	 delights	 and	 moves	 the	 soul's
 faculty	 of	 desire	 in	 the	 appropriate	 manner,	 the	 will	 can	 in	 no	 way	 be
 moved.	 "But	 that	 this	 something	 should	 happen	 our	 way,	 is	 not	 in	 the
-power	of	the	human	being"	(Ad	Simplic.	I.Qu	z.zz).	We	can	he	moved
+power	of	the	human	being"	(Ad	Simplicianus.	I.Qu	z.zz).	We	can	he	moved
 to	faith	and	appropriate	effort	only	by	being	struck	in	such	a	way	that
 our	 will	 is	 correctly	 set	 in	 motion.	 "But	 who	 embraces	 in	 his	 soul
 something	 that	 gives	 him	 no	 delight?	And	 who	 has	 it	 in	 his	 power	 to
@@ -20366,7 +20366,7 @@ of	his	own	continuity	and	unity.	He	must	dredge	up	the	past,	rather	than
 severing	 himself	 from	 it.	 To	 use	 the	 words	 in	 which	Nietzsche
 perceptively	analyzes	the	operations	of	the	Christian	"had	conscience,"
 he	must,	working	on	himself,	"breed	an	animal	with	the	right	to	make
-promises."'--	The	work	of	self-recollection	and	selfscrutiny	carried	out
+promises."'--	The	work	of	self-recollection	and	self-scrutiny	carried	out
 in	 the	 Confessions	 would	 seem	 both	 unproductive	and	 risky	 to	 a
 Platonist;	 to	 a	 Christian	 it	 is	 of	 the	 deepest	 importance.	On	 the	 other
 side,	 the	 Platonist	 curriculum	 of	 progressive	 dissociation	from	 the
@@ -20472,7 +20472,7 @@ As	 for	 those	 who	 exalt	 the	 apatheia	 of	 the	 Stoic	 wise	 man,	 they	 are
 
 doubly	 foolish.	 For	 "if	 apatheia	 is	 that	 condition	 in	 which	 no	 fear
 frightens	and	no	grief	pains,	it	must	be	avoided	in	this	life	if	we	wish	to
-live	rightly,	that	is,	according	to	God."	And,	furthermore,	"if	apath	eia
+live	rightly,	that	is,	according	to	God."	And,	furthermore,	"if	apathia	eia
 is	 defined	 as	 that	 condition	 in	 which	 no	 emotion	 at	 all	 can	 touch	the
 soul,	who	would	not	consider	this	stupor	worse	than	any	of	the	vices?"
 (XIV.9)
@@ -20532,7 +20532,7 @@ his	 openness	 to	 external	 happenings,	 depicting	 himself	 as	 a	 container
 S).	Nor	does	he	feel	confident	that	his	own	internal	processes	are	fully
 under	 his	 own	 control.	 In	 his	 own	 aspiration	 he	 exemplifies	 the	very
 difficulties	 about	 grace	 that	 he	 describes	 theoretically	 in	 the	 Ad
-Simplicianurn.	 For	 he	 prays	 that	 God	 should	 present	 Himself	 to	 him,
+Simplicianum.	 For	 he	 prays	 that	 God	 should	 present	 Himself	 to	 him,
 happen	his	way,	in	such	a	manner	that	his	soul	may	be	moved	by	love
 and	delight:
 
@@ -20739,7 +20739,7 @@ many	varieties	of	Christian	belief,	and	of	other	forms	of	religious	and
 secular	moral	commitment,	that	will	influence	their	response	to	what	is
 said.	To	put	my	cards	on	the	table,	then,	what	I	shall	say	henceforth	is
 s a i d	from	 the	 point	 of	 view	 of	 someone	 who	 has	 converted	 from
-Christianity	 to	 Judaism,	 and	 whose	 undertanding	 of	 Judaism	 gives	 the
+Christianity	 to	 Judaism,	 and	 whose	 understanding	 of	 Judaism	 gives	 the
 moral	sphere	considerable	autonomy	and	centrality,	seeing	the	concern
 o f	God	 for	 man	 as	 essentially	 moral	 and	 political,	 focused	 on	 thisworldly	concerns	and	actions,	and	intelligible	from	the	point	of	view	of
 a	 thisworldly	 use	 of	 intelligence.''-'	 It	 is	 in	 order	 to	 investigate	 the
@@ -20975,7 +20975,7 @@ ascent.	 For	Augustine	 the	 disobedience	 of	 the	 will	 -	 and	 the	sexuality
 that	 is	 its	 sign	 -	 make	 us	 the	 human	 beings	 we	 know,	 so	unlike	 those
 automata	 that	 procreated	 in	 the	 Garden,	 using	 their	 genitals	 like
 gardening	 tools.	 These	 creatures	 were	 sexual,	 but	 in	 a	 deep	way
-nonerotic:	they	had	no	passionate	attachment	to	pieces	of	the	world;	so
+non-erotic:	they	had	no	passionate	attachment	to	pieces	of	the	world;	so
 long	as	they	were	good,	they	were	not	curious	or	striving.	We	might	say
 that	in	our	sense	they	were	without	emotion.	It	is	thus	a	very	basic	fact
 about	humanity	-	our	need	for	objects,	our	keen	hunger	to	know	and	to
@@ -20994,7 +20994,7 @@ presence	of	God.
 
 Let	 us	 now	 return	 one	 last	 time	 to	 Arendt.	 The	 idea	 that	 the
 independent	will	itself	-	and	sexuality	itself,	seen	as	a	metaphor	for	the
-ungov	 ernable	 will	 -	 are	 fundamentally	 evil	 in	 their	 separateness	 and
+ungovernable	 ungovernable	 will	 -	 are	 fundamentally	 evil	 in	 their	 separateness	 and
 their	lack	of	docility	is	perhaps	a	consoling	idea,	in	a	world	where	real
 political	 engagement	 is	 enormously	 costly	 and	 uncertain	 of	 success.
 Thinking	Augustinian	thoughts	of	radical	evil	mitigates	the	suffering	of
@@ -21040,7 +21040,7 @@ tender	 words	 of	 mourning	 for	 the	 fate	 of	 Marcellus,	"Manibus	 o	 date
 ]ilia	plenis,"	"0	give	lilies	with	full	hands.";	Read	ers	who,	with	Dante,
 have
 this	point,	 seeking	 an
-understanding	 of	 love	 through	 the	 eyes	 of	 his	 preChristian	 sensibility,
+understanding	 of	 love	 through	 the	 eyes	 of	 his	 pre-Christian	 sensibility,
 are	likely	to	experience	a	jolt.	These	words	of	grief	seem	inappropriate
 to	a	context	of	joyful	welcome.	There	will	be	more	such	jolts,	as	Virgil,
 and	the	pagan	sensibility,	depart	from	the	poem.
@@ -21139,7 +21139,7 @@ XXXII.z).
 In	order	to	begin	to	understand	Dante's	idea	of	love's	ascent,	we	can
 set	 over	 against	 this	 central	 paradigm	 two	 other	 loves	 with	 which	 the
 poem	has	acquainted	us.	For,	as	readers,	we	are	invited	at	this	point	to
-recall	the	erotic	passion	of	Paolo	and	Frencesca,	blown	like	birds	by	the
+recall	the	erotic	passion	of	Paolo	and	Francesca,	blown	like	birds	by	the
 winds	 of	 Hell,	 together	 for	 all	 eternity,	 their	 gentle	 hearts	 once	 and
 forever	seized	by	love,	"which	absolves	no	beloved	one	from	loving."6
 At	that	stage	in	his	journey,	Dante	was	moved	to	faint	from	pity	at	their
@@ -21163,7 +21163,7 @@ acquainted	 us:	 above	 all,	 perhaps,	 the	 love	 between	 Dante	 and	 his
 teacher	 of	 Aristotelian	 philosophy,	 Brunetto	 Latini,	 a	 love	 based	 on
 mutual	respect	for	merit	and	dignity,	mutual	well-wishing,	and	mutual
 hope	 of	 high	 achievement	 and	 renown.	 1	 )Although	 this	 love	 is
-Aristote-	 Tian	 rather	 than	 platonic	 in	 its	 emphasis	 on	 mutuality	 in
+Aristotelian-	 Tian	 rather	 than	 platonic	 in	 its	 emphasis	 on	 mutuality	 in
 respect,"	 it	 is	also	 strongly	 linked	 with	 our	 Platonic	 contemplative
 paradigm,	 in	 its	emphasis	on	goodness	as	the	basis	of	love	and	on	the
 self-sufficiency
@@ -21266,12 +21266,12 @@ here	your	will	is	upright,	free,	and	whole,	and
 you	would	be	in	error	not	to	heed	whatever
 your	own	impulse	prompts	you	to:	lord	of
 
-yourself	I	crown	and	mitre	you.	(Purg.	XXVIL
+yourself	I	crown	and	mitre	you.	(Purg.	XXVII
 130-1,	13943)
 
 Only	in	the	context	of	Christian	salvation,	then,	does	the	will	have	its
 full	integrity.	But	this	means	that	it	is	only	in	the	context	of	salvation
-that	two	people	can	love	one	another	with	full	respect	for	suhjecthood
+that	two	people	can	love	one	another	with	full	respect	for	subjecthood
 and	agency."
 
 Why	 should	 we	 think	 this?	 We	 can	 understand	 Dante's	 claim	 more
@@ -21353,7 +21353,7 @@ susceptible	doves.	They	are	agents	not	in	spite	of,	but	in	virtue	of,	their
 willingness	 to	 be	 susceptible	 to	 the	 influence	 of	 the	 "greater	 care."
 Quasi-erotic	 passivity	 and	 agency	 now	 are	 allies.	 The	 next	 time	 that
 Dante	is	"rapt	and	attentive,"	his	object	is	the	smile	of	Beatrice	(Purg.
-XXXILI),	 a	 smile	 that	 quenches	 his	 thirst,	 and	 draws	 his	 eyes	 to	 her
+XXXIII),	 a	 smile	 that	 quenches	 his	 thirst,	 and	 draws	 his	 eyes	 to	 her
 "with	the	old	net"	(XXXII.6).
 
 As	the	poem	shows	in	numerous	ways,	this	love	exemplifies	the	new
@@ -21386,7 +21386,7 @@ can	be	a	Christian	agent	only	by	being,	at	the	same	time,	the	bowstring
 that	breaks,	confessing	its	own	inadequacy."	To	put	it	another	way,	he
 can	 have	 his	 poetic	 voice	 as	 a	 Christian	 love	 poet	 only	 by	 losing	 his
 voice,	 in	 tears	 of	 humility	 and	 awe.	 We	 are	 on	 our	 way	 to	 the
-mysterious	harmony	of	disio	and	velle,	longing	and	willing,	with	which
+mysterious	harmony	of	desio	and	velle,	longing	and	willing,	with	which
 the	poem	famously	ends."	He	can	have	that	harmony	only	by	allowing
 the	"wheel"	 of	 his	 soul	 -	 desire	 and	 will	 both	 -	 to	 be	 "revolved"	 by
 heavenly	love.
@@ -21397,8 +21397,8 @@ agency	 criticizes	 the	 pagan	 ascent	 of	 love,	 as	 well	 as	 the	 unreformed
 love	 from	 which	 ascent	 begins.	 For	 in	 Brunetto's	 way	 of	 seeing	 the
 world	 the	 human	 being	 is	 self-sufficient	 for	 the	 achievement	 of	 the
 highest	good	-	opposed	by	Fortuna,	to	be	sure	(Inf.	XV.93-6),	but	still
-for	the	most	part	capable	of	attaining	eudainionia	by	his	own	efforts.	He
-teaches	Dante	"come	I'uom	s'etterna"	-	and	in	that	reflexive	verb	is	his
+for	the	most	part	capable	of	attaining	eudaimonia	by	his	own	efforts.	He
+teaches	Dante	"come	L'uom	eudaimonia"	-	and	in	that	reflexive	verb	is	his
 damnation.	Ethical	agency	in	Plato	and	Aristotle	has	moved	beyond	the
 directionless	passivity	of	Francesca	(of	Plato's	Alcibiades,	a	"slave"	to
 passion).	 But	 in	 giving	 up	 their	 susceptibility	 to	 the	 external	 force	 of
@@ -21523,7 +21523,7 @@ I	began.
 It	is	hardly	necessary	to	argue	that	Beatrice's	love	for	Dante	embraces
 his	 faults,	 as	 well	 as	 his	 virtues.	 From	 the	 very	 beginning	 of	 her
 intervention	in	his	fate,	this	is	abundantly	clear.	As	she	appears	before
-Virgil	(Inf.	1I),	pleading	for	"I'amico	mio"	(6	1	),	she	stresses	the	fact
+Virgil	(Inf.	1I),	pleading	for	"L'amico	mio"	(6	1	),	she	stresses	the	fact
 that,	 inspired	 to	 leave	 Heaven	 by	 compassion	 for	 Dante's	 fallen
 condition,	she	does	not	cease	to	be	fully	herself,	or	her	love	to	he	a	fully
 personal	love:	"I'	son	Beatrice	the	ti	faccio	andare,"	she	insists	(70).	The
@@ -21607,7 +21607,7 @@ eyes	of	love.	For	they	identify	themselves	with	superficial	attachments
 -	to	money,	to	status,	to	food,	to	physical	pleasure	-	and	wallow	in	these
 pursuits	in	a	way	that	masks	their	deeper	selves	from	view.	It	is	in	this
 sense	 that	 the	 purification	 of	 sin	 is	 not	 a	 self-destruction	 but	 a
-selfcleansing	and	a	self-revelation.
+self-cleansing	and	a	self-revelation.
 
 We	might	suppose	that	Platonic	love	would	fare	better	by	these	tests:
 for	in	his	account	of	creation	in	the	beautiful,	Plato	also	criticizes	loves
@@ -21621,7 +21621,7 @@ yield	a	 satisfactory	 notion	 of	 particularity	 in	 love.	 For	 any	 love	 tha
 stays	fixed	on	merit	cannot	take	in	the	whole	history	of	the	individual,
 t he	whole	 particularity	 of	 that	 history,	 with	 its	 defects,	 its	 body,	 its
 flaws	and	faults.	It	cannot	have	the	tender	compassion	of	this	love,	its
-mer	ciful	understanding	of	the	struggles	of	the	individual	will	within	a
+mer	merciful	understanding	of	the	struggles	of	the	individual	will	within	a
 tangled	history.
 
 IV.	CHRISTIAN	LOVE	IS	LOVE
@@ -21629,7 +21629,7 @@ IV.	CHRISTIAN	LOVE	IS	LOVE
 Like	 Augustine,	 Dante	 stresses,	 moreover,	 that	 this	 redeemed	 love	 is
 really	 love.	 Throughout	 the	 poem	 he	 insists	 on	 the	 multifaceted
 character	 of	 love,	 the	 basic	 form,	 he	 argues,	 of	 all	 human	 desire	 and
-motivation	 (Purg.	 XVIL91-14o).	 His	 entire	 poem,	 he	 tells	 us,	 is	 the
+motivation	 (Purg.	 XVII91-14o).	 His	 entire	 poem,	 he	 tells	 us,	 is	 the
 writing	of	love	within	him:	when	Bonagiunta	asks	him	whether	he	is	the
 poet	who	wrote	the	lyric	that	begins,	"Ladies	who	have	the	intelligence
 of	Love,"	Dante	replies,	"I	am	one	who,	when	love	breathes	in	me,	takes
@@ -21729,7 +21729,7 @@ wider	range	of	human	lives.	It	really	does	embrace	the	world	with	love.
 It	 is	 especially	 interesting	 that	 for	 Dante	 -	 as	 not,	 I	 think,	 for
 Augustine	 -	 love	 can	 move	 outward	 to	 embrace	 humanity	 while
 retaining	intense	 attachments	 to	 particular	 individuals.	 In	 the	 sight	 of
-Heaven,	Beatrice	 is	 still	 I)ante's	 lady	 and	 he	 her	 lover	 -	 whereas
+Heaven,	Beatrice	 is	 still	 I)Dante's	 lady	 and	 he	 her	 lover	 -	 whereas
 Augustine	 feels	the	 need	 to	 repudiate	 his	 tie	 to	 his	 mother	 in	 order	 to
 perfect	 his	 love.	 In	 this	 sense,	 Dante's	 love	 promises	 an	 attractive
 approach	to	thisworldly	political	life,	where	we	most	urgently	need	to
@@ -22168,7 +22168,7 @@ hard	toward	the	pain	that	he	encounters.	In	Inferno,	Canto	V,	he	faints
 from	pity.	 By	 Canto	 XIX,	 he	 can	 say,	 "Stay	 there,	 for	 you	 are	 rightly
 punished."	 In	 Canto	 XXXIII,	 he	 refuses	 the	 plea	 of	 a	 soul	 to	 open	 its
 frozen	eyes,	saying,	"It	was	a	courtesy	to	he	rude	to	him,"	"E	cortesia	fu
-lui	esser	villano."	This	moment	is	all	the	more	striking	because	this	is	a
+lui	esser	villain."	This	moment	is	all	the	more	striking	because	this	is	a
 soul	 whose	 body	 still	 lives	 on	 Earth,	 and	 who	 still	 has,	 therefore,	 a
 chance	of	redemption.
 
@@ -22209,7 +22209,7 @@ reconciled	 with	 the	 idea	 of	 ongoing	 compassion	 for	 human	 life.
 Compassion	is	incomprehensible	without	mourning;	if	these	things	are
 important,	 they	 are	 important.	 A	 must	 ultimately	 choose	 between
 regarding	this	world	as	merely	provisional	and	regarding	it	as	a	scene	of
-signficant	 struggles,	 between	 the	 harmony	 of	 Heaven	 and	 the	 blazing
+significant	 struggles,	 between	 the	 harmony	 of	 Heaven	 and	 the	 blazing
 letter	 M	 in	 the	 word	 "Earth,"	 as	 the	 souls	 speak	 with	 light	 the	 phrase,
 "Love	justice,	you	who	judge	the	Earth."
 
@@ -22274,7 +22274,7 @@ not	 like	 a	 man,	but	 like	 a	 savage	 beast	 being	 goaded	 to	 death	 with
 knives	 and	 spears"	(	197).	It	is	in	his	world	alone,	it	would	seem,	that
 flame	is	truly	found.	As	Cathy	says	to	Edgar	Linton,	"	`Your	cold	blood
 cannot	be	worked	into	a	fever:	your	veins	are	full	of	ice-water;	but	mine
-are	boiling,	and	the	sight	of	such	chillness	makes	them	dance'	"	(139).
+are	boiling,	and	the	sight	of	such	chilliness	makes	them	dance'	"	(139).
 
 In	 both	 the	 Platonic	 and	 the	 Christian	 pictures,	 love's	 ascent	 leads
 ultimately	-	whether	in	this	life	or	the	next	-	to	a	resting	place	in	which
@@ -22466,7 +22466,7 @@ same	time,	retentiveness	and	self-sufficiency.
 
 The	man	through	whose	eyes	this	strange	world	is	described	for	us	is
 a	city	man,	a	refined	society	man,	a	man	of	means.	His	usual	occupation
-in	 the	 country	 is	 hunting	 -	 which	 he	 calls	 "devastat[ing]	 the	moors"
+in	 the	 country	 is	 hunting	 -	 which	 he	 calls	 "devastating[ing]	 the	moors"
 (360).	His	usual	milieu	is	"the	stirring	atmosphere	of	the	town"	(359)•
 His	 usual	 vacation	 choice	 is	 "a	 month	 of	 fine	 weather	 at	the	seacoast"
 (7).	 His	 choice	 of	 the	 desolate	 isolation	 of	 Thrushcross	Grange	 is,
@@ -22508,7 +22508,7 @@ cruelty	to	Heathcliff.	He	now	dreams	that	he	is	in	a	chapel,	where	the
 Reverend	 Jabes	 Branderham	 is	 delivering	 a	 sermon	 divided	 into	 four
 hundred	and	ninety	parts,	each	discussing	a	separate	sin.	"They	were,"
 he	notes,	"of	the	most	curious	character:	odd	transgressions	that	I	never
-imagined	 previously."	 As	 he	 reaches	 "the	 First	 of	 the	 SeventyFirst,"
+imagined	 previously."	 As	 he	 reaches	 "the	 First	 of	 the	 Seventy-First,"
 which	is	the	"sin	that	no	Christian	need	pardon,"	Lockwood	protests:	he
 is	tired	of	listening,	tired	of	forgiving.	"	`Fellow-martyrs,	have	at	him!'
 "	he	calls	to	the	crowd.	"	`Drag	him	down	and	crush	him	to	atoms,	that
@@ -22565,7 +22565,7 @@ younger	Cathy	out	of	fear	of	danger,	thus	repeating	the	refusal	of	love
 
 that	 has	 led	 him	 to	 the	 moors,	 Lockwood	 can	 only	 watch	 Cathy	and
 Hareton	 with	 "a	 mingled	 sense	 of	 curiosity	 and	 envy,"	 and,	 "feeling
-very	mean	and	malignant,"	"skul[k]	round	to	seek	refuge	in	the	kitchen"
+very	mean	and	malignant,"	"skulk[k]	round	to	seek	refuge	in	the	kitchen"
 (363-4).
 
 The	famous	Lawrence	Olivier	film	of	the	novel	had	one	great	virtue:
@@ -22630,7 +22630,7 @@ hate,"	he	contemplates	a	final	act	of	violence	against	the	man	who	has
 
 robbed	 him	 of	 his	 property	 (2-o6).	 Isabella	 hates	 the	 Heathcliff	 who
 abuses	 her.	 Edgar	 "abhors"	 Heathcliff	 "with	 an	 intensity	 which	 the
-mildness	of	his	nature	would	scarecely	seem	to	allow"	(z15).	Heathcliff,
+mildness	of	his	nature	would	scarcely	seem	to	allow"	(z15).	Heathcliff,
 from	 the	 beginning	 mocked	 and	 humiliated	 for	 his	 dark	 skin,	 his
 poverty,	 and	 his	 unknown	 origins,	 devotes	 his	 entire	 life	 to	 revenge
 against	 Hindley	 and	 the	 Lintons,	 making	 himself	 master	 of	 Hindley's
@@ -22749,7 +22749,7 @@ incomprehensible
 the	 narrators,	 of	 reason	 and	of
 surrender,
 boundaries.	At	Cathy's	death,	the	blood	of	Heathcliff's	head	is	spattered
-on	 the	 bark	 of	 a	 tree,	 "a	 repetition	 of	 other	 (scenesi	 acted	during	 the
+on	 the	 bark	 of	 a	 tree,	 "a	 repetition	 of	 other	 (scenes	 acted	during	 the
 night"	(197).
 
 to
@@ -22772,7 +22772,7 @@ peculiar	 sense,	 the	 only	 Christian	 among	 the	 Pharisees,	 and	 -	 with
 respect	 to	 the	 one	 person	 he	 loves	 -	 a	 sacrificial	 figure	 of	 Christ
 himself,	the	only	one	who	sheds	his	own	blood	for	another.	The	novel
 suggests	that	only	in	this	deep	exposure	is	there	true	sacrifice	and	true
-redemp	 tion.	 At	 the	 novel's	 end,	 only	 Heathcliff's	 tombstone	 is	 not
+redemption	 tion.	 At	 the	 novel's	 end,	 only	 Heathcliff's	 tombstone	 is	 not
 covered	by	moss;	and	a	child	tells	Lockwood	that	he	has	seen	Heathcliff
 and	 Cathy	walking	 on	 the	 moors.	 "They	 are	 afraid	 of	 nothing,"
 Lockwood	grumbles	-	referring	ambiguously	to	the	ghostly	couple	and
@@ -22889,7 +22889,7 @@ how	 far	 are	 they	 merely	 indictments	 of	 a	 lifeless	 and	 degenerate
 Christianity?	 Would	 a	 keenly	 alive,	 surgingly	 erotic	 Augustinian
 Christianity	contain	 all	 that	 Bronte	 calls	 for	 here?	 (In	 asking	 these
 questions	 I	 do	not	 step	 outside	 the	 world	 of	 the	 text	 itself;	 for	 Emily
-was	 an	 extremely	learned	 classical	 scholar	 whose	 education	 includedmuch	essay	writing	on	just	such	Christian	themes.	Indeed,	her	teacher
+was	 an	 extremely	learned	 classical	 scholar	 whose	 education	 included much	essay	writing	on	just	such	Christian	themes.	Indeed,	her	teacher
 in	Brussels,	M.	Heger,	expressed	the	view	that	Emily	ought	to	become	a
 philosopher:	she	 had	 "a	 head	 for	 logic,	 and	 a	 capability	 of	 argument,
 unusual	 in	 a	man,	 and	 rare	 indeed	 in	 a	 woman.")''	 So:	 what	 is	 this
@@ -23233,14 +23233,14 @@ was	to	be	the	basis	for	the	final	movement	of	the	symphony."
 
 Even
 
-if	 we	 have	 some	 skepticism	 about	 Fiirster's	 evident
+if	 we	 have	 some	 skepticism	 about	 Fürster	 evident
 selfdramatization,	and	his	desire	to	establish	that	he	understood	Mahler
 better	 than	 anyone,	 nonetheless	 it	 is	 clear	 from	 other	 sources	 as	 well
 that	the	experience	of	the	memorial	service	was	a	pivotal	moment.	In	a
 letter	 to	 Arthur	 Seidl,	 written	 in	 1897,	 Mahler	 reports	 that	 when	 the
 boychoir	began	to	sing	he	felt	as	if	he	had	been	"struck	by	lightning":
 hearing	the	text,	he	knew	that	he	had	found	the	way	of	completing	his
-symphony.	"IElverything	became	plain	and	clear	in	my	mind!	It	was	the
+symphony.	"Everything	became	plain	and	clear	in	my	mind!	It	was	the
 flash	that	all	creative	artists	wait	for	-	'conceiving	by	the	holy	Ghost'!"
 (Here	again	-	see	Chapter	5	-	he	uses	feminine	imagery	of	conception	to
 describe	his	creative	process.)
@@ -23294,7 +23294,7 @@ evoked	 in	 the	 musical	 experience	 on	 the	 basis	 of	 attention	to
 specifically	 musical
 to	 Natalie
 forms.	 As	 Mahler
-BauerLechner,	"It	isn't	enough	to	judge	a	work	of	art	by	its	content;	we
+Bauer-Lechner,	"It	isn't	enough	to	judge	a	work	of	art	by	its	content;	we
 must	 consider	 its	 total	 image,	 in	 which	 content	 and	 form	 are
 indissolubly	blended.	"20
 
@@ -23341,7 +23341,7 @@ conventional	 religion
 type	 of
 romanticism.	 His	 good	 friend	 Siegfried	 Lipiner,	 also	 a	 member	 of	 the
 circle,	went	on	to	write	works	indebted	to	Nietzsche's	Birth	of	Tragedy,
-in	which	the	artist's	transcendance	over	pain	and	suffering	is	depicted	as
+in	which	the	artist's	transcendence	over	pain	and	suffering	is	depicted	as
 the	 central	 instance	 of	 human	 transcendence:	 we	 realize	 our	 own
 potential	 for	 godliness	 in	 the	 Promethean	 artist's	 defiance	 of	 pain	 and
 death,	a	victory	that	is	apparently	also	a	victory	over	egoism	and	petty
@@ -23368,7 +23368,7 @@ rejected	 all	 known	 literature	 as	 the	 source	 for	 his	 symphony's
 conclusion.	 Nor	 do	 I	 think	 that	 the	 text	 supplies	 anything	 terribly
 helpful	toward	the	interpretation	of	the	emotional	trajectory	of	the	first
 movement;	 Mahler's	 own	 programs	 are	 surely	 much	 more	 insightful.
-On	the	other	hand,	what	is	significant	in	Hefling's	research,	it	seems	to
+On	the	other	hand,	what	is	significant	in	Hefling	research,	it	seems	to
 me,	is	his	vivid	portrayal	of	Mahler's	Nietzscheanism	and	of	his	general
 intellectual	milieu,	skeptical	of	orthodox	stories	about	redemption,	but
 profoundly	 interested	 in	 Romantic/Dionysian	 ideas	of	 striving	 and
@@ -23384,7 +23384,7 @@ trembling,	as	if	a	knife	were	being	moved	very	rapidly	back	and	forth
 across	a	firm	but	fleshy	object.	They	recede	to	a	soft	quivering,	as	the
 lower	strings	move	deliberately	forward	with	menacing	attack,	digging
 and	scraping	into	the	body.	The	passage	suggests	(and,	perhaps,	alludes
-to)	 the	 entrance	 of	 Hunding	 in	 Wagner's	 Die	 Walkiire,"	 therefore
+to)	 the	 entrance	 of	 Hunding	 in	 Wagner's	 Die	 Walküre,"	 therefore
 suggesting	 the	 threat	 of	 loveless	 conventional	 authority	 against	 true
 creativity	and	authentic	love.
 
@@ -23449,7 +23449,7 @@ most	misleading	-	indicating,	perhaps,	that	he	did	not	have	conscious	or
 verbal	access	 to	 the	 spring	 of	 his	 musical	 idea.	 For	 he	 speaks	 of	 this
 movement	as	"about"	the	hero's	lost	happiness,	and	even	his	love.	And
 yet	to	one	who	listens	to	it	after	the	first	movement	it	seems	staid	and
-lacking	 in	authentic	 passion.	 The	 traditional	 form	 of	 the	 Ldndler	 does
+lacking	 in	authentic	 passion.	 The	 traditional	 form	 of	 the	 Ländler	 does
 contain	nostalgic	suggestions	of	good	times,	but	not	of	any	passion	that
 goes	deep,	 involving	 the	 whole	 self.	 We	 find,	 in	 effect,	 organized
 society's	answers	to	the	agonized	questions	of	the	first	movement:	live
@@ -23483,7 +23483,7 @@ ambition	for	conformity	eclipses	true	thought.	In	one	program	Mahler
 writes	that	it	is	like	watching	a	dance	from	a	distance	without	hearing
 the	music	-	it	all	seems	empty	and	pointless.''
 
-The	 "Fischhredigt"	 song	 whose	 history	 and	 music	 are	 so	 closely
+The	 "Fischpredigt"	 song	 whose	 history	 and	 music	 are	 so	 closely
 intertwined	with	the	movement3	takes	as	its	theme	the	conformity	and
 hypocrisy	 of	 contemporary	 society	 in	 matters	 of	 religion.	 St.	Anthony
 goes	to	preach	in	the	church,	but	the	church	is	empty.	So	he	goes	out	to
@@ -23559,14 +23559,14 @@ turning	to	the	perspective	of	a	child,	who	simply	lacks	that	emotion.	In
 consequence,	 humanity	 no	 longer	 looks	 repulsive;	 instead,	 it	 looks,
 simply,	needy:
 
-O	Roschen	Rot!	Der	Mensch	licgt	in	griisster
-Not!	Der	Mensch	liegt	in	grosster	Pein!	Je
-lieber	mocht'ich	im	Himmel	sein!
+O	Roschen	Rot!	Der	Mensch	liegt	in	größter
+Not!	Der	Mensch	liegt	in	größter	Pein!	Je
+lieber	möcht' ich	im	Himmel	sein!
 
 Da	kam	ich	auf	einen	breiten	Weg:	Da	kam
-ein	Engelein	and	wollte	mich	abweisen.	Ach
+ein	Engelchen	and	wollte	mich	abweisen.	Ach
 nein!	Ich	liess	mich	nicht	abweisen.	Ich	bin
-von	Gott	and	will	wicder	zu	Gott!	Der	Liebe
+von	Gott	and	will	wieder	zu	Gott!	Der	Liebe
 Gott	wird	mir	ein	Lichtchen	geben	wird
 leuchten	mir	his	an	das	ewig	selig	Leben!
 
@@ -23771,7 +23771,7 @@ behind.	 Soon	 we	 hear	 for	 the	 first	 time	 the	 theme	 associated	 with	the
 winged	ascent	of	love.	The	glockenspiel	sounds,	and	there	is	a	silence.
 Out	 of	 the	 emptiness,	 a	 distant	 horn	 calls	 in	 isolation.	 It	 is	 as	 if	the
 sufferer	is	being	summoned	-	to	what?	The	Dies	Irae	is	now	heard,	slow
-and	 hushed	 in	 the	 distance,	 against	 pizzicato	 strings.	A	 mood	 of	awefilled	suspense	builds,	as	the	triumphant	"auferstehen"	theme	enters	for
+and	 hushed	 in	 the	 distance,	 against	 pizzicato	 strings.	A	 mood	 of	awe-filled	suspense	builds,	as	the	triumphant	"auferstehen"	theme	enters	for
 the	first	time,	quiet	but	definite,	but	ending	with	a	downturn,	as	it	does
 each	time	until	the	end.
 
@@ -23841,19 +23841,19 @@ he	 repeatedly	insists,	 something	 altogether	 unexpected	 and	 heterodox
 .4S	To	understand	what	it	is,	we	must	begin	by	looking	at	the	text.	First,
 the	complete	and	unaltered	text	of	Klopstock's	ode:
 
-Auferstehn,	ja	auferstchn	wirst	du,	mein
-Staub,	nach	kurzer	Ruh!	Unsterblichs	Lehen
+Auferstehn,	ja	auferstehen	wirst	du,	mein
+Staub,	nach	kurze	Ruh!	Unsterbliches	Lehen
 wird,	der	dich	schuf,	dir	geben.	Halleluja!
 
-Wieder	aufzubluhn	word'	ich	gesdt!	Der	Herr
-der	Ernte	gcht	and	sammelt	Garben	uns	ein,
+Wieder	aufzublühen	word'	ich	gesagt!	Der	Herr
+der	Ernte	geht	and	sammelt	Garben	uns	ein,
 uns	ein,	die	starben!	Halleluja!
 
-Tag	des	Danks!	der	Freudenthranen	Tag!	Du
+Tag	des	Danks!	der	Freudentränen	Tag!	Du
 meines	Gottes	Tag!	Wenn	ich	im	Grabe	genug
 geschlummert	habe,	erweckst	du	mich.
 
-Wie	den	Trdumenden	wirds	dann	uns	seyn!
+Wie	den	Träumenden	wird	dann	uns	seyn!
 Mit	Jesu	gehn	wir	ein	zu	seinen	Freuden!	Der
 muden	Pilger	Leiden	Sind	darn	nicht	mehr!
 
@@ -23915,10 +23915,10 @@ O	Schmerz!	Du	Alldurchdringer!	Dir	bin	ich
 entrungen!	O	Tod!	Du	Allhezwinger!	Nun	his
 du	bezwungen!
 
-Mit	Fliigeln,	die	ich	mir	errungen,	in	heissem
+Mit	Flügel,	die	ich	mir	errungen,	in	heißen
 Liebesstreben,	werd'	ich	entschweben	zum
 Licht,	zu	dem	kein	Aug'	gedrungen!	Sterben
-werd'ich,	um	zu	lehen!
+werde ich,	um	zu	lehen!
 
 Auferstehn	wirst	du	mein	Herz,	in	einem	Nu!
 Was	du	geschlagen	zu	Gott	wird	es	dich
@@ -24072,7 +24072,7 @@ contralto,	with	an	intensity	reminiscent	of	the	"Ah!	Ich	liess	mich	nicht
 abweisen"	 of	 "Urlicht."	 When	 we	 arrive	 at	 the	 ambiguous	 words,	the
 music	 expresses	 a	 great	 intensity	 of	 longing	 and	 striving,	 with	 its
 syncopated	 rhythms	 and	 its	 chromaticism,	 its	 upward	 straining	 on
-"gelieht."	No	static	possession	of	an	object	is	present	in	this	music,	and
+"geliebt."	No	static	possession	of	an	object	is	present	in	this	music,	and
 no	static	telos	of	any	kind	-	instead,	the	beauty	is	all	in	the	intensity	of
 human	effort	itself,	which	now	spreads	over	the	orchestra,	as	the	strings
 leidenschaftlichem	 Ausdruck,"	"with
@@ -24129,7 +24129,7 @@ visual	experience,	that	its	illumination	must	he	accounted	for	in	terms
 of	the	eye,	would	be	one	that	might	well	he	resisted	by	a	person	whose
 deepest	emotions	unfold	themselves	in	musical	form.	Mahler	was	rather
 dismissive	 of	 the	 visual	 arts,	 writing	 that	 they	 are	 hooked	 up	with
-"external	 appearances"	 rather	 than	 with	 "getltingJ	 to	 the	 bottom	of
+"external	 appearances"	 rather	 than	 with	 "gelingt	 to	 the	 bottom	of
 things.""'	Music,	by	contrast,	cuts	beneath	habit.	It	can	therefore	shed	a
 light	 that	 is,	 very	 precisely,	 unseeable	 to	 the	 socially	 corrupted	eye.
 Mahler	uses	the	idea	of	"illumination"	in	describing	both	the	"Urlicht"
@@ -24152,7 +24152,7 @@ The	strong	and	fully	expressive	self,	addressed	as	"you,	my	heart,"	now
 finds	 no	 limits	 to	 its	 joy.	 Instead	 of	 curving	 downward,	burdened
 beneath	a	weight,	the	last	phrase	of	the	theme	soars	confidently	hack	up
 to	b-flat:	"Rise	again,	yes,	rise	again	you	will	my	heart,	in	an	instant"	-
-and	the	"instant,"	"(in	einem)	Nu,"	is	held	solidly,	weightily,	for	almost
+and	the	"instant,"	"(in	einem)	Nu,"	is	held	solidly,	gewichtigen,	for	almost
 a	full	bar,	as	if	to	direct	our	attention	to	the	temporally	extended	and	the
 bodily,	through	which	and	in	which	the	victory	has	been	achieved.	The
 triple	 meaning	 of	 "geschlagen"	 -	 the	heart's	 struggles,	 its	 physical
@@ -24337,7 +24337,7 @@ surround	him:
 
 Now	Lucifer	was	not	dead	-	or	if	he	was,	I	am
 his	sorrowful	terrible	heir;	I	have	been
-wrong'd	-	I	am	oppress'd	-	I	hate	him	that
+wronged	-	I	am	oppressed	-	I	hate	him	that
 oppresses	me,	I	will	either	destroy	him,	or	he
 shall	release	me.
 
@@ -24390,14 +24390,14 @@ fought	for	the	most	basic	and	elementary	starting	point	of	justice,	a	war
 that	 has	 destroyed	 generations	 of	 citizens	 for	 the	 sake	 of	 establishing
 what	should	never	have	been	in	question?
 
-And	I	saw	askant	the	armies,	I	saw	as	in
+And	I	saw	askance	the	armies,	I	saw	as	in
 noiseless	dreams	hundreds	of	battle-flags,
 Borne	through	the	smoke	of	the	battles	and
-pierc'd	with	missiles	I	saw	them,	And	carried
+pierced	with	missiles	I	saw	them,	And	carried
 hither	and	yon	through	the	smoke,	and	torn
 and	bloody,	And	at	last	but	a	few	shreds	left
 on	the	staff,	(and	all	in	silence,)	And	the	staffs
-all	splinter'd	and	broken.
+all	splintered	and	broken.
 
 I	saw	battle-corpses,	myriads	of	them	And	the
 white	skeletons	of	young	men,	I	saw	them,	I
@@ -24510,7 +24510,7 @@ and	feathers	all	over	him,	and	rode	him	out	of	town	on	a	rail.	Severely
 injured	by	the	attack,	he	took	a	full	month	to	recover.
 
 We	 have	 no	 way	 of	 knowing	 whether	 there	 was	 any	 truth	 in	 the
-accusations;	Whitman's	perceived	prefererences	would	have	sufficed	to
+accusations;	Whitman's	perceived	preferences	would	have	sufficed	to
 explain	 them,	 even	 without	 any	 other	 foundation;	 such	 assaults	 have
 been	 known	 to	 occur,	 not	 least	 in	 America.	 What	 is	 clear	 is	 that	 the
 incident	 was	 an	 exceedingly	 painful	 one,	 one	 that	 very	 likely	 shaped
@@ -24562,7 +24562,7 @@ perhaps	destructive	...
 
 The	whole	past	theory	of	your	life	and	all
 conformity	to	the	lives	around	you	would
-have	to	be	abandon'd....	(r-6,	9)
+have	to	be	abandoned....	(r-6,	9)
 
 Although	 the	 ensuing	 account	 makes	 it	 plain	 that	 the	 "follower"	 is	 a
 follower	 of	 Whitman's	 poetic	 vocation,	 in	 fact	 his	 devoted	 reader,	 the
@@ -24611,7 +24611,7 @@ The	cloth	laps	a	first	sweet	eating	and
 drinking,	Laps	life-swelling	yolks	-	laps	ear	of
 rose-corn,	milky	and	just	ripen'd;	The	white
 teeth	stay,	and	the	boss-tooth	advances	in
-darkness,	And	liquor	is	spill'd	on	lips	and
+darkness,	And	liquor	is	spilled	on	lips	and
 bosoms	by	touching	glasses,	and	the	best
 liquor	afterward.
 
@@ -24668,7 +24668,7 @@ life	of	Christ	and	a	believer	in	a	God	who	is	the	source	of	love.	And	yet
 he	 also	 arrogates	 to	 himself	 the	 right	 to	 interrogate	 all	 traditional
 systems	of	religious	understanding	to	see	how	well	they	come	up	to	his
 democratic	ideal.	What	is	important	in	both	philosophical	and	religious
-teaching	is	not	the	authority	of	the	teaching's	source,	but	the	quality	of
+teaching	is	not	the	authority	of	the	teachings	source,	but	the	quality	of
 the	 love	 that	 is	 its	 content.	 In	 a	 poem	 entitled	 "The	 Base	 of	All
 Metaphysics,"	 Whitman,	 rather	 in	 the	 manner	 of	 Mahler	 -	 who,	we
 recall,	 looked	 all	 through	 world	 literature	 including	 the	 Bible	 for	 his
@@ -24844,7 +24844,7 @@ that	they	are	my	poems,	Man's,	woman's,
 child's,	youth's,	wife's,	husband's,	mother's,
 
 father's,	young	man's,	young	woman's	poems,
-Head,	neck,	hair,	ears,	drop	and	tympan	of	the
+Head,	neck,	hair,	ears,	drop	and	tympanum	of	the
 ears,	Eyes,	eye-fringes,	iris	of	the	eye,
 eyebrows,	and	the	waking	or	sleeping	of	the
 lids,	Mouth,	tongue,	lips,	teeth,	roof	of	the
@@ -24961,7 +24961,7 @@ praising	 the	book's	 "freshness	 and	 simplicity,"	 insisted	 that	 "[t]here	 i
 not	 a	 word	in	 it	 meant	 to	 attract	 readers	 by	 its	 grossness."--'	 What	 is
 striking	 about	these	 reviews	 is	 their	 total	 inability	 to	 talk	 about	 deep
 sexual	 longing	other	 than	 in	 the	 language	 of	 corruption,	 poison,	 and
-filth.	These	Americans	all	seem	to	be	in	the	grip	of	a	profound	disgustthese
+filth.	These	Americans	all	seem	to	be	in	the	grip	of	a	profound	disgust,
 
 misogyny	and	 misanthropy,	 linked	 to	 an	 aggressive	 shame	 about	 the
 fact	of	desire.	Apparently	all	will	be	well	if	sex	is	regarded	as	merely	a
@@ -24996,7 +24996,7 @@ out	of	hopeful	green	stuff	woven.
 Or	I	guess	it	is	the	handkerchief	of	the	Lord,
 
 A	scented	gift	and	remembrancer	designedly
-dropt,	Bearing	the	owner's	name	someway	in
+dropped,	Bearing	the	owner's	name	someway	in
 the	corners,	that	we	may	see	and	remark,	and
 say	Whose?	Or	I	guess	the	grass	is	itself	a
 child,	the	produced	babe	of	the	vegetation.	Or
@@ -25070,13 +25070,13 @@ grass,	 we	 find	 the	 poem's	 first	 extended	 discussion	 of	 slavery.	 A
 runaway	 slave	 comes	 to	 the	 poet's	 house	 and	 stops	 outside.	 He	 hears
 "his	motions	crackling	the	twigs	of	the	woodpile."	The	poet	comes	out
 and	sits	with	him	on	a	log;	finding	him	weak	and	injured,	he	fills	a	tub
-"for	 his	 sweated	 body	 and	 bruis'd	 feet"	 -	 a	 clear	 reference	 to	 Christ's
-humility	and	service.	He	gives	him	a	room	"that	enter'd	from	my	own"	-
+"for	 his	 sweated	 body	 and	 bruised	 feet"	 -	 a	 clear	 reference	 to	 Christ's
+humility	and	service.	He	gives	him	a	room	"that	entered	from	my	own"	-
 indicating	 thereby	 that	 he	 has	 no	 hesitation	 about	 bodily	 proximity	 in
 the	night.	He	gives	him	clothes,	puts	plasters	on	the	sores	on	his	neck
 and	 ankles.	 The	 slave	 stays	 with	 the	 poet	 for	 a	 week	 before	 he	 goes
 farther	north.	"I	had	him	sit	next	me	at	table,"	the	poet	concludes,	"my
-fire-lock	 lean'd	 in	 the	 corner."	 We	 see	 equality,	 but	 feel,	 as	 well,	 the
+fire-lock	 leaned	 in	 the	 corner."	 We	 see	 equality,	 but	 feel,	 as	 well,	 the
 external	menace	and	pressure	of	hate.
 
 We	 might	 now	 expect	 a	 general	 philosophical	 rumination	 on	 racial
@@ -25184,7 +25184,7 @@ might	be	considered	in	assessing	the	defendant's	state	of	mind."
 Beyond	the	impact	of	such	convictions	on	individual	lives,	such	uses
 of	the	criminal	law	set	the	tone	for	"a	stigmatizing	code	of	conduct"	52
 for	 black	 men,	 which	 made	 mandatory	 downcast	 eyes,	 and	 a
-shamefilled	concealment	of	desire.;'	Black	men	must	wear	their	bodies
+shame-filled	concealment	of	desire.;'	Black	men	must	wear	their	bodies
 with	 shame	 rather	 than	 with	 pride,	 in	 effect	 becoming	 a	 walking
 metaphor	for	 the	 shamefulness	 of	 sexuality.	 For	 despite	 the	 lowered
 gaze,	 the	black	man	by	his	very	presence	was,	and	frequently	is,	taken
@@ -25228,7 +25228,7 @@ not	that	of	forced	sexual	conduct	or	even	of	sexual	harassment:	for	all
 agree	 that	 those	 are	 practices	 that	 should	 be	 forbidden	 no	 matter	who
 engages	 in	 them.	 Nor,	 given	 recent	 scandals	 about	 the	 ubiquitous
 harassment	 of	 women	 in	 the	 armed	 services,	 do	 people	 argue	 that
-malemale	harassment	would	be	a	greater	problem.	The	central	issue	is,
+male-male	harassment	would	be	a	greater	problem.	The	central	issue	is,
 once	again,	 the	 gaze.	 The	 scenario	 that	 is	 most	 feared	 is,	 once	 again,
 that	 of	being	 seen	 naked	 in	 the	 shower	 by	 someone	 who	 desires	 or
 might	possibly	desire	you	-	when	you	are	aware	of	that	possible	desire
@@ -25406,7 +25406,7 @@ compromised	 by	 his	 constant	 emphasis	 on	 the	 mysterious	 unity	 of	 all
 things	 in	 nature,	 the	 continuity	 and	 therefore	 immortality	 of	 all	 life.
 Frequently	Whitman	suggests	that	this	continuity,	somewhat	mystically
 experienced,	 negates	 the	 finality	 of	 death:	 "I	 know	 I	 am	 deathless,	 /	 I
-know	...	I	shall	not	pass	like	a	child's	carlacue'`'	cut	with	a	burnt	stick	at
+know	...	I	shall	not	pass	like	a	child's	carvacaue'`'	cut	with	a	burnt	stick	at
 night."	(SM	20.4o6-8)
 
 But	 to	 teach	 that	 death	 is	 not	 really	 a	 loss,	 or	 not	 really	 death,	 is	 to
@@ -25429,7 +25429,7 @@ human	being	really	is,	and	what	the	mourning	for	the	finite	individual
 really	 is.	 Lincoln	 is	 the	 only	 truly	 individual	 object	 of	 love	 in
 Whitman's	poetry,	 and	 his	 death	 inspired	 Whitman	 to	 express	 the
 tragedy	of	death	and	longing	as	nowhere	else	in	the	work.	"When	Lilacs
-Last	 in	 the	Dooryard	 13loom'd,"	 the	 remarkable	 elegy	 on	 Lincoln's
+Last	 in	 the	Dooryard	 13bloom'd,"	 the	 remarkable	 elegy	 on	 Lincoln's
 death,	 depicts	the	procession	of	Lincoln's	coffin	through	the	cities	and
 towns	of	America.	The	poet	imagines	the	grief	of	all	who	see	it	pass	by,
 and	mourn	as	for	someone	utterly	irreplaceable.	The	whole	of	the	nation
@@ -25451,7 +25451,7 @@ Lo,	the	most	excellent	sun	so	calm	and
 haughty,	The	violet	and	purple	morn	with
 just-felt	breezes,	The	gentle	soft-horn
 measureless	light,	The	miracle	spreading
-bathing	all,	the	fulfill'd	noon,	The	coming	eve
+bathing	all,	the	fulfilled	noon,	The	coming	eve
 delicious,	the	welcome	night	and	the	stars,
 Over	my	cities	shining	all,	enveloping	man
 and	land.
@@ -25576,7 +25576,7 @@ I.	SCHOLASTIC	QUESTIONS
 Lying	on	her	left	side	in	the	brass-quoited	bed,	"left	hand	under	head,
 right	leg	extended	in	a	straight	line	and	resting	on	left	leg"	(737),'	she
 watches	 her	 husband	 sleep,	 his	 feet	 near	 her	 face,	 his	 body	 curled	 up
-like	a	baby,	his	face	near	her	bottom,	"the	indexfinger	and	thumb	of	the
+like	a	baby,	his	face	near	her	bottom,	"the	index finger	and	thumb	of	the
 right	 hand	 resting	 on	 the	 bridge	 of	 the	 nose"	 (737).	 Watching,	 she
 considers	his	unusual	request:
 
@@ -25596,7 +25596,7 @@ touched	me	father	and	what	harm	if	he	did	where	and	I	said	on	the	canal
 bank	 like	 a	 fool	 but	 whereabouts	 on	 your	 person	 my	 child	 on	 the	leg
 behind	high	up	was	it	yes	rather	high	up	was	it	where	you	sit	down	yes	0
 
-Lord	couldnt	he	say	bottom	right	out	and	have	done	with	it	...	Id	like	to
+Lord	couldn't	he	say	bottom	right	out	and	have	done	with	it	...	Id	like	to
 be	embraced	by	one	in	his	vestments	and	the	smell	of	incense	off	him
 like	the	pope	(738,	740-4t)
 
@@ -25773,7 +25773,7 @@ III.	A	DIVIDUAL	CHAOS
 
 "Mr.	 Leopold	 Bloom	 ate	 with	 relish	 the	 inner	 organs	 of	 beasts	 and
 fowls.	He	liked	thick	giblet	soup,	nutty	gizzards,	a	stuffed	roast	heart,
-liver	 slices	 fried	 with	 crustcrumbs,	 fried	 hencod's	 roes.	 Most	 of	 all	he
+liver	 slices	 fried	 with	 crust crumbs,	 fried	 hencod	 roes.	 Most	 of	 all	he
 liked	 grilled	 mutton	 kidneys	 which	 gave	 to	 his	 palate	 a	 fine	 tang	of
 faintly	 scented	 urine"	 (SS).	 So	 the	 Homeric	 protagonist	 of	 love's
 sublime	 descent,	 target	 of	 love's	 little	 ruses	 (367),	 begins	 his	 day.
@@ -25884,7 +25884,7 @@ characters	are	such	words	as	would	be	naturally	and	habitually	used,	I
 believe,	 by	 the	types	of	folk	whose	life,	physical	and	mental,	Joyce	is
 seeking	to	describe.	In	respect	of	the	recurrent	emergence	of	the	theme
 of	 sex	 in	 the	 minds	 of	 his	characters,	 it	 must	 always	 be	 remembered
-that	 his	 locale	 was	 Celtic	 and	 his	season	Spring	...	[Wlhen	such	a	real
+that	 his	 locale	 was	 Celtic	 and	 his	season	Spring	...	[When	such	a	real
 artist	in	words,	as	Joyce	undoubtedly	is,	seeks	to	draw	a	true	picture	of
 the	lower	middle	class	in	a	European	city,	ought	it	to	be	impossible	for
 the	American	public	legally	to	see	that	picture?"'	From	which	one	may
@@ -25913,7 +25913,7 @@ round	by	snaking	strands	of	memory	and	fantasy	and	expectation,	which
 crawl	 through	 the	 mind's	 day,	 leaving	 no	 moment	single,	 no	 love
 exclusive,	 no	 logical	 deduction	 uncolored	 by	 wish	 and	regret.	In	these
 ways	 the	 text	 says,	 here,	 here	 in	 this	 confusion	 is	 the	really	 whole
-cosmos	 (or	 noncosmos),	 here	 and	 not	 in	 those	 ordered	 clarified
+cosmos	 (or	 non-cosmos),	 here	 and	 not	 in	 those	 ordered	 clarified
 probabilified	well-plotted	texts	in	which	we	are	accustomed	to	look	for
 our	 lives.	 Even	 the	 reader	 to	 whom	 a	 focus	 on	 consciousness	is	 a
 familiar	 novelistic	 device	 -	 the	 reader,	 say,	 of	 Henry	 James,	 or	 of
@@ -26061,7 +26061,7 @@ The	 summer	 evening	 had	 begun	 to	 fold	 the	 world	 in	 its	 mysterious
 embrace.	Far	away	in	the	west	the	sun	was	setting	and	the	last	glow	of
 all	 too	 fleeting	day	 lingered	 lovingly	 on	 sea	 and	 strand,	 on	 the	 proud
 promontory	 of	 dear	old	Howth	guarding	as	ever	the	waters	of	the	bay,
-on	the	weedgrown	rocks	along	Sandymount	shore	and,	last	but	not	least,
+on	the	weed-grown	rocks	along	Sandymount	shore	and,	last	but	not	least,
 on	 the	 quiet	 church	 whence	there	 streamed	 forth	 at	 times	 upon	 the
 stillness	the	voice	of	prayer	to	her	who	is	in	her	pure	radiance	a	beacon
 ever	to	the	storm-tossed	heart	of	man,	Mary,	star	of	the	sea.	(346)
@@ -26094,12 +26094,12 @@ with	a	consumerism	that	feeds	on	the	fantasies	these	traditions	arouse:
 Gerry	 MacDowell	 ...	 was	 in	 very	 truth	 as	 fair	 a	 specimen	 of	 winsome
 
 Irish	girlhood	 as	 one	 could	 wish	 to	 see	 ...	 Her	 figure	 was	 slight	 and
-graceful,	inclining	even	to	fragility	but	those	iron	jelloids	she	had	been
+graceful,	inclining	even	to	fragility	but	those	iron	jell-oids	she	had	been
 taking	of	late	had	done	her	a	world	of	good	much	better	than	the	Widow
 Welch's	 female	pills	 ...	 Had	 kind	 fate	 but	 willed	 her	 to	 be	 born	 a
 gentlewoman	 of	 high	degree	 ...	 Gerry	 MacDowell	 might	 easily	 have
 held	her	own	beside	any	lady	in	the	land	...	Mayhap	it	was	this,	the	love
-that	 might	 have	 been,	 that	 lent	to	 her	 softlyfeatured	 face	 at	 whiles	 a
+that	 might	 have	 been,	 that	 lent	to	 her	 softly featured	 face	 at	 whiles	 a
 look,	 tense	 with	 suppressed	 meaning,	that	imparted	a	strange	yearning
 tendency	to	the	beautiful	eyes	a	charm	few	could	resist.
 
@@ -26544,10 +26544,10 @@ that	 long	 kiss	 I	near	 lost	 my	 breath	 yes	 he	 said	 I	 was	 a	 flower	 of
 mountain	...	yes	that	was	why	I	liked	him	because	I	saw	he	understood
 or	felt	what	a	woman	is	and	I	knew	I	could	always	get	round	him	and	I
 gave	him	all	the	pleasure	I	could	leading	him	on	till	he	asked	me	to	say
-yes	and	I	wouldnt	answer	first	only	looked	out	over	the	sea	and	the	sky	I
+yes	and	I	wouldn't	answer	first	only	looked	out	over	the	sea	and	the	sky	I
 was	 thinking	 of	 so	 many	 things	he	 didnt	 know	 of	 Mulvey	 and	 Mr
 Stanhope	and	Hester	and	Father	and	old	captain	Groves	and	the	sailors
-playing	all	birds	fly	...	and	0	that	awful	deepdown	torrent	0	and	the	sea
+playing	all	birds	fly	...	and	0	that	awful	deep down	torrent	0	and	the	sea
 
 the	sea	crimson	sometimes	like	fire	...	and	how	he	kissed	me	under	the
 Moorish	wall	and	I	thought	well	as	well	him	as	another	and	then	I	asked
@@ -26586,9 +26586,9 @@ Molly's	 attention,	 having	 strayed,	 comes	 hack	 once	 for	 all	 to	 her	 tru
 love	 Poldy,	 who	 really	 loves	 and	 understands	 her.	 This	 is	 not	 exactly
 false.	Nor	are	such	thoughts	strangers	to	Poldy,	with	his	"You	are	 mine;
 the	 world	 is	 mine,"	 or	 even	 to	 Molly,	 who	 longs	 for	 a	 real	 love	letter
-like	that	anagram,	with	a	characteristic	combination	of	selfmockery	and
+like	that	anagram,	with	a	characteristic	combination	of	self-mockery	and
 real	longing:	"in	Old	Madrid	silly	women	believe	love	is	sighing	I	am
-dying	still	if	he	wrote	it	I	suppose	thered	be	some	truth	in	it	true	or	no	it
+dying	still	if	he	wrote	it	I	suppose	there'd	be	some	truth	in	it	true	or	no	it
 fills	up	your	whole	day	and	life	always	something	to	think	about	every
 moment	and	see	it	all	around	you	like	a	new	world"	(75	8).44	The	novel
 includes	 the	 romantic	 vision	 of	 life	 as	 a	 profound	human	 wish.	 But	 it
@@ -26694,7 +26694,7 @@ rigour"	 aimed	 at	 "the	 repression	 of	 many	 abuses	 though	 not	 of	 all
 simultaneously,"	directed	above	all	at	upholding	the	rule	of	law	against
 "all	orotund	instigators	of	international	persecution,	all	perpetuators	of
 international
-all	 menial	 molestors	 of	 domestic
+all	 menial	 molesters	 of	 domestic
 conviviality,	all	recalcitrant	violators	of	domestic	connubiality"	(716).
 
 animosities,
@@ -26732,7 +26732,7 @@ ingredients	that	seemed	necessary,	if	love	were	ever	to	prove	supportive
 of	 ethical	 good	 in	 the	 personal	 life	 and	 of	 general	 public	 concerns:
 compassion,	reciprocity	(insofar	as	it	rests	on	respect	for	the	dignity	of
 agency),	 and	 attention	 to	 the	 whole	 of	 the	 concrete	 individual.	 This
-failure,	I	argued,	resulted	from	the	infantile	and	narcissitic	conception
+failure,	I	argued,	resulted	from	the	infantile	and	narcissistic	conception
 of	love	with	which	this	ascent	tradition	begins.
 
 The	other	traditions	we	investigated	all	attempted	to	move	beyond	the
@@ -26882,11 +26882,11 @@ Adorno,	T.	(i99z).	Mahler:	A	Musical	Physiognomy.	Trans.	E.	Jephcott.
 
 Chicago:	University	of	Chicago	Press.
 
-Adorno,	T.	W.,	Frenhel-Brunswik,	E.,	Levinson,	D.	J.,	and	Sanford,	R.
+Adorno,	T.	W.,	Frenkel-Brunswik,	E.,	Levinson,	D.	J.,	and	Sanford,	R.
 N.,	in	collaboration	with	Aron,	B.,	Levinson,	M.	H.,	and	Morrow,	W.
 (1950).	The	Authoritarian	Personality.	New	York:	Harper	and	Row.
 
-Annas,	 J.	 (1984).	 "Personal	 Love	 and	 Kantian	 Ethics	 in	 Effc	 Briest."
+Annas,	 J.	 (1984).	 "Personal	 Love	 and	 Kantian	 Ethics	 in	 Effi	 Briest."
 
 Philosophy	and	Literature	8:	15-3	1
 
@@ -26935,7 +26935,7 @@ Baier,	A.	(1986).	"The	Ambiguous	Limits	of	Desire."	In	Marks	(1986):
 Statements."
 
 University	 of	 Chicago	 Law	 Review	 63:
-361-41	 z.	Barker,	 J.	 (1994).	 The	 Brontes.
+361-41	 z.	Barker,	 J.	 (1994).	 The	 Brontës.
 London:	Orion.
 
 Bartov,	O.	(199	1).	Hitler's	Army.	New	York:	Oxford	University	Press.
@@ -27052,7 +27052,7 @@ Philosophy."	Philosophy	and	Literature	5:	21-32.
 
 Carstairs,	G.	M.	(1967).	The	Twice	Born:	A	Study	of	a	Community	of
 
-HighCaste	Hindus.	Bloomington:	Indiana	University	Press.
+High Caste	Hindus.	Bloomington:	Indiana	University	Press.
 
 Caston,	 V.	 (i	 99z).	 Aristotle	 on	 Intentionality.	 Ph.D.	 dissertation,
 
@@ -27272,7 +27272,7 @@ Gewirtz,	P.	(1988).	"Aeschylus'	Law."	Harvard	Law	Review	101:	1043-
 Gibbard,	 A.	 (1990).	 Wise	 Choices,	 Apt	 Feelings:	 A	 Theory	 of
 Normative	judgment.	Cambridge,	MA:	Harvard	University	Press.
 
-Gilson,	 E.	 (1949).	 Introduction	 a	 l'etude	 de	 Saint	 Augustin,	 3rd	 ed.
+Gilson,	 E.	 (1949).	 Introduction	 a	 l'étude	 de	 Saint	 Augustin,	 3rd	 ed.
 
 Paris:	J.	Vrin.
 
@@ -27509,7 +27509,7 @@ Cul t ur al	Reshaping	 of	 Psychoanalysis.	 New	 York:	 Columbia
 University	Press.
 
 Labarriere,	J.-L.	(1993).	"De	la	`nature	phantastique'	des	animaux	chez
-les	StoIciens."	In	Passions	&	Perceptions,	ed.	J.	Brunschwig	and	M.
+les	Stoïciens."	In	Passions	&	Perceptions,	ed.	J.	Brunschwig	and	M.
 Nussbaum,	225-49.	Cambridge:	Cambridge	University	Press.
 
 La	Grange,	H.-L.	de	(1973).	Mahler.	Vol.	i.	Trans.	W.	Schumann	and	T.
@@ -27829,21 +27829,21 @@ Nussbaum,	 M.	 (zoooc).	 "Duties	 of	 Justice,	 Duties	 of	 Material	 Aid:
 Cicero's	Problematic	 Legacy."	 Journal	 of	 Political	 Philosophy	 8:
 176-zo6.
 
-Nussbaum,	 M.	 (zoood).	 "The	 Future	 of	 Feminist	 Liberalism."
+Nussbaum,	 M.	 (2000).	 "The	 Future	 of	 Feminist	 Liberalism."
 the	 American	 Philosophical
 
 Proceedings	and	 Addresses	 of
 Association	74:	49-79.
 
-Nussbaum,	 M.	 (zoooe).	 "Disabled	 Lives:	 Who	 Cares?"	 The	 New	York
+Nussbaum,	 M.	 (2000).	 "Disabled	 Lives:	 Who	 Cares?"	 The	 New	York
 
 Review	of	Books,	January	11,	zooo,	pp.	34-37.
 
-Nussbaum,	 M.	 (zooia).	 "Animal	 Rights:	 The	 Need	 for	 a	 Theoretical
+Nussbaum,	 M.	 (2001).	 "Animal	 Rights:	 The	 Need	 for	 a	 Theoretical
 Basis"	(review	 of	 Steven	 Wise,	 Rattling	 the	 Cage).	 Harvard	 Law
 Review	114:	1506-1549.
 
-Nussbaum,	 M.	 (zooib).	 The	 Fragility	 of	 Goodness,	 znd	 ed.,	 with	 new
+Nussbaum,	 M.	 (2001).	 The	 Fragility	 of	 Goodness,	 znd	 ed.,	 with	 new
 
 Preface.	Cambridge:	Cambridge	University	Press.
 
@@ -27905,11 +27905,11 @@ Rescuers	of	Jews	in	Nazi	Europe.	New	York:	Free	Press.
 Ortony,	 A.,	 Clore,	 G.	 L.,	 and	 Collins,	 A.	 (1988).	 The	 Cognitive
 Structure	of	Emotions.	Cambridge:	Cambridge	University	Press.
 
-Parke,	 R.	 D.,	 Cassidy,	 J.,	 Burks,	 V.	 M.,	 Carson,	 J.	 L.,	 and	 Boyun,	 L.
-(1992).	"Familial	 Contrihution	 to	 Peer	 Competence	 among	 Young
+Parke,	 R.	 D.,	 Cassidy,	 J.,	 Burks,	 V.	 M.,	 Carson,	 J.	 L.,	 and	 Boyum,	 L.
+(1992).	"Familial	 Contribution	 to	 Peer	 Competence	 among	 Young
 Children:	The	 Role	 of	 Interactive	 and	Affective	 Processes."	 In	 The
 Family-Peer	Relationships:	Modes	of	Linkage,	ed.	R.	D.	Parke	and	G.
-W.	Ladd,	107-34.	Hillsdale,	NJ:	Lawrence	Erlhaum	Associates.
+W.	Ladd,	107-34.	Hillsdale,	NJ:	Lawrence	Erlbaum	Associates.
 
 Pennebaker,	J.	W.,	and	Roberts,	T.-A.	(1992.).	"Toward	a	His	and	Hers
 Theory	 of	 Emotion:	 Gender	 Differences	 In	 Visceral	 Perception."
@@ -28241,7 +28241,7 @@ Turner,	 T.	 (1998).	 "Desire,	 Emotion,	 and	 Value:	 Theoretical	 and
 Ethnographic	Perspectives	on	the	Role	of	Emotion	in	Social	Action."
 Paper	presented	 at	 the	 Fourth	 Congress	 of	 the	 International	 Society
 
-for	Activity	Theory	and	Cultural	Research,	Arhus,	Denmark,	June.
+for	Activity	Theory	and	Cultural	Research,	Aarhus,	Denmark,	June.
 
 Vetlesen,	A.	J.	(	x994).	Perception,	Empathy,	and	Judgment:	An	Inquiry
 i n t o	the	 Preconditions	 of	 Moral	 Performance.	 University	 Park:
@@ -28261,7 +28261,7 @@ Cornell	University	Press.
 
 Von	 Wright,	 G.	 H.	 (1994).	 "Dante	 entre	 Ulises	 y	 Fausto."	 Boletin
 
-Institution	Libre	de	Ensenanza	z1:	7-14.
+Institution	Libre	de	Enseñanza	z1:	7-14.
 
 Waal,	 F.	 de	 (1989a).	 Peacemaking	 among	 Primates.	 Cambridge,	 MA:
 
@@ -28275,7 +28275,7 @@ Waal,	F.	de	(r996).	Good	Natured:	The	Origins	of	Right	and	Wrong	in
 Humans	 and	 Other	 Animals.	 Cambridge,	 MA:	 Harvard	 University
 Press.
 
-Waal,	 F.	 de,	 and	 Lanting,	 F.	 (1997).	 Bonoho:	 The	 Forgotten	 Ape.
+Waal,	 F.	 de,	 and	 Lanting,	 F.	 (1997).	 Bonobo:	 The	 Forgotten	 Ape.
 
 Berkeley	and	Los	Angeles:	University	of	California	Press.
 
@@ -28420,7 +28420,7 @@ ACKNOWLEDGMENTS
 
 This	 book	 derives	 from	 my	 1993	 Gifford	 Lectures,	 delivered	 at	 the
 University	 of	 Edinburgh.	 Portions	 were	 also	 presented	 as	 Messenger
-Lectures	at	Cornell	University	in	1993-94,	as	Hagerstrom	lectures	at	the
+Lectures	at	Cornell	University	in	1993-94,	as	Hägerström	lectures	at	the
 University	of	Uppsala,	Sweden,	in	the	spring	of	1995,	as	Distinguished
 Visiting	 Lectures	at	 the	 University	 of	 California	 at	 Riverside	 in	 the
 spring	of	1996,	as	a	series	of	lectures	at	the	University	of	California	at

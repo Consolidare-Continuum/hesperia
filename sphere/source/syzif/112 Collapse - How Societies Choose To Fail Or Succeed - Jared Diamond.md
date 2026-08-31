@@ -91,8 +91,8 @@ desert. Near them, on the sand, Half sunk, a
 shattered visage lies, whose frown, And wrinkled
 lip and sneer of cold command, Tell that its
 sculptor well those passions read, Which yet
-survive, stampt on these lifeless things, The hand
-that mockt them and the heart that fed: And on the
+survive, stamped on these lifeless things, The hand
+that mocked them and the heart that fed: And on the
 pedestal these words appear: 'My name is
 Ozymandias, king of kings: Look on my works, ye
 Mighty, and despair!' Nothing beside remains.
@@ -100,7 +100,7 @@ Round the decay Of that colossal wreck,
 boundless and bare The lone and level sands
 stretch far away."
 
-"Ozymandias," by Percy Bysshe Shelley (1817)
+"Ozymandias," by Percy Part One Shelley (1817)
 
 C O N T E N T S
 
@@ -120,7 +120,7 @@ Plan of the book
 A
 The
 
-PartOne: MODERN MONTANA
+Part Two: MODERN MONTANA
 
 Chapter 1: Under Montana's Big Sky
 
@@ -145,7 +145,7 @@ Chip Pigman's story »
 
 Montana, model of the
 
-PartTwo: PAST SOCIETIES
+Which: PAST SOCIETIES
 
 Chapter 2: Twilight at Easter
 
@@ -460,7 +460,7 @@ suboptimal even in good years, compared to dairy farms at lower latitudes,
 both farms were susceptible to being harmed by climate change, with
 drought or cold being the main concerns in the districts of Huls Farm or
 Gardar Farm respectively. Both districts lay far from population centers to
-wnich they could market their products, so that transportation costs and
+sense of they could market their products, so that transportation costs and
 
 hazards placed them at a competitive disadvantage compared to more centrally located districts. The economies of both farms were hostage to forces
 beyond their owners' control, such as the changing affluence and tastes of
@@ -559,7 +559,7 @@ marginal lands having to be abandoned again. Consequences for society included f
 for too few resources, and overthrows of governing elites by disillusioned
 masses. Eventually, population decreased through starvation, war, or disease, and society lost some of the political, economic, and cultural complexity that it had developed at its peak. Writers find it tempting to draw
 analogies between those trajectories of human societies and the trajectories
-to talk of a society's birth, growth, peak, senesof individual human lives
+to talk of a society's birth, growth, peak, unvaryingly individual human lives
 cence, and death and to assume that the long period of senescence that
 most of us traverse between our peak years and our deaths also applies to
 societies. But that metaphor proves erroneous for many past societies (and
@@ -794,7 +794,7 @@ off its enemies as long as it is strong, only to succumb when it becomes
 weakened for any reason, including environmental damage. The proximate
 cause of the collapse will then be military conquest, but the ultimate
 the factor whose change led to the collapse will have been the factor
-causethat caused the weakening. Hence collapses for ecological or other reasons
+caused that caused the weakening. Hence collapses for ecological or other reasons
 often masquerade as military defeats.
 
 The most familiar debate about such possible masquerading involves
@@ -1296,7 +1296,7 @@ only a slice of the sky, as in New Guinea and the Alps; or else there is a broad
 expanse of sky but it's less interesting, because there is no ring of distinctive
 mountains on the horizon as on the plains of Iowa and Nebraska. Three
 years later, while I was a student in college, I came back for the summer to
-Dick Hirschy's ranch with two college friends and my sister, and we all
+Dick Hirschys ranch with two college friends and my sister, and we all
 worked for the Hirschys on the hay harvest, I driving a scatterrake, my sister
 a buckrake, and my two friends stacking hay.
 
@@ -1373,7 +1373,7 @@ my friends for over 50 years. From understanding Montanans' motives, we
 can better imagine motives operating in the past. This chapter will put a
 personal face on a subject that could otherwise seem abstract.
 
-In addition, Montana provides a salutory balance to the following chapters' discussions of small, poor, peripheral, past societies in fragile environments. I intentionally chose to discuss those societies because they were the
+In addition, Montana provides a salutary balance to the following chapters' discussions of small, poor, peripheral, past societies in fragile environments. I intentionally chose to discuss those societies because they were the
 ones suffering the biggest consequences of their environmental damage,
 and they thus powerfully illustrate the processes that form the subject of
 this book. But they are not the only types of societies exposed to serious environmental problems, as illustrated by the contrast case of Montana. It is
@@ -1702,7 +1702,7 @@ defended to me a controversial recent Montana logging proposal by noting,
 "It beats cutting down the rainforest!" Jack Ward Thomas's defense was
 similar: "By refusing to harvest our own dead trees and instead importing
 live trees from Canada, we have exported both the environmental effects of
-logging, and the economic benefits of it, to Canada." Dick Hirschy sarcastiso we
+logging, and the economic benefits of it, to Canada." Dick Hirschy sarcastically we
 cally commented, "There's a saying, 'Don't rape the land by logging'
 are raping Canada instead."
 
@@ -1969,7 +1969,7 @@ root layer dry. However, when a farmer clears the native vegetation to
 practice crop-and-fallow agriculture, in which an annual crop like wheat is
 grown during one year and the land is left fallow the next year, there are no
 plant roots to take up rainwater falling in the fallow year. That rainwater
-accumulates in the soil, waterlogs it below the root layer, and dissolves salts
+accumulates in the soil, waterlogged it below the root layer, and dissolves salts
 that then rise into the root zone as the water table rises. Because of the
 impermeable underlying bedrock, the salty water doesn't drain deeply into
 the ground but emerges somewhere downhill nearby as a saline seep. The
@@ -2042,7 +2042,7 @@ the snow that remains up in the mountains. It's also bad for well systems
 tapping the Bitterroot River's aquifer, whose volume has decreased because
 of recent drought.
 
-As in other dry areas of the American West, agriculture would be impossible in the Bittterroot Valley without irrigation, because annual rainfall in
+As in other dry areas of the American West, agriculture would be impossible in the Bitterroot Valley without irrigation, because annual rainfall in
 the valley bottom is only about 13 inches per year. Without irrigation, the
 valley's vegetation would be sagebrush, which is what Lewis and Clark reported on their visit in 1805-1806, and which one still sees today as soon as
 one crosses the last irrigation ditch on the valley's eastern side. Construction of irrigation systems fed by snowmelt water from the high mountains
@@ -2471,7 +2471,7 @@ leaders in defending the environment and instituting land planning. For
 example, my summer home for the last seven years has been a rented house
 situated on the Bitterroot River south of Hamilton, and belonging to a
 private entity called the Teller Wildlife Refuge. Otto Teller was a rich
-Cali-fornian who liked to come to Montana to fish for trout. One day, he was
+Cali-Californian who liked to come to Montana to fish for trout. One day, he was
 infuriated to encounter large construction machinery dumping dirt into
 one of his favorite fishing holes on the Gallatin River. He became further enraged when he saw how massive clear-cutting carried out by logging companies in the 1950s was devastating his beloved trout streams and damaging
 their water quality. In 1984 Otto began buying up prime riverside land
@@ -2661,7 +2661,7 @@ hold two jobs, in order to make ends meet, yet here we are surrounded by this
 over-fueled forest. Everybody here, environmentalists or not, agrees that we
 need some fuel reduction in our forests. Forest restoration would eliminate
 over-fueling of the forests, especially of the low small trees. Now, that
-overfueling is eliminated just by burning it. The federal government's
+over-fueling is eliminated just by burning it. The federal government's
 National Fire Plan would do it by mechanical extraction of the logs, the
 purpose being to reduce the biomass of fuel. Most of our American timber
 comes from Canada! Yet the original mandate of our national forests was to
@@ -2853,7 +2853,7 @@ some folks are to animal agriculture and what comes with producing food."
 The last of these four life stories that I'll quote is that of John Cook, the fishing
 guide who with infinite patience introduced my then-10-year-old sons to
 fly-fishing and has been taking them out on the Bitterroot River for the last seven
-summers: "I grew up on an apple orchard in Washington's We-natchee Valley. At
+summers: "I grew up on an apple orchard in Washington's We-Wenatchee Valley. At
 the end of high school I had a wild hippie phase and set off for India on a
 motorcycle. I only got as far as the U.S. East Coast, but by then I had traveled all
 over the U.S. After I met my wife Pat, we moved to Washington's Olympic
@@ -3031,7 +3031,7 @@ break them deliberately at the neck.
 
 From the crater rim, I could see the nearest and largest platform (called
 Ahu Tongariki), whose 15 toppled statues the archaeologist Claudio
-Cris-tino described to me re-erecting in 1994 by means of a crane capable of
+Cris-Cristino described to me re-erecting in 1994 by means of a crane capable of
 lifting 55 tons. Even with that modern machinery, the task proved
 challenging for Claudio, because Ahu Tongariki's largest statue weighed 88
 tons. Yet Easter Island's prehistoric Polynesian population had owned no
@@ -3182,7 +3182,7 @@ standards of Mediterranean Europe and Southern California, but low by
 Polynesian standards. Compounding the limitations imposed by that modest
 rainfall, the rain that does fall percolates quickly into Easter's porous volcanic
 soils. As a consequence, freshwater supplies are limited: just one intermittent
-stream on Mt. Teravaka's slopes, dry at the time of my visit; ponds or marshes at
+stream on Mt. Teravaka slopes, dry at the time of my visit; ponds or marshes at
 the bottoms of three volcanic craters; wells dug down where the water table is
 near the surface; and freshwater springs bubbling up on the ocean bottom just
 offshore or between the high-tide and low-tide lines. Nevertheless, Easter
@@ -3265,7 +3265,7 @@ language and Early Mangarevan, the similarity between a Pitcairn statue
 and some Easter statues, the resemblances of Easter tool styles to Mangarevan and Pitcairn tool styles, and the correspondence of Easter Island skulls to
 two Henderson Island skulls even more closely than to Marquesan skulls all
 suggest use of Mangareva, Pitcairn, and Henderson as stepping-stones. In
-1999 the reconstructed Polynesian sailing canoe Hokuk'a succeeded in
+1999 the reconstructed Polynesian sailing canoe Hokukā succeeded in
 reaching Easter from Mangareva after a voyage of 17 days. To us modern
 landlubbers, it is literally incredible that canoe voyagers sailing east from
 Mangareva could have had the good luck to hit an island only nine miles
@@ -3445,7 +3445,7 @@ Chris Stevenson interprets his surveys as documenting the spread of
 rock-assisted intensive agriculture on Easter. For about the first 500 years of
 Polynesian occupation, in his view, farmers remained in the lowlands
 within a few miles of the coast, in order to be closer to freshwater sources and
-fishing and shellflshing opportunities. The first evidence for rock gardens
+fishing and shellfishing opportunities. The first evidence for rock gardens
 that he can discern appears around A.D. 1300, in higher-elevation inland
 areas that have the advantage of higher rainfall than coastal areas but cooler
 temperatures (mitigated by the use of dark rocks to raise soil temperatures).
@@ -3548,7 +3548,7 @@ walls, especially those of Ahu Vinapu, have beautifully fitted stones reminiscen
 
 stone facing, not big stone blocks as do Inca walls. Nevertheless, one of Easter's
 facing slabs still weighs 10 tons, which sounds impressive to us until we compare
-it with the blocks of up to 361 tons at the Inca fortress of Sac-sahuaman. The ahu
+it with the blocks of up to 361 tons at the Inca fortress of Sac-Sacsayhuamán. The ahu
 are up to 13 feet high, and many are extended by lateral wings to a width of up to
 from about 300 tons for a small ahu, up to
 500 feet. Hence an ahu's total weight
@@ -3577,7 +3577,7 @@ statue was 13 feet tall and weighed about 10 tons. The tallest ever erected
 successfully, known as Paro, was 32 feet tall but was slender and weighed "only"
 about 75 tons, and was thus exceeded in weight by the 87-ton slightly shorter but
 bulkier statue on Ahu Tongariki that taxed Claudio Cristino in his efforts to
-reerect it with a crane. While islanders successfully transported a statue a few
+re-erect it with a crane. While islanders successfully transported a statue a few
 inches taller than Paro to its intended site on Ahu Hanga Te Tenga, it
 unfortunately fell over during the attempt to erect it. Rano Raraku quarry contains
 even bigger unfinished statues, including one 70 feet long and weighing about
@@ -3627,7 +3627,7 @@ Raraku, for the simple reason that it was infinitely superior for carving. The
 
 I!
 
-tuff has a hard surface but an ashlike consistency inside and is thus easier to
+tuff has a hard surface but an ash-like consistency inside and is thus easier to
 carve than very hard basalt. As compared to red scoria, the tuff is less breakable and lends itself better to polishing and to carving of details. With time,
 insofar as we can infer relative dates, Rano Raraku statues became larger,
 more rectangular, more stylized, and almost mass-produced, although each
@@ -3720,7 +3720,7 @@ quarries follow contour lines to avoid the extra work of carrying statues up
 and down hills, and are up to nine miles long for the west-coast ahu farthest
 from Rano Raraku. While the task may strike us as daunting, we know that
 many other prehistoric peoples transported very heavy stones at
-Stone-henge, Egypt's pyramids, Teotihuacan, and centers of the Incas and
+Stone-Stonehenge, Egypt's pyramids, Teotihuacan, and centers of the Incas and
 Olmecs, and something can be deduced of the methods in each case. Modern
 scholars have experimentally tested their various theories of statue transport
 on Easter by actually moving statues, beginning with Thor Heyerdahl,
@@ -4631,7 +4631,7 @@ Pitcairn Islanders usually don't take young children when they visit Henderson t
 Further evidence of human use is a huge buried midden, one of the
 largest known from Southeast Polynesia, running for 300 yards in length
 and 30 yards in width along the north-coast beach facing the only passage
-through Henderson's fringing reef. Among the midden's garbage left behind
+through Henderson's fringing reef. Among the midden garbage left behind
 from generations of people feasting, and identified in small test pits excavated by Weisler and his colleagues, are enormous quantities of fish bones
 (14,751 fish bones in just two-thirds of a cubic yard of sand tested!), plus
 42,213 bird bones comprising tens of thousands of bones of seabirds (especially petrels, terns, and tropicbirds) and thousands of bones of land birds
@@ -4680,7 +4680,7 @@ finds of a couple of pig bones show that they kept or brought pigs at least
 occasionally.
 
 Thus, Southeast Polynesia presented colonists with only a few potentially
-labitable islands. Mangareva, the one capable of supporting the largest
+habitable islands. Mangareva, the one capable of supporting the largest
 copulation, was largely self-sufficient in the necessities for Polynesian life,
 
 except for lacking high-quality stone. Of the other two islands, Pitcairn was
@@ -4766,7 +4766,7 @@ return, we can only guess. They must have been perishable items unlikely to
 survive in Pitcairn and Mangareva archaeological sites, since Henderson
 lacks stones or shells worth exporting. One plausible candidate is live sea
 turtles, which today breed in Southeast Polynesia only on Henderson, and
-which throughout Polynesia were prized as a prestigious luxury food conlike truffles and caviar nowadays. A second candisumed mainly by chiefs
+which throughout Polynesia were prized as a prestigious luxury food like truffles and caviar nowadays. A second candisumed mainly by chiefs
 date is red feathers from Henderson's parrot, fruit dove, and red-tailed
 tropicbird, red feathers being another prestigious luxury item used for ornaments and feather cloaks in Polynesia, analogous to gold and sable fur
 today.
@@ -5186,7 +5186,7 @@ into marginal areas with less reliable springs or groundwater. The population mu
 grow crops and starving when the unpredictable climate turned dry again.
 That fate actually befell the Mimbres, who started by safely farming the
 floodplain and then began to farm adjacent land above the floodplain as
-their population came to saturate the fioodplain's capacity to support it.
+their population came to saturate the floodplain capacity to support it.
 They got away with their gamble during a wet climate phase, when they
 were able to obtain half of their food requirements outside the floodplain.
 However, when drought conditions returned, that gamble left them with a
@@ -5596,7 +5596,7 @@ farmers themselves short of food, provoking them to revolt.
 
 Some time between A.D. 1150 and 1200, Chaco Canyon was virtually
 abandoned and remained largely empty until Navajo sheepherders
-reoccu-pied it 600 years later. Because the Navajo did not know who had
+reoccupied-pied it 600 years later. Because the Navajo did not know who had
 built the great ruins that they found there, they referred to those vanished
 former inhabitants as the Anasazi, meaning "the Ancient Ones." What
 actually happened to the thousands of Chacoan inhabitants? By analogy
@@ -5663,7 +5663,7 @@ that different factors operated in different areas. For example, deforestation
 was a problem for the Anasazi, who required trees to supply the roof beams
 of their houses, but it wasn't as much of a problem for the Hohokam, who
 did not use beams in their houses. Salinization resulting from irrigation
-agriculture iiurt the Hohokam, who had to irrigate their fields, but not the
+agriculture hurt the Hohokam, who had to irrigate their fields, but not the
 Mesa Verdeans, who did not have to irrigate. Cold affected the Mogollon
 and
 
@@ -5721,7 +5721,7 @@ and a smooth floodplain without arroyos had disappeared.
 
 That type of conclusion is likely to apply to many other collapses of past
 societies (including the Maya to be considered in the next chapter), and to
-our own destiny today. All of us moderns house-owners, investors, politican get away with a lot of
+our own destiny today. All of us moderns house-owners, investors, politicians get away with a lot of
 cians, university administrators, and others
 waste when the economy is good. We forget that conditions fluctuate, and
 we may not be able to anticipate when conditions will change. By that time,
@@ -5752,7 +5752,7 @@ Yucatan Peninsula and adjacent parts of Central America. All of us love
 a romantic mystery, and the Maya offer us one at our doorstep, almost as
 close for Americans as the Anasazi ruins. To visit a former Maya city, we
 need only board a direct flight from the U.S. to the modern Mexican state
-capital city of Merida, jump into a rental car or minibus, and drive an hour
+capital city of Mérida, jump into a rental car or minibus, and drive an hour
 on a paved highway (map, p. 161).
 
 Today, many Maya ruins, with their great temples and monuments, still
@@ -5808,7 +5808,7 @@ much greater detail than we can reconstruct Easter Island, or even Anasazi
 history with its tree rings and packrat middens. The great art and architecture of Maya cities have resulted in far more archaeologists studying the
 Maya than would have been the case if they had just been illiterate
 hunter-gatherers living in archaeologically invisible hovels. Climatologists
-and pa-leoecologists have recently been able to recognize several signals of
+and pa-paleoecologists have recently been able to recognize several signals of
 ancient climate and environmental changes that contributed to the Maya
 collapse.
 
@@ -6069,7 +6069,7 @@ Within the Maya area, villages and pottery appeared around or after
 400 B.C. All preserved ancient Maya writing, constituting a total of about
 15,000 inscriptions, is on stone and pottery and deals only with kings, nobles, and their conquests (Plate 13). There is not a single mention of commoners. When Spaniards arrived, the Maya were still using bark paper
 coated with plaster to write books, of which the sole four that escaped
-Bishop Landa's fires turned out to be treatises on astronomy and the calendar.
+Bishop Landa fires turned out to be treatises on astronomy and the calendar.
 The ancient Maya also had had such bark-paper books, often depicted on
 their pottery, but only decayed remains of them have survived in tombs.
 
@@ -6343,7 +6343,7 @@ hit different centers at slightly different times in the period A.D. 760-910,
 while sparing other centers. That fact makes many Maya specialists skeptical
 of a role of drought.
 
-But a properly cautious climatologist would not state the drought hypothesis in that implausibly oversimplied form. Finer-resolution variation
+But a properly cautious climatologist would not state the drought hypothesis in that implausibly oversimplified form. Finer-resolution variation
 in rainfall from one year to the next can be calculated from annually banded
 sediments that rivers wash into ocean basins near the coast. These yield the
 conclusion that "The Drought" around A.D. 800 actually had four peaks, the
@@ -7760,7 +7760,7 @@ to those frequent changes in temperature.
 Complicating this picture I have just drawn of modern Greenland's average climate, the weather can change over short distances and from year to
 year. The changes over short distances partly account for Christian Keller's
 comment to me about the importance of finding the good patches of resources in Greenland. The changes from year to year affect each year's
-growth of pasture hay on which the Norse economy depended, and also affeet the quantities of sea ice that in turn affect seal hunting plus the possibility of ship travel for trade, both of which were important to the Vikings.
+growth of pasture hay on which the Norse economy depended, and also affect the quantities of sea ice that in turn affect seal hunting plus the possibility of ship travel for trade, both of which were important to the Vikings.
 Both the weather changes over short distances and from year to year were
 critical, as Greenland was at best marginally suitable for Norse hay production, so being at a slightly worse site or in a slightly colder-than-usual year
 could translate into not having enough hay to feed one's livestock through
@@ -8047,7 +8047,7 @@ their ever having been kept there. Although pigs found abundant nuts to eat
 in Norway's forests, and although Vikings prized pork above all other meats,
 pigs proved terribly destructive and unprofitable in lightly wooded
 Greenland, where they rooted up the fragile vegetation and soil. Within a
-short time they were reduced to low numbers or virtually eliminated. Archaeological finds of packsaddles and sledges show that horses were kept as
+short time they were reduced to low numbers or virtually eliminated. Archaeological finds of packsaddle and sledges show that horses were kept as
 work animals, but there was a Christian religious ban against eating them,
 
 so their bones rarely ended up in the garbage. Cows required far more effort
@@ -8287,7 +8287,7 @@ from the tail of a single cod, and bones of all fish species are still outnumber
 144 to 1 by mammal bones.
 
 This paucity of fish bones is incredible when one considers how abundant fish are in Greenland, and how saltwater fish (especially haddock and
-cod) are by far the largest export of modern Greenland. Trout and salmonlike char are so numerous in Greenland's rivers and lakes that, on my first
+cod) are by far the largest export of modern Greenland. Trout and salmon-like char are so numerous in Greenland's rivers and lakes that, on my first
 night in the youth hostel at Brattahlid, I shared the kitchen with a Danish
 tourist cooking two large char, each weighing two pounds and about 20
 inches long, that she had caught with her bare hands in a small pool where
@@ -9386,7 +9386,7 @@ point at the tip but three forward-facing sharp barbs lower on the dart shaft
 to hit the bird in case the tip just missed; several sealskin bladders to act as
 drags on harpooned whales or seals; and a lance for delivering the death
 blow to the harpooned animal. Unlike a battleship or any other watercraft
-known to me, the kayak was individually tailored to its paddler's size, weight,
+known to me, the kayak was individually tailored to its paddler size, weight,
 and arm strength. It was actually "worn" by its owner, and its seat was a
 sewn garment joined to the owner's parka and guaranteeing a waterproof
 seal so that ice-cold water splashing over the decks could not wet him.
@@ -9407,9 +9407,9 @@ Sherlock Holmes stories may remember from the "Adventure of Black
 Peter," in which an evil retired ship's captain is found dead in his house,
 with a harpoon that had been decorating his wall thrust clean through him.
 After spending a morning at a butcher's shop, vainly attempting himself to
-drive a harpoon through a pig's carcass, Sherlock Holmes deduces correctly
+drive a harpoon through a pig carcass, Sherlock Holmes deduces correctly
 that the murderer must have been a professional harpooner, because an untrained man no matter how strong cannot drive in a harpoon deeply. Two
-things made that possible for the Inuit: the harpoon's spear-thrower grip
+things made that possible for the Inuit: the harpoon spear-thrower grip
 that extended the throwing arc and hence increased the hunter's throwing
 force and the impact; and, as in the case of Black Peter's murderer, long
 practice. For the Inuit, though, that practice began already in childhood, resulting in Inuit men developing a condition called hyperextension of the
@@ -9419,7 +9419,7 @@ Once the harpoon head became embedded in the whale, the cleverly designed toggle
 Otherwise, if the harpooner had continued to hold a rope tied to the harpoon head and shaft, the angry whale would have dragged underwater the
 umiaq and all its Inuit occupants. Left attached to the harpoon head was an
 air-filled bladder of sealskin, whose buoyancy forced the whale to work
-harder against the bladder's resistance and to grow tired as it dived. When
+harder against the bladder resistance and to grow tired as it dived. When
 the whale surfaced to breathe, the Inuit launched another harpoon with yet
 another bladder attached, to tire the whale even more. Only when the whale
 had thus become exhausted did the hunters dare bring the umiaq alongside
@@ -9471,7 +9471,7 @@ ringed seals.
 What about relations between the Inuit and the Norse? Incredibly, during
 the centuries that those two peoples shared Greenland, Norse annals include only two or three brief references to the Inuit.
 
-The first of those three annal passages may refer to either the Inuit or
+The first of those three annals passages may refer to either the Inuit or
 else Dorset people because it describes an incident from the 11th or 12th
 century, when a Dorset population still survived in Northwest Greenland,
 and when the Inuit were just arriving. A History of Norway preserved in a
@@ -10424,7 +10424,7 @@ no longer socially acceptable as a solution. But New Guineans already
 adapted in the past to such big changes as the extinction of the Pleistocene
 megafauna, glacial melting and warming temperatures at the end of the Ice
 Ages, the development of agriculture, massive deforestation, volcanic tephra
-fallouts, El Nino events, the arrival of the sweet potato, and the arrival of
+fallout, El Nino events, the arrival of the sweet potato, and the arrival of
 Europeans. Will they now also be able to adapt to the changed conditions
 producing their current population explosion?
 
@@ -11037,7 +11037,7 @@ measures to produce more trees, as well as to protect land from erosion. Those
 measures began already in the 1600s with Japan's development of a detailed body
 of scientific knowledge about silviculture. Foresters employed both by the
 government and by private merchants observed, experimented, and published
-their findings in an outpouring of silvi-cultural journals and manuals, exemplified
+their findings in an outpouring of silviculture-cultural journals and manuals, exemplified
 by the first of Japan's great silvicultural treatises, the Nogyo zensho of 1697 by
 Miyazaki Antei. There, you will find instructions for how best to gather, extract,
 dry, store, and prepare seeds; how to prepare a seedbed by cleaning, fertilizing,
@@ -11538,12 +11538,12 @@ populated in the 19th century before European arrival, because of its twin
 advantages of moderate rainfall and an altitude too high for malaria and the
 tsetse fly. Rwanda's population subsequently grew, albeit with ups and
 downs, at an average rate of over 3% per year, for essentially the same reasons as in neighboring Kenya and Tanzania (New World crops, public
-health, medicine, and stable political borders). By 1990, even after the killings and mass exilings of the previous decades, Rwanda's average population
+health, medicine, and stable political borders). By 1990, even after the killings and mass exiles of the previous decades, Rwanda's average population
 density was 760 people per square mile, higher than that of the United
 Kingdom (610) and approaching that of Holland (950). But the United Kingdom and Holland have highly efficient mechanized agriculture, such that
 only a few percent of the population working as farmers can produce food
 for everyone else. Rwandan agriculture is much less efficient and
-unmecha-nized; farmers depend on handheld hoes, picks, and machetes;
+unmechanized-nized; farmers depend on handheld hoes, picks, and machetes;
 and most people have to remain farmers, producing little or no surplus that
 could support others.
 
@@ -12441,7 +12441,7 @@ NGOs have now become the leaders of a homegrown Dominican environmental movement
 
 Why did Balaguer push such a broad range of measures on behalf of the environment? To many of us, it is difficult to reconcile that apparently strong
 and far-sighted commitment to the environment with his repellent qualities.
-For 31 years he served under dictator Rafael Trujillo and defended Tru-jillo's
+For 31 years he served under dictator Rafael Trujillo and defended Tru-Trujillo
 massacres of Haitians in 1937. He ended up as Trujillo's puppet president,
 but he also served Trujillo in positions where he exercised influence, such as
 secretary of state. Anyone willing to work with such an evil person as
@@ -12530,7 +12530,7 @@ pro-environment actions than any other Dominican politician, or indeed
 than most modern politicians known to me in other countries.
 
 On reflection, it seems to me that the most likely interpretation of
-Bala-guer's policies is that he really did care about the environment, as he
+Bala-Balaguer policies is that he really did care about the environment, as he
 claimed. He mentioned it in almost every speech; he said that conserving
 forests, rivers, and mountains had been his dream since his childhood; and
 he stressed it in his first speeches on becoming president in 1966 and again in
@@ -12608,7 +12608,7 @@ have been heavily damaged and overfished.
 Soil loss by erosion on deforested land has been massive. There is
 concern about that erosion leading to sediment buildup in the reservoirs
 behind the dams used to generate the country's hydroelectric power.
-Salin-ization has developed in some irrigated areas, such as at the Barahona
+Salinization-ization has developed in some irrigated areas, such as at the Barahona
 Sugar Plantation.
 
 Water quality in the country's rivers is now very poor because of sediment buildup from erosion, as well as toxic pollution and waste disposal.
@@ -12842,7 +12842,7 @@ rooted tradition of antagonism on both sides, with many Dominicans viewing Haiti
 Haitians in turn suspicious of foreign meddling. Haitians and Dominicans
 cannot forget the history of cruelties that each country inflicted on the
 other. Dominicans remember Haiti's invasions of the Dominican Republic
-in the 19th century, including the 22-year occupation (forgetting that occupation's positive aspects, such as its abolition of slavery). Haitians remember
+in the 19th century, including the 22-year occupation (forgetting that occupation positive aspects, such as its abolition of slavery). Haitians remember
 Trujillo's worst single atrocity, his ordering the slaughter (by machete) of all
 20,000 Haitians living in the northwestern Dominican Republic and parts of
 the Cibao Valley between October 2 and October 8, 1937. Today, there is
@@ -12888,7 +12888,7 @@ The future
 
 is
 
-hina
+China
 the world's most populous country, with about
 1,300,000,000 people, or one-fifth of the world's total. In area it is
 the third largest country, and in plant species diversity the third
@@ -13110,7 +13110,7 @@ erosion, fertility losses, salinization, and
 desertification have joined urbanization and land appropriation for mining,
 forestry, and aquaculture in reducing China's area of cropland. That poses
 a big problem for China's food security, because at the same time as its
-cropland has been declining, its population and per-capita food consumption have been increasing, and its area of potentially cultivatable land
+cropland has been declining, its population and per-capita food consumption have been increasing, and its area of potentially cultivable land
 is limited. Cropland per person is now only one hectare, barely half of the
 world average, and nearly as low as the value for Northwest Rwanda discussed in Chapter 10. In addition, because China recycles very little trash,
 huge quantities of industrial and domestic trash are dumped into open
@@ -13496,7 +13496,7 @@ local governments rather than by upper-level officials of the SEPA itself, so
 that local governments often block enforcement of national environmental
 laws and regulations. Prices for important environmental resources are set so
 low as to encourage waste: e.g., a ton of Yellow River water for use in irrigation
-costs only between Vio and Vioo of a small bottle of spring water, thereby
+costs only between Vio and Vio of a small bottle of spring water, thereby
 removing any financial incentive for irrigation farmers to conserve water.
 Land is owned by the government and is leased by farmers, but may be
 leased to a series of different farmers within a short time span, so that
@@ -13807,7 +13807,7 @@ areas where food production is nevertheless possible, the usual pattern is
 that rainfall is higher near the coast than inland, so that as one proceeds
 inland one first encounters farmland for growing crops, plus half of
 
-Autralia's cattle maintained at high stocking rates; farther inland, sheep stations; still farther inland, cattle stations (the other half of Australia's cattle,
+Australia cattle maintained at high stocking rates; farther inland, sheep stations; still farther inland, cattle stations (the other half of Australia's cattle,
 maintained at very low stocking rates), because it remains economic to raise
 cattle in areas with lower rainfall than sheep; and finally, still farther inland,
 the desert where there is no food production of any sort.
@@ -13924,7 +13924,7 @@ The unique exception was Australia, whose immigrants for many decades
 arrived not to seek their fortunes but because they were compelled to go
 there.
 
-Britian's principal motive for settling Australia was to relieve its festering
+Britain principal motive for settling Australia was to relieve its festering
 problem of large numbers of jailed poor people, and to forestall a rebellion
 that might otherwise break out if they could not somehow be disposed of.
 In the 18th century British law prescribed the death penalty for stealing 40
@@ -14301,7 +14301,7 @@ number-one environmental problem, land degradation, resulting from a set
 of nine types of damaging environmental impacts: clearance of native vegetation, overgrazing by sheep, rabbits, soil nutrient exhaustion, soil erosion,
 
 man-made droughts, weeds, misguided government policies, and
-saliniza-tion. All of these damaging phenomena operate elsewhere in the
+salinization-tion. All of these damaging phenomena operate elsewhere in the
 world, in some cases with even greater individual impact than in Australia.
 Briefly, these impacts are as follows:
 
@@ -14320,7 +14320,7 @@ equal to the country's total motor vehicle emissions.
 A second major cause of land degradation is overstocking of sheep in
 numbers that graze down the vegetation faster than it can regrow. In some
 areas such as in parts of the Murchison District of Western Australia, overgrazing was ruinous and irreversible because it led to loss of the soil. Today,
-now that overgrazing's effects are recognized, the Australian government
+now that overgrazing effects are recognized, the Australian government
 imposes maximum stocking rates for sheep: i.e., farmers are forbidden to
 stock more than a certain number of sheep per acre on leased land. Formerly, however, the government imposed minimum stocking rates: farmers
 were obliged to stock a certain minimum number of sheep per acre as a condition of holding the lease. When sheep stocking rates first became well
@@ -14593,7 +14593,7 @@ Today, the financial yield from Australia's freshwater fisheries is trivial.
 For instance, all freshwater fisheries in the state of South Australia generate
 only $450,000 per year, divided among 30 people who fish only as a
 part-time occupation. A properly managed sustainable fishery for Murray
-Cod and Golden Perch, the Murray/Darling's other economically valuable
+Cod and Golden Perch, the Murray/Darling other economically valuable
 fish species, could surely yield far more money than that, but it is unknown
 whether damage to Murray/Darling fisheries is now irreversible.
 
@@ -14731,7 +14731,7 @@ involves changed attitudes of farmers in particular, who are increasingly
 realizing that the farming methods of the past cannot be sustained and
 wouldn't permit them to pass on their farms in good condition to their children. That prospect hurts Australian farmers, because (like the Montana
 farmers whom I interviewed for Chapter 1) it's love for the farming lifestyle,
-rather than farming's meager financial rewards, that motivates them to
+rather than farming meager financial rewards, that motivates them to
 carry on with the hard work of being farmers. Symbolic of those changed
 attitudes was a conversation that I had with sheep farmer Bill Mcintosh, the
 one whom I mentioned as having mapped, bulldozed, and dynamited the
@@ -14788,7 +14788,7 @@ largest private philanthropic organization, The Potter Foundation, which is
 expressly concerned with reversing the degradation of Australia's farmland.
 
 Under the trust's management, local volunteers at Calperum threw
-themselves into whatever projects appealed to each volunteer's own interest.
+themselves into whatever projects appealed to each volunteer own interest.
 By thus enlisting volunteers, this private initiative has been able to accomplish far more than would have been possible with the limited available government funds alone. Volunteers trained at Calperum have then gone on to
 use those skills to undertake other conservation projects elsewhere. Among
 the projects that I saw, one volunteer was devoting herself to a small endangered kangaroo species whose population she was trying to restore; another
@@ -15041,7 +15041,7 @@ With the gift of hindsight, we now view it as incredibly stupid that
 colonists would intentionally release into Australia two alien mammals that
 have caused billions of dollars in damages and expenditures to control
 them. We recognize today, from many other such examples, that introductions often prove disastrous in unexpected ways. That's why, when you go to
-Australia or the U.S. as a visitor or returning resident, one of the first questions you are now asked by immigration officers is whether you are carto reduce the risk of their escaping
+Australia or the U.S. as a visitor or returning resident, one of the first questions you are now asked by immigration officers is whether you are cart reduce the risk of their escaping
 rying any plants, seeds, or animals
 
 and becoming established. From abundant prior experience we have now
@@ -15302,7 +15302,7 @@ even though the eventual result may be the destruction of the commons and
 thus harm for all consumers.
 
 In reality, while this logic has led to many commons resources becoming
-overharvested and destroyed, others have been preserved in the face of harvesting for hundreds or even thousands of years. Unhappy outcomes inelude the overexploitation and collapse of most major marine fisheries, and
+overharvested and destroyed, others have been preserved in the face of harvesting for hundreds or even thousands of years. Unhappy outcomes include the overexploitation and collapse of most major marine fisheries, and
 the extermination of much of the megafauna (large mammals, birds, and
 reptiles) on every oceanic island or continent settled by humans for the first
 time within the last 50,000 years. Happy outcomes include the maintenance
@@ -15455,7 +15455,7 @@ capitalism led
 
 it to scorn environmental concerns as just one more capitalist error, and
 thereby to saddle China with enormous environmental problems.
-Rwan-dans' ideal of large families was appropriate in traditional times of
+Rwandans-dans' ideal of large families was appropriate in traditional times of
 high childhood mortality, but has led to a disastrous population explosion
 today. It appears to me that much of the rigid opposition to environmental
 concerns in the First World nowadays involves values acquired early in
@@ -15668,7 +15668,7 @@ with "environmental determinism," a view unpopular among social scientists. In f
 to support human societies in some environments than in others, that still
 leaves much scope for a society to save or doom itself by its own actions.
 It's a large subject why some groups (or individual leaders) followed one
-of the paths to failure discussed in this chapter, while others didn't. For instance, why did the Inca Empire succeed in reafforesting its dry cool environment, while the Easter Islanders and Greenland Norse didn't? The
+of the paths to failure discussed in this chapter, while others didn't. For instance, why did the Inca Empire succeed in reafforestation its dry cool environment, while the Easter Islanders and Greenland Norse didn't? The
 
 answer partly depends on idiosyncrasies of particular individuals and will
 defy prediction. But I still hope that better understanding of the potential
@@ -15679,7 +15679,7 @@ A striking example of such understanding being put to good use is provided by th
 involving Cuba and the U.S., by President Kennedy and his advisors. In
 early 1961 they fell into poor group decision-making practices that led to
 their disastrous decision to launch the Bay of Pigs invasion, which failed
-ig-nominiously, leading to the much more dangerous Cuban Missile Crisis.
+ig-ignominiously, leading to the much more dangerous Cuban Missile Crisis.
 As Irving Janis pointed out in his book Groupthink, the Bay of Pigs
 deliberations exhibited numerous characteristics that tend to lead to bad
 decisions, such as a premature sense of ostensible unanimity, suppression
@@ -17331,7 +17331,7 @@ has the power to make destructive environmental policies unprofitable and
 illegal, and to make sustainable environmental policies profitable. The public
 can do that by suing businesses for harming them, as happened after the
 Exxon Valdez, Piper Alpha, and Bhopal disasters; by preferring to buy
-sus-tainably harvested products, a preference that caught the attention of
+sus-sustainably harvested products, a preference that caught the attention of
 Home Depot and Unilever; by making employees of companies with poor
 track records feel ashamed of their company and complain to their own
 management; by preferring their governments to' award valuable contracts
@@ -17620,7 +17620,7 @@ recurring damages of hundreds of millions of dollars or even billions of
 dollars. Modern examples include Australia's rabbits and foxes, agricultural
 weeds like Spotted Knapweed and Leafy Spurge (Chapter 1), pests and
 pathogens of trees and crops and livestock (like the blights that wiped out
-American chestnut trees and devasted American elms), the water hyacinth
+American chestnut trees and devastated American elms), the water hyacinth
 that chokes waterways, the zebra mussels that choke power plants, and the
 lampreys that devastated the former commercial fisheries of the North
 American Great Lakes (Plates 30, 31). Ancient examples include the introduced rats that contributed to the extinction of Easter Island's palm tree by
@@ -17773,7 +17773,7 @@ more demand for wild fish, etc. The energy problem is linked to other problems b
 gases, the combating of soil fertility losses by using synthetic fertilizers requires energy to make the fertilizers, fossil fuel scarcity increases our interest
 in nuclear energy which poses potentially the biggest "toxic" problem of all in
 case of an accident, and fossil fuel scarcity also makes it more expensive to
-solve our freshwater problems by using energy to desalinize ocean
+solve our freshwater problems by using energy to desalinate ocean
 
 water. Depletion of fisheries and other wild food sources puts more pressure
 on livestock, crops, and aquaculture to replace them, thereby leading to more
@@ -17820,7 +17820,7 @@ prehistoric Easter Island and Mangareva and among the ancient Anasazi;
 starvation in many modern African countries and on prehistoric Easter Island; the AIDS epidemic already in Africa, and incipiently elsewhere; and
 the collapse of state government in modern Somalia, the Solomon Islands,
 and Haiti, and among the ancient Maya. An outcome less drastic than a
-worldwide collapse might "merely" be the spread of Rwanda-like or Haitilike conditions to many more developing countries, while we First World
+worldwide collapse might "merely" be the spread of Rwanda-like or Haitian conditions to many more developing countries, while we First World
 inhabitants retain many of our First World amenities but face a future with
 which we are unhappy, beset by more chronic terrorism, wars, and disease
 outbreaks. But it is doubtful that the First World could retain its separate
@@ -18054,7 +18054,7 @@ technological solutions, two must suffice: CFCs (chlorofluorocarbons) and
 motor vehicles. The coolant gases formerly used in refrigerators and air
 conditioners were toxic ones (like ammonia) that could prove fatal if those
 appliances leaked while the homeowner was asleep at night. Hence it was
-hailed as a great advance when CFCs (alias freons) were developed as synthetic refrigerant gases. They are odorless, non-toxic, and highly stable under
+hailed as a great advance when CFCs (alias freon) were developed as synthetic refrigerant gases. They are odorless, non-toxic, and highly stable under
 ordinary conditions at the Earth's surface, so that initially no bad side
 effects were observed or expected. Within a short time they became viewed
 as miracle substances and adopted throughout the world as refrigerator and
@@ -18532,7 +18532,7 @@ and pesticides reported for any people in the world are for Eastern Greenland's
 and Siberia's Inuit people (Eskimos), who are also among the most remote from
 sites of chemical manufacture or heavy use. Their blood mercury levels are
 nevertheless in the range associated with acute mercury poisoning, while the
-levels of toxic PCBs (polychlorinated bi-phenyls) in Inuit mothers' breast milk
+levels of toxic PCBs (polychlorinated bi-biphenyls) in Inuit mothers' breast milk
 fall in a range high enough to classify the milk as "hazardous waste." Effects on
 the women's babies include hearing loss, altered brain development, and
 suppressed immune function, hence high rates of ear and respiratory infections.
@@ -18710,7 +18710,7 @@ NGOs, business, and government. Among past societies faced with the
 prospect of ruinous deforestation, Easter Island and Mangareva chiefs
 
 succumbed to their immediate concerns, but Tokugawa shoguns, Inca emperors, New Guinea highlanders, and 16th-century German landowners
-adopted a long view and reafforested. China's leaders similarly promoted
+adopted a long view and reforested. China's leaders similarly promoted
 reafforestation in recent decades and banned logging of native forests in
 1998. Today, many NGOs exist specifically for the purpose of promoting
 sane long-term environmental policies. In the business world the American
@@ -18756,7 +18756,7 @@ The people of Finland, faced with an ultimatum by their vastly more
 powerful Russian neighbor in 1939, chose to value their freedom over their
 lives, fought with a courage that astonished the world, and won their gamble,
 even while losing the war. While I was living in Britain from 1958 to 1962,
-the British people were coming to terms with the outdatedness of cherished
+the British people were coming to terms with the outdated of cherished
 long-held values based on Britain's former role as the world's dominant
 political, economic, and naval power. The French, Germans, and other
 European countries have advanced even further in subordinating to the
@@ -18797,7 +18797,7 @@ their overpopulated island for agricultural plantations in the 1400s, they
 had no way of knowing that, thousands of miles to the east and west at the
 same time, Greenland Norse society and the Khmer Empire were simultaneously in terminal decline, while the Anasazi had collapsed a few centuries
 earlier, Classic Maya society a few more centuries before that, and
-Myce-nean Greece 2,000 years before that. Today, though, we turn on our
+Mycenaean-Mycenaean Greece 2,000 years before that. Today, though, we turn on our
 television sets or radios or pick up our newspapers, and we see, hear, or read
 about what happened in Somalia or Afghanistan a few hours earlier. Our
 television documentaries and books show us in graphic detail why the
@@ -19062,7 +19062,7 @@ Cristino, Patricia Vargas et al., eds., First International Congress, Easter Isl
 East Polynesia, vol. 1 Archaeology (Santiago: University of Chile, 1988); Patricia
 Vargas Casanova, ed., Easter Island and East Polynesia Prehistory (Santiago: University of Chile, 1998); and Christopher Stevenson and William Ayres, eds., Easter Island Archaeology: Research on Early Rapanui Culture (Los Osos, Calif.: Easter Island
 Foundation, 2000). A summary of the history of cultural contacts is to be found in
-Claudio Cristino et al. Isla de Pascua: Procesos, Alcances y Efectos de la Aculturacion
+Claudio Cristino et al. Isla de Pascua: Procesos, Alcances y Efectos de la Aculturación
 (Easter Island: University of Chile, 1984).
 
 David Steadman reports his identification of bird bones and other remains excavated at Anakena Beach in three papers: "Extinctions of birds in Eastern Polynesia:
@@ -19081,8 +19081,8 @@ Dransfield et al, "A recently extinct palm from Easter Island" (Nature 312:750-7
 (1984)), and J. R. Flenley et al.,"The Late Quaternary vegetational and climatic
 history of Easter Island" (Journal of Quaternary Science 6:85-115 (1991)). Catherine
 Orliac's identifications are reported in a paper in the above-cited edited volume by
-Stevenson and Ayres, and in "Donnees nouvelles sur la composition de la flore de
-Pile de Paques" (Journal de la Societe des Oceanistes 2:23-31 (1998)). Among the
+Stevenson and Ayres, and in "Données nouvelles sur la composition de la flore de
+Pile de Pâques" (Journal de la Societe des Oceanistes 2:23-31 (1998)). Among the
 papers resulting from the archaeological surveys by Claudio Cristino and his
 colleagues are Christopher Stevenson and Claudio Cristino, "Residential settlement
 history of the Rapa Nui coastal plain (Journal of New World Archaeology 7:29-38
@@ -19107,7 +19107,7 @@ environmental resources by prehistoric land use on Poike Peninsula, Easter Islan
 on the Poike Peninsula. Karsten Haase et al., "The petrogenetic evolution of lavas
 from Easter Island and neighboring seamounts, near-ridge hotspot volcanoes in the
 S.E. Pacific" (Journal of Petrology 38:785-813 (1997)) analyze the dates and
-chemical compositions of Easter's volcanoes. Erika Hagelberg et al., "DNA from andent Easter Islanders" (Nature 369:25-26 (1994)) analyze DNA extracted from 12
+chemical compositions of Easter's volcanoes. Erika Hagelberg et al., "DNA from ancient Easter Islanders" (Nature 369:25-26 (1994)) analyze DNA extracted from 12
 Easter Island skeletons. James Brander and M. Scott Taylor, "The simple economics
 of Easter Island: a Ricardo-Malthus model of renewable resource use" (American
 Economic Review 38:119-138 (1998)) give an economist's view of overexploitation
@@ -19263,7 +19263,7 @@ Precolumbian Americas (New York: Columbia University Press, 2000) contains sever
 societies.
 
 Books summarizing the rises and falls of specific cities include David Webster,
-AnnCorinne Freter, and Nancy Gonlin, Copdn: The Rise and Fall of an Ancient
+Ann Corinne Freter, and Nancy Gonlin, Copán: The Rise and Fall of an Ancient
 Maya Kingdom (Fort Worth: Harcourt Brace, 2000); Peter Harrison, The Lords of
 Tikal (New York: Thames and Hudson, 1999); Stephen Houston, Hieroglyphs and
 History at Dos Pilas (Austin: University of Texas Press, 1993); and M. P. Dunning,
@@ -19685,7 +19685,7 @@ yMaestra, 1985).
 
 Three books by Mats Lundahl will serve as an introduction into the literature
 on Haiti: Peasants and Poverty: A Study of Haiti (London: Croom Helm, 1979); The
-Haitian Economy: Man, Land, and Markets (London: Croom Helm, 1983); and Politics or Markets? Essays on Haitian Undervelopment (London: Routledge, 1992). The
+Haitian Economy: Man, Land, and Markets (London: Croom Helm, 1983); and Politics or Markets? Essays on Haitian Underdevelopment (London: Routledge, 1992). The
 classic study of the Haitian revolution of 1781-1803 is C.L.R. James, The Black Jacobins, 2nd ed. (London: Vintage, 1963).
 
 The standard English-language history of the Dominican Republic is Frank
@@ -19706,7 +19706,7 @@ Development: The Methods of Control in Trujillo's Dominican Republic (Gainesvill
 University of Florida Press, 1968) and the more recent Richard Lee Turits, Foundations of Despotism: Peasants, the Trujillo Regime, and Modernity in Dominican History (Palo Alto, Calif.: Stanford University Press, 2002).
 
 A manuscript tracing the history of environmental policies in the Dominican
-Republic, hence especially relevant to this chapter, is Walter Cordero, "Introduction: bibliografia sobre medio ambiente y recursos naturales en la Republica
+Republic, hence especially relevant to this chapter, is Walter Cordero, "Introduction: bibliografía sobre medio ambiente y recursos naturales en la Republica
 Do-minicana" (2003).
 
 Chapter 12
@@ -19780,7 +19780,7 @@ more recent articles include Elinor Ostrom, "Coping with tragedies of the common
 the commons" Science 302:1907-1912 (2003).
 
 Barbara Tuchman, The March of Folly: From Troy to Vietnam (New York:
-Bal-lantine Books, 1984) covers disastrous decisions over exactly the time span that
+Bal-Ballantine Books, 1984) covers disastrous decisions over exactly the time span that
 she names in the book's title, also reflecting en route from Troy to Vietnam on the
 follies of the Aztec emperor Montezuma, the fall of Christian Spain to the Moslems,
 England's provocation of the American Revolution, and other such self-destructive
@@ -19845,7 +19845,7 @@ John Perlin, A Forest Journey: The Role of Wood in the Development of Civilizati
 Prehistory to Global Crisis (Chicago: University of Chicago Press, 2003).
 
 Information about fisheries certification may be obtained from the Web site of
-the Marine Stewardschip Council: www.msc.org. Howard M. Johnson (Web site
+the Marine Stewardship Council: www.msc.org. Howard M. Johnson (Web site
 www.hmj.com) produces a series called Annual Report on the United States Seafood
 Industry (Jacksonville, Ore.: Howard Johnson, annually). Aquaculture of shrimp
 and salmon is treated in two chapters of Jason Clay, World Agriculture and the Environment: A Commodity-by-Commodity Guide to Impacts and Practices (Washington,
@@ -19859,7 +19859,7 @@ Ocean (Washington, D.C.: Island Press, 2003). An example of an article on
 
 overfishing is: Jeremy Jackson et al, "Historical overfishing and the recent collapse
 of coastal ecosystems" {Science 293:629-638 (2001)). The discovery that
-aquacul-tured salmon contain higher concentrations of toxic contaminates than do
+aquaculture-tured salmon contain higher concentrations of toxic contaminates than do
 wild salmon was reported by Ronald Hits et al, "Global assessment of organic
 contaminates in farmed salmon" (Science 303:226-229: 2004).
 
@@ -19909,7 +19909,7 @@ change, human impacts, and the resilience of coral reefs" {Science 301:929-933
 reef ecosystems" {Science 301:955-958 (2003)); and D. R. Bellwood et al, "Confronting the coral reef crisis" {Nature 429:827-833 (2004)).
 
 Books on soil problems include the classic Vernon Gill Carter and Tom Dale,
-Topsoil and Civilization, revised ed. (Norman: University of Okalahoma Press,
+Topsoil and Civilization, revised ed. (Norman: University of Oklahoma Press,
 1974), and Keith Wiebe, ed., Land Quality, Agricultural Productivity, and Food Security:
 Biophysical Processes and Economic Choices at Local, Regional, and Global Levels
 (Cheltenham, UK: Edward Elgar, 2003). Articles offering different perspectives on

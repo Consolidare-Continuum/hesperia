@@ -187,7 +187,7 @@ of	Star	Wars,	George	Lucas	hired	me	to	help	him	bring	high	technology	into	the	f
 But	 he	 wasn't	 based	 in	 Los	 Angeles.	 Instead,	 he'd	 founded	 his	 company,	 Lucasfilm,	 at	 the
 north	end	of	the	San	Francisco	Bay.	Our	offices	were	located	in	San	Rafael,	about	an	hour's
 drive	 from	 Palo	 Alto,	 the	 heart	 of	 Silicon	 Valley—a	 moniker	 that	 was	 just	 gaining	 traction
-then,	as	the	semiconductor	and	computer	industries	took	off.	That	proximity	gave	me	a	frontrow	seat	from	which	to	observe	the	many	emerging	hardware	and	software	companies—not
+then,	as	the	semiconductor	and	computer	industries	took	off.	That	proximity	gave	me	a	front row	seat	from	which	to	observe	the	many	emerging	hardware	and	software	companies—not
 to	 mention	 the	 growing	 venture	 capital	 industry—that,	 in	 the	 course	 of	 a	 few	 years,	 would
 come	to	dominate	Silicon	Valley	from	its	perch	on	Sand	Hill	Road.
 
@@ -206,7 +206,7 @@ magazine,	they	were	heralded	as	"Titans	of	the	New."	I	especially	remember	the	c
 The	 leaders	 of	 these	 companies	 radiated	 supreme	 confidence.	 Surely,	 they	 could	 only	 have
 reached	this	apex	by	being	very,	very	good.
 
-But	then	those	companies	did	something	stupid—not	just	stupid-in-retrospect,	but	obviousat-the-time	 stupid.	 I	 wanted	 to	 understand	 why.	 What	 was	 causing	 smart	 people	 to	 make
+But	then	those	companies	did	something	stupid—not	just	stupid-in-retrospect,	but	obvious at-the-time	 stupid.	 I	 wanted	 to	 understand	 why.	 What	 was	 causing	 smart	 people	 to	 make
 decisions	 that	 sent	 their	 companies	 off	 the	 rails?	 I	 didn't	 doubt	 that	 they	 believed	 they	 were
 doing	the	right	thing,	but	something	was	blinding	them—and	keeping	them	from	seeing	the
 problems	that	threatened	to	upend	them.	As	a	result,	their	companies	expanded	like	bubbles,
@@ -401,7 +401,7 @@ the	 new.	 He	 brought	 things	 into	 being—both	 artistically	 and	 technolog
 exist	before.	Einstein,	by	contrast,	was	a	master	of	explaining	that	which	already	was.	I	read
 every	 Einstein	 biography	 I	 could	 get	 my	 hands	 on	 as	 well	 as	 a	 little	 book	 he	 wrote	 on	 his
 theory	 of	 relativity.	 I	 loved	 how	 the	 concepts	 he	 developed	 forced	 people	 to	 change	 their
-approach	 to	 physics	 and	 matter,	 to	 view	 the	 universe	 from	 a	 different	 perspective.	 Wildhaired	and	iconic,	Einstein	dared	to	bend	the	implications	of	what	we	thought	we	knew.	He
+approach	 to	 physics	 and	 matter,	 to	 view	 the	 universe	 from	 a	 different	 perspective.	 Wild-haired	and	iconic,	Einstein	dared	to	bend	the	implications	of	what	we	thought	we	knew.	He
 solved	the	biggest	puzzles	of	all	and,	in	doing	so,	changed	our	understanding	of	reality.
 
 Both	Einstein	and	Disney	inspired	me,	but	Disney	affected	me	more	because	of	his	weekly
@@ -497,7 +497,7 @@ often	become	so	lost	in	my	work	that	I	wouldn't	hear	the	bell	ring	at	the	end	of
 sitting	there,	at	my	desk,	staring	at	an	object—a	vase,	say,	or	a	chair.	Something	about	the	act
 of	committing	that	object	to	paper	was	completely	engrossing—the	way	it	necessitated	seeing
 only	what	was	there	and	shutting	out	the	distraction	of	my	ideas	about	chairs	or	vases	and
-what	they	were	supposed	to	look	like.	At	home,	I	sent	away	for	Jon	Gnagy's	Learn	to	Draw	art
+what	they	were	supposed	to	look	like.	At	home,	I	sent	away	for	Jon	Gnagy	Learn	to	Draw	art
 kits—which	 were	 advertised	 in	 the	 back	 of	 comic	 books—and	 the	 1948	 classic	 Animation,
 written	and	drawn	by	Preston	Blair,	the	animator	of	the	dancing	hippos	in	Disney's	Fantasia.	I
 bought	a	platen—the	flat	metal	plate	artists	use	to	press	paper	against	ink—and	even	built	a
@@ -559,7 +559,7 @@ at	 the	 Stanford	 Research	 Institute,	 UCLA,	 UC	 Santa	 Barbara,	 and	 the	 U
 ringside	 seat	 from	 which	 to	 observe	 this	 grand	 experiment,	 and	 what	 I	 saw	 influenced	 me
 profoundly.	ARPA's	mandate—to	support	smart	people	in	a	variety	of	areas—was	carried	out
 based	on	the	unwavering	presumption	that	researchers	would	try	to	do	the	right	thing	and,	in
-ARPA's	 view,	 overmanaging	 them	 was	 counterproductive.	 ARPA's	 administrators	 did	 not
+ARPA's	 view,	 over-managing	 them	 was	 counterproductive.	 ARPA's	 administrators	 did	 not
 hover	 over	 the	 shoulders	 of	 those	 of	 us	 working	 on	 the	 projects	 they	 funded,	 nor	 did	 they
 demand	that	our	work	have	direct	military	applications.	They	simply	trusted	us	to	innovate.
 
@@ -578,7 +578,7 @@ but	with	a	computer,	and	to	make	the	images	compelling	and	beautiful	enough	to	u
 movies.	Perhaps,	I	thought,	I	could	become	an	animator	after	all.
 
 In	 the	 spring	 of	 1972,	 I	 spent	 ten	 weeks	 making	 my	 first	 short	 animated	 film—a	 digitized
-model	of	my	left	hand.	My	process	combined	old	and	new;	again,	like	everyone	in	this	fastchanging	 field,	 I	 was	 helping	 to	 invent	 the	 language.	 First	 I	 plunged	 my	 hand	 into	 a	 tub	 of
+model	of	my	left	hand.	My	process	combined	old	and	new;	again,	like	everyone	in	this	fast-changing	 field,	 I	 was	 helping	 to	 invent	 the	 language.	 First	 I	 plunged	 my	 hand	 into	 a	 tub	 of
 
 plaster	 of	 Paris	 (forgetting,	 unfortunately,	 to	 coat	 it	 in	 Vaseline	 first,	 which	 meant	 I	 had	 to
 yank	out	every	tiny	hair	on	the	back	of	my	hand	to	get	it	free);	then,	once	I	had	the	mold,	I
@@ -685,7 +685,7 @@ how	 to	 color	 and	 display	 each	 tiny	 piece—which	 we	 could	 then	 put	 t
 shiny,	red	bottle.	(As	I've	noted,	computer	memory	capacity	was	quite	small	in	those	days,	so
 we	 put	 a	 lot	 of	 energy	 into	 developing	 tricks	 to	 overcome	 that	 limitation.	 This	 was	 one	 of
 those	 tricks.)	 But	 what	 if	 you	 wanted	 that	 shiny,	 red	 bottle	 to	 be	 zebra-striped?	 In	 my
-dissertation,	I	figured	out	a	way	that	I	could	take	a	zebra-print	or	woodgrain	pattern,	say,	and
+dissertation,	I	figured	out	a	way	that	I	could	take	a	zebra-print	or	wood grain	pattern,	say,	and
 wrap	it	around	any	object.
 
 "Texture	 mapping,"	 as	 I	 called	 it,	 was	 like	 having	 stretchable	 wrapping	 paper	 that	 you
@@ -788,7 +788,7 @@ sensibility	to	make	a	film,	and	when	it	was	finally	released,	it	vanished	withou
 Deluded	 though	 he	 may	 have	 been	 about	 his	 own	 skills,	 Alex	 was	 a	 visionary.	 He	 was
 incredibly	prescient	about	the	role	computers	would	someday	play	in	animation,	and	he	was
 willing	 to	 spend	 a	 lot	 of	 his	 own	 money	 to	 push	 that	 vision	 forward.	 His	 unwavering
-commitment	to	what	many	labeled	a	pipe	dream—the	melding	of	technology	and	this	handdrawn	art	form—enabled	much	groundbreaking	work	to	be	done.
+commitment	to	what	many	labeled	a	pipe	dream—the	melding	of	technology	and	this	hand-drawn	art	form—enabled	much	groundbreaking	work	to	be	done.
 
 Once	Alex	brought	me	in,	he	left	it	to	me	to	assemble	a	team.	I	have	to	give	that	to	him:	He
 had	total	confidence	in	the	people	he	hired.	This	was	something	I	admired	and,	later,	sought
@@ -834,7 +834,7 @@ of	 which	 was	 aimed	 at	 figuring	 out	 how	 to	 integrate	 the	 computer	 wit
 animation.
 
 In	 1977,	 for	 example,	 I	 wrote	 a	 2D	 animation	 program	 called	 Tween,	 which	 performed
-what's	known	as	"automatic	in-betweening"—filling	in	frames	of	motion	between	key	shots,
+what's	known	as	"automatic	in-in-betweening"—filling	in	frames	of	motion	between	key	shots,
 an	 otherwise	 expensive	 and	 labor-intensive	 process.	 Another	 technical	 challenge	 that
 occupied	us	was	the	need	for	something	called	"motion	blur."	With	animation	in	general	and
 computer	 animation	 in	 particular,	 the	 images	 created	 are	 in	 perfect	 focus.	 That	 may	 sound
@@ -1048,7 +1048,7 @@ that	promised	insight	on	the	topic	were	mostly	devoid	of	content.	So	I	looked	to
 how	he	did	it.	I	saw	that	his	way	seemed	to	reflect	some	of	the	philosophy	he	had	put	into
 Yoda.	Just	as	Yoda	said	things	like,	"Do,	or	do	not.	There	is	no	try,"	George	had	a	fondness
 for	folksy	analogies	that	sought	to	describe,	neatly,	the	mess	of	life.	He	would	compare	the
-often	arduous	process	of	developing	his	4,700-acre	Skywalker	Ranch	compound	(a	minicity	of
+often	arduous	process	of	developing	his	4,700-acre	Skywalker	Ranch	compound	(a	mini-city	of
 residences	 and	 production	 facilities)	 to	 a	 ship	 going	 down	 river	 …	 that	 had	 been	 cut	 in
 half	 …	 and	 whose	 captain	 had	 been	 thrown	 overboard.	 "We're	 still	 going	 to	 get	 there,"	 he
 would	say.	"Grab	the	paddles	and	let's	keep	going!"
@@ -1071,7 +1071,7 @@ the	industry	he	loved.	He	bet	on	himself—and	won.
 
 Lucasfilm,	in	those	post–Star	Wars	days,	was	a	magnet	for	big	names.	Famous	directors,	from
 Steven	Spielberg	to	Martin	Scorsese,	were	always	stopping	by	to	see	what	we	were	working
-on	and	what	new	effects	or	innovations	they	might	use	in	their	films.	But	more	than	the	dropins	from	A-listers,	the	visit	that	would	stick	with	me	most	was	the	group	of	Disney	animators
+on	and	what	new	effects	or	innovations	they	might	use	in	their	films.	But	more	than	the	drop-ins	from	A-listers,	the	visit	that	would	stick	with	me	most	was	the	group	of	Disney	animators
 who	came	for	a	tour	just	after	Valentine's	Day,	1983.	As	I	showed	them	around,	I	noted	that
 one	of	them—a	kid	in	baggy	jeans	named	John—seemed	particularly	excited	about	what	we
 were	 up	 to.	 In	 fact,	 the	 first	 thing	 I	 noticed	 was	 his	 curiosity.	 When	 I	 showed	 everyone	 a
@@ -1172,7 +1172,7 @@ Tuesday	 of	 conference	 week	 was	 reserved	 for	 "movie	 night,"	 with	 a	 sho
 exciting	visual	work	produced	in	the	field	that	year.	Up	until	then,	that	had	meant	mostly	15-
 second	 snippets	 of	 flying	 network	 news	 logos	 (think	 spinning	 globes	 and	 rippling	 American
 flags)	and	scientific	visualization	(everything	from	the	NASA's	Voyager	2	fly-by	of	Saturn	to
-illustrations	of	Contac	time-release	cold	capsules).	Wally	B.	would	be	the	first	computerized
+illustrations	of	Contact	time-release	cold	capsules).	Wally	B.	would	be	the	first	computerized
 character	animation	ever	shown	at	SIGGRAPH.
 
 As	the	deadline	approached,	however,	we	realized	that	we	weren't	going	to	make	it.	We'd
@@ -1410,7 +1410,7 @@ so.	We	had	no	sales	people	and	no	marketing	people	and	no	idea	where	to	find	the
 Alvy	 Ray	 Smith,	 John	 Lasseter,	 me—none	 of	 us	 knew	 the	 first	 thing	 about	 how	 to	 run	 the
 kind	of	business	we	had	just	started.	We	were	drowning.
 
-While	I	was	used	to	working	within	a	budget,	I	had	never	been	responsible	for	a	profit-andloss	statement.	I	knew	nothing	about	how	to	manage	inventory,	how	to	ensure	quality,	or	any
+While	I	was	used	to	working	within	a	budget,	I	had	never	been	responsible	for	a	profit-profit-and-loss	statement.	I	knew	nothing	about	how	to	manage	inventory,	how	to	ensure	quality,	or	any
 of	 the	 other	 things	 that	 a	 company	 purporting	 to	 sell	 products	 must	 master.	 Not	 knowing
 where	else	to	turn,	I	remember	buying	a	copy	of	Dick	Levin's	Buy	Low,	Sell	High,	Collect	Early,
 and	 Pay	 Late:	 The	 Manager's	 Guide	 to	 Financial	 Survival,	 a	 popular	 business	 title	 at	 the	 time,
@@ -1420,7 +1420,7 @@ I	read	many	such	books	as	I	set	about	trying	to	become	a	better,	more	effective	
 Most,	 I	 found,	 trafficked	 in	 a	 kind	 of	 simplicity	 that	 seemed	 harmful	 in	 that	 it	 offered	 false
 reassurance.	 These	 books	 were	 stocked	 with	 catchy	 phrases	 like	 "Dare	 to	 fail!"	 or	 "Follow
 people	and	people	will	follow	you!"	or	"Focus,	focus,	focus!"	(This	last	one	was	a	particular
-favorite	piece	of	nonadvice.	When	people	hear	it,	they	nod	their	heads	in	agreement	as	if	a
+favorite	piece	of	non-advice.	When	people	hear	it,	they	nod	their	heads	in	agreement	as	if	a
 great	truth	has	been	presented,	not	realizing	that	they've	been	diverted	from	addressing	the
 far	harder	problem:	deciding	what	it	is	that	they	should	be	focusing	on.	There	is	nothing	in
 this	advice	that	gives	you	any	idea	how	to	figure	out	where	the	focus	should	be,	or	how	to
@@ -1510,7 +1510,7 @@ appliances	to	furniture	to	electronics,	followed	Ford's	lead.
 The	 mantra	 of	 mass	 production	 became:	 Keep	 the	 assembly	 line	 going,	 no	 matter	 what,
 because	that	was	how	you	kept	efficiency	up	and	costs	down.	Lost	time	meant	lost	money.	If
 a	 particular	 product	 in	 the	 chain	 was	 faulty,	 you	 pulled	 it	 off	 immediately,	 but	 you	 always
-kept	the	line	rolling.	To	make	sure	the	rest	of	the	products	were	okay,	you	relied	on	qualitycontrol	inspectors.	Hierarchy	prevailed.	Only	upper	managers	were	given	the	authority	to	halt
+kept	the	line	rolling.	To	make	sure	the	rest	of	the	products	were	okay,	you	relied	on	quality control	inspectors.	Hierarchy	prevailed.	Only	upper	managers	were	given	the	authority	to	halt
 the	line.
 
 But	in	1947,	an	American	working	in	Japan	turned	that	thinking	on	its	head.	His	name	was
@@ -1856,7 +1856,7 @@ films.	Production	managers	are	the	people	who	keep	track	of	the	endless	details	
 that	 a	 movie	 is	 delivered	 on	 time	 and	 on	 budget.	 They	 monitor	 the	 overall	 progress	 of	 the
 crew;	they	keep	track	of	the	thousands	of	shots;	they	evaluate	how	resources	are	being	used;
 they	 persuade	 and	 cajole	 and	 nudge	 and	 say	 no	 when	 necessary.	 In	 other	 words,	 they	 do
-something	essential	for	a	company	whose	success	relies	on	hitting	deadlines	and	staying	onbudget:	They	manage	people	and	safeguard	the	process.
+something	essential	for	a	company	whose	success	relies	on	hitting	deadlines	and	staying	on-budget:	They	manage	people	and	safeguard	the	process.
 
 If	 there	 was	 one	 thing	 we	 prided	 ourselves	 on	 at	 Pixar,	 it	 was	 making	 sure	 that	 Pixar's
 artists	and	technical	people	treated	each	other	as	equals,	and	I	had	assumed	that	that	same
@@ -2003,7 +2003,7 @@ ran	counter	to	what	we	believed	in.	We	didn't	know	how	to	aim	low.	We	had	nothin
 the	direct-to-video	model,	in	theory;	Disney	was	doing	it	and	making	heaps	of	money.	We	just
 couldn't	 figure	 out	 how	 to	 go	 about	 it	 without	 sacrificing	 quality.	 What's	 more,	 it	 soon
 became	clear	that	scaling	back	our	expectations	to	make	a	direct-to-video	product	was	having
-a	negative	impact	on	our	internal	culture,	in	that	it	created	an	A-team	(A	Bug's	Life)	and	a	Bteam	(Toy	Story	2).	The	crew	assigned	to	work	on	Toy	Story	2	was	not	interested	in	producing
+a	negative	impact	on	our	internal	culture,	in	that	it	created	an	A-team	(A	Bug's	Life)	and	a	B-Team	(Toy	Story	2).	The	crew	assigned	to	work	on	Toy	Story	2	was	not	interested	in	producing
 B-level	work,	and	more	than	a	few	came	into	my	office	to	say	so.	It	would	have	been	foolish
 to	ignore	their	passion.
 
@@ -3063,7 +3063,7 @@ For	most	of	us,	failure	comes	with	baggage—a	lot	of	baggage—that	I	believe	i
 back	 to	 our	 days	 in	 school.	 From	 a	 very	 early	 age,	 the	 message	 is	 drilled	 into	 our	 heads:
 Failure	is	bad;	failure	means	you	didn't	study	or	prepare;	failure	means	you	slacked	off	or—
 worse!—aren't	smart	enough	to	begin	with.	Thus,	failure	is	something	to	be	ashamed	of.	This
-perception	lives	on	long	into	adulthood,	even	in	people	who	have	learned	to	parrot	the	oftrepeated	 arguments	 about	 the	 upside	 of	 failure.	 How	 many	 articles	 have	 you	 read	 on	 that
+perception	lives	on	long	into	adulthood,	even	in	people	who	have	learned	to	parrot	the	oft-repeated	 arguments	 about	 the	 upside	 of	 failure.	 How	 many	 articles	 have	 you	 read	 on	 that
 topic	 alone?	 And	 yet,	 even	 as	 they	 nod	 their	 heads	 in	 agreement,	 many	 readers	 of	 those
 articles	 still	 have	 the	 emotional	 reaction	 that	 they	 had	 as	 children.	 They	 just	 can't	 help	 it:
 That	 early	 experience	 of	 shame	 is	 too	 deep-seated	 to	 erase.	 All	 the	 time	 in	 my	 work,	 I	 see
@@ -4143,7 +4143,7 @@ Moreover,	it	is	precisely	because	of	the	inevitability	of	change	that	people	fig
 to	 what	 they	 know.	 Unfortunately,	 we	 often	 have	 little	 ability	 to	 distinguish	 between	 what
 works	and	is	worth	hanging	on	to	and	what	is	holding	us	back	and	worth	discarding.	If	you
 polled	the	employees	of	any	creative	company,	my	guess	is	that	the	vast	majority	would	say
-they	 believe	 in	 change.	 But	 my	 experience,	 postmerger,	 taught	 me	 something	 else:	 Fear	 of
+they	 believe	 in	 change.	 But	 my	 experience,	 post-merger,	 taught	 me	 something	 else:	 Fear	 of
 change—innate,	 stubborn,	 and	 resistant	 to	 reason—is	 a	 powerful	 force.	 In	 many	 ways,	 it
 reminded	me	of	Musical	Chairs:	We	cling	as	long	as	possible	to	the	perceived	"safe"	place	that
 we	already	know,	refusing	to	loosen	our	grip	until	we	feel	sure	another	safe	place	awaits.
@@ -4786,7 +4786,7 @@ rank.	 This	 isn't	 entirely	 fair,	 of	 course,	 and	 I've	 worked	 in	 some	 h
 "hierarchical"	environments	that	inspired	top-notch	work	and	a	healthy	interchange	between
 colleagues.
 
-At	the	same	time,	there	are	some	hierarchal	environments	that	are	a	nightmare.
+At	the	same	time,	there	are	some	hierarchical	environments	that	are	a	nightmare.
 Here's	 what	 turns	 a	 successful	 hierarchy	 into	 one	 that	 impedes	 progress:	 when	 too	 many
 people	begin,	subconsciously,	to	equate	their	own	value	and	that	of	others	with	where	they
 fall	in	the	pecking	order.	Thus,	they	focus	their	energies	on	managing	upward	while	treating
@@ -4963,7 +4963,7 @@ people's	 memories	 and	 examine	 our	 own	 limited	 records	 to	 come	 up	 with
 Even	then,	it	is	still	only	a	model—not	reality.
 
 In	chapter	5,	 I	 took	 you	 into	 a	 meeting	 where	 the	 Braintrust	 was	 discussing	 The	Untitled
-Pixar	 Movie	 That	 Takes	 You	 Inside	 the	 Mind,	 Pete	 Docter's	 ambitious	 film	 that	 would
+Pixar	 Movie	 That	 Takes	 You	 Inside	 the	 Mind,	 Pete	 Docter	 ambitious	 film	 that	 would
 eventually	become	known	as	Inside	Out.	During	the	intensive	research	phase	of	the	film,	Pete
 was	surprised	to	hear	from	a	neuroscientist	that	only	about	40	percent	of	what	we	think	we
 "see"	 comes	 in	 through	 our	 eyes.	 "The	 rest	 is	 made	 up	 from	 memory	 or	 patterns	 that	 we
@@ -5390,14 +5390,14 @@ urging,	when	Pixar	was	prepping	a	movie	about	a	Parisian	rat	who	aspires	to	be	a
 chef,	for	example,	several	members	of	Ratatouille's	team	went	to	France	and	spent	two	weeks
 dining	in	extraordinary,	Michelin-starred	restaurants,	visiting	their	kitchens,	and	interviewing
 their	chefs.	(They	also	trudged	through	the	Paris	sewers,	where	many	a	rat	makes	his	home.)
-When	 it	 was	 decided	 that	 Carl	 Fredrickson's	 balloon-propelled	 house	 would	 sail	 to	 the
+When	 it	 was	 decided	 that	 Carl	 Fredrickson	 balloon-propelled	 house	 would	 sail	 to	 the
 mountains	of	South	America	in	Up,	John	sent	a	group	of	artists	to	see	the	tepuis	in	Venezuela
 up	 close;	 not	 only	 that,	 but	 an	 ostrich	 was	 brought	 into	 Pixar's	 headquarters	 to	 inspire	 the
 animators	 who	 were	 modeling	 the	 giant	 bird	 character.	 And	 when	 a	 plotline	 emerged	 in
 Finding	Nemo	that	required	Nemo,	who	believed	that	all	drains	lead	to	the	ocean,	to	escape
 from	a	dentist's	office	by	jumping	into	a	sink,	a	trip	was	arranged	to	the	San	Francisco	sewage
 treatment	 plant.	 (And	 yes,	 the	 filmmakers	 learned,	 it	 is	 possible	 for	 a	 fish	 to	 get	 from	 the
-drain	to	the	sea	without	being	killed.)	Many	of	the	crew	on	Finding	Nemo	also	became	scubacertified.
+drain	to	the	sea	without	being	killed.)	Many	of	the	crew	on	Finding	Nemo	also	became	scuba-certified.
 
 These	experiences	are	more	than	field	trips	or	diversions.	Because	they	take	place	early	in
 the	 filmmaking	 process,	 they	 fuel	 the	 film's	 development.	 Take	 Monsters	 University	 as	 an
@@ -5493,7 +5493,7 @@ way	to	succeed.
 
 In	any	creative	endeavor,	there	is	a	long	list	of	features	and	effects	that	you	want	to	include
 to	 nudge	 it	 toward	 greatness—a	 very	 long	 list.	 At	 some	 point,	 though,	 you	 realize	 it	 is
-impossible	to	do	everything	on	the	list.	So	you	set	a	deadline,	which	then	forces	a	prioritybased	 reordering	 of	 the	 list,	 followed	 by	 the	 difficult	 discussion	 of	 what,	 on	 this	 list,	 is
+impossible	to	do	everything	on	the	list.	So	you	set	a	deadline,	which	then	forces	a	priority-based	 reordering	 of	 the	 list,	 followed	 by	 the	 difficult	 discussion	 of	 what,	 on	 this	 list,	 is
 absolutely	 necessary—or	 if	 the	 project	 is	 even	 feasible	 at	 all.	 You	 don't	 want	 to	 have	 this
 discussion	too	soon,	because	at	the	outset,	you	don't	know	what	you	are	doing.	If	you	wait
 too	long,	however,	you	run	out	of	time	or	resources.
@@ -5862,7 +5862,7 @@ with	an	old	kitchen	utensil.
 This	postmortem,	which	took	an	entire	day,	delved	into	all	aspects	of	the	production.	There
 was	 no	 "Aha!"	 moment,	 no	 epiphany	 that	 would	 turn	 our	 processes	 inside	 out.	 Instead,	 it's
 the	 spirit	 of	 the	 meeting	 that	 I	 remember	 most.	 Everyone	 was	 so	 engaged	 in	 rethinking	 the
-way	we	did	things,	so	open	to	challenging	longheld	ideas	and	learning	from	the	errors	we'd
+way	we	did	things,	so	open	to	challenging	long-held	ideas	and	learning	from	the	errors	we'd
 made.	No	one	was	defensive.	Everyone	was	proud,	not	only	of	the	film	but	of	how	committed
 we	were	to	the	culture	from	which	the	film	had	sprung.	Afterward,	we	decided	we	should	do
 this	kind	of	deep	analysis	after	every	movie.
@@ -5995,7 +5995,7 @@ in	a	while,	make	time	to	take	a	step	back	and	think	about	what	you	are	doing.
 I	want	to	end	this	list	by	talking	a	little	more	about	the	founding	of	Pixar	University	and	Elyse
 Klaidman's	 mind-expanding	 drawing	 classes	 in	 particular.	 Those	 first	 classes	 were	 such	 a
 success—of	the	120	people	who	worked	at	Pixar	then,	100	enrolled—that	we	gradually	began
-expanding	 P.U.'s	 curriculum.	 Sculpting,	 painting,	 acting,	 meditation,	 belly	 dancing,	 liveaction	filmmaking,	computer	programming,	design	and	color	theory,	ballet—over	the	years,
+expanding	 P.U.'s	 curriculum.	 Sculpting,	 painting,	 acting,	 meditation,	 belly	 dancing,	 live-action	filmmaking,	computer	programming,	design	and	color	theory,	ballet—over	the	years,
 we	have	offered	free	classes	in	all	of	them.	This	meant	spending	not	only	the	time	to	find	the
 best	outside	teachers	but	also	the	real	cost	of	freeing	people	up	during	their	workday	to	take
 the	classes.
@@ -6200,7 +6200,7 @@ for	making	your	(now-flawed-in-retrospect)	decisions,	your	crew	will	keep	rowing
 find	that	the	ship	is	just	spinning	around—and	if	you	assert	that	such	meaningless	activity	is,
 in	fact,	forward	motion—then	the	crew	will	balk.	They	know	better	than	anyone	when	they
 are	working	hard	but	not	going	anywhere.	People	want	their	leaders	to	be	confident.	Andrew
-doesn't	 advise	 being	 confident	 merely	 for	 confident's	 sake.	 He	 believes	 that	 leadership	 is
+doesn't	 advise	 being	 confident	 merely	 for	 confidence	 sake.	 He	 believes	 that	 leadership	 is
 about	making	your	best	guess	and	hurrying	up	about	it	so	if	it's	wrong,	there's	still	time	to
 change	course.
 
@@ -6417,7 +6417,7 @@ beginners,	but	of	the	seventy	people	there,	I	was	the	only	one	who'd	never	medit
 the	 thought	 of	 spending	 several	 days	 in	 silence	 seemed	 unimaginable,	 even	 weird.	 I	 was
 intrigued	 and	 sort	 of	 bumbling	 along,	 when	 two	 days	 into	 it,	 we	 went	 into	 full	 silence.	 I
 wasn't	sure	what	to	do.	The	voice	in	my	head	chattered	continuously,	and	I	wasn't	sure	how
-to	process	it.	On	the	third	day,	with	my	mind	abuzz	from	all	the	nonspeaking	I	was	doing,	I
+to	process	it.	On	the	third	day,	with	my	mind	abuzz	from	all	the	non-speaking	I	was	doing,	I
 almost	bailed	out.
 
 Most	people	have	heard	of	the	Eastern	teaching	that	it	is	important	to	exist	in	the	moment.
@@ -6663,7 +6663,7 @@ John	 and	 I	 understood	 that	 this	 news	 would	 come	 as	 a	 shock	 to	 our	 
 the	idea	in	his	living	room,"	John	recalls.)	Before	any	official	announcement,	then,	we	needed
 to	 do	 everything	 we	 could	 to	 ensure	 that	 people	 felt	 safe	 and	 that	 we	 had	 taken	 steps	 to
 prevent	 change	 being	 made	 for	 the	 wrong	 reasons.	 With	 Iger's	 blessing,	 then,	 we	 set	 about
-drafting	a	document	that	came	to	be	known	as	"The	Five	Year	Social	Compact."	This	sevenpage,	single-spaced	list	was	an	enumeration	of	all	the	things	that	had	to	remain	the	same	at
+drafting	a	document	that	came	to	be	known	as	"The	Five	Year	Social	Compact."	This	seven-page,	single-spaced	list	was	an	enumeration	of	all	the	things	that	had	to	remain	the	same	at
 Pixar,	should	the	merger	go	through.
 
 The	 document's	 fifty-nine	 bullet	 points	 addressed	 many	 topics	 you	 might	 expect:
@@ -7090,7 +7090,7 @@ problem.
 
 After	this	meeting,	three	members	of	the	crew	took	it	upon	themselves,	over	the	weekend,
 
-to	remodel	and	rerig	Rhino.	Within	a	week,	the	project	was	back	on	track.
+to	remodel	and	re-rig	Rhino.	Within	a	week,	the	project	was	back	on	track.
 
 Why	was	a	problem	that	took	a	few	days	to	solve	originally	projected	to	take	six	months?
 The	 answer,	 I	 think,	 lay	 in	 the	 fact	 that	 for	 too	 long,	 the	 leaders	 of	 Disney	 Animation
@@ -7130,7 +7130,7 @@ believed,	in	our	souls,	that	the	studio	could	be	golden	again.
 Still,	 Steve's	 worry	 about	 our	 stamina—or,	 put	 another	 way,	 about	 our	 inability	 to	 be	 in
 two	 places	 at	 once—wasn't	 unfounded.	 We	 had	 only	 so	 many	 hours	 in	 each	 day,	 and	 Pixar
 would	by	definition	be	getting	less	of	them	than	it	once	had.	From	the	moment	the	merger
-was	announced,	John	and	I	had	attempted	to	ease	our	colleagues'	fears	by	hosting	several	gettogethers	 for	 anyone	 who	 wanted	 to	 hear	 more	 about	 why	 we	 thought	 the	 merger	 made
+was	announced,	John	and	I	had	attempted	to	ease	our	colleagues'	fears	by	hosting	several	get-togethers	 for	 anyone	 who	 wanted	 to	 hear	 more	 about	 why	 we	 thought	 the	 merger	 made
 sense.	 Still,	 as	 we	 began	 to	 spend	 more	 time	 at	 Disney,	 the	 general	 feeling	 at	 Pixar,	 which
 
 many	 people	 articulated	 to	 John	 and	 me	 directly,	 was	 that	 our	 reduced	 presence	 in
@@ -7927,7 +7927,7 @@ uplifting.
 shift	between	two	states.	The	first	(and	far	more	preferable	of	the	two)	is	white-hot,	'in	the
 zone'	seat-of-the-pants,	firing	on	all	cylinders	creative	mode.	This	is	when	you	lay	your	pen
 down	and	the	ideas	pour	out	like	wine	from	a	royal	chalice!	This	happens	about	3%	of	the
-time.	 The	 other	 97%	 of	 the	 time	 I	 am	 in	 the	 frustrated,	 struggling,	 office-corner-full-ofcrumpled-up-paper	mode.	The	important	thing	is	to	slog	diligently	through	this	quagmire	of
+time.	 The	 other	 97%	 of	 the	 time	 I	 am	 in	 the	 frustrated,	 struggling,	 office-corner-full-of crumpled-up-paper	mode.	The	important	thing	is	to	slog	diligently	through	this	quagmire	of
 discouragement	 and	 despair.	 Put	 on	 some	 audio	 commentary	 and	 listen	 to	 the	 stories	 of
 professionals	 who	 have	 been	 making	 films	 for	 decades	 going	 through	 the	 same	 slings	 and
 arrows	 of	 outrageous	 production	 problems.	 In	 a	 word:	 PERSIST.	 PERSIST	 on	 telling	 your
@@ -8081,7 +8081,7 @@ for	a	tour	of	the	four-story	glazed-glass-and-aluminum	building	on	Thornton	Aven
 as	Northside.	Disney	Animation	had	taken	it	over	in	1997,	using	it	to	house	the	crew	for	its
 first	3D	animated	movie,	Dinosaur,	among	other	projects.
 
-But	 the	 building	 was	 more	 famous	 for	 what	 it	 had	 housed	 in	 the	 1940s:	 Lockheed's	 topsecret	Skunk	Works	division,	which	designed	jet	fighters,	spy	planes,	and	at	least	one	stealth
+But	 the	 building	 was	 more	 famous	 for	 what	 it	 had	 housed	 in	 the	 1940s:	 Lockheed's	 top secret	Skunk	Works	division,	which	designed	jet	fighters,	spy	planes,	and	at	least	one	stealth
 fighter.	I	loved	that	bit	of	history—and	the	fact	that	the	name	Skunk	Works	itself	had	been
 borrowed	from	Al	Capp's	newspaper	comic	strip	Li'l	Abner.	In	that	strip,	there	was	a	running
 joke	 about	 a	 mysterious	 and	 malodorous	 place	 deep	 in	 the	 forest	 called	 the	 "Skonk	 Works"
@@ -8194,7 +8194,7 @@ believe	 this	 process	 helped	 him	 understand	 more	 about	 human	 dynamics.	 
 something	about	applying	his	intellect	to	the	emotion	of	a	film—Was	it	landing?	Did	it	ring
 true?—that	 freed	 him	 up,	 and	 he	 came	 to	 see	 that	 Pixar's	 success	 was	 reliant	 on	 its	 movies
 connecting	 deeply	 with	 an	 audience.	 Given	 the	 way	 his	 behavior	 has	 been	 described	 in	 the
-past,	 you	 might	 think	 that	 giving	 constructive	 feedback	 to	 a	 vulnerable	 director	 on	 a	 notbaked-yet	 film	 would	 not	 be	 something	 that	 Steve	 could	 do	 gracefully,	 if	 at	 all.	 But	 in	 fact,
+past,	 you	 might	 think	 that	 giving	 constructive	 feedback	 to	 a	 vulnerable	 director	 on	 a	 not baked-yet	 film	 would	 not	 be	 something	 that	 Steve	 could	 do	 gracefully,	 if	 at	 all.	 But	 in	 fact,
 over	time,	he	became	quite	skilled	at	it.	Pete	Docter	remembers	Steve	telling	him	once	that	he
 
 hoped	in	his	next	life	he	would	come	back	as	a	Pixar	director.	I	have	no	doubt	that	if	he	did,
@@ -8238,7 +8238,7 @@ car,	onto	a	long,	red	carpet	…	and	ran	smack	into	Steve	Jobs.	It	was	a	few	hou
 79th	Annual	Academy	Awards,	and	to	get	to	our	seats,	the	three	of	us	had	to	plow	through
 the	crush	of	people	outside	the	Kodak	Theatre	in	the	heart	of	Hollywood.	Cars	was	nominated
 for	Best	Animated	Feature	Film,	and,	like	all	award	hopefuls,	we	had	a	few	preshow	jitters.
-But	as	the	three	of	us	jostled	along,	Steve	looked	around	at	the	circus—the	elegantly	turnedout	 men	 and	 women,	 the	 scrum	 of	 television	 interviewers,	 the	 throngs	 of	 paparazzi	 and
+But	as	the	three	of	us	jostled	along,	Steve	looked	around	at	the	circus—the	elegantly	turned out	 men	 and	 women,	 the	 scrum	 of	 television	 interviewers,	 the	 throngs	 of	 paparazzi	 and
 screaming	 onlookers,	 the	 line	 of	 limousines	 pulling	 up	 at	 the	 curb—and	 said,	 "What	 this
 scene	really	needs	is	a	Buddhist	monk	lighting	himself	on	fire."
 

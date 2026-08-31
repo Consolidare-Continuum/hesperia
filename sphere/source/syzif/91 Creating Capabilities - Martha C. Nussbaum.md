@@ -94,7 +94,7 @@ This model persists. Although it is most firmly entrenched in
 standard analyses of the achievements of "developing countries"—
 as in the practice of development economics and in agencies associated with development, such as the International Monetary Fund
 (IMF) and the World Bank—it is also widely used to think about
-richer nations and what it means for them to "develop" or to imix
+richer nations and what it means for them to "develop" or to mix
 
 p r e f a c e
 
@@ -361,7 +361,7 @@ except the highly unequal one with her abusive husband. She did
 not have friends, she was unable to work, she did not par tic i pate
 in politics. This is the lot of many women in abusive relationships,
 but it is particularly common for women whose caste sta tus makes
-it shameful for them to seek employment outside the home. Up percaste women like Vasanti are often worse off than lower- caste
+it shameful for them to seek employment outside the home. Up uppercaste women like Vasanti are often worse off than lower- caste
 women, who can circulate freely. Vasanti was even prevented from
 having children, which would have provided her with a source of
 love. SEWA made it possible for her to become active in politics and
@@ -374,7 +374,7 @@ Vasanti is active in one area of politics, as she and Kokila work
 to diminish domestic violence. We might ask, though, whether she
 knows her rights as a citizen, whether she is a voter, whether she
 knows anything about how to use the legal system. The panchayat
-system has done a great deal to enhance women's po lit i cal engagec r e a t i n g c a p a b i l i t i e s
+system has done a great deal to enhance women's po lit i cal engagement r e a t i n g c a p a b i l i t i e s
 
 ment and knowledge, and India's poor in general have an extremely
 high level of par tic i pa tion in elections, so she probably has at least
@@ -585,7 +585,7 @@ the total or average well- being but about the opportunities available
 to each person. It is focused on choice or freedom, holding that the crucial good so ci e ties should be promoting for their people is a set of
 opportunities, or substantial freedoms, which people then may or
 may not exercise in action: the choice is theirs. It thus commits itself to respect for people's powers of self- defini tion. The approach is
-resolutely pluralist about value: it holds that the capability achievet h e c e n t r a l c a p a b i l i t i e s
+resolutely pluralist about value: it holds that the capability achievements h e c e n t r a l c a p a b i l i t i e s
 
 ments that are central for people are different in quality, not just in
 quantity; that they cannot without distortion be reduced to a single
@@ -695,7 +695,7 @@ way to talk about these innate powers that are either nurtured or
 not nurtured, and for that we may use the term basic capabilities. We
 now know that the development of basic capabilities is not hardwired in the DNA: maternal nutrition and prenatal experience play
 a role in their unfolding and shaping. In that sense, even after a
-child is born we are always dealing with very early internal capabilities, already environmentally conditioned, not with a pure potenc r e a t i n g c a p a b i l i t i e s
+child is born we are always dealing with very early internal capabilities, already environmentally conditioned, not with a pure potential r e a t i n g c a p a b i l i t i e s
 
 tial. Nonetheless, the category is a useful one, so long as we do not
 misunderstand it. Basic capabilities are the innate faculties of the
@@ -750,7 +750,7 @@ them. Options are freedoms, and freedom has intrinsic value.
 Some po lit i cal views deny this: they hold that the right thing
 for government to do is to make people lead healthy lives, do worthwhile activities, exercise religion, and so on. We deny this: we say
 that capabilities, not functionings, are the appropriate po lit i cal
-goals, because room is thereby left for the exercise of human freec r e a t i n g c a p a b i l i t i e s
+goals, because room is thereby left for the exercise of human freedom r e a t i n g c a p a b i l i t i e s
 
 dom. There is a huge moral difference between a policy that promotes health and one that promotes health capabilities—the latter,
 not the former, honors the person's lifestyle choices.
@@ -954,13 +954,13 @@ Being able to use one's mind in ways protected by guarantees of
 
 freedom of expression with respect to both po lit i cal and artistic
 
-speech, and freedom of religious exercise. Being able to have pleasurable experiences and to avoid nonben e ficial pain.
+speech, and freedom of religious exercise. Being able to have pleasurable experiences and to avoid nonbeneficial e ficial pain.
 
 5. Emotions. Being able to have attachments to things and people outside ourselves; to love those who love and care for us, to grieve at
 
 their absence; in general, to love, to grieve, to experience longing,
 
-gratitude, and jus ti fied anger. Not having one's emotional developc r e a t i n g c a p a b i l i t i e s
+gratitude, and jus ti fied anger. Not having one's emotional development r e a t i n g c a p a b i l i t i e s
 
 ment blighted by fear and anxiety. (Supporting this capability
 
@@ -1136,7 +1136,7 @@ plan one's own life is an opportunity to choose and order the functionings corre
 As for af fili a tion, the point is similar: it pervades the other capabilities in the sense that when they are made available in a way
 that respects human dignity, af fili a tion is part of them—the person
 is respected as a social being. Making employment options available without considering workplace relationships would not be adequate; nor would forms of health care that neglect, for example,
-people's needs to protect zones of intimacy by provisions for perc r e a t i n g c a p a b i l i t i e s
+people's needs to protect zones of intimacy by provisions for personal r e a t i n g c a p a b i l i t i e s
 
 sonal privacy. Affiliation or ga nizes the capabilities in that deliberation about public policy is a social matter in which relationships
 of many kinds (familial, friendly, group- based, po lit i cal) all play a
@@ -1297,7 +1297,7 @@ growth does not automatically improve quality of life in im por tant
 areas such as health and education. Other data, for example, the
 comparison between India and China over the past sixty years, show
 that increased GDP is not correlated with the emergence and stability of po lit i cal liberty. India has done dramatically worse than China
-on GDP, and yet it is an extremely stable democracy, with wellprotected fundamental liberties; China is not. Moreover, the data
+on GDP, and yet it is an extremely stable democracy, with well-protected fundamental liberties; China is not. Moreover, the data
 assembled in the Human Development Reports themselves show
 
 that national rankings generated by the Human Development Index (HDI), which factors in education and longevity, are not the
@@ -1381,7 +1381,7 @@ though it looks at satisfactions rather than at wealth—and thus
 doesn't utterly ignore the poor person who might lack wealth altogether (as does the GDP approach)—it has a similar prob lem. A nation can get a very high average or total utility so long as a lot of
 people are doing quite well, even if a few people at the bottom of the
 social ladder are suffering greatly. Indeed, the approach justifies the
-in fliction of a very miserable life on an underclass, so long as this
+in infliction of a very miserable life on an underclass, so long as this
 strategy raises the average satisfaction level. Even slavery and torture are ruled out—insofar as they are—only by uncertain empirical
 arguments claiming that slavery and torture are in ef ficient.
 Second, like the GDP approach again, the utilitarian approach
@@ -1561,7 +1561,7 @@ It was inserted into the first report late in the pro cess of formulation, over 
 consummate pragmatist, believed that nations accustomed to seeing a single ranking would accept nothing else, and the reports
 would have no impact unless they came up with some single ranking. What was im por tant was to make it a different single number,
 one that heavily weighted items (longevity, education) not typically
-emphasized in development rankings. Then, having arrested peoc r e a t i n g c a p a b i l i t i e s
+emphasized in development rankings. Then, having arrested people r e a t i n g c a p a b i l i t i e s
 
 ple's attention by that different single number, dramatizing the importance of health and education, one could hope that people
 would go behind the first table and read the disaggregated data laid
@@ -1710,7 +1710,7 @@ interference by others. This is a point that must be emphasized particularly in 
 government does its job best when it is inactive.
 The difference between "negative" rights and true combined cac r e a t i n g c a p a b i l i t i e s
 
-pabilities be comes particularly clear when we consider groups that
+capabilities be comes particularly clear when we consider groups that
 have long suffered subordination and exclusion. When India was
 preparing a constitution full of statements about the fundamental rights of citizens, Nehru's law minister B. R. Ambedkar, himself
 a dalit (formerly called "untouchable"), repeatedly pointed out that
@@ -2011,7 +2011,7 @@ best version of such approaches.
 Before examining these two theoretical alternatives more closely,
 we need to say more about how empirical material regarding poor
 people's ac tual efforts and struggles fig ures in the approach. What
-about Vasanti's story, for example? I have used it here in a primarc r e a t i n g c a p a b i l i t i e s
+about Vasanti's story, for example? I have used it here in a primarily r e a t i n g c a p a b i l i t i e s
 
 ily illustrative way, to clarify what the Capabilities Approach offers
 by contrast with the other approaches known in the development
@@ -2130,7 +2130,7 @@ More recently, my own view has also taken on the powerful theories
 of justice long developed within the social contract tradition, beginning with John Locke in the seventeenth century. Although the
 im por tant theory of justice produced by John Rawls offers a powerful theoretical account of social distribution in many areas, it apf u n d a m e n t a l e n t i t l e m e n t s
 
-propriates some assumptions from the classical Lockean theory of
+appropriates some assumptions from the classical Lockean theory of
 the social contract that Rawls himself saw as raising dif ficulties for
 his theory in four areas. The areas of dif ficulty that Rawls iden ti fied
 are justice for future generations; justice across national boundaries; the fair treatment of people with disabilities; and moral issues
@@ -2221,7 +2221,7 @@ I view as prob lematic in Rawls's theory: Thomas Scanlon's ethical
 contractarianism, for example. Scanlon proposes that we assess
 principles by asking whether they could reasonably be rejected by
 any of the parties involved; he does not assume that the parties are
-roughly equal in physical and mental capacity, nor that they purf u n d a m e n t a l e n t i t l e m e n t s
+roughly equal in physical and mental capacity, nor that they pursue u n d a m e n t a l e n t i t l e m e n t s
 
 sue mutual advantage. His idea is ethical rather than po lit i cal, and
 he acknowledges that if it were to become a po lit i cal idea it would
@@ -2388,7 +2388,7 @@ with the knife. Rawls likens his theory to the latter type of division.
 The Capabilities Approach is an example of the former. When we
 look at a society and ask, "Is that society minimally just?," we look
 at whether the capabilities have been secured. Of course there are
-some capabilities that involve an idea of fair procedure (in the crimc r e a t i n g c a p a b i l i t i e s
+some capabilities that involve an idea of fair procedure (in the criminal r e a t i n g c a p a b i l i t i e s
 
 inal law, a right to a fair trial; in other areas, due pro cess rights of a
 range of types). But those become part of the good outcome against
@@ -2528,7 +2528,7 @@ and Marxism—had spe cific origins in a given place and time but
 spread widely beyond their original location because people were
 
 of the Human Development and Capability Association include researchers with the following nationalities: Pakistani, Japanese, Brazilian, Dutch,
-Ital ian, Ban gla deshi, British, and American; members are drawn from
+Ital ian, Ban gla Bangladeshi, British, and American; members are drawn from
 eighty countries. The presidents of the association have included two Indians, one British citizen, and one U.S. citizen.
 
 c u l t u r a l d i v e r s i t y
@@ -2540,7 +2540,7 @@ give some further reason that other cultures should not adopt the
 concepts involved in the human rights movement, we have not yet
 said anything of substance.
 Even as a thesis about his tory, however, the "imperialism" charge
-runs into grave dif ficulty. As Amartya Sen has shown, the con stit uent elements of the idea of human rights exist in both Indian and
+runs into grave dif ficulty. As Amartya Sen has shown, the con stit constituent elements of the idea of human rights exist in both Indian and
 Chinese traditions. They were con fig ured in a particular way in the
 European Enlightenment (before which the Western philosophical
 tradition itself had only some elements of the idea), but that fact
@@ -2657,7 +2657,7 @@ For example, insisting on the mandatory provision of certain forms
 of life- saving medical treatment, such as blood transfusions, would
 slight the conscientious choice of Jehovah's Witnesses not to accept
 transfusions. Problems of this type are avoided by making capability, and not functioning, the appropriate po lit i cal goal.
-Sen, as we have seen, takes a stand on issues of content by focusc r e a t i n g c a p a b i l i t i e s
+Sen, as we have seen, takes a stand on issues of content by focusing r e a t i n g c a p a b i l i t i e s
 
 ing attention on education and health, as well as on gender equality.
 My own, more explicit list, however, makes a more extensive and
@@ -2702,7 +2702,7 @@ Establishment doctrine, as well as a very strong Free Exercise doctrine, as esse
 area of religion.
 Fourth, my approach employs a list of capabilities, and the job of
 government is understood to be that of raising all citizens above the
-threshold on all ten capabilities. Such a task is explicitly distinguished from the idea of pushing citizens into the associated funcc r e a t i n g c a p a b i l i t i e s
+threshold on all ten capabilities. Such a task is explicitly distinguished from the idea of pushing citizens into the associated functionings r e a t i n g c a p a b i l i t i e s
 
 tionings: people who have a capability have an option, a zone of
 freedom. They may choose the associated functioning (for example,
@@ -2750,7 +2750,7 @@ that national sovereignty is an im por tant expression of human freedom and of t
 strong barrier against forcible "humanitarian intervention" with
 the affairs of any state that meets a minimum standard of legitimacy. (I take that to be a much lower standard than that of full justice, which, in all likelihood, no existing state fully meets.)
 
-I hold (following standard accounts of humanitarian intervention) that military and economic sanctions are jus ti fied only in cerc r e a t i n g c a p a b i l i t i e s
+I hold (following standard accounts of humanitarian intervention) that military and economic sanctions are jus ti fied only in certain r e a t i n g c a p a b i l i t i e s
 
 tain very grave circumstances involving traditionally recognized
 crimes against humanity, such as genocide. Even when there are
@@ -2766,7 +2766,7 @@ wisely refused a visa to Narendra Modi, the Chief Minister of the
 State of Gujarat and a major perpetrator of the genocidal assault.)
 But so long as there is a decent chance that democracy itself can address the issue—as by now, seven years later, it has to a large degree
 done—it would be totally mistaken to intervene forcibly.
-The main worry of the objector, then, seems unjus ti fied. It is dif ficult to object to recommending something to ev ery one as a good
+The main worry of the objector, then, seems unjustified ti fied. It is dif ficult to object to recommending something to ev ery one as a good
 idea, backed by good arguments, once it be comes clear that state
 sovereignty, grounded in the consent of the people, is a very im portant part of the whole package.
 
@@ -2872,7 +2872,7 @@ large- scale changes rightly affect the distribution of duties, any assignment o
 order will never deliver the level of capability security that we rightly
 demand from a just nation. But we can do a lot better than we have
 done so far to foster human capabilities around the world.
-Most approaches to global justice in earlier eras were nationcentered in the wrong way. They not only held, correctly, that national sovereignty is an im por tant human good, but they also held,
+Most approaches to global justice in earlier eras were nation-centered in the wrong way. They not only held, correctly, that national sovereignty is an im por tant human good, but they also held,
 incorrectly, that nations have no obligations to other nations beyond a thin list in the area of war and peace. Both Kant and John
 Rawls, for example, envisage the search for global principles as taking the form of a two- stage bargain: nations first fix their principles
 internally, and then, at a second stage that cannot call into question
@@ -2903,7 +2903,7 @@ and burdens, but individuals acting on their own will act in ef ficiently and wi
 have to do more than their fair share to make up for the fact that
 some shirk their duties. The world version of the personal philanthropic view has both of these prob lems.
 
-It also has others. Imagine a world in which people really did follow Unger's advice, devoting themselves utterly to maximizing utilt h e n a t i o n a n d g l o b a l j u s t i c e
+It also has others. Imagine a world in which people really did follow Unger's advice, devoting themselves utterly to maximizing utility h e n a t i o n a n d g l o b a l j u s t i c e
 
 ity (satisfaction) averaged over the entire globe. There would be
 nothing left of the sense that people have lives that are their own to
@@ -2977,9 +2977,9 @@ We have a lot of work to do in assessing how much and what sort of
 decentralization will be optimal. The institutions involved in solving global prob lems will prominently include the existing nations,
 which have duties both to their own people and, in the case of the
 richer nations, to the poorer nations. A network of international
-treaties and other agreements can impose some norms on the comc r e a t i n g c a p a b i l i t i e s
+treaties and other agreements can impose some norms on the community r e a t i n g c a p a b i l i t i e s
 
-munity of nations, while corporations and nongovernmental or gani za tions can also play a part in promoting human capabilities in
+munity of nations, while corporations and nongovernmental or organizations za tions can also play a part in promoting human capabilities in
 the regions in which they operate. Such an allocation should remain
 tentative and incomplete, responsive to the changing conditions of
 the world community. (Fifty years ago, the power of multinational
@@ -3116,7 +3116,7 @@ treatise to the topic of old age, another to the topic of sleep, another
 to memory and failures of memory.)
 Because Ar is totle understood human vulnerability, he saw that
 government needed to address issues such as the purity of a water
-supply and the quality of air, as well as education. Vulnerability canc r e a t i n g c a p a b i l i t i e s
+supply and the quality of air, as well as education. Vulnerability cannot r e a t i n g c a p a b i l i t i e s
 
 not be removed altogether, of course, but Ar is totle did lay emphasis
 on the way in which some cities supported human weakness better
@@ -3605,7 +3605,7 @@ im por tant ways in which the state limits parents' autonomy (for example, the c
 giving them exit options from traditional roles, and that their full
 equality as citizens should be firmly conveyed to them, along with
 the skills necessary for effective po lit i cal activity. Other areas of freedom are more dif ficult: how far to give parents latitude to choose
-homeschooling, for example, which may not fully convey the message of equality. In India, government support for women's or ga niza tions that challenge traditional roles and convey a message of
+homeschooling, for example, which may not fully convey the message of equality. In India, government support for women's or ga organizations tions that challenge traditional roles and convey a message of
 autonomy and equality seems amply jus ti fied by the po lit i cal importance of the capabilities of practical reason and af fili a tion (both
 friendship and po lit i cal par tic i pa tion).
 My ongoing work on sexual orientation is strongly linked to the
@@ -3634,7 +3634,7 @@ An urgent prob lem of justice that is only now beginning to be confronted by mod
 people with a wide range of physical and mental disabilities. Including such people on a basis of equal respect requires not only practical change but theoretical change as well. Just as the full inclusion
 of women as subjects of po lit i cal justice required asking questions
 (about justice inside the family) that had not been asked before, so
-doing justice to the claims of people with disabilities requires callc r e a t i n g c a p a b i l i t i e s
+doing justice to the claims of people with disabilities requires creating r e a t i n g c a p a b i l i t i e s
 
 ing into question a very fundamental idea of classical liberalism,
 namely, that the goal and raison d'être of social cooperation is mutual advantage, where advantage is understood in narrow economic
@@ -3836,7 +3836,7 @@ enter into the de scrip tion of the goal to be promoted, not simply as
 
 means, but as members of intrinsically valuable relationships.
 
-3. The capabilities of all sentient creatures count as ends in themc r e a t i n g c a p a b i l i t i e s
+3. The capabilities of all sentient creatures count as ends in them r e a t i n g c a p a b i l i t i e s
 
 selves, and all should attain capabilities above some speci fied
 
@@ -3865,7 +3865,7 @@ bound up with at least minimal sentience (the capacity to experience pain, espec
 of doing injustice to an animal makes sense in much the way that
 the idea of doing injustice to a human being makes sense: both can
 experience pain and harm, and both are attempting to live and act,
-proj ects that can be wrongly thwarted. The notion of justice is conceptually bound up with the idea of experienced harm and thwartc a p a b i l i t i e s a n d c o n t e m p o r a r y i s s u e s
+proj ects that can be wrongly thwarted. The notion of justice is conceptually bound up with the idea of experienced harm and thwarting a p a b i l i t i e s a n d c o n t e m p o r a r y i s s u e s
 
 ing, or so I believe. Thus it seems odd, at least to me, to suggest that
 a tree can suffer injustice—although of course there may be other
@@ -4065,7 +4065,7 @@ Recently, I have been engaged in work that makes the connection
 
 of the Capabilities Approach to constitutional law even clearer, and
 I have offered a set of capability- based templates for the work of the
-U.S. Supreme Court. Several de cades of admirable prog ress in protecting human capabilities have recently been followed by a sharp
+U.S. Supreme Court. Several de decades of admirable prog ress in protecting human capabilities have recently been followed by a sharp
 turn of the Supreme Court toward what I call "obtuse formalism,"
 an approach that focuses on technical legal argument without serious engagement with capabilities, even those securely grounded in
 the constitutional text, hence with disadvantage. A full- scale investigation of the relationship of the Capabilities Approach to constitutional law would require detailed investigation of each concrete
@@ -4084,7 +4084,7 @@ state. Even here, many of the duties to secure human capabilities are
 assigned to nations; but some belong, as well, to NGOs, to corporations, to international or ga ni za tions, and to individuals. In that
 sense the duties are ethical rather than po lit i cal: they do not require
 a state enforcement mechanism to be morally binding.
-Nonetheless, rights (or the Central Capabilities) have no concepc r e a t i n g c a p a b i l i t i e s
+Nonetheless, rights (or the Central Capabilities) have no conceptual r e a t i n g c a p a b i l i t i e s
 
 tual connection to government action. A long tradition, beginning
 in the West at least with Ar is totle, has argued that a key task of government, and a reason for the existence of government, is to secure
@@ -4122,7 +4122,7 @@ belong on my list of Central Capabilities, which is de fined as a po liti cal co
 an overlapping consensus among all the reasonable comprehensive
 doctrines.
 The ten capabilities, then, are goals that fulfill or correspond to
-people's prepo lit i cal en ti tle ments: thus we say of people that they
+people's prepolitical lit i cal en ti tle ments: thus we say of people that they
 are en ti tled to the ten capabilities on the list. In the context of a nation, it then be comes the job of government to secure them, if that
 government is to be even minimally just. In effect, then, the presence of en ti tle ments gives governments a job to do, and a central job
 of government will be to secure the capabilities to people. The existence of human and animal lives gives a reason for governments to
@@ -4226,7 +4226,7 @@ new questions about the boundaries of this capability come forward
 with new cases. For example, does the free- exercise principle give
 parents the right to risk the health or life of their children? (Think
 about Jehovah's Witnesses and blood transfusions.) Can it be a
-"substantial burden" when the government is simply doing somec r e a t i n g c a p a b i l i t i e s
+"substantial burden" when the government is simply doing something r e a t i n g c a p a b i l i t i e s
 
 thing with its own land, such as building a road (thus preventing
 Native American tribes from making certain sorts of ritual use of
@@ -4296,7 +4296,7 @@ them. Contextualism is a desideratum for all approaches, but it has
 a particular affinity with the Capabilities Approach, which has always emphasized the importance of examining each person's story
 in its social and historical context, in order to discern hidden obstacles to full capability.
 A fourth feature of good judicial interpretation of a constitutional right is its constant focus on the rights of minorities to equal treatment. Indeed the judicial role is rightly focused on such cases, because minorities are at a disadvantage in the majoritarian po lit i cal
-pro cess, and thus their en ti tle ments especially need judicial protecc a p a b i l i t i e s a n d c o n t e m p o r a r y i s s u e s
+pro cess, and thus their en ti tle ments especially need judicial protection a p a b i l i t i e s a n d c o n t e m p o r a r y i s s u e s
 
 tion. We can barely imagine a First Amendment Free Exercise litigant from the Presbyterian or Episcopal Church—what prob lems
 would they be likely to have? The majority makes the rules, and so it
@@ -4353,7 +4353,7 @@ a shared aim of most people working on the Capabilities Approach,
 and a very im por tant feature of it, as can be seen in both Sen's and
 my emphasis on agency and respect for people's choices. Too frequently, however, the word "democracy" is in suf ficiently de fined.
 Most modern democracies have a place for rights entrenched beyond the reach of majority vote, and I would argue that if democracy means that "the people rule," such entrenchment is a necessary
-feature of democracy, since it protects fundamental aspects of selfrule (such as one person, one vote; the equal protection of the laws;
+feature of democracy, since it protects fundamental aspects of self-rule (such as one person, one vote; the equal protection of the laws;
 due pro cess; and freedom of association). In other words, democracy should not be understood as mere majoritarianism. We can
 also mention that one of the most empowering mea sures any recent
 democracy has thought up has been the one- third quota for women
@@ -4412,7 +4412,7 @@ malleable, and he proposed a program of public education that was
 to make people identify their own success in life with the success of
 others, including others in the future. Mill certainly exaggerated the
 extent of human malleability, but we should not underrate the role
-of social norms in shaping emotions at all ages. A fuller understandc r e a t i n g c a p a b i l i t i e s
+of social norms in shaping emotions at all ages. A fuller understand r e a t i n g c a p a b i l i t i e s
 
 ing of the developmental pro cess and of the ways in which a va ri ety
 of social in flu ences shapes the emotions that are relevant to politics
@@ -4756,7 +4756,7 @@ who, like Sen, has rejected (on good grounds) utilitarian notions of
 well- being. It is a vestige of utilitarianism inside Sen's nonutilitarian proj ect.
 To compare my own notion of freedom with Sen's is com pli cated,
 since mine is a po lit i cal conception and not a comprehensive conception of both well- being and agency. It thus says nothing at all
-about freedoms to pursue parts of people's comprehensive conceps e n o n w e l l - b e i n g a n d a g e n c y
+about freedoms to pursue parts of people's comprehensive concepts e n o n w e l l - b e i n g a n d a g e n c y
 
 tions of the good that are not included within the po lit i cal conception. The po lit i cal conception certainly does value capabilities that
 have a large impact on people's abilities to pursue their varied conceptions of the good. Capabilities such as health, bodily integrity,
@@ -4768,7 +4768,7 @@ resources that would compromise the state's ability to protect its
 citizens in fundamental matters.
 Where the po lit i cal conception does take a stand, however, the
 capabilities are valued as freedoms to pursue a partial po lit i cal conception of well- being. And I agree thoroughly with Sen's arguments
-favoring a capability- based conception of well- being over desirebased and mental- state conceptions—although my use of the capabilities is po lit i cal rather than comprehensive. But because what is
+favoring a capability- based conception of well- being over desire-based and mental- state conceptions—although my use of the capabilities is po lit i cal rather than comprehensive. But because what is
 valued is the freedom to do or not to do, agency is woven throughout. As of now, I conclude that there is no need for a distinction between agency freedom and well- being freedom, if we have a suf ficiently re fined conception of well- being.
 
 C h a p t e r N o t e s
@@ -4884,7 +4884,7 @@ See also Harsanyi (IV); Brandt (IV); and Hampton (IV). On desire as an
 intelligent part of the personality, see Nussbaum 3, chapter 2. (Here I am
 criticizing Scanlon [IV], What We Owe to Each Other.)
 
-My extensive critique of social contract views is developed in Nussc h a p t e r n o t e s
+My extensive critique of social contract views is developed in Nussbaum h a p t e r n o t e s
 
 baum 6, with both historical and contemporary discussions and a sustained focus on Rawls. My critique of Rawls is discussed in a very interesting way in Richardson (III), "Rawlsian Social- Contract Theory." I
 reply in the same journal number.
@@ -4987,7 +4987,7 @@ For disadvantage, see Wolff and De- Shalit (III).
 For gender and human capabilities, see Nussbaum 2, 3, 12, 25, 26, 35, 39,
 
 54, 55, 56, 62, 63, 69, and 71; Sen 32, 33, 34, 40, 47, and 48; Agarwal and
-Panda (III); Agarwwal, Humphries, and Robeyns, eds. (III).
+Panda (III); Agarwal, Humphries, and Robeyns, eds. (III).
 
 For related philosophical work, see Nussbaum 2, 5, 28, 29, 30, 38, 40, 41,
 
@@ -5126,7 +5126,7 @@ Krausz, 299–325. Notre Dame, IN: University of Notre Dame Press,
 
 21. "Aristotelian Social Democracy." In Liberalism and the Good, ed. R. B.
 
-Douglass, G. Mara, and H. Richardson, 203–252. New York: Routledge, 1990. Reprinted in Ar is totle and Modern Politics, ed. A. Tessib i b l i o g r a p h y
+Douglass, G. Mara, and H. Richardson, 203–252. New York: Routledge, 1990. Reprinted in Ar is totle and Modern Politics, ed. A. Tessier i b l i o g r a p h y
 
 tore, 47–104. Notre Dame, IN: University of Notre Dame Press,
 2002.
@@ -5177,7 +5177,7 @@ Dame University Press, 1997. (Also in Nussbaum, Sex and Social Justice.)
 
 31. "Kant and Stoic Cosmopolitanism." Journal of Political Philosophy 5
 
-(1997): 1–25. Also as "Kant und stoisches Weltbürgertum." In Frieden
+(1997): 1–25. Also as "Kant und stoisches Weltbürgertumürgertum." In Frieden
 durch Recht: Kants Friedensidee und das Problem einer neuen Weltordnung, ed. Matthias Lutz- Bachmann and James Bohman, 45–75.
 Frankfurt: Suhrkamp, 1996. Also in Perpetual Peace, ed. James Bohman and Matthias Lutz- Bachmann, 25–58. Cambridge, MA: MIT
 Press, 1997.
@@ -5248,7 +5248,7 @@ International Law 2 (2001): 35–58.
 
 States." Daedalus, Winter 2002, 95–106.
 
-48. "The Worth of Human Dignity: Two Tensions in Stoic Cosmopolib i b l i o g r a p h y
+48. "The Worth of Human Dignity: Two Tensions in Stoic Cosmopolitanism i b l i o g r a p h y
 
 tanism." In Philosophy and Power in the Graeco- Roman World: Essays in
 Honour of Miriam Griffin, ed. G. Clark and T. Rajak, 31–49. Oxford:
@@ -5263,7 +5263,7 @@ publication of the Kulturforum of the SDP. Essen: Klartext Verlag,
 50. "Rawls and Feminism." In The Cambridge Companion to Rawls, ed.
 
 Samuel Freeman, 488–520. Cambridge: Cambridge University Press,
-2003. Spanish translation in Estudos Públicos 103 (2006): 359–394.
+2003. Spanish translation in Estudos Púpúblicos 103 (2006): 359–394.
 51. "Women and the Law of Peoples." Symposium on John Rawls's The
 Law of Peoples: Politics, Philosophy, and Economics 1 (2002): 283–306.
 52. "Sex Equality, Liberty, and Privacy: A Comparative Approach to the
@@ -5318,7 +5318,7 @@ University Press, 2004.
 
 62. "Women and Theories of Global Justice: Our Need for New Parab i b l i o g r a p h y
 
-digms." In The Ethics of Assistance: Morality and the Distant Needy, ed.
+paradigms." In The Ethics of Assistance: Morality and the Distant Needy, ed.
 Deen Chatterjee, 147–176. Cambridge: Cambridge University Press,
 2004.
 
@@ -5692,7 +5692,7 @@ Ethics and Responsibilities. Cambridge: Cambridge University Press,
 
 DuBois, Jean- Luc, et al., eds. Repenser l'action collective: une approche par les
 
-capabilités. Paris: Réseau IMPACT, 2008.
+capabilitésés. Paris: Réseau IMPACT, 2008.
 
 Esquith, Stephen L., and Fred Gifford, eds. Capabilities, Power, and Institutions. University Park, PA: Penn State Press, 2010.
 
@@ -5884,7 +5884,7 @@ Stiglitz, J. E., Amartya Sen, J.- P. Fitoussi, et al. Report of the Commission o
 the Measurement of Economic Performance and Social Progress. Online,
 2010.
 
-Sunstein, Cass R. The Second Bill of Rights: F. D. R.'s Unfin ished Revolution
+Sunstein, Cass R. The Second Bill of Rights: F. D. R.'s Unfinished ished Revolution
 
 and Why We Need It More Than Ever. New York: Basic, 2004.
 
@@ -6150,7 +6150,7 @@ Mill, J. S., 124, 160, 181, 183; "Bentham," 53;
 on women's rights, 141, 146
 
 miscegenation, 149
-Modi, Narenda, 112
+Modi, Narendra, 112
 Montessori, Maria, 157
 
 natural law, 129–130, 132
@@ -6279,7 +6279,7 @@ Tagore, Rabindranath, 23, 105, 123–124,
 i n d e x
 
 taxation, 139
-Tennesee Supreme Court, 177
+Tennessee Supreme Court, 177
 tragic choice, 37–39, 165
 
 Utilitarianism, 50–56, 81–84, 126; on animals, 160; democracy, 51; global justice,

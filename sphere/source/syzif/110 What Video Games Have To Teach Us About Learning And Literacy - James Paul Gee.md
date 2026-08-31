@@ -88,7 +88,7 @@ taught me how to play. More, he taught me to take learning and
 playing games seriously, all the while having fun. I also dedicate
 the book to my twenty-two-year-old son, Justin. He didn't play
 computer or video games much as a kid, though he had no trouble thoroughly trouncing me when we last visited an arcade.
-Justin's early fascination with StarWars was my first guide, Sam's
+Justin's early fascination with Star Wars was my first guide, Sam's
 with Pokemon, my second guide, to the powerful and creative
 learning people can bring to the aspects of "popular culture" with
 which they choose to identify and which they often choose to
@@ -855,7 +855,7 @@ end and still "lose."
 
 However, Captain Olimar gets help. Soon after arriving on the strange
 planet, he comes upon native life that is willing to aid him. Sprouts dispensed
-from a large onionlike creature yield tiny (they're even smaller than Captain
+from a large onion-like creature yield tiny (they're even smaller than Captain
 Olimar) cute creatures that Olimar names "Pikmin" after a carrot from his
 home planet. These little creatures appear to be quite taken with Olimar and
 follow his directions without question. Captain Olimar learns to raise Pikmin
@@ -1392,7 +1392,7 @@ players (e.g., the editors of PC Gamer magazine regularly "apologize" when
 they have spent time playing games on a game platform and not on a computer, and look down on the enterprise).
 
 When Microsoft's Xbox came out in 2002, it was the first game platform
-to contain a computerlike hard drive. Hard drives allow games to be saved at
+to contain a computer-like hard drive. Hard drives allow games to be saved at
 any point. Heretofore, games played on game platforms, thanks to the technological limitations of the platforms, could be saved much less regularly
 than computer games. Players on typical game platforms, for example, can
 save only at the end of a level or when they have found a special save symbol
@@ -1942,7 +1942,7 @@ involve may well relate to later learning in domains like science, at least when
 we are talking about teaching and learning science as an active process of inquiry and not the memorization of passive facts.
 
 I am convinced that playing video games actively and critically is not "a
-waste of time." And people playing video games are indeed (pace the six-yearold's grandfather), learning "content," albeit usually not the passive content
+waste of time." And people playing video games are indeed (pace the six-year-old's grandfather), learning "content," albeit usually not the passive content
 of school-based facts. (Many games, such as the Civilization games, do contain a good number of facts.) The content of video games, when they are
 played actively and critically, is something like this: They situate meaning in a
 multimodal space through embodied experiences to solve problems and reflect on the
@@ -2016,7 +2016,7 @@ Studies at the end of chapter 1 as well as Cope & Kalantzis 2000; Heath 1983; Sc
 The discussion of physics students who know Newton's laws of motion but cannot apply them to a specific situation is taken from Chi, Feltovich, & Glaser 1981.
 For further discussion, see Gardner 1991 and Mayer 1992.
 
-On the nature of reading tests, see Hill & Larsen's 2000 superb analyses of actual
+On the nature of reading tests, see Hill & Larsen 2000 superb analyses of actual
 test items in relationship to different ways of reading. On reading more generally, see
 Adams 1990; Coles 1998; Gee 1991; Snow, Burns, & Griffin 1998; see Pearson 1999
 for discussion of the range of controversy in the area. The "fourth-grade slump" is
@@ -2285,7 +2285,7 @@ The real-world person (James Paul Gee) can fail to use the game controls
 in an effective way, thereby causing Bead Bead to lose a fight against a weaker
 creature she could have otherwise beaten; he can fail to save the game at a
 good time and place (e.g., saving in the middle of a battle that cannot be won
-is a bad move); he can fail to find his (Bead Bead's) way in a maze because he
+is a bad move); he can fail to find his (Bead Bead) way in a maze because he
 has poor spatial abilities (a trait Bead Bead therefore inherits). He can even realize that his former Catholic inhibitions will not let Bead Bead take up a
 madam's offer of a free trip to her (female) brothel. (This is just an example:
 there is such a brothel in Arcanum, but my former Catholic inhibitions, very
@@ -3564,7 +3564,7 @@ An algebraic representation of Galileo's principles is more general, basically a
 movements as material things. As diSessa points out, algebra doesn't distinguish effectively "among motion (d = rt), converting meters to inches (i =
 39.37 x m), defining coordinates of a straight line (y = mx) or a host of other
 conceptually varied situations." They all just look alike. He goes on to point
-out that "[d]istinguishing these contexts is critical in learning, although it is
+out that "[d]distinguishing these contexts is critical in learning, although it is
 probably nearly irrelevant in fluid, routine work for experts," who, of course,
 have already had many embodied experiences in using algebra for a variety of
 different purposes of their own.
@@ -4824,7 +4824,7 @@ often stays at the edge of the player's regime of competence.
 
 It is also interesting and an important fact that the game rewards the
 player for finding the golden skulls. Finding them requires the player to disregard Von Croy's commands to stay close and follow his every command.
-The player is encouraged by the very design of the game to be more Laralike—playful and willful—leaving behind his or her own fears and hesitations
+The player is encouraged by the very design of the game to be more Lara-like—playful and willful—leaving behind his or her own fears and hesitations
 about authority and the risks of exploration.
 
 L E A R N I N G I N A S U B D O M A I N
@@ -4913,7 +4913,7 @@ want to encourage in school but often have little success doing: transfer of
 prior knowledge mixed with innovation. Let me make this point with an extended example from my own game playing.
 
 By the end of the first-person shooter game Return to Castle Wolfenstein, I
-had learned a strategy for killing Nazi "Super Soldiers" (robotlike, mechanically
+had learned a strategy for killing Nazi "Super Soldiers" (robot-like, mechanically
 and biologically enhanced beings who can take and give a great deal of damage)
 of which I was quite proud. In fact, I had gotten quite good at this strategy.
 
@@ -5103,7 +5103,7 @@ deal of de facto power through their own armies and police forces.
 
 Into this already tension-filled situation comes a new source of potential
 problems: TriOptimum, despite government efforts to keep corporations out
-of such projects, has built a new spaceship, the Von Braun, capable of fasterthan-light travel. Indeed, the Von Braun is making its maiden voyage far beyond the solar system. The new technologies aboard the Von Braun have not
+of such projects, has built a new spaceship, the Von Braun, capable of faster-than-light travel. Indeed, the Von Braun is making its maiden voyage far beyond the solar system. The new technologies aboard the Von Braun have not
 been well tested and don't work as they should. The major problem is the
 ship's central computer, XERXES. XERXES is quite "buggy" and is having
 all sorts of problems (shades of SHODAN). Furthermore, the crew, made up
@@ -5243,7 +5243,7 @@ When you are at the recruitment station at the beginning of System Shock 2,
 you can choose to go into several rooms that constitute the game's training
 modules. Here you hear talk much like the talk that Professor Von Croy addressed to Lara Croft in Tomb Raider: The Last Revelation. A disembodied
 voice welcomes you when you enter the first training room and tells you that
-you are about to engage in a virtual training course using a "simulated cyberinterface identical to an actual military-grade cyber-interface." The voice
+you are about to engage in a virtual training course using a "simulated cyber interface identical to an actual military-grade cyber-interface." The voice
 then says: "Move the mouse, see how it changes where you look? That means
 you're in Shoot Mode. Hit the Tab key. This puts you in Use Mode where
 you can use your mouse to interact with items in the world."
@@ -6114,7 +6114,7 @@ and he can find health kits throughout the game to replenish his health.
 While he faces tough enemies, the fact that he can dish out a great deal of
 damage with special weapons (like a Venom Gun, which fires dozens of bullets at once) and sustain a good deal of damage makes you, the player, feel
 like quite a superhero. Indeed, when you have successfully finished the game,
-you see a cut scene (video) where Blazkowitz's superiors in Washington are
+you see a cut scene (video) where Blazkowicz superiors in Washington are
 discussing what a great job he has done and how he is currently taking some
 well-deserved R and R, imagining him relaxing on some tropical isle. But
 then the video cuts away to a dramatic scene where we see Blazkowitz jumping from a ledge, machine gun in hand, entering the fray in yet another battle
@@ -6152,7 +6152,7 @@ hilarious effect against cultural models about heroism and individuality.
 In fact, these trends are strong enough that games like Duke Nukem and
 Serious Sam bill themselves as nostalgic returns to the "good old days" of
 shooters where you just rushed in and shot up everything around you. (Duke
-Nukem's motto in his more recent game, Duke Nukem: Manhattan Project, is
+Nukem motto in his more recent game, Duke Nukem: Manhattan Project, is
 "It's my way or . . . Hell—it's my way.") In many a modern shooter game
 that's a strategy that will lead quickly to your death. Finally, we can mention
 that the very popular No One Lives Forever games star a female James Bond
@@ -6789,7 +6789,7 @@ playing in, rendering money nearly worthless.
 When people started games like EverQuest, they thought the players
 would police themselves and create an ideal world of good behavior. However, the players created virtual worlds that contained many of the same flaws
 our real human worlds do. Game designers have thought up lots of ways to
-stop players from ruining the experience for others, such as EverQuest's world
+stop players from ruining the experience for others, such as EverQuest world
 where you cannot kill or be killed by other players. And, of course, players
 who behave badly enough can be disallowed from logging on to the game.
 But the designers barely stay one step ahead of very human characteristics
@@ -7062,7 +7062,7 @@ computer science and game design in college, he has already mastered most
 of the material in many of the courses he will need to take.
 
 When we asked Adrian why he was interested in how hackers could "undermine" the Verdant company's hold over EverQuest, his reply was that, as
-he inspected their programming for the game, especially how they fixed various bugs that arose from time to time, he found their programming "inele-
+he inspected their programming for the game, especially how they fixed various bugs that arose from time to time, he found their programming "inelegant-
 
 08 gee ch 7 3/13/03 12:11 PM Page 177
 
@@ -7190,7 +7190,7 @@ belong. Since this statement so violates our commonsense notions of psychology, 
 
 Let's, for a moment, consider a birdwatching club. Birdwatchers are
 good at seeing some elements (features) of birds and quickly extending the
-pattern to name a particular type of bird. Thus they may see a flash of graybrown and a splash of white under the body as a small bird flits in and out of
+pattern to name a particular type of bird. Thus they may see a flash of gray-brown and a splash of white under the body as a small bird flits in and out of
 tall grass in an open grassland. They will, at least in much of the United
 States, conclude they have seen a bobolink, even if they have not seen all the
 bird's other salient features. If they see a flash of brown-brown and a splash of
@@ -7251,7 +7251,7 @@ and ways of filling them out. If a member deviates too far from the patterns
 and ways of filling them out in the field that the club, as a social group, considers normative, then the club "punishes" the member in order to bring him
 or her back in line. It's not that, if ivory-billed woodpeckers still exist, no
 member could see one and get it published in the club's newsletter. But seeing an ivory-billed woodpecker, like seeing any bird in the context of birdwatching as a social practice, is not just a mental event, it's also a social event.
-There are social rules or norms about what counts as having seen an ivorybilled woodpecker, and, in this case, they are strict.
+There are social rules or norms about what counts as having seen an ivory-billed woodpecker, and, in this case, they are strict.
 
 The point of this diversion about birdwatching is this: The patterns and
 ways of filling them out that count are not really the ones inside the heads of
@@ -7463,7 +7463,7 @@ Alas, after much effort and dying many times (and starting again from a
 saved game from the beginning of the battle), I realized that I had come into
 the cavern without enough ammunition to do the job. And there was no
 going back. I sat atop a high ledge, a good spot, but eventually with no ammunition and a very angry boss. I knew I could get more ammunition, but
-only by jumping to the ground and then climbing far down a large tunnellike
+only by jumping to the ground and then climbing far down a large tunnel-like
 hole. At the bottom of this hole was more ammunition, but then I had to
 jump from ledge to ledge back up the hole (it had low gravity) even to get
 back to the ground floor of the cavern and renew the fight. Worse, as I tried
@@ -7550,7 +7550,7 @@ am part of what the other players know), even though neither the players nor
 social, it is distributed outside my body. If you were to assess just my skills
 playing video games alone in my own home, you would underestimate me.
 You need to assess me as a node in a network and see how I function as such a
-node. The knowledge I gain playing games, limited as it is for an old babyboomer, is but a part of my functioning as such a node, and it is knowledge
+node. The knowledge I gain playing games, limited as it is for an old baby boomer, is but a part of my functioning as such a node, and it is knowledge
 that can spread into the network as well. In turn, knowledge flows to me,
 making me better than your original estimate would have assumed.
 
@@ -7588,7 +7588,7 @@ many modern workplaces. It fits, too, with the idea that in the modern world of
 the "new capitalism" (a capitalism based more on knowledge than on industrial
 assembly lines) we must more and more come to see ourselves not in terms of a
 linear progression up a "career ladder" in one single job but as a "portfolio"
-composed of the rearrangable skills and identities we have acquired in our trajectory through diverse projects inside and outside of "workplaces" as we move
+composed of the rearrangeable skills and identities we have acquired in our trajectory through diverse projects inside and outside of "workplaces" as we move
 from job to job, project to project, and career to career in a fast-changing
 world. It fits, also, with the new capitalist stress on leveraging the tacit knowledge workers acquire "online" as they adapt to constant changes in practice.
 And, finally, it fits well with how players learn as they play video games as

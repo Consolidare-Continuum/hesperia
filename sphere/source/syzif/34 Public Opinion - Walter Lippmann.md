@@ -305,7 +305,7 @@ parents' knowledge, took pen in hand and wrote to tell him their love:
 most of them called him Our Father. And there was poignancy about
 their effusions, their adoration, these sighs of deliverance that
 escaped from thousands of hearts at the defeat of barbarism. To all
-these naif little souls, Joffre seemed like St. George crushing the
+these naïve little souls, Joffre seemed like St. George crushing the
 dragon. Certainly he incarnated for the conscience of mankind the
 victory of good over evil, of light over darkness.
 
@@ -338,7 +338,7 @@ Worldwide concentration of this kind on a symbolic personality is rare
 enough to be clearly remarkable, and every author has a weakness for
 the striking and irrefutable example. The vivisection of war reveals
 such examples, but it does not make them out of nothing. In a more
-normal public life, symbolic pictures are no less governant of
+normal public life, symbolic pictures are no less governing of
 behavior, but each symbol is far less inclusive because there are so
 many competing ones. Not only is each symbol charged with less feeling
 because at most it represents only a part of the population, but even
@@ -688,7 +688,7 @@ society, a board of directors confronted with a set of their
 employees' demands, a boy choosing a career, a merchant estimating
 supply and demand for the coming season, a speculator predicting the
 course of the market, a banker deciding whether to put credit behind a
-new enterprise, the advertiser, the reader of advertisments.... Think
+new enterprise, the advertiser, the reader of advertisements.... Think
 of the different sorts of Americans thinking about their notions of
 "The British Empire" or "France" or "Russia" or "Mexico." It is not so
 different from Mr. Chesterton's four men at the pea green lamp post.
@@ -1690,8 +1690,8 @@ as a closed incident,"
 
 may pass over the wires in the following form:
 
-"Washn i. The Uni Stas rgds tq of Ger spg seized in ts cou at t outbk
-o hox as a clod incident." [Footnote: Phillip's Code.]
+"Washington i. The Uni States regards tq of Ger spg seized in ts cou at t outbk
+o hox as a clod incident." [Footnote: Phillip Code.]
 
 A news item saying:
 
@@ -1707,8 +1707,8 @@ may be cabled in this form:
 
 "Berlin 1. Chancellor Wirth told t Reichstag tdy in outlining the gvts
 pgn tt qn restoration & reconciliation wd b the keynote f new gvts
-policy. qj He added ttt cabinet ws dtmd disarmament sd b carried out
-loyally & tt disarmament wd n b. the ocan f imposition of further
+policy. qj He added ttt cabinet ws determined disarmament sd b carried out
+loyally & tt disarmament wd n b. the ocean f imposition of further
 penalties bi t alis."
 
 In this second item the substance has been culled from a long speech
@@ -1783,7 +1783,7 @@ by a well-informed neutral observer in the following manner.
 
 "Words, like money, are tokens of value. They represent meaning,
 therefore, and just as money, their representative value goes up and
-down. The French word 'etonnant' was used by Bossuet with a terrible
+down. The French word 'étonnant' was used by Bossuet with a terrible
 weight of meaning which it has lost to-day. A similar thing can be
 observed with the English word 'awful.' Some nations constitutionally
 tend to understate, others to overstate. What the British Tommy called
@@ -2025,7 +2025,7 @@ different times. Human susceptibilities are like an alpine country.
 There are isolated peaks, there are extensive but separated plateaus,
 and there are deeper strata which are quite continuous for nearly all
 mankind. Thus the individuals whose susceptibilities reach the
-rarefied atmosphere of those peaks where there exists an exquisitive
+rarefied atmosphere of those peaks where there exists an exquisite
 difference between Frege and Peano, or between Sassetta's earlier and
 later periods, may be good stanch Republicans at another level of
 appeal, and when they are starving and afraid, indistinguishable from
@@ -2063,7 +2063,7 @@ They have, therefore, to be pieced together out of what others have
 reported and what we can imagine.
 
 Yet even the eyewitness does not bring back a naéve picture of the
-scene. [Footnote: E. g. cf. Edmond Locard, L'Enquête Criminelle
+scene. [Footnote: E. g. cf. Edmond Locard, Enquêteête Criminelle
 et les Méthodes Scientifiques. A great deal of interesting material has
 been gathered in late years on the credibility of the witness, which
 shows, as an able reviewer of Dr. Locard's book says in The
@@ -2099,7 +2099,7 @@ buzzing confusion." [Footnote: Wm. James, Principles of
 Psychology, Vol. I, p. 488.] This is the way, says Mr. John Dewey,
 [Footnote: John Dewey, How We Think, pg 121.] that any new
 thing strikes an adult, so far as the thing is really new and strange.
-"Foreign languages that we do not understand always seem jibberings,
+"Foreign languages that we do not understand always seem jibberish,
 babblings, in which it is impossible to fix a definite, clear-cut,
 individualized group of sounds. The countryman in the crowded street,
 the landlubber at sea, the ignoramus in sport at a contest between
@@ -2108,7 +2108,7 @@ inexperienced man in a factory, and at first the work seems to him a
 meaningless medley. All strangers of another race proverbially look
 alike to the visiting stranger. Only gross differences of size or
 color are perceived by an outsider in a flock of sheep, each of which
-is perfectly individualized to the shepherd. A diffusive blur and an
+is perfectly individualized to the shepherd. A diffuse blur and an
 indiscriminately shifting suction characterize what we do not
 understand. The problem of the acquisition of meaning by things, or
 (stated in another way) of forming habits of simple apprehension, is
@@ -3642,13 +3642,13 @@ visualize "the true proportions of historical to geological time"
 [Footnote: 1 Vol. II, p. 605. See also James Harvey Robinson, The
 New History, p. 239.] On a scale which represents the time from
 Columbus to ourselves by three inches of space, the reader would have
-to walk 55 feet to see the date of the painters of the Altamara caves,
+to walk 55 feet to see the date of the painters of the Altamira caves,
 550 feet to see the earlier Neanderthalers, a mile or so to the last
 of the dinosaurs. More or less precise chronology does not begin until
 after 1000 B.C., and at that time "Sargon I of the Akkadian-Sumerian
 Empire was a remote memory,... more remote than is Constantine the
 Great from the world of the present day.... Hammurabi had been dead a
-thousand years... Stonehedge in England was already a thousand years
+thousand years... Stonehenge in England was already a thousand years
 old."
 
 Mr. Wells was writing with a purpose. "In the brief period of ten
@@ -4123,7 +4123,7 @@ meandering of a river, and to others like a devastating flood. The
 courage people display may be objectified as a rock; their purpose as
 a road, their doubts as forks of the road, their difficulties as ruts
 and rocks, their progress as a fertile valley. If they mobilize their
-dread-naughts they unsheath a sword. If their army surrenders they are
+dread-naughts they unsheathe a sword. If their army surrenders they are
 thrown to earth. If they are oppressed they are on the rack or under
 the harrow.
 
@@ -6199,7 +6199,7 @@ often in regions about which school geographies have supplied no
 precise ideas. In Czechoslovakia America is regarded as the Liberator;
 in American newspaper paragraphs and musical comedy, in American
 conversation by and large, it has never been finally settled whether
-the country we liberated is Czechoslavia or Jugoslovakia.
+the country we liberated is Czechoslovakia or Yugoslavia.
 
 In foreign affairs the incidence of policy is for a very long time
 confined to an unseen environment. Nothing that happens out there is
@@ -6779,7 +6779,7 @@ Democracy in America, Vol. I, p. 51. Third Edition] "and the
 doctrine of the sovereignty of the people, which had been nurtured in
 the townships, took possession of the state." It certainly took
 possession of the minds of those men who formulated and popularized
-the stereotypes of democracy. "The cherishment of the people was our
+the stereotypes of democracy. "The cherishing of the people was our
 principle," wrote Jefferson. [Footnote: Cited in Charles Beard,
 Economic Origins of Jeffersonian Democracy. Ch. XIV. ] But the
 people he cherished almost exclusively were the small landowning
@@ -6805,7 +6805,7 @@ of any form of government that was not centered in the small
 self-governing group. He had critics in his day: one of them remarked
 that "wrapt up in the fullness of self-consequence and strong enough,
 in reality, to defend ourselves against every invader, we might enjoy
-an eternal rusticity and live, forever, thus apathized and vulgar
+an eternal rusticity and live, forever, thus apathetic and vulgar
 under the shelter of a selfish, satisfied indifference." [Footnote:
 Op. cit., p. 426.]
 
@@ -8387,7 +8387,7 @@ to men of all shades of opinion. In order to differentiate themselves
 and collect a steady public most papers have to go outside the field
 of general news. They go to the dazzling levels of society, to scandal
 and crime, to sports, pictures, actresses, advice to the lovelorn,
-highschool notes, women's pages, buyer's pages, cooking receipts,
+high school notes, women's pages, buyer's pages, cooking receipts,
 chess, whist, gardening, comic strips, thundering partisanship, not
 because publishers and editors are interested in everything but news,
 but because they have to find some way of holding on to that alleged

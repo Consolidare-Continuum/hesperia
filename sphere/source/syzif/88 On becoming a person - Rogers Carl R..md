@@ -4,7 +4,7 @@ A Therapists View o f Psychotherapy
 
 Carl R. Rogers
 
-Sentry E iition /970
+Sentry E edition /970
 
 H O U G H T O N M I F F L I N C O M P A N Y • B O S T O N
 
@@ -41,7 +41,7 @@ H o w C a n I B e o f H elp?
 
 Chapter 2
 
-Som e H ypotheses R egarding the Facilitation of
+Som e H ypotheses R regarding the Facilitation of
 
 Personal G row th
 
@@ -158,7 +158,7 @@ A Chronological Bibliography o f the publica­
 
 tions o f Carl R. R ogers. 1930-1960.
 
-A cknou'ledgf/tents
+A acknowledgments/tents
 
 Index
 
@@ -197,7 +197,7 @@ who might be interested— to " the intelligent laym an," as the phrase
 goes. I feel this especially since all o f m y previous books have been
 published for the professional psychological audience, and have
 never been readily available to the person outside o f that group.
-It is m y sinccrc hope that m any people who have no particular
+It is m y sincere hope that m any people who have no particular
 interest in the field o f counseling or psychotherapy will find that
 the learnings em erging in this field will strengthen them in their
 own living. It is also m y hope and belief that m any people who
@@ -265,7 +265,7 @@ psychiatry, philosophy, and other fields. I hesitate to label such a
 trend but in m y mind there are associated with it adjectives such as
 phenomenological, existential, person-centered; concepts such as
 self-actualization, becom ing, grow th; individuals (in this country)
-such as G ordon A llport, Abraham Maslow, R ollo M ay. Hence,
+such as G ordon A Allport, Abraham Maslow, R ollo M ay. Hence,
 though the group to which this book speaks m eaningfully will, I
 believe, come from many disciplines, and have many wide-ranging
 
@@ -310,7 +310,7 @@ theories in a book which should be available in any professional library, I
 have not tried to include such material here. T h e reference referred to is my
 chapter entitled, "A theory o f therapy, personality, and interpersonal relationships as developed
 (ed.)
-in the client-centcred fram ew ork"
+in the client-centered fram ew ork"
 P sychology: A Study of a Science, vol. Ill, pp. 184-256. M cG raw -H ill, 1959.
 
 in K och , S.
@@ -355,7 +355,7 @@ Thinking and Personal Philosophy
 
 T his chapter combines two very personal talks. Five years ago I
 
-u'as asked to speak to the senior class at Brandeis University to
+was asked to speak to the senior class at Brandeis University to
 present, not m y ideas o f psychotherapy, but m yself. H ow had I
 come to think the thoughts 1 had? H o w bad I come to be the person
 1 am ? I fou nd this a very thought-provoking invitation, and I endeavored to meet the request of these students. D uring this past year
@@ -379,7 +379,7 @@ S p e a k in g P e r s o n a l l y
 gry people are to know something o f the person •who is speaking to
 them or teaching them. Consequently I have set this chapter first in
 the book in the hope that it •will convey something of me, and thus
-give m ore context and meaning to the chapters which follovj.
+give m ore context and meaning to the chapters which follows.
 
 x
 
@@ -409,7 +409,7 @@ personal experiences o f each one o f us. It is about a client in my
 office who sits there by the corner o f the desk, struggling to be himself, yet deathly afraid of being himself — striving to see his experience as it is, w anting to be that experience, and yet deeply fearful
 o f the prospect. T h is book is about me, as I sit there with that clicnt,
 facing him, participating in that struggle as deeply and sensitively as
-I am able. It is about me as I try to perceive his expcricncc, and the
+I am able. It is about me as I try to perceive his experience, and the
 
 meaning and the feeling and the taste and the flavor that it has for
 him. It is about me as I bemoan m y very human fallibility in understanding that client, and the occasional failures to see life as it appears to him, failures which fall like heavy objects across the intricate, delicate web o f growth which is taking place. It is about me as
@@ -488,9 +488,9 @@ o f the things I remember best was the vehement statement of an
 agronom y professor in regard to the learning and use o f facts. He
 stressed the futility o f an encyclopedic know ledge for its own sake,
 and wound up with the injunction, " D on't be a damned ammunition
-w agon; be a rifle!"
+w wagon; be a rifle!"
 
-D uring m y first two collcge years m y professional goal changcd,
+D uring m y first two college years m y professional goal changcd,
 as the result o f some emotionally charged student religious conferences, from that o f a scientific agriculturist to that o f the ministry —
 a slight shift! I changed from agriculture to history, believing this
 would be a better preparation.
@@ -526,7 +526,7 @@ m y life.
 I chose to go to Union Theological Sem inary, the most liberal in
 the country at that time (1924), to prepare for religious work. I
 have never regretted the tw o years there. I came in contact with
-some great scholars and teachers, notably Dr. A. C. McGifTert, who
+some great scholars and teachers, notably Dr. A. C. McGiffert, who
 believed devoutly in freedom o f inquiry, and in follow ing the truth
 no matter where it led.
 
@@ -547,7 +547,7 @@ had raised, thought themselves right out o f religious work. I was
 one. I felt that questions as to the meaning o f life, and the possibility
 of the constructive improvement o f life for individuals, would probably always interest me, but 1 could not w ork in a field where I
 would be required to believe in some specified religious doctrine.
-M y beliefs had already changed trem endously, and might continue
+M y beliefs had already changed trem tremendously, and might continue
 to change. It seemed to me it w ould be a horrible thing to have to
 profess a set o f beliefs, in order to remain in one's profession. I
 wanted to find a field in which 1 could be sure m y freedom of
@@ -557,7 +557,7 @@ B e c o m i n g a P s y c h o l o g is t
 
 But what field? I had been attracted, at Union, by the courses
 and lectures on psychological and psychiatric work, which were
-then beginning to develop. G oodw in W atson, Harrison Elliott,
+then beginning to develop. G Goodwin in W Watson, Harrison Elliott,
 
 'This is M e"
 
@@ -570,7 +570,7 @@ to think o f m yself as a clinical psychologist. It was a step I eased
 into, with relatively little clearcut conscious choice, rather just following the activities which interested me.
 
 W hile I was at Teachers' College I applied for, and was granted
-a fellowship or internship at the then new Institute for Child G uidance, sponsored by the Com m onwealth Fund.
+a fellowship or internship at the then new Institute for Child G uidance, sponsored by the Com m Commonwealth Fund.
 I have often been
 grateful that I was there during the first year. T h e organization was
 in a chaotic beginning state, but this meant that one could do what
@@ -616,10 +616,10 @@ everyday w orking experience.
 
 Three significant illustrations come to mind, all small, but important to me at the time. It strikes me that they are all instances
 of disillusionment — with an authority, with materials, with m yself.
-In m y training I had been fascinated b y D r. W illiam H ealy's writings, indicating that delinquency was often based upon sexual conflict,
+In m y training I had been fascinated b y D r. W illiam H Healy's writings, indicating that delinquency was often based upon sexual conflict,
 and that if this conflict was uncovered, the delinquency ceased. In
 m y first or second year at Rochester I worked very hard with a
-youthful pyrom aniac who had an unaccountable impulse to set fires.
+youthful pyromaniac aniac who had an unaccountable impulse to set fires.
 Interviewing him day after day in the detention home, I gradually
 traced back his desire to a sexual impulse regarding masturbation.
 Eureka! T h e case was solved. H ow ever, when placed on probation,
@@ -631,7 +631,7 @@ impressed me with the possibility that there were mistakes in authoritative teac
 T h e second naive discovery was o f a different sort. Soon after
 com ing to R ochester I led a discussion group on interviewing. I
 
-discovered a published account o f an interview with a parent, approximately verbatim, in which the case w orker was shrewd, insightful, clevcr, and led the interview quite quickly to the heart o f
+discovered a published account o f an interview with a parent, approximately verbatim, in which the case w orker was shrewd, insightful, clever, and led the interview quite quickly to the heart o f
 the difficulty. I was happy to use it as an illustration o f good interviewing technique.
 
 Several years later, I had a similar assignment and remembered
@@ -675,10 +675,10 @@ P s y c h o l o g is t o r
 D uring this period I began to doubt that I was a psychologist.
 The University o f Rochester made it clear that the w ork I was doing
 was not psychology, and they had no interest in m y teaching in the
-Psychology Departm ent. I went to m eetings o f the Am erican Psychological Association and found them full o f papers on the learning
+Psychology Departm ent. I went to m meetings o f the Am erican Psychological Association and found them full o f papers on the learning
 processes o f rats and laboratory experiments which seemed to me
 to have no relation to what I was doing. Th e psychiatric social
-workers, however, seemed to be talking m y language, so I becamc
+workers, however, seemed to be talking m y language, so I became
 active in the social work profession, m oving up to local and even
 national offices. Only when the A m erican Association for Applied
 Psychology was form ed did I becom e really active as a psychologist.
@@ -709,7 +709,7 @@ ever have learned professionally. I don't feel I was a very good parent in their
 went on I believe / gradually became a better and more understanding parent. Certainly the privilege during these years and later, o f
 being in relationship with tw o fine sensitive youngsters through all
 their childhood pleasure and pain, their adolescent assertiveness and
-difficulties, and on ifito their adult years and the beginning o f their
+difficulties, and on into their adult years and the beginning o f their
 own families, has been a priceless one. 1 think m y wife and I regard
 as one o f the most satisfying achievements in which we have had a
 part, the fact that we can really communicate in a deep w ay with
@@ -872,7 +872,7 @@ or that I am bored and uninterested in w hat is going on; or that I
 am eager to understand this individual or that I am anxious and fearful in m y relationship to this person. All o f these diverse attitudes
 are feelings which I think I can listen to in myself. One w ay o f putting this is that I feel I have becom e more adequate in letting m yself
 be what I am. It becom es easier for me to accept m yself as a decidedly im perfect person, who by no means functions at all times in
-the w'ay in which I would like to function.
+the way in which I would like to function.
 
 T h is must seem to some like a very strange direction in which to
 move. It seems to me to have value because the curious paradox is
@@ -1222,7 +1222,7 @@ experience. It is always in process o f becom ing.
 
 I trust it is clear now w hy there is no philosophy or belief or set
 of principles which I could encourage or persuade others to have or
-hold. I can only try to live by my interpretation o f the currcm
+hold. I can only try to live by my interpretation o f the current
 meaning o f my experience, and try to give others the permission and
 freedom to develop their own inward freedom and thus their own
 meaningful interpretation o f their own experience.
@@ -1239,7 +1239,7 @@ How Can I Be of Help?
 
 w ith in dividuals w h ich seem s to have
 
-m uch co n stru ctiv e p oten tial.
+m uch co n stru constructive e p potential tial.
 
 Some Hypotheses Regarding
 the Facilitation of
@@ -1258,7 +1258,7 @@ of the third.
 
 In the follow ing talk given at Oberlin College in 1954 I was trying
 to com press into the briefest possible time the fundam ental principles of psychotherapy which had been expressed at greater length
-in my books, (Counseling and P sychotherapy) (1942) and (Client-
+in my books, (Counseling and P Psychotherapy) (1942) and (Client-
 Centered T h erapy ) (1951). It is o f interest to me that I present the
 facilitating relationship, and the outcom es, with no description of,
 or even comment on, the process by which change comes about.
@@ -1309,7 +1309,7 @@ person b y means o f any intellectual or training procedure. N o approach which 
 The Facilitation o f Personal G row th
 
 seem so tempting and direct that I have, in the past, tried a great
-many o f them. It is possible to explain a person to himself, to prescribe steps which should lead him forw ard, to train him in knowledge about a more satisfying inode o f life. But such methods are, in
+many o f them. It is possible to explain a person to himself, to prescribe steps which should lead him forw ard, to train him in knowledge about a more satisfying mode o f life. But such methods are, in
 m v experience, futile and inconsequential. T h e most they can accomplish is some tem porary change, which soon disappears, leaving
 the individual more than ever convinced o f his inadequacy.
 
@@ -1333,7 +1333,7 @@ I would like to provide?
 
 I have found that the more that I can be genuine in the relationship, the more helpful it will be. T h is means that I need to be aware
 o f my own feelings, in so far as possible, rather than presenting an
-ounvard fa9ade o f one attitude, while actually holding another attitude at a deeper or unconscious level. Being genuine also involves
+outward fa9ade o f one attitude, while actually holding another attitude at a deeper or unconscious level. Being genuine also involves
 the willingness to be and to express, in m y w ords and m y behavior,
 the various feelings and attitudes which exist in me. It is only in this
 wav that the relationship can have reality, and reality seems deeply
@@ -1359,8 +1359,8 @@ highly important element in a helping relationship.
 I also find that the relationship is significant to the extent that
 I feel a continuing desire to understand — a sensitive empathy with
 each o f the client's feelings and com munications as they seem to him
-at that moment. A cceptance does not mean much until it involves
-understanding. It is only as I zm derstm d the feelings and thoughts
+at that moment. A Acceptance does not mean much until it involves
+understanding. It is only as I zm understand d the feelings and thoughts
 which seem so horrible to you, or so weak, or so sentimental, or so
 bizarre — it is only as I see them as you see them, and accept them
 and you, that you feel really free to explore all the hidden nooks and
@@ -1386,7 +1386,7 @@ I am by no means always able to achieve this kind o f relationship
 The Facilitation o f Personal G row th
 
 with another, and sometimes, even when I feel I have achieved it in
-myself, he m ay be too frightened to perccivc what is being offered
+myself, he m ay be too frightened to perceive what is being offered
 to him. But I would say that when I hold in m yself the kind o f attitudes I have described, and when the other person can to some
 degree experience these attitudes, then I believe that change and constructive personal development will invariably occur — and I include the w ord " invariably" only after long and careful consideration.
 
@@ -1405,7 +1405,7 @@ hidden from himself because of their threatening nature. It shows
 itself in the tendency to reorganize his personality and his relationship to life in w ays which are regarded as more mature. W hether
 one calls it a grow th tendency, a drive toward self-actualization, or
 a forw ard-m o ving directional tendency, it is the m ainspring of life,
-and is, in the last analysis, the tendency upon which all psychotherapy depends. It is the urge whiclTls~evidcnt in all organic and
+and is, in the last analysis, the tendency upon which all psychotherapy depends. It is the urge which is~evident in all organic and
 human life — to expand, extend, becom e autonomous, develop, mature — the tendency to express and activate all the capacities o f the
 organism, to the extent that such activation enhances the organism
 or the self. This tendency m ay becom e deeply buried under layer
@@ -1432,7 +1432,7 @@ o f the characteristics which are usually termed neurotic or psychotic,
 and more o f the characteristics o f the healthy, well-functioning
 person. H e changes his perception o f himself, becom ing more realistic in his views o f self. H e becom es more like the person he
 wishes to be. H e values himself more highly. He is more self-confident and self-directing. H e has a better understanding of himself,
-bccomes more open to his experience, denies or represses less o f his
+becomes more open to his experience, denies or represses less o f his
 experience. He becomes more accepting in his attitudes toward
 others, seeing others as more similar to himself.
 
@@ -1528,7 +1528,7 @@ to w ork out for m yself when I w as asked to give an address to the
 convention o f the Am erican Perso?mel and Guidance Association at
 St. Louis, in 1958.
 
-Evident in this paper is the dichotom y between the objective and
+Evident in this paper is the dichotomy y between the objective and
 the subjective which has been such an im portant part of my experience during recent years. I find it very difficult to give a paper
 which is either wholly objective or wholly subjective. I like to
 bring the two w orlds into close juxtaposition, even if I cannot fully
@@ -1580,7 +1580,7 @@ Characteristics of a H elping Relationship
 
 T h e Q u e s t io n
 
-But what are the c haracteristics of those relationships which do
+But what are the c characteristics of those relationships which do
 Jie lp , which do facilitate growth? And at the other end o f the scale
 is it possible to discern those characteristics which make a relationship unhelpful, even though it was the sincere intent to promote
 growth and development? It is to these questions, particularly the
@@ -1616,10 +1616,10 @@ more originality, more emotional security and control, less excitability than ch
 slow initially in social development, they were, by the time they
 reached school age, popular, friendly, non-aggressive leaders.
 
-W here parents' attitudes are classed as " actively rejectant" the
+W here parents' attitudes are classed as " actively rejecting" the
 children show a slightly decelerated intellectual development, relatively poor use o f the abilities they do possess, and some lack o f originality. T h ey are emotionally unstable, rebellious, aggressive, and
 quarrelsome. T h e children o f parents with other attitude syndromes
-tend in various respccts to fall in between these extremes.
+tend in various respects to fall in between these extremes.
 
 I am sure that these findings do not surprise us as related to child
 development. I would like to suggest that they probably apply to
@@ -1671,12 +1671,12 @@ had been unhelpful in the relationship. Such therapist attitudes as
 lack of interest, remoteness or distance, and an over-degree of sym ­
 pathy, were perceived as unhelpful. As to procedures, they had
 found it unhelpful when therapists had given direct specific advice
-regarding decisions or had emphasized past history rather than present problems. G uiding suggestions m ildly given were perccived
-in an intermediate range — neither clcarly helpful nor unhelpful.
+regarding decisions or had emphasized past history rather than present problems. G Guiding suggestions m ildly given were perccived
+in an intermediate range — neither clearly helpful nor unhelpful.
 
 Fiedler, in a m uch quoted study ( 7), found that expert therapists
 o f differing orientations form ed similar relationships with their
-clients. Less well known are the elements which charactcri/cd these
+clients. Less well known are the elements which characterized/cd these
 relationships, differentiating them from the relationships form ed by
 
 H o w C a n I B e o r H e l p ?
@@ -1722,7 +1722,7 @@ you may find rather abhorrent, but which nevertheless has a bearing
 upon the nature o f a facilitating relationship. These studies have to
 do with what we m ight think o f as m anufactured relationships.
 
-V erplanck (17), G reenspoon ( 8) and others have shown that
+V erplanck (17), G Greenspoon ( 8) and others have shown that
 operant conditioning o f verbal behavior is possible in a relationship.
 V ery briefly, if the experimenter says " M hm ," or " G ood ," or nods
 his head after certain types o f w ords or statements, those classes of
@@ -1757,7 +1757,7 @@ state to being given free grounds privileges, this change being quite
 clearly associated with his interaction with the machine. Then the
 experimenter decided to study experimental extinction, which, put
 in more personal terms, means that no m atter how many thousands
-of times the lever was pressed, no rew ard o f any kind was forthcom ­
+of times the lever was pressed, no rew ard o f any kind was forthcoming ­
 ing. T h e patient gradually regressed, grew untidy, uncommunicative, and his grounds privilege had to be revoked. This (to me)
 pathetic incident would seem to indicate that even in a relationship
 to a machine, trustworthiness is im portant if the relationship is to
@@ -1785,7 +1785,7 @@ L et me close this wide-ranging — and perhaps perplexing — sampling of resea
 (5 ). W orking with hardened chronic hospitalized alcoholics who
 had been com mitted to a state hospital for sixty days, they tried
 three different methods o f group psychotherapy. Th e method which
-they believed would be most effective was therapy based on a twofactor theory o f learning; a client-centered approach was expected
+they believed would be most effective was therapy based on a two-factor theory o f learning; a client-centered approach was expected
 
 Characteristics of a H elpin g Relationship
 
@@ -1862,7 +1862,7 @@ Characteristics o f a H elpin g Relationship
 the more successful eases, at the .001 level. Even the rating o f the
 counselor's genuineness or congruence — the extent to which his
 w ords matched his feelings — was associated with the successful outcome of the case, and again at the .001 level o f significance. Only
-in the investigation o f the matching intensity of afTcctive expression
+in the investigation o f the matching intensity of affective expression
 were the results equivocal.
 
 It is o f interest too that high ratings o f these variables were not
@@ -1895,7 +1895,7 @@ H o w C a n I B e o f H e l p ?
 
 differential characteristics have to do primarily with the attitudes of
 the helping person on the one hand and with the perception o f the
-relationship by the " hclpee" on the other. It is equally clear that the
+relationship by the " helpee" on the other. It is equally clear that the
 studies thus far made do not give us any final answers as to what
 is a helping relationship, nor how it is to be form ed.
 
@@ -2011,7 +2011,7 @@ Characteristics of a H elping Relationship
 
 within m yself to permit him his separateness? Can I permit him to
 be what he is — honest or deceitful, infantile or adult, despairing or
-ovcr-confident? Can I give him the freedom to be? O r do I feel that
+over-confident? Can I give him the freedom to be? O r do I feel that
 he should follow m y advice, or remain somewhat dependent on me,
 or mold himself after me? In this connection I think o f the interesting small study by Farson ( 6) which found that the less well adjusted and less com petent counselor tends to induce conform ity to
 himself, to have clients who model themselves after him. On the
@@ -2033,7 +2033,7 @@ him, but those meanings w hich are only implicit, which he secs only
 dimly or as confusion? Can I extend this understanding without
 limit? I think o f the client who said, " W henever I find someone who
 understands a part o f me at the time, then it never fails that a point
-is reachcd w here I know they're not understanding me again . . .
+is reached w here I know they're not understanding me again . . .
 W hat I've looked for so hard is for someone to understand."
 
 F or m yself I find it easier to feel this kind o f understanding, and
@@ -2124,7 +2124,7 @@ reinforce certain types o f w ords or opinions in the other, then I
 
 H o w C an I B e o f H e l p?
 
-tend to confirm him as an object — a basically mechanical, manipul a t e object. A nd if I see this as his potentiality, he tends to act in
+tend to confirm him as an object — a basically mechanical, manipulate a t e object. A nd if I see this as his potentiality, he tends to act in
 ways which support this hypothesis. If, on the other hand, I see a
 relationship as an opportunity to " reinforce" all that he is, the person
 that he is with all his existent potentialities, then he tends to act in
@@ -2153,7 +2153,7 @@ if I am interested in creating helping relationships I have a fascinating lifeti
 I am left with the uncom fortable thought that what I have been
 working out for m yself in this paper m ay have little relationship to
 your interests and your w ork. If so, I regret it. But I am at least
-partially com forted by the fact that all o f us who are w orking in
+partially com comforted by the fact that all o f us who are w orking in
 the field o f human relationships and trying to understand the basic
 orderliness o f that field are engaged in the m ost crucial enterprise in
 today's world. If we are thoughtfully trying to understand our tasks
@@ -2169,7 +2169,7 @@ questions I ask o f m yself will be o f some use to you in gaining understanding
 
 R e f e r e n c e s
 
-1. Baldwin, A . L., J. Kalhorn, and F. H . Breesc. Patterns o f parent
+1. Baldwin, A . L., J. Kalhorn, and F. H . Brees. Patterns o f parent
 
 behavior. Psychol. Monogr., 1945, 58, N o . 268, 1-75.
 
@@ -2235,7 +2235,7 @@ personality change. University of Chicago Press, 1954, Chap. 7.
 17. Verplanck, W . S. T h e control o f the content o f conversation: reinforcem ent o f statements o f opinion. J. Abnorm. & Soc. Psychol.,
 1955, SI, 668-676.
 
-18. W h iteh om , J. C., and B. J. Betz. A study of psychotherapeutic relationships betw een physicians and schizophrenic patients. Amer.
+18. W h cultural om , J. C., and B. J. Betz. A study of psychotherapeutic relationships betw een physicians and schizophrenic patients. Amer.
 J. Psychiat., 1954, 111, 321-331.
 
 What We Know About Psychotherapy —
@@ -2244,7 +2244,7 @@ Objectively and Subjectively
 I n the spring of 1960 1 was invited to the California Institute of
 
 Technology as a visitor in their " Leaders o f Am erica" program ,
-sponsored by the Cal Tech Y M C A , which arranges m ost of the cidtural program s fo r the Institute. A s one part o f this four-day visit
+sponsored by the Cal Tech Y M C A , which arranges m ost of the minimally program s fo r the Institute. A s one part o f this four-day visit
 1 was asked to talk to a forum o f faculty and staff. I was eager to
 speak of psychotherapy in a way which wotdd make sense to physical scientists, and it seemed to me a summary o f the research findings
 in regard to therapy m ight communicate. On the other hand I
@@ -2273,7 +2273,7 @@ progress in determining those ingredients in a relationship which promote person
 
 Psychotherapy does not supply the m otivation for such development or grow th. T h is seems to be inherent in the organism, just as
 we find a similar tendency in the human animal to develop and
-mature physically, provided m inimally satisfactory conditions are
+mature physically, provided m commercials satisfactory conditions are
 provided. But therapy does play an extrem ely important part in
 releasing and facilitating the tendency o f the organism toward
 psychological development or m aturity, when this tendency has
@@ -2319,7 +2319,7 @@ the higher the degree o f his congruence.
 
 T o give a com monplace example, each o f us senses this quality in
 people in a variety of ways. One o f the things which offends us
-about radio and T V com mercials is that it is often perfectly evident
+about radio and T V com separateness is that it is often perfectly evident
 from the tone o f voice that the announcer is " putting on," playing
 a role, saying something he doesn't feel. T h is is an example o f incongruence. On the other hand each o f us knows individuals whom
 we somehow trust because we sense that they are being what they
@@ -2366,7 +2366,7 @@ o f the client as the client sees it and feels it, without losing the separ­
 
 What W e Know A bout Psychotherapy
 
-ateness o f his own identity in this empathic process, then change is
+consequence o f his own identity in this empathic process, then change is
 likely to occur.
 
 Studies with a variety o f clients show that when these three conditions occur in the therapist, and when they are to some degree perceived by the client, therapeutic movement ensues, the client finds
@@ -2493,7 +2493,7 @@ as empathic, as having an unconditional regard for him, the more
 the client will move aw ay from a static, fixed, unfeeling, impersonal
 type o f functioning, and the more he will move toward a w ay of
 functioning marked by a fluid, changing, acceptant experiencing
-of differentiated personal feelings. T h e conscquence o f this movement is an alteration in personality and behavior in the direction of
+of differentiated personal feelings. T h e perceive o f this movement is an alteration in personality and behavior in the direction of
 psychic health and m aturity and m ore realistic relationships to self,
 others, and the environment.
 
@@ -2532,7 +2532,7 @@ in my ability to help him. I realize that at times his own fears may
 make him perceive me as uncaring, as rejecting, as an intruder, as
 one who does not understand. I w ant fully to accept these feelings
 in him, and yet I hope also that m y own real feelings will show
-through so clearly that in time he cannot fail to perccive them.
+through so clearly that in time he cannot fail to therapeutic them.
 Most o f all I want him to encounter in me a real person. I do not
 need to be uneasy as to whether m y own feelings are 'therapeutic.'
 W hat I am and what I feel are good enough to be a basis for therapy,
@@ -2622,7 +2622,7 @@ a Person
 
 I have observed the p ro cess by w h ich
 
-an in dividual g ro w s and ch an ges in a th erap eutic relationship.
+an in dividual g ro w s and ch an ges in a th erap material relationship.
 
 Some o f the Directions
 Evident in Therapy
@@ -2630,7 +2630,7 @@ Evident in Therapy
 I n Part II, although there are some brief descriptions o f the process
 
 o f change in the client, the m ajor focu s w as on the relationship
-which makes these changes possible. In this and the follow ing chapter, the 77iaterial deals in a much m ore specific w ay with the nature
+which makes these changes possible. In this and the follow ing chapter, the 77point deals in a much m ore specific w ay with the nature
 of the client's experience of change in himself.
 
 I have a personal fondness for this chapter. It was written in
@@ -2671,7 +2671,7 @@ what appears to me a sounder question in regard to this fascinating
 and lawful process we term therapy, and to attem pt a partial answer.
 L et me introduce m y question in this w ay. W hether by chance,
 by insightful understanding, by scientific knowledge, by artistry in
-human relaionships, or by a com bination o f all o f these elements, we
+human relationships, or by a com bination o f all o f these elements, we
 have learned how to initiate a describable process which appears to
 have a core of sequential, orderly events, which tend to be similar
 from one client to another. W e know at least something of the attitudinal conditions fo r getting this process under w ay. W e know that
@@ -2733,7 +2733,7 @@ represent significant learnings, and on which research is, as yet, nonexistent. 
 use illustrative material from recorded interviews from one case. I
 shall also limit m y discussion to the process o f client-centered
 therapy since I have reluctantly come to concede the possibility
-thnt the process, directions, and end points o f therapy may differ in
+that the process, directions, and end points o f therapy may differ in
 different therapeutic orientations.
 
 T h e E x p e r i e n c i n g o f t h e P o t e n t i a l S e l f
@@ -2755,14 +2755,14 @@ good, but sometimes I seem to feel that I'm better than everyone
 else." T h us at first the expression is that " I am a self which is different from a part o f m y experience." Later this changes to the
 tentative pattern, " Perhaps I am several quite different selves, or perhaps my self contains more contradictions than I had dreamed." Still
 
-D irections in Therapy
+D Directions in Therapy
 
 later the pattern changes to some such pattern as this: " I was sure
 that I could not be m y experience — it was too contradictory —
 but now I am beginning to believe that I can be all o f m y experience."
 
 Perhaps something o f the nature of this aspect o f therapy may be
-conveyed from tw o excerpts from the case o f Mrs. Oak. iMrs. Oak
+conveyed from tw o excerpts from the case o f Mrs. Oak. Mrs. Oak
 was a housewife in her late thirties, who was having difficulties in
 marital and fam ily relationships when she came in for therapy. U nlike many clicnts, she had a keen and spontaneous interest in the
 processes which she felt going on within herself, and her recorded
@@ -2988,7 +2988,7 @@ and that in some vague and stubborn w ay she felt she was right,
 even though others would regard her as w rong. She mentions this
 again as she discusses the w ay this experience has clarified her attitudes toward others.
 
-C: T h e next thing tnnt occurred to me that I found m yself thinking and still thinking, is somehow — and I'm not clear w hy — the
+C: T h e next thing that occurred to me that I found m yself thinking and still thinking, is somehow — and I'm not clear w hy — the
 same kind o f a caring that I get when I say " I don't love humanity." W hich has always sort o f — I mean I was always convinced
 o f it. So I mean, it doesn't — I knew that it was a good thing, see.
 And I think I clarified it within m yself — what it has to do with
@@ -3001,7 +3001,7 @@ C: . . . It might be expressed better in saying I care terribly what
 happens. But the caring is a — takes form — its structure is in
 understanding and not wanting to be taken in, or to contribute to
 those things which I feel are false and — It seems to me that in —
-in loving, there's a kind o f fijial factor. If you do that, you've sort
+in loving, there's a kind o f filial factor. If you do that, you've sort
 of done enough. It's a —
 
 T : T h at's it, sort of.
@@ -3152,7 +3152,7 @@ examine these statements and com pare them with our m ore recent
 cases, I feel they fall short o f the truth. T h e client not only accepts
 himself — a phrase which m ay carry the connotation o f a grudging
 and reluctant acceptance o f the inevitable — he actually comes to
-like himself. T h is is not a braggin g or self-assertive liking; it is
+like himself. T h is is not a bragging g or self-assertive liking; it is
 rather a quiet pleasure in being one's self.
 
 Airs. Oak illustrates this trend rather nicely in her thirty-third
@@ -3184,7 +3184,7 @@ things I say here, I mean I wondered w hy it was that I was convinced, and somet
 I suspected in — m y feelings when I would hear someone say to
 a child, " D on 't cry ." I mean, I always felt, but it isn't right; I
 mean, if he's hurt, let him cry. W ell, then, now this pleased feeling that I have. I've recently come to feel, it's — there's something almost the same there. It's — W e don't object when children feel pleased with themselves. It's — I mean, there really isn't
-anything vain. It's — m aybe that's how people shoidd feel.
+anything vain. It's — m aybe that's how people should feel.
 
 T : Y ou've been inclined almost to look askance at yourself for
 this feeling, and yet as you think about it more, maybe it comes
@@ -3290,7 +3290,7 @@ end points o f therapy.
 
 T h e D is c o v e r y t h a t t h e C o r e o f P e r s o n a l i t y i s P o s it iv e
 
-One o f the m ost revolutionary concepts to grow out o f our clini­
+One o f the m ost revolutionary concepts to grow out o f our clinical­
 
 Directions in Th erapy
 
@@ -3389,7 +3389,7 @@ It's just being terribly hurt!
 T : M-hm. It isn't guilt except in the sense o f being very much
 wounded somehow.
 
-C: ( W eeping) It's — you know, often I've been guilty o f it m yself but in later years when I've heard parents say to their children, " stop cryin g," I've had a feeling, a hurt as though, well, w hy
+C: ( W eeping) It's — you know, often I've been guilty o f it m yself but in later years when I've heard parents say to their children, " stop crying g," I've had a feeling, a hurt as though, well, w hy
 should they tell them to stop crying? T h ey feel sorry for themselves, and who can feel more adequately sorry for himself than
 the child. W ell, that is sort o f what — I mean, as though I mean,
 I thought that they should let him cry. And — feel sorry for him
@@ -3408,7 +3408,7 @@ about yourself. And yet you feel the feeling you 're experiencing
 isn't quite what the culture objected to either.
 
 C: And then o f course, I've com e to — to see and to feel that
-over this — see. I've covered it up. (W eeps.) But I've covered it
+over this — see. I've covered it up. (W weeps.) But I've covered it
 
 up with so much bitterness, which in turn I had to covcr up.
 ( W eeping) T h ai's what I want to get rid of! I almost don't care
@@ -3416,7 +3416,7 @@ if I hurt.
 
 T : (S o ftly , and with an empathic tenderness tow ard the hurt she
 is experiencing) You feel that here at the basis o f it as you experience it is a feeling o f real tears fo r yourself. But that you
-can't show, m ustn't show, so that's been covered b y bitterness that
+can't show, m mustn't show, so that's been covered b y bitterness that
 you don't like, that you'd like to be rid of. Y ou almost feel you'd
 rather absorb the hurt than to — than to feel the bitterness.
 (Pause) And what you seem to be saying quite strongly is, I do
@@ -3458,7 +3458,7 @@ o f because it doesn't do right by you.
 
 C : ( C weeps. L o n g pause) I don't know. It seems to me that I'm
 right in feeling, what in the w orld good would it do to term this
-thing guilt. T o chase dowrn things that would give me an interesting case history, shall we say. W hat good would it do? It seems
+thing guilt. T o chase down things that would give me an interesting case history, shall we say. W hat good would it do? It seems
 to me that the — that the key, the real thing is in this feeling that
 I have.
 
@@ -3638,7 +3638,7 @@ whole thing. T h at la sts.. . .
 Since this is presented in such confused fashion, it m ight be worth
 while to draw from it the consecutive themes which she has expressed.
 
-I'm going to talk about m yself as je/f-ish, but with a new connota­
+I'm going to talk about m yself as je/f-ish, but with a new connotation­
 
 tion to the word.
 
@@ -3733,7 +3733,7 @@ If hatelessness seems like a rather neutral or negative concept, per­
 
 T h e P r o c e s s o f B e c o m i n g a P e r so n
 
-haps we should let Mrs. Oak explain its meaning. In her thirtyninth interview, as she feels her therapy drawing to a close, she returns to this topic.
+haps we should let Mrs. Oak explain its meaning. In her thirty-ninth interview, as she feels her therapy drawing to a close, she returns to this topic.
 
 C : I w onder if I ought to clarify — it's clear to me, and perhaps
 that's all that matters really, here, m y strong feeling about a hatefree kind o f approach. N o w that we have brought it up on a rational kind o f plane, I know — it sounds negative. And yet in my
@@ -3819,7 +3819,7 @@ love and resentment." F or another client the learning m ay be: " I
 have thought I w as only bad and worthless. N o w I experience m yself at times as one o f much w orth; at other times as one o f little
 worth or usefulness. Perhaps I can be a person who experiences
 varying degrees o f w orth." F or another: " I have held the conception that no one could really love me for m yself. N o w I experience
-the affectional w armth o f another for me. Perhaps I can be a person
+the affectional w warmth o f another for me. Perhaps I can be a person
 who is lovable by others — perhaps I am such a person." F or still
 another: " I have been brought up to feel that I must not appreciate
 m yself — but I do. I can cry for m yself, but 1 can enjoy myself, too.
@@ -4030,7 +4030,7 @@ A s I look at it now, I was peeling off layer after layer o f defenses.
 I'd build them up, try them, and then discard them when you remained the same. I didn't know w hat was at the bottom and I
 was very much afraid to find out, but I had to keep on trying. A t
 first I felt there was nothing within me — just a great emptiness
-where I needed and wanted a solid core. T h en I began to feel thiit
+where I needed and wanted a solid core. T h en I began to feel that
 
 W hat It M eans to Becom e a Person
 
@@ -4128,7 +4128,7 @@ that's terrible! W ho, me, beg?
 Perhaps this excerpt will convey a bit o f the thing I have been
 talking about, the experiencing of a feeling all the w ay to the limit.
 H ere he is, for a moment, experiencing himself as nothing but a
-pleading little boy, supplicating, begging, dependent. A t that moment he is nothing but his plcadingness, all the w ay through. T o be
+pleading little boy, supplicating, begging, dependent. A t that moment he is nothing but his pleadingness, all the w ay through. T o be
 sure he almost immediately backs aw ay from this experiencing by
 saying " Wrho, me, beg?" but it has left its mark. As he says a
 moment later, " It's such a wondrous thing to have these new things
@@ -4143,7 +4143,7 @@ of fashion. It m ay be hurt, or sorrow , or jealousy, or destructive
 anger, or deep desire, or confidence and pride, or sensitive tenderness, or outgoing love. It m ay be any o f the emotions o f which man
 is capable.
 
-\Vrhat I have gradually learned from experiences such as this, is
+\What I have gradually learned from experiences such as this, is
 that the individual in such a moment, is com ing to be what he is.
 W hen a person has, throughout therapy, experienced in this fashion
 all the emotions which organism ically arise in him, and has experienced them in this know ing and open manner, then he has
@@ -4155,7 +4155,7 @@ T h e D is c o v e r y o f S e l f i n E x p e r i e n c e
 Let us pursue a bit further this question o f what it means to become one's self. It is a m ost perplexing question and again I will
 try to take from a statement by a client, written between interviews,
 a suggestion o f an answer. She tells how the various facades by
-which she has been living have somehow crum pled and collapscd,
+which she has been living have somehow crum pled and collapsed,
 
 bringing a feeling o f confusion, but also a feeling o f relief. She
 continues:
@@ -4202,7 +4202,7 @@ does he become? It isn't enough to say that he drops the fa£ades.
 W hat kind o f person lies underneath?" Since one o f the most obvious facts is that each individual tends to becom e a separate and
 distinct and unique person, the answer is not easy. H ow ever I would
 like to point out some o f the characteristic trends which I see. N o
-one person would fu lly exem plify these characteristics, no one person fully achives the description I will give, but I do see certain
+one person would fu lly exem plify these characteristics, no one person fully achieves the description I will give, but I do see certain
 generalizations which can be drawn, based upon living a therapeutic
 relationship with many clients.
 
@@ -4276,12 +4276,12 @@ C: N o — and one o f the reasons I seem to get more tired than I
 should maybe is because o f this constant strain, and so — I have
 already made an appointment with one o f the doctors at the
 hospital that he would look at it and take an X ray or something.
-In a w ay I guesss you could say that I am just more accurately
+In a w ay I guess you could say that I am just more accurately
 sensitive — or objectively sensitive to this kind o f thing. . . . And
 this is really a profound change as I say, and o f course m y relationship with m y wife and the tw o children is — well, you just
 wouldn't recognize it if you could see me inside — as you have —
 I mean — there just doesn't seem to be anything more wonderful
-than really and genuinely — really feelbig love fo r your own
+than really and genuinely — really feeling love fo r your own
 children and at the same time receiving it. I don't know how to
 put this. W e have such an increased respect — both o f us — for
 Ju d y and w e've noticed just — as we participated in this — we
@@ -4354,7 +4354,7 @@ In general then, it appears to be true that when a client is open
 to his experience, he comes to find his organism m ore trustworthy.
 H e feels less fear o f the emotional reactions which he has. There
 is a gradual grow th o f trust in, and even affection for the complex,
-rich, varied assortment o f feelings and tendencies which exist in liim
+rich, varied assortment o f feelings and tendencies which exist in him
 at the organic level. Consciousness, instead o f being the watchman
 over a dangerous and unpredictable lot o f impulses, o f which few
 can be permitted to see the light o f day, becomes the com fortable
@@ -4400,7 +4400,7 @@ getting smatterings o f things, and not getting hold, not really getting down to
 T : M aybe you've been getting just spoonfuls here and there
 rather than really digging in somewhere rather deeply.
 
-C: M-hm. T h at's why I s a y — (slon'ly and very thoughtfully)
+C: M-hm. T h at's why I s a y — (slowly and very thoughtfully)
 well, with that sort o f a foundation, well, it's really up to vie. I
 mean, it seems to be really apparent to me that I can't depend on
 someone else to give me an education.
@@ -4563,7 +4563,7 @@ chological Association, which bestowed upon me one of its first
 three Distinguished Scientific Contribution Aw ards. There w as however a penalty attached to the aw ard, which was that one year later,
 each recipient w as to present a paper to the Association. It did not
 appeal to me to review w ork which we had done in the past. I decided rather to devote the year to a fresh attem pt to understand the
-process by which personality changes. I did thisy but as the next
+process by which personality changes. I did this but as the next
 autumn approached, / realized that the ideas I had form ed were still
 unclear, tentative, hardly in shape fo r presentation. Nevertheless I
 tried to set down the jum bled sensings which had been important
@@ -4579,14 +4579,14 @@ It will be discovered that though the two preceding chapters
 view the process o f therapy almost entirely from a phenomenological
 point o f view, from within the client's frame of reference, this for-
 
-vmlation endeavors to capture those qualities of expression 'which
-may be observed by anothery and hence views it m ore from an external frame of reference.
+formulation endeavors to capture those qualities of expression 'which
+may be observed by another and hence views it m ore from an external frame of reference.
 
 Out of the observations recorded in this paper a " Scale of Process
 in Psychotherapy" has been developed which can be applied operationally to excerpts from recorded interviews. It is still in process of
 revision and improvement. Even in its present form it has reasonable
 inter-judge reliability, and gives m eaningful results. Cases which by
-other criteria are known to be m ore su ccessfu l show greater m ovevient on the Process Scale than less successful cases. Also, to our
+other criteria are known to be m ore su successful l show greater m movement on the Process Scale than less successful cases. Also, to our
 surprise it has been found that successful cases b eg in at a higher
 level on the Process Scale than do unsuccessful cases. Evidently we
 do not yet know , with any satisfactory degree o f assurance, how to
@@ -4599,20 +4599,20 @@ seemed to me at the tim e, are already opening up new and challenging areas fo r
 
 T h e P u z z l e o f P r o c e s s
 
-I w o u l d l i k e to take y o u w ith m e on a jo u rn ey o f exp loration .
+I w o u l d l i k e to take y o u w ith m e on a jo u rn ey o f exp exploration .
 
 T h e ob ject o f th e trip, the goal o f the search, is to tr y to learn
 som eth in g o f th e process o f p sy c h o th er a p y , or the process b y w h ich
 p erson ality ch an ge takes place. I w o u ld w arn y o u that th e g oal has
 
-n o t y e t b een ach ieved , and th at it seem s as th o u g h th e exp ed ition
-has advanced o n ly a f e w short m iles in to the ju ngle. Y et perhaps if
+n o t y e t b een ach achieved , and th at it seem s as th o u g h th e exp ed ition
+has advanced o n ly a f e w short m iles in to the ju jungle. Y et perhaps if
 I can take y o u w ith m e, y o u w ill be tem p ted to d iscover n e w and
 profitable avenues o f fu rth er advance.
 
-M y o w n reason fo r en gagin g in such a search seem s sim ple to m e.
-Just as m an y p sy c h o lo g ists have b een interested in th e invariant asp ects o f p erson ality — the u n ch an gin g aspects o f in telligen ce, tem ­
-peram ent, p erson ality stru ctu re — so I have lo n g b een interested in
+M y o w n reason fo r en engaging g in such a search seem s sim ple to m e.
+Just as m an y p sy c h o lo g ists have b een interested in th e invariant asp ects o f p erson ality — the u n ch an gin g aspects o f in intelligence ce, tem ­
+temperament ent, p erson ality stru ctu re — so I have lo n g b een interested in
 
 A Process Conception of Psychotherapy
 
@@ -4687,7 +4687,7 @@ I have tried to abstract from that sensing the simplest abstractions
 which would describe them. H ere I have been much stimulated and
 helped b y the thinking o f many o f m y colleagues, but I would like
 to mention m y special indebtedness to Eugene Gendlin, W illiam
-K irtner and Fred Zimring, whose demonstrated ability to think in
+K Kirtner and Fred Zimring, whose demonstrated ability to think in
 
 new ways about these matters has been particularly helpful, and
 from whom I have borrowed heavily.
@@ -4754,7 +4754,7 @@ assume certain constant conditions o f temperature, moisture and
 sunlight, in form ing our conceptualization o f the process. Likewise
 in conceptualizing the process o f personality change in psychotherapy, I shall assume a constant and optimal set o f conditions for
 facilitating this change. I have recently tried to spell out these conditions in some detail ( 8). F o r our present purpose I believe I can
-state this assumed condition in one word. Th rou ghout the discussion which follows, I shall assume that the client experiences himself as being fully received. B y this I mean that whatever his
+state this assumed condition in one word. Th rou Throughout the discussion which follows, I shall assume that the client experiences himself as being fully received. B y this I mean that whatever his
 feelings — fear, despair, insecurity, anger, whatever his mode o f expression — silence, gestures, tears, or w ords; whatever he finds him­
 
 self being in this moment, he senses that he is psychologically received, just as he is, b y the therapist. T h ere is implied in this term
@@ -4817,13 +4817,13 @@ some degree illustrate the characteristics o f this stage.
 There is an unwillingness to communicate self. Communication is
 only about externals.
 
-Example: " W ell, I'll tell you, it always seems a little bit nonsensi­
+Example: " W ell, I'll tell you, it always seems a little bit nonsensical­
 
 cal to talk about one's self except in times o f dire necessity." *
 
 Feelings and personal meanings are neither recognized nor owned.
 Personal constructs (to borrow K elly's helpful ter?n (3 ) ) are extremely rigid.
-Close and communicative relationshipi are construed as dangerous.
+Close and communicative relationships are construed as dangerous.
 N o problem s are recognized or perceived at this stage.
 There is no desire to change.
 
@@ -4847,7 +4847,7 @@ structure-bound in his manner of experiencing. T h at is, he reacts
 " to the situation o f now by finding it to be like a past experience and
 then reacting to that past, feeling it" ( 2). Differentiation o f personal meanings in experience is crude or global, experience being
 seen largely in black and white terms. H e does not communicate
-hirme/f, but only communicates about externals. H e tends to see
+himself/f, but only communicates about externals. H e tends to see
 himself as having no problems, or the problems he recognizes are
 perceived as entirely external to himself. There is much blockage of
 internal communication between self and experience. T h e individual
@@ -4906,7 +4906,7 @@ but are thought of as facts.
 
 Exam ple: " I can't ever do anything right — can't ever finish it."
 
-Differentiation of personal meanings and feeli?2gs is very limited and
+Differentiation of personal meanings and feelings?2gs is very limited and
 global.
 
 Example: T h e preceding example is a good illustration. " I can't
@@ -4925,7 +4925,7 @@ might be said that a number of clients who voluntarily come for
 help are in this stage, but we (and probably therapists in general)
 have a very modest degree o f success in w orking with them. This
 
-seems at least, to be a reasonable conclusion from K irtner's study (5 ),
+seems at least, to be a reasonable conclusion from K Kirtner's study (5 ),
 though his conceptual fram ework was somewhat different. W e seem
 to know too little about the w ays in which a person at this stage
 may come to experience himself as " received."
@@ -4972,7 +4972,7 @@ that I remember as a kid."
 1 36
 
 There is very little acceptance of feelings. F or the m ost part feelings
-are revealed as something sham eful, bady or abnorm al, or unacceptable in other 'ways.
+are revealed as something sham shameful, bad or abnorm al, or unacceptable in other 'ways.
 Feelings are exhibited, and then sometimes recognized as feelings.
 Experiencing is described as in the past, or as somewhat remote from
 the self.
@@ -5015,7 +5015,7 @@ do not fall in line with this choice.
 I believe it will be evident that many people who seek psychological help are at approximately the point o f stage three. T h ey may
 stay at roughly this point for a considerable time describing non­
 
-A Process Conception of tsy cbotberap y
+A Process Conception of tsy psychotherapy y
 
 present feelings and exploring the self as an object, before being
 ready to move to the next stage.
@@ -5029,7 +5029,7 @@ which are characteristic of movement up the continuum. W e may
 try to capture a number o f the characteristics of this loosening,
 and term them the fourth phase of the process.
 
-The client describes more intense feelings of the " not-noiv-present"
+The client describes more intense feelings of the " not-now-present"
 variety.
 
 Example: " W ell, I was really — it hit me down deep."
@@ -5105,7 +5105,7 @@ There are feelings o f self responsibility in problems, though such
 feelings vacillate.
 
 Though a close relationship still seems dangerous, the client risks
-himself, relating to some sviall extent on a feeling basis.
+himself, relating to some small extent on a feeling basis.
 
 Several o f the above examples illustrate this, notably the one in
 
@@ -5133,7 +5133,7 @@ T h e F i f t h S t a g e
 As we go on up the continuum we can again try to mark a point
 by calling it stage five. If the client feels himself received in his
 expressions, behaviors, and experiences at the fourth stage then this
-sets in motion still further Ioosenings, and the freedom o f organismic
+sets in motion still further Loosenings, and the freedom o f organismic
 flow is increased. Here I believe we can again delineate crudely the
 qualities of this phase of the process.*
 
@@ -5214,7 +5214,7 @@ forebearing guy that I try to make out that I am. I get irritated at
 things. I feel like snapping at people, and I feel like being selfish at
 times; and I don't know why I should pretend I'm not that w av."
 
-This is a clear instance of the greater degree of acccptance of all
+This is a clear instance of the greater degree of acceptance of all
 
 feelings.
 
@@ -5241,7 +5241,7 @@ H e also recognizes that his defenses are such that he cannot, at this
 point, experience the event of hurt when it occurs.
 
 The w ays in which experience is construed are much loosened.
-There are vtany fresh discoveries of personal constructs as constructsj and a critical examination and questioning o f these.
+There are many fresh discoveries of personal constructs as constructs and a critical examination and questioning o f these.
 
 Example: A man says, " T h is idea of needing to please — of having to do it — that's really been kind of a basic assumption of my
 
@@ -5289,7 +5289,7 @@ this phase is several hundred psychological miles from the first stage
 described. H ere many aspects o f the client are in flow, as against the
 rigidity o f the first stage. H e is very much closer to his organic
 being, which is always in process. H e is much closer to being in
-the flow of his feelings. H is constructions o f experience are decidely loosened and repeatedly being tested against referents and
+the flow of his feelings. H is constructions o f experience are decidedly loosened and repeatedly being tested against referents and
 evidence within and without. Experience is much more highly differentiated, and thus internal communication, already flowing, can
 be much more exact.
 
@@ -5341,7 +5341,7 @@ and m y whole problem is men like you. It would be easier if you
 were elderly — easier, but not better, in the long run." She is upset
 and embarrassed having said this and feels " it's like being naked, I'm
 so revealed to you." Here an immediate feeling is expressed, with
-reluctance and fear to be sure, but expressed, not described. E xperiencing is much less remote or structure bound, and occurs with
+reluctance and fear to be sure, but expressed, not described. E experiencing is much less remote or structure bound, and occurs with
 little postponement, but with much lack o f acceptance. Th e sharper
 differentiation o f meanings is clearly evident in the phrase " easier
 but not better." All o f this is fully characteristic of our stage four
@@ -5440,7 +5440,7 @@ T h at's another strange one.
 
 Therapist: It just seems weird.
 Client: Yeah. It hits rather close somehow. T h e idea o f m y lov­
-(H is eyes grow m oist.) T h at's
+(H is eyes grow m moist.) T h at's
 
 ing me and the taking care o f me.
 a very nice one — very nice."
@@ -5452,7 +5452,7 @@ no attempt to push it to one side, or to deny it.
 
 There is a quality o f living subjectively in the experience, not feeling about it.
 
-T h e client, in his ivordsy m ay withdraw enough from the experience to feel about it, as in the above example, yet the recording
+T h e client, in his words m ay withdraw enough from the experience to feel about it, as in the above example, yet the recording
 makes it d e a r that his words are peripheral to the experiencing
 which is going on within him, and in which he is living. T h e best
 communication o f this in his w ords is " W oof!
@@ -5480,13 +5480,13 @@ or better yet, a w ay o f diving in. T h at's the scary thing. T h e image
 I get is that I want to be one o f the fish m yself."
 
 Therapist: " You want to be down there flowing along, too."
-T hough this client is not yet fully experiencing in a process manner, and hcnce does not fully exem plify this sixth point o f the continuum, he foresees it so clearly that his description gives a real
+T hough this client is not yet fully experiencing in a process manner, and hence does not fully exem plify this sixth point o f the continuum, he foresees it so clearly that his description gives a real
 sense o f its meaning.
 
 Another characteristic of this stage of process is the physiological
 loosening 'which accom panies it.
 
-Aloistness in the eyes, tears, sighs, m uscular relaxation, are frequently evident. O ften there are other physiological concomitants.
+Aloistness in the eyes, tears, sighs, m muscular relaxation, are frequently evident. O ften there are other physiological concomitants.
 I would hypothesize that in these moments, had we the measure for
 it, we would discover im proved circulation, im proved conductivity
 
@@ -5497,8 +5497,8 @@ Exam ple: T h e client, a young man, has expressed the wish his
 parents would die or disappear. " It's kind o f like wanting to wish
 them away, and wishing they had never been . . . And I'm so
 ashamed o f m yself because then they call me, and off I go — swish!
-T h e y 're somehow still so strong. I don't know. T h ere's some umb ilical— I can almost feel it inside m e — swish ( and he gestures,
-plucking himself away by grasping at his n avel.)"
+T h e y 're somehow still so strong. I don't know. T h ere's some umb umbilical— I can almost feel it inside m e — swish ( and he gestures,
+plucking himself away by grasping at his n navel.)"
 
 Therapist: " T h ey really do have a hold on your umbilical cord."
 Client: " It's funny how real it feels . . . It's like a burning sensation,
@@ -5530,7 +5530,7 @@ I trust these tw o characteristics m ay acquire more meaning from
 the follow ing example. A young man has been having difficulty
 getting close to a certain unknown feeling. " T h at's almost exactly
 
-A Process Co7iception of tsy cao tn erap y
+A Process Co7conception of tsy cao tn erap y
 
 what the feeling is, too — it was that I was living so much o f my
 life, and seeing so much o f m y life in terms of being scared o f something." He tells how his professional activities are just to give him
@@ -5565,7 +5565,7 @@ much each time, and there's that same feeling, being scared that I've
 so much of this. (T ears) . . . I just don't know myself. H ere's suddenly something I never realized, hadn't any inkling o f — that it
 was some thing or w ay I wanted to be."
 
-H ere we see a complete experiencing o f his pleadingncss, and a
+H ere we see a complete experiencing o f his pleadingness, and a
 vivid recognition o f the discrepancy between this experiencing and
 his concept o f himself. Yet this experiencing o f discrepancy exists in
 the moment o f its disappearance. From now on he is a person who
@@ -5586,7 +5586,7 @@ event, a substratum o f the conscious life, which the client can return
 to for investigatory purposes. Gendlin has called m y attention to
 this significant quality o f experiencing as a referent. H e is endeavoring to build an extension o f psychological theory on this basis. ( 1)
 
-Differe?itiatio?i of experiencing is sharp and basic.
+Differe?differentiation?i of experiencing is sharp and basic.
 
 Because each o f these moments is a referent, a specific entity, it
 does not becom e confused with anything else. T h e process o f sharp
@@ -5607,7 +5607,7 @@ I have dwelt so long on this sixth definable point on the process
 continuum because I see it as a highly crucial one. M y observation is that these moments o f immediate, full, accepted experiencing
 are in some sense almost irreversible. T o put this in terms o f the
 examples, it is m y observation and hypothesis that with these clients,
-whenever a future experiencing o f the same quality and characteristics occurs, it will necessarily be recognizcd in awareness for what
+whenever a future experiencing o f the same quality and characteristics occurs, it will necessarily be recognized in awareness for what
 it is: a tender caring fo r self, an umbilical bond which makes him a
 
 part of his parents, or a pleading small-boy dependence, as the case
@@ -5626,7 +5626,7 @@ help. This stage occurs as much outside o f the therapeutic relationship as in i
 therapeutic hour. I shall try to describe some o f its characterictics
 as I feel I have observed them.
 
-N ew feelings are experienced with immediacy and richness of deta ilb o th in the therapeutic relationship and outside.
+N ew feelings are experienced with immediacy and richness of detail ilb o th in the therapeutic relationship and outside.
 The experiencing o f such feelings is used as a clear referent.
 
 T h e client quite consciously endeavors to use these referents in
@@ -5635,7 +5635,7 @@ what he wants, and what his attitudes are. This is true even when
 the feelings are unpleasant or frightening.
 
 There is a grow ing and continuing sense o f acceptant ownership of
-these changing feelingsy a basic trust in his own process.
+these changing feelings a basic trust in his own process.
 
 This trust is not primarily in the conscious processes which go on,
 but rather in the total organismic process. One client describes the
@@ -5694,7 +5694,7 @@ felt in process.
 An example m ay be taken from the same follow-up interview with
 the client quoted above. In this interview, because he is reporting his
 experience since therapy, he again becomes aware o f himself as an
-object, but it is clear that this has not been the quality of his day-byday experience. A fter reporting many changes, he says, " I hadn't
+object, but it is clear that this has not been the quality of his day-day-by-day experience. A fter reporting many changes, he says, " I hadn't
 really thought o f any o f these things in connection with therapy
 until tonight. . . . ( Jo k in gly ) G ee! m aybe something did happen.
 Because m y life since has been different. M y productivity has gone
@@ -5726,14 +5726,14 @@ what it would be like — that it doesn't matter if I don't please you
 — that pleasing you or not pleasing you is not the thing that is
 important to me. If I could just kinda say that to people — you
 know? . . . the idea o f just spontaneously saying something — and it
-not m attering whether it pleases or not — Oh G od ! you could say
+not m mattering whether it pleases or not — Oh G od ! you could say
 
 almost anything: But that's true, you know ." And a little later he
 asks himself, with incredulity, " You mean if I'd really be what I
-feel like being, that that would be all right?" H e is struggling toward a rcconstruing o f some very basic aspects of his experience.
+feel like being, that that would be all right?" H e is struggling toward a reconstruing o f some very basic aspects of his experience.
 
 Internal communication is clear, with feelings and sym bols well
-m atched, and fresh terms for new feelings.
+m matched, and fresh terms for new feelings.
 There is the experiencing of effective choice of new w ays of being.
 Because all the elements o f experience are available to awareness,
 choice becomes real and effective. Here a client is just com ing to
@@ -5802,7 +5802,7 @@ judgm ents which individuals and cultures will have to make. Such
 a process o f change can easily be avoided, by reducing or avoiding
 those relationships in which the individual is fully received as he is.
 Is change on this continuum rapid? Aly observation is quite the
-contrary. M y interpretation of K irtn er's study (4 ), which m ay be
+contrary. M y interpretation of K Kirtner er's study (4 ), which m ay be
 slightly different from his, is that a client might start therapy at
 about stage two and end at about stage fou r with both client and
 therapist being quite legitim ately satisfied that substantial progress
@@ -5816,7 +5816,7 @@ Are the descriptive items properly grouped at each stage? I feel
 sure that there are many errors in the w ay I have grouped my observations.
 I also w onder w hat im portant elements have been
 omitted. I wonder also if the different elements of this continuum
-might not be more parsim oniously described. A ll such questions,
+might not be more parsim parsimoniously described. A ll such questions,
 however, m ay be given an empirical answer, if the hypothesis I am
 setting forth has merit in the eyes o f various research workers.
 
@@ -5845,7 +5845,7 @@ its implicit meaning. Experiencing m ust be safely in the past before a meaning 
 in terms o f these past meanings. From this remoteness in relation
 to his experiencing, the individual moves toward the recognition of
 
-A Process Covceptiofiof Psychotherapy
+A Process Conception Psychotherapy
 
 experiencing as a troubling process going on within him. Experiencing gradually bccom es a more accepted inner referent to which he
 can turn for increasingly accurate meanings. Finally he becomes
@@ -5903,12 +5903,12 @@ has become an integrated process o f changingness.
 
 1. Gendlin, E. Experiencing and the Creation of Meaning (tentative
 
-title). G lencoe, 111.: Free Press. (In Press) (Especially Chap. 7)
+title). G Glencoe, 111.: Free Press. (In Press) (Especially Chap. 7)
 
 2. Gendlin, E., and F. Zimring. T h e qualities or dimensions o f experiencing and their change. Counseling Center Discussion Papers J, # 3 , Oct.
 1955. U niversity o f Chicago Counseling Center.
 
-3. K elly, G . A . The psychology of personal constructs. V ol. 1. N e w
+3. K Kelly, G . A . The psychology of personal constructs. V ol. 1. N e w
 
 York: N orton , 1955.
 
@@ -5922,7 +5922,7 @@ A Process Conception o f Psychotherapy
 
 limited client-centered psychotherapy.
 In Burton, A . (E d .), Case
-Studies of Counseling and Psychotherapy. N e w York: Prentice-Hali,
+Studies of Counseling and Psychotherapy. N e w York: Prentice-Hall,
 1959, 309-352.
 
 6. Alooney, R. L. T h e researcher himself. In Research for curriculum
@@ -5958,7 +5958,7 @@ observe. Som e of these m eanings seem to have exciting implications
 for our m odern w orld.
 
 In 1951 D r. Russell Becker, a friend, form er student and colleague
-of mine, invited me to give a special lecture to an all-college convocation at W ooster College in Ohio. I decided to w ork out more
+of mine, invited me to give a special lecture to an all-college convocation at W Wooster College in Ohio. I decided to w ork out more
 clearly fo r m yself the meaning o f the personal directions which
 clients seem to take in the free climate o f the therapeutic relationship. When the paper w as finished I had grave doubts that I had
 expressed anything which w as in any way new or significant. The
@@ -5973,7 +5973,7 @@ theme presented by some o f our m ost m odem philosophers, which
 A P h i l o s o p h y o f P e r s o n s
 
 h 'j s however beautifully expressed more than twenty-five centuries
-ago by Lao-tzu, n'ken he said. " The iL\iy to do is to be."
+ago by Lao-tzu, when he said. " The iL\iy to do is to be."
 
 T h e Q u e s t i o n s
 
@@ -5994,7 +5994,7 @@ these questions more than a century ago. Sim ply to express another personal opi
 would seem presumptuous. But as I have w orked for m any years
 individuals I believe that I can
 with troubled and maladjusted
-discern a pattern, a trend, a com monality, an orderliness, in the
+discern a pattern, a trend, a com commonality, an orderliness, in the
 tentative answers to these questions which they have found for themselves. And so I would like to share with you m y perception of
 what human beings appear to be striving for, when they are free to
 choose.
@@ -6007,12 +6007,12 @@ have mentioned are not pseudo-questions, nor have men in the past
 or at the present time agreed on the answers. WTien men in the
 past have asked themselves the purpose o f life, some have answered,
 in the words o f the catechism, that " the chief end o f man is to
-g lorify G od ." Others have thought o f life's purpose as being the
+g glorify G od ." Others have thought o f life's purpose as being the
 preparation of oneself for im mortality. Others have settled on a
 
 'T o Be T h at S elf W hich One T ru ly Is"
 
-much more carthv goal — to enjoy and release and satisfy every
+much more earthy goal — to enjoy and release and satisfy every
 sensual desire. Still others — and this applies to m any today — regard the purpose o f life as being to achieve — to gain material possessions, status, knowledge, power. Som e have made it their goal
 to give themselves com pletely and devotedly to a cause outside of
 themselves such as Christianity, or Communism. A H itler has seen
@@ -6022,7 +6022,7 @@ striven to eliminate all personal desires, to exercise the utmost of
 control over himself. I mention these widely ranging choices to
 indicate some o f the very different aims men have lived for, to suggest that there are indeed many goals possible.
 
-In a recent important study Charles Alorris investigated objectively the pathways o f life which were preferred by students in
+In a recent important study Charles Morris investigated objectively the pathways o f life which were preferred by students in
 six different countries — India, China, Japan, the United States,
 Canada, and N orw ay (5 ). As one m ight expect, he found decided
 differences in goals between these national groups. H e also endeavored, through a factor analysis o f his data, to determine the
@@ -6050,7 +6050,7 @@ and to nature. Inspiration is seen as coining from a source outside
 
 the self, and the person lives and develops in devoted responsiveness to this source.
 
-T h e fifth and final dimension stresses sensuous enjoyment, selfenjoyment. T h e simple pleasures o f life, an abandonment to the
+T h e fifth and final dimension stresses sensuous enjoyment, self-enjoyment. T h e simple pleasures o f life, an abandonment to the
 moment, a relaxed openness to life, are valued.
 
 T h is is a significant study, one o f the first to measure objectively
@@ -6154,7 +6154,7 @@ never really meet them. It's sort o f an endless demand." She feels
 she has been like her mother, submissive and compliant, trying continually to meet his demands. " A nd really not wanting to be that
 kind of person. I find it's not a good w ay to be, but yet I think I've
 had a sort o f belief that that's the w ay you have to be if you intend
-to be thought a lot of and loved. And yet who would ivant to love
+to be thought a lot of and loved. And yet who would want to love
 som ebody who was that sort o f w ishy washy person?" T h e counselor responded, " W ho really would love a door m at?" She went
 on, " A t least I w ouldn't want to be loved by the kind o f person
 who'd love a door m at!"
@@ -6198,7 +6198,7 @@ In a newly com pleted study o f student values in this country
 Jacob summarizes his findings by saying, " T h e main overall effect
 o f higher education upon student values is to bring about general
 acceptance o f a bod y of standards and attitudes characteristic of
-collegebred men and women in the Am erican community. . . . The
+college-bred men and women in the Am erican community. . . . The
 impact of the college experience is . . . to socialize the individual,
 to refine, polish, or 'shape up' his values so that he can fit comfortably into the ranks o f Am erican college alumni." (1, p. 6)
 
@@ -6222,7 +6222,7 @@ therapy: " I finally felt that I sim ply had to begin doing what I
 VJ71 ted to do. not what I thought 1 should do, and regardless of
 what other people feel 1 should do. This is a complete reversal o f
 m y whole life. I've alwa\*s felt I had to do things because they were
-cxpccted of me, or more im portant, to make people like me. The
+expected of me, or more im portant, to make people like me. The
 hell with it! 1 think from now on I'm going to just be me — rich
 or poor, good or bad, rational or irrational, logical or illogical,
 famous or infamous. So thanks for your part in helping me to rediscover Shakespeare's — 'T o thine own self be true.' "
@@ -6251,7 +6251,7 @@ First o f all, the client m oves tow ard being autonomous. B y this I
 " T o Be Th at Self W hich One T ru ly Is"
 
 mean that gradually he chooses the goals tow ard which he wants to
-move. H e becomes responsible for himself. H e decides w hat activities and wrays o f behaving have meaning for him, and what do not.
+move. H e becomes responsible for himself. H e decides w hat activities and ways o f behaving have meaning for him, and what do not.
 I think this tendency toward self-direction is am ply illustrated in
 the examples I have given.
 
@@ -6261,7 +6261,7 @@ oneself is a frighteningly responsible freedom , and an individual
 moves toward it cautiously, fearfully, and with almost no confidence
 at first.
 
-N o r would I want to give the impression that he ahvays makes
+N o r would I want to give the impression that he always makes
 sound choices. T o be responsibly self-directing means that one
 chooses — and then learns from the consequences. So clients find
 this a sobering but exciting kind o f experience. As one client says
@@ -6272,7 +6272,7 @@ is a common kind o f reaction as the client takes over the self-direction of his
 T o w a r d B e i n g P r o c e s s
 
 Th e second observation is difficult to make, because wre do not
-have good w'ords for it. Clients seem to move tow ard more openly
+have good words for it. Clients seem to move tow ard more openly
 being a process, a fluidity, a changing. T h ey are not disturbed to
 find that they are not the same from day to day, that they do not
 always hold the same feelings tow ard a given experience or person,
@@ -6284,7 +6284,7 @@ One client says, "T h ings are sure changing, boy, when I can't
 even predict m y own behavior in here anymore. It was something
 I was able to do before. N o w I don't know w hat I'll say next. Man,
 it's quite a feeling. . . . I'm just surprised I even said these things. . . .
-I see something newr every time. It's an adventure, that's wfhat it is
+I see something new every time. It's an adventure, that's what it is
 — into the unknow n___ I'm beginning to enjoy this now, I'm joyful
 about it, even about all these old negative things." H e is beginning
 to appreciate himself as a fluid process, at first in the therapy hour,
@@ -6307,7 +6307,7 @@ T o w a r d B e i n g C o m p l e x i t y
 
 It also involves being a com plexity o f process. Perhaps an illustration will help here. One o f our counselors, who has himself
 been much helped by psychotherapy, recently came to me to discuss
-It inhis relationship with a very difficult and disturbed client.
+It in his relationship with a very difficult and disturbed client.
 terested me that he did not wish to discuss the clicnt, except in the
 briefest terms. M ostly he wanted to be sure that he was clearly
 aware o f the com plexity o f his own feelings in the relationship —
@@ -6390,7 +6390,7 @@ other people." (4, p. 214)
 
 T o w a r d A c c e p t a n c e o f O t h e r s
 
-C losely related to this openness to inner and outer experience in
+C Closely related to this openness to inner and outer experience in
 general is an openness to and an acceptance o f other individuals.
 A s a client moves tow ard being able to accept his own experience,
 he also moves toward the acceptance o f the experience o f others.
@@ -6409,26 +6409,26 @@ exists, I find developing in clients in therapy.
 T o w a r d T r u s t o f S e l f
 
 Still another w a y o f d escrib in g this pattern w h ich I see in each
-clien t is to say that in creasin gly he trusts and values the process
+clien t is to say that in increasingly gly he trusts and values the process
 w h ich is him self. W a tc h in g m y clients, I have co m e to a m u ch
-b etter und erstan d in g o f creative p eop le. E l G r eco , fo r exam ple,
+b etter und understanding d in g o f creative p eop le. E l G r eco , fo r exam ple,
 m u st have realized as he look ed at som e o f his early w o rk , that "good
 
 artists d o n o t paint like that." B u t so m eh o w he trusted his o w n
 
-exp erien cin g o f life, the p rocess o f him self, su fficien tly that he cou ld
-g o o n expressing his o w n u nique p ercep tion s. It w as as th ou gh he
+exp erien cin g o f life, the p rocess o f him self, su sufficiently tly that he cou ld
+g o o n expressing his o w n u nique p perceptions tion s. It w as as th ou gh he
 cou ld say, "G o o d artists d o n o t paint like this, b u t I paint like this."
 O r to m o v e to another field, E rn est H e m in g w a y w as su rely aw are
 that "g o o d w riters d o n o t w rite like this." B ut fortu n ately he m oved
 tow ard b ein g H e m in g w a y , b ein g him self, rather than tow ard som e
 on e else's co n ce p tio n o f a g o o d w riter. E instein seem s to have been
 u nu su ally ob livious to th e fact that g o o d p h ysicists did n o t think his
-kind o f th ough ts. R ather than d raw in g back because o f his inadeq uate academ ic preparation in p h y sics, he sim p ly m oved tow ard
+kind o f th ough ts. R ather than d raw in g back because o f his inadequate uate academ ic preparation in p h y sics, he sim p ly m oved tow ard
 b ein g E instein, tow ard th in k in g his o w n th ough ts, tow ard b ein g as
-tru ly and d eep ly h im self as he cou ld . T h is is n o t a p henom enon
+tru ly and d eep ly h im self as he cou ld . T h is is n o t a p phenomenon enon
 w h ich occu rs o n ly in the artist or the gen iu s. T im e and again in m y
-clients, I have seen sim ple p eop le b eco m e sign ificant and creative
+clients, I have seen sim ple p eop le b eco m e sign significant and creative
 in their o w n spheres, as th e y have d evelop ed m o re trust o f th e
 processes g o in g on w ith in th em selves, and have dared to fe e l their
 o w n feelin gs, live b y values w h ic h th e y d iscover w ith in , and express
@@ -6442,12 +6442,12 @@ I have been trying to describe. It seems to mean that the individual
 moves tow ard being, know ingly and acceptingly, the process which
 he inw ardly and actually is. H e moves aw ay from being what he is
 not, from being a fa5ade. H e is not trying to be more than he is,
-with the attendant feelings o f insecurity or bom bastic defensiveness. H e is not trying to be less than he is, with the attendant feelings
+with the attendant feelings o f insecurity or bom bombastic defensiveness. H e is not trying to be less than he is, with the attendant feelings
 o f guilt or self-depreciation. H e is increasingly listening to the deep­
 
 est recesses of his physiological and emotional being, and finds himself increasingly willing to be, with greater accuracy and depth, that
 self which he most truly is. One client, as he begins to sense the
-direction he is taking, asks himself w onderingly and with incredulity
+direction he is taking, asks himself w wonderingly and with incredulity
 in one interview, " You mean if I'd really be what I feel like being,
 that that would be all right?" His own further experience, and that
 o f many another client, tends tow ard an affirmative answer. T o be
@@ -6467,7 +6467,7 @@ clear these away.
 D o e s I t I m p l y F i x i t y ?
 
 T o some it appears that to be what one is, is to remain static. T h ey
-see such a purpose or value as synonym ous with being fixed or unchanging. N otliing could be further from the truth. T o be what
+see such a purpose or value as synonym ous with being fixed or unchanging. N Nothing could be further from the truth. T o be what
 one is, is to enter fully into being a process. Change is facilitated,
 probably maximized, when one is willing to be what he truly is. Indeed it is the person who is denying his feelings and his reactions who
 is the person who tends to come for therapy. H e has, often fo r years,
@@ -6507,7 +6507,7 @@ path.
 
 Sometimes people express this concern by saying that if an individual were to be what he truly is, he would be releasing the beast
 in himself. I feel somewhat amused by this, because I think we might
-take a closcr look at the beasts. T h e lion is often a sym bol o f the
+take a closer look at the beasts. T h e lion is often a sym bol o f the
 " ravening beast." But what about him? Unless he has been very
 much warped by contact with humans, he has a number o f the
 qualities I have been describing. T o be sure, he kills when he is
@@ -6688,7 +6688,7 @@ dation, 1956.
 
 versity Press, 1941.
 
-3. Kierkegaard, S. The Sickness Unto Death. Princcton University
+3. Kierkegaard, S. The Sickness Unto Death. Princeton University
 
 Press, 1941.
 
@@ -6710,7 +6710,7 @@ The Fully Functioning Person
 A,bout 1952 or 1953 I w rote, during one o f m y winter escapes to
 -tA. warmer climes, a paper I entitled " The Concept o f the Fully
 Functioning Person." It was an attem pt to spell out the picture of
-the person who w oidd emerge if therapy were maximally successful.
+the person who w would emerge if therapy were maximally successful.
 1 was somewhat frightened by the fluid, relativistic, individualistic
 person who seemed to be the logical outcom e o f the processes of
 therapy. I felt two questions. W as my logic correct? If correct, was
@@ -6719,7 +6719,7 @@ over these ideas, I had the paper duplicated, and in the ensuing years
 have distributed hundreds o f copies to interested inquirers. A s I
 became m ore sure of the ideas it contained, I submitted it to one of
 the m ajor psychological journals. The editor wrote that he would
-publish it, but felt that it needed to be cast in a much more conventio?ial psychological fram ew ork. H e suggested many fundamental
+publish it, but felt that it needed to be cast in a much more conventional?ial psychological fram ew ork. H e suggested many fundamental
 changes. This made me feel that it w as probably not acceptable to
 psychologists in the form in which I had written it, and I dropped
 the idea o f publication. Since then it has continued to be a focus of
@@ -6764,11 +6764,11 @@ to an object o f study, not as a physician expecting to diagnose and
 
 A Therapist's View of the G o o d Life
 
-curc, but as a person to a person. It would mean that the therapist
+cure, but as a person to a person. It would mean that the therapist
 feels this clicnt to be a person o f unconditional self-worth: o f value
 no matter what his condition, his behavior, or his feelings. It would
 mean that the therapist is genuine, hiding behind no defensive
-fagadc, but meeting the clicnt with the feelings which organically
+facade, but meeting the clicnt with the feelings which organically
 he is experiencing. It would mean that the therapist is able to let
 himself go in understanding this client; that no inner barriers keep
 him from sensing what it feels like to be the clicnt at each moment
@@ -6777,7 +6777,7 @@ been com fortable in entering this relationship fully, without knowing cognitive
 which will permit the clicnt the utm ost freedom to becom e himself.
 For the client, this optimal therapy would mean an exploration
 of increasingly strange and unknown and dangerous feelings in himself, the exploration proving possible only because he is gradually
-realizing that he is acccptcd unconditionally. T h us he bccom cs acquainted with elements of his experience which have in the past been
+realizing that he is accepted unconditionally. T h us he bccom cs acquainted with elements of his experience which have in the past been
 denied to awareness as too threatening, too dam aging to the structure
 o f the self. He finds himself experiencing these feelings fully, com ­
 pletely, in the relationship, so that fo r the moment he is his fear, or
@@ -6796,7 +6796,7 @@ life.
 
 A N e g a t iv e O b se r v a t io n
 
-As I have tried to live un derstan din g^ in the experiences o f my
+As I have tried to live un understanding din g^ in the experiences o f my
 clients, I have gradually come to one negative conclusion about the
 good life. It seems to me that the good life is not any fixed state.
 
@@ -6873,7 +6873,7 @@ stimulus — whether originating within the organism or in the en-
 
 A P h i l o s o p h y o r P e r s o n s
 
-vironmcnt — w ould be freely relayed through the nervous system
+environment — w ould be freely relayed through the nervous system
 without being distorted by any defensive mechanism. There would
 be no need o f the mechanism o f " subception" whereby the organism
 is forewarned o f any experience threatening to the self. On the contrary, whether the stimulus was the impact of a configuration of
@@ -6956,14 +6956,14 @@ possibly conflicting needs, his memories o f similar situations, his
 perception o f the uniqueness o f this situation, etc., etc. T h e data
 would be very com plex indeed. But he could permit his total organism, his consciousness participating, to consider each stimulus,
 need, and demand, its relative intensity and importance, and out of
-this com plex w eighing and balancing, discover that course o f action
+this com plex w weighing and balancing, discover that course o f action
 which would come closest to satisfying all his needs in the situation.
 An analogy which m ight com e close to a description would be to
 com pare this person to a giant electronic com puting machine. Since
 he is open to his experience, all o f the data from his sense impressions,
 from his m em ory, from previous learning, from his visceral and internal states, is fed into the machine. T h e machine takes all o f these
 multitudinous pulls and forces which are fed in as data, and quickly
-com putes the course o f action which w ould be the m ost economical
+com computes the course o f action which w ould be the m ost economical
 vector o f need satisfaction in this existential situation. T h is is the
 behavior o f our hypothetical person.
 
@@ -7114,7 +7114,7 @@ impulses; for as he becom es more open to all o f his impulses, his
 need to be liked b y others and his tendency to give affection will
 be as strong as his impulses to strike out or to seize for himself.
 H e will be aggressive in situations in which aggression is realistically
-appropriate, but there will be no runaw ay need for aggression. His
+appropriate, but there will be no runaway ay need for aggression. His
 total behavior, in these and other areas, as he moves tow ard being
 open to all his experience, will be more balanced and realistic, behavior which is appropriate to the survival and enhancement o f a
 highly social animal.
@@ -7158,14 +7158,14 @@ I believe it will have become evident why, for me, adjectives such
 as happy, contented, blissful, enjoyable, do not seem quite appropriate to any general description o f this process I have called the
 good life, even though the person in this process would experience
 
-each one o f these feelings at appropriate times. But the adjcctives
+each one o f these feelings at appropriate times. But the adjectives
 which seem more generally fitting are adjectives such as enriching,
-cxciting, rewarding, challenging, meaningful. Th is proccss o f the
+exciting, rewarding, challenging, meaningful. Th is proccss o f the
 good life is not, I am convinced, a life for the faint-hearted. It involves the stretching and grow ing o f becom ing more and more of
 one's potentialities. It involves the courage to be. It means launching
 oneself fully into the stream o f life. Yet the deeply exciting thing
 about human beings is that when the individual is inwardly free, he
-chooscs as the good life this proccss o f becoming.
+chooses as the good life this proccss o f becoming.
 
 P A R T V
 
@@ -7175,7 +7175,7 @@ The Place of Research
 
 in Psychotherapy
 
-/ have en d eavored to check
+/ have en d endeavored to check
 
 m y clinical experien ce 'with re a lity ,
 
@@ -7188,9 +7188,9 @@ A Philosophical Question
 
 T his paper stands out fo r vie as one which / found very satisfying
 
-to 'writey and which has continued to be a satisfying expression
+to 'write and which has continued to be a satisfying expression
 of my views. I believe that one o f the reasons I have liked it is that
-it was written solely fo r ?nyself. I had no thought o f publishing it
+it was written solely fo r ?myself. I had no thought o f publishing it
 or using it fo r any purpose other than to clarify a grow ing puzzlement and conflict within m yself.
 
 A s I look back on it I can recognize the origin of the conflict. It
@@ -7218,7 +7218,7 @@ mostly in the fact that reading his w ork loosened me up and made
 me m ore willing to trust and express m y own experience.
 
 Another helpful element in w riting the paper was that I was fa?
-away from colleagues, wintering in T axco, when I w rote the m ajoi
+away from colleagues, wintering in T Taxco, when I w rote the m major
 portion of it. A year later, on the Caribbean island of Grenada, /
 completed the paper by w riting the final section.
 
@@ -7242,7 +7242,7 @@ of the w ay in which the paper grew .
 
 As I have acquired experience as a therapist, carrying on the exciting, rew arding experience o f psychotherapy, and as I have worked
 as a scientific investigator to ferret out some o f the truth about therapy, I have become increasingly conscious o f the gap between these
-two roles. T h e better therapist I have bccomc (as I believe I have)
+two roles. T h e better therapist I have become (as I believe I have)
 the more I have been vaguely aware o f m y com plete subjectivity
 when I am at m y best in this function. And as I have become a
 better investigator, more " hard-headed" and more scientific (as I
@@ -7258,7 +7258,7 @@ psychotherapy as I have lived it with many clients. I would stress
 the fact that this is a very fluid and personal formulation, and that if
 it were written by another person, or it were written by me two
 years ago, or two years hence, it w ould be different in some respects.
-Then I let m yself go as scientist — as tough-minded fact-findcr in
+Then I let m yself go as scientist — as tough-minded fact-finder in
 this psychological realm, and endeavored to picture the meaning
 which science can give to therapy. Follow ing this I carried on the
 debate which existed in me, raising the questions which each point
@@ -7379,7 +7379,7 @@ these learnings are vastly significant in some new w ay which is very
 difficult to define. W e can think o f it in various ways. T h ey are
 self-appropriated learnings, for one thing, based somehow in experience, not in symbols. T h ey arc analogous to the learning of the child
 who knows that " tw o and tw o make fou r" and who one day playing
-with tw o objccts and two objects, suddenly realizes in experience a
+with tw o objects and two objects, suddenly realizes in experience a
 totally new learning, that " tw o and two do make four."
 
 Another manner o f understanding these learnings is that they are
@@ -7529,7 +7529,7 @@ treated as matters fo r an objective science. Yet the best thinking
 in psychology has gone fa r beyond a primitive behaviorism, and has recognized that the objectivity o f psych ology as science rests upon its method,
 not upon its content. T h u s the most subjective feelings, apprehensions, tensions, satisfactions, o r reactions, m ay be dealt with scientifically, providing only
 that they may be given clearcut operational definition. Stephenson, among
-others, presents this point o f view forcefu lly (in his Postulates o f Behaviorism)
+others, presents this point o f view forcefully lly (in his Postulates o f Behaviorism)
 and through his Q Technique, has contributed im portantly to the oojcctification of such subjective materials fo r scientific study.
 
 2 0 8
@@ -7555,14 +7555,14 @@ it too could be given operational definition and tested.
 T h e findings from these studies w o u ld be o f this order. L et us
 b ecom e suppositious, in order to illustrate m ore c o n cr etely . Suppose
 
-u re find that therapist accep tan ce leads to clicn t self-accep tan ce, and
+u re find that therapist accep tan ce leads to client t self-accep tan ce, and
 that the correlation is in the n eigh b orh ood o f .70 b etw een the tw o
 variables. In h y p o th esis tw o w e m ig h t find the h ypoth esis unsupported, b ut find that the m ore the therapist regarded the clien t as a
 
-person, the m ore the clien t's self-a ccep tan ce increased. T h u s w e
-w o u ld have learned that p erson -cen teredn css is an elem en t o f acceptan ce, but that it has little to d o w ith the clien t b eco m in g m ore
+person, the m ore the clien t's self-a acceptance tan ce increased. T h u s w e
+w o u ld have learned that p erson -cen centeredness css is an elem en t o f acceptan ce, but that it has little to d o w ith the clien t b eco m in g m ore
 o f a person to him self. L et us also suppose h ypoth esis three upheld
-w ith experiential learning o f ccrtain dcscribable sorts taking place
+w ith experiential learning o f ccrtain describable sorts taking place
 
 m uch m ore in th erap y than in the co n tro l subjects.
 
@@ -7577,7 +7577,7 @@ laws o f the dynam ics o f human relationships. It can offer public
 and replicable statements, that if certain operationally definable conditions exist in the therapist or in the relationship, then certain clicnt
 behaviors m ay be expected with a known degree o f probability. It
 
-Persons or Scievcc?
+Persons or Science?
 
 can presumably do this for the field o f therapy and personality
 change as it is in the process o f doing for such fields as perception
@@ -7622,7 +7622,7 @@ just as true as this account. Each of them represents the truth as
 perceived inwardly b y some individual or group o f individuals.
 If we are to avoid this morass o f multiple and contradictory truths,
 we must fall back on the only method we know for achieving an
-evcr-closer approximation to reality, the scientific method."
+ever-closer approximation to reality, the scientific method."
 
 2. " In the second place, this experiential approach shuts one off
 from improving his therapeutic skill, or discovering the less than
@@ -7744,7 +7744,7 @@ even ourselves, as objects. T h e knowledge o f all human relationships
 would be so great that we would know it rather than live the relationships unreflectively. W e see some foretaste o f this in the attitude
 of sophisticated parents who know that affection 'is good for the
 child.' T h is knowledge frequently stands in the w ay o f their being
-themselves, freely, unreflectivclv — affectionate or not. Thus the
+themselves, freely, unreflectively — affectionate or not. Thus the
 development o f science in a field like therapy is either irrelevant to
 the experience, or m ay actually make it more difficult to live the
 relationship as a personal, experiential event."
@@ -7760,7 +7760,7 @@ the knowledge o f the events and their relationships lead to manipulation o f so
 true in psychology, and would be true in therapy. If we know all
 about how learning takes place, we use that knowledge to manipulate
 persons as objects. This statement places no value judgment on
-manipulation. It m ay be done in highly cthical fashion. W c may
+manipulation. It m ay be done in highly ethical fashion. W c may
 even manipulate ourselves as objects, using such knowledge. Thus,
 knowing that learning takes place more rapidly with repeated review rather than long periods o f concentration on one lesson, I may
 use this know ledge to manipulate m y learning in Spanish. But knowledge is power. As I learn the laws o f learning I use them to manipulate others through advertisements, through propaganda, through
@@ -7772,7 +7772,7 @@ equally strong tendency is tow ard the weakening or destruction
 of the existential person. W hen all are regarded as objects, the sub­
 
 jective individual, the inner self, the person in the process o f becom ­
-ing, the unrcflective consciousness o f being, the whole inward side
+ing, the unreflective consciousness o f being, the whole inward side
 of living life, is weakened, devalued, or destroyed. Perhaps this is
 best exemplified by two books. Skinner's Walden T w o is a psychologist's picture o f paradise. T o Skinner it must have seemed desirable, unless he wrote it as a tremendous satire. A t any rate it is a
 paradise o f manipulation, in which the extent to which one can be
@@ -7853,7 +7853,7 @@ regarding the paper with Anne R oe and W alter Smet.
 
 2 1 6
 
-ganized collection o f tentatively verified facts, and saw the methodology o f science as the socially approved means of accumulating this
+organized collection o f tentatively verified facts, and saw the methodology o f science as the socially approved means of accumulating this
 body o f knowledge, and continuing its verification. It has seemed
 somewhat like a reservoir into which all and sundry m ay dip their
 buckets to obtain water — with a guarantee o f 99% purity. When
@@ -7895,9 +7895,9 @@ Out o f this complete subjective
 
 immersion comes a creative
 forming, a sense o f direction, a vague form ulation o f relationships
-hitherto unrecognized. W hittled down, sharpened, formulated in
+hitherto unrecognized. W whittled down, sharpened, formulated in
 clearer terms, this creative form ing becom es a hypothesis — a statement o f a tentative, personal, subjective faith. T h e scientist is saying,
-drawing upon all his knowrn and unknown experience, that " I have
+drawing upon all his known and unknown experience, that " I have
 a hunch that such and such a relationship exists, and the existence
 o f this phenomenon has relevance to m y personal values."
 
@@ -7906,7 +7906,7 @@ most important phase, but one which American scientists, particularly psychologi
 so much that it has been denied as that it has been quickly brushed
 off. Kenneth Spence has said that this aspect o f science is " simply
 taken for granted." * Like many experiences taken for granted, it
-also tends to be forgotten. It is indeed in the matrix o f immcdinrc
+also tends to be forgotten. It is indeed in the matrix o f immediate
 personal, subjective experience that all science, and each individual
 scientific research, has its origin.
 
@@ -7922,14 +7922,14 @@ make sure I am not deceiving m yself. I can consult with others
 
 •
 
-It m ay be pertinent to quote the scntcnces from which this phrase is
+It m ay be pertinent to quote the sentences from which this phrase is
 
 taken. " . . . the data o f all sciences have the same origin — namely, the immediate experience o f an observing person, the scientist himself. T h a t is to say,
 immediate experience, the initial matrix out o f which all s c i e n c e s develop, is no
 longer considered a matter o f concern fo r the scientist qua scientist. H e simply
 takes it fo r granted and then proceeds to the task o f describing the events
 occurring in it and discovering and form ulating the nature o f the relationships
-holding am ong them." Kenneth XV. Spcncc, in Psychological Th eory, cd. liy
+holding am ong them." Kenneth XV. Spence, in Psychological Th eory, cd. liy
 Al. II. M arx (N ew York: Macmillan, 19J1), p. 173.
 
 who have also been concerned w'ith avoiding self-deception, and
@@ -8014,7 +8014,7 @@ those who have agreed to the same ground rules o f investigation.
 T h e Australian bushman will be quire unimpressed with the findings
 o f science regarding bacterial infection. H e knows that illness truly
 is caused b y evil spirits. It is only w hen he too agrees to scientific
-method as a good means o f preventing sclf-dcception, that lie will be
+method as a good means o f preventing sclf-self-deception, that lie will be
 likely to accept its findings.
 
 But even am ong those who have adopted the ground rules of
@@ -8063,7 +8063,7 @@ the use which will be made o f scientific findings in the field o f personality 
 same type of choice as a person makes in therapy. T o the extent that
 he has defensively closed off areas o f his experience from awareness,
 the person is more likely to make choices which are socially destructive. T o the extent that he is open to all phases o f his experience we
-nvay be sure that this person wrill be more likely to use the findings
+may be sure that this person will be more likely to use the findings
 and methods o f science (or any other tool or capacity) in a manner
 which is personally and socially constructive.* There is, in actuality
 then, no threatening entity o f " Science" which can in any w ay affect
@@ -8120,11 +8120,11 @@ phase o f subjective living.
 
 It is because I find value and rew ard in human relationships that
 I enter into a relationship known as therapeutic, where feelings and
-cognition m erge into one unitary experience which is lived rather
+cognition m merge into one unitary experience which is lived rather
 
 Persons or Science?
 
-than examined, in which awareness is non-reflective, and wThere I
+than examined, in which awareness is non-reflective, and where I
 am participant rather than observer. But because I am curious about
 the exquisite orderliness which appears to exist in the universe and in
 this relationship I can abstract m yself from the experience and look
@@ -8157,7 +8157,7 @@ T h is then is the degree o f integration I have currently been able
 to achieve between two approaches first experienced as conflicting.
 It does not com pletely resolve all the issues posed in the earlier sec­
 
-tion, but it seems to point tow ard a resolution. It rewrites the problem or rcperceives the issue, by putting the subjective, existential
+tion, but it seems to point tow ard a resolution. It rewrites the problem or reperceives the issue, by putting the subjective, existential
 person, with the values which he holds, at the foundation and the
 root o f the therapeutic relationship and o f the scicntific relationship.
 For science too, at its inception, is an " I-T hou" relationship with a
@@ -8170,17 +8170,17 @@ in Psychotherapy
 T he paper 'which follow s gives a few of the salient features of a
 
 very large scale research carried on at the University of Chicago
-Counseling Center from 1950-1954, viade possible by the generous
+Counseling Center from 1950-1954, made possible by the generous
 support o f the Rockefeller Foundation, through its M edical Sciences
 Division. 1 was invited to present a paper to the Fifth International
-Congress on M ental Health in T oro n to, in 1954, and chose to attempt to describe certain portions of that program . Within a viomh
+Congress on M ental Health in T oro n to, in 1954, and chose to attempt to describe certain portions of that program . Within a month
 of the delivery of this paper, our book describing the whole program was published by the University of Chicago Press. Although
 Rosalind D ym ond and 1 served as editors as well as authors of certain
 portions o f the book, the other authors deserve equal credit for the
 book and fo r the vast amount of w ork from which this paper skims
 a few of the more striking points. These other authors are: John M.
 Butler, Desm ond Cartw right, Thom as G ordon , Donald L. Grw/:-
-mon, G erard V. H aigh, Eve S. Jo h n , Esselyn C. R vdikofJ, Julws
+mon, G Gerard V. H aigh, Eve S. Jo h n , Esselyn C. R vdikofJ, Julius
 Seeman, Rolland R. Tonyas, and Manuel J. Vargas.
 
 A special reason fo r including this presentation in this volume L
@@ -8266,7 +8266,7 @@ have drawn from it the theoretical description o f those changes
 which we hypothesized as occurring in therapy. T h e purpose o f the
 research is to determine whether the changes which are hypothesized
 do or do not occur in measurable degree. T h us from the theory of
-client-centered therapy wre have drawrn hypotheses such as these:
+client-centered therapy wre have drawn hypotheses such as these:
 during therapy feelings which have previously been denied to awareness are experienced, and are assimilated into the concept o f self;
 during therapy the concept o f the self becom es more congruent with
 the concept o f the ideal self; during and after therapy the observed
@@ -8351,14 +8351,14 @@ distribution to the therapy group, and roughly equivalent in socioeconomic statu
 therapy group, at matched time intervals. A portion o f this group
 was given the test battery four times, in order to make them strictly
 
-comparable to the ow n-control therapy group. Th e rationalt of this
+comparable to the ow n-control therapy group. Th e rationale of this
 equivalent-control group is that if change occurs in individuals as
 the result o f the passage o f time, or the influence of random variables, or as an artifact o f the repeated administration o f tests, then
 such change should be evident in the findings from this group.
 
 Th e over-all logic o f this doubly controlled design is that if the
 therapy group shows changes during and after the therapy period
-which are significantly greater than those which occur in the owncontrol period or in the equivalent-control g roup , then it is reasonable to attribute these changes to the influence o f the therapy.
+which are significantly greater than those which occur in the own-control period or in the equivalent-control g roup , then it is reasonable to attribute these changes to the influence o f the therapy.
 
 I cannot, in this brief report, go into the complex and ramified
 details o f the various projects which were carried out within the
@@ -8416,7 +8416,7 @@ to picture himself he was also asked to sort them to represent the
 self he would like to be, his ideal self.
 
 W e thus had detailed and objective representations o f the client's
-self-pcrception at various points, and his perception of his ideal self.
+self-perception at various points, and his perception of his ideal self.
 These various sortings were then inter-correlated, a high correlation
 between two sortings indicating similarity or lack o f change, a low
 correlation indicating a dissimilarity, or a marked degree o f change.
@@ -8440,7 +8440,7 @@ seven months later, and at that time she decided to come in for 8
 more interviews. A second follow up study was done 5 months later.
 T h e counselor judged that there had been very considerable movement in therapy.
 
-presents some o f the data regarding the changing selfperception o f this client. Each circle represents a sorting for the
+presents some o f the data regarding the changing self-perception o f this client. Each circle represents a sorting for the
 ideal self or the self. Sortings were done before therapy, after the
 seventh and twenty-fifth interviews, at the end of therapy, and at
 the first and second followup points. Th e correlations are given between m any of these sortings.
@@ -8485,14 +8485,14 @@ expert judges would term adjustment.
 
 A s one part o f our study the Q-sort cards were given to a group
 o f clinical psychologists not associated with the research, and they
-were asked to sort the cards as they would be sorted by a " well-adjusted" person- T h is gave us a criterion sorting with which the sclfperception o f any client could be compared. A simple score was
+were asked to sort the cards as they would be sorted by a " well-adjusted" person- T h is gave us a criterion sorting with which the self-perception o f any client could be compared. A simple score was
 developed to express the degree of similarity between the client's
 self-perception and this representation o f the " adjusted" person.
 T h is was called the " adjustment score," higher scores indicating a
 higher degree o f " adjustment."
 
 In the case o f the client we have been considering the adjustment
-scores for the six succcssive self-sorts shown in , beginning
+scores for the six successive self-sorts shown in , beginning
 with the self as perceived before therapy, and ending at the second
 follow up point, are as follow s: 35, 44, 41, 52, 54, 51. T h e trend
 toward im proved adjustment, as operationally defined, is evident
@@ -8517,7 +8517,7 @@ changes are similar to those shown by the other clients in the research and are 
 which arc illustrated in .
 
 It will be evident that the representation o f the ideal self is much
-more stable than the representation o f the self. T h e inter-corrclations are all above .70, and the conception o f the person she would
+more stable than the representation o f the self. T h e inter-correlations are all above .70, and the conception o f the person she would
 like to be changes relatively little over the whole period. T h is is
 characteristic o f almost all o f our clients. W hile we had formulated
 no hypothesis on this point it had been our expectation that some
@@ -8620,7 +8620,7 @@ Relationship between Self, Self-Ideal, and Diagnosis
 i n P s y c h o t h e r a p \
 
 .30). In view o f the com mon professional opinion that clients overrate the degree o f change they have undergone, this fact is o f interest. T h e possibility is also suggested that an individual m ay
-change so m arkedly over a period o f eighteen months that at the
+change so m markedly over a period o f eighteen months that at the
 conclusion his personality ii more dissimilar than similar to his
 personality at the outset.
 
@@ -8639,7 +8639,7 @@ and the adoption o f specific operationally defined criteria o f change,
 based upon detailed hypotheses grow ing out o f a theory o f the
 dynamics o f therapy. T h e use o f m any specific criteria has enabled
 us to make scientific progress in determining the types o f change
-which do and do not occur concom itant with client-centered
+which do and do not occur concom concomitant with client-centered
 therapy.
 
 A second feature is a new approach to the hitherto unresolved
@@ -8678,7 +8678,7 @@ T h e m ethodological progress made in recent years means that the
 many subtleties o f the therapeutic process are now wide open for
 research investigation. I have endeavored to illustrate this from the
 investigation o f changes in the self-concept. Rut similar methods
-make it equally possible to study objcctivclv the changing relationship between client and therapist, " transference" and " countertransference" attitudes, the changing source o f the client's value
+make it equally possible to study objectively the changing relationship between client and therapist, " transference" and " countertransference" attitudes, the changing source o f the client's value
 system, and the like.
 I believe it may be said that almost any
 theoretical construct which is thought to be related to personality
@@ -8696,7 +8696,7 @@ the dynamics of personality, particularly on the proccss of personality change i
 
 sult. Psychol., 1952, 16, 319-324.
 
-4. Hebb, D. O. Organization of Behavior. New York: W iley, 1949.
+4. Hebb, D. O. Organization of Behavior. New York: W Wiley, 1949.
 
 5. Rogers, C. R. Client-Centered Therapy. Boston: Houghton Mifflin
 
@@ -8721,7 +8721,7 @@ Press, 1953.
 Client-Centered Therapy
 in Its Context o f Research *
 
-H ow could 1 viake clear, to a European audience relatively un­
+H ow could 1 make clear, to a European audience relatively un­
 
 accustom ed to the Am erican tradition of empirical research
 in psychology, the methods, the findings, the significance, of research in client-centered therapy? This was the task which was set
@@ -8741,10 +8741,10 @@ Europeans.
 
 In one small m atter I beg the reader's indulgence. Three para-
 
-* T h is is the English version o f Chapter X II o f the volume Vsychotherapie
+* T h is is the English version o f Chapter X II o f the volume Psychotherapie
 
-en menselijke verkoudingen: Tbeorie en praktijk van de non-directieve tberapie
-by Carl R . R ogers & G . iMarian Kinget, Utrecht, T h e Netherlands: (U itgeverij H et Spectrum , 1960).
+en menselijke verkoudingen: Theorie en praktijk van de non-directieve therapie
+by Carl R . R ogers & G . iMarian Kinget, Utrecht, T h e Netherlands: (U uitgeverij H et Spectrum , 1960).
 
 R r s i ; a r c h
 
@@ -8765,13 +8765,13 @@ T h e S t i m u l a t i o n o f R e s e a r c h
 
 One o f the m ost im portant characteristics o f the client-centered
 orientation to therapy is that from the first it has not only stimulated
-research but has existed in a contcxt o f research thinking. The
+research but has existed in a context o f research thinking. The
 number and variety o f the com pleted studies is impressive. In 1953
 Seeman and Raskin described or mentioned nearly fifty research investigations having to do with client-centered therapy with adults,
 in their critical analysis o f the trends and directions o f such research
 (9 ). In 1957 Cartw right published an annotated bibliography of
 research and theory construction in client-centered therapy, and
-found it nccessary to include 122 references (4 ). H e, like Seeman
+found it necessary to include 122 references (4 ). H e, like Seeman
 and Raskin, omitted all references having to do with research in
 play therapy and group therapy o f a client-centered nature. There
 seems then no question but that the theory and practice o f clientcentered therapy have set in motion a surprising number o f objective
@@ -8880,7 +8880,7 @@ therapeutic interviews electronically, but no research use had been
 made o f such material. There had been no serious attempts to
 utilize the methods of science to measure the changes which were
 thought to occur in therapy. So we are speaking of a field w hich
-is still, relatively speaking, in its sw'addling clothes. But a beginning
+is still, relatively speaking, in its swaddling clothes. But a beginning
 has been made.
 
 Sometime in 1940 a group o f us at Ohio State University successfully recorded a complete therapeutic interview. Our satisfaction
@@ -8923,7 +8923,7 @@ client. In the first tw o the locus o f evaluation clearly resides in the
 counselor, but in the last the counselor is endeavoring to think and
 empathize with the client within the latter's own frame of reference, respecting the client's own valuing process.
 
-T h e question Raskin raised was wThether the client's perceived
+T h e question Raskin raised was Whether the client's perceived
 locus o f evaluation changed during therapy. Putting it more specifically, is there a decrease in the degree to which his values and standards depend upon the judgm ents and expectations o f others, and an
 increase in the extent to which his values and standards are based
 upon a reliance upon his own experience?
@@ -8966,13 +8966,13 @@ thought I should be, but now I'm wondering whether I shouldn't
 just sec that I am what I am." (6, p. 151).
 
 3. Raskin now used this scale to rate each of 59 interviews in ten
-hricf but fully recorded cases which had been made the subject of
+brief but fully recorded cases which had been made the subject of
 other research investigations. A fter he had made these ratings, hut
-befcre analyzing them, he wished to determine the reliability of his
+before analyzing them, he wished to determine the reliability of his
 judgments. Consequently he chose at random one item relating to
 locus of evaluation from each o f the 59 interviews, and had these
 rated independently b y another judge who knew nothing of the
-source o f the items, or whether they camc from early or late interviews. T h e correlation between the two sets of ratings was .91,
+source o f the items, or whether they came from early or late interviews. T h e correlation between the two sets of ratings was .91,
 a highly satisfactory reliability.
 
 4. H aving constructed a scale of equal-appearing intervals, and
@@ -8981,11 +8981,11 @@ having demonstrated that it was a reliable instrument, Raskin was
 now ready to determine whether there had been any shift in the
 locus o f evaluation during therapy. T h e average score for the first
 interviews in the ten cases was 1.97, for the final interviews 2.73,
-a difference significant at the .01 level. Th us the theory o f clicntcentered therapy on this point was upheld. A further confirmation
+a difference significant at the .01 level. Th us the theory o f client-centered therapy on this point was upheld. A further confirmation
 was available. These 10 cases had been studied in other objective
 wavs, so that there were objective criteria from other studies as to
 which cases were more, and which less successful. If one takes the
-five cases judged as more suiiessful, the shift in locus o f evaluation
+five cases judged as more successful, the shift in locus o f evaluation
 in these cases is even sharper, the average for the first interviews
 being 2.12, and for the final interviews 3.34.
 
@@ -9009,13 +9009,13 @@ upon self-evaluations based upon their own experiences.
 
 Although the number o f cases studied is small, and the therapy
 very brief (as was characteristic o f that earlier period) these are
-the only m ajor flaws in this study. It is probable that if rcplicated
+the only m ajor flaws in this study. It is probable that if replicated
 on a larger number o f longer cases the results would still be the
 same. It marks an intermediate level o f research sophistication, somewhere between the very crude initial studies, and the more meticulously designed recent studies.
 
 T ii e R e l a t i o n o f A u t o n o m i c F u n c t io n t o T h e r a p y
 
-T h etford undertook a study o f quite a different sort, also completed in 1949 (1 1 ). H is hypothesis went well beyond the theory
+T h Thetford undertook a study o f quite a different sort, also completed in 1949 (1 1 ). H is hypothesis went well beyond the theory
 o f client-centered therapy, predicting physiological consequences
 which were consistent with the theory, but which had never been
 formulated.
@@ -9039,24 +9039,24 @@ clients from the Center. T en
 individual
 therapy, three into individual and group therapy concurrently, and
 six into group therapy. A control group o f seventeen individuals
-not in therapy was recruited, roughly similar in age and cduc.1tion.1l
+not in therapy was recruited, roughly similar in age and education.1tion.1l
 status to the therapy group.
 
 individuals went into
 
 E very individual, whether therapy or control, went through the
 same experimental procedure. T h e most significant aspects were
-these. T h e individual was connected by suitable clcctrodcs to a
+these. T h e individual was connected by suitable electrodes to a
 polygraph which recorded his palmar skin conductance (G S R ),
 heart rate, and respiration. A fter a rest period to establish a base
 line, the individual was told that m em ory for digits was a g o o d
 
-index o f intelligence, and thnr the experimenter wished to test him
+index o f intelligence, and then the experimenter wished to test him
 for this. T h e series o f digits used was increased in length until the
 individual clearly failed. A fter a tw o minute rest, another series
 was used to bring another clear failure. A fter another rest, there
 was another frustrating failure. Since these were all students, the
-ego-involvem ent and the frustration were clearly real since the experience seemed to cast doubt on their intellectual ability. A fter
+ego-involvement ent and the frustration were clearly real since the experience seemed to cast doubt on their intellectual ability. A fter
 another rest period the individual was released, but informed that
 he would be called back at a later time. A t no time was there
 any hint that the experiment had anything to do with the individual's
@@ -9082,7 +9082,7 @@ change in the " recovery quotient" based on the G S R which was
 significant at the .02 level o f confidence, and which was in the
 direction of more rapid recovery from frustration. T h e control
 group showed a change in the " recovery quotient" which was
-significant at the 10 per cent level, and w'as in the direction o f a
+significant at the 10 per cent level, and was in the direction o f a
 slower recovery. In other w ords they were less able to cope with
 the frustration during the post-test than during the pre-test. Another G S R measure, " per cent o f recovery," again showed the
 therapy group m aking a m ore rapid recovery at the second test,
@@ -9111,7 +9111,7 @@ stress was never considered in therapy; that the more effective
 meeting o f frustration is not a surface phenomenon but is evident
 in autonom ic reactions which the individual cannot consciously control and o f which he is com pletely unaware.
 
-Th is study o f T h etfo rd 's is characteristic o f a number o f the more
+Th is study o f T h Thetford rd 's is characteristic o f a number o f the more
 pioneering and challenging o f those which have been carried on. It
 went beyond clicnt-ccntercd theory as it had been formulated, and
 made a prediction consistent with the theory, and perhaps implicit
@@ -9261,21 +9261,21 @@ perceptions into objective and manipulable data.
 
 L et us turn to the use made o f the Q-sort of self items in the
 Butler and H aigh study. T h e hypotheses were: (1) that clientcentered therapy results in a decrease in the discrepancy between the
-pcrceivcd self and the valued self; and (2) that this decrease in discrepancy will be more marked in clients who have been judged, on
+perceived self and the valued self; and (2) that this decrease in discrepancy will be more marked in clients who have been judged, on
 the basis o f independent criteria, as having exhibited more movement in therapy.
 
 A s part o f a much more comprehensive total program o f research
 (8 ) the Q -sort for self and fo r ideal self was given to 25 clients before therapy started, after the conclusion of therapy, and at a
 follow-up point six to twelve months after the conclusion of
-therapy. T h e same program o f testing was followed in a nonthcrapv control group matched for age, sex and socio-economic
+therapy. T h e same program o f testing was followed in a nontherapy control group matched for age, sex and socio-economic
 status.
 
 T h e findings are of interest. T h e self-ideal correlations in the
 client group before therapy ranged from —.47, a very marked discrepancy between self and ideal, to .59, indicating that the self is
-quite highly valued as it is. The mean correlation at prc-thernpy
+quite highly valued as it is. The mean correlation at prc-pre-therapy
 was —.01. A t the conclusion of therapy the mean was .34, and at
 the follow-up point it was .31. T h is represents a highly significant
-changc, supporting the hypothesis. It is of spccial interest that the
+changc, supporting the hypothesis. It is of special interest that the
 correlation decreases only very slightly during the
 follow-up
 period. W hen attention is directed to the 17 cases who on the basis
@@ -9286,7 +9286,7 @@ time, .44.
 
 Fifteen members of the group constituted an " own-control" group.
 Th ey had been tested when they first requested help, then asked to
-wait fo r 60 days before beginning therapy. Th ey were re-tcstcd
+wait fo r 60 days before beginning therapy. Th ey were re-retested
 at the end of the 60-day period, as well as at the post-therapy and
 follow-up times. In this group of fifteen the self-ideal correlation at
 the first test wras —.01 and at the end of the 60-day period it was
@@ -9344,7 +9344,7 @@ an investigation o f changes in the maturity o f the client's behavior
 as related to therapy, a study published in 1954 (6).
 
 Th e theory o f client-centered therapy hypothesizes that the inner
-changcs taking place in therapy will causc the individual after
+changcs taking place in therapy will cause the individual after
 therapy to behave in w ays which are less defensive, more socialized,
 more acceptant of reality in himself and in his social environment,
 and which give evidence o f a more socialized system o f values. He
@@ -9359,7 +9359,7 @@ quality of one's everyday behavior. T h e best for our purposes was
 that developed by W illoughby a number o f years ago, and termed
 the Emotional M aturity Scale. H e constructed many items descriptive o f behavior and had them rated by 100 clinical workers —
 psychologists and psychiatrists — as to the degree of maturity they
-represented. On the basis o f these judgments he sclccted 60 items
+represented. On the basis o f these judgments he selected 60 items
 to compose his Scale. T h e scores range from 1 (most immature)
 to 9 (m ost m ature). Several o f the items, and their score values,
 are listed below to give the reader something of the flavor of the
@@ -9372,7 +9372,7 @@ Item
 
 his problems (Item 9).
 
-3. W hen driving an automobile, S is unperturbed in ordin.iry siiuitions but becom es angry with other drivers who impede his
+3. W hen driving an automobile, S is unperturbed in ordin.iry situations but becom es angry with other drivers who impede his
 
 progress (Item 12).
 
@@ -9388,9 +9388,9 @@ S welcomes legitimate opportunities for sexual expression; is not
 
 9.
 
-ashamed, fearful, or prcoccupicd with the topic (Item 53).
+ashamed, fearful, or preoccupied with the topic (Item 53).
 
-H aving selected our instrument we were able to state our hypothesis in operational form : Follow ing the completion o f clicntccntcred therapy, the behavior o f the client will be rated, b y himself and by others who know him well, as being more mature, as
+H aving selected our instrument we were able to state our hypothesis in operational form : Follow ing the completion o f client-centered therapy, the behavior o f the client will be rated, b y himself and by others who know him well, as being more mature, as
 evidenced by a higher score on the E -M Scale.
 
 T h e method o f the study was necessarily complex, since accurate
@@ -9436,14 +9436,14 @@ from various angles. Only the m ajor findings will he reported
 here.
 
 Th e E -M Scale proved to have satisfactory reliability when used
-by any one rater, whether the client or an observcr-friend. I Iowever
+by any one rater, whether the client or an observcr-friend. I However
 the agreement between the different raters was not close.
 
 Th e
 
 individuals
 
-in the matched non-thcrapy conrrol group
+in the matched non-therapy control group
 showed no significant change in their behavior ratings during any
 of the periods involved in the study.
 
@@ -9511,7 +9511,7 @@ might be carried on under better-controlled conditions. T h e reported study is 
 
 Client-Centered Therapy in Contexr of Research
 
-succcssful therapy produces positive behavioral change, and that
+successful therapy produces positive behavioral change, and that
 unsuccessful therapy can produce negative changes in behavior.
 
 T h e Q u a l i t y o f t h e T h f.ra p f.u t i c R e l a t i o n s h ip
@@ -9521,14 +9521,14 @@ a s R e l a t e d t o M o v e m e n t in T h e r a p y
 T he fin a l s t u d y I w ish t o r e p o r t is o n e r e c e n t ly c o m p le te d b y
 B a r r e t t - L e n n a r d ( 1 ) . He s t a r te d f r o m th e th e o r e tic a l fo r m u la tio n
 o f m in e r e g a r d in g th e n e c e s s a r y c o n d itio n s f o r th e r a p e u tic c h a n g e .
-H e h y p o th e s iz e d th a t i f fiv e a ttitu d in a l c o n d itio n s w e re p r e se n t in
+H e h y p o th e s iz e d th a t i f fiv e a attitudinal d in a l c o n d itio n s w e re p r e se n t in
 th e r e la tio n sh ip , th e r a p e u tic c h a n g e w o u ld o c c u r in th e c lien t. T o
 
 in v e st ig a t e th is p r o b l e m h e d e v e lo p e d a R e la tio n s h ip
 
 I n v e n to r y
 
-w h ic h h a d d iffe r e n t f o r m s f o r c lie n t a n d th e ra p is t, a n d w h ic h w a s
+w h ic h h a d d different r e n t f o r m s f o r c lie n t a n d th e ra p is t, a n d w h ic h w a s
 
 d e sig n e d to s t u d y fiv e d im e n s io n s o f th e re la tio n sh ip . T h u s fa r he
 
@@ -9599,7 +9599,7 @@ H e pretends that he likes me or understands me more than he
 
 really does.
 
-There are times when his outw ard response is quite different
+There are times when his outward ard response is quite different
 
 from his inner reaction to me.
 
@@ -9645,14 +9645,14 @@ yet can predict the outcom e o f that relationship.
 This study is an example of recent work which puts to test c\cr
 more subtle aspects of the theory of clicnt-ccntered therapy. It is
 to be noted that this study docs not deal with matters of technique
-or conceptualizations. It cuts through to intangible attitudin.il and
+or conceptualizations. It cuts through to intangible attitudinal.il and
 experiential qualities. Research in psychotherapy has, in my judgment, come a long way to be able to investigate such intangibles.
 Th e positive evidence in regard to four ot the variables, and the Lick
 o f positive evidence in regard to the fifth variable, is to me an indication that helpful and discriminative findings may conic from
 studies carried on at this level.
 
 It is o f more than passing interest that the relationship qualities
-associated with progress in therapy are all attitudinal q u a litie s. W hile
+associated with progress in therapy are all attitudinal q u a qualities s. W hile
 it mav be that degree o f professional knowledge, or skills and techniques will also be found to be associated with change, this study
 raises the challenging possibility that certain attitudinal and ex peri-
 
@@ -9698,15 +9698,15 @@ will have been recorded. T h is will indeed be a milestone, and should
 greatly expand our knowledge o f the common and divergent elements in different form s o f therapy.
 
 Another study at the University of Chicago is being carried on by
-Dr. Desmond Cartw right, Donald Fiske, W illiam Kirtncr, and others.
+Dr. Desmond Cartw right, Donald Fiske, W illiam Kirtner, and others.
 It is attem pting to investigate, on a very broad basis indeed, a great
 many o f the factors which m ay be associated with therapeutic
 change. It is casting a broad net to investigate m any elements not
 previously considered which m ay be related to progress or lack of
 progress in therapy.
 
-A t the U niversity of W isconsin, Dr. Robert Rocssler, Dr. Norman
-Greenfield, D r. Jerom e Berlin and I have embarked upon a ramified
+A t the U niversity of W isconsin, Dr. Robert Rocessler, Dr. Norman
+Greenfield, D r. Jerome e Berlin and I have embarked upon a ramified
 group o f studies which it is hoped will, among other things, throw
 light on the autonomic and physiological correlates of clientcentered therapy. In one portion of the investigation continuous
 recordings o f G S R , skin temperature, and heart rate are being made
@@ -9753,7 +9753,7 @@ there will be less and less emphasis upon dogm atic and purely theoretical formu
 therapy, different judgm ents as to outcom e, will be put to empirical
 test rather than being simply a matter of debate or argument.
 
-In mcdicine today we do not find a " penicillin school o f treatment" versus some other school o f treatment. There are differences
+In medicine today we do not find a " penicillin school o f treatment" versus some other school o f treatment. There are differences
 o f judgm ent and opinion, to be sure, but there is confidence that
 these will be resolved in the foreseeable future by carefully designed
 research. Ju st so I believe will psychotherapy turn increasingly to
@@ -9775,7 +9775,7 @@ more extensive the research the more it has become evident that the
 significant changes in the client have to do with very subtle and
 subjective experiences — inner choices, greater oneness within the
 whole person, a different feeling about one's self. And in the therapist some o f the recent studies suggest that a warmly human and
-genuine therapist, interested only in understanding the momcnt-bymoment feelings o f this person who is com ing into being in the relationship with him, is the most effective therapist. Certainly there
+genuine therapist, interested only in understanding the moment-bymoment feelings o f this person who is com ing into being in the relationship with him, is the most effective therapist. Certainly there
 is nothing to indicate that the coldly intellectual analytical factuallyminded therapist is effective. It seems to be one of the paradoxes of
 psychotherapy that to advance in our understanding of the field
 the individual must be willing to put his most passionate beliefs and
@@ -9786,8 +9786,8 @@ and enlarge his subjective self, and must be that self, freely and without fear,
 R e k f u k n c e s
 
 1. B a rrc tt-L c n n a rd , G . T . D im en sio n s o f rhc clien t's experience o f his
-th erap ist a sso ciated w ith p e rso n ality ch ange. L npublished do cto ral
-dissertatio n , U n iv . o f C h ica g o . 1959.
+th erap ist a sso ciated w ith p e rso n ality ch ange. L unpublished do cto ral
+dissertation n , U n iv . o f C h ica g o . 1959.
 
 2. Bergman, D. V . Counseling m ethod and client responses. J. Consult.
 
@@ -9799,7 +9799,7 @@ ideal concepts consequent upon client-centered
 counseling. In C. R. Rogers and Rosalind F. D ym ond (E d s.). Psychotherapy and Personality Change. U niversity of Chicago Press,
 1954, pp. 55-75.
 
-4. Cartwright, Desm ond S. A nnotated bibliography of research and
+4. Cartwright, Desm ond S. A annotated bibliography of research and
 theory construction in client-centered therapy. J. of Counsel. Psychol. 1957, 4, 82-100.
 
 5. Raskin, N . J. A n objective study of the locus-of-evaluation factor
@@ -9812,13 +9812,13 @@ pp. 215-237.
 
 7. Rogers, C. R. A process conception o f psychotherapy. Amer. Psy­
 
-chol., 1958, IS, 142-149.
+psychol., 1958, IS, 142-149.
 
 8. Rogers, C. R. and D ym ond, R. F. (E d s.). Psychotherapy and Per­
 
 sonality Change. U niversity o f Chicago Press, 1954,447 p.
 
-9. Seemnn, J., and N . J. Raskin. Research perspectives in client centered
+9. Seemann, J., and N . J. Raskin. Research perspectives in client centered
 therapy. In O. H . M owrer (E d .). Psychotherapy: theory and research, N e w York: Ronald, 1953, pp. 205-234.
 
 10. Stephenson, W . The Study of Behavior. U niversity of Chicago
@@ -9839,7 +9839,7 @@ for Living?
 
 to have m ean in gfu l an d som etim es p ro fo u n d im plications
 
-fo r edu cation , fo r in terperson al com m unication,
+fo r edu cation , fo r in interpersonal al com m unication,
 
 fo r fam ily livin g, fo r the creative process.
 
@@ -9850,10 +9850,10 @@ T his is the shortest chapter in the hook hut if my experience with
 
 it is any criterion, it is also the most explosive. It has a (to me)
 
-mimsing history.
+missing history.
 
 / had agreed, months in advance, to meet 'with a conference
-orga?iized by H arvard University on " Classroom Approaches to
+orga?organized by H arvard University on " Classroom Approaches to
 Influencing Hum an B e h a v i o r I was requested to put on a demonstration of " student-centered
 teaching" — teaching based upon
 therapeutic principles as 1 had been endeavoring to apply them in
@@ -9863,7 +9863,7 @@ to their feelings as they did so, w ould be highly artificial and unsatisfactory
 
 I did not know what I would do or present.
 
-At this juncture I took off fo r Mexico on one of our winterquarter trips, did some painting, w riting, and photography. and immersed inyself in the writings of Sdren Kierkegaard. I am sure ihat
+At this juncture I took off fo r Mexico on one of our winter quarter trips, did some painting, w riting, and photography. and immersed myself in the writings of Søren Kierkegaard. I am sure ihat
 his honest willingness to call a spade a spade influenced me more than
 I realized.
 
@@ -9877,10 +9877,10 @@ W h a t A r e t h e I m p l i c a t i o n s f o r L i v i n g ?
 divergent reactions and feelings of the students. This seemed a sensible way of handling m y H arvard assignment.
 
 So I sat dow n to w rite, as honestly as I could, what my experiences had been with teaching, as this term is defined in the dictionaries, and likewise m y experience with learning. I was far away from
-psychologists, educators, cautious colleagues. I s'miply put down
+psychologists, educators, cautious colleagues. I simply put down
 what I felt, with assurance that if I had not got it correctly, the discussion w ould help to set me on the right track.
 
-/ may have been naive, but I did not consider the m aterial inflamm atory. A fter all the conference members were know ledgeable, selfcritical teachers, whose main com mon bond was an interest in the
+/ may have been naive, but I did not consider the m aterial inflammatory atory. A fter all the conference members were know knowledgeable, selfcritical teachers, whose main com mon bond was an interest in the
 discussion m ethod in the classroom.
 
 I met with the conference, I presented m y views as written out
@@ -9914,7 +9914,7 @@ Personal Thoughts on Teaching and Learning
 
 1 took no steps to have this small fragment published. My views
 on psychotherapy had already made me a " controversial figure"
-am ong psychologists and psychiatrists. 1 had no desire to add cditcacators to the list. T h e statement was widely duplicated however by
+am ong psychologists and psychiatrists. 1 had no desire to add educators to the list. T h e statement was widely duplicated however by
 members of the conference and several years later two journals requested permission to publish it.
 
 A fter this lengthy historical build-up, you may find the statement
@@ -9942,8 +9942,8 @@ the m eanings w h ich have com e to m e from m y classroom experience
 and the exp erien ce I have had in individual and group therapy. T h ey
 
 arc in no w a y in ten d ed as con clu sion s fo r som e one else, or a guide
-to w hat others should d o or be. T h e y are the very tentative meanings, as o f A pril 1952, w h ich m y exp erien ce has had fo r me, and
-som e o f th e bothersom e q uestions w h ich their absurdity raises. I w ill
+to w hat others should d o or be. T h e y are the very tentative meanings, as o f A April 1952, w h ich m y exp erien ce has had fo r me, and
+som e o f th e bothersome e q uestions w h ich their absurdity raises. I w ill
 
 p ut each idea or m ean in g in a separate lettered paragraph, not because th ey are in any particular logical order, but because each mean­
 
@@ -9961,7 +9961,7 @@ on behavior. T h at sounds so ridiculous I can't help but question it
 at the same time that I present it.
 
 c. I realize increasingly that I am only interested in learnings
-which signflcantly influence behavior. Quite possibly this is simply
+which significantly influence behavior. Quite possibly this is simply
 a personal idiosyncrasy.
 
 d. 1 have come to feel that the only learning which significantly
@@ -9991,7 +9991,7 @@ h. W hen I look back at the results o f m y past teaching, the real
 results seem the same — either damage was done, or nothing significant occurred. This is frankly troubling.
 
 i. A s a consequence, I realize that I a?jj only interested in being ,i
-learner, preferably learning things that matter, that have some sigviflcant influence on my own behavior.
+learner, preferably learning things that matter, that have some significant influence on my own behavior.
 
 j. / find it very rew arding to learn, in groups, in relationships with
 
@@ -10023,7 +10023,7 @@ the fascinating possibility o f trying to comprehend its ever changing complexit
 I am almost afraid I m ay seem to have gotten away from any discussion o f learning, as well as teaching. Let me again introduce a
 practical note by saying that by themselves these interpretations of
 my own experience may sound queer and aberrant, but not particularly shocking. It is when I realize the implications that I shudder a
-hit at the distance I have come from the commonscnse world that
+hit at the distance I have come from the commonsense world that
 everyone knows is right. I can best illustrate that by saying that if
 the experiences o f others had been the same as mine, and if they had
 discovered similar meanings in it, many consequences would be implied.
@@ -10040,12 +10040,12 @@ c. The implication w ould be that wc would do away w ith grades
 
 and credits for the same reason.
 
-d. W e would do away with degrees as a measure of compctcncc
+d. W e would do away with degrees as a measure of competence
 partly for the same reason. Another reason is that a degree marks
 an end or a conclusion o f something, and a learner is only interested
 in the continuing proccss o f learning.
 
-e. It wrould imply doing away w'ith the exposition of conclusions,
+e. It would imply doing away w'ith the exposition of conclusions,
 
 W h a t A r e t h e I m p l i c a t i o n s f o r L i v i n g ?
 
@@ -10058,7 +10058,7 @@ meanings are that exist for you in you r experience.
 Significant Learning:
 In Therapy and in Education
 
-G oddard College, at Plainfield, Vermont, is a small experimental
+G Goddard College, at Plainfield, Vermont, is a small experimental
 
 college 'which in addition to its efforts on behalf of its students,
 frequently organizes conferences and workshops for educators,
@@ -10069,9 +10069,9 @@ England area, found their way through the thick snowdrifts to spend
 three concentrated days together.
 
 I decided to try to reformulate m y views on teaching and learning
-for this conference, hopefully in a way which would be less disturbing than the statement in the preceding chaptcr, yet without
+for this conference, hopefully in a way which would be less disturbing than the statement in the preceding chapter, yet without
 dodging the radical implications of a therapeutic approach. This
-paper is the result. For those who are fajniliar with Part II of this
+paper is the result. For those who are familiar with Part II of this
 book the sections on uThe Conditions of Learning in Psychotherapy"1
 and " The Process o f Learning in Th erapy" will be redundant and
 may be skipped, since they are merely a restatement of the basic conditions fo r therapy, as described earlier.
@@ -10113,7 +10113,7 @@ H e becomes more the person he would like to be.
 H e becom es m ore flexible, less rigid, in his perceptions.
 H e adopts more realistic goals for himself.
 H e behaves in a more mature fashion.
-H e changes his maladjustive behaviors, even such a long-estab­
+H e changes his maladaptive behaviors, even such a long-estab­
 
 lished one as chronic alcoholism.
 
@@ -10138,7 +10138,7 @@ S i g n i f i c a n t L e a r n i n g i n E d u c a t i o n
 I believe I am accurate in saying that educators too are interested
 in learnings which make a difference. Simple knowledge of facts has
 its value. T o know who won the battle o f Poltava, or when the
-umpteenth opus o f M ozart was first performed, may win $64,000 or
+umpteenth opus o f M Mozart was first performed, may win $64,000 or
 some other sum for the possessor o f this information, but I believe
 educators in general arc a little embarrassed by the assumption that
 the acquisition of such knowledge constitutes education. Speaking
@@ -10159,10 +10159,10 @@ promising possibility.
 
 T h e C o n d i t i o n s o f L e a r n i n g i n P s y c h o i h f k a p v
 
-L et us then see what is involved, essentially, in making p o ssib le the
+L et us then see what is involved, essentially, in making p o possible le the
 learning which occurs in therapy. 1 w o u ld like to sp ell our, as clc. rly
 
-• F o r cvidcncc supporting these statement* see references (7) and (9).
+• F o r evidence supporting these statement* see references (7) and (9).
 
 2 8 2
 
@@ -10172,7 +10172,7 @@ as I can, the conditions which seem to be present when this phenomenon occurs.
 
 F a c in g a P r o b l e m
 
-Th e clicnt is, first o f all, up against a situation which he perceivcs
+Th e clicnt is, first o f all, up against a situation which he perceives
 as a serious and m eaningful problem. It m ay be that he finds himself
 behaving in w ays in which he cannot control, or he is overwhelmed
 by confusions and conflicts, or his marriage is going on the rocks, or
@@ -10297,7 +10297,7 @@ of himself and o f others loosen and become open to reality. The
 rigid ways in which he has construed the meaning of his experience
 are looked at, and he finds himself questioning many of the " facts"
 of his life, discovering that they are only " facts" because he has
-regarded them so. H e discovers feelings o f which he has hcen
+regarded them so. H e discovers feelings o f which he has been
 unaware, and experiences them, often vividly, in the therapeutic relationship. Th us he learns to be more open to all of his experience
 — the evidence within himself as well as the evidence without. lie
 learns to be more o f his experience — to be the feelings of which
@@ -10332,13 +10332,13 @@ W hen the therapist feels an unconditional positive regard for the
 
 client;
 
-W hen the therapist experiences an accurate cmpathic understand­
+W hen the therapist experiences an accurate empathetic understand­
 
 ing o f the client's private world, and communicates this;
 
 W hen the client to some degree experiences the therapist s con­
 
-gruence, acceptance, and empathy.
+congruence, acceptance, and empathy.
 
 W h a t A r e t h e I m p l i c a t i o n s f o r L iv i n g ?
 
@@ -10421,7 +10421,7 @@ can empathize with the feelings o f fear, anticipation, and discourage­
 W h a t A r f t h e I m p l i c a t i o n s f o r L i v i n g ?
 
 ment which are involved in meeting new material, will have done
-a great deal toward setting the conditions for learning. Clark Aloustakas, in his book, The Teacher and the Child (5 ), has given many
+a great deal toward setting the conditions for learning. Clark Moustakas, in his book, The Teacher and the Child (5 ), has given many
 excellent examples o f individual and group situations from kindergarten to high school, in which the teacher has worked toward just
 this type of goal. It will perhaps disturb some that when the teacher
 holds such attitudes, when he is willing to be acceptant o f feelings,
@@ -10430,7 +10430,7 @@ but feelings about parents, feelings o f hatred for brother or sister,
 feelings o f concern about self — the whole gam ut o f attitudes. Do
 such feelings have a right to exist openly in a school setting? It is
 m y thesis that they do. T h ey are related to the person's becoming,
-to his effective learning and effective functioning, and to deal understan din g^ and acceptantly with such feelings has a definite relationship to the learning o f long division or the geography o f Pakistan.
+to his effective learning and effective functioning, and to deal understanding din g^ and acceptantly with such feelings has a definite relationship to the learning o f long division or the geography o f Pakistan.
 
 P ro v isio n o f R e s o u r c e s
 
@@ -10480,7 +10480,7 @@ could say, simply for himself, " I don't like that," and that the student with e
 
 Th us whatever the resource he supplies — a book, space to work,
 a new tool, an opportunity for observation of an industrial process,
-a lecture based on his own study, a picturc, graph or map, his own
+a lecture based on his own study, a picture, graph or map, his own
 emotional reactions — he would feel that these were, and would
 hope they would be perceived as, offerings to be used if they were
 useful to the student. He w'ould not feel them to be guides, or expectations, or commands, or impositions or requirements. He would
@@ -10552,7 +10552,7 @@ of the standards o f others.
 
 I am quite aware that the two elements o f which I have just been
 speaking — the lectures and expositions im posed b y the teacher on
-the group, and the evaluation o f the individual b y the teacher, consitute the tw o m ajor ingredients o f current education. So when I
+the group, and the evaluation o f the individual b y the teacher, constitute the tw o m ajor ingredients o f current education. So when I
 say that experience in psychotherapy w ould suggest that they both
 be omitted, it should be quite clear that the implications o f psychotherapy for education are startling indeed.
 
@@ -10594,7 +10594,7 @@ w ays o f facilitating learning which give more promise o f freeing
 the mind. If we value independence, if we are disturbed by the
 grow ing conform ity o f know ledge, o f values, o f attitudes, which our
 present system induces, then we m ay wish to set up conditions of
-learning which make for uniqueness, fo r self-direction, and for selfinitiated learning.
+learning which make for uniqueness, fo r self-direction, and for self-initiated learning.
 
 S o m e C o n c l u d i n g I s s u e s
 
@@ -10650,7 +10650,7 @@ overestimated its value. H e says the Russians have advanced mightily
 in science without it, and implies that we should learn from them.
 Still another issue is whether we would wish to oppose the strong
 current trend tow ard education as drill in factual knowledge. All
-must learn the same facts in the same w ay. Adm iral Rickover states
+must learn the same facts in the same w ay. Adm Admiral Rickover states
 it as his belief that " in some fashion we must devise a w ay to introduce uniform standards into Am erican education. . . . F or the first
 time, parents would have a real yardstick to measure their schools.
 If the local school continued to teach such pleasant subjects as 'life
@@ -10668,14 +10668,14 @@ One of the m ost painless w ays o f inculcating such factual tool
 knowledge is the " teaching machine" being devised by B. F. Skinner
 and his associates (1 0 ). T h is group is demonstrating that the teacher
 is an outmoded and ineffective instrument for teaching arithmetic,
-trigonom etry, French, literary appreciation, geography, or other
+trigonometry etry, French, literary appreciation, geography, or other
 factual subjects. There is simply no doubt in m y mind that these
 teaching machines, providing immediate rewards for " right" answers, will be further developed, and will come into wide use. Here
 is a new contribution from the field o f the behavioral sciences with
 which we must com e to terms. D oes it take the place o f the approach I have described, or is it supplemental to it? H ere is one of
 the problems we must consider as we face tow ard the future.
 
-• Thne, December 2, 195/.
+• Time, December 2, 195/.
 t Ibid.
 
 I hope that by posing these issues, I have made it clear that the
@@ -10685,7 +10685,7 @@ o f us. It is not a time when timid answers will suffice. I have tried
 to give a definition o f significant learning as it appears in psychotherapy, and a description o f the conditions which facilitate such
 learning. I have tried to indicate some implications o f these conditions for education. I have, in other words, proposed one answer to
 these questions. Perhaps we can use what I have said, against the
-twin backdrops of current public opinion and currcnt knowledge
+twin backdrops of current public opinion and current knowledge
 in the behavioral sciences, as a start for discovering some fresh answers o f our own.
 
 1. Faw, V olncy. A psychotherapcutic m ethod o f teaching psychol­
@@ -10700,14 +10700,14 @@ lished manuscript, 1954.
 1950, 14, 436-45.
 
 4. Jackson, John H . T h e relationship between psychological climate
-and the quality o f learning outcom es am ong lowcr-status pupils.
+and the quality o f learning outcom es am ong lower-status pupils.
 Unpublished Ph.D. thesis, U niversity of Chicago, 1957.
 
 5. Lem er, Max. America as a Civilization. N e w York: Simon &
 
 Schuster, 1957.
 
-6. Moustakas, Clark. The Teacher and the Child. N e w York: AIcGraw-
+6. Moustakas, Clark. The Teacher and the Child. N e w York: McGraw-
 
 H ill, 1956.
 
@@ -10747,16 +10747,16 @@ the learnings from psychotherapy: 1 wanted to give the student's perception of s
 T o this end I considered the various reports and " reaction sheets"
 which I have assembled from students in different courses over the
 years. Excerpts from these w ould have fulfilled my purpose. In the
-endy however, I chose to use two docum ents written by Dr. Samuel
+end however, I chose to use two docum ents written by Dr. Samuel
 Tenenbaum , the first
 in a
 course o f mine, the second a letter to vie one year later. I am deeply
 grateful to him for his permission to use these personal statements.
 I would like to place them in context fo r the reader.
 
-ivimediately after his participation
+immediately after his participation
 
-In the swmncr of 1958 1 was invited to teach a four-week course
+In the summer of 1958 1 was invited to teach a four-week course
 at Brandeis University. M y recollection is that the title was " The
 
 W h a t A r e t h e I m p l i c a t i o n s f o r L iv in g ?
@@ -10768,7 +10768,7 @@ the concentrated w orkshop pattern which I prefer. I learned in advance that the
 doctoral candidates in psych ology, counselors, several priests, at
 least one from a foreign coun try, psychotherapists in private practice, school psychologists. Th e group was, on the average, more
 m ature and experienced than w ould ordinarily be found in a university course. I felt very relaxed about the whole thing. I would
-do what I could to help make this a m eaningful experience for us allt
+do what I could to help make this a m eaningful experience for us all
 but I doubted that it could have the impact of, for example, the
 workshops on counseling which I had conducted.
 
@@ -10776,7 +10776,7 @@ Perhaps it was because I had very modest expectations o f the group
 and of m yself, that it went so well. I would without doubt class it
 as am ong the m ost satisfying of m y attem pts to facilitate learning in
 courses or workshops. This should be borne in mind in reading Dr.
-TenenbawrCs material.
+Tenenbaum's material.
 
 I w ould like to digress fo r a m oment here to say that I feel far
 viore assurance in confronting a new client in therapy than I do in
@@ -10796,14 +10796,14 @@ as fo r me. H ere was a mature scholar, riot an impressionable young
 student. H ere was a sophisticated educator, who already had to his
 credit a published biography of W illiam H . K ilpatrick, the philoso-
 
-phcr of education. H ence his perceptions o f the experience seemed
+philosopher of education. H ence his perceptions o f the experience seemed
 unusually valuable.
 
 I w ould not want it to be understood that I shared all o f Dr.
 Tenenbaum 's perceptions. Portions o f the experience 1 perceived
 quite differently, but this is what made his observations so helpful.
 I felt particularly concerned that it seemed to him so much a
-" R ogers" approach, that it was si?nply my person and idiosyncrasies
+" R ogers" approach, that it was si?simply my person and idiosyncrasies
 which made the experience what it was.
 
 F or this reason 1 w as delighted to get a long letter from him a
@@ -10838,7 +10838,7 @@ Rogers, the instructor, himself w ould be inclined to use — would be
 I had some notion what that term meant, but frankly I was not
 prepared for anything that proved so overwhelming. It is not that
 I am convention-bound. M y strongest educational influences stem
-from W illiam H eard K ilpatrick and John Dew ey, and anyone who
+from W illiam H Heard K ilpatrick and John Dew ey, and anyone who
 has even the slightest acquaintance with their thinking would know
 that it docs not smack o f the narrow or the provincial. But this
 method which I saw Dr. R ogers carry out in a course which he gave
@@ -10848,13 +10848,13 @@ to describe the method in a w ay to give you some inkling of the
 feelings, the emotions, the warmth and the enthusiasms that the
 method engendered.
 
-T h e course was altogther unstructured; and it was exactly that.
+T h e course was altogether unstructured; and it was exactly that.
 A t no moment did anyone know, not even the instructor, what the
 next moment would bring forth in the classroom, what subject
 would come up for discussion, w hat questions would be raised, what
 personal needs, feelings and emotions aired. This atmosphere of nonstructured freedom — as free as human beings could allow each
-In a friendly, reother to be — was set by Dr. R ogers himself.
-laxed w ay, he sat down with the students (about 25 in number)
+In a friendly, another to be — was set by Dr. R ogers himself.
+relaxed w ay, he sat down with the students (about 25 in number)
 around a large table and said it w ould be nice if we stated our purpose and introduced ourselves. T h ere ensued a strained silence; no
 one spoke up. Finally, to break it, one student timidly raised his
 hand and spoke his piece. Another uncom fortable silence, and then
@@ -10863,14 +10863,14 @@ no time did the instructor urge any student to speak.
 
 U n s t r u c t u r e d A p p r o a c h
 
-A fterw ards, he informed the class that he had brought with him
+A Afterwards ards, he informed the class that he had brought with him
 quantities o f materials — reprints, brochures, articles, books; he
 handed out a bibliography o f recommended reading. A t no time
 did he indicate that he expected students to read or do anything
 
 else. As I recall, he made only one request. W ould some student
 volunteer to set up this material in a special room which had been
-reserved for students of the course? T w o students prom ptly volunteered. H e also said he had with him recorded tapes o f therapeutic
+reserved for students of the course? T w o students prom promptly volunteered. H e also said he had with him recorded tapes o f therapeutic
 sessions and also reels o f motion pictures. T h is created a flurry of
 excitement, and students asked whether they could be heard and seen
 and Dr. R ogers answered yes. T h e class then decided how it could
@@ -10900,7 +10900,7 @@ the founder o f the movement that bears his name? T h e notebooks
 were poised for the clim actic moment when the oracle would give
 forth, but m ostly they remained untouched.
 
-Q ueerly enough, from the outset, even in their anger, the members
+Q Queerly enough, from the outset, even in their anger, the members
 of the group felt joined together, and outside the classroom, there
 was an excitement and a ferment, for even in their frustration, they
 
@@ -10970,10 +10970,10 @@ It should be noted that D r. R opers neither agreed nor disagreed. It was
 
 not his habit to respond to students' contributions unless a remark was directed
 specifically to him; and even then he m ight choose not to answer. H is main
-objcct, it seemed to me, was to follow students' contributions intelligently and
+object, it seemed to me, was to follow students' contributions intelligently and
 sym pathetically.
 
-+ One student compiled such a list, had it m imeographed, distributed it, and
++ One student compiled such a list, had it m mimeographed, distributed it, and
 
 fo r practical purposes that was the end o f that.
 
@@ -10983,7 +10983,7 @@ that he was not com fortable in a teacher's role and he came " loaded," and the
 recordings served as a sort o f security. One student continually insisted that
 he play the recordings, and after considerable pressure from the class, he did
 so, but he complied reluctantly; and all told, despite the pressure, he did not
-piay tnem tor more than an hour in all the sessions. A pparently, R ogers preferred the students to make real live recordings rather than listen to those
+play them tor more than an hour in all the sessions. A pparently, R ogers preferred the students to make real live recordings rather than listen to those
 which could only interest them in an academ ic way.
 
 W h a t A r e t h e I m p l i c a t i o n s f o r L iv in g ?
@@ -11070,7 +11070,7 @@ was very sick or insensitive, members more or less, in this respect,
 conform ed to what was expected o f them. T h e problem — the hostile, the dominant, the neurotic — was not too acute; and yet if
 measured in a form al w ay, with a stop watch, at no time w as a session free o f aimless talk and waste o f time. But yet as I watched the
 process, the idea persisted that perhaps this waste of time m ay be
-neccssary; it m ay very well be that that is the w ay man learns best;
+necessary; it m ay very well be that that is the w ay man learns best;
 for certainly, as I look back at the whole experience, I am fairly
 certain that it would have been impossible to learn as much or as
 well or as thoroughly in the traditional classroom setting.
@@ -11165,7 +11165,7 @@ was so taken with the group that he talked o f starting a publication
 to keep track o f what was happening to the group members after
 they disbanded. A group interested in student counseling met on its
 own. A member arranged for the class to visit a mental hospital
-for children and adults; also he arranged for us to see the expcri-
+for children and adults; also he arranged for us to see the experimental-
 
 mental w ork being done with psychotic patients b y Dr. Lindsley.
 Class members brought in tape recordings and printed matter to
@@ -11225,7 +11225,7 @@ ing after being exposed to your thinking and influence. You
 m ay or m ay not know I had a phobia about teaching. Since my
 w ork with you, I began to perceive more clearly where the difficulty
 lay. It was m ostly in m y concept o f the role I had to play as a
-teacher — the m otivator, director and the production chief of a
+teacher — the m motivator, director and the production chief of a
 perform ance. I alw ays feared being " hung up" in the classroom —
 I believe it's your expression and I have com e to like it — the class
 listless, uninterested, not responding, and m y yam mering and yammering, until I lost poise, the sentences not form ing, com ing out
@@ -11326,7 +11326,7 @@ And the Dean in turn wrote me to the same effect.
 
 T o say that I am overwhelmed by what happened only faintly
 reflects my feelings. I have taught for many years but I have never
-experienced anything rem otely resembling what occurred. I, for my
+experienced anything rem remotely resembling what occurred. I, for my
 part, never have found in the classroom so much of the whole person com ing forth, so deeply involved, so deeply stirred. Further, I
 question if in the traditional set-up, with its emphasis on subject
 matter, examinations, grades, there is, or there can be a place for the
@@ -11338,10 +11338,10 @@ again you have added to and enriched m y life and being.*
 
 •
 
-T h at this was not an isolated experience for D r. Tenenhaum is indicared
+T h at this was not an isolated experience for D r. Tenenbaum is indicared
 
-by a quotation from still another personal communication, many months larcr.
-H e says: " W ith another group I taught, follow ing the first one, similar attitudes developed, only they were more accentuated, because, I belic\c, I
+by a quotation from still another personal communication, many months later.
+H e says: " W ith another group I taught, follow ing the first one, similar attitudes developed, only they were more accentuated, because, I believe\c, I
 was more com fortable with the technique and, I hope, more expert.
 In this
 second group there was the same release o f the person, the same exhilaration
@@ -11350,10 +11350,10 @@ as he succeeds in shedding portions o f his skin. Students from my group
 told me that while attending other classes, their eyes would meet, drawn to
 one another, as if they were unique and apart, as if they were bound together
 by a special experience. In this second group, also, I found that the students
-had developed a personal closencss, so that at the end o f the semester they
+had developed a personal closeness, so that at the end o f the semester they
 talked of having annual reunions. T h e y said that somehow or other they
 wanted to keep this experience alive and not lose one another. T h ey j Iso
-spoke o f radical and fundamental changes in their person — in oudook, in
+spoke o f radical and fundamental changes in their person — in outlook, in
 values, in feelings, in attitudes both tow ard themselves and toward others.''
 
 The Implications of
@@ -11395,7 +11395,7 @@ which you should live in your fam ily situation. I sim ply wish to
 present the gist o f the experience o f some very real people in some
 very real and often difficult fam ily situations. Perhaps their struggles to live in a satisfying fashion will have some meaning for you.
 
-W hat then, are some o f the w ays in wliich clients change in their
+W hat then, are some o f the w ays in which clients change in their
 
 fam ily living, as a consequence o f client-centered therapy?
 
@@ -11626,7 +11626,7 @@ cruel I am to her b y contradicting her in front o f Carol and all
 that sort o f thing, why, then she backed down and when she was
 faced with the fact that she . . . and her heart's just as stron g as a
 bull's, why, she thought she m ight as well use it to have some fun
-with. So that's fine. W orkin g out fine."
+with. So that's fine. W Working g out fine."
 
 U p to this point it m ight seem as though the relationship had
 improved for Mrs. S., but not fo r her mother. Th ere is, however,
@@ -11753,7 +11753,7 @@ to this other person.
 Something o f what I am saying m ay be illustrated from the experience o f Mrs. S., the woman quoted in the preceding section.
 In a follow up contact after the conclusion of her interviews, Mrs.
 S. was asked to give some o f her own reactions to her experience.
-She savs, " I didn't feel at first that it was counseling. You know?
+She says, " I didn't feel at first that it was counseling. You know?
 I thought, well, I'm just talking, b u t . . . by giving it a little thought,
 I realize that it is counseling and o f the very best kind, because
 I've had advice, and excellent advice from doctors and family and
@@ -11769,7 +11769,7 @@ much to Carol or trying to guide her. But I've been trying to
 draw her out . . . lcr her feel that I'm with her and behind her, no
 matter what she does. A nd let her tell me how she feels, and her
 little reactions to things, and it's w orking out fine. She has told
-me, oh, grandm a's been old and sick for so long, mother. And I
+me, oh, grandma a's been old and sick for so long, mother. And I
 said, yes. And I don't condemn her nor do I praise her, and so she
 is, just in this short time beginning to . . . oh, get little things off
 her mind and . . . without my probing or trying to . . . so it's sort
@@ -11814,7 +11814,7 @@ feelings and values which exist in this other person.
 Something o f what I mean is contained in letters from a woman
 and her husband. T h ey are friends o f mine and had obtained a
 copy of a book I had written because they were interested in what
-I was doing. But the effcct o f the book seemed to be similar to
+I was doing. But the effect o f the book seemed to be similar to
 therapy. T h e wife w rote me and included in her letter a paragraph giving her reactions. " Lest you think that we are com pletely
 frivolous, we have been reading Client-Centered Therapy. I have
 almost finished it. M ost o f the usual things you say about books
@@ -11823,7 +11823,7 @@ W h a t A r e t h f . I m p l i c a t i o n s f o r L iv in g ?
 
 don't apply, at least for me. In fact it was pretty close to a counseling experience.
 It set me to thinking about some of the unsatisfactory relationships in our fam ily, particularly m y attitude
-toward Phillip (her 14-vear-old son). I realized that I hadn't shown
+toward Phillip (her 14-year-old son). I realized that I hadn't shown
 him any real love for a long time, because I was so resentful of
 his apparent indifference in trying to measure up to any of the
 standards that I have always thought were important. Since I have
@@ -11836,7 +11836,7 @@ T h e first time this year."
 
 A few months later I heard from her husband. " You wouldn't
 recognize Phil. . . . W hile he is hardly garrulous, he is not nearly
-the sphinx that he was, and he is doing much better in school, although we do not expect him to be graduated cum laudc. You
+the sphinx that he was, and he is doing much better in school, although we do not expect him to be graduated cum cum laude. You
 should take a great deal o f credit fo r his improvement, because he
 began to blossom when I finally began to trust him to be himself,
 and ceased trying to mold him into the glorified image of his father
@@ -11866,7 +11866,7 @@ T h e G e n e r a l P i c t u r e
 If I have been able correctly to discern the trends in the experience
 o f our clients, then client-centered therapy seems to have a number
 o f implications for fam ily life. L et me attem pt to restate these in
-somew hat more general form.
+somewhat hat more general form.
 
 It appears that an individual finds it satisfying in the long run
 to express any strong or persistent emotional attitudes in the situation in w hich they arise, to the person with whom they are concerned, and to the depth to which they exist. T h is is more satisfying than refusing to admit that such feelings exist, or permitting
@@ -11913,7 +11913,7 @@ Interpersonal and Intergroup
 I n point of time, this paper is the earliest in the book. It was writ­
 
 ten in 1951 fo r presentation at the Centennial Conference on
-Communications at N orthw estern University, where it was given the
+Communications at N Northwestern estern University, where it was given the
 titley " Communication: Its Blocking and Its F a c i l i t a t i o n I t has
 since been reprinted a half-dozen times, by different groups and
 m different journals, including the H arvard Business Review and
@@ -11928,7 +11928,7 @@ time. N o w 1 believe it w ould be accepted by many as good sense.
 
 It m a y s e e m c u r i o u s that a person whose whole professional ef­
 
-fort is devoted to psychotherapy should be interested in probthere between
+fort is devoted to psychotherapy should be interested in problems between
 
 lems o f communication. YVhat relationship
 
@@ -11956,7 +11956,7 @@ that statement around and it will still be true. G ood communication, free commu
 It is, then, from a background o f experience with communication
 in counseling and psychotherapy, that I w ant to present to you
 tonight two ideas. I wish to state what I believe is one o f the m ajor
-factors in blocking or im peding communication, and then I wish
+factors in blocking or im impeding communication, and then I wish
 to present what in our experience has proven to be a very important
 w ay of im proving or facilitating communication.
 
@@ -11980,7 +11980,7 @@ view, your own frame o f reference.
 Or take another example. Suppose I say with some feeling, " I
 think the Republicans are behaving in w ays that show a lot o f good
 sound sense these days," w hat is the response that arises in your mind
-as you listen? T h e overw helming likelihood is that it will be evaluative. You will find yourself agreeing, or disagreeing, or making
+as you listen? T h e overw overwhelming likelihood is that it will be evaluative. You will find yourself agreeing, or disagreeing, or making
 some judgm ent about me such as " H e must be a conservative," or
 " He seems solid in his thinking." O r let us take an illustration from
 the international scene. Russia says vehemently, " T h e treaty with
@@ -12009,7 +12009,7 @@ and I would like to present it as sim ply as I can. Real communication
 occurs, and this evaluative tendency is avoided, when we listen with
 understanding. W hat does this mean? It means to see the expressed
 
-VViia t A r e t h e I m p l i c a t i o n s f o r L iv in g ?
+What t A r e t h e I m p l i c a t i o n s f o r L iv in g ?
 
 idea and attitude from the other person's point o f view, to sense how
 it feels to him, to achieve his frame o f reference in regard to the thing
@@ -12045,7 +12045,7 @@ them for him. Sounds simple, doesn't it? But if you try it you will
 discover it is one o f the m ost difficult things you have ever tried to
 do. H ow ever, once you have been able to see the other's point of
 
-Breakdowns in Conmmmcation
+Breakdowns in Communication
 
 view, your own comments will have to be drastically revised. You
 will also find the emotion going out of the discussion, the differences
@@ -12053,7 +12053,7 @@ being reduced, and those differences which remain being of a rational and unders
 
 Can you imagine what this kind o f an approach would mean if it
 were projected into larger areas? W hat would happen to a labormanagement dispute if it was conducted in such a w ay that labor,
-without necessarily agreeing, could accuratcly state management's
+without necessarily agreeing, could accurately state management's
 point o f view in a w ay that management could accept; and management, without approving labor's stand, could state labor's case in a
 way that labor agreed was accurate? It would mean that real communication was established, and one could practically guarantee that
 some reasonable solution would be reached.
@@ -12117,8 +12117,8 @@ o f others, like the delegates at the United N ations? Frankly we do
 
 Breakdowns in Communication
 
-not know the answers to these questions. I jelieve the situation
-m ight be put this way. As social scientists we have a tentative testtube solution o f the problem o f breakdown in communication. But
+not know the answers to these questions. I believe the situation
+m ight be put this way. As social scientists we have a tentative test-tube solution o f the problem o f breakdown in communication. But
 to confirm the validity o f this test-tube solution, and to adapt it to
 the enormous problems o f com munication breakdown between
 classes, groups, and nations, would involve additional funds, much
@@ -12131,7 +12131,7 @@ T o be imaginative for a moment, let us suppose that a therapeutically
 oriented international group went to the Russian leaders and said,
 " W e w ant to achieve a genuine understanding o f your views and
 even more important, o f your attitudes and feelings, tow ard the
-United States. W e will summarize and resummarize these views
+United States. W e will summarize and re-summarize these views
 and feelings if necessary, until you agree that our description represents the situation as it seems to you ." T h en suppose they did the
 same thing with the leaders in our own country. I f they then gave
 the widest possible distribution to these tw o views, with the feelings
@@ -12277,11 +12277,11 @@ W h a t A r e t h e I m p l i c a t i o n s f o r L iv in g ?
 
 at his opponent. Y et when a friend says, " W ell, let's not get angry
 about this," he replies, with evident sincerity and surprise, " I 'm not
-angrv! I don't have any feeling about this at all! I was just pointing
+angry! I don't have any feeling about this at all! I was just pointing
 out the logical facts." T h e other men in the group break out in
 laughter at this statement.
 
-Whnt is happening here? It seems clear that at a physiological
+What is happening here? It seems clear that at a physiological
 level he is experiencing anger. T h is is not matched b y his awareness.
 Consciously he is not experiencing anger, nor is he communicating
 this (so far as he is consciously aw are). Th ere is a real incongruence
@@ -12317,9 +12317,9 @@ for hours, says to her hostess on departing, " I enjoyed this evening
 A General Law of Interpersonal Relationships
 
 so much. It was a delightful party." H ere the incongruence is not
-between experience and awareness. Mrs. Browrn is well aware that
-she is bored. T h e incongrucncc is between awareness and communication. Th us it might be noted that when there is an incongrucnce
-between experience and awareness, it is usually spoken o f as dcfcnsivenessr or denial to awareness. W hen the incongruence is between
+between experience and awareness. Mrs. Brown is well aware that
+she is bored. T h e incongruence is between awareness and communication. Th us it might be noted that when there is an incongruence
+between experience and awareness, it is usually spoken o f as defensiveness or denial to awareness. W hen the incongruence is between
 awareness and communication it is usually thought of as falseness or
 deceit.
 
@@ -12333,7 +12333,7 @@ hard" ; " H e is stupid" ; " You are bad" ; or " She is intelligent." T h e
 reason for this is that wc never experience such " facts." Accurate
 awareness o f experience would alw ays be expressed as feelings, perceptions, meanings from an internal frame of reference.
 I never
-know that he is stupid or you are bad. I can only pcrceive that you
+know that he is stupid or you are bad. I can only perceive that you
 seem this w ay to me. Likewise, strictly speaking I do not know
 that the rock is hard, even though I m ay be very sure that I experience it as hard if I fall down on it.
 (A nd even then I can permit
@@ -12432,7 +12432,7 @@ barriers to communication. H ence he tends to communicate himself more as he is,
 decreases.
 
 9. H aving com municated himself m ore freely, with less o f defensiveness, Jones is now more able to listen accurately, without a
-need for defensive distortion, to Sm ith's further communication.
+need for defensive distortion, to Sm Smith's further communication.
 T h is is a repetition o f step 4, but now in terms o f Jones.
 
 10. T o the degree that Jon es is able to listen, Smith now feels
@@ -12454,7 +12454,7 @@ maturity.
 12. T h e limiting element in this chain o f events appears to be the
 introduction o f threatening material. Th us if Jones in step 3 includes in his more congruent response new material which is outside
 o f the realm o f Smith's congruence, touching an area in which
-Smith is mcongruent, then Smith m ay not be able to listen accurately, he defends himself against hearing what Jones is communicating, he responds with communication which is ambiguous, and the
+Smith is incongruent, then Smith m ay not be able to listen accurately, he defends himself against hearing what Jones is communicating, he responds with communication which is ambiguous, and the
 whole process described in these steps begins to occur in reverse.
 
 A T e n t a t i v e S t a t e m e n t o f a G e n e r a l L a w
@@ -12563,7 +12563,7 @@ In education we tend to turn out conformists, stereotypes, individuals whose edu
 and original thinkers.
 
 In our leisure time activities, passive entertainment and regimented
-group action are overw helmingly predominant while creative activities are much less in evidence.
+group action are overw overwhelmingly predominant while creative activities are much less in evidence.
 
 In the sciences, there is an ample supply o f technicians, but the
 fruitful hypotheses and
@@ -12588,14 +12588,14 @@ the most incredible leaps and bounds into a fantastic atomic age,
 genuinely creative adaptation seems to represent the only possibility
 that man can keep abreast o f the kaleidoscopic change in his world.
 W ith scientific discovery and invention proceeding, we are told, at
-the rate o f geometric progression, a generally passive and culturebound people cannot cope with the m ultiplying issues and problems. Unless individuals, groups, and nations can imagine, construct,
+the rate o f geometric progression, a generally passive and culturebound people cannot cope with the m multiplying issues and problems. Unless individuals, groups, and nations can imagine, construct,
 and creatively revise new w ays of relating to these com plex changes,
 the lights will go out. Unless man can make new and original adaptations to his environment as rapidly as his science can change the
-environment, our culture will perish. N o t only individual malad­
+environment, our culture will perish. N o t only individual maladjustment­
 
 T ow ard a Th eory o f Creativity
 
-justment and group tensions, but international annihilation will be
+adjustment and group tensions, but international annihilation will be
 the price we pay for a lack o f creativity.
 
 Consequently it would seem to me that investigations o f the process o f creativity, the conditions under which this process occurs,
@@ -12615,7 +12615,7 @@ In the first place, for me as scientist, there must be something
 observable, some product o f creation. T h ough m y fantasies m ay be
 extremely novel, they cannot usefully be defined as creative unless
 they eventuate in some observable product — unless they are sym ­
-bolized in words, or written in a poem, or translated into a w ork o f
+symbolized in words, or written in a poem, or translated into a w ork o f
 art, or fashioned into an invention.
 
 These products must be novel constructions. This novelty grow s
@@ -12662,7 +12662,7 @@ without ever having been evaluated. So this concept o f group acceptance is also
 
 In addition, it should be pointed out that our definition makes no
 distinction regarding the degree o f creativity, since this too is a value
-judgm ent extrem ely variable in nature. T h e action o f the child inventing a new game with his playm ates; Einstein form ulating a
+judgm ent extrem ely variable in nature. T h e action o f the child inventing a new game with his playmates ates; Einstein form ulating a
 theory o f relativity; the housewife devising a new sauce for the
 meat; a you ng author w riting his first novel; all o f these are, in
 terms o f our definition, creative, and there is no attempt to set them
@@ -12675,7 +12675,7 @@ which we discover so deeply as the curative force in psychotherapy
 
 T ow ard a Theory o f Creativity
 
-— vian's tendency to actualize himself, to become his potentialities.
+— Maslow's tendency to actualize himself, to become his potentialities.
 By this I mean the directional trend which is evident in all organic
 and human life — the urge to expand, extend, develop, mature —
 the tendency to express and activate all the capacities o f the organism, or the self. This tendency m ay becom e deeply buried under
@@ -12739,7 +12739,7 @@ has available to his awareness all the varied sensings and perceivings
 which are going on within his organism, then the novel products o f
 his interaction with his environment will tend to be constructive
 both for himself and others. T o illustrate, an individual with paranoid tendencies m ay creatively develop a most novel theory o f the
-relationship benveen himself and his environment, seeing evidence
+relationship between himself and his environment, seeing evidence
 for his theory in all sorts o f minute clues. His theory has little social value, perhaps because there is an enormous range o f experience
 which this individual cannot perm it in his awareness. Socrates, on
 the other hand, while also regarded as " crazy" by his contemporaries,
@@ -12845,7 +12845,7 @@ more permanent value.
 T h e C r e a t iv e A c t a n d I t s C o n c o m i t a n t s
 
 W hen these three conditions obtain, constructive creativity will
-occur. But we cannot expcct an accurate description of the creative
+occur. But we cannot expect an accurate description of the creative
 act, for by its very nature it is indescribable. T h is is the unknown
 which we must recognize as unknowable until it occurs. T h is is the
 improbable that becomes probable. O nly in a very general w ay can
@@ -12857,14 +12857,14 @@ o f half-formed possibilities the organism, like a great com puting
 machine, selects this one which most effectively meets an inner
 need, or that one which form s a more effective relationship with
 the environment, or this other one which discovers a more simple
-and satisfying order in which life m ay be perceivcd.
+and satisfying order in which life m ay be perceived.
 
 There is one quality o f the creative act which may, however,
 be described. In almost all the products o f creation we note a selectivity, or emphasis, an evidence of discipline, an attempt to bring
 out the essence. T h e artist paints surfaces or textures in simplified
 form , ignoring the minute variations which exist in reality. T h e
 scientist form ulates a basic law o f relationships, brushing aside all
-the particular events or circum stances which m ight conccal its naked
+the particular events or circum stances which m ight conceal its naked
 beauty. T h e writer selects those w ords and phrases which give unity
 to his expression. W e m ay say that this is the influence o f the
 specific person, o f the " I." Reality exists in a multiplicity o f confusing facts, but " I" bring a structure to m y relationship to reality; I
@@ -12888,7 +12888,7 @@ foolish, or w rong, or lost, or abnormal."
 
 Still another experience which usually accompanies creativity is
 the desire to communicate. It is doubtful whether a human being
-can create, without wishing to share his crcation. It is the only w ay
+can create, without wishing to share his creation. It is the only w ay
 he can assuage the anxiety o f separateness and assure himself that he
 belongs to the group. H e m ay confide his theories only to his private
 diary. H e m ay put his discoveries in some cryptic code. H e may
@@ -12922,7 +12922,7 @@ X . Psychological safety. T h is m ay be established b y three associ­
 
 ated processes.
 
-1. A ccepting the individual as o f unconditional worth. W henever a teacher, parent, therapist, or other person with a facilitating
+1. A Accepting the individual as o f unconditional worth. W henever a teacher, parent, therapist, or other person with a facilitating
 function feels basically that this individual is o f w orth in his own
 right and in his own unfolding, no matter what his present condition
 or behavior, he is fostering creativity. T h is attitude can probably be
@@ -12958,7 +12958,7 @@ creativity.
 T o allay some possible doubts and fears in the reader, it should
 be pointed out that to cease evaluating another is not to cease having
 reactions. It may, as a matter o f fact, free one to react. " I don't
-like your idea" (or painting, or invention, or w ritin g), is not an
+like your idea" (or painting, or invention, or w writing g), is not an
 evaluation, but a reaction. It is subtly but sharply different from a
 judgm ent which says, " W hat you are doing is bad (or g o o d ), and
 this quality is assigned to you from some external source." T h e first
@@ -13048,7 +13048,7 @@ that we held very divergent views as to the use o f scientific knowledge in m ol
 a debate w ould serve a useful purpose by clarifying the issue. H is
 own basic point of view he had expressed by deploring the unwillingness o f psychologists to use their power. " A t the moment psychologists are curiously diffident in assuming control where it is
 available or in developing it where it is not. In m ost clinics the
-emphasis is still upon psychom etry, and this is in part due to an
+emphasis is still upon psychometry etry, and this is in part due to an
 unwillingness to assume the responsibility o f control. . . . In some
 curious way w e feel com pelled to leave the active control o f human
 behavior to those who grasp it fo r selfish purposes
@@ -13056,7 +13056,7 @@ behavior to those who grasp it fo r selfish purposes
 1 was in agreement with him that such a discussion w ould serve a
 valuable purpose in stirring interest in an im portant issue. We held
 the debate in Septem ber 1956. It attracted a large and attentive
-audience, and, as is the way in debates, m ost o f the ?nembers doubtless left feeling confirmed in the views they held when they came
+audience, and, as is the way in debates, m ost o f the ?members doubtless left feeling confirmed in the views they held when they came
 
 • Skinner, B. F., in Current Trends in Psychology, edited by Wayne Dennis
 
@@ -13086,13 +13086,13 @@ T echnology.
 
 T h e s c i e n c e s w h i c h d e a l w i t h b e h a v io r are in an infant state.
 
-This eluster of scicntific disciplines is usually thought o f as including psychology, psychiatry, sociology, social psychology, anthropology, and biology, though sometimes the other social sciences
+This cluster of scicntific disciplines is usually thought o f as including psychology, psychiatry, sociology, social psychology, anthropology, and biology, though sometimes the other social sciences
 such as economics and political scicnce arc included, and mathematics
 and statistics are very much involved as instrumental disciplines.
 Th ough they are all at w ork trying to understand the behavior of
 man and animals, and though research in these fields is grow ing by
 leaps and bounds, it is still an area in which there is undoubtedly
-more confusion than solid knowledge. Th oughtful workers in these
+more confusion than solid knowledge. Th thoughtful workers in these
 fields tend to stress the enormity o f our scicntific ignorance regarding behavior, and the paucity o f general laws which have been discovered. T h ey tend to com pare the state o f this field o f scientific
 
 G row ing Pow er o f the Behavioral Sciences
@@ -13108,13 +13108,13 @@ field.
 W ithout in any w ay denying the truthfulness o f this picture, I
 believe it is sometimes stressed to the point where the general public
 may fail to recognize the other side o f the coin. Behavioral science,
-even though in its infancy, has made m ighty strides toward becom ing
+even though in its infancy, has made m mighty strides toward becom ing
 an " if — then" science. By this I mean that it has made striking
 progress in discerning and discovering lawful relationships such that
 if certain conditions exist, then certain behaviors will predictably
 follow. I believe that too few people are aware o f the extent, the
 breadth, and the depth o f the advances which have been made in
-rccent decades in the behavioral sciences. Still few er seem to be
+recent decades in the behavioral sciences. Still few er seem to be
 aware o f the profound social, educational, political, economic,
 ethical, and philosophical problems posed by these advances.
 
@@ -13131,7 +13131,7 @@ L et us try to obtain some impression o f the significance of knowledge in the b
 a look at specific studies and their meanings. I have endeavored to
 choose illustrations which would indicate something of the range o f
 the work being done. I am limited by the scope o f m y own knowledge, and make no claim that these illustrations represent a truly
-random sampling o f the behavioral sciences. I am sure thut the fact
+random sampling o f the behavioral sciences. I am sure that the fact
 that I am a psychologist means that I tend to draw a disproportionate
 
 T h e B e h a v io r a l S c i e n c e s a n d t h e P e r s o n
@@ -13234,7 +13234,7 @@ a minimum and impersonal contact with the patient. First a number
 o f tests would be administered and scored. Then the profile of
 scores would be looked up in actuarial tables prepared on the basis
 o f hundreds o f cases, and an accurate and predictive description o f
-personality would emerge, the clerk sim ply copyin g down the combination of characteristics which had been found to be statistically
+personality would emerge, the clerk sim ply copying g down the combination of characteristics which had been found to be statistically
 correlated with this configuration o f scores.
 
 Aleehl is here simply carrying forw ard to the next logical step the
@@ -13248,7 +13248,7 @@ G row ing Pow er of the Behavioral Sciences
 
 3 6 9
 
-We can select those persons rwho are easily persuaded, who will
+We can select those persons who are easily persuaded, who will
 conform to group pressures, or those who will not yield. T w o
 separate but compatible studies (15, 16) show that individuals who
 exhibit certain dependency themes in their responses to the pictures
@@ -13268,7 +13268,7 @@ tendency toward a pervasive and rigid distinction between ingroups
 and outgroups, with hostility tow ard outgroups, and a submissive
 attitude toward, and belief in the rightness of, ingroups. One o f the
 theories which has developed is that the more ethnocentric person
-is unable to tolerate am biguity or uncertainty in a situation. O perating on this theory Block and Block (5) had subjects report on the
+is unable to tolerate am biguity or uncertainty in a situation. O Operating on this theory Block and Block (5) had subjects report on the
 degree of movement they perceived in a dim spot o f light in a com ­
 pletely dark room. (A ctually no movement occurs, but almost all
 individuals perceive movement in this situation.) T h ey also gave
@@ -13404,7 +13404,7 @@ larger than B, then he has a strong tendency to go along with this
 judgment, and in many instances does so with a real belief in his
 false report.
 
-N o t only can we predict that a certain prccentage o f individuals
+N o t only can we predict that a certain percentage o f individuals
 will thus yield, and disbelieve their own senses, but Crutchfield lias
 determined the personality attributes o f those who will do so, and
 
@@ -13424,7 +13424,7 @@ completely unaware o f having seen the word. T h ey tended, however, to sec the 
 tended to see the face as becom ing more happy. Thus they were
 clearly influenced by stimuli which registered at a subliminal level,
 stimuli of which the individual was not, and could not be, aware.
-We know how to influence psychological m oodsy attitudes, and
+We know how to influence psychological m moods attitudes, and
 behaviors, through drugs. For this illustration we step over into
 the rapidly developing borderline area between chemistry and
 psychology. From drugs to keep awake while driving or studying,
@@ -13435,7 +13435,7 @@ field is striking. Increasingly there are efforts to find drugs with
 more specific effects — a drug which will energize the depressive
 individual, another to calm the excited, and the like. D rugs have
 reportedly been given to soldiers before a battle to eliminate fear.
-Trade names for the tranquili/.ing drugs such as Miltown have already crept into our language, even into our cartoons. W hile
+Trade names for the tranquilizing/.ing drugs such as Miltown have already crept into our language, even into our cartoons. W hile
 much is still unknown in this field, Dr. Skinner o f H arvard states
 that, " In the not-too-distant future, the motivational and emotional
 conditions o f normal life will probably be maintained in any desired
@@ -13448,12 +13448,12 @@ thoroughly normal individual in the waking state. T his knowledge
 
 T h e B e h a v i o r a l S c i e n c e s a n d t h e P lkson
 
-came about as the unexpected by-product o f research at AIcGill
+came about as the unexpected by-product o f research at McGill
 U niversity (4 ). It was discovered that if all channels of sensory
 stimulation are cut off or muffled, abnormal reactions follow. If
-healthy subjects lie motionless, to reduce kinaesthctic stimuli, with
+healthy subjects lie motionless, to reduce kinaesthetic stimuli, with
 eyes shielded by translucent goggles which do not permit perception, with hearing largely stifled b y foam rubber pillows as well as
-b y being in a quiet cubicle, and with tactile sensations reduccd by
+b y being in a quiet cubicle, and with tactile sensations reduced by
 cuffs over the hands, then hallucinations and bizarre ideation bearing
 some resemblance to that o f the psychotic occur within forty-eight
 hours in most subjects. W hat the results would be if the sensory
@@ -13520,7 +13520,7 @@ prisoner's internal frame of reference, or personal perception of
 events. G radually, out o f his need for more acceptance, the prisoner
 comes to accept halftruths as being true, until little by little he has
 
-given up his own view o f himself and o f his behavior, and has acccpted the viewpoint o f his interrogator. He is very much demoralized and disintegrated as a person, and largely the puppet of the interrogator. H e is then willing to " confess" that he is an enemy o f the
+given up his own view o f himself and o f his behavior, and has accepted the viewpoint o f his interrogator. He is very much demoralized and disintegrated as a person, and largely the puppet of the interrogator. H e is then willing to " confess" that he is an enemy o f the
 state, and has committed all kinds o f treasonable acts which either he
 has not done, or which actually had a very different significance.
 
@@ -13544,7 +13544,7 @@ but I would like to mention three suggestive studies and their findings.
 
 We know how to establish the conditions which will cause young
 ducklings to develop a lasting devotion to, fo r example, an old shoe.
-Hess (12) has carricd out studies o f the phenomenon o f " imprinting," first investigated in Europe. H e has shown that in mallard
+Hess (12) has carried out studies o f the phenomenon o f " imprinting," first investigated in Europe. H e has shown that in mallard
 ducklings, for example, there are a few crucial hours — from the
 13th to the 17th hour after hatching — when the duckling becomes
 attached to any object to which it m ay be exposed. T h e more effort
@@ -13557,7 +13557,7 @@ human infant? One cannot help but speculate.
 G row ing Pow er of the Behavioral Sciences
 
 We know how to eliminate a strong specific fear in a rat by means
-o f clectro-convnlsive shock. H unt and Brady (14) first trained
+o f electro-convulsive shock. H unt and Brady (14) first trained
 thirsty rats to obtain water by pressing a lever. T h is they did freely
 and frequently while in the experimental box. W hen this habit was
 well fixed a conditioned fear was established by having a clicker
@@ -13565,7 +13565,7 @@ sound for a time before a m ildly painful electric shock was administered. A fte
 cessation o f all lever pressing whenever the clicker sounded, even
 though the clicking was not followed bv any painful stimulus. This
 conditioned fear reaction was however almost com pletely eliminated
-by a series o f electo-convulsive shocks administered to the animals.
+by a series o f electro-convulsive shocks administered to the animals.
 Follow ing this scries o f shock treatments the animals showed no
 fear, and freely pressed the lever, even while the clicker was sounding. The authors interpret their results very cautiously, but the general similarity to shock therapy administered to human beings is
 obvious.
@@ -13580,7 +13580,7 @@ city, and gradually train pigeons to peck only at that portion which
 contained some vital industry — an airplane factory, for instance.
 O r he could train them to peck only at representations o f certain
 types of ship at sea. It was then only a technical matter, though to
-be sure a com plex one, to turn their pcckings into guidance for a
+be sure a com plex one, to turn their pecking into guidance for a
 missile. H ousing two or three pigeons in the simulated nose of a
 missile he was able to show that no matter how it might veer off
 course the pigeons would bring it back " on target" by their pecking.
@@ -13633,7 +13633,7 @@ will lead to various predictable group behaviors; to establish conditions which,
 and in animals our ability to understand, predict and control goes
 even further, possibly foreshadow ing future steps in relation to man.
 If your reaction is the same as mine then you will have found that
-this picture I have given has its deeply frightening aspccts. W ith all
+this picture I have given has its deeply frightening aspects. W ith all
 the immaturity o f this young science, and its vast ignorance, even its
 present state o f knowledge contains awesome possibilities. Suppose
 some individual or group had both the knowledge available, and the
@@ -13664,7 +13664,7 @@ use in any w ay that significantly affects society, and that for the
 most part these studies are im portant to the behavioral scientist but
 have little practical im pact on our culture.
 
-I quite agree with this last point. T h e behavioral scienccs at the
+I quite agree with this last point. T h e behavioral sciences at the
 present time are at somewhat the same stage as the physical sciences
 
 T h e B e h a v i o r a l S c i e n c e s a n d t h e P e r s o n
@@ -13712,13 +13712,13 @@ knowledge be used?
 
 I shall try to make a small beginning in the consideration o f these
 
-questions in the next Iccture.
+questions in the next Lecture.
 
-1. Asch, Solomon E. Social Psychology. New York: Prcntice-Hall,
+1. Asch, Solomon E. Social Psychology. New York: Prentice-Hall,
 
 1952, 450-483.
 
-2. Bcier, Ernst G. The effect of induccd anxiety on some aspects of
+2. Bcier, Ernst G. The effect of induced anxiety on some aspects of
 intellectual functioning. Ph.D. thesis, Columbia University, 1949.
 
 3. Bertalanffy, L. von. A biologist looks at human nature. Science
@@ -13729,16 +13729,16 @@ Monthly, 1956, 82, 33-41.
 1954, 8, 70-76.
 
 5. Block, Jack, and Jeanne Block. An investigation of the relationship
-between intolerance of ambiguity and ethnoccntrism. /. Personality,
+between intolerance of ambiguity and ethnocentrism. /. Personality,
 1951, 19, 303-311.
 
-6. Cameron, D. E. Psychic driving. Am. /. Psycbiat., 1956, 112, 502-
+6. Cameron, D. E. Psychic driving. Am. /. Psychiatry., 1956, 112, 502-
 
 509.
 
 7. Coch, Lester, and J. R. P. French, Jr. Overcoming resistance to
 
-change, Htmian Relations, 1948, 1, 512-532.
+change, Human Relations, 1948, 1, 512-532.
 
 8. Crutchfield, Richard S. Conformity and character. Amer. Psychol.,
 
@@ -13779,7 +13779,7 @@ sonality, 1954, 22, 504-518.
 group conformity. /. Consult. Psychol., 1956, 20, 29-32.
 
 17. Katz, D., N. Maccoby, and N . C. Morse. Productivity, supervision,
-and jnorale in an office situation. Part I. Ann Arbor: Survey Research Center, University of Michigan, 1950.
+and morale in an office situation. Part I. Ann Arbor: Survey Research Center, University of Michigan, 1950.
 
 18. Meehl, P. E. Wanted — a good cookbook. Amer. Psychol., 1956,11,
 
@@ -13812,7 +13812,7 @@ lin Co., 1951.
 personality change. University of Chicago Press, 1954.
 
 25. Seeman, Julius, and Nathaniel J. Raskin. Research perspectives in
-client-centered therapy, in O. H . Mowrer (Ed.). Phychotherapy:
+client-centered therapy, in O. H . Mowrer (Ed.). Psychotherapy:
 Theory and Research, Chapter 9. New York: Ronald Press, 1953.
 
 26. Skinner, B. F. The control of human behavior. Transactions New
@@ -13879,7 +13879,7 @@ necessarily denying the possibility o f a behavioral science, the man in
 the street simply ignores the developments which are taking place.
 T o be sure he becomes excited for a time when he hears it said that
 the Communists have attempted to change the soldiers they have captured, by means of " brainwashing." He m ay show a mild reaction
-of annoyance to the revelations o f a book such as W hyte's (13)
+of annoyance to the revelations o f a book such as W Whyte's (13)
 which shows how heavily, and in what manipulative fashion, the
 findings o f the behavioral sciences are used by modern industrial
 corporations. But by and large he sees nothing in all this to be concerned about, any more than he did in the first theoretical statements
@@ -13887,7 +13887,7 @@ that the atom could be split.
 
 W e may, if we wish, join him in ignoring the problem. W e may
 go further, like the older intellectuals I have cited, and looking at the
-bchavorial sciences m ay declare that " there ain't no such animal."
+behavioral sciences m ay declare that " there ain't no such animal."
 But since these reactions do not seem particularly intelligent I shall
 leave them to describe a much more sophisticated and much more
 prevalent point o f view.
@@ -13966,7 +13966,7 @@ can make o f them." (12, p. 243)
 
 W hat Skinner is essentially saying here is that the current know ledge in the behavioral sciences plus that which the future will bring,
 will enable us to specify, to a degree which today would seem incredible, the kind o f behavioral and personality results which we
-wisli to achieve. T h is is obviously both an opportunity and a very
+wish to achieve. T h is is obviously both an opportunity and a very
 heavy burden.
 
 The second element in this process would be one which is familiar
@@ -13983,7 +13983,7 @@ we have selected.
 T h e B e h a v io r a l S c i e n c e s a n d t h e P * k so n
 
 T h e third element in the control o f human behavior through the
-behavioral scicnccs involves the question of power. As the conditions or methods are discovered by which to achieve our goal, some
+behavioral sciences involves the question of power. As the conditions or methods are discovered by which to achieve our goal, some
 person or group obtains the powder to establish those conditions or
 use those methods. Th ere has been too little recognition o f the problem involved in this. T o hope that the pow er being made available
 by the behavioral sciences will be exercised by the scientists, or by
@@ -14018,7 +14018,7 @@ the controlled, though they are follow ing a code much more scrupulously than wa
 The Place of the Individual
 
 free. T h ey are doing what they want to do, not what they are
-forced to do. T h at's the sourcc of the tremendous power of positive
+forced to do. T h at's the source of the tremendous power of positive
 reinforcement — there's no restraint and no revolt. By a careful design, we control not the fin.il behavior, but the inclination to behave
 — the motives, the desires, the wishes. T h e curious thing is that in
 that case the question of freedom never arises."
@@ -14127,7 +14127,7 @@ E n d s a n d V a l u e s i n R e l a t i o n t o S c i e n c e
 
 It seems to me that the view I have presented rests upon a faulty
 perception o f the relationship o f goals and values to the enterprise
-o f science. T h e significance o f the purpose o f a scientific undertaking is, I believe, grossly underestimated. I would like to state a tw opronged thesis which in m y estimation deserves consideration. Then
+o f science. T h e significance o f the purpose o f a scientific undertaking is, I believe, grossly underestimated. I would like to state a tw two-pronged thesis which in m y estimation deserves consideration. Then
 I will elaborate the meaning o f these two points.
 
 1. In any scientific endeavor — whether " pure" or applied science
@@ -14136,7 +14136,7 @@ which that scientific w ork is perceived as serving.
 
 2. T h is subjective value choice which brings the scientific en­
 
-deavor into being must alw ays lie outside of that endeavor, and can
+endeavor into being must alw ays lie outside of that endeavor, and can
 never becom e a part o f the science involved in that endeavor.
 
 L et me illustrate the first point from Dr. Skinner's writings. When
@@ -14154,7 +14154,7 @@ caused — that a specified event is follow ed by a consequent event.
 Hence all is determined, nothing is free, choice is impossible. But
 we must recall that scicnce itself, and each specific scientific endeavor, each changc o f course in a scientific research, each interpretation o f the meaning o f a scicntific finding and each decision as
 to how the finding shall be applied, rests upon a personal subjective
-choice. T h us science in general exists in the same paradoxical situation as docs Dr. Skinner. A personal subjcctivc choice made by man
+choice. T h us science in general exists in the same paradoxical situation as docs Dr. Skinner. A personal subjective choice made by man
 sets in motion the operations o f science, which in time proclaims
 that there can be no such thing as a personal subjective choice. I shall
 make some comments about this continuing paradox at a later point.
@@ -14165,7 +14165,7 @@ another because he values it m ore highly. H e interprets his findings
 in one w ay rather than another because he believes the first w ay is
 closer to the truth, or more valid — in other w ords that it is closer
 to a criterion which he values. N o w these value choices are never
-a part of the scicntific venture itself. T h e value choiccs connected
+a part of the scicntific venture itself. T h e value choices connected
 with a particular scientific enterprise always and necessarily lie outside o f that enterprise.
 
 1 wish to make it clear that I am not saying that values cannot be
@@ -14295,13 +14295,13 @@ Th e individual human being as a self-actualizing process, moving
 
 on to m ore challenging and enriching experiences;
 
-T h e process by which the individual creatively adapts to an evernew and changing w orld;
+T h e process by which the individual creatively adapts to an ever-new and changing w orld;
 
 T h e process b y which know ledge transcends itself, as for example
 the theory o f relativity transcended N ew tonian physics, itself to be
 transcended in some future day b y a new perception.
 
-If we sclect values such as these we turn to our science and technology o f behavior with a very different set of questions. W e will
+If we select values such as these we turn to our science and technology o f behavior with a very different set of questions. W e will
 want to know such things as these:
 
 Can science aid us in the discovery o f new modes o f richly rew arding living? M ore meaningful and satisfying modes o f interpersonal relationships?
@@ -14312,8 +14312,8 @@ psychological and social evolution?
 
 Can science inform us as to w ays o f releasing the creative capacity
 o f individuals, which seem so necessary if we are to survive in this
-fantastically expanding atomic age? D r. Oppcnhcimer has pointed
-out (4) that know ledge, which used to double in millcnia or centuries, now doubles in a generation or a decade. It appears that we
+fantastically expanding atomic age? D r. Oppenheimer has pointed
+out (4) that know ledge, which used to double in millennia or centuries, now doubles in a generation or a decade. It appears that we
 will need to discover the utm ost in release o f creativity if we are
 to be able to adapt effectively.
 
@@ -14331,7 +14331,7 @@ A S m a l l E x a m p l e
 
 I will perhaps be forgiven if I docum ent some o f the possibilities
 along this line by turning to psychotherapy, the field I know best.
-Psychotherapy, as M ccrloo (2) and others have pointed out, can
+Psychotherapy, as M McClellan (2) and others have pointed out, can
 be one o f the most subtle tools fo r the control o f one person by another. T h e therapist can subtly mold individuals in imitation o f
 himself. H e can cause an individual to become a submissive and
 conform ing being. W hen certain therapeutic principles are used in
@@ -14369,7 +14369,7 @@ better organized and integrated, more similar to the ideal which he
 has chosen for himself. In other w ords we have established by external control conditions which we predict will be followed by
 internal control by the individual, in pursuit o f internally chosen
 goals. W e have set the conditions which prcdict various classes of
-behaviors — sclf-dirccting behaviors, sensitivity to realities within
+behaviors — sclf-self-directing behaviors, sensitivity to realities within
 and without, flexible adaptiveness — which are by their very nature
 unpredictable in their specifics. T h e conditions we have established
 
@@ -14416,7 +14416,7 @@ knowledge becom es self-transcending.
 
 Th e Place of the Individual
 
-2. W e can procccd, by the methods o f science, to discover the
+2. W e can proceed, by the methods o f science, to discover the
 conditions which necessarily precede these processes, and through
 continuing experimentation, to discover better means o f achieving
 these purposes.
@@ -14458,7 +14458,7 @@ T iie B e h a v i o r a l S c i e n c e s a n d t h e P e r s o n
 
 people in w ays never dreamed o f before, depersonalizing them,
 controlling them by means so carefully selected that they will perhaps never be aware o f their loss o f personhood. W e can choose to
-utilize our scientific knowledge to make men necessarily happy, wellbehaved, and productive, as Dr. Skinner suggests. W e can, if we
+utilize our scientific knowledge to make men necessarily happy, well-behaved, and productive, as Dr. Skinner suggests. W e can, if we
 wish, choose to make men submissive, conforming, docile. O r at
 the other end o f the spectrum o f choice we can choose to use the
 behavioral sciences in w ays which will free, not control; which
@@ -14503,7 +14503,7 @@ Bros., 1946.
 
 peutic coercion. J. Nerv. Merit. Dis., 1955, 122, 353-360.
 
-3. Niebuhr, R. The Self and the Dramas of History. New York: Scrib­
+3. Niebuhr, R. The Self and the Dramas of History. New York: Scribner­
 
 ner, 1955.
 
@@ -14515,7 +14515,7 @@ sional Papers. 1956, 2, Chicago, Illinois.
 
 Library, 1953.
 
-6. Popper, K. R. The Open Society and Its Enemies. London: Routledgc and Regan Paul, 1945.
+6. Popper, K. R. The Open Society and Its Enemies. London: Routledge and Regan Paul, 1945.
 
 7. Ratner, J. (Ed.). Intelligence in the Modern World: John Dewey's
 
@@ -14563,7 +14563,7 @@ York: Teachers College, Columbia University, Bureau of Publications,
 1931, 107 pp.
 
 A Test of Personality Adjustment. New York: Association Press, 1931.
-With M. E. Rappaport. W e pay for the Smiths. Survey Graphicy 1931,
+With M. E. Rappaport. W e pay for the Smiths. Survey Graphic 1931,
 
 19y 508 ff.
 
@@ -14591,7 +14591,7 @@ Work. Syracuse: 1938, 48-54.
 
 The Clinical Treatment of the Problem Child. Boston: Houghton Mif­
 
-flin, 1939, 393 pp.
+Mifflin, 1939, 393 pp.
 
 Needed emphases in the training of clinical psychologists. J. Consnlt.
 
@@ -14627,7 +14627,7 @@ Mental health problems in three elementary schools. Educ. Research
 
 Bulletin, 1942, 21, 69-79.
 
-The use of electrically recorded interviews in improving psychothera­
+The use of electrically recorded interviews in improving psychotherapeutic­
 
 peutic techniques. Amer J. Orthopsychiat., 1942, 12, 429-434.
 
@@ -14638,16 +14638,16 @@ pp. Translated into Japanese and published by Sogensha Press, Tokyo,
 Therapy in guidance clinics. J. Abnorm. Soc. P s y c h o l 1943, 38, 284-
 289. Also published in R. Watson (Ed.), Readings in Clinical Psychology. New York: Harper and Bros., 1949, 519-527.
 
-Apl'ENDLX
+APPENDIX
 
-Adjtistment after Combat. A rm y A ir Forccs Flexible Gunnery School,
+Adjustment after Combat. A rm y A ir Forccs Flexible Gunnery School,
 
 Fort Myers, Florida. Restricted Publication, 1944, 90 pp.
 The development of insight in a counseling relationship.
 
 J. Consult.
-Psychol., 1944, 8, 331-341. A lso published in A. H . Brayficld (E d .),
-Readings on Modem Methods of Counseling. N e w York: A ppleton-
+Psychol., 1944, 8, 331-341. A lso published in A. H . Brayfield (E d .),
+Readings on Modem Methods of Counseling. N e w York: A Appleton-
 Century-Crofts, 1950, 119-132.
 
 The psychological adjustments of discharged service personnel. Psych.
@@ -14658,7 +14658,7 @@ The nondirective method as a tcchniquc for social research. Amer. J.
 
 Sociology, 1945, 50, 279-283.
 
-Counseling. Review of Editc. Research, 1945, 15, 155-163.
+Counseling. Review of Edit. Research, 1945, 15, 155-163.
 Dealing with individuals in U SO . USO Program Services Bulletin, 1945.
 A counseling viewpoint for the U SO worker. USO Program Services
 
@@ -14676,7 +14676,7 @@ Psychometric
 
 tests and client-centered counseling. Educ. Psychol.
 
-Measjnt., 1946, 6, 139-144.
+Measurement., 1946, 6, 139-144.
 
 Significant aspects of client-centered therapy. Amer. Psychologist, 1946,
 1, 415-422. Translated into Spanish and published in Rev. Psicol. Gen.
@@ -14707,7 +14707,7 @@ Phenomenological Problem. N e w York: Harper and Bros., 1959, 49-
 in A. Kuenzli
 
 The case of Alary Jane T ilden. In W . U . Snyder (E d .), Casebook of
-Nondirective Counseling. Boston: H oughton Alifflin, 1947, 129-203.
+Nondirective Counseling. Boston: H oughton Mifflin, 1947, 129-203.
 
 Research in psychotherapy: Round Table, 1947. Amer. J. Orthopsychiat., 1948,18, 96-100.
 
@@ -14718,8 +14718,8 @@ Psychology, 1952,5 (2 8 ), 14-20; 3 (2 9 ), 37-44.
 Divergent trends in methods o f improving adjustment. Harvard Educational Review, 1948, 18, 209-219. Also in Pastoral Psychology, 1950,
 / (8 ),1 1 -1 8 .
 
-Some implications of client-centercd counseling for college personnel
-work. Educ. Psychol. Measmt., 1948, 8, 540-549. Also published in
+Some implications of client-centered counseling for college personnel
+work. Educ. Psychol. Measurement., 1948, 8, 540-549. Also published in
 College and University, 1948, and in Registrar's Journal, 1948.
 
 W ith B. L. Kell and H elen M cN eil. T h e role of self-understanding in
@@ -14735,7 +14735,7 @@ A coordinated research in psychotherapy: A non-objective introduc­
 tion. J. Consult. Psychol., 1949, 13, 149-153.
 
 Significance of the self-regarding attitudes and perceptions. In M. L.
-Reym ert (E d .), Feelings and Emotions. N e w York: M cGraw-Hill,
+Reymert ert (E d .), Feelings and Emotions. N e w York: M cGraw-Hill,
 1950. 374-382. A lso published in G orlow , L., and W . Katkovsky
 (E d s.), Readings in the Psychology of Adjustment. N e w York:
 M cG raw -H ill, 1959.
@@ -14761,9 +14761,9 @@ W here are w e going in clinical p sych ology5 J. Consult. Psychol., 1951,
 
 15, 171-177.
 
-Clxcm-Centered Therapy: Its Current Practice, Implications, and Theory.
+Client-Centered Therapy: Its Current Practice, Implications, and Theory.
 Boston: H oughton Mifflin, 1951, 560 pp. A lso translated into Japanese
-and published by Iwasaki Shotcn Press, 1955.
+and published by Iwasaki Shotten Press, 1955.
 
 Perceptual reorganization in client-centered therapy. In R. R. Blake
 and G . V . Ramsey (E d s.), Perception: An Approach to Personality.
@@ -14781,18 +14781,18 @@ Through the eyes o f a client. Pastoral Psychology, 2 (1 6 ), 32-40; (17)
 
 45-50; (18) 26-32. 1951.
 
-W ith T . Gordon, D. L. Grum mon and J. Seeman. Studies in clientcentered psychotherapy I: D eveloping a program of research
+W ith T . Gordon, D. L. Grum mon and J. Seeman. Studies in clientcentered psychotherapy I: D Developing a program of research
 in
 psychotherapy. Psychol. Serv. Center /., 1951, 3, 3-28. Also published in C. R. Rogers and Rosalind F. D ym ond (E d s.), Psychotherapy and Personality Change. U niversity of Chicago Press, 1954,
 12-34.
 
-Communication: Its blocking and facilitation. Northwestem University
+Communication: Its blocking and facilitation. Northwestern University
 Information, 1952, 20, 9-15. Reprinted in E T C , 1952, P, 83-88; in
 Harvard Bus. Rev., 1952, 30, 46-50; in Human Relations for Management, E. C. Bursk (E d .). N e w York: Harper and Bros., 1956, 150-158.
 French translation in Hommes et Techniques, 1959.
 
 A personal formulation o f client-centered therapy. Marriage and Family
-Living, 1952, 14, 341-361. A lso published in C. E. V incent (E d .),
+Living, 1952, 14, 341-361. A lso published in C. E. V Vincent (E d .),
 Readings in Marriage Counseling. N e w York: T . Y. Crowell Co.,
 1957, 392-423.
 
@@ -14816,9 +14816,9 @@ T h e interest in the practice of psychotherapy. Amer. Psychologist, 1953,
 W ith G. W . Brooks, R. S. Driver, W . V . Merrihue, P. Pigors, and
 A . J. Rinella. R em oving the obstacles to good em ployee communications. Management Record, IS (1 ), 1953,9-11, 32-40.
 
-Becom ing a person. Oberlin College N ellie H eldt Lccture Series. Ober-
-Iin: Oberlin Printing Co., 1954. 46 pp. Reprinted b y the H ogg Foundation for Mental H ygiene, U niversity of Texas, 1956, also in Pastoral
-Psychology, 1956, 7 (6 1 ), 9-13, and 1956, 7 (6 3 ), 16-26. Also published in S. D oniger (E d .), Healing, Human and Divine. N ew York:
+Becom ing a person. Oberlin College N ellie H Heldt Lecture Series. Ober-
+Iin: Oberlin Printing Co., 1954. 46 pp. Reprinted b y the H ogg Foundation for Mental H Hygiene, U niversity of Texas, 1956, also in Pastoral
+Psychology, 1956, 7 (6 1 ), 9-13, and 1956, 7 (6 3 ), 16-26. Also published in S. D Doniger (E d .), Healing, Human and Divine. N ew York:
 Association Press, 1957, 57-67.
 
 Towards a theory o f creativity. E T C : A Review of General Semantics, 1954, / / , 249-260. A lso published in H. Anderson (E d .), Creativity and Its Cultivation. N e w York: Harper and Bros., 69-82.
@@ -14866,11 +14866,11 @@ in E. L. H artley, and R. E. H artley (E d s.), Outside Readings in
 Psychology. N e w York: T . Y. Crowell Co., 1957, 3-10. A lso published in R. S. Daniel (E d .), Contemporary Readings in General
 Psychology. Boston: H oughton Mifflin, 1960.
 
-Client-centered therapy: A current view. In F. Fromm-Rcichmann, and
-J. L. M oreno (E d s.), Progress in Psychotherapy. N e w York: Grune &
+Client-centered therapy: A current view. In F. Fromm-Reichmann, and
+J. L. M Moreno (E d s.), Progress in Psychotherapy. N e w York: Grune &
 Stratton, 1956, 199-209.
 
-R eview of Reinhold N iebuhr's The Self and the Dramas of History,
+R eview of Reinhold N Niebuhr The Self and the Dramas of History,
 Chicago Theological Seminary Register, 1956, 46, 13-14. A lso published in Pastoral Psychology, 1958, 9, N o . 85, 15-17.
 
 A counseling approach to human problems. Amer. J. of Nursing, 1956,
@@ -14891,7 +14891,7 @@ with B. F. Skinner) Science, N ovem ber 1956, 124, N o . 3231, 1057—
 1066. A lso published in L. G orlow , and W . Katkovsky (E d s.), Readings in the Psychology of Adjustment. N e w York: M cG raw -H ill,
 1959, 500-522.
 
-W ith E. J. Shobcn, O. H . M owrer, G. A . Kimble, and J. G. Miller.
+W ith E. J. Shoben, O. H . M owrer, G. A . Kimble, and J. G. Miller.
 Behavior theories and a counseling case. J. Counseling Psychol., 1956,
 3, 107-124.
 
@@ -14955,7 +14955,7 @@ Lessons I have learned in counseling w ith individuals. In W . E. Dugan
 (E d .), M odem School Practices Series 3, Counseling Points of View.
 U niversity o f Minnesota Press, 1959, 14-26.
 
-W ith G. Marian Kinget. Psycbotherapie en Menselyke Verhoudingen.
+W ith G. Marian Kinget. Psychotherapie en Menselyke Verhoudingen.
 
 Utrecht: Uitgeverij H e t Spectrum, 1959, 302 pp.
 
@@ -14978,7 +14978,7 @@ process changes in psychotherapy. J. Clinical Psychol., 1960, 16, 79-
 
 T w o divergent trends.
 
-In RoIIo May (E d .), Existential Psychology.
+In Rollo May (E d .), Existential Psychology.
 
 N e w York: Random House, 1961, 85-93.
 
@@ -14987,7 +14987,7 @@ T he process equation of psychotherapy. Amer. J. Psychotherapy, 1961,
 15, 27-45.
 
 A theory o f psychotherapy w ith schizophrenics and a proposal for its
-empirical investigation. In J. G. D awson, H . K. Stone, and N . P. Dellis
+empirical investigation. In J. G. D Dawson, H . K. Stone, and N . P. Dellis
 (E d s.), Psychotherapy with Schizophrenics. Baton Rouge: Louisiana
 State U niversity Press, 1961, 3-19.
 
@@ -15009,7 +15009,7 @@ Chapter 3, "T h e Characteristics of a Helping Relationship," copyright
 1958 by Personnel and Guidance Journal. Published as "Characteristics
 o f a helping relationship," 1958, 57, 6-16.
 
-Chapter 4, "W hat W e Know A bout Psychotherapy — O bjectively and
+Chapter 4, "W hat W e Know A bout Psychotherapy — O Objectively and
 
 Subjectively," copyright © 1961 b y Carl R. Rogers.
 
@@ -15026,14 +15026,14 @@ by American Psychological Association, Inc. Published under the same
 title in the American Psychologist, volum e 13, 142-149.
 
 Chapter 8, "T o Be T hat Self W h ich One T ru ly Is: A Therapist's V iew
-of Personal Goals," copyright 1960 by Pcndle H ill Publications. Published as "A therapist's view of personal goals," Pendlc H ill Pamphlet
+of Personal Goals," copyright 1960 by Pendle H ill Publications. Published as "A therapist's view of personal goals," Pendle H ill Pamphlet
 #108.
 
 Chapter 9, "A Therapist's V iew o f the G ood Life: T he Fully Functioning Person," copyright 1957 by The Humanist, Humanist House,
 
 A c k n o v v l e d g m e n is
 
-Y ellow Springs, Ohio. Published as "A therapist's view of the good
+Y Yellow Springs, Ohio. Published as "A therapist's view of the good
 life," volume 11, 291-300.
 
 Chapter 10, "Persons or Science? A Philosophical Question," copyright
@@ -15044,7 +15044,7 @@ Chapter 11, "Personality Change in Psychotherapy," copyright 1955 by
 The International Journal of Social Psychiatry. Published under same
 title in volum e 1, 31-41.
 
-Chapter 12, "Client-Centered Therapy in Its Context of Research," copyright 1959 b y Uitgeverij H et Spectrum, U trecht, T he Netherlands.
+Chapter 12, "Client-Centered Therapy in Its Context of Research," copyright 1959 b y Uitgeverij H et Spectrum, U Utrecht, T he Netherlands.
 Published as chapter 10 in Psychotherapie en Menselyke Verhoudingen, by C. R. Rogers and G. M. Kinget.
 
 Chapter 13, "Personal T houghts on T eaching and Learning," copyright
@@ -15069,7 +15069,7 @@ Chapter 18, "A T entative Formulation o f a General Law of Interpersonal
 
 Relationships," co p y rig h t© 1961 by Carl R. Rogers.
 
-Chapter 19, "Tow ard a T h eory o f C reativity," copyright 1954 by E T C :
+Chapter 19, "Tow ard a T h eory o f C Creativity," copyright 1954 by E T C :
 A Review of General Semantics. Published under same title in volume
 11, 249-260.
 
@@ -15159,7 +15159,7 @@ Becoming, process of, 55
 Beier, E. G., 371, 381
 Bergman, D . V., 253, 270
 Berlin, J. I., 267
-Bertalanffv, L. von, 370, 381
+Bertalanffy, L. von, 370, 381
 Beston, W. H., 381
 
 Clinical Treatment of the Problem
@@ -15353,7 +15353,7 @@ Heine, R. W ., 43, 58
 Heron, W ., 381
 Hess, E. H., 376, 382
 Hinkle, L. E., 375, 382
-Ilollingworth, L., 9
+Hollingworth, L., 9
 Hunt, H. F., 377, 382
 Huxley, A., 214, 386, 401
 
@@ -15384,7 +15384,7 @@ Knowledge, scientific, 216
 Learning:
 
 in education, 2 7 5 -2 7 8 , 2 80 -2 9 0
-in psvehotherapy, 86, 2 0 3-20 5,
+in psychotherapy, 86, 2 0 3-20 5,
 
 Learning theory, therapy based on,
 
@@ -15402,7 +15402,7 @@ to one's self, 17, 63
 Maccoby, N ., 370, 382
 McGiffert, A. C., 8
 McGill University, 374
-M cNeil, H., 221
+M McNeil, H., 221
 Maslow, A. H., 91, 106, 174, 182
 Maturity, psychological, 5G
 
@@ -15464,7 +15464,7 @@ Personality, change in, 62, 66, 75,
 Peterson, D. R., 381
 Physiological concomitants of psy­
 
-chotherapy, 1 47 -1 48
+psychotherapy, 1 47 -1 48
 
 Popper, K. R., 399, 401
 Power, 388
@@ -15522,7 +15522,7 @@ positive, 52, 343
 
 Relationship, 3 3 -3 5 , 56, 66
 
-afiFectional, 80, 86
+affectional, 80, 86
 changes in, 75, 157-158
 consequences of a, 3 6 -3 8
 creation of, 5 0 -5 6
@@ -15610,7 +15610,7 @@ Subjectivity, 202, 205
 Symbolization, 130
 
 Taft, R., 383
-Teachers' C ollege, Columbia U ni­
+Teachers' C College, Columbia U ni­
 
 versity, 9, 32
 
@@ -15684,7 +15684,7 @@ Zimring, F .; 128, 133, 158
 S E N T R Y E D I T I O N S
 1. A W eek on the Concord and Merrimack Rivers
 by Henry David Thoreau
-2. A D iary from D ixie by Mary Boykin Chesnut,
+2. A D iary from D Cather by Mary Boykin Chesnut,
 edited by Hen Ames Williams
 3. The Education of Henry Adams: An Autobiography
 4. J .B . by Archibald MacLeish
@@ -15695,7 +15695,7 @@ John C. Calhoun by Margaret L . Coit
 
 C. The Maritime History of M assachusetts: 1783—1860
 by Samuel Eliot Morison
-7. My Antonia by Willa Caiher
+7. My Antonia by Willa Wecter
 8. Patterns of Culture by Ruth Benedict
 9. Sara Clemens of Hannibal by Dixon Wecter
 
@@ -15709,11 +15709,11 @@ by Samuel Eliot Morison
 17. The Armada by Garrett Mattingly
 18. American Capitalism by John Kenneth Galbraith
 19. The Em ancipation of M assachusetts by Brooks Adams
-20. Beyond the Hundredth Meridian by JVallace Stegner
+20. Beyond the Hundredth Meridian by Wallace Stegner
 
 21. Paul Revere and the World l i e Lived In by Esther Forbes
 22. Chosen Country by John Dos Passos
-23. The T ragic Era by Claude G. Bowers
+23. The T Tragic Era by Claude G. Bowers
 24. Parkinson's Law by C. Northcote Parkinson
 25. A cross the W ide Missouri by Bernard DeVoto
 
@@ -15721,7 +15721,7 @@ by Samuel Eliot Morison
 
 M anhattan Transfer by John Dos Passos
 
-27. A Cartoon H istory of A rchitecture by Osbert Lancaster
+27. A Cartoon H istory of A Architecture by Osbert Lancaster
 28. T he Song o f the Lark by Willa Cather
 29. A Mirror for Witches by Esther Forbes
 30. The Collected Poems of Archibald MacLeish
@@ -15730,7 +15730,7 @@ Builders of the B ay Colony by Samuel Eliot Morison
 
 32.
 
-33. M ont-Saint-M ichcl and Chartres by Henry Adams
+33. M ont-Saint-M Michel and Chartres by Henry Adams
 3 t. Laughing B oy by Oliver L a Farge
 35. W ild America by Roger Tory Peterson and Jam es Fisher
 36. Paths to the Present by Arthur M. Schlesinger
@@ -15764,7 +15764,7 @@ The Price of Union by Herbert Agar
 50. Mark Twain's America and Mark Twain at Work
 by Bernard DeVoto
 51. Jefferson in Power by Claude G. Bowers
-52. F ifty Best American Short Stories 1915-1965
+52. F Fifty Best American Short Stories 1915-1965
 edited by Martha Foley
 53. Names on the Land by George R. Stewart
 54. Two Kinds of Time by Graham Peck
@@ -15772,7 +15772,7 @@ edited by Martha Foley
 56. The Promised Land by M ary Antin
 57. Personal History by Vincent Sheean
 58. The New Industrial State by John Kenneth Galbraith
-59. The Battle of Gettysburg by Frank A. H askell,
+59. The Battle of Gettysburg by Frank A. H Haskell,
 edited by Bruce Cation
 
 60.
@@ -15786,7 +15786,7 @@ edited by Arthur M. Schlesinger, J r . and Morton White
 
 SES
 
-S e n tr y Editions are bocks of lasting interest designed to becom e a
+S e n tr y Editions are books of lasting interest designed to becom e a
 perm anent addition to your library
 
 \

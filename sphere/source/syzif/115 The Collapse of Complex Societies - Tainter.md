@@ -24,7 +24,7 @@ New York New Rochelle Melbourne Sydney
 CIS SII
 
 Published by the Press Syndicate of the University of Cambridge
-The Pitt Buildling, Trumpington Street, Cambridge CB2 IRP
+The Pitt Building, Trumpington Street, Cambridge CB2 IRP
 32 East 57th Street, New York, NY 10022, USA
 10 Stamford Road, Oakleigh, Melbourne 3166, Australia
 
@@ -100,8 +100,8 @@ Classification of theories 42
 Framework of discussion 43
 Resource depletion 44
 
-Mesoamenca4S; Pem46; TheAmericanSouthwest46; Eastern North America 47; Egypt47-
-TheHarappan Ctvthzatton48; Mesopotamia48; Mycenaean Civilization49; TheR^n
+Mesoamerica4S; Pem46; TheAmericanSouthwest46; Eastern North America 47; Egypt47-
+Harappan Civilization48; Mesopotamia48; Mycenaean Civilization49; TheR^n
 'orxumun
 Empire49; Assessment SO
 
@@ -110,7 +110,7 @@ New resources 51
 Assessment S2
 Catastrophes 52
 
-MesoamericaS2; Minoan Civilization S3; The Roman Empire S3; Assessment S3
+Mesoamerica2; Minoan Civilization S3; The Roman Empire S3; Assessment S3
 
 Insufficient response to circumstances 54
 
@@ -153,14 +153,14 @@ Assessment 88
 
 Summary and discussion 89
 
-4 Understanding doUapse: the marginal productivity of sociopolitical change 91
+4 Understanding collapse: the marginal productivity of sociopolitical change 91
 
 The marginal productivity of increasing complexity 93
 
 Agriculture and resource production 94 Information processing 99; Sociopolitical control and
 specialization 106; Overall economic productivity 108;
 
-Explaining decliriing marginal returns in complex societies 109
+Explaining declining marginal returns in complex societies 109
 
 Agriculture and resource production 11 Oj Information processing 11 /,* Sociopolitical control and
 specialization 1 IS; Overall economic productivity 117
@@ -175,7 +175,7 @@ The collapse of the Western Roman Empire 128
 Assessment of the Roman collapse 148
 The Classic Maya collapse 152
 
-The setting 1S2; Views of the Maya 155; The evolution ofMttya Civilization 156; Population 159;
+The setting 1S2; Views of the Maya 155; The evolution Maya Civilization 156; Population 159;
 
 Subsistence 160; Sociopolitical complexity 162; Warfare 164; The collate 166;
 Assessment ofthe Maya collapse 169
@@ -230,7 +230,7 @@ thermal efficiency 110
 
 18 Marginal yield in a branch of science 113
 19 The marginal product of increasing complexity 119
-20 The margmal product of increasing complexity, with technological innovation or
+20 The marginal product of increasing complexity, with technological innovation or
 
 acquisition ofan energy subsidy 125
 
@@ -250,7 +250,7 @@ acquisition ofan energy subsidy 125
 Acknowledgements
 
 New Studies in Archaeology, whose interest in the work brought it to its present
-form, and whose comments led to material improvements. Peter Richards, archaeo
+form, and whose comments led to material improvements. Peter Richards, archaeology
 logy editor for Cambridge University Press, and Iain White, who meticulously
 prepared the typescript for printing, deserve special thanks.
 
@@ -341,12 +341,12 @@ collapse such concerns range untethered to any firm, reliable base.
 Disintegration of the social order has been a recurrent concern in Western history,
 and has often been expressed in a religious idiom. In the last few decades this concern
 has seemingly become rampant, and has achieved expression through a more secular
-form. A review of a recent exhibit of Mayan artifacts expressed popular thinUng well:
+form. A review of a recent exhibit of Mayan artifacts expressed popular thinking well:
 
 .. .some of the fascination of the Maya.. .may lie in the legendary 'collapse' of
 their culture several centuries before the Spanish conquest. Every thoughtful
 person who ponders the bureaucratic and technological pressures on ordinary
-fife today must wonder whether it is*possible for a societyto strangle on its own
+fife today must wonder whether it is*possible for a society to strangle on its own
 complexities... Sensing that our own collective future is in jeopardy.. .we are
 hungry for historical analysis to help us imagine the direction events might take
 (Baker 1986: 12).
@@ -358,10 +358,10 @@ fringes of the 'survivalist' movement. In between one finds a variety of serious
 well-meaning persons: environmentalists, no-growth advocates, nuclear-freeze propo
 nents, and others. All fear, for one reason or another, that industrial civilization is in
 danger. Such fears are frequently based on historical analogy with past civilizations
-that have disappeared (and indefed it is sometimes suggested that we are about to go
+that have disappeared (and indeed it is sometimes suggested that we are about to go
 the way of the dinosaurs).
 
-Contempora^ thmkers foresee collapse from such catastrophes as nuclear war,
+Contempora^ thinkers foresee collapse from such catastrophes as nuclear war,
 resource depletion, economic decline, ecological crises, or sociopolitical disintegration
 (e.g.. Meadows et al. 1972; Catton 1980; Turco et al. 1984). Only recently have such
 fears become widespread. As Dawson has noted:
@@ -370,14 +370,14 @@ fears become widespread. As Dawson has noted:
 
 Of all the changes that the twentieth century has brought, none goes deeper
 than the disappearance of that unquestioning faith in the future and the absolute
-value of our civilization'which was the dominant note of the nineteenth centurv
+value of our civilization'which was the dominant note of the nineteenth century
 (1956: 54).
 
 Although collapse has been of interest for as long as societies have proven vulner
 able, it has been a difficult mystery for historians and social scientists. Perhaps
-because of this, the devebpment of political complexity has attracted more scholarly
-attention than collapse, its antithesis. Human history as a whole has been characte
-rized by a seemingly inexorable trend toward higher levels of complexity, specializa
+because of this, the development of political complexity has attracted more scholarly
+attention than collapse, its antithesis. Human history as a whole has been characterized
+rized by a seemingly inexorable trend toward higher levels of complexity, specialization
 tion, and sociopolitical control, processing of greater quantities of energy and in
 formation, formation of ever larger settlements, and development of more complex
 and capable technologies. This persistent aspect of our history has rightfully received
@@ -397,7 +397,7 @@ applicable in a variety of contexts, and with implications for current condition
 IS a work of archaeology and history, but more basically of social theory.
 
 The approach is to first introduce and exemplify collapse, and then in Chapter 2 to
-briefly examme the nature of complex societies. Chapter 3 discusses and evaluates
+briefly examine the nature of complex societies. Chapter 3 discusses and evaluates
 existing approaches to understanding collapse. A general explanation is developed in
 Chapter 4, and evaluated by case studies in Chapter 5. A concluding chapter further
 discusses the proposed explanation, synthesizes the work, and raises some implica
@@ -461,7 +461,7 @@ said to emerge. Hunting bands and tribal cultivators experience changes in compl
 ity, either increases or decreases, just as surely as do large nations. Collapse, involving
 as it does a sudden, major loss of an established level of complexity, must be
 considered relative to the size of the society in which it occurs. Simple societies can
-lose an established level of complexity just as do great empires. Sedentary horticultur
+lose an established level of complexity just as do great empires. Sedentary horticulturalists
 alists may become mobile foragers, and lose the sociopolitical trapping^ of village life.
 A region organized under central chiefly administration may lose this hierarchical
 umbrella and revert to independent, feuding villages. A group of foragers may be sh
@@ -498,7 +498,7 @@ hundreds or thousands of collapses among centralized societies that were not org
 nized at a sufficient level of complexity to produce written records. Some of these are
 known archaeologically, but probably only a small minority. To, the extent that
 collapse is a general process, such cases are fully pertinent to understanding it, and
-should be studieq .whenever found.
+should be studied .whenever found.
 
 The Western CHou Empire
 The Chou dynasty succeeded the corrupt Shang in the mastery of China by 1122 B.C.
@@ -540,7 +540,7 @@ basic layout. Seaports controlled the coastline above and below the Indus. This
 literate civilization shows a striking degree of uniformity through time and space in
 pottery, ornaments, bricks, weapons, implements of bronze and stone, seals, and
 civic planning. Both major sites had massive granaries. The impression is of a highly
-centralized society in which the state controlled many facets of daily hving - milling
+centralized society in which the state controlled many facets of daily living - milling
 grain, manufacturing bricks and mass producing pottery, obtaining firewood, and
 building residences.
 
@@ -560,7 +560,7 @@ Wheeler 1966, 1968; Allchin and Allchin 1968; Gupta 1982).
 Mesopotamia
 Mesopotamia is characteristically seen as the heartland, the center of .origin of
 civilization and urban society. It displays a history of political rises and declines that
-lurmshes many examples of collapse.
+furnishes many examples of collapse.
 
 From the competing city-stateS of the early third millennium B.C., Sargon of
 Akkad developed the first Mesopotamian empire (ca. 2350-2150 B.C.). Its fall some
@@ -577,13 +577,13 @@ e next millennium or so there was a 40 percent reduction in the number of
 settlements, and a 77 percent reduction in settled area.
 
 Political power shifted to the north, to Babylon. The empire established by
-Hainmurabi (ca. 1792-1750 B.C.) did not survive the death of his son, Samsuiluna
+Hammurabi (ca. 1792-1750 B.C.) did not survive the death of his son, Samsuiluna
 (died ca. 1712 B.C.). Four succeeding kings ruled a greatly reduced realm, until the
 dynasty was terminated by the Hittites. Partly coterminously, the Assyrians in the
 period between 1920 and 1780 B.C. established widespread trade routes, and then
 collapsed. The Assyrians enjoyed a political resurgence in the 14th century B.C., and
 then again from the ninth to the seventh centuries. In this latter era they held a vast
-einpire over much of the Near East, only to lose most of these dependencies and suffer
+empire over much of the Near East, only to lose most of these dependencies and suffer
 defeat by the Medes m 614 B.C. Assyrian social and political institutions disappeared
 thereafter.
 
@@ -593,7 +593,7 @@ and durability - Achaemenian, Seleucid, Parthian, Sassanian, and Islamic. There 
 an irregular but largely sustained increase in the scale and complexity of the
 agricultural regime, in population density, and in city building.
 
-Sometune in the seventh through tenth centuries A.D., however, there was a major
+Sometime in the seventh through tenth centuries A.D., however, there was a major
 collapse m ±e Mesopotamian alluvium. By the eleventh or twelfth centuries A.D. the
 total occupied area had shrunk to only about six percent of its level 500 years earlier
 Population dropped to the lowest point in five millennia. State resources declined
@@ -610,7 +610,7 @@ Adams 1958; Waines 1977; Yoffee 1979, 1982).
 The Egyptian Old Kingdom
 The unification of Upper and Lower Egypt is usually traced to the First Dynasty, ca.
 3100 B.C. This event has always been regarded as a milestone in political history. The
-jEgyptian Old Kingdom was a highly centralized political system headed by a leader
+Egyptian Old Kingdom was a highly centralized political system headed by a leader
 with qualified supernatural authority. The government was based on a literate,
 hierarchically organized bureaucracy. It enjoyed substantial permanent income from
 the crown lands, commanded large labor pools, and virtually monopolized some vital
@@ -621,24 +621,24 @@ supernatural relations.
 
 As the Old Kingdom developed, however, it became difficult to ensure effective
 control of the provinces, which began to show strong feudal characteristics. The
-political authority of the ruler seems to have dechned, while the power of provincial
+political authority of the ruler seems to have declined, while the power of provincial
 officials and the wealth of the administrative nobility rose. Crown lands were
 subdivided. The establishment of tax-exempt funerary endowments diminished royal
 resources. And yet these developments coincided with immense construction at royal
-expense. The last ruler of the Sixth Dynasty, Phiops II, built a magnificent funerary
+expense. The last ruler of the Sixth Dynasty, Pepi II, built a magnificent funerary
 monument even as the declining power of the royal family was felt sharply at the close
 
 of his reign.
 
 With the end of the Sixth Dynasty in 2181 B.C. the Old Kingdom collapsed.
 Beginning with the Seventh Dynasty there was a period of strife, one of the darkest
-episodes'in Egyptian history. In the First Intermediate Period national centralization
+episodes Egyptian history. In the First Intermediate Period national centralization
 collapsed, and was replaced by a number of independent and semi-independent
 polities. There were many rulers and generally short reigns. Royal tombs became less
 
 elaborate.
 
-Contemporary records are few, but those that exist indicate a breakdown of ordA.
+Contemporary records are few, but those that exist indicate a breakdown of order.
 
 There was strife between districts; looting, killing, revolutions, and social anarchy;
 and incursions into the Delta. Tombs were plundered, royal women were clothed in
@@ -712,14 +712,14 @@ Security declined as militarism increased. The central and eastern parts of Cret
 possibly the whole island, may have come under the domination of Knossos. Many
 palaces were devastated. At places like Phaistos the local governor had to report
 agricultural and industrial production in detail to Knossos. About 1380 B.C. toe
-Cretan palaces were finally destroyed; most were not rebuUt. Minoan Civilization
+Cretan palaces were finally destroyed; most were not rebuilt. Minoan Civilization
 collapsed. Political, economic, and administrative centralization declined. A late,
 reduced administration at Knossos and some other sites finally ended about 1200 B.C.
 (Matz 1973a, 1973b; Willetts 1977; Stubbings 1975b; Hooker 1976; Chadwick 1976).
 
 Mycenaean Civilization
 Mycenaean Civilization of Mainland Greece began to develop about 1650 B.C. It
-reached the height of its power and prosperity after 1400 B.C., following the Mmoan
+reached the height of its power and prosperity after 1400 B.C., following the Minoan
 collapse. Throughout central and southern Greece there developed a great deal o
 homogeneity in such things as art, architecture, and political organization. This
 region was divided among a number of independent states which were each centered
@@ -728,12 +728,12 @@ most famous of these, and was probably toe most powerful. Nobles made up the roy
 court and administration; major land holders (lesser nobles) administered estates m
 the countryside. The Linear B tablets from Pylos indicate that this kingdom was
 divided into 16 administrative districts, each controlled by a governor and deputy.
-Mycenaean palaces, like their Cretan counterparts, served as controllmg economic
+Mycenaean palaces, like their Cretan counterparts, served as controlling economic
 centers at which goods and foodstuffs were stored and redistributed. Much of the
 Linear B writing was devoted to the accounting needs created thereby.
 
 The art and architecture of Mycenaean Civilization are widely known. Major
-structures were built with massive, 'cyclopean' walls. Palaces contamed frescoes and
+structures were built with massive, 'cyclopean' walls. Palaces contained frescoes and
 bathrooms. Gem cutting, metalwork, and pottery making were carried out by skilled
 artisans, as was inlay and work in ivory, glass, and faience. Very often these artisans
 worked under the close supervision of a palace authority. Roads, viaducts, and
@@ -741,7 +741,7 @@ aqueducts were built. Mycenaean wares were traded widely about the Mediterranean
 
 After about 1200 B.C. disaster struck. Palace after palace was destroyed. There
 followed a period of more than 100 years of unstable conditions , repeated catastrophes
-afflirting many centers, and movement of population. The uniform Mycenaean style
+afflicting many centers, and movement of population. The uniform Mycenaean style
 of pottery gave way to local styles that were less well executed. Metalwork became
 simpler. Writing disappeared. The craftsmen and artisans seem to have everywhere
 vanished. Fortifications were built across the Isthmus of Corinth and at other places.
@@ -903,7 +903,7 @@ and weavers. Raw materials and finished goods were imported over long distances.
 Tula as a state was overwhelmingly concerned with militarism. Like Teotihuacan
 before, it attracted a major part of the Basin of Mexico population. The end of Tula
 came between about J150 and 1200 A.D., and may have been accompanied by
-burning of its ceremf)nial center (Blanton 1978; Blanton and Kowalewski 1981;
+burning of its ceremonial)nial center (Blanton 1978; Blanton and Kowalewski 1981;
 Davies 1977; Diehl 1981; Katz 1972; Millon 1981; Parsons 1968; Pfeiffer 1975;
 Sanders 1981b; Sanders et al. 1979; M. Weaver 1972; Willey 1966).
 
@@ -942,7 +942,7 @@ The Chacoans
 The San Juan Basin is an arid, upland plateau located in northwestern New Mexico.
 Across this inhospitable landscape are found the remains of once-populous towns and
 villages, now utterly ruined and filled with windblown sand. The Chacoan towns,
-while not as widely known as the Mayan cities, present a similarly compelhng picture.
+while not as widely known as the Mayan cities, present a similarly compelling picture.
 Instead of cities overtaken by jungle, th^Chacoan image is of lost towns filled with
 drifting sands, and frequented only by desert fauna or occasional Navajo herders. The
 Chacoans were clearly masters of this desert, but somehow, disturbingly, they lost
@@ -958,13 +958,13 @@ something went wrong. Construction at towns ended, and some, then many, began to
 
 be abandoned. Trade networks declined, and the towns were scavenged for building
 materials. By 1300 A.D. the last sedentary peoples had either left, or reverted to a
-simple, mobile hfestyle.
+simple, mobile lifestyle.
 
 The Chacoans were not alone among prehistoric Southwestferners in this
 experience. Peoples such as the Mimbres, the Jornada, and many others lived through
 their own episodes of collapse and abandonment of settled areas (Powers et al. 1983;
 Schelberg 1982; Tainter and* Gillio 1980; Jelinek 1967; Stuart and Gauthier 1981;
-Uphaip 1984; Minnis 1985; Kelley 1952; Reed 1944).
+Uphai 1984; Minnis 1985; Kelley 1952; Reed 1944).
 
 The Hohokam
 The Hohokam were dwellers of the Southern Arizona desert, who before their collapse
@@ -995,14 +995,14 @@ The Hopewell complex developed in the last one or two centuries B.C. and the fir
 four centuries A.D. in the Great Lakes-Riverine area of the Midwest. Hopewell is
 distinguished by such features as construction of large earthworks requiring
 mobilization and coordination of labor, complex systems of mortuary ritual, elaborate
-artifact forms, and unportation of exotic raw materials and goods from across the
+artifact forms, and importation of exotic raw materials and goods from across the
 eastern two-thirds of what is now the United States. Archaeological analysis reveals
 that Hopewell in many areas was characterized by complex, hierarchically organized
 societies in which segments of the economic system were controlled by elites of
 hereditary status. By perhaps 400 A.D., however, the regional constellation of
 localized Hopewellian societies had everywhere collapsed. The Succeeding Late
 Woodland period Tea. 400-900 A.D.) is marked by a curtailment in trade, mortuary
-ceremonialism, puplic construction, and social complexity.
+ceremonialism, public construction, and social complexity.
 
 This hiatus was terminated by the Mississippian complex, with trade.
 
@@ -1024,7 +1024,7 @@ there was centralized control of resources. At least one member of the community
 elite was buried with human retainers and an array of imported luxury goods.
 
 After 1250 A.D. activity at Cahokia declined, some areas were converted from
-pubhc to private use, and over time this center lost its regional supremacy. Some
+public to private use, and over time this center lost its regional supremacy. Some
 Mississippian-like societies persisted in the southeastern U.S. until European contact,
 but no native societies in the Midwest achieved a comparable level of complexity (D.
 Cook 1981; Fowler 1975; Griffin 1967; Pfeiffer 1974; Struever 1964; Struever and
@@ -1118,7 +1118,7 @@ be at their residence together it is by accident.
 
 Each conjugal compound is stockaded against the others. Several compounds
 together form a village, but this is a largely meaningless occurrence. Villages have no
-politicsl functions or organization, not even a central meeting place.
+political functions or organization, not even a central meeting place.
 
 Children are minimally cared for by their mothers until age three, and then are put
 out to fend for themselves. This separation is absolute. By age three they are expected
@@ -1147,14 +1147,14 @@ kingdom, where a short-lived empire was followed by a period of retrenchment, wi
 no end to Babylon itself.
 
 There are qualitative differences between ancient societies and modern ones in
-their susceptibihty to collapse (although not for the reasons usually thought). This
+their susceptibility to collapse (although not for the reasons usually thought). This
 point will be addressed in the final chapter.
 
 After collapse
 Popular writers and film producers have developed a consistent image of what life will
 be like after the collapse of industrial society. With some variation, the picture that
 
-emefges is of a Hobbesian war-of-all-against-all, Ik-conditions extended globally.
+emerges is of a Hobbesian war-of-all-against-all, Ik-conditions extended globally.
 Only the strong survive; the weak are victimized, robbed, and killed. There is
 fighting for food and fuel. Whatever central authority remains lacks the resources to
 reimpose order. Bands of pitiful, maimed survivors scavenge among the ruins of
@@ -1169,7 +1169,7 @@ withdrawal of Roman power from Britain:
 From A.D. 100 to 400 all Britain except in the north was as pleasant and
 peaceful a countryside as it is to-day.. .But by 500 A.D. it had all vanished and
 the country had reverted to a condition which it had, perhaps, never seen
-before. There was no longer a trace of public safety, no houses of size, dwind
+before. There was no longer a trace of public safety, no houses of size, dwindling
 ling townships and all the villas and most of the Roman cities burnt, abandoned,
 looted and left the habitation of ghosts (1937: 164).
 
@@ -1205,8 +1205,8 @@ domination, so that a period of perpetual conflict ensues.
 
 The umbrella of law and protection erected over the populace is eliminated.
 
-Given tfiis pattern, it is a small wonder that collapse is, feared by so many people
-today. Even among those who decry the ejtcesses of industrial society, the possible
+Given this pattern, it is a small wonder that collapse is, feared by so many people
+today. Even among those who decry the excesses of industrial society, the possible
 end of that society,must surely be seen as catastrophic. Whether collapse is universally
 a catastrophe, though, is an uncertain matter. This point will be raised again in the
 concluding chapter.
@@ -1214,7 +1214,7 @@ concluding chapter.
 Lawlessness may prevail for a time, as in the Egyptian First Intermediate Period, but
 order will ultimately be restored. Monumental construction and publicly-supported
 art largely cease-to exist. Literacy may be lost entirely, and otherwise declines so
-dramatically that a dark age follbws.
+dramatically that a dark age follows.
 
 What populations remain in urban or other political centers reuse existing
 architecture in a characteristic manner. There is little new construction, and that
@@ -1244,7 +1244,7 @@ centuries or even millennia previously.
 
 Some simpler collapsing societies, like the Ik, clearly do not possess these features
 of complexity. Collapse for them entails loss of the common elements of band or tribal
-social structure - lineages and clans, reciprocity and other kin obhgations, village
+social structure - lineages and clans, reciprocity and other kin obligations, village
 political structure, relations of respect and authority, and constraints on non-sociable
 behavior. For such people collapse has surely led to a survival-of-the-fittest situation,
 although as Turnbull (1978) emphasizes, this is but a logical adjustment to their
@@ -1257,11 +1257,11 @@ order, maintenance of public works, or delivery of food and material goods. Orga
 tion reduces to the lowest level that is economically sustainable, so that a variety of
 contending polities exist where there had been peace and unity. Remaining popula
 tions must become locally self-sufficient to a degree not seen for several generations.
-Groups that had formerly been economic and political partners now become stran
+Groups that had formerly been economic and political partners now become strange
 gers, even threatening competitors. The world as seen from any locality perceptibly
 shrinks, and over the horizon lies the unknown.
 
-The natxire of complex societies
+The nature of complex societies
 
 How wondrous this wall-stone, shattered by Fate;
 Burg-places broken, the work of giants crumbled.
@@ -1347,7 +1347,7 @@ greater social complexity (1978: 91, 94).
 Complex societies tend to be what Simon has called 'nearly decomposable systems'
 (1965: 70). That is, they are at least partly built up of social units that are themselves
 potentially stable and independent, and indeed at one time may have been so. Thus, a
-newly established state njlay include several formerly independent villages or ethnic
+newly established state may include several formerly independent villages or ethnic
 groups, or an empire may|incorporate previously established states. To the extent that
 these states, ethnic groups, or villages retain the potential for independence and
 
@@ -1358,7 +1358,7 @@ stability, the collapse process may result in reversion (decomposition) to these
 Simpler societies
 The citizens of modern complex societies usually do not realize that we are an anomaly
 of history. Throughout the several million years that recognizable humans are known
-to have hved, the common political unit was the small, autonomous community,
+to have lived, the common political unit was the small, autonomous community,
 acting independently, and largely self-sufficient. Robert Carneiro has estimated that
 99.8 percent of human history has been dominated by these autonomous local
 communities (1978; 219). It has only been within the last 6000 years that something
@@ -1466,7 +1466,7 @@ cut-off point (Service 1962; Fried 1967; Gluckman 1965; Leach 1954; Sahlins 1963
 1968).
 
 Chiefdoms display many points of similarity to more complex, state-organized
-sptems, but are still regarded by most anthropologists as firmly within the category of
+systems, but are still regarded by most anthropologists as firmly within the category of
 simple or 'primitive' societies. Chiefdoms are limited by the obligations of kinship and
 the lack of true coercive force. By the time human organizations emerged that today
 would be called a state, these limitations had been surpassed.
@@ -1488,7 +1488,7 @@ later, in this chapter.
 States
 States are, to begin with, territorially organized. That is to say, membership is at least
 partly determined by birth or residence in a territory, rather than by real or Active kin
-relations. lUustrating this, as pointed out by Sir Henry Sumner Maine, was the
+relations. Illustrating this, as pointed out by Sir Henry Sumner Maine, was the
 transformation from the Merovingian title 'King of the Franks' to the Capetian 'King
 of France' (Sahlins 1968: 6). The territorial basis both reflects and influences the
 nature of statehood (Fortes and Evans-Pritchard 1940: 10; Claessen and Skalnik
@@ -1497,7 +1497,7 @@ nature of statehood (Fortes and Evans-Pritchard 1940: 10; Claessen and Skalnik
 States contrast with relatively complex tribal societies (e.g., chiefdoms) in a number
 of ways. In states, a ruling authority monopolizes sovereignty and delegates all power.
 The ruling class tends to be professional, and is largely divorced from the bonds of
-kinship. This ruling class suppHes the personnel for government, which is a
+kinship. This ruling class supplies the personnel for government, which is a
 specialized decision-making organization with a monopoly of force, and with the
 power to draft for war or work, levy and collect taxes, and decree and enforce laws.
 The government is legitimately constituted, which is to say that a common,
@@ -1508,7 +1508,7 @@ possible and necessary (Carneiro 1981: 69; Claessen and Skalnik 1978a: 21; Flann
 1972: 403-4; Fortes and Evans-Pritchard 1940; Johnson 1973: 2-3; Sahlins 1968: 6).
 
 States tend to be overwhelmingly concerned with maintaining their territorial
-mtegrity. This is, indeed, one of their primary characteristics. States are the only kind
+integrity. This is, indeed, one of their primary characteristics. States are the only kind
 of human society that does not ordinarily undergo short-term cycles of formation and
 dissolution (cf. R. Cohen 1978: 4; Claessen and Skalnik 1978b: 632).
 
@@ -1517,7 +1517,7 @@ makes clear. Occupational specialization is a prime characteristic, and is often
 reflected in patterns of residence (Flannery 1972: 403). Emile Durkheim, in a classic
 work, recognized that the evolution from primitive to complex societies witnessed the
 transformation from groups organized on the basis of what he labeled 'mechanical
-solidarity' (homopneity; lack of cultural and economic differentiation among the
+solidarity' (homogeneity; lack of cultural and economic differentiation among the
 members of a society) to those based on 'organic solidarity' (heterogeneity; cultural
 and economic differentiation requiring interaction and greater cohesiveness). Organic
 solidarity has increased throughout history, and in states is the preponderant form of
@@ -1525,8 +1525,8 @@ organization (Durkheim 1947).
 
 By virtue of their territorial extensiveness, states are often differentiated, not only
 economically, but also culturally and ethnically. Both economic and cultural
-heteropneity appear to be functionally related to the centralization and
-admmistration that are defining characteristics of states (Fortes and Evans-Pritchard
+heterogeneity appear to be functionally related to the centralization and
+administration that are defining characteristics of states (Fortes and Evans-Pritchard
 1940: 9).
 
 Despite an institutionalized authority structure, an ideological basis, and a
@@ -1536,23 +1536,23 @@ simpler societies, leadership activities and societal resources must be continuo
 devoted to this purpose. Hierarchy and complexity, as noted, are rare in human
 history, and where present require constant reinforcement. No societal leader is ever
 far from the need to validate position and policy, and no hierarchical society can be
-organized without exphcit provision for this need.
+organized without explicit provision for this need.
 
 Legitimacy is the belief of the populace and the elites that rule is proper and valid,
 that the political world is as it should be. It pertains to individual rulers, to decisions,
 to broad policies, to parties, and to entire forms of government. The support that
-members are willing to extend to a political system is essential for its survival. Dechne
-in support wiU not necessarfly lead to the fall of a regime, for to a certain extent
+members are willing to extend to a political system is essential for its survival. Decline
+in support wiU not necessarily lead to the fall of a regime, for to a certain extent
 coercion can replace commitment to ensure compliance. Coercion, though, is a costly,
 ineffective strategy which can never be completely or permanently successful. Even
 with coercion, decline m popular support below some critical minimum leads
-mfalhbly to political failure (Easton 1965b: 220-4). Establishing moral validity is a less
+infallibly to political failure (Easton 1965b: 220-4). Establishing moral validity is a less
 costly and more effective approach.
 
 Complex societies are focused on a center, which may not be located physically
 where it is literally implied, but which is the symbolic source of the framework of
 society. It is not only the location of legal and governmental institutions, but is the
-source of order, and the Isymbol of moral authority and social continuity. The center
+source of order, and the Symbol of moral authority and social continuity. The center
 partakes of the nature of the sacred. In this sense, every complex society has an official
 religion (Shils 1975: 3; fesenstadt 1978: 37; Apter 1968: 218). '
 
@@ -1561,7 +1561,7 @@ The moral authority and sacred aura of the center not only are essential in
 maintaining complex societies, but were crucial in their emergence. One critical
 impediment to the development of complexity in stateless societies was the need to
 integrate many localized, autonomous units, which would each have their own
-pecuhar interests, feuds, and jealousies. A ruler drawn from any one of these units is
+peculiar interests, feuds, and jealousies. A ruler drawn from any one of these units is
 automatically suspect by the others, who rightly fear favoritism toward his/her natal
 group and locality, particularly in dispute resolution (Netting 1972: 233-4). This
 problem has crippled many modern African nations (cf. Easton 1965b: 224).
@@ -1596,7 +1596,7 @@ leadership a never-ending need to mobilize resources to maintain support. The
 attainment and perpetuation of legitimacy thus require more than the manipulation of
 ideological symbols. They require the assessment and commitment of real resources,
 at satisfactory levels, and are a genuine cost that any complex society must bear.
-Legitunacy is a recurrent factor in the modern study of the nature of complex
+Legitimacy is a recurrent factor in the modern study of the nature of complex
 societies, and is pertinent to understanding their collapse.
 
 Levels of complexity
@@ -1607,14 +1607,14 @@ one with which most anthropologists would feel comfortable. Some scholars (to be
 discussed below) have further divided states into subcategories of this class (e.g..
 
 Steward 1955; Claessen and Skalnik 1978a), while others have subdivided non-state
-socieues into levels of complexity (e.g.. Service 1962; Fried 1967). A consideration of
+societies into levels of complexity (e.g.. Service 1962; Fried 1967). A consideration of
 these evolutionary typologies is pertinent to understanding collapse, indeed even to
 defining what the process is. Some anthropologists, for example, have suggested that
 drops in complexity within a level (such as the state level) are not instances of collapse
 *
 merely 'waxings and wanings of scale' (B. Price 1977: 218).
 The details of such typologies (there are many of them, incompatible to varying
-deyees) are not pertinent to the present work, but the philosophy and assumptions
+degrees) are not pertinent to the present work, but the philosophy and assumptions
 underlying them are. One of the basic assumptions of the typological approach is that
 as societies mcrease in complexity, they do so. by leaps from one structurally stable
 level to another (e.g., Segraves 1974). Thus, what are called 'chiefdoms' are thought
@@ -1629,29 +1629,29 @@ societies mcrease m complexity they do so on a continuous scale, so that discret
 Any good classifier knows that in the process of classification, information about
 variety is lost while information about similarities is gained. The utility of a
 classification must be judged (at least partially) by whether the quantity and quality of
-mformation gained outweighs that lost, and this depends largely on the purposes and
+information gained outweighs that lost, and this depends largely on the purposes and
 needs of the analyst. In some respects, evolutionary typologies of human societies are
 useful m that they facilitate initial communication and comparison. When an
 anthropologist says that he or she is working with a society of type X (chiefdoms, say),
-most colleapes readily know, at least generally, what the characteristics of that
+most collapses readily know, at least generally, what the characteristics of that
 society are hkely to be. Yet in this example some of the weaknesses of the typological
 approach become apparent. The degree of variation among societies called 'chiefdoms'
 (e.g.. Northwest Coast, Hawaii) is such that many feel uncomfortable with the
 concept (e.g., Tainter 1977; Cordy 1981). For many purposes, it may obscure more
 than It reveals. Solutions that focus on further subdividing the chiefdom category
-brmg only the potential for endless debate, and unprofitable concentration on labels
+bring only the potential for endless debate, and unprofitable concentration on labels
 rather than on processes of stability and change (Tainter 1978: 117; McGuire 1983-
 94-5).
 
 The typological distinction of most interest here is that which exists between states
 and aU other kinds of societies. This, as noted, is a classificatory distinction that most
 anthropologists seem to accept, and is often called the 'Great Divide' of history
-(Service 1975). Many of the characteristics of states appear to be so quahtatively
+(Service 1975). Many of the characteristics of states appear to be so qualitatively
 different from tribal societies that a major distinction seems indicated (Webb 1975:
 164-5). With the emergence of states human organization began an entirely different
-career. The features that set staws apart, abstracting from the previous discussion,
+career. The features that set states apart, abstracting from the previous discussion,
 are: territorial organization, diff^entiation by class and occupation rather than by
-kmship, monopoly offeree, authority to mobilize resources and personnel, and legal
+kinship, monopoly offered, authority to mobilize resources and personnel, and legal
 jurisdiction. Upon closer examination, though, it does not appear that there is always
 
 the discontinuity claimed between state and non-state societies for many of these
@@ -1748,9 +1748,9 @@ The factors that lead to complexity are pertinent to understanding collapse, for
 emergence of complex social institutions, and their failure, are inevitably intertwined.
 Unfortunately, despite the great advances that have been made in recent years in
 understanding complex societies, much about their origins remains controversial.
-Elinan Service has hit upon one of the main reasons for this. He notes that long
+Elman Service has hit upon one of the main reasons for this. He notes that long
 standing states have acquired in their later history so many functions and features that
-their original funptions are often obscured (Service 1975: 20). This is an important
+their original functions are often obscured (Service 1975: 20). This is an important
 point. The behavior of states at the point where they come to be studied by social
 scientists may haVe little relation to the reasons for their emergence. Furthermore, the
 evolution of states subsequent to their development may respond to a variety of new
@@ -1766,14 +1766,14 @@ for the origin of the state (e.g., Flannery 1972; Wright 1977a; Claessen and Ska
 1978c, R. Cohen 1978; Service 1975, 1978; Haas 1982). The major lines of thought
 (after Wright 1977a) seem to be (in no particular order):
 
-1. Managenal, As societies come under stress, or as populations increase in
+1. Managerial, As societies come under stress, or as populations increase in
 numbers, integrative requirements may arise that can be resolved by the emer
 gence of managerial hierarchies. Examples of this approach include: (a) Wittfogel's (1955, 1957) argument that the need to mobilize labor forces for con
 struction of irrigation works, and the need to manage established water control
 facilities, necessitates authoritarian government; (b) Wright's and Johnson's
 suggestion (Wright 1969; Johnson 1973, 1978) that increasing need to process
 information, arising from more and more information sources, selects for both
-vertical differentiation and horizontal specialization; (c) Isbell's (1978) elabora
+vertical differentiation and horizontal specialization; (c) Isbell's (1978) elaboration
 tion of the classic argument (e.g., Sahlins 1958) that economic differentiation
 within a society requires centralized, hierarchically managed storage and redis
 tribution of goods and produce; and (d) Rathje's (1971) proposal that manage
@@ -1781,7 +1781,7 @@ ment of external trade, and critical imports, leads to complexity.
 
 2. Internal Conflict. Theories within this school postulate that class conflict is the
 prime mover behind complexity. Fried (1967), along with Marxist writers to be
-discussed later, fhaintains that the state emerged to protect the privilege of a
+discussed later, maintains that the state emerged to protect the privilege of a
 limited few with preferential access to resources. Childe's views were similar
 (1951: 181-2).
 
@@ -1805,12 +1805,12 @@ arose independently in various parts of the world. States are dominating, expans
 organizations, and they have a competitive advantage over less complex social forms.
 
 They tend thus to either spread, or to stimulate like developments among their
-neighbors. The emergenceof complexity among the competitors and trade partners pf
+neighbors. The emergence of complexity among the competitors and trade partners pf
 states yields the process of 'secondary state' formation. So far as is known, there have
 been only six instances of primary state formation. These are: Mesopotamia, Egypt
 (ca. 3500^00 B.C.), China, Indus River Valley (ca. 2500 B.C.), and Mexico and '
 Peru (ca. 0 A.D.) (Service 1975: 5). Some experts challenge the degree of independ
-ence of several of ±ese developments, but that matter need not copcern us here.
+ence of several of ±ese developments, but that matter need not concern us here.
 
 Despite this variety of theories about the origin of the state, there seem to be, as
 several authors have recognized (e.g., Lenski 1966; R. Cohen 1978; Service 1975,
@@ -1832,7 +1832,7 @@ and Jean-Jacques Rousseau are associated with various approaches to the purpose 
 nature of civil society; these approaches, have occasionally managed to integrate the
 two contending schemes. In more recent times, the major contributions to the conflict
 school have been by Morgan, Marx, Engels, Childe, White, and Fried, and to the
-mtegration view by Spencer, Sumner, Durkheim, Moret, Davy, and Service (Service
+integration view by Spencer, Sumner, Durkheim, Moret, Davy, and Service (Service
 1975, 1978; Haas 1982).
 
 In essence, conflict theory asserts that the state emerged out of the needs and
@@ -1849,15 +1849,15 @@ largely based on the exploitation and economic degradation of the masses (Childe
 Conflict theory has reached its clearest expression in the writings of the Marxist
 school. Friedrich Engels, in his 1884 essay Origins of the Family, Private Property, and
 the State (Engels 1972), argued that the differential acquisition of wealth led to
-hereditary nobility, monarchy, ;Slavery, and wars for piUage. To secure the new
+hereditary nobility, monarchy, ;Slavery, and wars for pillaging. To secure the new
 sources of wealth against older, Communistic traditions, and resulting class antagon
 isms, the state was developed.
 
 The state, according to one leading conflict theorist (Krader 1978), is the product of
 
-society dividfed into two classes: those directly engaged in social production, and those
+society divided into two classes: those directly engaged in social production, and those
 not. The surplus produced is appropriated by and for the non-producers. The state is
-the orpnization of society for regulating relations within and between these classes.
+the organization of society for regulating relations within and between these classes.
 The direct producers have no immediate interest in the formation of the state, the
 agencies of which act in the interest of the non-producers. The state, says Krader, is
 the formal organization of class-composed and class-opposed human society (1978-
@@ -1879,13 +1879,13 @@ needs of society. The major elements of this approach are: (a) shared, rather th
 divided, social interests; (b) common advantages instead of dominance and exploita
 tion, (c) consensus, not coercion; and (d) societies as integrated systems rather than as
 stages for power struggles (Lenski 1966: 15-17). The governing institutions of the
-state developed to centrahze, coordinate, and direct the disparate parts of complex
+state developed to centralize, coordinate, and direct the disparate parts of complex
 societies.
 
 Integrationists argue that complexity and stratification arose because of stresses
 impinging on human populations, and were positive responses to those stresses.
 Complexity then serves population-wide needs, rather than responding to the selfish
-ambitions of a few. Complexity seen thus niight be a response to: (a) circumscription
+ambitions of a few. Complexity seen thus might be a response to: (a) circumscription
 and warfare in a limited, stressed environment (e.g., Carneiro 1970; Webster 1975);
 (b) the need to process increasing amounts of information coming from ever more
 sources (e.g., Wright 1969; Johnson 1973, 1978); (c) the need to mobilize labor forces
@@ -1904,7 +1904,7 @@ not in the economic upper strata. Since greed, oppression, exploitation, and cla
 conflict obviously are characteristics of complex societies, it is tempting to see these as
 both the source of complexity and its dominant nature. Such a view is not without
 
-vahdity, and any theory of society must take this fact into account. But conflict theory
+validity, and any theory of society must take this fact into account. But conflict theory
 IS not completely adequate to explain how complex societies came into existence
 Eisenstadt, for example, has pointed out that the failures of the Carolingian and
 Mongolian empires reflect the fact that such entities must be based on necessary
@@ -1914,7 +1914,7 @@ conditions, and not solely on political goals (1963: 29).
 
 Conflict theory suffers from a problem of psychological reductionism. That is, the
 emergence of the state is explained by reference to the wishes, intentions, needs,
-ancPor desires of a small, privileged segment of society. How this segment comes to
+and/or desires of a small, privileged segment of society. How this segment comes to
 old these needs and desires is not specified, but presumably, arises from some
 umversal human tendency toward ambition and self-aggrandizement. The expression
 o s tendency on the part of those who are economically more successful leads to
@@ -1923,7 +1923,7 @@ class conflict and the development of repressive governing institutions.
 sychological explanations of social phenomena are laced with pitfalls. If social
 patterns arise from the wishes or needs of individuals, where in turn do these wishes
 and needs come from? To the extent that the origin of these cannot be explained, the
-social phenomenon is also unexplained. To the extent that these are unwersaL social
+social phenomenon is also unexplained. To the extent that these are universal social
 variation is unexplained. If ambition and self-aggrandizement are universal, and lead
 to the st^e, why then did pristine states emerge no more than six times in human
 history. How did the human species survive roughly 99 percent of its history without
@@ -1932,7 +1932,7 @@ Pleistocene?
 
 Conflict theorists point to the existence of a surplus as a necessary condition for the
 expression of this universal tendency (e.g., Engels 1972; Childe 1951; Friedman 1974:
-62), but a cqntradiction arises here. Marxists view material conditions as socially and
+62), but a contradiction arises here. Marxists view material conditions as socially and
 culturally mediated (Wenke 1981: 94). If so, then surpluses could supposedly be
 concocted whenever desired. The fact that they are not always concocted (Sahlins
 ) points to a lacuna in conflict theory: the emergence of surpluses, the supposed
@@ -1943,16 +1943,16 @@ ambition and self-aggrandizement are universal human characteristics, then why
 don t foragers ordinarily produce surpluses, wealth differentials, class conflict, and
 the state. Could it be that either ambition, or its expression, is not universal? If
 ambition IS not umversal, then for reasons just discussed the Marxist explanation of
-the state is mcomplete in its failure to specify the origins of ambition. If it is universal
+the state is incomplete in its failure to specify the origins of ambition. If it is universal
 but Its expression IS suppressed in certain kinds of societies, then obviously there is
 more.to sociopolitical evolution than self-aggrandizement. We cannot fully explain the
 emergence of social institutions by a psychological feature that is itself conditioned bv
-social mstitutions.
+social institutions.
 
 As briefly discussed earlier in this chapter, there is indeed a tendency toward social
-levelmg in simpler societies. Richard Lee (1969) has given a delightful illustration of
+leveling in simpler societies. Richard Lee (1969) has given a delightful illustration of
 this from his work among the Bushman foragers of the Kalahari Desert in southern
-Afrtoa. One year at Christipas he bought an ox for a Bushman group. Rather than the
+Africa. One year at Christmas he bought an ox for a Bushman group. Rather than the
 praise he expected, Lee encountered criticism of his gift. This criticism, that the
 
 animal was thin and old, continued right up to the Christmas feast. At this time the ox
@@ -1995,13 +1995,13 @@ regimes, are undeniable facts of history.
 Haas (1982: 82-3) has made an important point overlooked by many integration
 theorists: a governing body that provides goods or services has coercive authority
 therein. The threat of withholding benefits can be a powerful inducement to com
-pliance. As Haas has stated '...coercive force is an inevitable covariable of an essential
+pliance. As Haas has stated '...coercive force is an inevitable covariate of an essential
 benefit...' (1982: 83). Granting the logic of this, it seems clear that there must be more
 to sociopolitical evolution than the Panglossian view that integration theory implies.
 Legitimacy is a matter that touches both views. As long as elites must rely on force
 to ensure compliance, much of their profit will be consumed by the costs of coercion
 (Lenski 1966: 51-2). Even conflict theorists must, therefore, acknowledge the role of
-legimitizing activities in maintaining a governing elite. Indeed, one Marxist anthropo
+legitimizing activities in maintaining a governing elite. Indeed, one Marxist anthropo
 
 logist has argued that
 
@@ -2016,9 +2016,9 @@ original]).
 
 All official ideologies incorporate the thesis that the structure of government serves
 the common good. Conflict theorists may smirk at this 'opiate of the masses,' but in
-fact it binds the rulers as well as the ruled. Some delivery on this pronfise is essential
+fact it binds the rulers as well as the ruled. Some delivery on this promise is essential
 (Lenski 1966: 180-1). Legitimizing activities must include real outputs (Easton
-1965b) as well as manipulation of symbols, and where they don't, costly and unprofit
+1965b) as well as manipulation of symbols, and where they don't, costly and unprofitable
 able investments must be made in coercive sanctions (Haas 1982: 211). Claessen
 makes the point that, in order to secure loyalty, rulers need return as gifts to the
 populace only a fraction of what has been secured in taxes or tribute (1978: 563).
@@ -2120,11 +2120,11 @@ statement of current political philosophy (see, for example, Isaac [1971]).This 
 aspect will not figure highly in the present work, but does account for much of the
 perennial concern with collapse.
 
-What coUapses? More on definitions
+What collapses? More on definitions
 Ancient and medieval writers ^aw collapse in a way that is largely congruent with the
 
 perspective of the present wo:^k, that is, as the fall of specific political entities. With
-the formal development of thejsocial sciences in the last two centuries, however, a new
+the formal development of the social sciences in the last two centuries, however, a new
 conception has emerged; the transformation of civilizations as cultural forms. Many of
 the most prominent twentieth-century scholars, such as Spengler (1962), Toynbee
 
@@ -2152,7 +2152,7 @@ more devastating manner than might have otherwise been the case.
 Evaluation: complexity and.
 marginal returns in collapsing societies
 
-The people desire disorderiV
+The people desire disorder
 
 A Chinese poet on ±e Chou collapse (quoted in Creel [1970: 431])
 
@@ -2165,14 +2165,14 @@ to lower this marginal return. As the marginal return on complexity declines, co
 plexity as a strategy yields comparatively lower benefits at higher and higher costs. A
 society that cannot counter this trend, such as through acquisition of an energy
 subsidy, becomes vulnerable to stress surges that it is too weak or impoverished to
-meet, and to waning support in its population. With continuatiori of this trend
-c collapse becomes a matter of mathematical probability, as over time an insurmount
+meet, and to waning support in its population. With continuation of this trend
+c collapse becomes a matter of mathematical probability, as over time an insurmountable
 able stress surge becomes increasingly likely. Until such a challenge occurs, there may
 be a period of economic stagnation, political decline, and territorial shrinkage.
 
 The ideal way to evaluate this model would be to isolate and Quantify the costs and
 benefits of various instance^ of social complexity, and to plot changes in these costs
-and benefits through time. Long-term periods of signifidantly declining marginal
+and benefits through time. Long-term periods of significantly declining marginal
 returns in complexity should be periods of vulnerability to collapse. None of the
 ancient societies that have collapsed, however, have kept the kinds of detailed records
 necessary for such a quantitative test, and indeed, many have kept no written records
@@ -2184,8 +2184,8 @@ societies that have collapsed. The objective is not to perform a quantitative te
 explanatory framework (for that is impossible) but to ascertain whether this
 framework helps us to understand collapse in actual cases.
 
-The three test cases have been selected to represent a broad spectrum of sociopoli
-tical com|)lexity, to ensure that the explanation applies to different kinds of societies.
+The three test cases have been selected to represent a broad spectrum of sociopolitical
+tical com|)complexity, to ensure that the explanation applies to different kinds of societies.
 Given th^s restriction, the cases chosen represent probably the best documented
 example^ for their respective levels of complexity. The cases are:
 
@@ -2248,8 +2248,8 @@ political, and economic outcome to the policy of expansion - at least for the co
 querors.
 
 The policy of expansion was at first highly successful. Not only were the conquered
-provinces looted of their accumulated surpluses, even their workihg capital, but
-permanent tributes, taxes, and land rentals were imposed. The consetjuences for
+provinces looted of their accumulated surpluses, even their working capital, but
+permanent tributes, taxes, and land rentals were imposed. The consequences for
 Rome were bountiful. In 167 B.C. the Romans seized the treasury of the King of
 Macedonia, a feat that allowed them to eliminate taxation of themselves. After the
 Kingdom-of Pergamon was annexed in 130 B.C. the state budget doubled, from 100
@@ -2282,14 +2282,14 @@ discussion.
 With the end of geographic expansion there was a corresponding drop in the
 windfalls of conquest (A. Jones 1974: 124). From Augustus to Diocletian, most
 emperors were faced with at least some insufficiencies of revenue (Heichelheim 1970:
-270). Augustus frequently complained of fischl shortage, and was often hard put to
+270). Augustus frequently complained of fiscal shortage, and was often hard put to
 finance even the modest administration and foreign policy that he established (Gibbon
 1776-88: 140; M. Hammond 1946: 75). He instituted for Roman citizens a five
 percent tax on legacies and inheritances (Gibbon 1776-88: 142). This tax, established
 to provide for military retirement (Frank 1940: 7), was highly unpopular, since the
 Roman population had been relieved of taxes in the late Republic.
 
-The major Imperitll costs, at various times, included pay, rations, and fodder for
+The major Imperial costs, at various times, included pay, rations, and fodder for
 
 the army, the civil service, and other state employees (e.g., in later times workers in
 the Imperial arms factories), public works, the postal service, uniforms for the army
@@ -2318,7 +2318,7 @@ Marcus Aurelius
 Lucius Verus
 Commodus
 Pertinax
-Didiusjulianus
+Didius Julianus
 Septimius Severus
 Clodius Albinus
 Pescennius Niger
@@ -2515,11 +2515,11 @@ Reign
 474-91
 475-6
 
-'After Rostovtzeff (1926:632-3), Boakand Sinnigen (1965: 533-5), and Gibbon (1776-88).
+'After Rostovtzeff (1926:632-3), Boak Sinnigen (1965: 533-5), and Gibbon (1776-88).
 ^Designates rulers of the Eastern (E) or Western (W) empires after the death of Theodosius I (395).
 
 major expense was the military, although the Roman dole was not inconsequential.
-Juhus Caesar found 320,000 beneficiaries, nearly one citizen in three. He reduced this
+Julius Caesar found 320,000 beneficiaries, nearly one citizen in three. He reduced this
 to 150,000, but the figure rose again. From Augustus to Claudius (41-54 A.D.)
 approximately 200,000 heads of families received free wheat. A special fleet was
 needed to transport this, as were wharves on the Tiber River and at the port of Ostia,
@@ -2531,7 +2531,7 @@ sestertius was a coin valued initially at four to the silver denarius [Mattingly
 individual legionaries was set at 225 denarii per year.
 
 Despite the stagnation of revenue when expansion fell off, and the often heavy rule
-in the provinces, there were definite benefits to the early Empire. 'J'here were foreign
+in the provinces, there were definite benefits to the early Empire. 'There were foreign
 and internal peace and security, the borders were maintained, commerce was pro
 tected, and public works projects were undertaken (Toutain 1968: 253-9). The early
 Empire was relatively prosperous (M. Hammond 1946: 34) even if the State was not
@@ -2572,7 +2572,7 @@ emperors were quickly spent by their successors (Frank 1940: 42, 53; Heichelheim
 
 Emperors upon accession ^ere often faced with an insolvent government, and
 rarely were able to accumulate reserves fpr emergencies. When extraordinary ex
-penses arose the supply oficoinage was frequently insufficient. To counter this
+penses arose the supply of coinage was frequently insufficient. To counter this
 problem, Nero began in 64 AiD. a policy that subsequent emperors found increasing-
 
 -134
@@ -2622,13 +2622,13 @@ about 15 years and caused significant loss of life (as much as 1/4 to 1/3 of the
 in some areas [McNeill 1976: 116]). Secondly, wars with Germanic tribes kept the
 Emperor in the field for much of his reign. The Roman Empire that had thrived on
 the plunder of expansion, and that had at least maintained stability when expansion
-ceased and revenues leveled off, found itself hard pressed to deal with stress siirges of
+ceased and revenues leveled off, found itself hard pressed to deal with stress surges of
 this magnitude.
 
 The cost of Marcus Aurelius' barbarian wars exceeded the level that could be
 supported by the Empire's normal income. One consequence, as might be expected.
 
-Table 6. Debasement of the denarius from Nero toSeptimius
+Table 6. Debasement of the denarius from Nero to Septimius
 Severus^
 
 Emperor
@@ -2691,7 +2691,7 @@ There are indications that these financial exigencies extended to more than fore
 and military affairs. The cities of the Empire had few sources of revenue, so elected
 officials were usually drawn from the local wealthy classes, and were expected
 personally to finance all or part of the duties of their offices. As these expenditures
-increased through timey the amounts paid by these magistrates rose. By the second
+increased through time the amounts paid by these magistrates rose. By the second
 century A.D. these duties grew to be so burdensome that candidates for office began
 to fall off (A. Jones 1974: 13, 28; Rostovtzeff 1926: 342).
 
@@ -2706,16 +2706,16 @@ successional struggles), values plotted are an average of all unsuccessful Emper
 primarily for further debasement of the denarius. Under his rule it dropped to as low
 as 67 percent silver (Frank 1940: 92).
 
-The death of Commodus marked the eni of the Antonine dynasty. In the successiohal struggles that followed, Septimius Severus (193-211) ultimately emerged, but
+The death of Commodus marked the eni of the Antonine dynasty. In the successional struggles that followed, Septimius Severus (193-211) ultimately emerged, but
 with an uncertain hold on the throne. To secure his position, he and his successors of
 the Severan dynasty courted the army. The resultant military costs strained finances.
 Septimius Severus increased the pay of troops to 400 denarii per year. His successor,
 Caracalla (211-17), raised it to 600, while by the end of the Severan dynasty (235) it
-stdod at 750. The size of the military was also increased to 33 legions. Nor were
+stood at 750. The size of the military was also increased to 33 legions. Nor were
 military costs the sole problem. Septimius Severus supplemented the Roman dole
 with the addition of oil to the list of free commodities. Mattingly has noted of this
 time, 'The expenses of government were steadily increasing out of proportion to any
-ihcrease in receipts and the State was moving steadily in the direction of bankruptcy'
+increase in receipts and the State was moving steadily in the direction of bankruptcy'
 (1960: 124).
 
 To pay for all this, Septimius Severus debased the denarius to between 43 and 56
@@ -2728,7 +2728,7 @@ The denarius, however, was the coin most worth debasing, since it was used to pa
 the troops, and this was the major item in the Imperial budget. Caracalla is perhaps
 best known for his act of 212 extending Roman citizenship to all free inhabitants of
 the Empire. This had the consequence of vastly extending the pool of those liable to
-the Roman inhefhance tax, which he incidentally doubled.
+the Roman inheritance tax, which he incidentally doubled.
 
 Although good data are lacking for the early Empire, these continued debasements
 were clearly inflationary. A slave that in Commodus' reign cost 500 denarii, for
@@ -2745,7 +2745,7 @@ A. Jones 1974: 194-5; Frank 1940: 86-7, 92-3; Boak 1955: 66; M. Hammond 1946:
 
 The half century from 235 to 284 A.D. was a period of unparalleled crisis, during
 which the Roman Empire nearly came to an end. The chief features of this time were
-foreign and civil wars, barbafian incursions, devastation of many provinces, increases
+foreign and civil wars, barbarian incursions, devastation of many provinces, increases
 in the size of the army and the bureaucracy, financial exigency and increased taxes,
 debasement of the currency, and unparalleled inflation. MacMullen has aptly char
 acterized the time: 'So extensive and complex was the unraveling of the empire's
@@ -2768,7 +2768,7 @@ ancient Roman virtues, and superiority over the barbarians (MacMullen 1976: 13,
 38-44, 50-1, 58-60, 65-6; Clough 1951: 159; Burckhardt 1949: 129).
 
 The average reign during,this period of violent political instability was only a few
-months, and there were mapy usurpers (A. Jones 1964: 23). There were in this 50 year
+months, and there were many usurpers (A. Jones 1964: 23). There were in this 50 year
 period at least 27 recognized Emperors, at least twice that many usurpers who were
 killed, and at one time thiry claimants to the throne. A partial Ust of these is given in
 Table 7. By the time of Diocletian (284-305), the number of Emperors and pretenders
@@ -2893,7 +2893,7 @@ branches of government, or in bullion to avoid having to accept its own worthles
 coins (A. Jones 1964: 29-30 1974: 137, 197; MacMullen 1976: 125, 158,205; Matting
 ly 1960: 186).
 
-Barbarian incursions werie frequent and ruinous between 248 and 268. The usurpa
+Barbarian incursions were frequent and ruinous between 248 and 268. The usurpations
 
 tions and regular murder of sitting Emperors meant that civil war was common. Many
 local populations were devastated by these events. The barbarians were unskilled at
@@ -2920,7 +2920,7 @@ turned from 250 to 270 A.D. The agricultural population of a province so essenti
 Gaul declined, either killed or captured by barbarians, or having deserted fields to
 join the bands of brigands. Town populations fell before and during the crisis, due to
 plague, pillage by armies engaged in civil wars or by barbarians, and the declining
-rural population (Rostovtzeff 1926: 424; Boak 1955: 19, 26, 38-9, 55-6, 113; MacMul
+rural population (Rostovtzeff 1926: 424; Boak 1955: 19, 26, 38-9, 55-6, 113; MacMullen
 len 1976: 18, 183).
 
 The wealthy, as long as they avoided injudicious political entanglements, generally
@@ -2945,7 +2945,7 @@ agricultural labor forces (MacMullen 1976: 205-6). Yet the situation began to un
 
 again after his death. It was Diocletian who, in a reign from 284 to his voluntary
 abdication in 305, quelled the barbarians, defeated usurpers, and at the 'same time
-mitiated sweeping political and economic changes that transformed the nature of the
+mitigated sweeping political and economic changes that transformed the nature of the
 Empire, and ensured its survival for a while longer.
 
 '•
@@ -2959,7 +2959,7 @@ more with the processes of change than with the dates of administrative actions.
 
 The Empire that emerged under Diocletian and Constantine was administered by a
 government that was larger, more complex, more highly organized, and that comman
-ded larger and more powerful mfiitary forces. It taxed its citizens more heavily,
+ded larger and more powerful military forces. It taxed its citizens more heavily,
 conscripted their labor, and regulated their lives and their occupations. It was a
 coercive, omnipresent, all-powerful organization that subdued individual interests
 and levied all resources toward one overarching goal: the survival of the State.
@@ -2990,14 +2990,14 @@ depriving provincial governors of the opportunity to rebel). He increased the si
 the Imperial administration, which now had to move with him as he traversed his
 domains. The size of the, bureaucracy was greatly expanded, perhaps doubling by
 Diocletian s abdication. Moreover, this increased, peripatetic administration was
-largely duplicated four tjmes, in each of the Imperial courts (two Emperors, two
-Caesars). The number oficapital cities correspondingly increased, making permanent
+largely duplicated four times, in each of the Imperial courts (two Emperors, two
+Caesars). The number of capital cities correspondingly increased, making permanent
 the temporary proliferation of capitals under the pretenders.
 
 (
 
 Diocletian built state factories to make arms for the military, and also to provide for
-the material needs of the Imperial court. A vast state transport system tvas main
+the material needs of the Imperial court. A vast state transport system was main
 tained. Under Diocletian and Constantine not only was the size of the administration
 expanded, but it was increasingly segmented and specialized. Indeed, this process can
 be traced back to the years of crisis. From Gallienus (260-8) on the civil and military
@@ -3039,7 +3039,7 @@ substantially greater. Not only was the increase in military personnel greater t
 civilian, but the increased emphasis on cavalry was particularly expensive. Fodder for
 a horse cost as much as the rations of a soldier.
 
-After the political disintegration of the third century, the Tetrarchy had to reestabhsh links with local-level organizations, and to obtain tax-related information. In
+After the political disintegration of the third century, the Tetrarchy had to reestablish links with local-level organizations, and to obtain tax-related information. In
 Egypt, for example (and probably elsewhere), lands had to be resurveyed. Taxes were
 inevitably increased, and continued to rise thereafter. Overall, the role of government
 in the economic life of the Empire increased (Gibbon 1776-88: 333; M. Hammond
@@ -3058,7 +3058,7 @@ metal, for earlier coins continued in circulation. He introduced a new coin wort
 currencies during the fourth century: gold and copper. The gold solidus was intro
 duced by Constantine, and retained its value for seven centuries. Copper currency,
 however, was inflated by assigning face values to the coins that were artificially high.
-The inflated copper coins went to cover'military pay, and to buy gold solid! on the
+The inflated copper coins went to cover military pay, and to buy gold solid! on the
 open market. Only by the end of the fourth century were payments in kind fully
 commuted to gold (A. Jones 1964: 60-6, 107, 109, 442, 1974: 169-70, 197-200, 202-3,
 215, 224; Levy 1967: 88).
@@ -3090,7 +3090,7 @@ century A.D. sold for six drachmae, had increased to 200 drachmae in 276 A.D., 9
 in 314, 78,000 in 324, and to more than 2,000,000 drachmae in 334 A.D. Not
 surprisingly, Egyptian loans of money were made for increasingly shorter periods in
 the third and fourth centuries. Gradually, though, more and more gold solid! came
-into circulation, and the dopper output was reduced. By the fifth century the inflation
+into circulation, and the copper output was reduced. By the fifth century the inflation
 
 was largely spent (A. Jones 1964: 27, 109, 443, 1974: 200-1, 213, 215, 224; Levy
 1967: 88-9; MacMullen 1976: 118; Mattingly 1960: 222-3).
@@ -3122,7 +3122,7 @@ sometimes enlisted. In 315 Constantine ordered assistance for poor and orphaned
 children in an attempt to reverse the demographic trend (Boak 1955: 42,97-8, 113-14;
 A. Jones 1964: 149, 158-9, 1041-3, 1974: 87; MacMullen 1976: 182-3).
 
-This decline in population and in the sqpply of essential labor does much to explain
+This decline in population and in the supply of essential labor does much to explain
 the social and economic policies of Diocletian and Constantine. Conscription, which
 had been practiced before, was instituted as a regular practice by Diocletian. He
 levied guilds to supply the armies and the Imperium. Gradually families came to be
@@ -3145,7 +3145,7 @@ Perhaps most important to the economy of the Empire was the tying of agricultura
 labor to the soil. First mentioned in an announcement of Constantine's in 332, this
 had the effect of establishing a system of serfdom in which tenants were' bound to
 large estates. The colonate, as it is known, was a boon to large landowners during a
-time of agricultural labor shortages. Colonates continuously tried to escape unsatisfac
+time of agricultural labor shortages. Colonates continuously tried to escape unsatisfactory
 tory conditions, to the army, the church, the civil service, the professions, and other
 proprietors (Boak 1955: 49, 95, 97, 102-3; A. Jones 1964: 615, 1042, 1974: 16, 18,
 87-8, 299; Levy 1967: 98; MacMullen 1976: 159, 172, 180, 185).
@@ -3164,7 +3164,7 @@ Byzacene more than 1/2 of the lands were unfilled. Around the city of Cyrhhus, i
 451, over 1/6 of the lands were deserted. Abandoned lands by the fifth century in
 Africa were between 10 and 15 percent in some provinces, but ranged up to 50 percent
 in others. Responding to this situation, Constantine made the following discharge
-offer to his veterans: if they became farmers they'would be given free, vacant land,
+offer to his veterans: if they became farmers they would be given free, vacant land,
 100 measures of seed, and 25,000 folles (the follis being worth three-fourths of a
 denarius). If they became anything else the offer was 100 folles (Boak 1955: 45-6; A.
 Jones 1964: 812, 816, 1039, 1974: 84; MacMullen 1976: 193; Mattingly 1960: 223).
@@ -3194,7 +3194,7 @@ that those who lived off the treasury were more numerous than those paying into 
 Another complained that .taxes, which were high even before the Dominate, doubled
 
 from 324 to 364. In the sixth century A.D. (which post-dates the fall of the West, but
-illustrates the trend), even privileged landowners paid twice as much tax as provin
+illustrates the trend), even privileged landowners paid twice as much tax as provincials
 cials had in the first century B.C., and ordinary landowners paid well over three times
 as much. Even Italians now found themselves taxed again.
 
@@ -3235,7 +3235,7 @@ patronage system developed wherein powerful local land-holders extended protecti
 over peasants against the government's demands. The government legislated unsuc
 cessfully against this source of lost revenue.
 
-It was not only the countryside ±at suffered. Toward the end of his reign Constan
+It was not only the countryside ±at suffered. Toward the end of his reign Constantine
 tins II (337-61) appropriated the landed endowments of cities. All local services now
 had to be financed by city magistrates, upon whom the burden was hereditary. Julian
 (360-3) restored land rents and taxes to cities, but these were reconfiscated under
@@ -3248,9 +3248,9 @@ the size of the Celtic villages from which they had earlier sprung (Rostovtzeff 
 MacMullen 1976: 100-1, 170, 173, 209).
 
 The system established by Diocletian involved rigid control of individuals and their
-output. Each citizen, each guild, and each locality was expected to produce neMed
+output. Each citizen, each guild, and each locality was expected to produce needed
 essentials for the survival of the Empire. For a time the Empire did indeed survive,
-but at a cost of the progressive abandopment "of land, declining agricultural yields,
+but at a cost of the progressive abandonment "of land, declining agricultural yields,
 depopulation of the countryside, and impoverishment of the cities. As different
 occupations competed for personnel, military strength declined until finally barba
 rians were relied on to staff the army. When Attila was defeated in Gaul in 451 it was
@@ -3334,7 +3334,7 @@ Mediterranean. It had lengthy borders, external enemies of its own, and a potent
 subversive population. Trajan's conquest of parts of this empire was abandoned by
 Hadrian as too expensive to administer (Rostovtzeff 1926: 315). On other fronts, if
 powers demanding respect are not found, an expanding polity is likely to meet
-populations tvhose conquest would not bear the cost. The Romans found such peoples
+populations whose conquest would not bear the cost. The Romans found such peoples
 on many fronts, such as the northern frontier with Germany. Thus, the economics of
 territorial expansion dictate, as a simple matter of mathematical probability, that an
 expanding power will ultimately encounter a frontier beyond which conquest and
@@ -3423,7 +3423,7 @@ Continued investment in empire was creating not only a drop in marginal output, 
 also a drop in actual output. Where under the Principate the strategy had been to tax
 the future to pay for the present, the Dominate paid for the present by undermining
 the future's ability to pay taxes. The Empire emerged from the third century crisis,
-but at a cost that weakened its ability to tneet future crises. At least in the West, a
+but at a cost that weakened its ability to meet future crises. At least in the West, a
 downward spiral ensued: reduced finances weakened military defense, while military
 disasters in turn meant further loss of producing lands and population. Collapse was
 in the end inevitable, as indeed it had always been.
@@ -3453,7 +3453,7 @@ kingdoms that succeeded Roman rule in the West were more successful at resisting
 foreign incursions (e.g., Huns and Arabs) than had been the later Empire (Weber
 1976: 389). They did so, moreover, at lower administrative and mihtary costs. The
 economic prosperity of North Africa actually rose under the Vandals, but declined
-again under Justinian's reconquest when Iipperial taxes were reimposed (Hodges and
+again under Justinian's reconquest when Imperial taxes were reimposed (Hodges and
 Whitehouse 1983: 28). Thus the paradox of collapse: a drop in complexity brings with
 it a corresponding rise in the marginal return on social investment (see ).
 
@@ -3509,7 +3509,7 @@ turn necessitated a host of concomitant changes, many associated with the indust
 below the water table), and both canal and rail transportation.
 
 While I don't wish to draw any direct contrasts between industrialism in England
-and its absence in the Roman Empirp, one difference is glaring: the later Empire was
+and its absence in the Roman Empire, one difference is glaring: the later Empire was
 substantially underpopulated. Lands that had once been cultivated were in late
 Classical times deserted, while agricultural labor was in short supply. Government
 attempts to reclaim the abandoned lands and to foster population growth were notably
@@ -3517,7 +3517,7 @@ unsuccessful. It has been argued that such attempts at intensifying the use of l
 typically be unsuccessful, if imposed from the top in a situation in which they are
 inappropriate (cf. Boserup 1965; Rostow 1960: 34). Intensification, whether in the
 use of land or in any economic sphere, would have had to emerge from demographic
-and/or economic pressures operating on the bulk of the Roman poftulation (Wilkinson
+and/or economic pressures operating on the bulk of the Roman population (Wilkinson
 1973; North and Thomas 1973). With low population and free available land, such
 pressures were simply absent. Other pressures, to be sure, were affecting the
 population of the Empire, but not a lack of economic opportunity. There were simply
@@ -3541,7 +3541,7 @@ This discussion will concentrate on the Maya of the Southern Lowlands, whose
 
 society underwent a rapid, dramatic, and justly famous collapse between about 790
 and 890 A.D. (Pertinent material from surrounding Mayan areas will also be
-discussed where appropriate.) The Southern Lowlands region encofnpasse,s roughly
+discussed where appropriate.) The Southern Lowlands region encompasses,s roughly
 the Peten of northern Guatemala and surrounding lands. The Mayan political centers
 of this region () are numerous and varied. The record of their rise and fall can
 be most clearly discussed in the context of Mayan archaeological chronology. In
@@ -3606,7 +3606,7 @@ although greater soil variation is to be found in the Guatemalan Highlands (Sand
 and Webster 1978: 262,264). Others note that at some of the peripheries of the Peten,
 ecological diversity is higher. This is especially so in Belize, which is characterized by
 riverine environments, the coastal strip, the Maya Mountains (which rise to about
-1000 meters), as well as lowland rain forest (Cufbert 1973a: 8, 1974: 3-4; N.
+1000 meters), as well as lowland rain forest (Culbert 1973a: 8, 1974: 3-4; N.
 Hammond 1981: 159). Viewed on a broad level, the central Peten, which witnessed
 the earliest and most complex Mayan developments, is characterized by somewhat
 better soils than surrounding areas. Yet this has drawbacks, for the best soils in the
@@ -3632,17 +3632,17 @@ Views of the Maya
 Only recently have archaeologists begun to understand the true complexity of Maya
 Civilization. Our previous ignorance is part of the reason why the Maya, and their
 collapse, have seemed so mysterious. The Classic Maya were at one time thought to
-have been a low density people scattered, as tbday, across the Lowlands, practicing
+have been a low density people scattered, as today, across the Lowlands, practicing
 slash-and-burn (swidden, milpa, or forest-fallow) agriculture, and residentially
 mobile to the extent that milpa requires. The Maya centers were thought to be
 ceremonial in nature, with little permanent occupation. The rural populace visited
 these centers on ceremonial occasions, but did not reside at them. The ceremonial
 centers were staffed by a small caste of priests and nobles who concerned themselves
 largely with ceremonialism and its calendrical details. The Maya, depicted thus, were
-thought to be a'peaceful people, whose centers were open and without fortifications.
+thought to be a peaceful people, whose centers were open and without fortifications.
 Elite demands/were as a rule low, but did eventually reach the point where the
 peasants were lio longer willing to satisfy continual or increased demands for services,
-labor, and foocj. At this point a peasant revolt or withdrawal of support brought about
+labor, and food. At this point a peasant revolt or withdrawal of support brought about
 
 iQo'i
 tysi: ll). Reproduced by permission of Wendy Ashmore and the University of New Mexico Press.
@@ -3705,7 +3705,7 @@ central Peten Lakes region, Deevey et al. calculate a constant population growth
 through the Preclassic and Classic periods of about 0.17 percent,per year, which yields
 a doubling interval of about 408 years (1979: 301).
 
-At some point in the Preclassiq, probably varying across the region, this continued
+At some point in the Preclassic, probably varying across the region, this continued
 population growth led inevitably to strains on existing food production systems. A
 variety of responses followed. Agricultural strategies had to change, and did so
 through the formation of systems that were increasingly labor intensive. R. E. W.
@@ -3724,7 +3724,7 @@ Calculations of population levels and subsistence production indicate that by th
 Late Preclassic subsistence stress in the central Peten may have required shorter
 fallow periods and the addition of less productive lands (Rice 1978: 50). In this region,
 an early lacustrine settlement pattern, associated with reliable water sources and
-aquatic protein, gave way to increased Middle Preclassic settlement in the waterdeficient interior (Rice 1976: 440-1; Rice and Puleston 1981: 151-2).
+aquatic protein, gave way to increased Middle Preclassic settlement in the water-deficient interior (Rice 1976: 440-1; Rice and Puleston 1981: 151-2).
 
 This early shift to more intensive agriculture may have been widespread, for by the
 Late Preclassic much of the central area had been deforested (Deevey et al. 1979:
@@ -3761,7 +3761,7 @@ group from an earlier dominant residential unit (Willey 1980: 258, 1982: 262).
 
 In the Late Preclassic a two or three level administrative hierarchy was present in .
 the Southern Lowlands. Public architecture became truly monumental at some
-Lowlands sites (Marcus 1983: 461; WUley 1982: 262). By 100 B.C.- 150 A.D. Tikal
+Lowlands sites (Marcus 1983: 461; Willey 1982: 262). By 100 B.C.- 150 A.D. Tikal
 was emerging as a center of considerable magnitude (Culbert 1977b: 39).
 
 These patterns intensified throughout the Classic. Population, agricultural
@@ -3801,7 +3801,7 @@ the political decentralization that, as will be seen, marked the collapse (Wille
 
 The Late Classic witnessed the resurgence and culmination of the trends begun in
 the Preclassic. Between 652 and 751 A.D. there was a high degree of homogeneity
-across the Southern Lowlands in the style and iconography of montiments. A
+across the Southern Lowlands in the style and iconography of monuments. A
 standardized (and highly sophisticated) lunar calendar was adopted throughout the
 region within a ten year period. Major sites may have served as regional capitals,
 engaging in alliances with each other. Integration within a region was accomplished
@@ -3843,7 +3843,7 @@ to another 39,000, for a total population of 49,000. Haviland notes that this fi
 compares closely to the estimate of about 50,000 for ancient Sumerian cities (1970:
 193).
 
-For the entire Southern Lj)wlands, Culbert (n.d.) projects an average of about 200
+For the entire Southern Lj)Lowlands, Culbert (n.d.) projects an average of about 200
 persons per square kilometer;, and notes that this would make the Lowlands one of the
 
 most densely populated areas of the preindustrial world. The population density of
@@ -3851,7 +3851,7 @@ Tikal was about 350 to 400 per square kilometer, while swidden agriculture would
 have been able to support only 30-60 per square kilometer (Culbert 1973b: 72).
 Several investigators have concluded from such figures that slash-and-burn farming
 was incapable of sustaining much of the population (e.g., R. E. W. Adams 1977a: 91;
-Deeyey et al. 1979: 299; Harrison 1977: 479, 484; Rice 1978: 50; Sanders 1973:
+Deevey et al. 1979: 299; Harrison 1977: 479, 484; Rice 1978: 50; Sanders 1973:
 330-1). Harrison, for example, estimates that from 61-74 percent of the Tikal popula
 tion must have been supported by other means (1977: 479,484). The question of how
 Lowland populations were supported is thus of considerable importance.
@@ -3904,7 +3904,7 @@ techniques, some of which were only partially related to agriculture, but which 
 all characteristically labor-intensive. The Lowlands as a whole are deficient in surface
 water, particularly during the dry season. The Maya dealt with this was by construc
 ting canals, dams, reservoirs, and small wells, and by altering cenotes (large limestone
-sinkholes) (Healy 1983; Matheny 198?). In some areas hydrauhc engineering reached
+sinkholes) (Healy 1983; Matheny 198?). In some areas hydraulic engineering reached
 major levels. Reservoirs are common in the Rio Bee area (R. E. W. Adams 1981: 227).
 At the west Yucatan site of Edzna, a water-control system consisting of a moat, canal,
 and reservoir complex was designed to collect and store rainwater for agriculture,
@@ -3917,7 +3917,7 @@ northern Belize (Freidel and Scarborough 1982; Scarborough 1983).
 Canal systems that were probably used for water transportation have been
 documented along the Rio Candelaria (Siemens and Puleston 1972). Hundreds of
 narrow (3-10 meters wide), short (1-2 kilometers) canals have been recorded^
-Matheny's calculations on the volume of earth moved to create the 180 kilometers of
+Matheny calculations on the volume of earth moved to create the 180 kilometers of
 documented canals suggest that 500,000 labor-days are represented. The 10,000,000
 cubic meters of material excavated is ten times the volume of the Pyramid of the Sun
 (Matheny 1978: 193, 195).
@@ -3935,17 +3935,17 @@ Thomas 1981: 100-1, 106; Turner 1974: 121; Turner and Harrison 1978: 343).
 Miscellaneous features. Other agricultural features found in the Lowlands include
 check dams and walled fields (R. E. W. Adams 1981: 243, 246-7; Turner 1978: 170;
 Wiseman 1983: 156). The walled, field complexes may occur over much of the Peten
-(Turner 1974: 170; Wisjeman 1983: 156), and are sometimes found as parts of terrace
-systems (R. E. 'W. Adjams 1981: 246). Such field demarcation is absolutely incon-
+(Turner 1974: 170; Wiseman 1983: 156), and are sometimes found as parts of terrace
+systems (R. E. 'W. Adams 1981: 246). Such field demarcation is absolutely incon-
 
-gruent with anything but permanent or short-fallow cultivation (cf. Turner 1978:
+incongruent with anything but permanent or short-fallow cultivation (cf. Turner 1978:
 170).
 
 Mayan crops. Although a great deal is known about Mayan agricultural production
 systems, little is known about crops actually grown. It has always been assumed that
 maize was the major crop, and indeed most archaeobotanical remains are of this plant
 (Marcus 1983: 476). Bronson has suggested that the Maya grew root crops of various
-kinds (1966), while Puleston (e.g., 1978) has argued for reUance on the nut yields of
+kinds (1966), while Puleston (e.g., 1978) has argued for reliance on the nut yields of
 the Ramon tree. Archaeobotanical and palynological evidence definitely establishes
 the cultivation of maize, squash, avocado, cacao, cotton, and Xanthosoma root. Classic
 Maya art suggests the cultivation of Achras, Byrsonima, and Psidium, which are
@@ -4031,7 +4031,7 @@ daughters to the rulers of other centers (Willey 1982: 265). In the Late Classic
 regional state broke down into a number of local polities (Willey 1977, 1980, 1981,
 1982) , each headed by a dominant center such as Tikal, Calakmul, Copan, Naranjo,
 Palenque, or Yaxchilan (Adams and Jones 1981; Culbert 1974, 1977a; Marcus 1976,
-1983) . (It shoi/ld be pointed out that this model differs from the Major Center/Minor
+1983) . (It should/ld be pointed out that this model differs from the Major Center/Minor
 
 Center hierarchy formulated by Bullard [1960], for here the model is of hierarchies
 among Major Centers.) Culbert interprets the glyphic evidence as indicating a domain
@@ -4076,15 +4076,15 @@ in Figs. 25 and 26, which depict monument construction and occupation of centers
 through time.
 
 Warfare
-There was mihtary competition among the Lowland Maya from at least the Protoclas
+There was mihtary competition among the Lowland Maya from at least the Protoclassic
 sic, which is the date of the major fortifications at Becan (Thomas 1981: 96; Webster
 1977: 360). The ditch and parapet at Becan are so massive (Webster 1976a, 1977) that
 they are not likely to represent the earliest instance of Mayan warfare. The Tikal
 defenses most likely date to the Early Classic (Webster 1976a: 3). Leadership was
 associated with militarism by at least the latter period (R. E. W. Adams 1977a: 3).
 
-Warfare and mihtarism intensified in the Late Classic, and the art of this period
-shows greater emphasis on eaptives and conquest (R. E. W. Adams 1969: 29; Cowgill
+Warfare and militarism intensified in the Late Classic, and the art of this period
+shows greater emphasis on captives and conquest (R. E. W. Adams 1969: 29; Cowgill
 
 . Construction of dated monuments at Classic Maya sites (after Erickson 1973: 151). Reproduced by
 permission of Human Relations Area Files, Inc., New Haven. One katun is approximately 20 years.
@@ -4102,7 +4102,7 @@ Lowlands ultimately stimulated competition and conflict (R. E. W. Adams 1969: 30
 1973b: 152, 1977a: 96, 1983: 334; Ball 1977: 123-5; Freidel 1979: 37; Rice 1976:
 444-5; Webster 1976a: 110, 1977: 343). Cowgill disagrees, suggesting that population
 growth was a concomitant of militarism (1979: 61). The two processes are not
-incompatible: a competititfe situation, perhaps stimulated by pressure on resources,
+incompatible: a competitive situation, perhaps stimulated by pressure on resources,
 would yield advantages to a center with a policy of further population growth
 (Webster 1977: 359). Warfare had as one result the concentration bf population in
 centers, which offered greater safety from attack (Sanders 1973: 358-9, 1981: 361).
@@ -4141,7 +4141,7 @@ repeated, in varying form, at individual sites across the Southern Lowlands.) In
 three. And A.D. 889 is the date of the last stela with full calendrical inscriptions
 (Culbert 1974: 105) (although J. E. S. Thompson suggests that there may be late
 monuments dating to 909 and 928 [1966: 102]). The collapses at Bonampak,
-Palenque, and Piedras Negjas occurred about 800 (Rands 1973: 171; Willey and
+Palenque, and Piedras Negras occurred about 800 (Rands 1973: 171; Willey and
 Shimkin 1973: 463), as did that of Copan. Quirigua and Piedras Negras display
 terminal dates of 810. Other centers fell in the mid ninth century (J. E. S. Thompson
 1966: 100). There is no evidence for any major construction at Tikal after 830
@@ -4167,7 +4167,7 @@ different population (1972: 30).
 
 With collapse, the following elements of complexity were lost: administrative and
 residential structures, the erection and refurbishment of temples, stela construction,
-manufacture of luxury items, and Classic 1:alendrical and writing systems. The elite
+manufacture of luxury items, and Classic 1:calendrical and writing systems. The elite
 class associated with these elements correspondingly ceased to exist (R. E. W. Adams
 1973a: 22).
 
@@ -4242,7 +4242,7 @@ Berger are provocative.
 There is no reason at this point to suggest that the collapse and the depopulation
 were unrelated. There is, however, ample basis for suggesting that the relationship
 between them was complex, and varied across space and time. Further research into
-the Terminal Classic and Postclassic population declin^ is certainly needed.
+the Terminal Classic and Postclassic population decline^ is certainly needed.
 
 The collapse affected each site according to the peculiarities of its circumstances. It
 was transmitted between centers, though, as distressed cities raided and caused
@@ -4262,7 +4262,7 @@ rebuilding. Eznab constructions were small and rudimentary, and their pottery
 compares unfavorably with the technical perfection of Classic ceramics.^Eznab burials
 are in the same places as Classic elites, but contain minimal accompaniments. Classic
 tombs and caches were looted. The attempts at imitating Classic ceremonialism betray
-the loss of Classic elite knowledge. As many as 40 percent of Tikal sttjlae were reset by
+the loss of Classic elite knowledge. As many as 40 percent of Tikal stelae were reset by
 the Eznab occupants, but this was done improperly by Classic standards (i.e., in the
 wrong places, or upside down). With the departure or demise of this remnant
 population the political and demographic collapses at Tikal were complete (Culbert
@@ -4270,7 +4270,7 @@ population the political and demographic collapses at Tikal were complete (Culbe
 
 Similar patterns are seen at such sites as Uaxactun, San Jose, Palenque, and Piedras
 Negras (Culbert 1974: 107-8). The rural population of Barton Ramie shows analogous
-behavior, because althoJigh the post-collapse occupation was extensive, new construc
+behavior, because although the post-collapse occupation was extensive, new construc
 tion was comparatively minimal (Willey 1973: 102-3).
 
 Yet the collapse was not uniform across the Lowlands. The Puuc sites 6f the
@@ -4294,7 +4294,7 @@ and their collapse less mysterious.
 
 The reasons for the collapse lie in the Preclassic and in earlier times. There was
 good reason for the development of military competition in association with the
-population/^esource stress of the Middle and Late Preclassic. The topographic
+population/^resource stress of the Middle and Late Preclassic. The topographic
 redundancy of the Southern Lowlands is pertinent to understanding this
 development.
 
@@ -4318,7 +4318,7 @@ densely populated, complex sociopolitical systems (Bettinger and King 1971; Isbe
 1978; Tainter and Gillio 1980: 101-13). One energy averaging system, in the San Juan
 Basin of New Mexico, will be examined in detail later in this chapter.
 
-Regional economic S5Tnbiosis and spatial energy averaging are a method of
+Regional economic S5Symbiosis and spatial energy averaging are a method of
 countering productivity fluctuations that can be efficient and successful, and that has
 important evolutionary consequences. Such a strategy can lead to the formation of
 regional sociopolitical aggregates that are based on economic cooperation directed by
@@ -4399,11 +4399,11 @@ leaving large hinterlands with comparatively fewer people and less agricultural
 production (Webster 1977: 348). R. McC. Adams has noted a similar response to
 warfare among early Sumerian city-states (1974: 3).
 
-Complex feedback relatiiins emerged among agricultural production, conflict, and
+Complex feedback relations emerged among agricultural production, conflict, and
 
 complexity. Productivity fluctuations made military adventures tempting^ even
 essential, while in turn military strategy came to influence agriculture. Dispersed,
-shifting swidden plots werfe essentially indefensible (at least at any reasonable cost).
+shifting swidden plots were essentially indefensible (at least at any reasonable cost).
 
 and yet were highly vulnerable and essential to subsistence. Concentrated, intensive
 systems, such as raised fields and terraces, were at the same time more easily defended
@@ -4456,7 +4456,7 @@ standing on, captives. At a center displaying such art, emissaries and visiting 
 from potentially competitive centers would constantly encounter sculpture and
 
 painted surfaces showing the military prowess of their hosts, and the harsh manner in
-which they treated prisoners. Such visitors could not help but receive'the correct
+which they treated prisoners. Such visitors could not help but receive correct
 message from art, such as the Bonampak murals, showing the torture and execution of
 prisoners. Although no expert on the subject, my impression is that Mayan art more
 frequently displays mistreatment of prisoners than, say, Roman Imperial art (e.g.,
@@ -4467,7 +4467,7 @@ standing army, and their art does not concentrate on the mistreatment of prisone
 Classic Mayan states did not have standing armies. Their art depicts terrifying
 treatment of enemies. Without real strength, propaganda was the next best thing.
 
-Signaling of strength did more tharr deter neighbors. It could also serve to attract
+Signaling of strength did more than deter neighbors. It could also serve to attract
 unattached rural populations, and minor centers, into affiliating themselves with the
 major center that could promise the greatest protection and advantage. Although
 aggregation increased through time, much of the Mayan population continued to live
@@ -4488,7 +4488,7 @@ regional powers did so in the Late Classic. Glyphic evidence suggests that the r
 dominated by Tikal spread 100 kilometers in each direction. Yet this domain was
 maintained with difficulty. Culbert (n.d.) believes that most depictions of military
 exploits refer to intraregional struggles, for captives shown in art can rarely be
-associated with known, major centers. A domain the size of TikaPs, though, raises the
+associated with known, major centers. A domain the size of Tikal's, though, raises the
 possibility that in later periods food stress in the central Peten could have been
 relieved by importation of food from such distant sources as the terraces of the Maya
 Mountains or the raised fields of Belize (Culbert n.d.). Long-distance transport of
@@ -4556,7 +4556,7 @@ records pertain to only the last 300 years or so before the fall of the Western 
 while the Mayan data cover nearly a millennium.
 
 The factors that led to the Mayan collapse can now be assembled in a systematic
-framework. The stresses and pressures of the Preclassic and Classip periods set in
+framework. The stresses and pressures of the Preclassic and Classic periods set in
 motion a dynamic, interlinked system of competition and warfare, support of an elite
 hierarchy, investment in monumental construction, hydraulic and agricultural
 engineering, and administration of growing regional-domains. The costs of supporting
@@ -4596,7 +4596,7 @@ greater impoverished populations to support, so that the marginal return on evol
 to larger states would have been small. Whether the final push was from invaders,
 environmental deterioration, withdrawal of peasant support, internal conflict, or
 some combination pf these, the fact of the collapse is no surprise. It was a predictable
-adjustment to an ptherwise insolvable dilemma.
+adjustment to an otherwise insolvable dilemma.
 
 Over the short-term the collapse probably resulted in an improved standard of
 living for a peasant population suddenly relieved of the burden of supporting a
@@ -4650,7 +4650,7 @@ ture. The average growing season for the San Juan Basin is between 140 and 160 d
 (Judge 1982: 8). Yet at the elevation of Chaco Canyon, 1866 meters, 60 percent of
 growing seasons are less than 120 days, and 30 percent are less than 100 days.
 
-The only penqanent water in the Canyon consists of about a dozeq small seeps in
+The only permanent water in the Canyon consists of about a dozen small seeps in
 the sandstone cliffs, the largest of which holds less than 380 liters. Recorded rainfall in
 Chaco averages 213 millimeters, but varies from 89 to 457 millimeters (Schelberg
 1982: 16, 79, 81, 87).
@@ -4659,14 +4659,14 @@ Climatic conditions at the height of the Canyon's occupation were similar to tho
 of today (Powers et al. 1983: 277-9). Dendrological (tree-ring) evidence suggests that
 between 900 and 1300 A.D. rainfall averaged 221 millimeters. Temporal and spatial
 variations were critical in such a moisture-deficient area, and droughts adversely
-affected the Chacoans. Between 920 and 1040 A.D., in 45 percent of years precipita
+affected the Chacoans. Between 920 and 1040 A.D., in 45 percent of years precipitation
 tion was greater than the 100 year mean. Between 1040 and 1120, this figure increased
 to 55 percent of years. Yet between 1120 and 1180 only 10 percent of all years
 experienced precipitation above the 100 year mean. From 1123 to 1178 A.D. only
 eleven years saw above-average precipitation (Schelberg 1982: 16, 95).
 
 A regional system of social complexity, political stratification, and economic sym
-biosis developed in this marginal environment on a scale unparalleled in the prehistor
+biosis developed in this marginal environment on a scale unparalleled in the prehistoric
 ic northern Southwest. Although research is beginning to disclose the existence of
 regional systems that existed at other times and other places in the Puebloan area
 (e.g., Upham 1982; Plog 1983), the Chacoan system reached a level of hierarchy,
@@ -4693,7 +4693,7 @@ and Neller 1978).
 Chacoan structures (Great Houses) typically contain a large number of what appear
 to have been storage rooms, and would accordingly have had populations that were
 proportionately l(^w compared to structure size (Judge 1979: 903; Marshall et al. 1979:
-337-9; Schelbergj 1982: 223). The burials in Chqcoan Structures in the Canyon are
+337-9; Schelberg 1982: 223). The burials in Chacoan Structures in the Canyon are
 often associated I with exotic, imported goods, including turquoise beads and pen
 dants, shell ornaments, decorated ceramic vessels, jet inlays, quartz crystals, and
 other valuable-items. Sometimes such grave associations number in the hundreds or
@@ -4718,7 +4718,7 @@ primarily about the periphery of the Basin and along the lower Chaco River (),
 are generally referred to as 'Chacoan Outliers' (Marshall et al. 1979; Powers et al.
 1983). More than 70 of these have been identified (Schelberg 1982: 7).
 
-A road network spread outward from Chaco Canyon to the Outhers. These roads
+A road network spread outward from Chaco Canyon to the Outliers. These roads
 are wide (up to 9-10 meters) and straight. They do not adhere to topographic
 contours, but were imposed on the landscape. The roads often contain masonry
 curbs, causeways over drainages, and, at cliff faces, carved stairways (Lyons and
@@ -4769,7 +4769,7 @@ characterized by irregular masonry and unstructured ground plans (Judge 1979:
 901-2; H. Toll 1984, and personal communication).
 
 Around 900 A.D. major changes began. Three Canyon sites - Una Vida, Pueblo
-Bonito, and Pehasco Blanco - began to develop the large rooms and multi-storied,
+Bonito, and Peñasco Blanco - began to develop the large rooms and multi-storied,
 distinctive masonry that characterizes later Great Houses (Judge et al. 1981: 81, 84).
 By early Pueblo III at least 13 Great Houses were occupied in or near the Canyon.
 Several Great Kivas were concurrently built, and a water control system established
@@ -4895,7 +4895,7 @@ status burials, and a variety of imports, coupled with the convergence of the re
 road system, suggest that Chaco did indeed emerge as the administrative center of a
 Basin-wide system of hierarchical social and economic integration.
 
-A three-level economic hierarchy appears to have operated in the Basin. Ehtes
+A three-level economic hierarchy appears to have operated in the Basin. Elites
 resident in Outliers mediated the participation of local agricultural villages in the
 system, and interacted directly with the regional elites resident in Canyon Great
 Houses. Resources exchanged up and down through this hierarchy would have
@@ -4923,7 +4923,7 @@ most appeared north of the San Juan River and in the San Juan Basin interior. Me
 distance between Outliers declined to 17 kilometers. This distance was only
 12 kilometers between Outliers that were road-connected.
 
-The Chacoan system ca. 1100 A.D. was at its height, rbut on the eve of collapse. In
+The Chacoan system ca. 1100 A.D. was at its height, but on the eve of collapse. In
 Late Pueblo III the number of occupied Outliers declined substantially (to 17), while
 the mean distance between these increased to 26 kilometers Many of those that
 survived to this period were located north of the San Juan River, suggesting that the
@@ -4959,7 +4959,7 @@ been established in the region to maximally exploit its environmental diversity,
 addition of each new one reduced the overall effectiveness of the system. This
 problem became particularly acute in the Early Pueblo III period.
 
-The estabhshment of increasing numbers of Outliers in the low diversity Basin
+The establishment of increasing numbers of Outliers in the low diversity Basin
 interior (Powers et al. 1983: 293; Doyel et al. 1984) exacerbated the problem. This
 marginal, low productivity environment offered diversity as its best characteristic. The
 Chacoans initially made wise use of this feature, but came ultimately to dilute its
@@ -4996,7 +4996,7 @@ community experiencing a deficit.
 This deterioration coincided with a period of significantly increased investment in
 architectural construction. The net result was that Chacoan communities of the San
 Juan Basin, around 1100 A.D., derived less subsistence security at higher cost than
-had their ancestors of 100 to 150 years previously. Faced with such a derlining
+had their ancestors of 100 to 150 years previously. Faced with such a underlying
 marginal return they began to withdraw from the regional network, leading to the
 weakening of the system and its ultimate collapse. It was no coincidence that the most
 densely packed Outlier communities, those at the southern edge of the Basin, may
@@ -5023,7 +5023,7 @@ investment in a low-return payoff is a classic example of a declining marginal r
 
 A final blow may have been administered by a severe, prolonged drought from
 1134-81 A.D. (Powers et al. 1983: 345; Schelberg 1982: 273). Some archaeologists
-believe this drought caused the Chacoan collapse. The Chadoans. had, however,
+believe this drought caused the Chacoan collapse. The Chacoans. had, however,
 previously survived droughts in the mid tenth, the early eleventh,, and the late
 eleventh centuries without collapsing (Schelberg 1982: 273; Powers et al. 1983: 280).
 This final drought does not seem, then, to be a sufficient reason for the system's
@@ -5048,7 +5048,7 @@ farfetched. None of these was technically impossible; the Chacoans could have
 attempted any of these strategies. Thty did not do so because of the extreme cost. The
 marginal return for any of these practices was simply too low. It was not that the
 Canyon inhabitants had no alternatives; they simply had no economical ones.
-Sociopplitical collapse was preferable from an economic viewpoint. In this case, what
+Sociopolitical collapse was preferable from an economic viewpoint. In this case, what
 the Chacoans did not do illustrates the thesis of this work as clearly as what they did.
 
 What the final drought may have accomplished was to change the curve of marginal
@@ -5069,7 +5069,7 @@ environments and subsistence practices (or to changes in these), to the pressure
 outside peoples, to internal conflict, to population growth, to catastrophes, or to
 sociopolitical dysfunction. What affected the Romans, Maya, and Chacoans so
 adversely was how ope or more of these factors was related to the cost/benefit ratio of
-investment in complexity. When challenges and stresses caused this ratio to deterio
+investment in complexity. When challenges and stresses caused this ratio to deteriorate
 rate excessively, or' coincided with a declining marginal return, collapse became
 increasingly likely.
 
@@ -5089,7 +5089,7 @@ return on investment in empire had declined, it had not yet declined to the poin
 where continuation of that investment was not worthwhile.
 
 Serious stress surges, in the form of barbarian incursions, began to affect the
-Eippire in the mid second century A.D., and increasingly thereafter. Unable to bear
+Empire in the mid second century A.D., and increasingly thereafter. Unable to bear
 the cost of meeting these challenges out of yearly productivity, the emperors adopted
 a strategy of artificially inflating the value of their yearly budgets by debasing the
 currency. This shifted the cost of current crises to future taxpayers. Such a strategy
@@ -5104,11 +5104,11 @@ individuals, the Empire was, for h time, able to survive. It did so, however, by
 increasing its own costliness, and in so doing decreased the marginal return it could
 offer its population. These costs drained the Empire's peasantry so thoroughly that
 population could not recover from outbreaks of plague, producing lands were
-abandoned, and the abihty of the State to support itself deteriorated. As a result, the
+abandoned, and the ability of the State to support itself deteriorated. As a result, the
 barbarian incursions of the late fourth and fifth centuries were increasingly successful
 and devastating.
 
-The burden and costhness of the Empire not only increased over time, but the
+The burden and costliness of the Empire not only increased over time, but the
 benefits it afforded its members declined. As crops were confiscated for taxation and
 peasant's children sold into slavery, lands were increasingly ravaged by barbarians
 who could not be halted with the Empire's resources. The advantage of empire
@@ -5162,7 +5162,7 @@ communicating unequivocally to visitors a center's successes at warfare and its
 treatment of prisoners. This investment in visual display helped to compensate for the
 lack of significant standing military forces. It was, however, costly. While other
 peoples have been economically devastated when locked into an escalating campaign
-of military preparedness, the Maya became trapi5ed in what may be called an 'art
+of military preparedness, the Maya became trapped5ed in what may be called an 'art
 race.' This, and the other consequences of military competition, were as detrimental
 to their economy and support population as investment was for the Romans in real
 military power.
@@ -5179,7 +5179,7 @@ imposed an expanded building program on a weakened, undernourished population.
 With such an unfavorable, and deteriorating, marginal return on investment in
 complexity, the collapse of the southern Classic Maya was to be expected.
 
-The Cbacoan collapse
+The Chacoan collapse
 Chacoan society of the American Southwest may, like the Romans, have attempted
 too much of a good thing. An early system of energy averaging made good use of the
 San Juan Basin's best characteristic - diversity - by means of a hierarchical network of
@@ -5200,7 +5200,7 @@ faltered.
 
 For a time, when newly established, such a system can increase its effectiveness by
 adding new participants who increase the pool of regional diversity. The Chacoans
-initially pursued such a strategy, as Outlier conamunities were incorporated from the
+initially pursued such a strategy, as Outlier communities were incorporated from the
 high diversity, high productivity Basin edge. In time, though, communities came to
 be added that increasingly duplicated the resource bases of existing members, that
 were situated in poorer, less productive areas, and that ultimately came to be located
@@ -5237,7 +5237,7 @@ and the well-being of most people deteriorated. This seems to have come
 about from the demands of supporting such complex systems. It is not
 currently known whether something similar happened in the Chacoan case,
 but it is noteworthy that the number of Outliers participating in this system
-dropped prior to the final collapse. Quite possibly Outher communities,
+dropped prior to the final collapse. Quite possibly Other communities,
 whose participation could not be enforced (unlike the Roman and Mayan
 cases), withdrew from the network before declining marginal productivity
 adversely affected their local populations.
@@ -5271,8 +5271,8 @@ unclear evidence and uncertain causality, nor to agricultural deterioration,
 for the evidence of agricultural intensification indicates that the Maya were
 fully capable of increasing the productivity of their environment. The col
 lapse of Maya Civilization was due to the burdens of an increasingly costly
-society born^ by an increasingly weakened population. Peasant dissatisfac
-tion, foreigil pressures, internal conflict, or an agricultural crisis may have
+society born^ by an increasingly weakened population. Peasant dissatisfaction
+tion, foreign pressures, internal conflict, or an agricultural crisis may have
 provided a final, insurmountable challenge, but such a challenge was effec-
 
 tive only because the Maya were following a course that ma^e them vulner
@@ -5289,7 +5289,7 @@ migration were economically preferable.
 This chapter began with the observation that the framework for explaining collapse
 could probably not be subjected to a formal, quantitative test. The alternative was to
 investigate three cases in detail, asking whether the framework developed in Chapter
-4 helps us to understand why these societies collapsed. The restilts lead us to answer
+4 helps us to understand why these societies collapsed. The results lead us to answer
 the question affirmatively: the collapses of the Western Roman Empire, the Southern
 Lowland Maya, and Chacoan society can be understood as responses to declining
 marginal returns on investment in complexity.
@@ -5303,15 +5303,15 @@ Message on a popular sign
 
 Summary
 Collapse is recurrent in human history; it is global in its occurrence; and it affects the
-spectrum of societies from simple foragers to great empires. Collajise is a matter of
+spectrum of societies from simple foragers to great empires. Collapse is a matter of
 considerable importance to every member of a complex society, and seems to be of
-particular interest to ipany people today. Pohtical decentralization has repercussions
+particular interest to many people today. Pohtical decentralization has repercussions
 in economics, art, literature, and other cultural phenomena, but these are not its
 essence. Collapse is fundamentally a sudden, pronounced loss of an established level
 of sociopolitical complexity.
 
 A complex society that has collapsed is suddenly smaller, simpler, less stratified,
-and less socially differentiated. Specialization decreases and thfere is less centralized
+and less socially differentiated. Specialization decreases and there is less centralized
 control. The flow of information drops, people trade and interact less, and there is
 overall lower coordination among individuals and groups. Economic activity drops to
 a commensurate level, while the arts and literature experience such a quantitative
@@ -5321,12 +5321,12 @@ are left the known world shrinks.
 Complex societies, such as states, are not a discrete stage in cultural evolution. Each
 society represents a point along a continuum from least to most complex. Complex
 forms of human organization have emerged comparatively recently, and are an
-anomaly of history. Complexity and stratificatioh are oddities when viewed from the
+anomaly of history. Complexity and stratification are oddities when viewed from the
 full perspective of our history, and where present, must be constantly reinforced.
-Leaders, parties, and governments need constantly to establish and maintain legitima
+Leaders, parties, and governments need constantly to establish and maintain legitimacy
 cy. This effort must have a genuine material basis, which means that some level of
 responsiveness to a support population is necessary. Maintenance of legitimacy or
-investment in coercion require constant mobilization of resources. This is an unrelent
+investment in coercion require constant mobilization of resources. This is an unrelenting
 ing cost that any complex society must bear.
 
 Two major approaches tc^ understanding the origin of the state are the conflict and
@@ -5346,7 +5346,7 @@ adaptation.
 Both approaches have strong and weak points, and a synthesis of the two seems
 ultimately desirable. Integration theory is better able to account for distribution of the
 necessities of life, conflict theory for surpluses. There are definitely beneficial integra
-tive advantages in the concentration of power and authority, but once estabUshed the
+tive advantages in the concentration of power and authority, but once established the
 political realm becomes an increasingly powerful influence. In both views, though,
 the state is a problem-solving organization, emerging because of changed circum
 stances (differential economic success in the conflict view; management of society
@@ -5395,7 +5395,7 @@ requires ever more specialized, highly trained personnel, who must be educated a
 
 greater cost. Since the benefits of specialized training are always in part attributable to
 the generalized training that must precede it, more technical instruction will auto
-matically yield a declining marginal return. Research and developtaent move from
+matically yield a declining marginal return. Research and development move from
 generalized knowledge that is widely applicable and obtained at little cost, to special
 ized topics that are more narrowly useful, are more difficult to resolve, and are
 resolved only at great cost. Modern medicine presents a clear example of this prob
@@ -5481,12 +5481,12 @@ heavy that the productive capacity of the support population deteriorated. Weake
 of the support base gave rise to further barbarian successes, so that very high
 investments in complexity yielded few benefits superior to collapse. In the later
 Empire the marginal return on investment in complexity was so low that the barbarian
-kingdoms began to seem preferable. In an economic sense they were, for the Germa
+kingdoms began to seem preferable. In an economic sense they were, for the Germanic
 nic kingdoms that followed Roman rule dealt successfully with stress surges of the
 kind that the late Empire had found overwhelming, and did so at lower cost.
 
 The Maya of the southern Lowlands were a demographically stressed and territo
-rially constrained people. The requirements of management of agricultural intensi
+rially constrained people. The requirements of management of agricultural intensification
 fication, organization for predation and defense, support of the hierarchy, and
 monumental construction all imposed on the Maya a costly system that brought no
 commensurate increase in subsistence security per capita. The health and nutritional
@@ -5640,7 +5640,7 @@ the 'dismal science.' Of course, the marginal product curve is nothing new. It w
 developed to characterize changing cost/benefit curves in resource extraction, and
 input/output ratios in the manufacturing sector. The idea of diminishing returns to
 economic activity is at least as old as the nineteenth-century classical economists:
-Thomas Malthus, David kicardo, and John Stuart Mill (Barnett and Morse 1963: 2).
+Thomas Malthus, David Ricardo, and John Stuart Mill (Barnett and Morse 1963: 2).
 
 It applies, as seen in Chapter 4, to subsistence agriculture, minerals and energy
 production, information processing, and to many features of sociopolitical organiza
@@ -5679,7 +5679,7 @@ indirectly created (1951: 185).
 
 Among his many astute observations, Polybius suggested that the triumph of Rome
 over Carthage was due to the fact that the former was increasing in power and the
-latter declining when they came into conflict. In a somewhat similar vein, F.lman
+latter declining when they came into conflict. In a somewhat similar vein, F.Flman
 Service applied his 'Law of Evolutionary Potential' to suggest that older, established
 states become fossilized, unable to adopt innovations, and are thus outcompeted by
 newer, if smaller, peripheral peoples. It would be worthwhile for historians to
@@ -5688,7 +5688,7 @@ experience. An older, established state is likely to be investing in so many cum
 organizational features that its marginal return bn these investments has begun to
 decline, leaving lower and lower reserves with which to contain stress surges. It is
 then understandable that such a nation is outcompeted by less complex peoples, who
-invest in httle but warfare and experience a favorable return bn that investment.
+invest in little but warfare and experience a favorable return bn that investment.
 Polybius' views on Rome and Carthage, seen thus, might be extended to Rome's
 conquest of so many older, established states and confederations about the eastern
 Mediterranean.
@@ -5718,17 +5718,17 @@ tained regardless of cost. Such a situation seems to have characterized the Maya
 whose individual states developed as peer polities for centuries, and then collapsed
 within a few decades of each other (Sabloff 1986).
 
-The post-Roman states of Europe have experienced an analogous situatiop, espe
+The post-Roman states of Europe have experienced an analogous situation, espe
 cially since the demise of the Carolingian Empire. European history of the past 1500
 years is quintessentially one of peer polities interacting and competing, endlessly
-jockbying for advantage, and striving to either expand at a neighbor's expense or avoid
+jockeying for advantage, and striving to either expand at a neighbor's expense or avoid
 having the neighbor do likewise. Collapse is simply not possible in such a situation
 unless all members of the cluster collapse at once. Barring this, any failure of a single
 polity will simply lead to expansion of another, so that no loss of complexity results.
 The costs of such a competitive system, as among the Maya, must be met by each
 polity, however unfavorable the marginal return. As Renfrew pointed out for the
-Cyclades, 'The specific state is legitimised in the eyes of its citizens by the existence of other
-states which patently do function along comparable lines' (1982: 289 [eipphasis in origin
+Cyclades, 'The specific state is emphasis in the eyes of its citizens by the existence of other
+states which patently do function along comparable lines' (1982: 289 [emphasis in origin
 al]).
 
 Peasant political action in such a situation is most logically aimed at reformation
@@ -5800,7 +5800,7 @@ commensurate to what happened in the power vacuum of western Europe in the fifth
 century A.D.
 
 The occurrence of declining marginal returns, then, need not always lead to
-collapse: it will do so only where there is a power vacilum. In other cases it is more
+collapse: it will do so only where there is a power vacuum. In other cases it is more
 likely to be a source of political and military weakness, leading to slow disintegration
 and/or change of regime. Lewis' (1958) observations on the decline of the Ottoman
 Empire, and R. McC. Adams'(1978, 1981) on replacement of the Sassanian by the
@@ -5833,7 +5833,7 @@ situation where returns for such costs may not have increased at all. Chinese dy
 have as a rule seemed to undergo deteriorating cost/benefit ratios from their founding
 to their demise.
 
-Old Babylonian period. Despite the loss of dependencies during the reign of Samsuiluna, the crowq attempted nonetheless to maintain the level of administration
+Old Babylonian period. Despite the loss of dependencies during the reign of Samsuiluna, the crown attempted nonetheless to maintain the level of administration
 established previously. Marginal returns decline axiomatically in an attempt to govern
 a smaller land ar^a and population with an administration designed for a larger
 territory.
@@ -5907,7 +5907,7 @@ Ceramic styles were transformed. Goods and information were exchanged across the
 central Andes at unprecedented levels. It has been suggested that urbanism and
 militarism, state distribution of foodstuffs, the Andean road system, and the spread of
 the Quechua language began with the Huari Empire. Huari may thus have initiated
-the investment in these transformations, so that the later Inca had merely to reestab
+the investment in these transformations, so that the later Inca had merely to reestablish
 lish the pattern and thus derive a higher marginal return. For the Huari, the set-up
 costs of imperial rule may have been excessively high compared to the benefits.
 
@@ -5933,7 +5933,7 @@ be looked for.
 
 Declining marginal returns and other theories of collapse
 The extent to which a global theory is illuminating or trivial depends, in part, on its
-ability to clarify matteii's that were previously obscure, on its flexibility in application,
+ability to clarify matters that were previously obscure, on its flexibility in application,
 and on its power to incorporate less general explanations. The perspective of declining
 marginal returns has,indeed clarified the collapse process and shown itself highly
 flexible in application': three major, very different cases can be understood by it, and
@@ -5994,7 +5994,7 @@ for expansion, and declined accordingly. Other theories grouped under this theme
 not plausibly linked to collapse.
 
 Other complex societies. Blanton's argument that Monte Alban collapsed when it
-was no longer necessary for some tasks (deterrence ofTeotihuacan) nor efficient at
+was no longer necessary for some tasks (deterrence of Teotihuacan) nor efficient at
 others (adjudication of disputes), is fully compatible with the marginal return princi
 ple. Monte Alban collapsed, in other words, when the return it could offer became too
 low relative to support costs. In regard to inter-polity competition, John Hicks once
@@ -6035,8 +6035,8 @@ tion. Rulers simply look good during successful periods, and vice versa (Service
 The biologist Garrett Hardin once pointed to a disarmingly simple lesson of systems
 analysis that has powerful implications: 'We can never do merely one thing' (1968: 457
 [emphasis in original]). His point was that good intentions are virtually irrelevant in
-determining the result of altering a large, complex system. With the feedback relatioqships inherent in such a system, one can almost never anticipate the full conse
-quences of any alteration. The same principle applies to misbehavior: elite mismanagetnent can be only partly responsible for the evolution of any complex society.
+determining the result of altering a large, complex system. With the feedback relationships inherent in such a system, one can almost never anticipate the full conse
+quences of any alteration. The same principle applies to misbehavior: elite mismanagement can be only partly responsible for the evolution of any complex society.
 
 I do not wish to suggest that leadership is immaterial, only that it is of much less
 importance than many believe. Complex societies do not evolve on the whims of
@@ -6060,7 +6060,7 @@ approach, but some of the individual studies grouped under this theme can be
 subsumed under the principle of declining marginal returns. David Stuart, for
 example, asserts that complex societies experience cyclical oscillations between more
 and less complex forms (which he labels 'powerful' and 'efficient). The mystical
-nature of Stuart's formulation emerges when he cannot accountfor these oscillations,
+nature of Stuart's formulation emerges when he cannot account for these oscillations,
 except to liken complex societies to insect swarms and to suggest that they 'burn out'
 (Stuart and Gauthier 1981: 10-11). Why do Stuart's 'powerful' societies revert to
 'efficient' ones? The answer is most likely that they do so because, as complex
@@ -6077,7 +6077,7 @@ is a major factor in these assessments. A society experiencing high marginal ret
 investment in complexity is likely to be capable of expanding or of containing stress
 surges, and will appear 'vigorous' and 'growing.' A society in the phase of declining
 marginal returns is likely to be less capable in these matters, and so appear 'decadent.'
-The concepts of 'growth/senescence' and 'vigor/decadence' are vitalistic and subjec
+The concepts of 'growth/senescence' and 'vigor/decadence' are vitalistic and subjective
 tive. Such value-laden terms, and related concepts, are best dropped from use. The
 observations on which they rely, however, can be subsumed under the principle of
 marginal returns. 'Moral weakness' (whatever that may be) is more likely to be
@@ -6094,7 +6094,7 @@ economically weakened.
 Economic explanations. The themes that unite economic explanations are declining
 
 advantages to complexity, increasing disadvantages to complexity, and/or increasing
-costliness of eomplexity. Such ideas are clearly subsumable under declining marginal
+costliness of complexity. Such ideas are clearly subsumable under declining marginal
 returns, and indeed this principle provides the global applicability previously lacking
 in economic explanations.
 
@@ -6107,11 +6107,11 @@ from the need to respond to changing external conditions.
 
 Conflict and integration theories are also subsumed, for whether a people are the
 beneficiaries or the victims of complexity, it is necessary to take into account the
-cost/benefit ratio of organizatiopal investment. Neither benign nor repressive regimes
+cost/benefit ratio of organizational investment. Neither benign nor repressive regimes
 can long endure a siege of declining marginal returns (although repressive regimes
 may be able to endure somewhat longer).
 
-The principle of declining marginal returns is indeed, then, capable of incorporat
+The principle of declining marginal returns is indeed, then, capable of incorporating
 ing these various approaches to collapse (or at least the more worthwhile parts of
 these). It provides an overarching theoretical framework that unites diverse
 approaches, and it shows where connections exist among disparate views. It seems
@@ -6140,7 +6140,7 @@ Astrophysicists are currently developing a theory suggesting that the cyclic ret
 distant star toward earth triggers immense comet showers that periodically wipe out
 multiple life forms, and will so affect the human race at the next pass (Perlman 1984).
 
-Other scenaribs for contemporary collapse include:
+Other scenarios for contemporary collapse include:
 
 nuclear waf and associated climatic changes;
 
@@ -6150,7 +6150,7 @@ increasing atmospheric pollution, leading to ozone depletion, climatic changes,
 
 depletion of critical industrial resources;
 general economic breakdown, brought on by such things as unrepayable nation
-al and international debts, disruptions in fossil fuel availability, hyperinfla
+al and international debts, disruptions in fossil fuel availability, hyperinflation
 tion, and the like.
 
 Faced with such an array of imposing problems, and constantly bombarded with
@@ -6192,7 +6192,7 @@ finished before our own civilization collapses.
 
 As in the study of historical collapses, those concerned about current conditions
 have ignored the principle of marginal returns on investment in complexity. Whether
-industrial civihzation will be destroyed in a nuclear war or in a cosmic collision is
+industrial civilization will be destroyed in a nuclear war or in a cosmic collision is
 guesswork, and not of concern here. What can be presently addressed are matters that
 
 are known to be of importance to all societies: the costs of, and benefits from,
@@ -6266,7 +6266,7 @@ information-processing technology do help lower organizational costs, but ultima
 these too are subject to diminishing returns.
 
 A second problem is that the principle of infinite substitutability is, despite its title,
-difficult to apply indefinitely. A number of perceptive scientists, philosophei-s, and
+difficult to apply indefinitely. A number of perceptive scientists, philosophers-s, and
 economists have shown that the marginal costs of research and development, as
 discussed in Chapter 4, have grown so high it is questionable whether technological
 innovation will be able to contribute as much to the solution of future problems as it
@@ -6282,7 +6282,7 @@ removing 30 percent. Reducing sulfur dioxide in the air of a U.S. city by 9.6 ti
 of particulates by 3.1 times, raises the cost of control by 520 times (Meadows et al.
 1972: 134-5).
 
-It is not that R&D cannot potentially solve the problems of industriahsm. The
+It is not that R&D cannot potentially solve the problems of industrialism. The
 difficulty is that to do so will require an increasing share of GNP. The principle of
 infinite substitutability depends on energy and technology. With diminishing returns
 to investment in scientific research, how can economic growth be sustained? The
@@ -6290,13 +6290,13 @@ answer is that to sustain growth resources will have to be allocated from other 
 of the economy into science and engineering. The result will likely be at least a
 temporary decline in the standard of living, as people will have comparatively less to
 spend on food, housing, clothing, medical care, transportation, or entertainment. The
-allocation of greater resoufces to science of course is nothing new, merely the
+allocation of greater resources to science of course is nothing new, merely the
 continuation of a two centuries-old trend (D. Price 1963). Such investment, unfortu
 
 nately, can never yield a permanent solution, merely a respite from diminishing
 returns.
 
-In past societies, as we know, declining marginal rejurns led to weakness, and to
+In past societies, as we know, declining marginal returns led to weakness, and to
 disintegration or collapse. If we are to escape nuclear annihilation, if we control
 pollution and population, and manage to circumvent resource depletion, will our fate
 then be sealed by the high cost and low marginal return that these things will require?
@@ -6315,7 +6315,7 @@ complex society (or cluster of peer polities) was surrounded by less complex nei
 bors. There are no power vacuums left today. Every nation is linked to, and influ
 enced by, the major powers, and most are strongly linked with one power bloc or the
 other. Combine this with instant global travel, and as Paul Valery noted, '...nothing
-can ever happen again zoithout the whole world's taking a hand' (1962: 115 [emphasis in
+can ever happen again without the whole world's taking a hand' (1962: 115 [emphasis in
 original]).
 
 Collapse today is neither an option nor an immediate threat. Any nation vulnerable
@@ -6396,7 +6396,7 @@ expansion. Ancient Rome and the Ch'in of Warring States China adopted this cours
 as have countless other empire-builders. In an economy that today is activated by
 stored energy reserves, and especially in a world that is full, this course is not feasible
 (nor was it ever permanently successful). The capital and technology available must
-be directed instead toward some new and more abundfint source of energy. Techno
+be directed instead toward some new and more abundant source of energy. Techno
 logical innovation and increasing productivity can forestall declining-marginal returns
 only so long. A new energy subsidy will at some point be essential.
 
@@ -6445,7 +6445,7 @@ eloquence. What has been accomplished here is to place contemporary societies in
 historical perspective, and to apply a global principle that links the past to the present
 and the future. However much we like to think of ourselves as something special in
 world history, in fact industrial societies are subject to the same principles that caused
-earlier societies to collapse. If civiUzation collapses again, it will be from failure to take
+earlier societies to collapse. If civilization collapses again, it will be from failure to take
 advantage of the current reprieve, a reprieve paradoxically both detrimental and
 essential to our anticipated future.
 
@@ -6458,7 +6458,7 @@ Adams, Richard E. W. (1969). Maya Archaeology 1958-1968, a Review. Latin America
 
 Research Review 3-45.
 
-(1971). The Ceranucs of Altar de Sacrificios, Guatemala. Papers of the Peabody Museum of
+(1971). The Ceramics of Altar de Sacrificios, Guatemala. Papers of the Peabody Museum of
 
 Archaeology and Ethnology, Harvard University 63(1).
 
@@ -6467,7 +6467,7 @@ Archaeology and Ethnology, Harvard University 63(1).
 Maya Collapse, edited by T. Patrick Culbert, pp. 21-34. University of New Mexico
 Press, Albuquerque.
 
-(1973b). Maya CoUapse; Transformation and Termination in the Ceramic Sequence at Altar
+(1973b). Maya Collapse; Transformation and Termination in the Ceramic Sequence at Altar
 
 de Sacrificios. In The Classic Maya Collapse, edited by T. Patrick Culbert, pp. 133-63.
 University of New Mexico Press, Albuquerque.
@@ -6491,7 +6491,7 @@ Cambridge.
 
 Adams, Wchard E. W. and Norman Hammond (1982). Maya Archaeology, 1976-1980: a
 
-Review oiMs.]oTV\ih^cations. Journal of Field Archaeology 9: 487-512.
+Review Items.]oTV\ih^cations. Journal of Field Archaeology 9: 487-512.
 
 Adams, Richard E. W. and Wchard C. Jones (1981). Spatial Patterns and Regional Growth
 
@@ -6509,7 +6509,7 @@ Press, Austin.
 Adams, Robert M. (1983). Decadent Societies. North Point, San Francisco.
 Adams, Robert McC. (1974). Historic Patterns of Mesopotamian Irrigation Agriculture. In
 
-Irrigatiqn s Impact on Society, edited by Theodore M. Downing and McGuire Gibson, pp.
+Irrigation s Impact on Society, edited by Theodore M. Downing and McGuire Gibson, pp.
 1-6. University of Arizona Anthropological Papers 25.
 
 (1978). Strategies of Maximization, Stability, and Resilience in Mesopotamian Society,

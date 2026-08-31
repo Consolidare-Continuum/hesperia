@@ -190,6 +190,8 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--apply", action="store_true", help="write fixes (default: report only)")
     ap.add_argument("--limit", type=int, default=0, help="cap total suspects processed (0 = all)")
     ap.add_argument("--progress", type=Path, default=ROOT / "ocr_llm_progress.jsonl")
+    ap.add_argument("--max-word-len", type=int, default=0, help="skip applying fixes for flagged words longer than this (0 = no limit) — glued/duplicated multi-word runs need a different prompt, see fix_ocr_word_errors_llm_longrun.py")
+    ap.add_argument("--min-word-len", type=int, default=0, help="skip applying fixes for flagged words shorter than this (0 = no limit)")
     args = ap.parse_args(argv)
 
     targets = [Path(f) for f in args.files] if args.files else sorted(ROOT.glob("*.md"))
@@ -221,27 +223,46 @@ def main(argv: list[str]) -> int:
     pending = [s for s in suspects if f"{s['file']}:{s['start']}" not in done]
     print(f"already done: {len(suspects) - len(pending)}  pending: {len(pending)}", flush=True)
 
-    with args.progress.open("a", encoding="utf-8") as prog:
-        for bi in range(0, len(pending), BATCH_SIZE):
-            batch = pending[bi : bi + BATCH_SIZE]
-            results = call_batch(client, batch)
-            for s, r in zip(batch, results):
-                row = {
-                    "file": s["file"],
-                    "start": s["start"],
-                    "end": s["end"],
-                    "word": s["word"],
-                    "verdict": r.get("verdict", "reject"),
-                    "correction": r.get("correction"),
-                    "confidence": r.get("confidence", 0.0),
-                }
-                prog.write(json.dumps(row, ensure_ascii=False) + "\n")
-                done[f"{s['file']}:{s['start']}"] = row
-            prog.flush()
-            print(f"  batch {bi // BATCH_SIZE + 1}/{(len(pending) - 1) // BATCH_SIZE + 1} done", flush=True)
+    batches = [pending[bi : bi + BATCH_SIZE] for bi in range(0, len(pending), BATCH_SIZE)]
+    n_batches = len(batches)
+    workers = int(os.environ.get("OCR_WORD_FIX_WORKERS", "8"))
+    completed = 0
 
-    fixed = {k: v for k, v in done.items() if v["verdict"] == "fix" and v.get("confidence", 0) >= CONF_THRESHOLD and v.get("correction")}
-    print(f"total fix verdicts >= {CONF_THRESHOLD} confidence: {len(fixed)} / {len(suspects)} suspects", flush=True)
+    with args.progress.open("a", encoding="utf-8") as prog:
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            futures = {pool.submit(call_batch, client, b): b for b in batches}
+            for fut in as_completed(futures):
+                batch = futures[fut]
+                results = fut.result()
+                for s, r in zip(batch, results):
+                    row = {
+                        "file": s["file"],
+                        "start": s["start"],
+                        "end": s["end"],
+                        "word": s["word"],
+                        "verdict": r.get("verdict", "reject"),
+                        "correction": r.get("correction"),
+                        "confidence": r.get("confidence", 0.0),
+                    }
+                    prog.write(json.dumps(row, ensure_ascii=False) + "\n")
+                    done[f"{s['file']}:{s['start']}"] = row
+                prog.flush()
+                completed += 1
+                print(f"  batch {completed}/{n_batches} done", flush=True)
+
+    fixed = {
+        k: v
+        for k, v in done.items()
+        if v["verdict"] == "fix"
+        and v.get("confidence", 0) >= CONF_THRESHOLD
+        and v.get("correction")
+        and v["word"].lower() != (v.get("correction") or "").lower()
+        and (not args.max_word_len or len(v["word"]) <= args.max_word_len)
+        and (not args.min_word_len or len(v["word"]) >= args.min_word_len)
+    }
+    print(f"total fix verdicts >= {CONF_THRESHOLD} confidence, in length range: {len(fixed)} / {len(suspects)} suspects", flush=True)
 
     if not args.apply:
         print("report-only (pass --apply to write). Sample fixes:", flush=True)

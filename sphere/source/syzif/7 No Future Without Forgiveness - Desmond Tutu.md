@@ -65,7 +65,7 @@ April 27, 1994—the day for which we had waited all these many long years, the 
 
 which the struggle against
 
-Aapartheid had been waged, for which so many of our people had been teargassed, bitten by
+Apartheid had been waged, for which so many of our people had been teargassed, bitten by
 
 police dogs, struck with quirts and batons, for which many more had been detained,
 
@@ -93,7 +93,7 @@ As always, I had got up early for a quiet time before my morning walk and then m
 
 prayers and the Eucharist in the Archbishop's Chapel in Bishopscourt. We wanted things to
 
-be as normalas possible on this extraordinary day in the history of our beloved but oh, so sad
+be as normal as possible on this extraordinary day in the history of our beloved but oh, so sad
 
 land whose soil was soaked with the blood of so many of her children. In the time leading
 
@@ -141,7 +141,7 @@ God's ear, 'For goodness' sake, why don't You make it more obvious that You are 
 
 After breakfast, we drove out of Bishopscourt, the 'official' residence of the Archbishop of
 
-Cape Town, where Nelson Mandelahad spent his first night of freedom after his release on
+Cape Town, where Nelson Mandela had spent his first night of freedom after his release on
 
 February 11, 1990, and left the leafy upmarket suburb named after the Archbishop's
 
@@ -387,7 +387,7 @@ ranged against us—hey, now they were ours—no longer just theirs. This was in
 
 our country in the profoundest possible way.
 
-A poignant moment on that day was when Nelson Mandelaarrived with his older daughter
+A poignant moment on that day was when Nelson Mandela arrived with his older daughter
 
 as his companion, and the various heads of the security forces, the police, and the
 
@@ -439,7 +439,7 @@ almost unbelievable. Instead of the horrendous blood bath that so many had feare
 
 many others had predicted, here were these amazing South Africans, black and
 
-whitetogether, crafting a relatively peaceful changeover and transfer of power.
+white together, crafting a relatively peaceful changeover and transfer of power.
 
 How amazing that April 27, that extraordinary day, ended with hardly any of the untoward
 
@@ -487,7 +487,7 @@ says I am doing something wrong.' I doubt that any other cause has evoked the sa
 
 passion and dedication as the anti-apartheid cause and I doubt that any other country has
 
-been prayed for by so many people so intenselyand for so long as has my motherland. In a
+been prayed for by so many people so intensely and for so long as has my motherland. In a
 
 sense, if a miracle had to happen anywhere, then South Africa would have been the obvious
 
@@ -507,7 +507,7 @@ episcopal pastoral units. The third goal was the liberation of all our people, b
 
 and that we achieved in 1994.
 
-So my wife Leah and I could look forwad happily to my retirement, due in 1996. We had
+So my wife Leah and I could look forward happily to my retirement, due in 1996. We had
 
 been wonderfully blessed in that we had seen what we could only have hoped would happen
 
@@ -659,7 +659,7 @@ police detention. It was alleged by the authorities who might perhaps have been 
 
 most of the white community—they were certainly not believed by most of the black
 
-community—that they had committed suicide by hanging themselveswith their belts, or they
+community—that they had committed suicide by hanging themselves with their belts, or they
 
 had slipped on soap while showering, or they tended to have a penchant for jumping out of
 
@@ -707,7 +707,7 @@ People had been filled with revulsion when they saw how people were killed so gr
 
 through the so-called 'necklace,' a tire placed around the victim's neck and filled with petrol
 
-and then set alight. This horrible way of execution was used by township ANCsupporting
+and then set alight. This horrible way of execution was used by township ANC supporting
 
 'comrades' especially against 'sellouts,' those who were suspected of being collaborators
 
@@ -811,7 +811,7 @@ luxury of being able to complain that all the perpetrators ought to have been br
 
 justice. The fact of the matter is that we do unfortunately have remarkably short memories.
 
-We have in our amnesia forgotten that we were ontenterhooks until 1994, within a trice of
+We have in our amnesia forgotten that we were on tenterhooks until 1994, within a trice of
 
 the most comprehensive disaster, but that, in God's mercy, we were spared all of this. Those
 
@@ -1049,7 +1049,7 @@ unknown, dead, unavailable or unwilling. All that often effectively remains is
 
 the truth of wounded memories of loved ones sharing instinctive suspicions,
 
-deep and traumatising to the survivors but otherwise incapable of translating
+deep and traumatizing to the survivors but otherwise incapable of translating
 
 themselves into objective and corroborative evidence which could survive the
 
@@ -1403,7 +1403,7 @@ states.
 
 We are bound up in a delicate network of interdependence because, as we say in our African
 
-idiom, a Wperson is a person through other persons. To dehumanize another inexorably
+idiom, a A person is a person through other persons. To dehumanize another inexorably
 
 means that one is dehumanized as well. It is not too surprising that, having been involved in
 
@@ -1529,7 +1529,7 @@ their platform is to hand over power to their traditional adversaries. Mr. F. W.
 
 not of course say anything quite so categorical. He spoke about power sharing and made
 
-what was unpalatable and even unthinkable a little less offputting. He put his political career
+what was unpalatable and even unthinkable a little less off-putting. He put his political career
 
 on the line and we would be churlish in the extreme if we did not doff our hats to him for all
 
@@ -1563,7 +1563,7 @@ be so deeply disappointed that he did not measure up to the stature he had attai
 
 prison. They feared that their benefactors might jettison the ANC and it would be bereft of
 
-the enormous international support it had received, largely because of the almost larger-thanlife image the world had built of their leader in prison.
+the enormous international support it had received, largely because of the almost larger-larger than life image the world had built of their leader in prison.
 
 We need not have worried. Mr. de Klerk had met not someone vindictive, hell-bent on
 
@@ -2347,7 +2347,7 @@ scored nearly eight of a possible ten, and Mr. Mbeki nearly seven, in the popula
 
 political leaders. (Their closest rival trailed at a disturbing three.) It seemed to indicate that,
 
-despite an electorate's usual disillusionment with the first post-oppression government, and
+despite an electorate usual disillusionment with the first post-oppression government, and
 
 unfulfilled promises and deficits in fulfilling expectations, the ANC was still being
 
@@ -2517,7 +2517,7 @@ help may be facilitated; still others might need subsidies to prevent eviction
 
 from homes they can no longer maintain and in suitable cases the deep grief of
 
-the traumatised may most effectively be assuaged by facilitating the erection of
+the traumatized may most effectively be assuaged by facilitating the erection of
 
 a tombstone on the grave of a departed one with a public acknowledgement of
 
@@ -3087,7 +3087,7 @@ commission, to these two committees, bringing the total number to seventeen. In 
 
 these extra members, we took very seriously into account regional, gender, political, and
 
-religious representivity, making good any hiatus in the TRC's composition. For instance we
+religious representativity, making good any hiatus in the TRC's composition. For instance we
 
 ensured that there was at least one Jew on the TRC, as well as a leader of the white Dutch
 
@@ -3517,7 +3517,7 @@ had a bias for sinners contrary to the normal standards of the world. This God i
 
 Christ scandalized the prim and proper ones, the orthodox religious leaders, because he
 
-companied not with the respectable, not with the elite of society, but with the scum and the
+accompanied not with the respectable, not with the elite of society, but with the scum and the
 
 dregs, those occupying the fringes of society— the prostitutes, the sinners, the ostracized
 
@@ -3645,7 +3645,7 @@ a moral universe. That theology undergirded my work in the TRC.
 
 The Promotion of National Unity and Reconciliation Act, which brought the Truth and
 
-Reconciliation Commission intoTexistence, required that this commission should, in seeking
+Reconciliation Commission existence, required that this commission should, in seeking
 
 to provide as complete a picture as possible of the gross human rights violations that
 
@@ -3917,7 +3917,7 @@ up a school, and a slip of a girl behind the counter, just because she was white
 
 address your father, 'Ja, boy.' And you died many deaths for your father, who would often
 
-then be ingratiating, obsequious to this badly broughtup child and you knew there was very
+then be ingratiating, obsequious to this badly brought up child and you knew there was very
 
 little he could do about it. He might take his custom to another shop and sure as anything he
 
@@ -3967,7 +3967,7 @@ In a submission quoted in the commission's main report, Justice Pius Langa, late
 
 President of our Constitutional Court, told of his experiences as a black person:
 
-My first real encounter with the legal system was asa young workseeker in
+My first real encounter with the legal system was asa young job seeker in
 
 Durban … in 1956. It was during that period that I experienced the frustration,
 
@@ -4005,7 +4005,7 @@ comprehensive network of laws and regulations which dominated my early
 
 working life…. I was merely one of tens of thousands who peopled those
 
-seemingly interminable queues at the end of which, in general, badtempered
+seemingly interminable queues at the end of which, in general, bad-tempered
 
 clerks and officials might reward one with some endorsement or other in the
 
@@ -4041,7 +4041,7 @@ white, put them into operation. There was a culture of hostility and intimidatio
 
 against those who came to be processed or for assistance. The face presented by
 
-authority, in general, was of a war against people who were unenfranchized and
+authority, in general, was of a war against people who were unfranchised and
 
 human dignity was the main casualty.
 
@@ -4951,7 +4951,7 @@ hearing, speak words of warm and friendly welcome such as these spoken to the fi
 
 witness at our first hearing on April 15, 1996:
 
-DR. BORAINE: 'We invite Mrs. Nohle Mohapi to take thestand. Mrs. Mohapi,
+DR. BORAINE: 'We invite Mrs. Nohle Mohapi to take the stand. Mrs. Mohapi,
 
 do you wish to take the oath or to make an affirmation?'
 
@@ -5049,15 +5049,15 @@ healing.
 
 souls.The sound of your sobbing is my own weeping;Your wet handkerchief my
 
-pillow for a past so exhausted it cannotrest—not yet.Speak, weep, look, listen
+pillow for a past so exhausted it cannot rest—not yet.Speak, weep, look, listen
 
 for us all.Oh, people of the silent hidden past,let your stories scatter seeds into
 
 our lonely frightened winds.Sow more, until the stillness of this land can soften,
 
-can dare tohope and smile and sing;Until the ghosts can dance unshackled,
+can dare to hope and smile and sing;Until the ghosts can dance unshackled,
 
-until our lives can knowyour sorrows And be healed.' '
+until our lives can know your sorrows And be healed.' '
 
 At the end I summed up:
 
@@ -5211,7 +5211,7 @@ Then must Thou be a Suff'rer and a Healer,Pierced to the heart by the sorrow
 
 of the sword.
 
-Then must it mean, not only that Thy sorrowSmote Thee that once upon the
+Then must it mean, not only that Thy sorrow Smote Thee that once upon the
 
 lonely tree,But that today, tonight, and on the morrow,Still will it come O
 
@@ -5357,9 +5357,9 @@ Judge Andrew Wilson, deputy chairperson of the Amnesty Committee, questioned
 
 Nofomela at the amnesty hearing:
 
-WILSON: Can you give any reason … why he was stabbedso many times?
+WILSON: Can you give any reason … why he was stabbed so many times?
 
-NOFOMELA: The reason I suspect is that … all the time, hewas not falling to
+NOFOMELA: The reason I suspect is that … all the time, he was not falling to
 
 the ground. He was fighting.
 
@@ -5417,7 +5417,7 @@ poured petrol on it and set it alight…. Whilst that happened, we were drinking
 
 and even having a braai [barbecue] next to the fire. 'Now that I don't say to
 
-show our 'braveness.' I just tell it to the Commission to show the callousness of
+show our 'bravery.' I just tell it to the Commission to show the callousness of
 
 it, and to what extremes we had gone in those days…. A body takes about
 
@@ -6489,7 +6489,7 @@ for the raid on Lesotho. He was found guilty, sentenced to death, and executed i
 
 1986. Two of his accessories were also executed by the police.
 
-One of the fatalities of the bomb blast was Cornelius, the eightyear-old son of Mr. Johan
+One of the fatalities of the bomb blast was Cornelius, the eight-year-old son of Mr. Johan
 
 Smit. I have already referred to his extraordinary testimony to the commission:
 
@@ -7053,7 +7053,7 @@ of so many who impoverished themselves by shutting out something that would have
 
 benefited them in ways that they had never imagined.
 
-One of our most difficult and contested hearings was the nineday marathon sitting that
+One of our most difficult and contested hearings was the nine-day marathon sitting that
 
 inquired into the activities of Mrs. Winnie Madikizela-Mandela's Football Club. Despite the
 
@@ -7193,7 +7193,7 @@ uniquely different ways. Nothing like that nine-day hearing was held for any oth
 
 One can well imagine the howls that would have been forthcoming about the commission
 
-not being evenhanded had we subjected, say, an Afikaner to similar treatment. Some who
+not being evenhanded had we subjected, say, an Afrikaner to similar treatment. Some who
 
 are forever looking for hidden agendas claim this was done at a time when the ANC
 
@@ -7599,7 +7599,7 @@ how could he have let it come to such a pass? Most of us assumed that this was j
 
 latest of the apartheid government's dirty tricks, even if we were not able to provide the kind
 
-of evidence that would have satisfied a court of law. Thus we were not taken in by the cockand-bull story that the government's propaganda machine soon churned out. No less a
+of evidence that would have satisfied a court of law. Thus we were not taken in by the cock-and-bull story that the government's propaganda machine soon churned out. No less a
 
 person than Mr. Adriaan Vlok, then Minister of Law and Order, announced that the ANC—
 
@@ -7795,7 +7795,7 @@ University of Cape Town academics who assisted our staff to decipher intricate s
 
 formulas.
 
-The evidence that emerged at our hearing showed that whitecoated scientists, doctors,
+The evidence that emerged at our hearing showed that white-coated scientists, doctors,
 
 veterinarians, laboratories, as well as universities and front companies, had propped up
 
@@ -7849,7 +7849,7 @@ that had nearly killed Dr. Chikane. His suitcase was tampered with on one of his
 
 his underpants were impregnated with a poison but not enough of it. Thus he owed his life
 
-to the ineptitude of the operatives who had carried the CBW's poisons. The program
+to the ineptitude of the operatives who had carried the CBW poisons. The program
 
 allegedly had projects aimed at reducing the fertility rate of blacks, by finding bacteria that
 
@@ -8562,7 +8562,7 @@ with the journalists covering the commission. I decided long ago in my public li
 
 accessible as possible, particularly in the dark days of the struggle when we did not have
 
-many resources and needed the media to tell our story to combat the sophisticated and wellfunded propaganda of the apartheid state. I also decided that it was always better to be
+many resources and needed the media to tell our story to combat the sophisticated and well-funded propaganda of the apartheid state. I also decided that it was always better to be
 
 straightforward and, as they say, transparent, so that when sometimes I had to say 'No
 
@@ -8684,7 +8684,7 @@ people had helped to inflict on those who had been the victims of apartheid. I s
 
 emphasize that they were free to have whatever feelings they deemed appropriate but that
 
-they had to be scrupulous in handling all as fairly and as evenhandedly as possible. I pointed
+they had to be scrupulous in handling all as fairly and as even-handedly as possible. I pointed
 
 out that criticism of the way they had done things had come not from those journalists who
 
@@ -9844,7 +9844,7 @@ worry yourself. I will help you.' So she made me take the medicine and then she
 
 massaged me. Then after that I could at least try and sleep.'
 
-A few days later the local newspaper, theEastern Province Herald, carried a large frontpage picture of Ivy Gcina hugging Irene Crouse, accompanied by the following report:
+A few days later the local newspaper, the Eastern Province Herald, carried a large front page picture of Ivy Gcina hugging Irene Crouse, accompanied by the following report:
 
 Tortured activist Ivy Gcina was yesterday reunited with her Angel of Mercy—
 
@@ -10530,7 +10530,7 @@ we resisted his attempts to get us to go on a propaganda jaunt to what the SADF 
 
 'operational area' on the Namibian-Angolan border. Later, we found out that, while talking
 
-to us, hisgovernment had been secretly funding a private right-wing body which was
+to us, his government had been secretly funding a private right-wing body which was
 
 attempting to subvert us.
 
@@ -10848,7 +10848,7 @@ made a very handsome apology for apartheid when he appeared before the commissio
 
 he would have been had he spoken as openly and with as much passion as either one of his
 
-former cabinet colleagues, 'Pik' Botha, the longserving Foreign Minister, or Leon Wessels.
+former cabinet colleagues, 'Pik' Botha, the long-serving Foreign Minister, or Leon Wessels.
 
 He was incapable of seeing apartheid for what it was—intrinsically in and of itself evil. He
 
@@ -10894,7 +10894,7 @@ system. That surely is extraordinary when you look at the forces that were range
 
 side of apartheid, forces that were so potent in forming the attitudes, the entire mindset and
 
-world view of white people. Racism was allpervasive in South Africa long before formal
+world view of white people. Racism was all-pervasive in South Africa long before formal
 
 apartheid—it was only fine-tuned when the Nationalists came to power in 1948. We have
 
@@ -11068,7 +11068,7 @@ many warnings that were being given at the time, perhaps the United Nations migh
 
 had the resources to intervene and the genocide might very well not have happened. The
 
-Rwandese felt a deep anger against the UN. The victims and survivors felt they had been let
+Rwandan felt a deep anger against the UN. The victims and survivors felt they had been let
 
 down very badly, with disastrous consequences.) I said that the history of Rwanda was
 
@@ -11526,7 +11526,7 @@ preach at an Anglican church on the West Bank, speak to a group in Jerusalem, an
 
 meeting in Tel Aviv of the Peres Peace Center, on whose board of directors I serve. But I
 
-need not have worried. Our hosts at the meeting in Jersualem had to turn people away. It
+need not have worried. Our hosts at the meeting in Jerusalem had to turn people away. It
 
 was clear everywhere we went that what had occurred in South Africa fascinated people
 
@@ -12286,7 +12286,7 @@ Publishing Group, 1999).
 
 Sister Margaret Magdalen of the Community of St. Mary the Virgin, an Anglican nun from the
 
-United Kingdom who now Slives in South Africa, used telling imagery when she described how
+United Kingdom who now Lives in South Africa, used telling imagery when she described how
 
 Jesus coped with all the pain and anguish he encountered in his ministry. She described it in terms
 

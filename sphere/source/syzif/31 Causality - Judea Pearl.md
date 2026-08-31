@@ -1061,7 +1061,7 @@ In order to complete this brief introduction, we must discuss the notion of prob
 information that permits us to compute the probability of every well-formed sentence S
 in accordance with the axioms of (1.1)–(1.3). Starting with a set of atomic propositions
 A, B, C,…, the set of well-formed sentences consists of all Boolean formulas involving
-The traditional method of specithese propositions, for example,
+The traditional method of specify propositions, for example,
 fying probabilistic models employs a joint distribution function, which is a function that
 assigns nonnegative weights to every elementary event in the language (an elementary
 event being a conjunction in which every atomic proposition or its negation appears once)
@@ -1199,7 +1199,7 @@ facts reside in the knowledge base.
 
 Imagine being awakened one night by the shrill sound of your bur-
 Example 1.1.1
-glar alarm. What is your degree of belief that a burglary attempt has taken place? For
+burglar alarm. What is your degree of belief that a burglary attempt has taken place? For
 
 2 In epidemiology, if H stands for exposure and e stands for disease, then the likelihood ratio L is
 called the "risk ratio" (Rothman and Greenland 1998, p. 50). Equation (1.18) would then give the
@@ -1261,7 +1261,7 @@ a mapping from the sample space (e.g., the set of elementary events) to the real
 may not be ordered.
 
 as generic symbols for specific values taken by the corresponding variables. For example, if X stands for the color of an object, then x will designate any possible choice of an
-. Clearly, the proposition X yellow deelement from the set
+. Clearly, the proposition X yellow element from the set
 yellow, green, red,…
 scribes an event, namely, a subset of possible states of affair that satisfy the proposition
 "the color of the object is yellow." Likewise, each variable X can be viewed as a partition of the states of the world, since the statement X x defines a set of exhaustive and
@@ -1317,7 +1317,7 @@ g(x)P(x).
 
 (1.23)
 
-In particular, the function g(X) (X – E(X))2 has received much attention; its expecs2
+In particular, the function g(X) (X – E(X))2 has received much attention; its expectation2
 X;
 tation is called the variance of X, denoted
 
@@ -1353,7 +1353,7 @@ and which is often normalized to yield the correlation coefficient
 rXY
 
 sXY
-sXsY
+sXY
 
 and the regression coefficient (of X on Y)
 
@@ -1904,7 +1904,7 @@ S
 
 S
 
-.3 Graphs illustrating d-separation. In (a), X and Y are d-separated given Z2 and dconnected given Z1. In (b), X and Y cannot be d-separated by any set of nodes.
+.3 Graphs illustrating d-separation. In (a), X and Y are d-separated given Z2 and d-connected given Z1. In (b), X and Y cannot be d-separated by any set of nodes.
 
 is
 .3(a), the two paths between X and Y are blocked when none of
@@ -2540,7 +2540,7 @@ The two equations are considered to be "autonomous" relative to the dynamics of
 changes in the sense that external changes affecting one equation do not imply changes
 to the others. For example, if government decides on price control and sets the price P
 at p0, then (1.43) will be modified to read p p0 but the relationships in (1.42) will
-d1i u1. We thus see that b1, the "demand elasticremain intact, yielding q = b1 p0
+d1i u1. We thus see that b1, the "demand elasticity intact, yielding q = b1 p0
 ity," should be interpreted as the rate of change of Q per unit controlled change in P.
 This is different, of course, from the rate of change of Q per unit observed change in
 P (under uncontrolled conditions), which, besides b1, is also affected by the parameters of (1.43) (see Section 7.2.1, equation (7.14)). The difference between controlled and
@@ -2743,9 +2743,9 @@ terms of functional relationships in structural equations (as in Theorem 1.4.1).
 fi6
 
 of the error distributions P(ui). Thus, we need not specify in advance the functional
-ƒ pai), all probor the distributions P(ui); once we measure (or estimate) P(xi
+ƒ pai), all probabilistic the distributions P(ui); once we measure (or estimate) P(xi
 form of
-abilistic properties of a Markovian causal model are determined, regardless of the mechanism that actually generates those conditional probabilities. Druzdzel and Simon
+probabilistic properties of a Markovian causal model are determined, regardless of the mechanism that actually generates those conditional probabilities. Druzdzel and Simon
 (1993) showed that, for every Bayesian network G characterized by a distribution P (as in
 (1.33)), there exists a functional model (as in (1.40)) that generates a distribution identical
 to P.18 It follows that in all probabilistic applications of Bayesian networks – including statistical estimation, prediction, and diagnosis – we can use an equivalent functional
@@ -2898,7 +2898,7 @@ Qof surviving subjects in the nontreatment group who will die if
 equals the percentage
 given treatment.23 Whereas Q is hypothetical,
 
-QHaving sketched the empirical interpretation of counterfactuals, our next step in this
+Having sketched the empirical interpretation of counterfactuals, our next step in this
 introductory chapter is the question of representation: What knowledge is required to answer questions about counterfactuals? And how should this knowledge be formulated so
 that counterfactual queries can be answered quickly and reliably? That such representation
 exists is evident by the swiftness and consistency with which people distinguish plausible from implausible counterfactual statements. Most people would agree that President
@@ -3019,7 +3019,7 @@ potential response of an individual to treatment and no treatment, respectively.
 variables play a role similar to the functions fi(pai, ui) in our model; they represent the deterministic assumption that every individual possesses a definite response to treatment, regardless of
 whether that treatment was realized.
 
-. Second, to simulate the hypothetical condition "had he or she not been treatu2
+. Second, to simulate the hypothetical condition "had he or she not been treated2
 ed," we substituted x 0 into (1.48) while ignoring the first equation x u1. Finally,
 1) and obtained y 0, from which we
 we solved (1.48) for y (assuming x 0 and u2
@@ -3410,8 +3410,8 @@ is a set of observed variables.
 where D is a causal structure over V and where
 
 Definition 2.3.3 (Structure Preference)
-LD, OOne latent structure
-if and only if Dcan mimic D over O – that is, if and only if for every
+LD, One latent structure
+if and only if Can mimic D over O – that is, if and only if for every
 
 is preferred to another
 
@@ -3430,7 +3430,7 @@ which we do not discuss in this chapter.
 P(u) P(o(u)) (where o(u) is the cell of O corresponding to state u), and letting each observed
 variable Oi take on its corresponding value in o(u).
 
-®Dwritten
+®D
 
 such that
 LL,
@@ -3451,7 +3451,7 @@ expressive power of a structure, not by its syntactic description. For example, 
 L2 can accommodate a richer set of probability distributions over the observables. One
 reason scientists prefer simpler theories is that such theories are more constraining and
 thus more falsifiable; they provide the scientist with less opportunities to overfit the data
-"hindsightedly" and therefore command greater credibility if a fit is found (Popper 1959;
+"hindsight" and therefore command greater credibility if a fit is found (Popper 1959;
 Pearl 1978; Blumer et al. 1987).
 
 We also note that the set of independencies entailed by a causal structure imposes limits on its expressive power, that is, its power to mimic other structures. Indeed, L1 cannot
@@ -3473,7 +3473,7 @@ whenever
 
 LL.
 
-L LDefinition 2.3.5 (Consistency)
+L Definition 2.3.5 (Consistency)
 A latent structure
 commodate some model that generates – that is, if there exists a parameterization
 such that
@@ -3546,7 +3546,7 @@ reflects all observed independencies. For example, the structure of .1(c), unlik
 that of .1(a), accommodates distributions with arbitrary relations between a and
 b. Similarly, .1(d) is not minimal because it fails to impose the conditional independence between d and
 given c and will therefore accommodate distributions
-are dependent given c. In contrast, .1(e) is not consisin which d and
+are dependent given c. In contrast, .1(e) is not consistent which d and
 tent with the data, since it imposes an unobserved marginal independence between
 a, b
 and d.
@@ -3698,7 +3698,7 @@ g
 To further illustrate the relations between stability and minimality, consider the causal
 structure depicted in .1(c). The minimality principle rejects this structure on the
 ground that it fits a broader set of distributions than those fitted by structure (a). The
-stability principle rejects this structure on the ground that, in order to fit the data (specifmust
+stability principle rejects this structure on the ground that, in order to fit the data (specifically
 ically, the independence
 cancel precisely the one produced by the path
 Such precise cancelation cannot be stable, for it cannot be sustained for all functions connecting variables a, b, and
@@ -3906,7 +3906,7 @@ D[O], Ois a projection of another latent structure L if and
 every unobservable variable of D[O] is a parentless common cause of exactly two
 nonadjacent observable variables; and
 for every stable distribution P generated by L, there exists a stable distribution
-Pgenerated by L[O] such that I (P[O]) I (P[O]).
+P generated by L[O] such that I (P[O]) I (P[O]).
 
 Theorem 2.6.2 (Verma 1993)
 Any latent structure has at least one projection.
@@ -3917,7 +3917,7 @@ the link's endpoints.
 
 Theorem 2.6.2 renders our definition of inferred causation (Definition 2.3.6) operational; it can be shown (Verma 1993) that the existence of a certain link in a distinguished
 projection of any minimal model of must indicate the existence of a causal path in
-every minimal model of Thus, our search reduces to finding the distinguished projecand identifying the appropriate links. Remarkably, these
+every minimal model of Thus, our search reduces to finding the distinguished projection identifying the appropriate links. Remarkably, these
 tion of any minimal model of
 links can be identified by a simple variant of the IC algorithm, here called IC*, that takes
 Pˆ
@@ -3944,7 +3944,7 @@ ing model;
 
 a *¡ b
 
-, signifying a directed path from a to b in the underlyan unmarked arrow
+, signifying a directed path from a to b in the underlying unmarked arrow
 latent common cause
 
 a S b,
@@ -4290,7 +4290,7 @@ that control with spurious associations (with a).
 
 2.8 NONTEMPORAL CAUSATION AND STATISTICAL TIME
 
-Determining the direction of causal influences from nontemporal data raises some interesting philosophical questions about the relationships between time and causal explanain Definitions 2.7.2
+Determining the direction of causal influences from nontemporal data raises some interesting philosophical questions about the relationships between time and causal explanations Definitions 2.7.2
 tions. For example, can the orientation assigned to the arrow
 
 X S Y
@@ -4381,7 +4381,7 @@ In most natural phenomenon, the physical time coincides with at least one statis
 time.
 
 Reichenbach (1956) attributed the asymmetry associated with his conjunctive fork to the
-second law of thermodynamics. It is doubtful that the second law can provide a full acjt
+second law of thermodynamics. It is doubtful that the second law can provide a full account
 count of the temporal bias just described, since the influence of the external noise
 renders the process in (2.3) nonconservative.13 Moreover, the temporal bias is
 and
@@ -4635,7 +4635,7 @@ that is, when the system is autonomous and hence stable.
 Postscript for the Second Edition
 
 Work on causal discovery has been pursued vigorously by the TETRAD group at
-Carengie Mellon University and reported in Spirtes et al. (2000), Robins et al. (2003),
+Carnegie Mellon University and reported in Spirtes et al. (2000), Robins et al. (2003),
 Scheines (2002), and Moneta and Spirtes (2006). Spirtes, Glymour, Scheines, and
 Tillman (2010) summarize the current state of the art in causal discovery.
 
@@ -4956,7 +4956,7 @@ xˆi
 
 Definition 3.2.1 (Causal Effect)
 Given two disjoint sets of variables, X and Y, the causal effect of X on Y, denoted either
-) or as P( y ƒ do(x)), is a function from X to the space of probability distribuas P( y ƒ
+) or as P( y ƒ do(x)), is a function from X to the space of probability distributions P( y ƒ
 xˆ
 ) gives the probability of Y y induced
 tions on Y. For each realization x of X, P( y ƒ
@@ -5152,7 +5152,7 @@ and Pearl (1992) and Pearl (1993b).
 Multiplying and dividing (3.10) by P(xi
 tion distribution becomes more transparent:
 
-ƒ pai), the relationship to the preinterven-
+ƒ pai), the relationship to the preintervention-
 
 P(x1, p , xn xˆi) •
 
@@ -5215,7 +5215,7 @@ i, pai, xP(si)
 .
 
 Here Si denotes the set of all variables excluding
-. This select set of massreceiving points can be regarded as "closest" to the point excluded by virtue of sharing
+. This select set of mass-receiving points can be regarded as "closest" to the point excluded by virtue of sharing
 the same history, as summarized by pai (see Sections 4.1.3 and 7.4.3).
 
 PAi
@@ -5473,7 +5473,7 @@ xk),
 which can also be obtained from (3.14).
 
 The planning problem illustrated by this example is typical of Markov decision processes (MDPs) (Howard 1960; Dean and Wellman 1991; Bertsekas and Tsitsiklis 1996),
-xk), given the curwhere the target of analysis is finding the best next action do(Xk
+xk), given the current the target of analysis is finding the best next action do(Xk
 rent state Zk and past actions. In MDPs, we are normally given the transition functions
 xˆ
 k) and the cost function to be minimized. In the problem we have just ana-
@@ -6169,7 +6169,7 @@ ing all back-door paths from Z to Y (in
 
 Rule 2 provides a condition for an external intervention do(Z z) to have the same
 X W
-blockretains all (and only) such paths.
+block retains all (and only) such paths.
 ), since
 Rule 3 provides conditions for introducing (or deleting) an external intervention
 do(Z z) without affecting the probability of Y y. The validity of this rule stems, again,
@@ -6363,7 +6363,7 @@ finally yields
 
 z
 
-xwhich is identical to the front-door formula of (3.28).
+x which is identical to the front-door formula of (3.28).
 
 P(y x, z) P(x),
 
@@ -7194,7 +7194,7 @@ Each parent–child family (PAi, Xi) in a causal diagram G corresponds to an equ
 in the model M of (3.50). Hence, missing arrows encode exclusion assumptions, that is,
 claims that adding excluded variables to an equation will not change the outcome of the
 hypothetical experiment described by that equation. Missing dashed arcs encode independencies among disturbance terms in two or more equations. For example, the absence
-implies that the correof dashed arcs between a node Y and a set of nodes
+implies that the corresponding dashed arcs between a node Y and a set of nodes
 , . . . ,
 sponding background variables, UY and
 
@@ -7267,7 +7267,7 @@ Y(z) Y(z, x);
 (3.60)
 
 the absence of a dashed arc between Z and
-striction
+restriction
 
 Y, X
 
@@ -7410,7 +7410,7 @@ paralleling (3.54). Likewise, in the special structure of .3, (3.63) reduces to 
 To place this result in the context of our analysis in this chapter, we need to focus attention on condition (3.62), which facilitated Robins's derivation of (3.63), and ask whether
 this formal counterfactual independency can be given a meaningful graphical interpretation.
 The answer will be given in Chapter 4 (Theorem 4.4.1), where we derive a graphical
-condition for identifying the effect of a plan, i.e., a sequential set of actions. The condiis identifiable and is given by (3.63) if every actiontion reads as follows:
+condition for identifying the effect of a plan, i.e., a sequential set of actions. The condiis identifiable and is given by (3.63) if every action reads as follows:
 avoiding back-door path from Xk to Y is blocked by some subset Lk of nondescendants
 of Xk. (By "action-avoiding" we mean a path containing no arrow entering an X variable
 later than Xk.) Chapter 11 (Section 11.4.2) shows by examples that this "sequential backdoor" criterion is more general than that given in (3.62).
@@ -7444,7 +7444,7 @@ relationship P(xi
 everything began to fall into place: we finally had a mathematical object to which we
 could attribute familiar properties of physical mechanisms instead of those slippery epi-
 ƒ pai) with which we had been working so long in the study of
-stemic probabilities P(xi
+systemic probabilities P(xi
 Bayesian networks. Danny Geiger, who was writing his dissertation at that time, asked
 with astonishment: "Deterministic equations? Truly deterministic?" Although we knew
 that deterministic structural equations have a long history in econometrics, we viewed
@@ -7828,7 +7828,7 @@ The difficulties associated with making the closest-world approach conform to ca
 laws (Section 7.4) are circumvented in the structural approach pursued in this book by
 basing the notion of interventions directly on causal mechanisms and by capitalizing on
 the properties of invariance and autonomy that accompany these mechanisms. This
-mechanism-modification approach can be viewed as a special instance of the closestworld approach, where the closeness measure is crafted so as to respect the causal
+mechanism-modification approach can be viewed as a special instance of the closest approach, where the closeness measure is crafted so as to respect the causal
 mechanisms in the domain; the selection function S*(s) that ensues is represented in
 (3.11) (see discussion that follows).
 
@@ -7937,7 +7937,7 @@ of one variable on another, P(y ƒ do(x)), is identifiable in the presence of un
 variables. These criteria, like the back-door (Theorem 3.3.2) and front-door (Theorem
 3.3.4), are special cases of a more general class of semi-Markovian models for which
 repeated application of the inference rules of do-calculus (Theorem 3.4.1) will reduce
-to a hat-free expression, thus rendering it identifiable. In this section we characis identifiable. This class
+to a hat-free expression, thus rendering it identifiable. In this section we characterize identifiable. This class
 terize a wider class of models in which the causal effect
 is subsumed by the one established by Tian and Pearl (2002a) in Theorem 3.7 and the
 complete characterization given later in Shpitser and Pearl (2006b). It is brought here for
@@ -7945,7 +7945,7 @@ its intuitive appeal.
 
 4.3.1 Graphical Conditions for Identification
 
-Theorem 4.3.1 characterizes a class of models in the form of four graphical condiwhen X and Y are
+Theorem 4.3.1 characterizes a class of models in the form of four graphical conditions X and Y are
 tions, any one of which is sufficient for the identification of
 singleton nodes in the graph. Theorem 4.3.2 then states that at least one of these four
 conditions must hold in the model for
@@ -8028,11 +8028,11 @@ path from X to Z1 or from Z1 to Y.)
 Proof
 
 Condition 1. This condition follows directly from Rule 2 (see Theorem 3.4.1). If
-to P (y ƒ x), so the query is identhen we can immediately change
+to P (y ƒ x), so the query is identifiable we can immediately change
 
 (YX)GX
 ,
-tifiable.
+identifiable.
 
 Condition 2. If there is no directed path from X to Y in G, then
 
@@ -8522,7 +8522,7 @@ P(y z, x1, x2)P(z x1)x2
 
 g(x1, z).
 
-Again, the identifiability of this conditional plan rests on the identifiability of the exblocks all
+Again, the identifiability of this conditional plan rests on the identifiability of the excludes all
 pression
 back-door paths between X2 and Y. (See also Section 11.4.1.)
 
@@ -8560,7 +8560,7 @@ X the set of control variables (exposures, interventions, treatments, etc.);
 Z the set of observed variables, often called covariates;
 U the set of unobserved (latent) variables; and
 Y an outcome variable.
-We let the control variables be ordered X X1, X2,…, Xn such that every Xk is a nonin G, and we let the outcome Y be a descendant of Xn. Let Nk
+We let the control variables be ordered X X1, X2,…, Xn such that every Xk is a noninfluential G, and we let the outcome Y be a descendant of Xn. Let Nk
 descendant of Xk j
 Xk,
 stand for the set of observed nodes that are nondescendants of any element in the set
@@ -8592,7 +8592,7 @@ xˆ1, xˆ2, p , xˆn)
 
 P(y xˆ1, xˆ2, p , xˆn),
 on the outcome variable Y. The
-is said to be identifiable in G if, for every assignthe expression can be determined uniquely from the joint distri-
+is said to be identifiable in G if, for every assignment expression can be determined uniquely from the joint distri-
 P(y (xˆ1, p , xˆn)
 
 . A control problem is identifiable whenever
@@ -9106,7 +9106,7 @@ have on hiring by way of applicant qualification.
 
 In all these examples, the requirement of holding the mediating variables fixed must
 be interpreted as (hypothetically) setting these variables to constants by physical intervention, not by conditioning, or adjustment (a misguided habit that dates bach to Fisher
-1935). For example, it will not be sufficient to measure the association between the birthcontrol pill and thrombosis separately among pregnant and nonpregnant women and then
+1935). For example, it will not be sufficient to measure the association between the birth control pill and thrombosis separately among pregnant and nonpregnant women and then
 aggregate the results. Instead, we must perform the study among women who became
 pregnant before the use of the pill and among women who prevented pregnancy by means
 other than the drug. The reason is that, by conditioning on an intermediate variable
@@ -9133,7 +9133,7 @@ nous variables except X and Y in the system.
 
 P(y xˆ, sˆXY),
 
-where SXY is the set of all endoge-
+where SXY is the set of all endogenous-
 
 We see that the measurement of direct effects is ascribed to an ideal laboratory; the scientist controls for all possible conditions SXY and need not be aware of the structure of the
 diagram or of which variables are truly intermediaries between X and Y. Much of the experimental control can be eliminated, however, if we know the structure of the diagram.
@@ -9341,7 +9341,7 @@ the increase in admission rate in a hypothetical experiment in which we instruct
 female candidates to retain their department preferences but change their gender identification (on the application form) from female to male.
 
 Conceptually, we can define the average direct effect DEx, x(Y) as the expected
-change in Y induced by changing X from x to xwhile keeping all mediating factors constant at whatever value they would have obtained under do(x). This hypothetical change,
+change in Y induced by changing X from x to x while keeping all mediating factors constant at whatever value they would have obtained under do(x). This hypothetical change,
 which Robins and Greenland (1991) called "pure" and Pearl (2001c) called "natural," is
 precisely what lawmakers instruct us to consider in race or sex discrimination cases:
 "The central question in any employment-discrimination case is whether the employer
@@ -9507,7 +9507,7 @@ with cycles and correlated errors as well (Section 5.2). The application of this
 to model testing is discussed in Section 5.2.2, which advocates local over global testing
 
 strategies. Section 5.2.3 provides simple graphical tests of model equivalence and thus
-clarifies the nontestable part of structural models.
+clarifies the non-testable part of structural models.
 
 In Section 5.3 we deal with the issue of determining the identifiability of structural
 parameters prior to gathering any data. In Section 5.3.1, simple graphical tests of identifiability are developed for linear Markovian and semi-Markovian models (i.e., acyclic
@@ -9819,7 +9819,7 @@ Vytlacil 2007; see Section 11.5.4), will be discussed in the following sections.
 5 This advice, which rests on the causal relationship "not affected by," is (to the best of my knowledge) the only causal notion that has found a place in statistics textbooks. The advice is neither
 necessary nor sufficient, as readers can verify from the discussion in Chapter 3.
 
-6 Simpson's reversal, as well as the supressor effect, are paradoxical only when we attach a causal
+6 Simpson's reversal, as well as the suppressor effect, are paradoxical only when we attach a causal
 
 reading to the associations involved; see Section 6.1.
 
@@ -10448,7 +10448,7 @@ rYX;
 
 is identified. Such entailment can be es-
 Z in the subgraph. .6 illustrates this simple test for identification: all paths
-can imhence,
+can hence,
 we know that IYX
 tablished graphically by testing whether X is d-separated from Y (by the empty set
 between X and Y in the subgraph
@@ -10476,8 +10476,8 @@ rYX# Z
 IYX# Z,
 
 where IYX.Z represents the partial correlation between X and Y resulting from setting
-to zero, that is, the partial correlation in a model whose graph Glacks the edge
-then IYX.Z would inbut is otherwise identical to G. If Z d-separates X from Y in
+to zero, that is, the partial correlation in a model whose graph Lacks the edge
+then IYX.Z would but is otherwise identical to G. If Z d-separates X from Y in
 is
 deed be zero in such a model, and so we can conclude that, in our original model,
 identified and is equal to rYX.Z. Moreover, since rYX.Z is given by the coefficient of x in
@@ -10499,7 +10499,7 @@ Gand let
 ficient
 
 X S Y,
-is deleted from G. The coefis identifiable if there exists a set of variables Z such that (i) Z contains no
+is deleted from G. The coefficient identifiable if there exists a set of variables Z such that (i) Z contains no
 
 is the path coefficient associated with link
 
@@ -10785,7 +10785,7 @@ d
 is nonzero. Since we are not interested in identifiability at a point but
 
 rather in identifiability "almost everywhere" (Koopmans et al. 1950; Simon 1953),
-we need not compute this determinant. We merely inspect the symbolic form of the determinant's rows to make sure that the equations are nonredundant; each imposes a new
+we need not compute this determinant. We merely inspect the symbolic form of the determinant rows to make sure that the equations are nonredundant; each imposes a new
 constraint on the unlabeled coefficients for at least one value of the labeled coefficients.
 With a facility to detect redundancies, we can increase the power of our procedure by
 
@@ -10963,7 +10963,7 @@ and
 5.3.3 Causal Effects: The Interventional Interpretation of Structural
 Equation Models
 
-Millustrate precisely where the structural read-
+Illustrate precisely where the structural read-
 The differences between models M and
 ing of simultaneous equation models comes into play, and why even causally shy researchers consider structural parameters more "meaningful" than covariances and other
 statistical parameters. Model
@@ -11039,7 +11039,7 @@ x u e1,
 that they encode not only the initial equilibrium state but also the information necessary
 for determining which equations must be violated in order to account for a new state of
 equilibrium. For example, if the intervention consists merely of holding X constant at
-which represents the preintervention process determinx, then the equation
+which represents the preintervention process determinant, then the equation
 ing X, should be overruled and replaced with the equation X x. The solution to the
 new set of equations then represents the new equilibrium. Thus, the essential characteristic of structural equations that sets them apart from ordinary mathematical equations is
 that the former stand not for one but for many sets of equations, each corresponding to
@@ -11306,7 +11306,7 @@ are spelled out in Theorem 5.3.1.
 
 It is important nevertheless to compare the definition of (5.24) with theories that acknowledge the invariant character of but have difficulties explicating which changes
 is
-invariant to. Cartwright (1989, p. 194), for example, characterizes as an invariant of naremains constant under change
+invariant to. Cartwright (1989, p. 194), for example, characterizes as an invariant of remains constant under change
 ture that she calls "capacity." She states correctly that
 E(X2)]
 [E(YX)
@@ -11319,9 +11319,9 @@ xe.
 
 In other words, plotting the value of Y under various hypothetical controls of X,
 the value
-Such deand under the same external conditions
+Such deterministic under the same external conditions
 terministic dynamic claims concerning system behavior under successive control conditions can be
-representing external conditions or properties of experitested only under the assumption that
+representing external conditions or properties of experiments only under the assumption that
 mental units, remains unaltered as we switch from x to
 Such counterfactual claims constitute the
 empirical content of every scientific law (see Section 7.2.2).
@@ -11340,7 +11340,7 @@ cov(X, e) 0
 
 specific equations in the system) and not to general changes in the statistics of the variables. If we start with
 and the variance of X changes because we (or
-Nature) locally modify the process that generates X, then Cartwright is correct; the rawill remain constant. However, if the variance of X changes for
+Nature) locally modify the process that generates X, then Cartwright is correct; the will remain constant. However, if the variance of X changes for
 tio
 any other reason – say, because we observed some evidence Z z that depends on both
 X and Y or because the process generating X becomes dependent on a wider set of variables – then that ratio will not remain constant.
@@ -11468,7 +11468,7 @@ observed variables in the system except X and Y.
 In linear analysis, Definitions 5.4.2 and 5.4.3 yield, after differentiation with respect to
 x, the familiar path coefficients in terms of which direct and indirect effects are usually
 defined. Yet they differ from conventional definitions in several important aspects. First,
-direct effects are defined in terms of hypothetical experiments in which intermediate variables are held constant by physical intenvention, not by statistical adjustment (which is
+direct effects are defined in terms of hypothetical experiments in which intermediate variables are held constant by physical intervention, not by statistical adjustment (which is
 often disguised under the misleading phrase "control for"). .10 depicts a simple
 example where adjusting for the intermediate variables (Z and W) would not give the
 correct value of zero for the direct effect of X on Y, whereas E(Y ƒ do(x, z, w)) does
@@ -11484,7 +11484,7 @@ knowing the structure of the diagram. Finally, our definitions differ from conve
 interpreting total and direct effects independently of each other, as outcomes of two different experiments. Textbook definitions (e.g., Bollen 1989, p. 376; Mueller 1996, p. 141;
 Kline 1998, p. 175) usually equate the total effect with a power series of path coefficient
 matrices. This algebraic definition coincides with the operational definition (Definition
-5.4.2) in recursive (semi-Markovian) systems, but it yields erroneous expressions in mody x e, x y d
+5.4.2) in recursive (semi-Markovian) systems, but it yields erroneous expressions in models x e, x y d
 els with feedback. For instance, given the pair of equations
 ,
 the total effect of X on Y is simply , not
@@ -11537,7 +11537,7 @@ would follow as special cases. Thus, what we call "exogeneity" corresponds to wh
 Engle et al. called "superexogeneity," a notion that captures the structural invariance of
 certain relationships under policy intervention.
 
-19 Similiar opinions have also been communicated by John Aldrich and James Heckman. See also
+19 Similar opinions have also been communicated by John Aldrich and James Heckman. See also
 
 Aldrich (1993).
 
@@ -11778,7 +11778,7 @@ l P(y0
 
 x0),
 
-then the marl1
+then the marginal1
 
 P(x0, y0) P(x0, y1) and l2
 
@@ -12017,7 +12017,7 @@ Collapsibility
 He who confronts the paradoxical
 exposes himself to reality.
 
-Friedrick Durrenmatt (1962)
+Friedrich Durrenmatt (1962)
 
 Confounding represents one of the most fundamental impediments to the elucidation of
 causal inferences from empirical data. As a result, the consideration of confounding
@@ -12210,7 +12210,7 @@ correct answer.
 
 In the tradition of Bayesian decision theory, they first shifted attention to the practical
 side of the phenomenon and boldly asked: A new patient comes in; do we use the drug
-or do we not? Equivalently: Which table do we consult, the combined or the genderspecific? "The apparent answer is," confesses Novick (1983, p. 45), "that when we know
+or do we not? Equivalently: Which table do we consult, the combined or the gender-specific? "The apparent answer is," confesses Novick (1983, p. 45), "that when we know
 that the gender of the patient is male or when we know that it is female we do not use
 the treatment, but if the gender is unknown we should use the treatment! Obviously that
 conclusion is ridiculous." Lindley and Novick then go through lengthy informal discussion, concluding (as we did in Section 6.1.1) that we should consult the gender-specific
@@ -12288,7 +12288,7 @@ under study (assuming hypothetically that treatment and effect can be replicated
 the next patient is of unknown gender and identity); a randomly selected sample from a
 population is not "exchangeable" with that population if we subject the sample to new
 experimental conditions. Alteration of causal mechanisms must be considered in order to
-determine whether exchangability holds under the new circumstances. And once causal
+determine whether exchangeability holds under the new circumstances. And once causal
 mechanisms are considered, separate judgment of exchangeability is not needed.
 
 But why did Lindley and Novick choose to speak so elliptically (via exchangeability) when they could have articulated their ideas directly by talking openly about causal
@@ -12410,7 +12410,7 @@ in our intuitive logic has been that drugs do not influence gender. This explain
 intuition changes so drastically when F is interpreted as an intermediate event affected
 by the drug, as in .2(b). In this case, our intuitive logic tells us that it is perfectly
 consistent to find a drug satisfying the three inequalities of (6.4)–(6.6) and, moreover,
-that it would be inappropriate to adjust for F. If F is affected by the C, then (6.8) canmay be positive or
+that it would be inappropriate to adjust for F. If F is affected by the C, then (6.8) can may be positive or
 not be derived, and the difference
 P(F do ( ¬ C)).
 negative, depending on the relative magnitudes of P (F ƒ do (C)) and
@@ -12752,7 +12752,7 @@ rYX
 Thus, whenever the equality
 
 r g
-holds, the regression cowhere cov
+holds, the regression where cov
 ,
 is an unbiased estimate of meaning that the effect of
 efficient of
@@ -12928,7 +12928,7 @@ in D.
 
 The "if" part follows from the validity of the back-door criterion (Theorem 3.3.2). The
 "only if" part requires the construction of a specific model in which (6.10) is violated
-whenever X and Y have a common ancestor in D. This is easily done using linear modn
+whenever X and Y have a common ancestor in D. This is easily done using linear models
 els and Wright's rules for path coefficients.
 
 Theorem 6.4.3 provides a necessary and sufficient condition for stable no-confounding
@@ -13020,7 +13020,7 @@ probability function P(x).
 The logical connection between confounding and collapsibility is formed through the
 notion of stable no-confounding, as formulated in Definition 6.4.2 and Theorem 6.4.4.
 Because any violation of collapsibility means violation of (U1) and (U2) in Definition
-6.2.2, it also implies (by Theorem 6.4.4) violation of stable unbiasedness (or stable noconfounding). Thus we can state the following corollary.
+6.2.2, it also implies (by Theorem 6.4.4) violation of stable unbiasedness (or stable no-confounding). Thus we can state the following corollary.
 
 Corollary 6.5.2 (Stable No-Confounding Implies Collapsibility)
 Let Z be any variable that is not affected by X and that may possibly affect Y. Let g [P (x, y)]
@@ -13085,7 +13085,7 @@ E, Z
 
 The practical ramifications of this condition are as follows. If we are given a set S of
 variables that is claimed to be sufficient (for removing bias by adjustment), then that
-claim can be given a necessary statistical test: S as a compound variable must be assoand
+claim can be given a necessary statistical test: S as a compound variable must be associated
 ciated both with X and with Y (given X). In .5, for example, S1
 S2
 
@@ -13191,7 +13191,7 @@ for group B. In actuality, we measure the pair
 after the hypothetical swap,
 we would measure
 We define the groups to be exchangeable relative to pam
-rameter
+parameter
 
 if the two pairs are indistinguishable, that is, if
 
@@ -13265,7 +13265,7 @@ question we wish to discuss here is methodological: What formalism would be appr
 makes a general claim about all instances, one counterexample would suffice to refute
 its general validity. But how do we construct such a counterexample? More generally,
 how do we construct examples that embody properties of confounding, effect bias, causal
-effects, experimental versus nonexperimental data, counterfactuals, and other causalitybased concepts?
+effects, experimental versus nonexperimental data, counterfactuals, and other causality-based concepts?
 
 In probability theory, if we wish to refute a general statement about parameters and
 their relationship we need only present one density function f for which that relationship fails to hold. In propositional logic, in order to show that a sentence is false, we need
@@ -13664,7 +13664,7 @@ P(u).
 (7.3)
 
 Likewise, a causal model defines a joint distribution on counterfactual statements.
-z) is defined for any (not necessarily disjoint) sets of variare well
+z) is defined for any (not necessarily disjoint) sets of variables well
 and
 
 y, X x)
@@ -13707,7 +13707,7 @@ Of particular interest to us would be probabilities of counterfactuals that are 
 cause" of event Y y may be interpreted as the probability that Y would not be equal
 to y had X not been x, given that X x and Y y have in fact occurred (see Chapter 9 for an in-depth discussion of the probabilities of causation). Such probabilities are
 well defined in the model just described; they require the evaluation of expressions of
-with xand yincompatible with x and y, rethe form
+with xand yincompatible with x and y, the form
 spectively. Equation (7.4) allows the evaluation of this quantity as follows:
 
 P(YxyX x, Y y),
@@ -13950,7 +13950,7 @@ stands for the value of D in submodel
 
 We are now ready to evaluate the counterfactual sentence S5. Following Definition 7.1.5,
 M¬A
-. This value is ambiguthe counterfactual
+. This value is ambiguity counterfactual
 M¬A
 ous because it depends on the value of U, which is not specified in
 . The observation
@@ -14029,7 +14029,7 @@ Conclusions: U, ¬ A, C, B, D
 Note that it is only the value of U, the background variable, that is carried over from
 step 1 to step 2; all other propositions must be reevaluated subject to the new modification
 of the model. This reflects the understanding that background factors U are not affected
-; hence, the counterfactual conby either the variables or the mechanisms in the model
+; hence, the counterfactual confounded either the variables or the mechanisms in the model
 sequent (in our case, D) must be evaluated under the same background conditions as those
 prevailing in the actual world. In fact, the background variables are the main carriers of
 information from the actual world to the hypothetical world; they serve as the "guardians
@@ -14301,7 +14301,7 @@ instructs us to compute P(y) in the submodel
 P(y* z)
 in an augmented Bayesian network. Such
 an ordinary conditional probability
-computation can be performed by standard evidence propagation techniques. The advantages of delegating this computation to inference in a Bayesian network are that the disneed not be explicated, conditional independencies can be exploited,
+computation can be performed by standard evidence propagation techniques. The advantages of delegating this computation to inference in a Bayesian network are that the distribution not be explicated, conditional independencies can be exploited,
 tribution
 and local computation methods can be employed (such as those summarized in Section
 1.2.4).
@@ -14376,7 +14376,7 @@ ZpaZ
 Y, Z
 and Yz Zx Y, Z
 must hold in the model. Additional considerations involving twin networks, including
-generalizations to multi-networks (representing counterfactuals under different anticedants)
+generalizations to multi-networks (representing counterfactuals under different antecedents)
 are reported in Shpitser and Pearl (2007). See Sections 11.3.2 and 11.7.3.
 
 7.2 APPLICATIONS AND INTERPRETATION OF STRUCTURAL
@@ -14563,7 +14563,7 @@ the third query (7.17).
 The current price p0 reflects economic conditions (e.g., Q) that prevail at the time of
 decision, and these conditions are presumed to be changeable by the policies considered.
 Thus, the price P represents an endogenous decision variable (as shown in .4)
-. The hypothat becomes exogenous in deliberation, as dictated by the submodel
+. The hypothesis becomes exogenous in deliberation, as dictated by the submodel
 thetical mood of query 3 translates into a practical problem of policy analysis: "Given
 that the current price is P p0, find the expected value of the demand (Q) if we change
 the price today to P p1." The reasons for using hypothetical phrases in practical
@@ -14595,7 +14595,7 @@ I0
 
 2. Counterfactual form: If at time t0 we measure current I0 and voltage V0 then, had
 
-Iinstead of I0, the voltage would have been
+Instead of I0, the voltage would have been
 
 the current flow at time t0 been
 V0 II0
@@ -14755,15 +14755,15 @@ However, the precise relationship between causes and explanations is still a top
 discussion (Cartwright 1989; Woodward 1997). Having a formal theory of causality and
 counterfactuals in both deterministic and probabilistic settings casts new light on the
 question of what constitutes an adequate explanation, and it opens new possibilities for
-automatic generation of explanations by machine (Halperm and Pearl 2005a,b).
+automatic generation of explanations by machine (Halpern and Pearl 2005a,b).
 
 A natural starting point for generating explanations would be to use a causal Bayesian
-network (Section 1.3) in which the events to be explained (explanadum) consist of some
+network (Section 1.3) in which the events to be explained (explanandum) consist of some
 combination e of instantiated nodes in the network, and where the task is to find an instantiation c of a subset of e's ancestors (i.e., causes) that maximizes some measure of
 "explanatory power," namely, the degree to which c explains e. However, the proper
 choice of this measure is unsettled. Many philosophers and statisticians argue for the
 L P(e c)
-as the proper measure of the degree to which c is a betlikelihood ratio
+as the proper measure of the degree to which c is a likelihood ratio
 P(e c)
 cter explanation of e than
 . In Pearl (1988b, chap. 5) and Peng and Reggia (1986),
@@ -14798,7 +14798,7 @@ factual probabilities
 range over the set of alternative explanations, and Y is the set of response varix and
 is read as: the
 ables observed to take on the value y. The expression
-yprobability that Y would take on a different value,
+probability that Y would take on a different value,
 , had X been
 (instead of the actual
 y).)
@@ -15121,7 +15121,7 @@ background, and each such choice would induce a different ordering on the remain
 variables. (Some would conflict with commonsense knowledge, e.g., that the captain's
 A S D d B
 signal influences the court's decision.) However, the directionality of
-would be maintained in all those orderings. The question of whether there exists a partiof the variables that would yield a causal ordering in a system of symmetric
+would be maintained in all those orderings. The question of whether there exists a part the variables that would yield a causal ordering in a system of symmetric
 tion
 constraints can also be solved (in polynomial time) by topological means (Dechter and
 Pearl 1991).
@@ -15306,7 +15306,7 @@ Yxw(u) Yw(u)
 
 X1, X2, p , Xk,
 
-stand for the inequalfor some values of x, w, and u. A model M is recursive if, for any
+stand for the inequality some values of x, w, and u. A model M is recursive if, for any
 
 X1
 
@@ -15648,7 +15648,7 @@ a given probability distribution and a given temporal ordering among the variabl
 Section 7.5.2). Here we aim at axiomatizing relevance statements in themselves – with
 no reference to underlying probabilities or temporal orderings.
 
-The axiomization of causal relevance may be useful to experimental researchers in
+The axiomatization of causal relevance may be useful to experimental researchers in
 domains where exact causal models do not exist. If we know, through experimentation,
 that some variables have no causal influence on others in a system, then we may wish
 to determine whether other variables will exert causal influence (perhaps under different
@@ -15776,7 +15776,7 @@ X(u) x, Y(u) y, Yx(u) yy
 
 be interpreted as the joint
 condition
-(in words, x and y hold, but changx5
+(in words, x and y hold, but changing5
 ing x to would change y to We can now prove that if X has no direct effect on Z,
 that is, if
 
@@ -16159,7 +16159,7 @@ over s, with the weight being the current probability function P(s).
 
 PA(s s)
 
-This characterization, however, is too permissive; although it requires any actionbased transformation to be describable in terms of transition probabilities, it also accepts
+This characterization, however, is too permissive; although it requires any action-based transformation to be describable in terms of transition probabilities, it also accepts
 any transition probability specification, howsoever whimsical, as a descriptor of some
 action. The valuable information that actions are defined as local surgeries is ignored in
 this characterization. For example, the transition probability associated with the atomic
@@ -16318,7 +16318,7 @@ concepts are causal influence, exogeneity, and instrumental variables (Section 5
 In clarifying the relationships among error-based, counterfactual, and graphical definitions of these concepts, we should first note that these three modes of description can be
 organized in a simple hierarchy. Since graph separation implies independence, but independence does not imply graph separation (Theorem 1.2.4), definitions based on graph
 separation should imply those based on error-term independence. Likewise, since for
-implies the counterfacany two variables X and Y the independence relation
+implies the counterfactual two variables X and Y the independence relation
 tual independence
 (but not the other way around), it follows that definitions based on error independence should imply those based on counterfactual independence. Overall, we have the following hierarchy:
 
@@ -16353,7 +16353,7 @@ bility" in Rosenbaum and Rubin (1983).26
 
 Yx X,
 
-named "weak ignora-
+named "weak ignorance-
 
 This definition is pragmatic in that it highlights the reasons economists should be concerned with exogeneity by explicating the policy-analytic benefits of discovering that a
 variable is exogenous. However, this definition fails to guide an investigator toward
@@ -16415,11 +16415,11 @@ It is not an instrument in (d) because it is correlated with W, which influences
 The counterfactual definition29 replaces condition (i) with ( ): Z is independent of
 Yx. The graphical definition replaces condition (i) with (i): every unblocked path con-
 (Z Y)GX
-necting Z and Y must contain an arrow pointing into X (alternatively,
+connecting Z and Y must contain an arrow pointing into X (alternatively,
 ).
 .8 illustrates this definition through examples.
 
-iWhen a set S of covariates is measured, these definitions generalize as follows.
+when a set S of covariates is measured, these definitions generalize as follows.
 
 Definition 7.4.1 (Instrument)
 A variable Z is an instrument relative to the total effect of X on Y if there exists a set
@@ -16454,7 +16454,7 @@ independence.
 29 There is, in fact, no agreed-upon generalization of instrumental variables to nonlinear systems.
 The definition here, taken from Galles and Pearl (1998), follows by translating the error-based definition into counterfactual vocabulary. Angrist et al. (1996), who expressly rejected all reference to
 graphs or error terms, assumed two unnecessary restrictions: that Z be ignorable (i.e., randomized; this is violated in Figures 7.8(b) and (c)) and that Z affect X (violated in .8(c)).
-Similar assumptions were made by Heckman and Vytlacil (1999), who used both counterfactuals and structural equation models. Shunning graphs has its hazzards.
+Similar assumptions were made by Heckman and Vytlacil (1999), who used both counterfactuals and structural equation models. Shunning graphs has its hazards.
 
 7.5 Structural Versus Probabilistic Causality
 
@@ -16580,7 +16580,7 @@ and with
 the doctrine that causes should both precede and increase the probability of their
 effects.
 
-P, OCurrently, the most advanced consistency test is the one based on Eells's (1991) criterion of relevance, which may be translated as follows.
+P, Currently, the most advanced consistency test is the one based on Eells's (1991) criterion of relevance, which may be translated as follows.
 
 Consistency Test
 For each pair of variables labeled R(X, Y), test whether
@@ -16612,7 +16612,7 @@ been altered: from discovery to consistency testing.
 
 It should also be remarked that the basic program of defining causality in terms of
 conditionalization, even if it turns out to be successful, is at odds with the natural conception of causation as an oracle for interventions. This program first confounds the causal
-and then removes spurirelation
+and then removes spurious
 ous correlations through steps of remedial conditionalization, yielding
 The
 structural account, in contrast, defines causation directly in terms of Nature's invariants
@@ -16683,7 +16683,7 @@ transmit linguistically.
 
 In Section 7.2.3 we saw that the distinction between general causes (e.g., "Drinking hemlock causes death") and singular causes (e.g., "Socrates' drinking hemlock caused his
 death") plays an important role in understanding the nature of explanations. We have
-also remarked that the notion of singular causation (also known as "token" or "singleevent" causation) has not reached an adequate state of conceptualization or formalization in the probabilistic account of causation. In this section we elaborate the nature of
+also remarked that the notion of singular causation (also known as "token" or "single-event" causation) has not reached an adequate state of conceptualization or formalization in the probabilistic account of causation. In this section we elaborate the nature of
 
 these difficulties and conclude that they stem from basic deficiencies in the probabilistic
 account.
@@ -16753,7 +16753,7 @@ example) and must be defined explicitly in counterfactual vocabulary. Whether a 
 belongs to the former or latter class depends on many social and circumstantial contingencies, which are usually unknown and are not likely to define an invariant attribute of a
 given person. Still, we recognize the need to consider the two classes separately in evaluating whether the pill was the cause of Mrs. Jones's thrombosis.
 
-Thus we see that there is no escape from counterfactuals when we deal with tokenlevel causation. Probabilists' insistence on counterfactual-free syntax in defining token
+Thus we see that there is no escape from counterfactuals when we deal with token-level causation. Probabilists' insistence on counterfactual-free syntax in defining token
 causal claims has led to subpopulations delineated by none other than counterfactual expressions: "adversely susceptible" in the vaccine example and "would not have become
 pregnant" in the case of Mrs. Jones.31
 
@@ -16791,7 +16791,7 @@ consequence
 
 – say, that the ball stopped two yards short of the hole.
 
-yzAnd this brings us to a major methodological inconsistency in the probabilistic approach to causation: If ignorance of x and y leads to the wrong z and if awareness of x
+and this brings us to a major methodological inconsistency in the probabilistic approach to causation: If ignorance of x and y leads to the wrong z and if awareness of x
 and y leads to the correct selection of z, then there must be some process by which people incorporate the occurrence of x and y into their awareness. What could that process
 be? According to the norms of probabilistic epistemology, evidence is incorporated into
 one's corpus of knowledge by means of conditionalization. How, then, can we justify excluding from z the very evidence that led to its selection – namely, the occurrence of x
@@ -17903,7 +17903,7 @@ q33)
 ,
 
 since only the combinations
-isfy the joint event
+satisfy the joint event
 
 rx
 X x1, Y y1,
@@ -17913,7 +17913,7 @@ Yz0
 
 3, ry
 
-satrx
+satisfy
 rx
 (see (8.6), (8.7), and (8.11)). Therefore,
 
@@ -17956,7 +17956,7 @@ t
 
 .
 
-Similarly, the damaging evidence against PeptAid's producer is obtained by evaluats
+Similarly, the damaging evidence against PeptAid's producer is obtained by evaluating
 
 c
 
@@ -18067,7 +18067,7 @@ P(y, x z)1,
 (8.22)
 
 6 The tests developed by economists (Wu 1973) merely compare estimates based on two or more
-instruments and, in case of discrepency, do not tell us objectively which estimate is incorrect.
+instruments and, in case of discrepancy, do not tell us objectively which estimate is incorrect.
 
 8.5 Causal Inference From Finite Samples
 
@@ -18283,7 +18283,7 @@ P(x, y, z)
 0.275
 
 .6 Output histograms for identified treatment effect using two priors,
-(a), (b), (c), and (d) show the posteriusing the flat prior
+(a), (b), (c), and (d) show the posteriors the flat prior
 ors for
 and data sets that consisted of 10, 100,
 1,000 and 10,000 subjects, respectively;
@@ -18646,7 +18646,7 @@ C, E). For simplicity, however, we will pursue the analysis in the binary case.
 , written
 
 x1, x2, . . . ,
-C is "counterfactually necesif Yx falls outside E whenever X x is outside
+C is "counterfactually necessary Yx falls outside E whenever X x is outside
 PN P(C E y1, y2, . . . , yl6
 jJ (Y yj)
 
@@ -19346,7 +19346,7 @@ P(yx, x, yx)
 
 (9.34)
 
-xbecause
+because
 conjoin (9.26) with
 
 yxx¿
@@ -19375,7 +19375,7 @@ x).
 
 yxand
 
-yxare disjoint)
+are disjoint)
 
 P(yx, yx, x) P(x, yx) P(x, yx)
 P(x, yx) P(x, y)
@@ -19594,7 +19594,7 @@ xyy
 
 x
 
-ditioning events,
+conditioning events,
 have
 
 ¿
@@ -19925,7 +19925,7 @@ P(yx) P(yx)
 Evidently, what the experimental study does not reveal is that, given a choice, terminal patients avoid drug x. Indeed, if there were any terminal patients who would choose
 would have included some such pax (given the choice), then the control group
 tients (due to randomization) and so the proportion of deaths among the control group
-the population proportion of terminal pawould have been higher than
+the population proportion of terminal patients have been higher than
 tients avoiding x. However, the equality
 tells us that no such patients
 were included in the control group; hence (by randomization) no such patients exist in
@@ -20022,7 +20022,7 @@ corrected ERR is given in (9.31).
 
 can be ascertained: exogeneity (i.e., no confounding) and monotonicity (i.e., no prevention). When monotonicity does not hold, ERR provides merely a lower bound for PN, as
 shown in (9.13). (The upper bound is usually unity.) The nonentries (—) in the right-hand
-In the presence of conside of Table 9.3 represent vacuous bounds (i.e.,
+In the presence of consider of Table 9.3 represent vacuous bounds (i.e.,
 P(x, y),
 founding, ERR must be corrected by the additive term
 as stated in (9.31). In other words, when confounding bias (of the causal effect) is positive, PN is higher than ERR by the amount of this additive term. Clearly, owing to
@@ -20072,7 +20072,7 @@ model. However, since the observed variables are binary, there is only a finite 
 u, only one of those functions is realized. This defines a canonical partition of the domain of UY into a set S of
 induces the same function f (s)
 equivalence classes, where each equivalence class
-from PAY to Y (see Section 8.2.2). Thus, as u varies over its domain, a set S of such functions is realized, and we can regard S as a new background variable whose values corof functions from PAY to Y that are realizable in UY. The
+from PAY to Y (see Section 8.2.2). Thus, as u varies over its domain, a set S of such functions is realized, and we can regard S as a new background variable whose values correspondence functions from PAY to Y that are realizable in UY. The
 respond to the set
 .11
 number of such functions will usually be smaller than
@@ -20117,7 +20117,7 @@ P(s).
 (9.56)
 
 To ensure model identifiability, it is sufficient that we can invert the process and determine P(s) from P(y ƒ paY). If we let the set of conditional probabilities P(y ƒ paY) be
-then (9.56) derepresented by a vector
+then (9.56) represented by a vector
 fines a linear relation between
 that can be represented as a matrix multiplication
 (as in (8.13)),
@@ -20153,7 +20153,7 @@ S
 
 (9.57)
 
-2k Swhere R is a
+2k Where R is a
 for identification is simply that R, together with the normalizing equation
 invertible.
 
@@ -20197,7 +20197,7 @@ S
 
 q
 
-to be identified from P(y ƒ paY) even when the exogenous varisymmetry permits
+to be identified from P(y ƒ paY) even when the exogenous asymmetry permits
 ables U0, U1, . . . , Uk are not independent. This can be seen by noting that every point u
 false defines a unique function f (s) because, if T is the set of indices i
 for which U0
@@ -20583,7 +20583,7 @@ xp
 is logically equivalent to
 
 Here we see in vivid symbols the role played by structural information. Although it
-the two are not structurally equivais true that
+the two are not structurally counterintuitive true that
 x
 x
 is completely symmetric relative to exchanging x and p, whereas
@@ -20767,7 +20767,7 @@ from which one would obtain the counterintuitive result that x and p are equal p
 causing y. If, on the other hand, we permit nonminimal expressions like
 , then
 ¡
-y xpfrom which we would
+y xp which we would
 we might as well permit the equivalent expression
 (p)
 would be a cause for our traveler's
@@ -20786,10 +20786,10 @@ We return now to structural analysis, in which such syntactic problems do not ar
 Dispositional information is conveyed through structural or counterfactual expressions
 fi(pai, u)) in which u is generic, whereas circumstantial information is con-
 (e.g., yi
-veyed through prepositional expressions (e.g., X(u) x)) that refer to one specific world
+conveyed through prepositional expressions (e.g., X(u) x)) that refer to one specific world
 U u. Structural models do not permit arbitrary transformations and substitutions, even
 y when truth values are preserved. For example, substituting the expression for c in
-would not be permitted if c (cyanide intake) is understood to be governed by a sepd
+would not be permitted if c (cyanide intake) is understood to be governed by a separate
 arate mechanism, independent of that which governs y.
 
 ¡
@@ -20840,13 +20840,13 @@ x and y absent, apply x, and see if y sets in. Therefore, the sentence "x produc
 can be true only in worlds where x and y are false, and thus it appears (a) that nothing
 could possibly explain (by consideration of production) any events that did materialize
 in the actual world and (b) that evidence gathered about the actual world u could not be
-ubrought to bear on the hypothetical world
+brought to bear on the hypothetical world
 
 in which production is defined.
 
 (10.4)
 
-uuTo overcome this hurdle, we resort to an aspect of causation called sustenance, which
+To overcome this hurdle, we resort to an aspect of causation called sustenance, which
 enriches the notion of dependence with features of production while remaining in a world
 
 10.2 Production, Dependence, and Sustenance
@@ -20878,7 +20878,7 @@ still retain its actual value (y) in u. Condition (iv),
 the "responsibility" for sustaining Y y under such adverse conditions; if we set X to
 some other value
 , then Y will relinquish its current value (y) under at least one set-
-W wting
+W writing
 in
 which x is both necessary and sufficient for y.
 
@@ -20929,7 +20929,7 @@ fi6
 We start by considering a causal model M, as defined in Section 7.1, and selecting a subset S of sustaining parent variables for each family and each u. Recall that the arguments
 in a causal model were assumed to be minimal in some sense, since
 of the functions
-we have pruned from each fiall redundant arguments and retained only those called pai
+we have pruned from each final redundant arguments and retained only those called pai
 that render fi(pai, u) nontrivial (Definition 7.1.1). However, in that definition we were
 concerned with nontriviality relative to all possible u; further pruning is feasible when
 we are situated at a particular state U u.
@@ -20937,12 +20937,12 @@ To illustrate, consider the function
 
 ax1
 because
-there is always some value of u that would make fisensitive to changes in either x1 or
+there is always some value of u that would make sensitive to changes in either x1 or
 x2. However, given that we are in a state for which u 0, we can safely consider X2 to
 ax1,
-be a trivial argument, replace fiwith
+be a trivial argument, replace fi with
 and consider X1 as the only essential
-the projection of fion u 0; more generally, we will
+the projection of f i on u 0; more generally, we will
 argument of We shall call
 fi
 .
@@ -21016,7 +21016,7 @@ S
 
 Vi
 
-for which there exists some renontrivial in s; that
+for which there exists some nontrivial in s; that
 
 fi (s, Sw (u), u)
 
@@ -21127,7 +21127,7 @@ Yx (u) y,
 (10.10)
 
 which is implied by X(u) x and Y(u) y. But (10.9) ensures that, after "freezing the
-xtrivial surroundings" represented by
+trivial surroundings" represented by
 of X.
 
 would not be sustained by some value
@@ -21243,7 +21243,7 @@ false)
 agree to test such dependence in a hypothetical submodel created by the do(A2
 operator. In Section 10.2 we argued that such a hypothetical test – though it conflicts with
 the current scenario u – is implicitly written into the charter of every causal model. A
-causal beam may thus be considered a formal explication of Lewis's notion of a quasidependent process, and the combined sets W represent the "peculiar surroundings" of
+causal beam may thus be considered a formal explication of Lewis's notion of a quasi dependent process, and the combined sets W represent the "peculiar surroundings" of
 the process that (when properly modified) renders X x necessary for Y y.
 
 Disjunctive Normal Form
@@ -21286,7 +21286,7 @@ r, tw w or
 
 Using the same argument, it is easy to see that, at a state
 
-ufor which
+u for which
 
 X(u) Z(u) true
 
@@ -21502,7 +21502,7 @@ Mu10.3 Causal Beams and Sustenance-Based Causation
 .6 Natural beams that represent
 path switching in Example 10.3.6.
 
-Yx1 and 0. Likewise Muentails Yx
+Yx1 and 0. Likewise Entails Yx
 
 Thus "switch in posi-
 Yx
@@ -21582,15 +21582,15 @@ V(x 1, t 1)
 
 (V(x* 2, t* 1) f ))
 
-The causal diagram associated with this model is illustrated in .7(a), desof
-ignating three parents for each variable V(x, t): the previous state
+The causal diagram associated with this model is illustrated in .7(a), designating
+designating three parents for each variable V(x, t): the previous state
 of its southern neighbor, and
 its northern neighbor, the previous state
 at location x. The scenario emanating from starting fire A
 the previous state
 and
 and fire B one time unit apart (corresponding to actions do
-is shown in .7(b). Black and grey bullets repredo
+is shown in .7(b). Black and grey bullets represent
 sent, respectively, space–time regions in states f (on fire) and b (burned). This beam is
 both natural and unique, as can be seen from (10.17). The arrows in .7(b) represent a natural beam constructed from the (unique) minimally sufficient sets S at each
 family. The state of the parent set S that this beam assigns to each variable constitutes an
@@ -21691,7 +21691,7 @@ S 0);
 
 U u(U u)
 
-This argument still does not tell us why we should consider such hypothetical cirin the match–oxygen story and not, say, in any of the examples
+This argument still does not tell us why we should consider such hypothetical circumstances the match–oxygen story and not, say, in any of the examples
 cumstances
 considered in this chapter, where sustenance ruled triumphantly. With all due respect to
 the regularity and commonality of worlds
@@ -21803,7 +21803,7 @@ X 8 Z
 (b) Yx,w,z*
 
 y.
-y for all subsets Wof W and all subsets Zof Z, with the setting w of Wand z* of Zequal to the setting of those variables in W w
+y for all subsets Wof W and all subsets Zof Z, with the setting w of Wand z* of Z equal to the setting of those variables in W w
 and Z z*, respectively.
 
 AC3. W is minimal; no subset of X satisfies conditions AC1 and AC2.
@@ -22170,7 +22170,7 @@ Typical application: Consider Example 11.1.3. Suppose we form the regression of 
 on p, r, and x,
 y c1p c2r c3x P
 ,
-and wish to predict which coefficient in this regression is zero. From the discussion above we can conclude immediately that c3 is zero, because y and x are dseparated given p and r, hence y is independent of x given p and r, or, x cannot
+and wish to predict which coefficient in this regression is zero. From the discussion above we can conclude immediately that c3 is zero, because y and x are d-separated given p and r, hence y is independent of x given p and r, or, x cannot
 offer any information about y once we know p and r. (Formally, the partial correlation between y and x, conditioned on p and r, must vanish.) c1 and c2, on the other
 hand, will in general not be zero, as can be seen from the graph: Z does not
 d-separate y from p, and Z p, x
@@ -22289,8 +22289,8 @@ and
 X(t 1)
 Y(t 1)
 By inverting equation (11.3) we can express
-in terms of linh(t).
-Clearly, since e(t) and h(t) are uncorreear combinations of
+in terms of linear(t).
+Clearly, since e(t) and h(t) are uncorrelated combinations of
 lated, we can choose a, b, c, d in such a way that the noise term appearing in the
 X(t 1)
 equation.
@@ -22641,7 +22641,7 @@ d-separation.) A more accurate allocation of
 where they are shown as (dummy) parents of Y that are functions of, though not identical to, the actual (observable) parents of Y and S.
 
 Readers versed in structural equation modeling would recognize the graphical
-as a refinement of the classical economentric notion of "dis-
+as a refinement of the classical econometric notion of "dis-
 Y(0), Y(1)
 representations
 turbance," or "error term" (in the equation for Y), and "strong ignorability" as the
@@ -22829,7 +22829,7 @@ Y S1 S2, X
 Y S2 S1, X.
 C1 permits us to derive the right-hand side of equation (11.8) from the left-hand side,
 while C2 permits us to go the other way around. Therefore, if S1 is known to be admissible, the admissibility of S2 can be confirmed by either C1 or C2. This broader condi-
-PAX as admissible from any other admissition allows us, for example, to certify S2
+PAX as admissible from any other admission allows us, for example, to certify S2
 ble set S1, since condition C2 would be satisfied by any such choice.
 
 and
@@ -22853,7 +22853,7 @@ S2
 
 S1
 
-A natural attempt would be to impose the condition that S1 and S2 each be c-equivaand invoke the criterion of Stone (1993) and Robins (1997) for the
+A natural attempt would be to impose the condition that S1 and S2 each be c-equivalent invoke the criterion of Stone (1993) and Robins (1997) for the
 lent to
 required set-subset equivalence. The resulting criterion, while valid, is still not complete;
 there are cases where S1 and S2 are c-equivalent yet not c-equivalent to their union. A
@@ -23180,7 +23180,7 @@ awaken and unleash bias due to dormant, unmeasured confounders. Examples abound
 (e.g., .3) where adding a variable to the analysis would introduce irreparable
 bias (Pearl 2009b, 2010a, Shrier 2009, Sjölander 2009).
 
-Another factor inflaming the controversy has been the general belief that the biasreducing potential of propensity score methods can be assessed experimentally by running
+Another factor inflaming the controversy has been the general belief that the bias-reducing potential of propensity score methods can be assessed experimentally by running
 case studies and comparing effect estimates obtained by propensity scores to those
 obtained by controlled randomized experiments (Shadish and Cook 2009).11 This belief
 is unjustified because the bias-reducing potential of propensity scores depends critically
@@ -23245,7 +23245,7 @@ So, if X and Y are d-connected in that graph, it must be due to (unblocked) conf
 X from Y in that graph, we are assured that Z blocks all back-door paths in the original graph. If we further condition on variables Z, we are assured, by the back-door
 criterion, that we have neutralized all confounders and that whatever dependence we
 measure after such conditioning must be due to the causal effect of X on Y, free of
-confoundings.
+confounding.
 
 11.3.7 The Validity of G-Estimation
 
@@ -23261,7 +23261,7 @@ xk1),
 
 (3.62*) General Condition for g-Estimation (Sequential Deconfounding)
 P(y ƒ g x) is identifiable and is given by (3.63) if every action-avoiding back-door
-path from Xk to Y is blocked by some subset Lk of nondescendants of Xk. (By "actionavoiding" we mean a path containing no arrows entering an X variable later than Xk.)
+path from Xk to Y is blocked by some subset Lk of nondescendants of Xk. (By "action-avoiding" we mean a path containing no arrows entering an X variable later than Xk.)
 This condition bears several improvements over (3.62), as demonstrated in the following three examples.
 
 Example 11.3.1 .10 demonstrates cases where the g-formula (3.63) is valid
@@ -23365,7 +23365,7 @@ Z z is a measurement taken prior to the action. Is this equation generalizable t
 case of several actions, i.e., conditional plan?
 
 The difficulty seen is that this formula was derived on the assumption that X does
-not change the value of Z. However, in a multiaction plan, some actions in X could
+not change the value of Z. However, in a multi-action plan, some actions in X could
 change observations Z that guide future actions. We do not have notation for distinguishing post-intervention from pre-intervention observations. Absent such notation, it
 is not clear how conditional plans can be expressed formally and submitted to the docalculus for analysis.
 
@@ -24333,7 +24333,7 @@ are, I am even more puzzled than before. If you allow yourself to make assumptio
 the behavior of the population under randomized experiments, why go through the trouble of conducting a study? Why not make the assumption directly that in a randomized
 y1),
 experiment, with y randomized, the observed difference in E(Z) should be
-just any convenient number, and save yourself agonizing months of data collecwith
+just any convenient number, and save yourself agonizing months of data collection
 tion and analysis. He who believes your other untested assumptions should also believe
 your
 
@@ -24796,7 +24796,7 @@ to define causal effects in a manner similar to the steps in equations (11.23) a
 (11.24) (assuming continuous variables). This brings us closer to surgery, with
 the one basic difference of leaving Yj under the influence of fj (Y, X, U).
 
-Having argued that definitions based on "external variation" are conceptually illmotivated, we now explore whether they can handle noncausal systems of equations.
+Having argued that definitions based on "external variation" are conceptually ill-motivated, we now explore whether they can handle noncausal systems of equations.
 
 Equation Ambiguity in Noncausal Systems
 
@@ -25288,7 +25288,7 @@ In general, I have found Bayesian statisticians to be the hardest breed of stati
 convince of the necessity of this distinction. Why? Because whereas classical statisticians are constantly on watch against assumptions that cannot be substantiated by hard
 data, Bayesians are more permissive in this regard, and rightly so. However, by licensing human judgment as a legitimate source of information, Bayesians have become less
 meticulous in keeping track of the character and origin of that information. Your earlier
-statement describes the habitual, uncritical use of conditiong among Bayesian
+statement describes the habitual, uncritical use of conditioning among Bayesian
 researchers, which occasionally lures the unwary into blind alleys (e.g., Rubin (2009)):
 
 At a decision node, one conditions on the quantities known at the time of the decision.
@@ -25362,7 +25362,7 @@ other decision tree) from a chance event X x.
 P(y do(x)) P(y, x)
 
 It should not be too hard to convince our Bayesian that these two assessments
-could not be totally arbitrary, but must obey some restrictions of coherence. For examshould be obeyed for all events x and y.17
+could not be totally arbitrary, but must obey some restrictions of coherence. For example be obeyed for all events x and y.17
 ple, the inequality
 Moreover, coherence restrictions of this kind are automatically satisfied whenever
 P(y ƒ do(x)) is derived from a causal network according to the rules of Chapter 3.
@@ -25476,7 +25476,7 @@ the usual analysis fails."
 y ƒ e) may or may
 We know that, in general, counterfactual queries of the form P(Yx
 not be empirically identifiable, even in experimental studies. For example, the probabil-
-, is in general not identifiable from either observaity of causation,
+, is in general not identifiable from either observability of causation,
 tional or experimental studies (p. 290, Corollary 9.2.12). The question we address in this
 section is whether the assumption of linearity renders counterfactual assertions more
 empirically grounded. The answer is positive:
@@ -25526,7 +25526,7 @@ causal effect E(Yx) is identifiable.
 Claim C offers an intuitively compelling interpretation of E(Yx
 
 ƒ e) that reads as fol-
-ƒ e) (i.e., the expectation of Y under the hypolows: Given evidence e, to calculate E(Yx
+ƒ e) (i.e., the expectation of Y under the hypothesis: Given evidence e, to calculate E(Yx
 thetical assumption that X were x, rather than its current value), first calculate the best
 estimate of Y conditioned on the evidence e, E(Y ƒ e), then add to it whatever change is
 expected in Y when X undergoes a forced transition from its current best estimate,
@@ -25600,7 +25600,7 @@ Three special cases of e are worth noting:
 n
 
 Example 11.7.1 e :
-sation, Chapter 9). From (11.28) we obtain directly
+citation, Chapter 9). From (11.28) we obtain directly
 
 X x, Y y(the linear equivalent of the probability of cau-
 
@@ -25762,7 +25762,7 @@ is P( future ƒ do(action), see(context))."
 
 11.7 The Calculus of Counterfactuals
 
-The problem is that, to make this prediction properly, we need a sequential, timeindexed model, where "future" variables are clearly distinct from the "context"
+The problem is that, to make this prediction properly, we need a sequential, time-indexed model, where "future" variables are clearly distinct from the "context"
 variables. Often, however, we are given only a static model, in which the "context" variable are shown as consequences of the "action," and then using the
 expression P(y ƒ do(x), z) would be inappropriate; it represents the probability of
 Y y given that we do X x and later observe Z z, while what is needed is
@@ -25918,7 +25918,7 @@ by the variable
 This is because Yxz is separated from
 
 , in the "triple network"
-is obtained from rule 3 of dothat you mentioned. The license to replace W with
+is obtained from rule 3 of do that you mentioned. The license to replace W with
 W, since X is a nondescendant of X. This points to an
 Wx*
 calculus, which implies
@@ -26191,7 +26191,7 @@ Technometrics (Zelterman 2001), Mathematical Reviews (Lawry 2001), Politische
 Vierteljahrsschrlft (Didelez and Pigeot 2001), Technological Forecasting & Social Change
 (Payson 2001), British Journal for the Philosophy of Science (Gillies 2001), Human
 Biology (Chakraborty 2001), The Philosophical Review (Hitchcock 2001), Intelligence
-(O'Rourke 2001), Journal of Marketing Research (Rigdon 2002), Tijdschrlft Voor (Decock
+(O'Rourke 2001), Journal of Marketing Research (Rigdon 2002), Tijdschrift Voor (Decock
 2002), Psychometrika (McDonald 2002b), International Statistical Review (Lindley 2002),
 Journal of Economic Methodology (Leroy 2002), Statistics in Medicine (Didelez 2002),
 Journal of Economic Literature (Swanson 2002), Journal of Mathematical Psychology
@@ -26728,7 +26728,7 @@ of determinism so absolute that he exterminated
 causation from statistics before it had a chance to
 take root.
 
-It took another 25 years and another strongwilled person, Sir Ronald Fisher [25], for statisticians to formulate the randomized experiment –
+It took another 25 years and another strong-willed person, Sir Ronald Fisher [25], for statisticians to formulate the randomized experiment –
 the only scientifically proven method of testing
 causal relations from data, and to this day, the one
 and only causal concept permitted in mainstream
@@ -27649,7 +27649,7 @@ Cartwright, 1989 N. Cartwright. Nature's Capacities and Their Measurement. Clare
 
 Oxford, 1989.
 
-Cartwright, 1995a N. Cartwright. False idealisation: A philosophical threat to scientific method.
+Cartwright, 1995a N. Cartwright. False idealization: A philosophical threat to scientific method.
 
 Philosophical Studies, 77:339–352, 1995.
 
@@ -27685,7 +27685,7 @@ Cheng, 1997 P.W. Cheng. From covariation to causation: A causal power theory. Ps
 
 Review, 104(2):367–405, 1997.
 
-Chickering and Pearl, 1997 D.M. Chickering and J. Pearl. A clinician's tool for analyzing noncompliance. Computing Science and Statistics, 29(2):424–431, 1997.
+Chickering and Pearl, 1997 D.M. Chickering and J. Pearl. A clinician tool for analyzing noncompliance. Computing Science and Statistics, 29(2):424–431, 1997.
 
 Chickering, 1995 D.M. Chickering. A transformational characterization of Bayesian network structures. In P. Besnard and S. Hanks, editors, Uncertainty in Artificial Intelligence 11, pages 87–98.
 Morgan Kaufmann, San Francisco, 1995.
@@ -27719,7 +27719,7 @@ Cooper, 1990 G.F. Cooper. Computational complexity of probabilistic inference us
 
 belief networks. Artificial Intelligence, 42(2):393–405, 1990.
 
-Cowell et al., 1999 R.G. Cowell, A.P. Dawid, S.L. Lauritzen, and D.J. Spielgelhalter. Probabilistic
+Cowell et al., 1999 R.G. Cowell, A.P. Dawid, S.L. Lauritzen, and D.J. Spiegelhalter. Probabilistic
 
 Networks and Expert Systems. Springer Verlag, New York, NY, 1999.
 
@@ -27822,7 +27822,7 @@ Dong, 1998 J. Dong. Simpson's paradox. In P. Armitage and T. Colton, editors, En
 
 Biostatistics, pages 4108–4110. J. Wiley, New York, 1998.
 
-Dor and Tarsi, 1992 D. Dor and M. Tarsi. A simiple algorithm to construct a consistent extension of a
+Dor and Tarsi, 1992 D. Dor and M. Tarsi. A simple algorithm to construct a consistent extension of a
 partially oriented graph. Technical Report R-185, UCLA, Computer Science Department, 1992.
 Druzdzel and Simon, 1993 M.J. Druzdzel and H.A. Simon. Causality in Bayesian belief networks.
 In D. Heckerman and A. Mamdani, editors, Proceedings of the Ninth Conference on Uncertainty
@@ -27978,7 +27978,7 @@ Goldberger, 1991 A.S. Goldberger. A Course of Econometrics. Harvard University P
 
 Cambridge, MA, 1991.
 
-Goldberger, 1992 A.S. Goldberger. Models of substance; comment on N. Wermuth, 'On blockrecursive linear regression equations'. Brazilian Journal of Probability and Statistics, 6:1–56,
+Goldberger, 1992 A.S. Goldberger. Models of substance; comment on N. Wermuth, 'On block-recursive linear regression equations'. Brazilian Journal of Probability and Statistics, 6:1–56,
 1992.
 
 Goldszmidt and Pearl, 1992 M. Goldszmidt and J. Pearl. Rank-based systems: A simple approach
@@ -28645,7 +28645,7 @@ Ortiz, Jr., 1999 C.L. Ortiz, Jr. Explanatory update theory: Applications of coun
 
 to causation. Artificial Intelligence, 108(1–2): 125–178, 1999.
 
-Otte, 1981 R. Otte. A critque of Suppes' theory of probabilistic causality. Synthese, 48:167–189, 1981.
+Otte, 1981 R. Otte. A critique of Suppes' theory of probabilistic causality. Synthese, 48:167–189, 1981.
 Palca, 1989 J. Palca. Aids drug trials enter new age. Science Magazine, pages 19–21, October 1989.
 Paul, 1998 L.A. Paul. Keeping track of the time: Emending the counterfactual analysis of causation.
 
@@ -28767,7 +28767,7 @@ Services and Outcomes Research Methodology, 2:189–220, 2001. Special issue on 
 
 Pearl, 2001c J. Pearl. Direct and indirect effects. In Proceedings of the Seventeenth Conference on
 Uncertainty in Artificial Intelligence, pages 411–420. Morgan Kaufmann, San Francisco, CA, 2001.
-Pearl, 2003a J. Pearl. Comments on Neuberg's review of Causality. Econometric Theory,
+Pearl, 2003a J. Pearl. Comments on Neuberg review of Causality. Econometric Theory,
 
 19:686–689, 2003.
 
@@ -28975,7 +28975,7 @@ Rubin, 2007 D.B. Rubin. The design versus the analysis of observational studies 
 
 Parallels with the design of randomized trials. Statistics in Medicine, 26:20–36, 2007.
 
-Rubin, 2008a D.B. Rubin. Author's reply (to Ian Shrier's Letter to the Editor). Statistics in Medicine,
+Rubin, 2008a D.B. Rubin. Author's reply (to Ian Shrier Letter to the Editor). Statistics in Medicine,
 
 27:2741–2742, 2008.
 
@@ -29043,7 +29043,7 @@ Shep, 1958 M.C. Shep. Shall we count the living or the dead? New England Journal
 Shimizu et al., 2005 A. Shimizu, S. Hyvärinen, Y. Kano, and P.O. Hoyer. Discovery of non-
 Gaussian linear causal models using ICA. In R. Dechter and T.S. Richardson, editors, Proceedings
 of the Twenty-First Conference on Uncertainty in Artificial Intelligence, pages 525–533. AUAI
-Press, Edinburgh, Schotland, 2005.
+Press, Edinburgh, Scotland, 2005.
 
 Shimizu et al., 2006 S. Shimizu, P.O. Hoyer, Hyvärinen, and A.J. Kerminen. A linear non-Gaussian
 acyclic model for causal discovery. Journal of the Machine Learning Research, 7:2003–2030,
@@ -29152,7 +29152,7 @@ Spirtes and Glymour, 1991 P. Spirtes and C.N. Glymour. An algorithm for fast rec
 
 causal graphs. Social Science Computer Review, 9(l):62–72, 1991.
 
-Spirtes and Richardson, 1996 P. Spirtes and T. Richardson. A polynomial time algorithm for determinint DAG equivalence in the presence of latent variables and selection bias. Proceedings of the
+Spirtes and Richardson, 1996 P. Spirtes and T. Richardson. A polynomial time algorithm for determinant DAG equivalence in the presence of latent variables and selection bias. Proceedings of the
 Sixth International Workshop on Artificial Intelligence and Statistics, 1996.
 
 Spirtes and Verma, 1992 P. Spirtes and T. Verma. Equivalence of causal models with latent variables.
@@ -29286,7 +29286,7 @@ VanderWeele and Robins, 2007 T.J. VanderWeele and J.M. Robins. Four types of eff
 Verma and Pearl, 1988 T. Verma and J. Pearl. Causal networks: Semantics and expressiveness. In
 Proceedings of the Fourth Workshop on Uncertainty in Artificial Intelligence, pages 352–359,
 Mountain View, CA, 1988. Also in R. Shachter, T.S. Levitt, and L.N. Kanal (Eds.), Uncertainty in
-AI 4, Elesevier Science Publishers, 69–76, 1990.
+AI 4, Elsevier Science Publishers, 69–76, 1990.
 
 Verma and Pearl, 1990 T. Verma and J. Pearl. Equivalence and synthesis of causal models. In
 Proceedings of the Sixth Conference on Uncertainty in Artificial Intelligence, pages 220–227,
@@ -29383,10 +29383,10 @@ Wright, 1928 P.O. Wright. The Tariff on Animal and Vegetable Oils. The MacMillan
 York, NY, 1928.
 
 Wright, 1988 R.W. Wright. Causation, responsibility, risk, probability, naked statistics, and proof:
-Prunning the bramble bush by clarifying the concepts. Iowa Law Review, 73:1001–1077, 1988.
+Pruning the bramble bush by clarifying the concepts. Iowa Law Review, 73:1001–1077, 1988.
 Wu, 1973 D.M. Wu. Alternative tests of independence between stochastic regressors and disturbances. Econometrica, 41:733–750, 1973.
 
-Yanagawa, 1984 T. Yanagawa. Designing case-contol studies. Environmental health perspectives,
+Yanagawa, 1984 T. Yanagawa. Designing case-control studies. Environmental health perspectives,
 
 32:219–225, 1984.
 
@@ -29567,7 +29567,7 @@ Fung, W. K., 346
 
 Gabler, S., 183, 199
 Gail, M. H., 183
-Galieo, G., 334–6, 412
+Galileo, G., 334–6, 412
 Galles, D., 114, 116–7, 202, 204, 222, 230–1, 235–7,
 
 243, 248, 257, 295
@@ -29899,7 +29899,7 @@ Scheines, R., 16, 18, 30, 41, 48, 52, 60, 63–4,
 Schisterman, E. F., 106
 Schlaifer, R., 78–9, 93, 97, 175, 244
 Schlesselman, J. J., 183, 292
-Schumacker, M., 200
+Schumaker, M., 200
 Schumaker, R. E., 136
 Schulz, L. E., 64, 253
 Schuster, C. 199
@@ -29984,7 +29984,7 @@ Ur, S., 237
 
 Valtorta, M., 41, 86, 105
 van der Laan, M. J., 106, 131, 353, 358
-VandeWeele, T. J., 106
+VanderWeele, T. J., 106
 Verba, S., 25
 Verma, T., 12, 18–9, 30, 46–7, 49–52, 64, 68, 104,
 
@@ -30835,7 +30835,7 @@ submodel, causal, 204
 sufficient (admissible) set, 80
 confounders and, 195
 
-superexogeneity, see exogeneily
+superexogeneity, see exogeneity
 suppressor effect, 139
 
 see also Simpson's paradox

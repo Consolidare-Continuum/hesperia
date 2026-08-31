@@ -407,7 +407,7 @@ special thanks for their many literary interventions.
 Finally, I would like to thank the close friends and family members
 who supported me throughout this project. Danielle Klinenberg, Edward Klinenberg, Rona Talcott, Herb Davis, Anne McCune, Matt
 Brown, Katerina Christopolous, Brickson Diamond, Adam Gross, Colin
-Hall, Giev Kashkooli, Tamar Kelber, Sheryl Kelber, Ronald Lieber, Barbara Messing, Melanie Nutter, Marquez Pope, and Audrey Prins-Patt
+Hall, Giev Kashkooli, Tamar Kelber, Sheryl Kelber, Ronald Lieber, Barbara Messing, Melanie Nutter, Marquez Pope, and Audrey Prins-Pat
 have led a genuinely communal effort to see this book into print. Esther Bishop, Florence Klinenberg, and my late grandparents, Jerome
 and Muriel Klinenberg, Irving Bishop, and Martin Talcott, provided
 inspiration. Caitlin Zaloom, who in the course of living with me has
@@ -748,9 +748,9 @@ explosions. When I asked Jacob about this, he threw up his hands in
 exasperation. "Just put it on a high platform and use more underwater
 cable," he said. "We've had it available for a long time now. These are
 just moderate investments, in the millions of dollars. It's a small price
-to pay for more resilience." But New York is just one of countless mupreface to the second edition • • • xxvii
+to pay for more resilience." But New York is just one of countless mup to the second edition • • • xxvii
 
-nicipalities that has neglected to update its vital systems to meet the
+municipalities that has neglected to update its vital systems to meet the
 demands of a hotter, wetter planet. Another major heat wave would
 likely send Chicago into darkness again, too.
 
@@ -784,7 +784,7 @@ heart of Singapore's two-billion-dollar campaign to improve drainage
 infrastructure, reduce the size of flood-prone areas, and enhance the
 quality of city life. It has nine operable crest gates, a series of enormous
 pumps, and a ten-thousand-hectare catchment area that is roughly
-one-seventh the size of the country. The system not only protects lowlying urban neighborhoods from flooding during heavy rains; it also
+one-seventh the size of the country. The system not only protects low-lying urban neighborhoods from flooding during heavy rains; it also
 
 * The best account of this lobbying effort is Naomi Oreskes and Eric Conway, Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to
 Global Warming (New York: Bloomsbury Press, 2010).
@@ -817,7 +817,7 @@ decades, American utility companies have spent relatively little on research and
 research-and-development investments made by all US electrical-power
 utilities amounted to at most $700 million, compared with $6.3 billion
 by IBM and $9.1 billion by Pfizer. In 2009, however, the Department
-of Energy issued $3.4 billion in stimulus grants to a hundred smartgrid projects across the United States, including many in areas that are
+of Energy issued $3.4 billion in stimulus grants to a hundred smart grid projects across the United States, including many in areas that are
 prone to heat waves and hurricanes. The previous year, Hurricane Ike
 had knocked out power to two million customers in Houston, and full
 restoration took nearly a month. When the city received $200 million
@@ -939,7 +939,7 @@ where Barack Obama worked as a community organizer during the late
 1980s, learning firsthand why social ties matter. Obama must have been
 thinking of places like Englewood and North Lawndale when, as a US
 senator in 2005, he connected the effects of Hurricane Katrina to the
-slow-motion disaster that New Orleans's vulnerable neighborhoods
+slow-motion disaster that New Orleans vulnerable neighborhoods
 endured every day. "I hope we realize that the people of New Orleans
 weren't just abandoned during the hurricane," he said. "They were
 
@@ -988,7 +988,7 @@ were some bright spots. The Rockaway Beach Surf Club, which opened
 in March, in a converted auto-repair shop beneath the El on Beach
 Eighty-Seventh Street, transformed itself into a temporary relief agency
 when two of its founders returned there after the storm, posted Facebook updates inviting friends to join them, and watched more than
-five thousand volunteers come to help. It became the main commupreface to the second edition • • • xxxiii
+five thousand volunteers come to help. It became the main community to the second edition • • • xxxiii
 
 nity organization, providing food, cleaning supplies, camaraderie, and
 manual labor for nearby residents. The surf club's neighbors, including
@@ -1068,7 +1068,7 @@ pro-build, with a future of climate change in mind."
 
 The future of climate change was very much on my mind on September 21, 2014, an unusually humid fall Sunday nearly two years after
 Sandy and close to twenty years after the far more deadly but still unnamed heat wave of 1995. That day, some 400,000 people took to the
-streets of Manhattan, where they demanded that political leaders adpreface to the second edition • • • xxxv
+streets of Manhattan, where they demanded that political leaders address to the second edition • • • xxxv
 
 dress the climate crisis with the urgency it deserves. It was the largest climate march in world history, and it was accompanied by 2,646 solidarity
 events in 162 countries across the planet. Citizens, civic organizations,
@@ -1279,7 +1279,7 @@ trucks to the morgue for storing the excess bodies. The first group of
 red and yellow vehicles, each about forty-eight feet long, arrived on
 Friday, but they filled up quickly and dozens of bodies remained. The
 crew brought more trucks through the weekend, and ultimately there
-were nine altogether. Parked in the morgue's lot, the trucks were surt h e u r b a n i n f e r n o • • • 9
+were nine altogether. Parked in the morgue's lot, the trucks were surf h e u r b a n i n f e r n o • • • 9
 
 . At the Cook County Medical Examiners Office, refrigerated trucks
 stored bodies when the bays at the morgue filled to capacity. Source: Chicago Sun-Times; photographer: Robert Davis. Reprinted with special permission from the Chicago Sun-Times, Inc. © 2002.
@@ -1311,7 +1311,7 @@ Comparisons with other historic catastrophes help to establish the
 magnitude of the trauma. More than twice as many people died in the
 heat wave than in the Great Chicago Fire of 1871, when approximately
 three hundred people perished. More recent U.S. environmental disasters, such as California's Northridge earthquake of 1994 and Florida's
-Hurricane Andrew in 1992, caused the deaths of one-tenth and onetwentieth the heat wave total, respectively. The Oklahoma City bombing in April 1995, which killed 168, and the crash of TWA Flight 800
+Hurricane Andrew in 1992, caused the deaths of one-tenth and one-twentieth the heat wave total, respectively. The Oklahoma City bombing in April 1995, which killed 168, and the crash of TWA Flight 800
 in 1996, which killed 230, were several times less fatal. Reporters, public
 officials, and scientific authorities have developed compelling and
 straightforward accounts of the reasons that so many people died in
@@ -1460,7 +1460,7 @@ report before you recounts what I found.
 i n t r o d u c t i o n
 The City of Extremes
 
-t hursday, 14 July 1995, was the hottest day in Chicago's
+t Thursday, 14 July 1995, was the hottest day in Chicago's
 
 recorded history, but the weather is only one of the
 reasons that Joseph Laczko died alone in his home
@@ -1649,7 +1649,7 @@ specific populations are standardized so that the experience of those population
 in this case, heat-related mortality—can be compared in light of their age differences.
 For further information about age-adjustment in the analysis of mortality rates, see the
 National Center for Health Statistics Web site: www.cdc.gov/nchs/datawh/nchsdefs/
-ageadjustment.htm#Mortality.
+age-adjustment.htm#Mortality.
 
 t h e c i t y o f e x t r e m e s • • •19
 
@@ -2116,7 +2116,7 @@ represented a displacement of deaths that would have occurred soon
 thereafter even without the extreme weather.34 The heat wave, in other
 words, did not kill people whose deaths were imminent, but hastened
 the demise of vulnerable residents who were likely to have survived if
-the crisis had not occurred. Nonetheless, the skepticism voiced by Chicago officials and journalists made a major impact on the public intert h e c i t y o f e x t r e m e s • • •31
+the crisis had not occurred. Nonetheless, the skepticism voiced by Chicago officials and journalists made a major impact on the public impact h e c i t y o f e x t r e m e s • • •31
 
 . A Chicago television news anchor asks, "Who's to Blame?"
 Source: WBBM-TV (CBS affiliate).
@@ -2217,7 +2217,7 @@ Little Village, two neighboring communities on the West Side of the
 city that had similar risk factors but radically different heat wave mortality rates, I consider how their specific social and ecological conditions
 influence the health and welfare of local residents.38
 
-The research for this chapter is rooted in six months of neardaily observations made in the two neighborhoods between June and
+The research for this chapter is rooted in six months of near-daily observations made in the two neighborhoods between June and
 December of 1998, as well as in more than forty formal and informal interviews with local residents, merchants, political officials, religious leaders, community organizers, police officers, and neighborhood groups. The spatial contiguity between the two community areas,
 one almost entirely Latino, the other almost entirely African American,
 made it easy to move from one to the other. I split many days between
@@ -2463,7 +2463,7 @@ Sunday, 16 July 95. Victim was known as quiet, to himself and at times,
 not to answer the door. Landlord . . . does not have any information to
 any relatives to victim. . . . Chain was on door. R/O was able to see victim
 on sofa with flies on victim and a very strong odor decay (decompose).
-R/O cut chain, per permission of [landlord], called M.E. [medical examiner] who authorized removal. . . . Noknown relatives at this time.
+R/O cut chain, per permission of [landlord], called M.E. [medical examiner] who authorized removal. . . . No known relatives at this time.
 
 These accounts rarely say enough about a victim's death to fill a page,
 yet the words used to describe the deceased—"recluse," "to himself,"
@@ -2938,7 +2938,7 @@ Her account of Viola Cooper suggests how much more difficult isolation can be wh
 
 At similar risk . . . is Viola Cooper, a thin 70-year-old black woman
 who continues to live alone in isolation in her basement apartment. She
-greeted us in the hallway with a toothless, pleasant smile. Her threeroom apartment, furnished with odd items of run-down furniture, was
+greeted us in the hallway with a toothless, pleasant smile. Her three-room apartment, furnished with odd items of run-down furniture, was
 cluttered, dirty, and in poor condition. . . . This apartment, for which
 she pays $250 of her $490 monthly income, was not much of an improvement over the last apartment where ES [Emergency Services] workers
 found her.
@@ -3307,9 +3307,9 @@ remaining single room occupancy dwellings (SROs), particularly the
 for-profit hotel residences clustered around Uptown and the South
 and West Loop regions, experienced the highest rates of heat-related
 mortality. In one region on the Northeast Side of the city, for example,
-medical records show that approximately 16 of the area's 26 heatd y i n g a l o n e • • •65
+medical records show that approximately 16 of the area's 26 heat y i n g a l o n e • • •65
 
-related deaths took place in SROs, and several others occurred in oneroom efficiencies nearby. Although there is no official record of the
+related deaths took place in SROs, and several others occurred in one-room efficiencies nearby. Although there is no official record of the
 number of deaths that occurred in transient hotels and one-room
 apartments with shared bathroom facilities, 62 of the 160 death reports
 at the Public Administrators Office listed "Room"—the code word for
@@ -3530,7 +3530,7 @@ relations among residents. Drinking alcohol is particularly dangerous
 during hot summer weather because it contributes to dehydration as
 well as liver disease and, insofar as it exacerbates problems with depression, can engender isolation. Heavy liquor and drug consumption is a
 known risk factor for heatstroke; and although alcoholism appears as
-a contributing cause of death in fewer than ten of the five-hundredplus medical autopsies for the heat-related decedents, there is good
+a contributing cause of death in fewer than ten of the five-hundred-plus medical autopsies for the heat-related decedents, there is good
 reason to suspect that the health of many heat wave victims had been
 affected by long-term drinking. People taking medications for mental
 illnesses also face heightened risks of heat-related mortality, since neuroleptic drugs and other antidepressants sometimes impair the body's
@@ -3904,7 +3904,7 @@ broader social context of the catastrophe.4 If there were risks of living
 in an impoverished, institutionally depleted, or politically neglected
 neighborhood or region, the CDC analysis would not help to identify
 them. The CDC study directs the attention of public health agencies
-to the particular set of individuals who are most vulnerable to heatr a c e , p l a c e , a n d v u l n e r a b i l i t y • • •81
+to the particular set of individuals who are most vulnerable to heat a c e , p l a c e , a n d v u l n e r a b i l i t y • • •81
 
 related problems, but not to the places where such problems are likely
 to be concentrated. In recent years, a number of scholars have called
@@ -3922,8 +3922,8 @@ possible to conduct a different kind of epidemiology. Rather than ending an inve
 layer of regional or social ecological analysis to the study of urban
 health—for both extreme events and everyday, typical situations. Demographers and geographers can use census tract or neighborhoodlevel data to assess the extent to which place-specific conditions—such
 as land-use and development patterns, segregation, violence, and microclimate—influence health risks in disasters. The geographer Karen
-Smoyer, for example, shows that in the 1980 St. Louis heat wave "lowmortality tracts were predominantly in the cooler, more affluent and
-more stable south and west sections of the city"; whereas the highmortality tracts were concentrated around the relatively warm central
+Smoyer, for example, shows that in the 1980 St. Louis heat wave "low-mortality tracts were predominantly in the cooler, more affluent and
+more stable south and west sections of the city"; whereas the high-mortality tracts were concentrated around the relatively warm central
 business district and the declining neighborhoods with low housing
 density and depleted population bases. These findings are largely consistent with the few studies of the geography of heat wave vulnerability
 that preceded Smoyer's work, which show significant associations between disaster mortality and neighborhood poverty, low-quality housing, lack of vegetation, and concentrated urban heat island effects.6
@@ -4378,7 +4378,7 @@ the South brought thousands of African Americans to the West Side
 of Chicago during the 1940s, whites throughout the city grew anxious
 about an incipient "invasion" that would transform and stigmatize their
 neighborhoods. Once the stream of African-American migration
-reached North Lawndale, more than seventy-five thousand white resir a c e , p l a c e , a n d v u l n e r a b i l i t y • • •93
+reached North Lawndale, more than seventy-five thousand white residents a c e , p l a c e , a n d v u l n e r a b i l i t y • • •93
 
 Table 6. Population in North Lawndale, 1950–90
 
@@ -5107,7 +5107,7 @@ even though most parts of the area were not formally annexed by the
 city government until 1869 and 1889.63 The ethnic solidarity of the local
 community facilitated the creation and cultivation of Chicago's famous
 Democratic political machine, which was founded by neighborhood
-hero and Chicago mayor Anton Cermak in Little Village's Twentysecond Ward. The community then consisted largely of people of
+hero and Chicago mayor Anton Cermak in Little Village's Twenty-second Ward. The community then consisted largely of people of
 Czechoslovakian, German, and, after 1910, Polish descent, migrants
 who came to South Lawndale for the same industrial jobs at the McCormick Reaper plant and the Western Electric Company that attracted
 people to North Lawndale a few blocks away. The community area experienced its first period of major growth in the late nineteenth and
@@ -5307,7 +5307,7 @@ away]—my parents are separated. So they're here."
 
 Grandparents play a particularly important role in the many Little
 Village Latino families in which parents are working long hours and
-have little time for child care or other family activity.73 Since workingage residents were likely to be toiling in one or more low-wage jobs,
+have little time for child care or other family activity.73 Since working-age residents were likely to be toiling in one or more low-wage jobs,
 they relied on grandparents and other family members to look after
 children and help with other domestic work. The integration of older
 family members into the lives of their children, grandchildren, and
@@ -5490,7 +5490,7 @@ small. It's in Polish. We also have an English mass that's a bit larger,
 maybe one hundred people. And two Spanish masses. They are the
 largest, four to five hundred people." On Sundays the major weekly
 masses draw more than ten thousand people, most of them Little Village residents, out of their homes and into the local churches. According to Father Green at Saint Michael's Church, "We are the largest
-Hispanic Catholic church in the archdiocese and we are the fourthlargest parish in the archdiocese. We have about five thousand people
+Hispanic Catholic church in the archdiocese and we are the fourth-largest parish in the archdiocese. We have about five thousand people
 who come on Sunday. We have mass every hour and a half from 7:30
 
 124 • • •c h a p t e r t w o
@@ -5756,7 +5756,7 @@ The crushing demand for emergency services coupled with the logjam at Cook Count
 care system. Observers of Chicago's health-care facilities have long
 warned that there are at least two problems with the local service infrastructure. First, the city's supply of fifty-six ambulances and roughly six
 hundred paramedics is inadequate to meet either regular or exceptional demands for care, and the typical response time of seven minutes
-often extends to twenty minutes or more in normal conditions.3 Longt h e s t a t e o f d i s a s t e r • • •131
+often extends to twenty minutes or more in normal conditions.3 Longest h e s t a t e o f d i s a s t e r • • •131
 
 standing divisions in the Fire Department, where firefighters outnumber paramedics seven to one and emergency medical workers complain
 of second-class treatment from administrators and City Hall, leave paramedics with little capacity to obtain new public resources even though
@@ -6271,7 +6271,7 @@ sister's kids when she couldn't care for them. Not so anymore. When
 scores of elderly residents succumbed to the sweltering heat, residents
 and community activists didn't ask how they could have worked to
 prevent some of these deaths. They asked why the city hadn't done
-more. Unfortunately, we have been conditioned through years of everburgeoning government to expect Big Brother will take care of all
+more. Unfortunately, we have been conditioned through years of ever-burgeoning government to expect Big Brother will take care of all
 things. . . . It seems that neighborliness is a skill we will have to relearn."31
 
 There were few viable sources of opposition to Daley in 1995, and
@@ -6904,7 +6904,7 @@ policy would likely prove most devastating for the Chicago residents
 whose lives were already most devastated.
 
 Predictably, the policy took a major toll on the city's poor elderly,
-including some of the seniors I had gotten to know. In a 1998 discust h e s t a t e o f d i s a s t e r • • •163
+including some of the seniors I had gotten to know. In a 1998 discuss h e s t a t e o f d i s a s t e r • • •163
 
 sion, one Water Department employee who handles "shut-off" cases
 told me that he could not make a special exception and turn the water
@@ -7022,9 +7022,9 @@ over that Chicago cares." Many of Chicago's governmental agencies
 contract marketing or advertising services to major corporate firms,
 and some, such as the Police Department, offer their public relations
 programs as national models.3 The results of these projects are visible
-throughout the metropolis: on the streets, which are lined with adverg o v e r n i n g b y p u b l i c r e l a t i o n s • • • 167
+throughout the metropolis: on the streets, which are lined with advertising o v e r n i n g b y p u b l i c r e l a t i o n s • • • 167
 
-tisements for public programs, and on local television, where the city
+advertisements for public programs, and on local television, where the city
 manages a cable channel and employs a television production team
 to develop and broadcast programs that show off the government in
 action.
@@ -7205,7 +7205,7 @@ Then everybody in the summer that dies will die of heat."19
 
 Chief Medical Examiner Donoghue, as we saw in the introduction,
 insisted on the validity of his assessments and refused to submit to the
-mayor's pressure to abandon his scientific principles for political expeg o v e r n i n g b y p u b l i c r e l a t i o n s • • • 173
+mayor's pressure to abandon his scientific principles for political expediency o v e r n i n g b y p u b l i c r e l a t i o n s • • • 173
 
 diency. Although he recalled that the recent Centers for Disease Control article listing techniques that governments should implement to
 prevent heat fatalities was sitting on his desk when the bodies started
@@ -7425,7 +7425,7 @@ identifies the heat wave victims and enumerates a set of individuallevel risk fa
 mortality pluralizes the death patterns and the relative impact on different groups, obscuring rather than clarifying the social structure of the
 disaster.28 The executive summary offered by the Mayor's Office, for
 example, reports that "the numbers of African-American and white
-victims were almost identical," even though the death ratio and ageadjusted death ratio—which are included in a less prominent section
+victims were almost identical," even though the death ratio and age-adjusted death ratio—which are included in a less prominent section
 of the document (page 12)—show that African Americans experienced
 substantially higher death rates than whites.29 Similarly, the only neighborhood-level analysis presented in the summary explains that "nearly
 all community areas in Chicago were affected," which is analogous to
@@ -7687,7 +7687,7 @@ the merchant exclaimed. The store had received a new shipment of air
 conditioners a few hours before, and already they were selling out.
 
 Garcia's report continued and the camera moved again. Suddenly
-there was daylight and a panoramic view of bikinied swimmers at North
+there was daylight and a panoramic view of bikini-clad swimmers at North
 Avenue Beach, where some ninety thousand city dwellers descended to
 treat themselves to what the reporter called "nature's air conditioner";
 
@@ -7723,7 +7723,7 @@ in the spray of an open fire hydrant. Source: ABC7. Courtesy of WLS-TV.
 
 "With the heat," Drury announced, "a serious water problem. . . .
 Some communities, at times, have lost water pressure completely." The
-newscast grew somber as coanchor Diann Burns reported that "tonight there's word that the heat wave has now turned deadly in Chicago." Chief Medical Examiner Edmund R. Donoghue said that two
+newscast grew somber as co-anchor Diann Burns reported that "tonight there's word that the heat wave has now turned deadly in Chicago." Chief Medical Examiner Edmund R. Donoghue said that two
 men, one eighty-six years of age, the other thirty-two, were the first
 casualties of the heat; a South Side hospital listed another man in critical condition with a body temperature of 108 degrees. Next Burns introduced reporter Paul Meincke, who narrated footage of irritated
 African-American residents in two South Side neighborhoods. Open
@@ -7907,7 +7907,7 @@ the broadest range of editorial content and opinion into their coverage. Relativ
 space for extended and varied treatment of important issues, so it is
 not surprising that the papers produced more depth, diversity, and
 detailed reporting in their packages of heat wave stories.14 Newspapers
-produce more content than do television or radio, and the multisectioned structure by which they are organized allows editors to present
+produce more content than do television or radio, and the multi-sectioned structure by which they are organized allows editors to present
 
 t h e s p e c t a c u l a r c i t y • • •193
 
@@ -8091,7 +8091,7 @@ system for learning about the news on the days in which he "worked
 the desk," a routine similar to the one he kept as a reporter. He depends heavily on other news media to generate story ideas, with radio
 broadcasts playing a prominent role because radio reporters can produce fast journalism and late-breaking news by simply reading wire
 stories as they come into the studio. Little production work or time is
-necessary for these broadcasts, and although the reports are thinly written, print journalists can use them as points of departure for moredeveloped accounts. Television news stories, especially now that Chit h e s p e c t a c u l a r c i t y • • •197
+necessary for these broadcasts, and although the reports are thinly written, print journalists can use them as points of departure for more developed accounts. Television news stories, especially now that Chit h e s p e c t a c u l a r c i t y • • •197
 
 cago and many other cities have local twenty-four-hour news television
 stations, usually provide the first visual images of events, yet they are
@@ -8625,7 +8625,7 @@ to the headlines of a front-page story in the Tribune's Chicagoland section, "Ex
 comes down to this: it's not the heat, it's the humidity." A few days
 later, the lead story of the Chicagoland section elaborated this logic.
 It is not merely heat, but "humidity, pollution, wind direction and other
-factors—such as the way the concrete and asphalt turn cities into heatretaining islands—[that] are now known to be as important as temperature in determining if the weather is dangerous."40 The articles would
+factors—such as the way the concrete and asphalt turn cities into heat-retaining islands—[that] are now known to be as important as temperature in determining if the weather is dangerous."40 The articles would
 have carried different connotations if they had been modestly framed
 as inquiries into the weather, but instead they were presented as authoritative explanations that the catastrophe was a climatic occurrence and
 not a social event. Reporting organized entirely around the natural and
@@ -9305,7 +9305,7 @@ likely to interact only with other affluent people, and progressively less
 likely to interact with other classes, especially the poor."11 If the affluent
 benefit from their exclusive and segregated environments, concentrated deprivation and abandonment compounds the risks of crime,
 disease, violence, and isolation for the poor while putting impoverished
-people and regions out of sight. As we have seen, recluses and shutins who abandon cities that have already abandoned them are not the
+people and regions out of sight. As we have seen, recluses and shut-ins who abandon cities that have already abandoned them are not the
 only casualties of these socially produced and spatially organized inequalities. But their fate in Chicago signals the dystopic possibilities in
 a city of extremes.
 
@@ -9792,7 +9792,7 @@ city, after Reverend Ledwell was done.
 Meghan and I were the only civilians there. So the media converged
 upon us wanting quotes because we were the only people to interview.
 [Looks over a photograph of reporters at the cemetery] Well, just in this
-one picture, one-two-three-four-five-six-seven-eight-nine-ten-eleventwelve-thirteen-fourteen—fifteen [ journalists] in this one photograph.
+one picture, one-two-three-four-five-six-seven-eight-nine-ten-eleven-twelve-thirteen-fourteen—fifteen [ journalists] in this one photograph.
 And that probably was a fraction of the people who were there. There
 were cameramen, camera crew, drivers, the reporters that actually appear on camera, there were print media. There was all this media there
 and nobody to interview. It was almost as if we became symbols for the
@@ -9835,7 +9835,7 @@ which is more than 160 feet long and 10 feet wide, had no tombstone,
 no sign, nothing to show that the bodies buried therein testify to the
 expendability of life on the margins of a major American metropolis
 at the moment of its greatest prosperity. In the summer of 1996 a group
-of private citizens led by the late Earl Lewis helped to erect a fourfoot-high granite monument to adorn the burial site; the stone now
+of private citizens led by the late Earl Lewis helped to erect a four-foot-high granite monument to adorn the burial site; the stone now
 stands as the only durable marker of the bodies lying beneath.
 
 I last visited the burial grounds in the summer of 2000, a little more
@@ -9932,7 +9932,7 @@ heat; Mary Comerio's (1998) study of housing and disasters reviews the significa
 but does not mention the impact of housing conditions on human victims of
 heat waves.
 
-In its effort to broaden the scope of social research and contemporary politics by redefining nature and highlighting exposure to hazardous environments as an important but underanalyzed form of inequality, environmental
+In its effort to broaden the scope of social research and contemporary politics by redefining nature and highlighting exposure to hazardous environments as an important but under-analyzed form of inequality, environmental
 justice research has established new ways of conceiving the forms of modern
 social division (Cronon 1995; Szasz and Meuser 1997). According to most of
 this research, environmental dangers such as proximity to hazardous waste storage facilities and polluting industries, unsafe water sources, and unsanitary residential conditions are largely distributed according to the class, group status,
@@ -10147,7 +10147,7 @@ the public discourse about the heat wave deaths, to ask a child or a sibling
 where they were when their relation died alone was also to accuse them of
 neglect.
 
-My strategy for addressing these challenges involved using the tools of historians, such as archival research and interviews, to learn about the lived experin o t e s t o p a g e s 3 4 – 3 9 • • •249
+My strategy for addressing these challenges involved using the tools of historians, such as archival research and interviews, to learn about the lived experience o t e s t o p a g e s 3 4 – 3 9 • • •249
 
 ences of Chicago residents during the week. But in addition I conducted fieldwork to observe the conditions of seniors who lived alone as well as the social
 environments of key sites for my study, such as neighborhoods on the West
@@ -10199,7 +10199,7 @@ interpreters. She writes, "The most important point I am trying to make in this
 book concerns the people it does not discuss—the isolated. Merrill Court was
 an unexpected community, an exception. Living in ordinary apartments and
 houses, in shabby downtown hotels, sitting in parks and eating in cheap restaurants, are old people in various degrees and sorts of isolation" (Hochschild
-1973, 137). Hochshild leaves it to others to render the social worlds of the
+1973, 137). Hochschild leaves it to others to render the social worlds of the
 isolated as explicit as she makes the world in Merrill Court.
 
 The same could be said of Barbara Meyerhoff's renowned anthropological
@@ -10237,7 +10237,7 @@ experts, expressed surprise and even disbelief at the extent of the condition.
 How, we should ask, could there be so much writing about social isolation in
 Chicago and yet so little knowledge about the status of the isolated?
 
-Part of the answer is that the concept of isolation used by U.S. urban sociolon o t e s t o p a g e 4 3 • • •251
+Part of the answer is that the concept of isolation used by U.S. urban sociologists o t e s t o p a g e 4 3 • • •251
 
 gists, beginning with Robert Park and continuing through the later generations
 of Chicago school social scientists, has not referred to the conventional meaning of the term: the literal disconnection of individuals from one another. Instead, sociologists have used the concept of isolation to describe the relationships among rather than within communities, a metaphor that draws upon the
@@ -10718,7 +10718,7 @@ the more complex relationships between place and heat wave mortality risk."
 14. The best example of a comprehensive effort to use ethnographic research to assess a range of Chicago community areas is the Comparative Neighborhood Study, directed by William Julius Wilson and Richard Taub at the
 University of Chicago. The project, which began in 1993, employed roughly
 ten graduate students for several years and covered four community areas. By
-2001, the project had produced several dissertations and books about individual areas (including Mary Pattillo-McCoy's Black Picket Fences [1999]), but not
+2001, the project had produced several dissertations and books about individual areas (including Mary Pattillo-McCoy Black Picket Fences [1999]), but not
 a broader set of findings based on cross-area comparisons.
 
 15. For a review of methodological debates about the uses of case studies,
@@ -10960,7 +10960,7 @@ churches were and are key resources in North Lawndale, and their contributions e
 
 52. Meares 1998.
 53. City of Chicago 1995, 4.
-54. Omar McRoberts makes similar observations in his research on churchbased support services in Four Corners, an African-American region of Boston.
+54. Omar McRoberts makes similar observations in his research on church-based support services in Four Corners, an African-American region of Boston.
 For a synthesis of his study, see McRoberts (2001).
 
 55. See Albert Hunter's Symbolic Communities (1974, 187) for a discussion
@@ -11028,7 +11028,7 @@ long working days and pay little in return.
 
 and 131,852 residents in the Tenth Police District.
 
-76. Residents were particularly worried about the meager resources available to local youths. The only large public park in the area was in the southwestn o t e s t o p a g e s 1 2 1 – 1 3 4 • • •267
+76. Residents were particularly worried about the meager resources available to local youths. The only large public park in the area was in the southwest o t e s t o p a g e s 1 2 1 – 1 3 4 • • •267
 
 ern corner of Little Village, too far away for most kids to reach by foot and
 too dangerous for youths associated with the wrong gangs. The local schools
@@ -11620,7 +11620,7 @@ with the copy desk, because I feel like a lot of times they look fast at somethi
 she said. "Sometimes when they catch a factual error or something I bring a
 roll of Life Savers to them. Because they have a very difficult task." Nonetheless,
 Schreuder as well as most other reporters recalled several cases in which bad
-copyediting had sabotaged their writing, either gutting its key contents or cutting straight from the bottom and ruining the ending. In these cases, Shreuder
+copyediting had sabotaged their writing, either gutting its key contents or cutting straight from the bottom and ruining the ending. In these cases, Schreuder
 pointed out, "you just want to crawl under your desk because . . . it's your name
 that's on the story, and . . . it's you the public calls, it's you who has to take
 them and the sources on the line." For several reporters, their fears of the
@@ -11633,7 +11633,7 @@ that spectacular news coverage of public happenings "helps erase history, social
 structure, economic inequalities, and discourse from the schemas that account
 for well-being and privations. . . . By definition a spectacle highlights obtrusive
 current news that captures its audience and seems to have a self-evident meaning. The meaning and the development itself are typically expressions and vivid
-reinforcements of the dominant ideology that justified extant inequality." Edelman's argument bears the marks of Guy Dubord's classic text, Society of the Spectacle ([1967] 1983). Dubord argues that "[t]he spectacle is ideology par excellence, because it exposes and manifests in its fullness the essence of all
+reinforcements of the dominant ideology that justified extant inequality." Edelman's argument bears the marks of Guy Debord classic text, Society of the Spectacle ([1967] 1983). Dubord argues that "[t]he spectacle is ideology par excellence, because it exposes and manifests in its fullness the essence of all
 ideological systems: the impoverishment, servitude, and negation of real life.
 The spectacle is materially 'the expression of the separation and estrangement
 between man and man' " ([1967] 1983, 215).
@@ -11768,7 +11768,7 @@ Applegate, William, John Runyan, Linda Brasfield, Mary Lynn Williams,
 Charles Konigsberg, and Cheryl Fouche. 1981. Analysis of the 1980 heat
 wave in Memphis. American Geriatrics Society 29:337–42.
 
-Arendt, Hannah. 1963. Eichman in Jerusalem: A report on the banality of evil. New
+Arendt, Hannah. 1963. Eichmann in Jerusalem: A report on the banality of evil. New
 
 York: Viking Press.
 
@@ -11941,7 +11941,7 @@ Negro life in the northern city. New York: Harcourt, Brace and Company. Reprint,
 
 Dubord, Guy. [1967] 1983. The society of the spectacle. Detroit: Black and Red.
 Originally published under the title La Socie´te´ du Spectacle (Paris: Editions
-Burchet-Chastel, 1967).
+Burchett-Chastel, 1967).
 
 Durkheim, Emile. 1951. Suicide: A study in sociology. Translated by John A.
 Spaulding and George Simpson; edited with an introduction by George
@@ -12041,7 +12041,7 @@ Frazier, E. Franklin. 1939. The Negro family in the United States. Chicago: Univ
 
 Freudenburg, W. R. 1988. Perceived risk, real risk: social science and the art
 
-of probabilistics risk assessment. Science 242:44-49.
+of probabilistic risk assessment. Science 242:44-49.
 
 Furstenberg, Frank, Thomas Cook, Jacqueline Eccles, and Arnold Sameroff.
 1998. Managing to make it: Urban families and adolescent success. Chicago: University of Chicago Press.
@@ -12251,7 +12251,7 @@ Kleppner, Paul. 1985. Chicago divided: The making of a black mayor. DeKalb:
 
 Northern Illinois University Press.
 
-Klinenberg, Eric. 2000. Information et production numerique. Actes de la Recherche en Sciences Sociales 134:66–75.
+Klinenberg, Eric. 2000. Information et production numérique. Actes de la Recherche en Sciences Sociales 134:66–75.
 
 Kornblum, William. 1974. Blue collar community. Chicago: University of Chicago
 
@@ -12334,8 +12334,8 @@ Massey, Douglas. 1996. The age of extremes: Concentrated affluence and poverty i
 
 Massey, Douglas, and Nancy Denton. 1993. American apartheid: Segregation and
 the making of the underclass. Cambridge, Mass.: Harvard University Press.
-Mauss, Marcel. [1916] 1979. Seasonal variations of the Eskimo: A study in social morphology (in collaboration with Henri Beuchat). London and Boston: Routledge & Kegan Paul. Orignally published under the title Essai sur
-les variations saisonnie`rs des socie´te´s Eskimos: e´tude de morphologie sociale (Paris,
+Mauss, Marcel. [1916] 1979. Seasonal variations of the Eskimo: A study in social morphology (in collaboration with Henri Beuchat). London and Boston: Routledge & Kegan Paul. Originally published under the title Essai sur
+les variations saisonnières`rs des socie´te´s Eskimos: e´tude de morphologie sociale (Paris,
 1916).
 
 McKenzie, R. D. 1925. The ecological approach to the study of the human
@@ -12601,7 +12601,7 @@ and Justine Lovig. 1999. On the beat: Police and community problem solving. Boul
 Slater, Philip. 1990. The pursuit of loneliness. Boston: Beacon Press.
 Smoyer, Karen. 1998. Putting risk in its place: Methodological considerations
 for investigating extreme event health risk. Social Science Medicine 47:1809–24.
-Sneed, Michael. 1995. Michael Sneed's column. Chicago Sun-Times, 20 July, p. 4.
+Sneed, Michael. 1995. Michael Sneed column. Chicago Sun-Times, 20 July, p. 4.
 Sood, Rahul, Geoffrey Stockdale, and Everett M. Rogers. 1987. How the news
 media operate in natural disasters. Journal of Communication 37:27–41.
 Spear, Allan. 1967. Black Chicago: The making of a Negro ghetto 1890–1920. Chicago: University of Chicago Press.
@@ -13082,7 +13082,7 @@ extremes, everyday urban, 230–34
 
 educating public about heat risks,
 
-families: elderly's involvement with,
+families: elderly involvement with,
 
 225, 226
 

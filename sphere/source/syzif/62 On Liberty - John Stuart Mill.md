@@ -183,8 +183,8 @@ it; she was the cause of my writing it." From this it would appear that she gave
 lends a progressive spirit to his speculations on politics, at the same time does not manifestly accord with his earlier advocacy
 of peasant proprietorships. Nor, again, is it, on the face of it, consistent with those doctrines of individual liberty which, aided
 by the intellectual companionship of his wife, he propounded in a later work. The ideal of individual freedom is not the ideal of
-Socialism, just as that invocation of governmental aid to which the Socialist resorts is not consistent with the theory of laisserfaire. Yet Liberty was planned by Mill and his wife in concert. Perhaps a slight visionariness of speculation was no less the
-attribute of Mrs. Mill than an absence of rigid logical principles. Be this as it may, she undoubtedly checked the halfrecognised leanings of her husband in the direction of Coleridge and Carlyle. Whether this was an instance of her steadying
+Socialism, just as that invocation of governmental aid to which the Socialist resorts is not consistent with the theory of laisser-faire. Yet Liberty was planned by Mill and his wife in concert. Perhaps a slight visionariness of speculation was no less the
+attribute of Mrs. Mill than an absence of rigid logical principles. Be this as it may, she undoubtedly checked the half-recognised leanings of her husband in the direction of Coleridge and Carlyle. Whether this was an instance of her steadying
 influence,[5] or whether it added one more unassimilated element to Mill's diverse intellectual sustenance, may be wisely left
 an open question. We cannot, however, be wrong in attributing to her the parentage of one book of Mill, The Subjection of
 Women. It is true that Mill had before learnt that men and women ought to be equal in legal, political, social, and domestic
@@ -887,7 +887,7 @@ proportion of infidels in all ages have been persons of distinguished integrity 
 who had the smallest conception how many of the persons in greatest repute with the world, both for virtues and for
 attainments, are well known, at least to their intimates, to be unbelievers. The rule, besides, is suicidal, and cuts away its own
 foundation. Under pretence that atheists must be liars, it admits the testimony of all atheists who are willing to lie, and rejects
-only those who brave the obloquy of publicly confessing a detested creed rather than affirm a falsehood. A rule thus selfconvicted of absurdity so far as regards its professed purpose, can be kept in force only as a badge of hatred, a relic of
+only those who brave the obloquy of publicly confessing a detested creed rather than affirm a falsehood. A rule thus self-convicted of absurdity so far as regards its professed purpose, can be kept in force only as a badge of hatred, a relic of
 persecution; a persecution, too, having the peculiarity, that the qualification for undergoing it, is the being clearly proved not to
 deserve it. The rule, and the theory it implies, are hardly less insulting to believers than to infidels. For if he who does not
 believe in a future state, necessarily lies, it follows that they who do believe are only prevented from lying, if prevented they
@@ -976,7 +976,7 @@ their truth is not freely and openly canvassed. However unwillingly a person who
 possibility that his opinion may be false, he ought to be moved by the consideration that however true it may be, if it is not
 fully, frequently, and fearlessly discussed, it will be held as a dead dogma, not a living truth.
 
-There is a class of persons (happily not quite so numerous as formerly) who think it enough if a person assents undoubtingly
+There is a class of persons (happily not quite so numerous as formerly) who think it enough if a person assents undoubtedly
 to what they think true, though he has no knowledge whatever of the grounds of the opinion, and could not make a tenable
 defence of it against the most superficial objections. Such persons, if they can once get their creed taught from authority,
 naturally think that no good, and some harm, comes of its being allowed to be questioned. Where their influence prevails, they
@@ -1223,7 +1223,7 @@ portion of truth which the common opinion omits, ought to be considered precious
 confusion that truth may be blended. No sober judge of human affairs will feel bound to be indignant because those who force
 on our notice truths which we should otherwise have overlooked, overlook some of those which we see. Rather, he will think
 that so long as popular truth is one-sided, it is more desirable than otherwise that unpopular truth should have one-sided
-asserters too; such being usually the most energetic, and the most likely to compel reluctant attention to the fragment of
+assertors too; such being usually the most energetic, and the most likely to compel reluctant attention to the fragment of
 wisdom which they proclaim as if it were the whole.
 
 Thus, in the eighteenth century, when nearly all the instructed, and all those of the uninstructed who were led by them, were
@@ -1318,7 +1318,7 @@ practical evil, detracting greatly from the value of the moral training and inst
 now at length exerting themselves to promote. I much fear that by attempting to form the mind and feelings on an exclusively
 religious type, and discarding those secular standards (as for want of a better name they may be called) which heretofore coexisted with and supplemented the Christian ethics, receiving some of its spirit, and infusing into it some of theirs, there will
 result, and is even now resulting, a low, abject, servile type of character, which, submit itself as it may to what it deems the
-Supreme Will, is incapable of rising to or sympathising in the conception of Supreme Goodness. I believe that other ethics
+Supreme Will, is incapable of rising to or sympathizing in the conception of Supreme Goodness. I believe that other ethics
 than any which can be evolved from exclusively Christian sources, must exist side by side with Christian ethics to produce the
 moral regeneration of mankind; and that the Christian system is no exception to the rule, that in an imperfect state of the
 human mind, the interests of truth require a diversity of opinions. It is not necessary that in ceasing to ignore the moral truths
@@ -1382,7 +1382,7 @@ against the unprevailing they may not only be used without general disapproval, 
 them the praise of honest zeal and righteous indignation. Yet whatever mischief arises from their use, is greatest when they
 are employed against the comparatively defenceless; and whatever unfair advantage can be derived by any opinion from this
 mode of asserting it, accrues almost exclusively to received opinions. The worst offence of this kind which can be committed
-by a polemic, is to stigmatise those who hold the contrary opinion as bad and immoral men. To calumny of this sort, those
+by a polemic, is to stigmatize those who hold the contrary opinion as bad and immoral men. To calumny of this sort, those
 who hold any unpopular opinion are peculiarly exposed, because they are in general few and uninfluential, and nobody but
 themselves feel much interest in seeing justice done them; but this weapon is, from the nature of the case, denied to those
 who attack a prevailing opinion: they can neither use it with safety to themselves, nor, if they could, would it do anything but
@@ -1593,7 +1593,7 @@ manner they themselves prefer, but in the way of obedience, that is, in a way pr
 by the necessary conditions of the case, the same for all.
 
 In some such insidious form there is at present a strong tendency to this narrow theory of life, and to the pinched and
-hidebound type of human character which it patronises. Many persons, no doubt, sincerely think that human beings thus
+hidebound type of human character which it patronizes. Many persons, no doubt, sincerely think that human beings thus
 cramped and dwarfed, are as their Maker designed them to be; just as many have thought that trees are a much finer thing
 when clipped into pollards, or cut out into figures of animals, than as nature made them. But if it be any part of religion to
 believe that man was made by a good being, it is more consistent with that faith to believe, that this Being gave all human
@@ -1674,7 +1674,7 @@ that they are more in need of originality, the less they are conscious of the wa
 
 In sober truth, whatever homage may be professed, or even paid, to real or supposed mental superiority, the general
 tendency of things throughout the world is to render mediocrity the ascendant power among mankind. In ancient history, in the
-middle ages, and in a diminishing degree through the long transition from feudality to the present time, the individual was a
+middle ages, and in a diminishing degree through the long transition from feudalism to the present time, the individual was a
 power in himself; and if he had either great talents or a high social position, he was a considerable power. At present
 individuals are lost in the crowd. In politics it is almost a triviality to say that public opinion now rules the world. The only power
 deserving the name is that of masses, and of governments while they make themselves the organ of the tendencies and
@@ -1896,7 +1896,7 @@ and the ordinary amount of understanding). In all such cases there should be per
 action and stand the consequences.
 
 It would be a great misunderstanding of this doctrine, to suppose that it is one of selfish indifference, which pretends that
-human beings have no business with each other's conduct in life, and that they should not concern themselves about the welldoing or well-being of one another, unless their own interest is involved. Instead of any diminution, there is need of a great
+human beings have no business with each other's conduct in life, and that they should not concern themselves about the well-doing or well-being of one another, unless their own interest is involved. Instead of any diminution, there is need of a great
 increase of disinterested exertion to promote the good of others. But disinterested benevolence can find other instruments to
 persuade people to their good, than whips and scourges, either of the literal or the metaphorical sort. I am the last person to
 undervalue the self-regarding virtues; they are only second in importance, if even second, to the social. It is equally the
@@ -2224,7 +2224,7 @@ employments are suspended, the small number who for the enjoyment of others must
 of earnings; and they are not obliged to follow those occupations, if they prefer leisure to emolument. If a further remedy is
 sought, it might be found in the establishment by custom of a holiday on some other day of the week for those particular
 classes of persons. The only ground, therefore, on which restrictions on Sunday amusements can be defended, must be that
-they are religiously wrong; a motive of legislation which never can be too earnestly protested against. "Deorum injuriæ Diis
+they are religiously wrong; a motive of legislation which never can be too earnestly protested against. "Deorum injuriææ Diis
 curæ." It remains to be proved that society or any of its officers holds a commission from on high to avenge any supposed
 offence to Omnipotence, which is not also a wrong to our fellow-creatures. The notion that it is one man's duty that another
 should be religious, was the foundation of all the religious persecutions ever perpetrated, and if admitted, would fully justify
@@ -2339,7 +2339,7 @@ One of these examples, that of the sale of poisons, opens a new question; the pr
 functions of police; how far liberty may legitimately be invaded for the prevention of crime, or of accident. It is one of the
 undisputed functions of government to take precautions against crime before it has been committed, as well as to detect and
 punish it afterwards. The preventive function of government, however, is far more liable to be abused, to the prejudice of
-liberty, than the punitory function; for there is hardly any part of the legitimate freedom of action of a human being which would
+liberty, than the punitive function; for there is hardly any part of the legitimate freedom of action of a human being which would
 not admit of being represented, and fairly too, as increasing the facilities for some form or other of delinquency. Nevertheless,
 if a public authority, or even a private person, sees any one evidently preparing to commit a crime, they are not bound to look
 on inactive until the crime is committed, but may interfere to prevent it. If poisons were never bought or used for any purpose
@@ -2428,7 +2428,7 @@ yet public gambling-houses should not be permitted. It is true that the prohibit
 of tyrannical power is given to the police, gambling-houses can always be maintained under other pretences; but they may be
 compelled to conduct their operations with a certain degree of secrecy and mystery, so that nobody knows anything about
 them but those who seek them; and more than this, society ought not to aim at. There is considerable force in these
-arguments; I will not venture to decide whether they are sufficient to justify the moral anomaly of punishing the accessary,
+arguments; I will not venture to decide whether they are sufficient to justify the moral anomaly of punishing the accessory,
 when the principal is (and must be) allowed to go free; or fining or imprisoning the procurer, but not the fornicator, the
 gambling-house keeper, but not the gambler. Still less ought the common operations of buying and selling to be interfered with
 on analogous grounds. Almost every article which is bought and sold may be used in excess, and the sellers have a
@@ -2461,7 +2461,7 @@ therefore, fit to confine the power of selling these commodities (at least for c
 vouched-for respectability of conduct; to make such regulations respecting hours of opening and closing as may be requisite
 for public surveillance, and to withdraw the licence if breaches of the peace repeatedly take place through the connivance or
 incapacity of the keeper of the house, or if it becomes a rendezvous for concocting and preparing offences against the law.
-Any further restriction I do not conceive to be, in principle, justifiable. The limitation in number, for instance, of beer and spirithouses, for the express purpose of rendering them more difficult of access, and diminishing the occasions of temptation, not
+Any further restriction I do not conceive to be, in principle, justifiable. The limitation in number, for instance, of beer and spirit houses, for the express purpose of rendering them more difficult of access, and diminishing the occasions of temptation, not
 only exposes all to an inconvenience because there are some by whom the facility would be abused, but is suited only to a
 state of society in which the labouring classes are avowedly treated as children or savages, and placed under an education of
 restraint, to fit them for future admission to the privileges of freedom. This is not the principle on which the labouring classes
@@ -2714,7 +2714,7 @@ the order itself exists for the collective power and importance of its members.
 It is not, also, to be forgotten, that the absorption of all the principal ability of the country into the governing body is fatal,
 sooner or later, to the mental activity and progressiveness of the body itself. Banded together as they are—working a system
 which, like all systems, necessarily proceeds in a great measure by fixed rules—the official body are under the constant
-temptation of sinking into indolent routine, or, if they now and then desert that mill-horse round, of rushing into some halfexamined crudity which has struck the fancy of some leading member of the corps: and the sole check to these closely allied,
+temptation of sinking into indolent routine, or, if they now and then desert that mill-horse round, of rushing into some half-examined crudity which has struck the fancy of some leading member of the corps: and the sole check to these closely allied,
 though seemingly opposite, tendencies, the only stimulus which can keep the ability of the body itself up to a high standard, is
 liability to the watchful criticism of equal ability outside the body. It is indispensable, therefore, that the means should exist,
 independently of the government, of forming such ability, and furnishing it with the opportunities and experience necessary for

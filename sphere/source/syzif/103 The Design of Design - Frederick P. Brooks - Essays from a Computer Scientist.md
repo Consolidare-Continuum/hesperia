@@ -149,7 +149,7 @@ comes into existence first as an ideal construct, built outside time
 What Is Design?
 
 and space, but complete in essence in the mind of the author. It
-is implemeted in time and space, by pen, ink, and paper; or by
+is implemented in time and space, by pen, ink, and paper; or by
 silicon and metal. The creation is complete when someone reads
 the book, uses the computer, or runs the program, thereby interacting with the mind of the maker.
 
@@ -526,7 +526,7 @@ days on the schedule were the crucial allocable resource.
 Design Trees. Now, so the Rational Model goes, the designer
 makes a design decision. Then, within the design space narrowed by that decision, he makes another.1 At each node he
 could have taken one or more other paths, so one can think of
-the process of design as the systematic exploration of a treestructured design space.
+the process of design as the systematic exploration of a tree-structured design space.
 
 In this model, design is conceptually (at least) very simple.
 One searches the tree-structured design space, testing each option
@@ -877,7 +877,7 @@ the tree-search process. As -1 illustrates, there are parallel
 attribute branches, as well as alternative branches. The choices in
 one branch are linked to those in others—by exclusion, affinity,
 or trade-off. Our massive design tree in Computer Architecture is
-much too simple; the entire "Computer zoo" in that work is necessary to elucidate the decision linkings.2
+much too simple; the entire "Computer zoo" in that work is necessary to elucidate the decision linking.2
 
 This means that at each node of a design tree, one faces not a
 simple alternative choice among options for one design decision, but
@@ -1630,7 +1630,7 @@ architect, usually on an hourly or per-
 The client develops a
 building.
 He contracts with an
-centage basis, for services, not for a specified product.
+percentage basis, for services, not for a specified product.
 elicits from the client, the users, and other stake-
 The architect
 holders a more complete program, which does not pretend to be
@@ -2362,7 +2362,7 @@ to achieve the very real benefits of collaboration.
 
 Team Design as the Modern Standard
 
-Team design is standard for modern products, both those massproduced and one-offs such as buildings or software. This is
+Team design is standard for modern products, both those mass-produced and one-offs such as buildings or software. This is
 indeed a big change since the nineteenth century. We know the
 
 Team Design as the Modern Standard
@@ -2747,7 +2747,7 @@ pursue a single objective competitively.
 Occasionally, however, there will be a formal design competition within a corporate product-development setting. During
 System/360 architectural design we worked on a stack architecture for six months. Then came the first cost-estimating cycle. The
 results showed the approach to be valid for mid-range machines
-and up, but a poor cost-performer at the low end of the sevenmodel family.
+and up, but a poor cost-performer at the low end of the seven-model family.
 
 So we had a design competition. The architecture team selfselected into some 13 little (one- to three-person) teamlets, and
 each did an architectural sketch, against a fixed set of rules and
@@ -3008,7 +3008,7 @@ team design:
 Real design is always more complex than we tend to imagine.27 This is especially true since we often start with textbook
 examples, which have perforce been oversimplified. Real
 design has more complex goals, more complex constraints to
-be satisfied, more complex measures of goodness to be satisficed. Real design always explodes into countless details.
+be satisfied, more complex measures of goodness to be satisfied. Real design always explodes into countless details.
 Real team design always requires a design-change control
 process, lest the left hand corrupt what the right hand has
 wrought.
@@ -3076,7 +3076,7 @@ Charles Eastman [1997] reviews this book in Design Studies
 (475–476):
 
 Together the studies offer a rich set of perspectives that allow a reader
-to understand both the fertileness and the idiosyncrasy of design processes. The video transcription obviously captured a rich characterization of design behavior, . . . The limitation of current methods of
+to understand both the fertility and the idiosyncrasy of design processes. The video transcription obviously captured a rich characterization of design behavior, . . . The limitation of current methods of
 protocol analysis, however, are made readily apparent. Each study by
 itself provides only a small peephole into the overall design process.
 Only through the cumulative breadth of multiple studies does the
@@ -3314,7 +3314,7 @@ in Britain and Germany.
 
 Making Telecollaboration Work
 
-Besides thousands of phone calls and documents, many pairwise face-to-face meetings coupled the laboratories. Annual twoweek-long whole-team meetings settled hanging conflicts and
+Besides thousands of phone calls and documents, many pairwise face-to-face meetings coupled the laboratories. Annual two-week-long whole-team meetings settled hanging conflicts and
 challenges—some 200 of them at one session.
 
 Our distributed development effort was occasioned by the
@@ -3454,7 +3454,7 @@ The Telephone. Next to the document comes the telephone, an
 even bigger breakthrough than email. Email users know the hazards of extemporaneous writing with no attached vocal inflections and no instant give-and-take. Instant messaging is a poor
 substitute for telephony.
 
-Telephone-Plus-Shared-Document. Telephone-plus-shareddocument becomes vastly more powerful than either alone. The
+Telephone-Plus-Shared-Document. Telephone-plus-shared document becomes vastly more powerful than either alone. The
 combination adds real-time interactions, which save a lot of
 written explanation and head off much misunderstanding. Less
 obviously, the shared document adds much specificity and detail
@@ -3564,7 +3564,7 @@ Lohr [2009],
 the concept of "collective intelligence" in which specialized teams
 coalesce via the internet for major technical projects:
 
-But a look at recent cases and new research suggests that openinnovation models succeed only when carefully designed for a
+But a look at recent cases and new research suggests that open innovation models succeed only when carefully designed for a
 particular task and when the incentives are tailored to attract the
 
 most effective collaborators. "There is this misconception that you can
@@ -3900,7 +3900,7 @@ A famous and instructive case is the accident of Lufthansa Flight
 2904, which went off the runway at Warsaw due to a failure of the
 computer-controlled stopping systems to engage. The code followed
 the specification, which was wrong for the unexpected circumstances.
-According to http://en.wikipedia.org/wiki/Luftansa_Flight_2904,
+According to http://en.wikipedia.org/wiki/Lufthansa_Flight_2904,
 referenced on July 16, 2009:
 
 To ensure that the thrust-reverse system and the spoilers are only activated in a landing situation, all of the following conditions have to be
@@ -4114,7 +4114,7 @@ ones won't.
 
 use model is a weighted collection of use cases. Robertson and Rob-
 A
-ertson [2005], Requirements-Led Project Management, treat use cases in
+Robertson [2005], Requirements-Led Project Management, treat use cases in
 considerable detail.
 
 2.
@@ -4322,7 +4322,7 @@ some reserves for dispatch to the hottest part of the battle as it
 develops.6
 
 It is imperative that only one person control budgeting and
-rebudgeting. Gerry Blaauw did this superbly with bits in the Program Status Word of the System/360 architecture. These were,
+re-budgeting. Gerry Blaauw did this superbly with bits in the Program Status Word of the System/360 architecture. These were,
 along with memory bandwidth and bits in instruction formats,
 the budgeted resources the architects were allocating. His total
 system overview, his cautious stinginess, his inventiveness of
@@ -5082,7 +5082,7 @@ prose:
 •
 
 Dialect and diction
-Person, tense, formality, vividity of color, warmth of tone
+Person, tense, formality, vividness of color, warmth of tone
 Balance and rhythm—prosody
 Usage—for instance, gender pronouns
 Punctuation
@@ -5671,7 +5671,7 @@ but only on those that are most current and fashionable. The
 
 Exemplars—Laziness, Originality, and Pride
 
-world is full of lazy Bauhaus architecture and mediocre ranchtype homes done in Frank Lloyd Wright's "prairie" style.
+world is full of lazy Bauhaus architecture and mediocre ranch-type homes done in Frank Lloyd Wright's "prairie" style.
 
 Not laziness, but a high level of enthusiasm and diligence is
 required for the mastery of the corpus of exemplars available in
@@ -5965,7 +5965,7 @@ achieved through a parameter.
 
 No Iteration. There is no direct primitive in JCL to accomplish
 iteration; it must be fashioned out of the awkward branching.
-The designers did not imagine an iterative action in a scheduletime script.
+The designers did not imagine an iterative action in a schedule-time script.
 
 No Clean Subroutine Call. Similarly, the designers did not perceive any need for a subroutine call in a schedule-time script. This
 is harder to understand, for many JCL programs make extensive
@@ -6200,7 +6200,7 @@ Philippe Kruchten systematized this sort of exposure when
 
 he was the lead architect for Canada's air-traffic control system:
 
-All the software people were sent for hands-on training on airtraffic control, going to ATC classes, then spending days sitting
+All the software people were sent for hands-on training on air traffic control, going to ATC classes, then spending days sitting
 next to controllers in a live Area Control Center, trying to understand what was the essence of their activity. Similarly, the ATC
 specialists were sent to courses such as Object-Oriented Design,
 Programming in Ada, to reach the point where there was enough
@@ -6212,7 +6212,7 @@ Development and Iterative Delivery
 Harlan Mills's system of incremental development and iterative
 delivery is the best way to stay quite close to users right from the
 very start of the project.5 One builds a minimal-function version
-that works; then one gives it to users to use, or at least to testdrive. Even products being built for a mass market can be tested
+that works; then one gives it to users to use, or at least to test drive. Even products being built for a mass market can be tested
 on a sample of users.
 
 In my own practice, building interactive graphics systems as
@@ -6426,7 +6426,7 @@ But this mapping is supplemented by multiple indices, each
 restoring cut links to form chains: an author index, a title index, a
 subject index.
 
-The subject index is especially interesting because the shelforder mapping was already based on principal subject. The subject index recognizes that any work treats many subjects besides
+The subject index is especially interesting because the shelving mapping was already based on principal subject. The subject index recognizes that any work treats many subjects besides
 its principal one.
 
 A Wikipedia article solves this web-structure representation
@@ -6728,7 +6728,7 @@ On the other hand, complete modularity also has drawbacks.
 Optimized designs have components that achieve multiple goals.
 Consider the unibody car: the body is not just for esthetics and
 holding passengers, it is also the structure. The unibody design
-is lighter and stronger than a ladder-frame body. But a ladderframed pickup truck can be converted to an SUV more easily
+is lighter and stronger than a ladder-frame body. But a ladder-framed pickup truck can be converted to an SUV more easily
 than can a unibodied one.
 
 Compendium and Alternative Tools
@@ -6784,7 +6784,7 @@ Compendium
 
 Compendium has many advantages. It is remarkably flexible; it is
 becoming even more so. An active team of developers are extremely
-responsive to requests and cries for help. Compendium's requestand bug-tracking database is online and public. A large community of users share a very active online discussion forum. Hence
+responsive to requests and cries for help. Compendium's request-and bug-tracking database is online and public. A large community of users share a very active online discussion forum. Hence
 Compendium is always growing to handle new uses.
 
 DRed—A Tantalizing Tool
@@ -7119,7 +7119,7 @@ minds of designers so indoctrinated?
 
 I submit that they did. None were amateurs. All trained by
 studying precedents. Like Bach, they innovated from mastery,
-not ignorance. The Grandma Moseses of the world are few.
+not ignorance. The Grandma Moses of the world are few.
 
 Perhaps more relevant, these "but what about?" examples
 represent a minute fraction of designs, and a great tool doesn't
@@ -8058,7 +8058,7 @@ users get their hands on a successful and truly innovative product, at least fou
 
 •
 
-Use reveals shortcomings that need to be corrected in followon products.
+Use reveals shortcomings that need to be corrected in follow-on products.
 Users will put the innovation to unexpected uses, enlarging
 the product concept, usually in an incremental way.
 The innovation's demonstrated usefulness creates a demand
@@ -8309,7 +8309,7 @@ IBM Watson Research Laboratory
 
 I have just argued that great designs come from great designers,
 not from great design processes. Although technical designs are
-now always the work of teams, we still identify the great designers around whom the teams formed: John Roebling (the steelcable Brooklyn Bridge), George Goethals (the Panama Canal), R.
+now always the work of teams, we still identify the great designers around whom the teams formed: John Roebling (the steel cable Brooklyn Bridge), George Goethals (the Panama Canal), R.
 J. Mitchell (the Spitfire), Seymour Cray (the CDC 6600, the Cray 1
 supercomputers), Ken Thompson and Dennis Ritchie (UNIX).
 
@@ -8358,7 +8358,7 @@ concurrently with science education. Only rarely do computer
 science curricula do that.
 
 Similarly, strong engineering curricula often include "co-op"
-or "sandwich" programs, in which students intersperse on-thejob practice (and company training) between initial and final academic education. This practice is still far too rare in computer
+or "sandwich" programs, in which students intersperse on-the job practice (and company training) between initial and final academic education. This practice is still far too rare in computer
 science curricula.
 
 The weakness of much academic formal education is its reliance on lectures and readings, as opposed to critiqued practice.
@@ -8821,7 +8821,7 @@ transformations."
 
 The Reduced Instruction Set Computer (RISC) concept is often misunderstood. The basic idea is not a reduced set of instructions, but a
 set of reduced instructions, that is, more primitive. In extreme form,
-there are no subsequenced instructions, not even a Shift N Bits or a
+there are no subsequent instructions, not even a Shift N Bits or a
 Multiply. This enables the accumulator-adder-accumulator loop to
 be minimized, and with instruction cache and an optimizing compiler, everything goes faster. I know of no one besides John whose
 mastery of both computer design and compiler optimization could
@@ -8911,7 +8911,7 @@ structure how very many decisions must be specified and the
 numerous considerations affecting them.
 
 Bold Decision. Place the house as close to the ocean as possible, while still on the warranty-deeded lot. It is about 40' forward
-of all the neighbors' houses, at somewhat greater risk of washaway.
+of all the neighbors' houses, at somewhat greater risk of wash away.
 
 Budgeted Resource. For this house design, the budgeted
 resource turned out to be inches of oceanfront, hence of view and
@@ -9014,7 +9014,7 @@ traffic in and out of the Cape Fear River. Front is defined as the
 ocean side, not the road side, of the house. The soil is coarse beach
 sand; the vegetation is low scrub, sea oats, and smilax vines.
 
-Dunes. The house can readily be as close as 65' to the highwater mark because it is protected by a row of dunes.
+Dunes. The house can readily be as close as 65' to the high water mark because it is protected by a row of dunes.
 
 Views. Due to the narrowness of the island, there is not only a
 180º view of the beach from the front of the house, there is a 135º
@@ -9406,7 +9406,7 @@ proved to be big improvements.
 
 Wall Omission. The omission of the wall originally planned
 between the Hall and the Kitchen makes the biggest Kitchen
-work surface available from the Hall. Meals are served buffetstyle from that work surface, a convenience not contemplated in
+work surface available from the Hall. Meals are served buffet style from that work surface, a convenience not contemplated in
 the design. Multiple cooks can more readily work.
 
 Toilet in Tower. Putting a toilet in the Tower makes it a separate bedroom suite, an unexpected benefit.
@@ -9641,7 +9641,7 @@ for its function.
 
 When in 1965 we moved in, we had two sons, aged 7 and 3,
 and a 6-month-old daughter. To be near the children, we used the
-Red Bedroom as the Master Bedroom, and the other three eastend bedrooms for the children. The original Master Bedroom, at
+Red Bedroom as the Master Bedroom, and the other three east end bedrooms for the children. The original Master Bedroom, at
 the west end, was used as a guest suite from 1965 to 1986.
 
 We finished the basement as an apartment and relocated our
@@ -10458,11 +10458,11 @@ yields a 24' perimeter.
 Storage for Plates, Glasses. Putting these items in drawers
 worked better than cabinet storage for the shorter user.
 
-Rolling Auxiliary Island. The 26" x 26" island with a 12" flipup extension provides storage for silver, glasses, and implements.
+Rolling Auxiliary Island. The 26" x 26" island with a 12" flip-up extension provides storage for silver, glasses, and implements.
 It also provides staging for the refrigerator and an optional extension to the main island for buffet service.
 
 Low East Work Counter. The east work counter was made
-low for the convenience of the shorter user. It also enables a tallappliance garage.
+low for the convenience of the shorter user. It also enables a tall appliance garage.
 
 Appliance Garage. This space is embedded in the adjacent
 closet through the south wall.
@@ -10912,7 +10912,7 @@ Other Important Objectives
 Develop a single new total software support, exploiting
 binary compatibility to enable a single rich system to replace
 the multitude of incomplete second-generation systems. This
-must include a new operating system incorporating the fastdeveloping concepts from second-generation computers'
+must include a new operating system incorporating the fast-developing concepts from second-generation computers'
 operating systems experience.
 Devise ways to help customers convert to System/360 from
 their second-generation systems, even as competitors offered
@@ -11081,7 +11081,7 @@ microprogrammed implementation. Models 75 and 91 used conventional logic.
 
 Emulation of Earlier Architectures. Stewart Tucker saw that
 the 32-bit-4-parity-bit memory and datapath word of the Model
-65 implementation could gracefully accommodate the 36-bit-noparity word of the 7090. He invented a microcoded 7090 emulator
+65 implementation could gracefully accommodate the 36-bit-no-parity word of the 7090. He invented a microcoded 7090 emulator
 that used the Model 65 datapaths quite effectively. This breakthrough proved to be a major solution to the conversion problem
 for 7090, 7074, and 7080 customers.5
 
@@ -11099,7 +11099,7 @@ was a mistake, which was rectified in the first successor generation, System/370
 New Random-Access I/O Devices. The project spent a lot of
 development effort on a new drum for operating system residence and new disk files. We saw this as fundamental for new
 applications and for diversity of system configurations. Similarly,
-new single-line and multiline communications controllers were
+new single-line and multi-line communications controllers were
 developed.
 
 Input-Output Channels.
@@ -11189,7 +11189,7 @@ were a stunning array of 8-bit input-output devices: multiple
 printers, some with variable character sets; multiple disks, some
 with replaceable cartridges; new tape systems; a spectrum of communications terminals and network devices; new card punches,
 readers, and printers; and miscellaneous devices such as check
-sorters and factory-data-input terminals. The richness of this collection, developed in many far-flung laboratories, enabled a nearinfinite variety and scale of system configurations. The standard
+sorters and factory-data-input terminals. The richness of this collection, developed in many far-flung laboratories, enabled a near-infinite variety and scale of system configurations. The standard
 I/O interface and its software support meant that configuration
 growth and change were easy. CPU compatibility meant that the
 machine at the center of a configuration was often upgraded to a
@@ -11210,7 +11210,7 @@ competitors were mostly themselves computers with S/360 architecture, the so-cal
 software.
 
 Models 75, 91, and others in that family were designed as scientific supercomputers. They split that market pretty evenly with
-the contemporary CDC and Cray machines, but the Cray descendants came to dominate it. Four Model 75s provided the groundbased computing for the Apollo program; hardened derivatives of
+the contemporary CDC and Cray machines, but the Cray descendants came to dominate it. Four Model 75s provided the ground-based computing for the Apollo program; hardened derivatives of
 System/360 served as the on-board computers.
 
 Delight
@@ -11575,9 +11575,9 @@ of disk files, but generally the operating system itself was resident on tape.
 Late-first-generation IBM operating systems provided for
 Simultaneous Peripheral operation on Line (SPooL), so that at
 any given time a second-generation computer could be executing
-one main application and several card-to-tape/disk, tape/diskto-card, tape/disk-to-printer utilities. These latter were "trusted
+one main application and several card-to-tape/disk, tape/disk to-card, tape/disk-to-printer utilities. These latter were "trusted
 programs," carefully written so as not to corrupt or intrude on
-the main application, which usually ran tape-to-tape or disk-todisk. Thus a computer would be preparing tapes for the next job,
+the main application, which usually ran tape-to-tape or disk-to disk. Thus a computer would be preparing tapes for the next job,
 running a main job, and printing output from the previous job,
 all at once.
 
@@ -11684,7 +11684,7 @@ System Structure
 
 In OS/360, the three independent streams of control program
 evolution come together. The Supervisor evolved from early
-interrupt-handling routines; the Scheduler, from earlier tapebased job schedulers; the Data Management System, from earlier
+interrupt-handling routines; the Scheduler, from earlier tape based job schedulers; the Data Management System, from earlier
 packages of I/O subroutines. The system structure mirrors this
 diverse ancestry.
 
@@ -11780,7 +11780,7 @@ Two other access methods were designed especially to provide full flexibility an
 
 Of all the I/O devices, the check sorters alone, curiously
 enough, posed a rigid constraint on operating system performance—the time of a paper check's flight between the reading
-head and the sorter pocket is fixed and short. In banks' checkrouting and check-processing facilities, these machines read the
+head and the sorter pocket is fixed and short. In banks' check routing and check-processing facilities, these machines read the
 magnetic-ink numerals along the bottom of the check at a reading station and then route the check into one of some 24 pockets,
 at a rate of up to 40 checks/second.6
 
@@ -12179,7 +12179,7 @@ LIAISON,
 CAMPUS COMPUTING
 CENTER DIRECTORS
 
-TUCC SYTEMS
+TUCC SYSTEMS
 PROGRAMERS
 
 LIAISON WITH
@@ -12322,7 +12322,7 @@ Primary Goal of the Center. Deliver a prompt, high-quality
 computing service to clients with a wide variety of applications
 and a wide range of sophistication.
 
-Primary Goal of the Organization Design. Develop a smoothrunning governance plan for a joint computer center owned
+Primary Goal of the Organization Design. Develop a smooth running governance plan for a joint computer center owned
 equally by three different institutions with different needs and
 objectives.
 
@@ -12514,7 +12514,7 @@ Model Flexibility. As NCSU's usage increased, various ad hoc
 arrangements were adopted whereby it put in more money for
 specific capacity enhancements (for example, more memory) in
 return for an increased usage share of the whole resource. Such
-devices long preserved the form, if not the substance, of the threeequal-owners premise under which TUCC was begun. After the
+devices long preserved the form, if not the substance, of the three equal-owners premise under which TUCC was begun. After the
 minicomputer revolution, Duke usage declined. Much computing
 service at Duke went to departmentally managed minicomputers.
 

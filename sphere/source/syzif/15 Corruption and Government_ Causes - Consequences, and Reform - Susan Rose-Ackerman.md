@@ -28,7 +28,7 @@ Search for Environmental Quality and The Nonprofit Enterprise
 in
 Market Economies. She has also published widely in law, economics, and
 policy journals. Her current research interests include comparative reg
-ulatory law and policy, the political economy of corruption, public policy
+regulatory law and policy, the political economy of corruption, public policy
 and administrative law, and law and economics.
 
 Corruption and Government
@@ -250,7 +250,7 @@ Among the many supportive and helpful staffers, I particularly wish to
 thank Ladipo Adamolekun, William Easterly, Daniel Kaufmann, Petter
 Langseth, John Macgregor, Boris Pleskovic, Neil Roger, Sabine Schlemmer-Schulte, Frederick Stapenhurst, and Michael Stevens. At the Inter
 national Monetary Fund I also had useful discussions with Nadeem Ul
-Haque, Paolo Mauro, Vito Tanzi, and Caroline Van Rijckegham. All of
+Haque, Paolo Mauro, Vito Tanzi, and Caroline Van Rijckeghem. All of
 them were helpful sounding boards, but should not, of course, be impli
 cated in any of my conclusions. Obviously, the World Bank itself bears
 no responsibility for my analysis and conclusions. I owe a special debt
@@ -300,7 +300,7 @@ parency International (TI), an international nonprofit organization
 devoted to fighting corruption worldwide. This association has given me
 a valuable opportunity to be on the inside of a growing international
 movement and to keep up to date on worldwide developments.
-TI-USAs executive director Nancy Boswell has been a strong moral
+TI-USA's executive director Nancy Boswell has been a strong moral
 supporter of my research efforts, as has Fritz Heimann, the chair of
 TI-USA's board. The international organization - based in Berlin, but
 with chapters worldwide - has become a global force and a clearinghouse
@@ -312,7 +312,7 @@ thank TI for its interest in my own work, but obviously do not implicate
 them in any of my specific proposals.
 
 Several collaborative papers have contributed to the arguments I
-develop here. Within the World Bank Group, I collaborated with Jacque
+develop here. Within the World Bank Group, I collaborated with Jacqueline
 line Coolidge of the Foreign Investment Advisory Service on a paper on
 corruption in Africa and with Andrew Stone of the Private Sector Devel
 opment Department on a paper that analyzed World Bank surveys in the
@@ -479,7 +479,7 @@ public spending.
 Alberto Ades and Rafael di Telia (1997a) argue that an aggressive industrial
 policy may be partly motivated by the corrupt gains the policy makes available.
 In such cases, the direct positive effect of the policy can be undermined by its
-role in increasing corruption and, hence, discouraging investment. Their empir
+role in increasing corruption and, hence, discouraging investment. Their empirical
 ical results demonstrate that in the presence of corruption, the positive impact
 of industrial policy is halved. East Asian economies are not immune from this
 effect. Simon Johnson, Daniel Kaufmann, and Pablo Zoido-Lobaton (1998:
@@ -741,7 +741,7 @@ equivalent to the price in an efficient market. The state could have legally
 sold the service with the same result except for the distribution of the
 revenue. Bribes increase the incomes of civil servants. Legal payments
 go into the government's treasury. But even that difference may be illu
-sory. If the labor market is competitive, the government can reduce the
+illusory. If the labor market is competitive, the government can reduce the
 pay of civil servants to below private sector wages because of the payoffs
 available to public officials (Besley and McLaren 1993; Flatters and
 MacLeod 1995). In short, if competitive conditions exist both in the
@@ -767,7 +767,7 @@ and Vannucci 1997a). For all these reasons, a corrupt system will be not
 only less competitive but also more uncertain than a legal market.
 
 Furthermore, payoffs may undermine the goals of a program. In Great
-Britain in the eighteenth century many officials were legally remuner
+Britain in the eighteenth century many officials were legally remunerated
 ated by retaining a portion of the fees they collected. Reformers, urging
 a shift to fixed salaries, claimed that officials unfairly focused on the most
 "profitable" parts of their jobs (Chester 1981:139). In particular, services
@@ -878,7 +878,7 @@ can withhold services from anyone who does not make a payoff, but it
 will be difficult for anyone to prove that they have been unfairly treated.
 The greater the discretion of officials and the fewer the options open
 to private firms and individuals, the higher the costs of a system that con
-dones corruption even if all who obtain the service are, in fact, qualified.
+condones corruption even if all who obtain the service are, in fact, qualified.
 The costs are the time and trouble suffered by potential beneficiaries as
 a result of officials' efforts to extract bribes (Bardhan 1997; Klitgaard
 1988).
@@ -946,7 +946,7 @@ tant agency, such as tax collection or the provision of public utilities, may
 encourage its spread to other areas with harmful consequences. Second,
 the authors assume that officials have only limited discretion. For ex
 ample, the tax collector "discovers" the tax liabilities of citizens and
-firms. In reality, he or she might "create" tax liabilities as a bribe extrac
+firms. In reality, he or she might "create" tax liabilities as a bribe extraction
 tion device. If firms' and individuals' vulnerability to corrupt demands
 varies, the result is an arbitrary and unfair pattern of payments. The sum
 of taxes and bribes would vary across taxpayers in a way that reflects the
@@ -987,7 +987,7 @@ efforts designed to make the economy more open and competitive
 (Bigsten and Moene 1996). In short, although bribes can sometimes be
 characterized as incentive payments to public officials, a policy of active
 tolerance will undermine the prospects for long-term reform. It will also
-tend to delegitimate government in the eyes of its citizens. Payoffs that
+tend to delegitimates government in the eyes of its citizens. Payoffs that
 are widely viewed as acceptable should be legalized, but not all "incen
 tive pay" schemes will improve bureaucratic efficiency. Some may simply
 give officials an incentive to create more delays and red tape and to favor
@@ -1097,7 +1097,7 @@ York Times, October 22,1998.
 
 returns. Underpayment of customs was facilitated by the lack of clear
 guidelines and of published tariffs. The extensive discretion of officials
-encouraged corrupt payoffs designed to evade tariffs. Of course, a wellworking system would have been able to reduce tax and tariff rates, but
+encouraged corrupt payoffs designed to evade tariffs. Of course, a well-working system would have been able to reduce tax and tariff rates, but
 the distortionary effect of such a high level of evasion is clear (Dia 1996:
 46-47, 94-100). A study of tariff exemptions in Zambia, Tanzania, and
 Mali estimated that exemptions, both justified and unjustified, produced
@@ -1169,7 +1169,7 @@ safety rules or enlist the help of criminals to evade the law. Instead, such
 firms work to change the laws, make legal campaign contributions, lobby
 public agencies, and bring lawsuits that challenge laws and regulations.
 One can complain about the importance of wealth and large corpora
-tions in the political life of developed countries, but at least welldocumented lobbying activities and campaign contributions are prefer
+tions in the political life of developed countries, but at least well-documented lobbying activities and campaign contributions are prefer
 able to secret bribes in maintaining democratic institutions.
 
 Some of these same firms, however, feel less constraint about violat
@@ -1194,7 +1194,7 @@ Domestic companies often operate in the same fashion.
 
 There are two difficulties with a policy of widespread tolerance. First,
 one cannot rely on investors to pay bribes only to avoid inefficient rules
-and taxes. They will, instead, want to reduce the impact of all stateimposed burdens, justified or not. Of course, one can construct models
+and taxes. They will, instead, want to reduce the impact of all state-imposed burdens, justified or not. Of course, one can construct models
 in which the laws on the books are all payoffs to politically powerful
 groups with no public legitimacy (Brennan and Buchanan 1980; Stigler
 1971). Then avoiding the burdens imposed by such laws seems a worthy
@@ -1301,7 +1301,7 @@ tion earn sufficient monopoly rents to make them supporters of con
 tinued organized-crime influence. Diego Gambetta and Peter Reuter
 provide a list of the factors favoring the emergence of Mafia-controlled
 cartels (Gambetta and Reuter 1995: 128). In the most favorable cases
-product differentiation and barriers to entry are low; technology is unso
+product differentiation and barriers to entry are low; technology is unsophisticated
 phisticated and labor unskilled; demand is inelastic; and the industry con
 sists of a large number of small firms. Private garbage collection provides
 a good example. Entry is inexpensive - one need only purchase a truck.
@@ -1344,7 +1344,7 @@ in connection with its illegal businesses, it may be a relatively short step
 to make payoffs to obtain public contracts on favorable terms. In the
 extreme, organized crime groups manage cartels that share contracts and
 pay off public officials to buy their complicity or at least their silence. In
-southern Italy, for example, a survey reports that over half of the smalland medium-sized businesses reported that they withdrew from a public
+southern Italy, for example, a survey reports that over half of the small-and medium-sized businesses reported that they withdrew from a public
 tender after pressure from criminal groups or their political allies.17
 
 The wealth, unscrupulousness, and international connections of many
@@ -1409,7 +1409,7 @@ If the government is a buyer or a contractor, there are several reasons
 to pay off officials. First, a firm may pay to be included in the list of prequalified bidders and to restrict the length of the list. Second, it may pay
 for inside information.1 Third, bribes may induce officials to structure the
 bidding specifications so that the corrupt firm is the only qualified sup
-plier. Fourth, a firm may pay to be selected as the winning contractor.
+supplier. Fourth, a firm may pay to be selected as the winning contractor.
 
 1 Many Italian corruption cases involve payoffs to obtain confidential information
 about minimum and maximum price thresholds, average-offer prices, and project
@@ -1429,7 +1429,7 @@ possibilities.
 In Paraguay corruption in the award of international construction con
 tracts during the regime of President Alfredo Stroessner (1954-1989)
 typically ranged from 10 to 20 percent. Corruption helped inflate the cost
-of the Itaipii dam on the Brazilian border and led to the construction of
+of the Itaipú dam on the Brazilian border and led to the construction of
 projects that exceeded domestic needs (Nickson 1996: 244-245). In
 Indonesia in the 1970s two German companies reportedly paid bribes of
 20 percent of the value of construction contracts for a steel mill to an
@@ -1556,7 +1556,7 @@ expenditures and favor public investment over private investment. They
 will frequently support "white elephant" projects with little value in pro
 moting economic development. 13
 
-The demand for cement is one tipoff. In Nigeria in 1975 the military
+The demand for cement is one tip-off. In Nigeria in 1975 the military
 government ordered cement that totaled two-thirds of the estimated
 
 12 Da-Hsiang Donald Lien (1990a, 1990b) canvasses these difficulties and shows
@@ -1761,7 +1761,7 @@ ownership, but the explanatory power of his model is low.
 For example, in Malaysia firms involved in the privatization of both electricity
 and telecoms have complained that the government subsequently admitted
 numerous additional competitors with strong political links. See Kieran Cooke,
-"Malaysian Privatisation Loses Allure," Financial Times, October 13,1995.
+"Malaysian Privatization Loses Allure," Financial Times, October 13,1995.
 
 Corruption of High-Lev el Officials
 
@@ -1859,7 +1859,7 @@ thing an outsider cannot rely upon. Ex post evaluations reveal that the
 
 Financial Times, December 18,1995.
 
-22 "Russian Privatisations Face Crime Probe," Financial Times, February 6, 1996.
+22 "Russian Privatizations Face Crime Probe," Financial Times, February 6, 1996.
 
 See also Celarier (1996: 66).
 
@@ -1921,7 +1921,7 @@ Second, frequently the state sells off only a portion of the state firm,
 often retaining control, at least in the early years. Such hybrids may be
 especially subject to corrupt inside arrangements (Kaufmann and Siegelbaum 1997: 442). Private shareholders in a firm that is partially owned
 by the state may attempt to shift losses onto the state with the con
-nivance of public officials. In Italy, for example, a joint public-private
+connivance of public officials. In Italy, for example, a joint public-private
 venture in the chemical industry seems to have involved just such a trans
 fer. Bribes were apparently paid both to benefit the private firm when
 the venture was formed and to obtain a high price for the same assets
@@ -2124,7 +2124,7 @@ efficient performance.
 
 If privatized firms will retain monopoly power, new regulatory insti
 tutions must be created that are not themselves subject to improper
-influence. It is important to set up the regulatory framework in a credi
+influence. It is important to set up the regulatory framework in a credible
 ble way before tendering begins. Developing and transitional economies
 with newly private public utilities must set up strong apolitical regula
 tory agencies with transparent and open processes (Tenenbaum 1996).
@@ -2289,7 +2289,7 @@ but regulatory redesign that can permit the more cost-effective achieve
 ment of statutory goals. The use of more decentralized incentive mech
 anisms for regulation differs both from simple agency inaction and from
 a slavish devotion to business interests. In areas such as pollution of the
-air and water, market tests and efficiency imply regulation, not deregu
+air and water, market tests and efficiency imply regulation, not deregulation
 lation. The use of financial incentives may mean that higher levels of
 cleanup are possible than with command and control regulation. Such
 schemes could produce genuine reform, not a sellout to regulated firms.
@@ -2456,7 +2456,7 @@ tive bureaucracy, qualified applicants will pay no more than the cost of
 applying to another official, taking into account that the next official may
 also demand a bribe. Now the honesty of some officials increases the cost
 to unqualified applicants and may drive them away, reducing bribe rev
-enues and inducing some formerly corrupt officials to switch, further
+revenues and inducing some formerly corrupt officials to switch, further
 increasing the risk of detection, and so forth. Bribery is a gamble both
 for citizens and for officials who must consider the possibility that the
 citizen will report the corrupt demand. If the stakes become too un
@@ -2816,7 +2816,7 @@ employees and agents.
 An alternative system rewards "whistleblowers" within firms and
 public agencies who come forward with evidence of wrongdoing. Report
 ing the peculations of others can be dangerous. If corruption is systemic,
-one risks being disciplined by corrupt superiors and attacked by cowork
+one risks being disciplined by corrupt superiors and attacked by coworkers
 ers. One study of corruption in China suggests that this is a serious
 problem (Manion 1996a). The whistleblower may even end up accused
 of corruption.14 Thus governments should consider promulgating statutes
@@ -2832,7 +2832,7 @@ of the total penalties and other damages levied against firms for wrong
 doing that has injured the federal government. The rewards are available
 to people both inside and outside the firm - although not to government
 officials with direct responsibility for detecting contract violations. If the
-whistlebower brings suit and is successful, he or she can recover from 25
+whistleblower brings suit and is successful, he or she can recover from 25
 to 30 percent of the penalty. If the Justice Department opts to join the
 action, the minimum recovery is reduced to 15 percent because the gov
 ernment will bear most of the legal costs. Unsuccessful private plaintiffs
@@ -3289,7 +3289,7 @@ damage to society and then to organize the deterrence effort to make
 corruption costly on the margin and to give participants an incentive to
 report a corrupt deal.
 
-Procurement reform serves as a third basic component of an anticor
+Procurement reform serves as a third basic component of an anticorruption
 ruption strategy. It should be viewed as an opportunity to rethink what
 the government buys as well as how it goes about making purchases.
 Although reforms in the United States should not be mindlessly trans
@@ -3450,7 +3450,7 @@ and low-skilled workers earned more than twice the minimum wage in
 the private sector (Reid and Scott 1994: 48).
 
 If public sector pay is very low, corruption is a survival strategy. One
-should be careful, however, not to exaggerate the public/private dispar
+should be careful, however, not to exaggerate the public/private disparity
 ity. In most cases total remuneration includes not just formal wages but
 also perks such as housing or health care. These in-kind benefits become
 especially valuable during periods of high inflation. World Bank figures
@@ -3468,7 +3468,7 @@ salary of officials will "recoil upon the public, by creating new claims for
 consideration, which must in justice be satisfied" (quoted in Chester
 1981: 144). A recent cross-country study finds a negative association
 between civil service wages (relative to private sector wages in manu
-facturing) and the level of corruption (Van Rijckeghem and Weder
+manufacturing) and the level of corruption (Van Rijckeghem and Weder
 
 3 Consider two other well-documented examples. In Peru in 1987 salaries in the
 tax administration had fallen to 33 percent of their 1971 level. During the same
@@ -3501,7 +3501,7 @@ even those trained by the government itself, exit, leaving the less
 qualified behind. In the absence of corruption and moonlighting, a labor
 market equilibrium arises with those of low skill concentrated in lowpaid government jobs they are unqualified to perform. Of course, some
 applicants may be especially committed to government service, but there
-may not be enough of them to staff the bureaucracy, and the publicspirited may not be well qualified on other grounds. If the system is in
+may not be enough of them to staff the bureaucracy, and the public-spirited may not be well qualified on other grounds. If the system is in
 equilibrium, the marginal worker will be one who finds a government
 job at least as good as a private sector job, but there may be many inframarginal workers who are not employable at the private sector wage. 4
 After many years have passed, the civil service will be disproportionately
@@ -3530,7 +3530,7 @@ Increasing pay and improving working conditions may have little impact
 on performance. In addition, new hires must replace much of the exist
 ing work force. A careful redesign of public programs will also be needed
 to reduce incentives for corruption and create incentives for productive
-activity. This conclusion is consistent with Van Rijckeghem and Weder's
+activity. This conclusion is consistent with Van Rijckeghem and Weder
 (1997) attempt to explain changes in the corruption index within coun
 tries over time. As in the cross-country regressions, the quality of the
 bureaucracy was negatively associated with the level of corruption, but
@@ -3708,7 +3708,7 @@ not always possible. Tax collectors, policemen, procurement specialists,
 and regulatory officials will always face corrupt incentives. Thus effec
 tive corruption control also requires a credible system of rewards and
 punishments. Formal legal sanctions provide an important backup, but
-incentives within the bureaucracy can also be used to reduce the incid
+incentives within the bureaucracy can also be used to reduce the incidence
 ence of corruption. Both carrots and sticks are needed to encourage
 efficiency and limit payoffs. Incentives can stress individual performance
 or provide rewards and punishments tied to group performance.
@@ -3732,7 +3732,7 @@ to officials' behavior. Here I focus on positive incentives for good
 performance.
 
 Civil service systems are often managed in a way that undervalues
-performance. For example, in many Latin America countries rigid rulebound systems set wages using technical criteria unrelated to market
+performance. For example, in many Latin America countries rigid rule-bound systems set wages using technical criteria unrelated to market
 realities. Nonwage allowances, distributed with little concern for pro
 ductivity, exacerbate the problem. Because of worries about corruption
 and favoritism, centralized systems control expenditure, employment,
@@ -3799,7 +3799,7 @@ is the problem to which individualized incentive pay is the solution.
 Public officials can work together to provide high-quality services or to
 maximize bribery revenues. Teamwork among officials is the hallmark of
 many cases of police corruption. If performance can be measured, indi
-vidualized incentive pay systems can be a tool to break up circles of
+individualized incentive pay systems can be a tool to break up circles of
 corruption.
 
 Public enterprises ought to be obvious candidates for institutional
@@ -3907,7 +3907,7 @@ businesses - both legal and illegal. For example, in Nepal policemen
 involved in the transport of hashish and the enforcement of highway
 regulations collected illegal fees that were shared with district officers
 (Alfiler 1986: 46). In tax and customs agencies lower-level officials
-dealing with taxpayers frequently must share their payoffs with superi
+dealing with taxpayers frequently must share their payoffs with superiors
 ors. In one Korean case officials explained the size of their bribe requests
 by claiming that the payoff must be shared with their director, division
 chief, and section chief (ibid.: 41).
@@ -3966,7 +3966,7 @@ always make deals, and the penalty is never paid. Nevertheless, higher
 levels of the penalty increase the threat point of higher-ups, thus reduc
 ing the benefits to the official at the bottom and thereby deterring
 bribery. Because expected penalties imposed on bribe-takers are not a
-function of the size of the bribe, they will deter corruption and simulta
+function of the size of the bribe, they will deter corruption and simultaneously
 neously raise the level of individual bribes that are paid. The high bribes
 that are occasionally paid are evidence of the success, not the failure, of
 the strategy.
@@ -3992,12 +3992,12 @@ corrupt system.
 
 Halfway measures are unlikely to be successful in such cases. If
 reformers cannot simply start over with a new collection of public
-officials and a new set of rewards and punishments, the best mediumterm solutions are those outlined in the previous chapter that change the
+officials and a new set of rewards and punishments, the best medium-term solutions are those outlined in the previous chapter that change the
 nature of public service provision and reduce the number of civil ser
 vants. Officials who remain need to have avenues for lodging complaints
 and some assurance that the state will follow up. If corruption has per
 vaded the bureaucratic hierarchy, ordinary civil service reform measures
-are too limited. Instead, solutions that improve the public accountabil
+are too limited. Instead, solutions that improve the public accountability
 ity of government are necessary. I discuss these later when considering
 the political sources of corruption. Another option is to turn over certain
 government tasks to private firms. As I argue below, however, this is
@@ -4152,7 +4152,7 @@ should also improve both positive and negative incentives in the form of
 civil service, procurement, and law enforcement reform.
 
 Because everything cannot be done at once, the best place to start is
-with the demand for, and supply of, corrupt services. This means restruc
+with the demand for, and supply of, corrupt services. This means restructuring
 turing programs that generate corrupt incentives and reorganizing the
 civil service to allow professionals to make an honest living. Reform
 could begin with one or two key agencies - such as tax administration -
@@ -4193,13 +4193,13 @@ public and private life seems alien to many people.
 
 Nevertheless, people in developing countries do make distinctions
 between appropriate and inappropriate behavior in terms of their own
-cultural norms. Formal surveys and informal discussions indicate frus
+cultural norms. Formal surveys and informal discussions indicate frustration
 tration with corruption and suggest that expressions of toleration some
 times reflect both resignation and fear of reprisals against those who
 complain.2 Furthermore, even if gift giving and patronage are well
 
 1 This chapter is a revised version of Rose-Ackerman (1998a).
-2 Tanzania's Commission on Corruption reported in 1996 that people were irri
+2 Tanzania's Commission on Corruption reported in 1996 that people were irritated
 tated with corruption but feared bodily harm if they reported
 incidents
 (Tanzania, Presidential Commission of Inquiry Against Corruption, 1996:
@@ -4295,7 +4295,7 @@ there may be more subtle links between gifts and beneficiaries' behav
 ior. A university may start a new professional school in the hope of
 attracting donations, and a child may work hard in the hope of attract
 ing parental gifts. Nevertheless, many gifts are purely altruistic transfers
-with no expectation of a material reward. They may provide psycholog
+with no expectation of a material reward. They may provide psychological
 ical benefits such as the "warm glow" of sympathy, or the satisfaction of
 living up to a moral commitment (Andreoni 1988; Rose-Ackerman
 1996a; Sen 1977) but no tangible gains. Some self-sacrificing gifts harm
@@ -4328,7 +4328,7 @@ dent of their role in regulating the transaction. 4
 
 Now consider the two agency relationships displayed in the table.
 Agents are generally paid by their principals, not outsiders, such as cus
-tomers or sales agents. The principal needs to develop a system of remu
+tomers or sales agents. The principal needs to develop a system of remuneration
 neration and monitoring that gives agents an incentive to perform
 well. Most discussions of the relative merits of alternative remuneration
 schemes assume that laziness and shirking are the problem, not payoffs
@@ -4403,7 +4403,7 @@ that provide food and lodging. A public authority that supplies housing
 units cannot do the same unless it writes a complex contract to assure
 that the goal of providing shelter to the needy is met.
 
-The state's lack of organizational flexibility limits its ability to reor
+The state's lack of organizational flexibility limits its ability to reorganize
 ganize the agency relationship. A government uses agents where private
 businesses would simply sell their services directly. Conversely, the pub
 lic sector uses contracts where private firms would vertically integrate
@@ -4499,8 +4499,8 @@ program administration became entrenched because of personal rela-
 "procedural justice." Decisions must be fair and must be seen to be fair with
 opportunities for appeal (Kim and Mauborgne 1995).
 
-8 Consider the following Latin American quip: "A los amigos todo, a los enimigos
-nada, al extrano la ley" (For my friends everything, for my enemies nothing, for
+8 Consider the following Latin American quip: "A los amigos todo, a los enemigos
+nada, al extraño la ley" (For my friends everything, for my enemies nothing, for
 strangers the law).
 
 9 Barney and Hansen (1994:184-186) call this "strong form trustworthiness" and
@@ -4553,7 +4553,7 @@ and Robison 1995).
 10 In Japan great care is taken to differentiate "gifted" monies by using only new
 bills and special envelopes. As a result, "bribes are often disguised as gifts by
 placing clean bills in a money envelope or by using properly wrapped gift cer
-tificates sold by department stores" (Zelizer 1994:117).
+certificates sold by department stores" (Zelizer 1994:117).
 
 The risk, of course, is that disgruntled family members may be espe
 cially dangerous. The interdependency of utility can mean that a bitter
@@ -4645,7 +4645,7 @@ discourage further gifts. In contrast, if contributors seek an advantage
 Krishna and Morgan (1997), and Rasmusen (1990:74-76). I am grateful to Peter
 Cramton for pointing out this connection.
 
-14 See Jane Fritsch, "A Bribe's Not a Bribe When It's a Donation," New York Times,
+14 See Jane Fritsch, "A Bribe Not a Bribe When It's a Donation," New York Times,
 
 January 28,1996.
 
@@ -4656,7 +4656,7 @@ The stricter the laws governing private contributions and defining
 bribery, the more difficult it will be to establish a reputation. Bribers and
 bribees can develop a word-of-mouth reputation for strong-arm tactics,
 but they also want to be viewed as people who will carry out deals and
-not report corrupt offers. Because legal advertising and official certifica
+not report corrupt offers. Because legal advertising and official certification
 tion are out, corrupt officials need to communicate by other means. The
 difficulty of establishing a reputation may lead crooks to deal only with
 known partners. Limiting the range of people who can pay bribes also
@@ -4681,7 +4681,7 @@ businesses cannot easily exit the market and move to a less corrupt com
 munity elsewhere.
 
 Corrupt relationships may also be easier if the same small group deals
-with each other in different contexts. Reputations for honesty, reliabil
+with each other in different contexts. Reputations for honesty, reliability
 ity, or violence will be inexpensive to establish, making gift giving and
 bribery relatively advantageous. Trust is not necessary because everyone
 is always checking up on everyone else. Although such networks are
@@ -4859,7 +4859,7 @@ siders and lead sales and purchasing agents to favor relatives and friends.
 The monitoring and quality control provided by personalized links
 comes at the cost of increased entry costs for those not "in the loop." If
 private economic interests have personal links to public officials, patri
-monial or clientelistic systems can develop where favors and payoffs
+patrimonial or clientelistic systems can develop where favors and payoffs
 are exchanged that undermine the transparency and effectiveness of
 public and private institutions. In patrimonial systems public officials
 are the patrons and private interests the clients. In clientelistic states,
@@ -4887,7 +4887,7 @@ each side to reveal the corruption of the other (della Porta and Vannucci
 1997a).19
 
 In societies with embedded interpersonal networks, citizens may care
-little about market and public sector efficiency. They may view imper
+little about market and public sector efficiency. They may view impersonal
 sonal markets as illegitimate and morally bankrupt. In the extreme, the
 idea of an explicit quid pro quo may be questionable. People may believe
 they should give freely to others in their family or group and expect that
@@ -4929,7 +4929,7 @@ concepts "as considering office holding to be a public trust, applying rules
 without fear or favor, and abiding by the verdict of the people as expressed
 through their elected representatives" were foreign to traditional Asian officials.
 This task was made more difficult by the inconsistency of Western efforts as col
-onizers whose legitimacy was dependent on military power.
+colonizers whose legitimacy was dependent on military power.
 
 Strong networks based on trust and reputation can be invaluable
 during periods when formal state institutions are weak and ineffective.
@@ -4975,7 +4975,7 @@ more contingent, utilitarian, and malleable than has previously been assumed"
 (Seligson and Booth 1993:790). As Larry Diamond writes, in summarizing recent
 work by Gabriel Almond, "the cognitive, attitudinal, and evaluational dimen
 sions of political culture are fairly 'plastic' and change quite dramatically in
-response to regime performance, historical experience, and political socializa
+response to regime performance, historical experience, and political socialization
 tion. Deeper value and normative commitments have been shown to be more
 enduring and change only slowly" (Diamond 1993a: 9).
 
@@ -4995,7 +4995,7 @@ the market may have difficulty becoming established even in those areas
 where it produces clear efficiency gains elsewhere.
 
 Virtuous cycles are also possible. If those operating in the modern, dif
-ferentiated sector benefit, others may be induced to try it out, however
+differentiated sector benefit, others may be induced to try it out, however
 reluctantly. In China, for example, the success of regions that liberalized
 their economies encouraged other more conservative regions to copy
 them (Shirk 1994). A successful small- and medium-sized business sector
@@ -5050,7 +5050,7 @@ and informal institutions that are rooted in African history, tradition, and
 culture and that generally characterize the governance of civil society"
 (Dia 1996:29). Dia provides a number of case studies of successful efforts
 to integrate local cultural values and practices into modern development
-efforts. For example, the public electric company in Cote dTvoire has
+efforts. For example, the public electric company in Cote Cote d'Ivoire has
 made a systematic effort to reconcile corporate and societal culture
 without an unquestioning devotion to either (ibid.: 222-227). In Dia's
 view the aim is to ask how new and old institutional forms and practices
@@ -5184,7 +5184,7 @@ Kleptocracy
 
 Consider first the case where a kleptocratic ruler faces a large number
 of unorganized potential bribe payers. In the extreme, a powerful head
-of government can organize the political system to maximize its rentextraction possibilities. Such a "stationary bandit" (in Mancur Olson's
+of government can organize the political system to maximize its rent-extraction possibilities. Such a "stationary bandit" (in Mancur Olson's
 phrase) can act like a private monopolist, striving for productive effi
 ciency, but restricting the output of the economy to maximize profits
 (Olson 1993). A private monopoly underproduces output because it
@@ -5262,7 +5262,7 @@ optimal government when the government is corrupt, but they get one
 that is too large. 3
 
 Examples that fit this model quite well were the long-running dicta
-torships of President Alfredo Stroessner of Paraguay (1954-1989) and
+dictatorships of President Alfredo Stroessner of Paraguay (1954-1989) and
 Mobutu Sese Seko of Zaire (1965-1997), and the rule of Frangois and
 Jean-Claude Duvalier in Haiti (1957-1986).
 In Paraguay, according to one scholar:
@@ -5309,8 +5309,8 @@ fellow members of the elite seeking a larger share of the spoils of power"
 Department of Commerce, in 1977-1978 government misappropriation
 of funds was 63 percent of government revenue (cited in ibid.: 267). The
 kleptocratic aims of the top rulers produced an inefficient scramble for
-gains. Institutions were created that impeded development; state monop
-olies were used as "cash cows"; and the state discriminated against
+gains. Institutions were created that impeded development; state monopolies
+monopolies were used as "cash cows"; and the state discriminated against
 people of motivation and ability (ibid.: 268-269).
 
 As the cases of Stroessner, Mobutu, and the Duvaliers demonstrate,
@@ -5319,7 +5319,7 @@ mixture of taxes and spending priorities. Taxes, regulations, subsidies,
 price fixing, and privatizations are examples of public-sector activities
 that kleptocrats can manipulate for their own benefit. Because tax breaks
 can be awarded to corrupt individuals and firms in return for bribes, klep
-tocrats may set high nominal tax rates to encourage payoffs. They may
+kleptocrats may set high nominal tax rates to encourage payoffs. They may
 set heavy duties on necessities used by the poor and exempt luxuries. In
 Haiti between the 1910s and the 1970s, for example, goods such as expen
 sive liquor were almost untaxed, and duties were high on cotton, textiles,
@@ -5329,8 +5329,8 @@ Kleptocrats view the regulatory system as a source of personal profits.
 Thus regulations and licensing requirements may be imposed that have
 no justification other than to create a bottleneck that firms will pay to
 avoid. Efficient regulatory reforms will be opposed by the kleptocrat if
-the reforms would convert illegal into legal pricing systems. The klepto
-crat will focus subsidies on individuals and business firms willing to pay
+the reforms would convert illegal into legal pricing systems. The kleptocrat
+kleptocrat will focus subsidies on individuals and business firms willing to pay
 for them. Of course, even corrupt autocrats may need to satisfy the mass
 of the population in order maintain power, but they will also promulgate
 programs that induce the wealthy to pay for benefits. The ruler, for
@@ -5350,7 +5350,7 @@ investors if it can be taxed on all its profits, renationalized at will without
 adequate compensation, or excessively and arbitrarily regulated. Only if
 the state can credibly commit to a reasonable future policy will the firm
 be worth more as a private entity. But a corrupt ruler faces special diffi
-culties because he is committed only to personal enrichment. Further
+difficulties because he is committed only to personal enrichment. Further
 more, even if he can somehow write binding contracts with investors,
 they may worry that a corrupt ruler risks overthrow. A change in regime
 can lead to the cancellation of previous understandings.
@@ -5449,7 +5449,7 @@ power for ever. Those who became rich from the ruler's favor will not
 wish to expose all their assets to the risk of regime change.
 
 Of course, some powerful rulers manage to avoid such inefficient poli
-cies. They enrich themselves and their families, but do not push rentgenerating programs so far as seriously to undermine growth. Countries
+cies. They enrich themselves and their families, but do not push rent-generating programs so far as seriously to undermine growth. Countries
 with a high degree of corruption that are politically secure and tightly
 controlled from the top may suffer from fewer static inefficiencies than
 those with an uncoordinated struggle for private gain. 5 Their rulers have
@@ -5591,7 +5591,7 @@ vailing economic conditions, however, it is not as inefficient as actually
 constructing such projects so long as the ruler has access to a foreign
 bank account.
 
-If a kleptocrat faces a single bribe payer across the table, they negoti
+If a kleptocrat faces a single bribe payer across the table, they negotiate
 ate a deal to share the economic gains. Corrupt payments may be lower
 in a bilateral monopoly situation than in a one-sided kleptocracy. The
 briber has bargaining power and uses it to extract profits. However, the
@@ -5706,7 +5706,7 @@ the proportion who are always honest, the proportion who are always corrupt,
 and the proportion of opportunists. The principal also has limited information
 about the track record of the agent before him. Multiple equilibria exist under
 some conditions. In the low-corruption equilibrium, the opportunists are all
-honest. If they maintain an honest track record, they will be hired for the lucra
+honest. If they maintain an honest track record, they will be hired for the lucrative
 tive, high-efficiency task. In contrast, a high-corruption equilibrium also exists
 where all the opportunists are corrupt. The overall corrupt reputation of the
 group makes it pointless for any one opportunistic agent to become honest.
@@ -5798,7 +5798,7 @@ ence. Some may try to buy benefits either through legal campaign gifts
 or illegal campaign contributions and bribes. These payments might be
 treated more tolerantly by politicians if government is viewed by most
 citizens as a source of private benefits. The low expectations of the pop
-ulace can fuel both legal patronage and illegal favors. Although one
+populace can fuel both legal patronage and illegal favors. Although one
 might expect the incidence of bribery to be inversely related to the level
 of legal benefits provided to narrow groups, this may not be true. Instead,
 society may be divided into two groups: those endowed with political
@@ -5829,7 +5829,7 @@ illegal campaign contributions and corruption might be more, not less,
 prevalent simply because other options are closed off. Once again, those
 who make payoffs are likely to have more success if they can tie their
 gains to policies that politicians find attractive for electoral reasons. Cor
-ruptly obtained contracts or licenses to supply public services are an
+corruptly obtained contracts or licenses to supply public services are an
 obvious source of payoffs. Operating against the possibility of high levels
 of malfeasance, however, is the likelihood that the public will favor a
 tough stance against corruption and money in politics generally. They
@@ -5991,7 +5991,7 @@ for narrow groups, but it also makes the acceptance of illegal payoffs a
 risky strategy for a career politician. Third, structural reforms can seek
 to produce more stability but without leading to an essentially autocratic
 system. Politicians should worry about losing office, but should also
-believe that reelection is possible. If the divisions that produce instabil
+believe that reelection is possible. If the divisions that produce instability
 ity are based on ideological or social divisions, reforms should give poli
 ticians an incentive to accommodate a broad range of opinion or a
 multiplicity of social groups.
@@ -6144,7 +6144,7 @@ Most mature democracies recognize the need to limit the impact of
 private economic interests on elected politicians and, at least, require
 them to report their financial interests. Within the European Union every
 member state except Luxembourg has such a requirement for parlia
-mentarians. The member states differ widely, however, in exactly what
+parliamentarians. The member states differ widely, however, in exactly what
 must be disclosed, whether the reports are public, and what sanctions can
 be levied. Some states make no provision for sanctions, and some with
 strong sanctions do not provide public access to records (Peterson 1997).
@@ -6177,7 +6177,7 @@ the bidding of large contributors. In the former socialist countries, such
 as Russia and Poland, the problem is particularly acute because many
 newly privatized firms are controlled by their former managers who
 often remain active in politics (Collins 1993:326). According to one com
-mentator, in Russia "many government officials simply do not grasp that
+commentator, in Russia "many government officials simply do not grasp that
 self-enrichment while in office is a crime" (Coulloudon 1997: 73). In the
 Ukraine 150 businessmen and bankers were elected to the Parliament in
 
@@ -6212,7 +6212,7 @@ political systems. Nevertheless, at a minimum, disclosure of politicians'
 financial interests and those of their families seems necessary for demo
 cratic accountability. Similarly, relations with lobbyists and wealthy
 interests should be disclosed so that voters can judge whether their rep
-resentative's behavior has been affected. Direct restrictions on outside
+representative's behavior has been affected. Direct restrictions on outside
 earnings and lobbying activities are more controversial, but will be most
 important in those political systems where the electorate is less educated
 and informed.
@@ -6248,7 +6248,7 @@ included a post-election bonus if the candidate won. 6 Politicians accused
 of amassing illegal campaign war chests in Korea and Japan justified their
 actions by reference to the financial demands of campaigning in coun
 tries where voters expect gifts or other personalized benefits from can
-didates (Park 1995; Reed 1996). In such political systems, voters may
+candidates (Park 1995; Reed 1996). In such political systems, voters may
 approve even illegal contributions if they benefit personally from corrupt
 politicians' largesse. The personalized nature of the benefits given to
 voters by incumbents can make it particularly difficult for credible op
@@ -6272,7 +6272,7 @@ the stage is set for reform.
 Reform
 
 In a highly competitive system with informed voters who do not expect
-personal favors for themselves, a policy of prompt and complete disclo
+personal favors for themselves, a policy of prompt and complete disclosure
 sure might be sufficient. Any politician who relied too heavily on special
 interest money and voted accordingly would be defeated. More direct
 restrictions are needed if the system is not very competitive and if voters
@@ -6361,7 +6361,7 @@ Fourth, alternative sources of funds can be found in the public sector.
 In the United States the federal government provides funds only for
 presidential candidates under certain conditions, and several American
 states provide public support for political campaigns.10 Many other coun
-tries provide public funds for political campaigns or permit tax deduc
+tries provide public funds for political campaigns or permit tax deductions
 tions or credits (Kaltefleiter and NaBmacher 1994: 261; Law Library of
 Congress 1991; Qui 1996). Germany, in particular, has experimented
 with various formulas in a effort to satisfy its constitutional principles.
@@ -6389,7 +6389,7 @@ tax deductible for a firm (Gunlicks 1995; Kaltefleiter and NaBmacher
 A number of proposals have been made for more extensive public
 funding in United States. Those who oppose these reforms worry that
 public funding and spending limits will protect incumbents and unduly
-disadvantage nonmajor parties. Incumbents generally start with an
+disadvantage non-major parties. Incumbents generally start with an
 advantage that only challengers with higher spending levels can over
 come. Incumbents are also advantaged in the competition for funds
 (Snyder 1992). Public funding formulas could be designed to overcome
@@ -6450,7 +6450,7 @@ voters, not the personal bank accounts of politicians, the distortionary
 impact of secret, illegal payments can be large. Payoffs are often made
 to obtain legislative or regulatory favors. Their effectiveness, however,
 depends on the organization of legislative and executive processes.
-Corrupt firms and individuals will focus on obtaining individual and firmspecific favors. Elections are not sufficient to check payoffs. Other means
+Corrupt firms and individuals will focus on obtaining individual and firm-specific favors. Elections are not sufficient to check payoffs. Other means
 of public oversight are necessary to keep government accountable.
 Democratic governments must establish explicit policies to limit corrupt
 incentives.
@@ -6512,7 +6512,7 @@ stitution that can be amended only by special procedures, or a constitu
 tionally protected bill of rights.
 
 In a political system with multiple veto points, such as the U.S. federal
-government, the status quo has a privileged position. In the Senate twofifths plus one of the members can threaten a filibuster, that is, they can
+government, the status quo has a privileged position. In the Senate two-fifths plus one of the members can threaten a filibuster, that is, they can
 refuse to limit debate on a bill. Thus, forty-one senators can block a bill
 favored by the President and a majority of each house. If a filibuster does
 not succeed or is not proposed, passage requires a majority vote in both
@@ -6529,7 +6529,7 @@ tion since it is relatively inexpensive to manipulate. Those who seek influ
 ence only need to find the weak link and corrupt that group or make
 conditional campaign contributions. Those with the power to set the
 agenda will be a focus of both corrupt payoffs and legal campaign dona
-tions because they can keep an issue out of the public eye. Agendasetters do, in fact, have an advantage in raising legal campaign funds
+tions because they can keep an issue out of the public eye. Agenda-setters do, in fact, have an advantage in raising legal campaign funds
 (Ansolabehere and Snyder 1999). They may also be the target of illegal
 payoffs if the giver wants the political system to stay away from a poten
 tially popular issue. Accomplishing something affirmative is much harder
@@ -6542,7 +6542,7 @@ In the case of a public benefit, some of the links in the chain may favor
 the policy without payoffs. Some legislators may have constituents who
 benefit from the policy so that one or both houses of Congress support
 the law without the need for payoffs. Politicians who are committed ide
-ologues may favor the policy and be unable credibly to demand payoffs.
+ideologues may favor the policy and be unable credibly to demand payoffs.
 Then in close cases only a few legislators who are swing votes may need
 to be influenced. The President may also support the proposal for reasons
 of policy or politics. The judiciary overturns only those laws that violate
@@ -6598,7 +6598,7 @@ that legislators should not be either making individual personnel and
 procurement choices or deciding enforcement priorities. Thus regulation
 writing is delegated because the legislature is not competent to carry
 out this essentially legislative task, and purely executive or adjudicatory
-functions are not appropriate for the legislature under separation-ofpowers principles.
+functions are not appropriate for the legislature under separation-of-powers principles.
 
 Terry Moe, however, explains the structure of American statutes as a
 response to uncertainty about who will control the legislature in the
@@ -6827,7 +6827,7 @@ ernment structures can, at best, make a marginal contribution to the
 control of corruption.
 
 Independent Judicial and Prosecutorial Institutions
-Many countries have exemplary anticorruption statutes that are irrele
+Many countries have exemplary anticorruption statutes that are irrelevant
 vant in the real world (Singh 1997: 636; United Nations, 1990: 22-27).
 Even if a nation's prosecutors are actively engaged, this will mean little
 unless the country has an honest judicial system. In the absence of such
@@ -7082,7 +7082,7 @@ judges are not viewed with respect, and even respected and independent
 judges can produce rulings that undercut reform. For example, in Brazil
 the Supreme Court has delayed major privatizations as it reviewed chal
 lenges to the sales. 16 In the Philippines the Supreme Court overturned a
-contract to privatize a hotel and declared unconstitutional a law dereg-
+contract to privatize a hotel and declared unconstitutional a law deregulation-
 
 13 One study of a sample of commercial cases in Argentina and Venezuela con
 cluded that an important source of delay was the strategic behavior of lawyers
@@ -7119,7 +7119,7 @@ principles it must interpret.
 
 An honest government administration will be difficult to establish if
 the judiciary is venal. Victims of corrupt officials have no place to turn,
-and the unscrupulous can bribe officials with impunity. The risk of engag
+and the unscrupulous can bribe officials with impunity. The risk of engaging
 ing in high-level corrupt or fraudulent deals is significantly reduced if the
 court system is itself corrupt, incompetent, and lacking in independence.
 Sometimes, complex networks develop to maintain corrupt systems. Thus
@@ -7328,7 +7328,7 @@ for developing countries. In addition to Hong Kong and Singapore, a
 number of other jurisdictions, such as Malaysia, Botswana, Malawi, and
 the Australian state of New South Wales, have similar institutions (Skidmore 1996). Yet even the Hong Kong ICAC is not without problematic
 aspects. Under British rule, the ICAC reported only to the colonel gov
-ernor. An anticorruption commission reporting to an autocratic ruler
+governor. An anticorruption commission reporting to an autocratic ruler
 could be used as an instrument of repression against political opponents,
 and even the ICAC has not been immune to such charges. The wide
 spread powers of the ICAC could be abused in systems less committed
@@ -7347,7 +7347,7 @@ Another potential problem is an underemphasis on structural reforms.
 For example, the process of obtaining a driver's license in Hong Kong
 had become very long and cumbersome. The ICAC discovered that
 bribes were paid to obtain licenses speedily. Even though the com
-mission's mandate includes recommending ways to reduce corrupt in
+commission mandate includes recommending ways to reduce corrupt in
 centives, the agency focused on enforcing the law against corrupt drivers
 and civil servants rather than on reforming the bureaucracy to stream
 line the issuance of licenses (Skidmore 1996). An anticorruption policy
@@ -7407,7 +7407,7 @@ tive to look closely at the behavior of its employees.
 In all democratic countries the legislature can play an important role
 in reviewing the spending of the executive. In presidential systems,
 congressional committees, aided in the United States by the GAO, can
-provide continuing oversight. In parliamentary systems on the Westmin
+provide continuing oversight. In parliamentary systems on the Westminster
 ster model, Public Accounts Committees (PACs), often headed by a
 leading opposition member of parliament, perform a similar function.26
 In the United Kingdom, for example, the PAC issued a report in 1994
@@ -7534,7 +7534,7 @@ those who speak out, formal structures of accountability will be
 meaningless.
 
 The media can facilitate public discussion if it is privately owned and
-free to criticize the government without fear of reprisal. Even undemo
+free to criticize the government without fear of reprisal. Even undemocratic
 cratic rulers are likely to be sensitive to public opinion if they wish
 to avoid civil unrest. Thus a free press is an essential check, especially
 in undemocratic countries that lack other means of constraining politi
@@ -7583,7 +7583,7 @@ Britain has no public figure defense. Some claim that its libel law deters
 the public interest (ibid.: 627,
 critical reporting of issues affecting
 649-650). An especially clear example of the chilling effect of a strong
-libel law is Singapore where top politicans have been active in suing both
+libel law is Singapore where top politicians have been active in suing both
 the media and political opponents. 32 In Jordan a 1998 law prohibits the
 publication of news items judged insulting to the king or the royal
 family.33 In Latin America libel is often prosecuted as a criminal instead
@@ -7795,7 +7795,7 @@ reform happen.
 Nevertheless, serious anticorruption efforts may require a radical
 realignment of the relationship between ordinary people and the state.
 Citizens may be rightly afraid that complaining will only make things
-worse for them personally. Greater popular voice may challenge deepseated views about the prerogatives of rulers. However, even autocrats
+worse for them personally. Greater popular voice may challenge deep-seated views about the prerogatives of rulers. However, even autocrats
 have been known to reform when the cost in lost investment and growth
 is especially obvious. Taking over the banner of reform can be one
 way for an autocrat to maintain power in the face of concentrated
@@ -7829,7 +7829,7 @@ real participation by those affected, time pressure, and speedy and fair
 appeals (Oldenburg 1987).
 
 Complaints are unlikely if people fear reprisals. For example, in Tan
-zania ordinary people questioned in 1996 believed that if they com
+Tanzania ordinary people questioned in 1996 believed that if they com
 plained to superior officers, their identity would be revealed to the
 suspects who would then harass and threaten them (Tanzania, Presiden
 tial Commission of Inquiry Against Corruption 1996: 65). Obviously,
@@ -7852,7 +7852,7 @@ malfeasance and corruption as well as traditional human rights abuses.
 Like most ombudsmen, the office cannot initiate legal actions, but it can
 refer cases to prosecutors. At present, the office is very small and has
 difficulty handling the volume of complaints. A recent United Nations
-report recommends not only an expansion in its capacity but a redefi
+report recommends not only an expansion in its capacity but a redefinition
 nition of its mission so that it can initiate large-scale investigations of
 general problems rather than merely respond to individual complaints
 (United Nations, High Commissioner for Human Rights 1996:38-40). In
@@ -8101,7 +8101,7 @@ and appropriate action satisfactory to the Bank to remedy the situation."
 Furthermore, the Guidelines for Procurement under IBRD Loans and
 IDA Credits have been amended to add a new paragraph 1.15 stating
 that the Bank will reject a proposal for an award "if it determines that
-the bidder recommended for award has engaged in corrupt or fraudu
+the bidder recommended for award has engaged in corrupt or fraudulent
 lent practices in competing for the contract in question." The Bank will
 also cancel a contract if corrupt or fraudulent practices are revealed later
 on. Firms found to have engaged in such practices will be declared
@@ -8123,7 +8123,7 @@ all public procurement. The pledge is a variant of the prequalification
 processes used by procurement offices in many jurisdictions. When a nobribery pledge is required, the number of bidders might fall, but the
 selective elimination of corrupt firms should enhance the competitive
 nature of the process, not reduce it. Although such pledges look redun
-dant because corruption is, in any case, illegal, they have the advantage
+redundant because corruption is, in any case, illegal, they have the advantage
 of highlighting the issue in countries where there is little respect for the
 formal law on the books. Transparency International (TI) has recom
 mended this practice. Ecuador, Panama, and the province of Mendoza
@@ -8334,7 +8334,7 @@ States has been required to make modest amendments to its own
 
 5 Convention on Combating Bribery of Foreign Public Officials in International
 Business Transactions, December 11,1997. Available at www.oecd.org/daf/cmis/
-bribery/20novle.htm.
+bribery/20novel.htm.
 
 6 Foreign Corrupt Practices Act, 15 U.S.C. §§ 78m(b) & (d)(1) & (g)-(h), 78dd-l,
 78dd-2,78ff (a)(c) (1988 & Supp. IV 1992); Klich (1996:142-143); Pickholz (1997:
@@ -8347,7 +8347,7 @@ establishes a monitoring and follow-up process. The main weakness of
 the document is the exclusion of payments to political parties and party
 officials.
 
-In many countries bribes paid to obtain foreign business are taxdeductible - a legal loophole that obviously encourages payoffs. Thus the
+In many countries bribes paid to obtain foreign business are tax-deductible - a legal loophole that obviously encourages payoffs. Thus the
 OECD Council also recommends that member states "re-examine the
 tax deductibility of bribes to foreign public officials, with the intention
 of denying this deductibility in those Member countries which do not
@@ -8497,7 +8497,7 @@ bribe to get a sale for their firms. For many of the test subjects ethics
 took second place to the fulfillment of company goals. Those willing to
 make payoffs were not significantly less committed to honesty and fair
 ness in their personal lives than other participants (Rosenberg 1987).
-These results, if at all typical, suggest the importance of clear and wellenforced corporate codes of conduct. Because of the provisions of the
+These results, if at all typical, suggest the importance of clear and well-enforced corporate codes of conduct. Because of the provisions of the
 Foreign Corrupt Practices Act, United States firms have a head start in
 developing such codes, and their experience may be useful to firms else
 where in the world. 12
@@ -8582,7 +8582,7 @@ derers take additional steps to conceal the origin of their funds (ibid.:
 259-262).
 
 The United Nations Vienna Convention Against Illicit Traffic in Nar
-cotic Drugs and Psycjiotropic Substances adopted in 1988 and the 1990
+narcotic Drugs and Psychoactive Substances adopted in 1988 and the 1990
 Council of Europe Convention on Laundering, Search, Seizure and Con
 fiscation of Proceeds of Crime are the main international agreements
 (Scott 1995). The Vienna Convention calls on countries to criminalize the
@@ -8591,7 +8591,7 @@ issued a directive in 1991 that obligates member states to require finan
 cial institutions to maintain systems to prevent money laundering.14 The
 main international body engaged in ongoing efforts to control money
 laundering is the Financial Action Task Force set up in 1989. It has rep
-resentatives from the OECD, Hong Kong, Singapore, the Gulf States, and
+representatives from the OECD, Hong Kong, Singapore, the Gulf States, and
 the European Commission (ibid.). It has developed forty recommenda
 tions for appropriate countermeasures, including the prohibition of
 anonymous accounts. In recent years more than fifty new laws against
@@ -8680,7 +8680,7 @@ same products recorded for U.S. trade with particular countries. The data
 provide a way to look for over- and under-invoicing and have been used
 by U.S. authorities to direct investigative efforts (Pak and Zdanowicz
 1994; Paul, Pak, Zdanowicz, and Curwen 1994). Obviously, price diver
-gences cannot prove anything on their own, but they can provide a start
+divergences cannot prove anything on their own, but they can provide a start
 ing point for more intensive investigation. These data could point to
 violations of United States tax and customs laws, as well as laws of
 foreign countries. They can indicate where money laundering may be
@@ -8788,7 +8788,7 @@ brought by disappointed bidders or defrauded lenders would require the
 country involved to make a transparent accounting of its behavior. Plain
 tiffs would not necessarily need to document bribes paid. The focus
 should instead be on the terms of the deal. If it seems to diverge signif
-icantly from what an honest process would produce, the court could
+significantly from what an honest process would produce, the court could
 require that the project be rebid. One difficulty in making the process
 operational, however, is that the rebid will not simply be a more trans
 parent and honest rerun of the old one. All the players have new infor
@@ -8849,7 +8849,7 @@ tries that want a bailout to agree to governance reforms including poli
 cies to reduce corruption. Yet doubts remain about the depth of these
 
 commitments. A serious attempt to deal with the subject will require con
-frontations with many borrowers and with lenders whose own firms pay
+confrontations with many borrowers and with lenders whose own firms pay
 bribes in developing countries. The World Bank's own difficulties are
 easy to see in their policy document Helping Countries Combat Cor
 ruption (1997a). No individual country is named in the entire document
@@ -9072,7 +9072,7 @@ standards (Montinola 1997). In addition, the business sector does not
 view the state as predatory (Stone, Levy, and Paredes 1992). According
 to Montinola, a shift in political alignments facilitated Chile's shift to a
 low level of corruption. In the early part of the century Chilean democ
-racy was a complex, multidimensional system that produced the unsta
+racy was a complex, multidimensional system that produced the unstable
 ble coalitions that Geddes describes. But in the aftermath of General
 Pinochet's regime, Montinola argues that political preferences are now
 aligned along a single left-right dimension. This makes it easier for citi
@@ -9083,7 +9083,7 @@ ties and encourage reform.
 
 The Latin American cases analyzed by Geddes all used some form of
 proportional representation. One might also ask how proportional rep
-resentation systems compare with plurality voting systems in encourag
+resentation systems compare with plurality voting systems in encouraging
 ing reform. No simple answer is possible, except to note that plurality
 systems often produce two parties that represent the kinds of broad
 coalitions favorable to reform. The parties alternate in power so that no
@@ -9115,7 +9115,7 @@ and many were undermined by subsequent governments. Politically easy
 reforms that improved the working conditions of bureaucrats were main
 tained and extended. Without merit-based recruitment and promotion,
 these changes hardly count as reforms on their own. Thus even if Geddes
-is right that closed-list proportional representation is better than openlist proportional representation in permitting reform, perhaps plurality
+is right that closed-list proportional representation is better than open-list proportional representation in permitting reform, perhaps plurality
 systems that tend to limit the number of parties are even better. Those
 who express concern about New Zealand's shift from plurality to pro
 portional representation may be correct.
@@ -9123,7 +9123,7 @@ portional representation may be correct.
 Furthermore, as Geddes herself argues, a dominant party in control of
 the executive may also reform if corruption and inefficiency have begun
 to harm its ability to govern. In Latin America, with its many strong pres
-idential systems, elected presidents have sometimes pushed through
+presidential systems, elected presidents have sometimes pushed through
 reforms. An ongoing study of the preconditions for general administra
 tive reform in eight cases in Latin America, Asia, and Eastern Europe
 suggests that policy and political coherence in the executive are of
@@ -9173,7 +9173,7 @@ to patronage, and all shared in the benefits of reform. Britain's parlia
 mentary system, with strong party discipline, limited the scope for indi
 vidual favor seeking. Even though members represented individual
 districts, they had a limited ability to trade favors for votes. The increase
-in the size of the electorate in the nineteenth century and the elimina
+in the size of the electorate in the nineteenth century and the elimination
 tion of many small constituencies reduced the benefits of patronage
 appointments (Parris 1969: 70-71).
 
@@ -9376,7 +9376,7 @@ from the ruling party. Even those who leave government for the private
 sector are kept in check by the possibility that if they raise questions
 about incumbents, they may be investigated for "inexplicable self-
 
-enrichment" (Cothran 1994:144). In Italy, the possession of compromis
+enrichment" (Cothran 1994:144). In Italy, the possession of compromising
 ing information about one's own colleagues is a source of power. As one
 study concludes, "blackmail becomes one invisible form of cement for a
 political class condemned to a lengthy and forced cohabitation" (della
@@ -9437,7 +9437,7 @@ public must be sufficiently concerned to express outrage and distress -
 which can itself be covered by the media. This dynamic may finally
 induce the government to investigate the allegations and correct the
 underlying abuses. Unfortunately, responses tend to focus only on per
-sonalities - covering up blame, on the one hand, and searching for scape
+personalities - covering up blame, on the one hand, and searching for scape
 goats, on the other. Nevertheless, if political leaders are committed to
 underlying reforms, clever use of scandals can generate public support
 for costly changes in government operations that would otherwise be
@@ -9458,7 +9458,7 @@ Neto 1992; Manzetti and Blake 1996).
 
 Reform of the Boston Charter in 1949 was fostered by an atmosphere
 of crisis and scandal surrounding the city council in 1947 (Marchione
-1976: 381-383). The council's Licensing Commission had delayed licens
+1976: 381-383). The council's Licensing Commission had delayed licensing
 ing a water taxi operation from the airport to the railroad station. One
 councillor urged speedy approval because rumors were circulating that
 the delay was motivated by hopes of a payoff - a good example of how
@@ -9514,7 +9514,7 @@ Democracies are sometimes viewed critically by economic reformers
 ruption stories in the Soviet press, see Montias and Rose-Ackerman (1981).
 
 who worry that populist pressures will make reform difficult. As a coun
-terweight, an economic crisis can act like a major scandal to push reform
+counterweight, an economic crisis can act like a major scandal to push reform
 to the top of the agenda. Thus Arindam Das-Gupta and Dilip Mookherjee (1998: 450) argue that severe fiscal crises can make reform possible
 for a new government that has been elected with a mandate for change.
 They point to the examples of Argentina, Bolivia, Colombia, and Peru
@@ -9576,7 +9576,7 @@ growth, the valuable resource may simply make control of the state
 worthwhile. Individuals compete to rule the state in order to use it for
 their own benefit and for the benefit of their families and close associ
 ates. Talented people concentrate their effort on rent seeking rather than
-on productive activities (Krueger 1974). The private profitability of rentseeking activities is above their social value and may crowd out produc
+on productive activities (Krueger 1974). The private profitability of rent-seeking activities is above their social value and may crowd out produc
 tive investment (Bigsten and Moene 1996:192-195). One observer of the
 Chinese case, for example, worries that young people will fail to build
 up their ordinary human capital and will instead focus on developing
@@ -9587,7 +9587,7 @@ some powerful officials, and so on" (Lui 1990: 124). In Kenya the gov
 ernment coopts educated people who could be a political threat outside
 government (Bigsten and Moene 1996:186). A study of Zambia suggests
 that the private rewards to a public career can be large and that entre
-preneurial talent may thus have been diverted into rent seeking (von der
+entrepreneurial talent may thus have been diverted into rent seeking (von der
 Fehr 1995: 27). Potential entrepreneurs become public officials charged
 with allocating rents, and private business people concentrate on the
 struggle for publicly provided benefits.
@@ -9645,7 +9645,7 @@ Corrupt democracies with strong resource bases may have poorer
 growth prospects than corrupt autocracies with similar endowments. The
 autocrat may have both a longer time horizon and a better ability to
 control competitive rent seeking by his subordinates. The risk, of course,
-is that an autocrat may gradually move toward a more throughly klep-
+is that an autocrat may gradually move toward a more thoroughly klep-
 
 tocratic position as he sees the fruits of growth. Thus a more stable longrun solution for corrupt democracies is not their replacement with autoc
 racies, but a stronger commitment both to competitive markets and to
@@ -9693,7 +9693,7 @@ hierarchy to relinquish some discretion in return for the establishment
 of formal rules. Johnson and Libecap argue that the combination of large
 
 government size and the growing independence of local party leaders
-produced support for civil service reform in Congress. The 1883 Pendle
+produced support for civil service reform in Congress. The 1883 Pendleton
 ton Act covered only the largest federal facilities, and support for the act
 was indeed stronger among members of Congress from districts with
 important post offices and customs houses (ibid.: 105-107). However,
@@ -9774,7 +9774,7 @@ chy of party regulars who provide private favors to citizens in exchange
 for votes and who expect government jobs in return for their services"
 (Menes 1996). A statistical study of machine and nonmachine cities over
 the years 1900 to 1920 found that machine cities spent 18 percent more
-than nonmachine cities per capita and that municipal wages for lowerskilled workers were 8 percent higher (ibid.). Machine cities averaged
+than nonmachine cities per capita and that municipal wages for lower-skilled workers were 8 percent higher (ibid.). Machine cities averaged
 34 percent higher per capita spending on general administration and
 17 percent more on police and fire services - all areas with many patron
 age jobs. To take one extreme case, the population increased by 22.7
@@ -9978,7 +9978,7 @@ and Thomas 1991:121-150).
 In some cases, reform founders because of bad sequencing. Instead of
 creating a group of early winners who support continuing reform, the
 program's early beneficiaries fear that they will lose if reform continues.
-In the worst case they become a blocking coalition that prevents broadbased change. According to one study, land reform in Latin America was
+In the worst case they become a blocking coalition that prevents broad-based change. According to one study, land reform in Latin America was
 an example of this reverse process (De Janvry and Sadoulet 1989). The
 reforming countries first introduced programs to modernize medium and
 large farms as the quickest way to increase productivity. However, the
@@ -10060,7 +10060,7 @@ fairness, systemic corruption will seldom do so. In a repressive state,
 where many policies are harmful to all except a favored elite, corruption
 may be a survival strategy. Toleration of this practice, however, may just
 permit an illegitimate and inefficient system to persist. Corruption scan
-dals can then be a sign of a country's growing political maturity. They
+scandals can then be a sign of a country's growing political maturity. They
 show that citizens are beginning to recognize the difference between
 the public and the private spheres and to complain when the border is
 crossed. Citizen concerns over bribes paid in return for favors indicate
@@ -10293,7 +10293,7 @@ Limits of Altruism," Journal of Public Economics 35:57-73.
 
 Andreski, Stanislav. 1968. "Kleptocracy or Corruption as a System of Government."
 In Stanislav Andreski, The African Predicament: A Study in the Pathology of
-Modernisation, New York: Atherton.
+Modernization, New York: Atherton.
 
 Andvig, Jens Chr., and Karl Ove Moene. 1990. "How Corruption May Corrupt," Journal
 
@@ -10387,7 +10387,7 @@ Besley, Timothy, and John McLaren. 1993. "Taxes and Bribery: The Role of Wage
 
 Incentives," Economic Journal 103:119-141.
 
-Bhagwati, Jadish N., ed. 1974. Illegal Transactions in International Trade, Amsterdam and
+Bhagwati, Jagdish N., ed. 1974. Illegal Transactions in International Trade, Amsterdam and
 
 New York: North-Holland-American Elsevier.
 
@@ -10441,7 +10441,7 @@ of International Law and Policy 1:247-293.
 Bradlow, Daniel D., and Sabine Schlemmer-Schulte. 1994. "The World Bank's New
 
 Inspection Panel: A Constructive Step in the Transformation of the International
-Legal Order," Zeitschrift filr auslandisches offentliches Recht und Volkerrecht
+Legal Order," Zeitschrift für ausländisches öffentlichen Recht und Volkerrecht
 54:392-415.
 
 Brandt, Hans-Jurgen. 1995. "The Justice of the Peace as an Alternative Experience with
@@ -10519,7 +10519,7 @@ Carifio, Ledivina. 1986. "Tonic or Toxic: The Effects of Graft and Corruption," 
 Ledivina A. Carifio, ed., Bureaucratic Corruption in Asia: Causes, Consequences and
 Controls, Quezon City, the Philippines: JMC Press, pp. 163-194.
 
-Cartier-Bresson, J. 1995. "L'Economie de la Corruption," in D. della Porta and Y. Meny,
+Cartier-Bresson, J. 1995. "L'Économie de la Corruption," in D. della Porta and Y. Meny,
 eds., Democratic et Corruption en Europe, Paris: La Decouverte, pp. 149-164.
 Celarier, Michelle. 1996. "Stealing the Family Silver," Euromoney, February, pp. 62-66.
 Chakrabarti, Debasish, Markus D. Dausses, and Tiffany Olson. 1997. "Federal Criminal
@@ -10745,7 +10745,7 @@ General Agreement on Tariffs and Trade. 1991. Trade Policy Review: Indonesia, Ge
 
 . 1995. Trade Policy Review: Indonesia, Geneva.
 
-Giglioli, Pier Paolo. 1996. "Political Corruption and the Media: The Tangentopoh Affair,"
+Giglioli, Pier Paolo. 1996. "Political Corruption and the Media: The Tangentopoli Affair,"
 
 International Social Science Journal 48:381-394.
 
@@ -11442,7 +11442,7 @@ Economic Gloom," in Richard Robison and David S. G Goodman, eds. The New
 Rich in Asia, London: Routledge, pp. 105-133.
 
 Pivovarsky, Alexander. 1997-1998. "Multinational Enterprise Entry Under Unstable
-Property Rights: The Case of Ukraine, Ukranian Economic Review, no. 4-5.
+Property Rights: The Case of Ukraine, Ukrainian Economic Review, no. 4-5.
 Polidano, Charles. 1996. "Public Service Reform in Malta, 1988-96: Lessons to Be
 
 Learned," Governance 9:459-480.
@@ -11684,7 +11684,7 @@ Schiesl, Martin J. 1977. The Politics of Efficiency: Municipal Administration an
 
 in America, 1800-1920, Berkeley: University of California Press.
 
-Schmid, A. Allan, and Lindon J. Robison. 1995. "Applications of Social Capital Theory,"
+Schmid, A. Allan, and STEPHEN J. Robison. 1995. "Applications of Social Capital Theory,"
 
 Journal of Agriculture and Applied Economics 27:59-66.
 
@@ -12052,7 +12052,7 @@ Anechiarico, Frank, 18, 52, 77,161n22,
 198nl
 
 Anek, Leothamtas, 148
-Ansoabehere, Stephen, 144
+ANSOLABEHERE, Stephen, 144
 Antoniou, Anthony, 172
 Aden, Jennifer, 57
 Ayres, Ian, 53nl0
@@ -12110,7 +12110,7 @@ Chester, Norman, 13, 72, 79, 81n6205,
 163n26
 
 Chhibber, Pradeep K., 41
-Chow, Danel C. K., 75,137
+Chow, DANIEL C. K., 75,137
 Clay, Karen, 103
 Cohen, Lawrence, 13, 51, 98
 Colazingari, Silvia, 38,135,139
@@ -12143,7 +12143,7 @@ della Porta, Donatella, 12,17, 27nl, 29, 31,
 
 103,106,133,135,138, 209
 
-DeMelo, Martha, 10, 20, 25
+DEMILO, Martha, 10, 20, 25
 Derlien, Hans-Ulrich, 70
 Dia, Mamadou, 20, 81,109,110n27,180,
 
@@ -12249,7 +12249,7 @@ Klitgaard, Robert, 14,15, 22, 66, 82,159,
 
 160,161, 207, 220, 221
 
-Knack, Stepen, l nl
+Knack, STEPHEN, l nl
 Kochanek, Stephen, 105nl8,106n20,
 
 109n26
@@ -12742,7 +12742,7 @@ as deterrent, 78; causes of reform in,
 200-206, 215-22; conflict of interest
 issues, 75-7; creating professional, 69;
 hierarchies in, 82-4; incentives to reduce
-coruption, 78-82; need in African
+CORRUPTION, 78-82; need in African
 countries, 70-1; procurement reform to
 complement reform in, 65; reform in
 wage and salary practices, 71-5; in
@@ -13531,7 +13531,7 @@ deterrence, 53n8; corruption in public
 housing programs, 13; corrupt police
 forces, 84; direct payments to voters in
 nineteenth century, 137-8; effort by
-US AID to reduce corruption, 41; ethicsin-government constraints, 75-7; federal
+US AID to reduce corruption, 41; ETHICS-IN-government constraints, 75-7; federal
 bribery statute, 55,169; Foreign Corrupt
 Practices Act, 57,185,189; Freedom of
 Information and Sunshine Acts, 164-5;

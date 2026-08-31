@@ -1096,7 +1096,7 @@ longer, and that the truth had to be spoken loudly and collectively,
 regardless of the virtual certainty of sanctions and the uncertainty
 of any tangible results in the immediate future. 'There are some
 things worth suffering for,' Jan Patocka wrote shortly before his
-death. I think that Chartists understand this not only as Patocka's
+death. I think that Chartists understand this not only as Patocka
 legacy, but also as the best explanation of why they do what they do.
 
 Seen from the outside, and chiefly from the vantage point of the
@@ -1619,7 +1619,7 @@ of the Austro-Hungarian Empire, and when there existed neither the
 historical nor the political, psychological or social conditions that
 would have enabled the Czechs and Slovaks to seek their identity
 outside the framework of this empire, T. G. Masaryk established a
-Czechoslovak national programme based on the notion of 'smallscale work' (drobná práce). By that he meant honest and responsible
+Czechoslovak national programme based on the notion of 'smallscale work' (drobnáá práce). By that he meant honest and responsible
 work in widely different areas of life but within the existing social
 order, work that would stimulate national creativity and national
 self-confidence. Naturally he placed particular emphasis on
@@ -1722,7 +1722,7 @@ do your work well, and ends with being branded an enemy of
 
 society. This is why our situation is not comparable to the Austro-
 Hungarian Empire, when the Czech nation, in the worst period of
-Bach's absolutism,fn1 had only one real 'dissident', Karel Havlicek,
+Bach's absolutism,fn1 had only one real 'dissident', Karel Havlíček,
 who was imprisoned in Brixen. Today, if we are not to be snobbish
 about it, we must admit that 'dissidents' can be found on every
 street-corner.
@@ -1804,7 +1804,7 @@ living within the truth becomes articulate and materializes in a
 visible way.
 
 Thus what will later be referred to as 'citizens' initiatives', 'dissident
-movements' or even 'oppositions', emerge, like the proverbial onetenth of the iceberg visible above the water, from that area, from the
+movements' or even 'oppositions', emerge, like the proverbial one-tenth of the iceberg visible above the water, from that area, from the
 independent life of society. In other words, just as the independent
 life of society develops out of living within the truth in the widest
 sense of the word, as the distinct, articulated expression of that life,
@@ -1941,7 +1941,7 @@ things will probably have to get worse there before the urgent need
 for that revolution is reflected in politics. In our world, precisely
 because of the misery in which we find ourselves, it would seem that
 politics has already undergone that transformation: the central
-concern of political thought is no longer abstract visions of a selfredeeming, 'positive' model (and of course the opportunistic political
+concern of political thought is no longer abstract visions of a self-redeeming, 'positive' model (and of course the opportunistic political
 practices that are the reverse of the same coin), but rather the
 people who have so far merely been enslaved by those models and
 their practices.
@@ -2380,7 +2380,7 @@ organizational forms: samizdat editions of books and magazines,
 private performances and concerts, seminars, exhibitions and so on.
 (In Poland all of this is vastly more developed: there are independent
 
-publishing houses and many more periodicals, even politieal
+publishing houses and many more periodicals, even political
 periodicals; they have means of proliferation other than carbon
 copies, and so on. In the Soviet Union, samizdat has a longer
 tradition and clearly its forms are quite different.) Culture, therefore,
@@ -2549,7 +2549,7 @@ feels it has a patent on some 'ideal project' and therefore that it has
 the right to impose it on society). Nor do they want to lead anyone.
 They leave it up to each individual to decide what he or she will or
 will not take from their experience and work. (If official
-Czechoslovak propaganda described the Chartists as 'selfappointees', it was not in order to emphasize any real 'avant-garde'
+Czechoslovak propaganda described the Chartists as 'self-appointing', it was not in order to emphasize any real 'avant-garde'
 ambitions on their part, but rather a natural expression of how the
 regime thinks, its tendency to judge others according to itself, since
 behind any expression of criticism it automatically sees the desire to
@@ -2728,7 +2728,7 @@ not have been otherwise – was full of contradictions and half-way
 measures that left the physical aspects of power untouched. And the
 economic proposals, while they went a long way to accommodate
 the aims of life in the economic sphere (they accepted such notions
-as a plurality of interests and intiatives, dynamic incentives,
+as a plurality of interests and initiatives, dynamic incentives,
 restrictions upon the economic command system), left untouched
 the basic pillar of economic power, that is, the principle of state,
 rather than genuine social ownership of the means of production. So
@@ -2802,7 +2802,7 @@ the authentic needs of life. To reply to such questions abstractly and
 to formulate a political programme in terms of some hypothetical
 future would mean, I believe, a return to the spirit and methods of
 traditional politics, and this would limit and alienate the work of
-'dissent' where it is most instrinsically itself and has the most
+'dissent' where it is most intrinsically itself and has the most
 genuine prospects for the future. I have already emphasized several
 times that these 'dissident movements' do not have their point of
 departure in the invention of systemic changes but in a real,
@@ -2996,7 +2996,7 @@ principle place no limits on the genesis of different structures. Any
 accumulation of power whatsoever (one of the characteristics of
 automatism) should be profoundly alien to it. They would be
 structures not in the sense of organizations or institutions, but like a
-community. Their authority certainly cannot be based on longempty traditions, like the tradition of mass political parties, but
+community. Their authority certainly cannot be based on long-empty traditions, like the tradition of mass political parties, but
 rather on how, in concrete terms, they enter into a given situation.
 Rather than a strategic agglomeration of formalized organizations, it
 is better to have organizations springing up ad hoc, infused with

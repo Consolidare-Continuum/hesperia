@@ -259,7 +259,7 @@ comes in—e-mail.
 Just as the Japanese DRAM attack was the first wave of a
 much greater tide, e-mail is also the first manifestation of a
 revolution in how information flows and how it is managed.
-The informed use of e-mail—short for computer-totwo
+The informed use of e-mail—short for computer-two
 electronic messaging—results
 computer
 fundamentally simple but startling implications. It turns
@@ -384,7 +384,7 @@ choices: Adapt or die. Some have died in front of our eyes;
 others are struggling with the adaptation. As they struggle,
 the methods of doing business that worked very well for
 them for decades are becoming history. Companies that
-have had generations of employees growing up under a nolayoff policy are now dumping ten thousand people at a
+have had generations of employees growing up under a no-layoff policy are now dumping ten thousand people at a
 time onto the street. Unfortunately, that's all part of the
 process of adaptation.
 
@@ -688,7 +688,7 @@ than a decade after its founding. Beyond that, Intel ran with
 legendary precision, which gave it the ability to make
 multibillion dollar investments with high confidence. If you
 wanted to hire a great operational manager, then Intel was
-the place to go—but good luck getting one to leave the bestmanaged company in Silicon Valley.
+the place to go—but good luck getting one to leave the best-managed company in Silicon Valley.
 
 Andy himself was a legendary figure. He had grown up
 Jewish in Hungary during a time when the country was
@@ -1176,7 +1176,7 @@ available toaster or for a pot to boil an egg in. But no such
 ideal world exists. What would happen if you had to stand in
 a line of waiters, waiting for your turn to use the toaster? If
 you didn't adjust your production flow to account for the
-queue, your three-minute egg could easily become a sixminute egg. So limited toaster capacity means you have to
+queue, your three-minute egg could easily become a six-minute egg. So limited toaster capacity means you have to
 redo your flow around the new limiting step. The egg still
 determines the overall quality of the breakfast, but your
 time offsets must be altered.
@@ -1209,7 +1209,7 @@ start boiling your egg? Your conflict
 is seemingly
 irreconcilable, but it really isn't. If you were managing the
 restaurant, you could turn your personnel into specialists
-by hiring one egg-cooker, one toast-maker, one coffeepourer, and one person to supervise the operation. But that,
+by hiring one egg-cooker, one toast-maker, one coffee-pourer, and one person to supervise the operation. But that,
 of course, creates an immense amount of overhead,
 probably making it too expensive to consider.
 
@@ -1239,7 +1239,7 @@ trade-offs between
 the
 capacity, and
 understanding to a quantifiable set of relationships. You
-probably won't use a stopwatch to conduct a time-andmotion study of the person behind a toaster; nor will you
+probably won't use a stopwatch to conduct a time-time-and-motion study of the person behind a toaster; nor will you
 calculate the precise trade-off between the cost of toast
 inventory and the added toaster capacity in mathematical
 terms. What is important is the thinking you force yourself
@@ -1300,7 +1300,7 @@ The point is that whenever possible, you should choose inprocess tests over thos
 
 If
 
-What else could go wrong with our continuous eggmachine? The eggs going into it could be cracked or rotten,
+What else could go wrong with our continuous egg machine? The eggs going into it could be cracked or rotten,
 or they could be over- or undersized, which would affect
 how fast they cook. To avoid such problems, you will want to
 look at the eggs at the time of receipt, something called
@@ -1349,7 +1349,7 @@ student we meet on campus for the first time.
 the customer associates with
 
 A common rule we should always try to heed is to detect
-and fix any problem in a production process at the lowestvalue stage possible. Thus, we should find and reject the
+and fix any problem in a production process at the lowest value stage possible. Thus, we should find and reject the
 rotten egg as it's being delivered from our supplier rather
 than permitting the customer to find it. Likewise, if we can
 decide that we don't want a college candidate at the time of
@@ -1707,7 +1707,7 @@ the standard said they would be.
 Another sound way to anticipate the future is through the
 use of the stagger chart, which forecasts an output over the
 next several months. The chart is updated monthly, so that
-each month you will have an updated version of the thencurrent forecast information as compared to several prior
+each month you will have an updated version of the then-current forecast information as compared to several prior
 forecasts. You can readily see the variation of one forecast
 from the next, which can help you anticipate future trends
 better than if you used a simple trend chart.
@@ -2529,7 +2529,7 @@ the
 Meeting
 a
 regarding
-specific productquality problem.
+specific product quality problem.
 
 program was in good shape. (It
 represented
@@ -3236,7 +3236,7 @@ delegated the programs to them.
 
 Monitoring the results of delegation resembles the
 monitoring used in quality assurance. We should apply
-quality assurance principles and monitor at the lowestadded-value stage of the process. For example, review
+quality assurance principles and monitor at the lowest added-value stage of the process. For example, review
 rough drafts of reports that you have delegated; don't wait
 until your subordinates have spent time polishing them into
 final form before you find out that you have a basic problem
@@ -3326,7 +3326,7 @@ managerial work to proceed efficiently, we should use the
 same set-up effort to apply across a group of similar
 activities. Think about our continuous egg-boiler, which was
 installed to produce fine-quality, identical, three-minute
-eggs. Should we now decide to serve our customers fourminute eggs, we would have to slow down the conveyor belt
+eggs. Should we now decide to serve our customers four minute eggs, we would have to slow down the conveyor belt
 moving them through the hot water. The adjustment takes
 time: not only do we adjust nuts and bolts on the machine,
 we also have to inspect the quality of the four-minute eggs
@@ -3905,7 +3905,7 @@ not just seasonal. After we pondered the data for a while
 and considered their relationship to other indicators of
 business activity in our industry, we came to the reluctant
 conclusion that business was in fact slowing down. This
-meant we should take a conservative approach to nearterm investment—no small matter.
+meant we should take a conservative approach to near term investment—no small matter.
 
 By sharing his base of information with me, the two of us
 developed a congruent attitude, approach, and conclusion:
@@ -4174,7 +4174,7 @@ should ask yourself if the meeting—and your attendance—is
 desirable and justified. Tell the chairman—the person who
 invited you—if you do not feel it is. Determine the purpose
 of a meeting before committing your time and your
-company's resources. Get it called off early, at a low-valueadded stage, if a meeting makes no sense, and find a less
+company's resources. Get it called off early, at a low-value added stage, if a meeting makes no sense, and find a less
 costly way (a one-on-one meeting, a telephone call, a note)
 to pursue the matter.
 
@@ -4489,7 +4489,7 @@ working with one another are asked to make a decision.
 This means we need to think about what keeps decisionmaking from happening smoothly along the lines we've
 advocated.
 
-The most common problem is something we call the peergroup syndrome. A number of years ago, at Intel's very first
+The most common problem is something we call the peer group syndrome. A number of years ago, at Intel's very first
 management training session, we tried some role-playing to
 show people what can occur when a group of peers meets
 to solve a problem or make a decision. We sat the people
@@ -5187,7 +5187,7 @@ number of objectives small. In practice, this is rare, and
 here, as elsewhere, we fall victim to our inability to say
 "no"—in this case, to too many objectives. We must realize—
 and act on the realization—that if we try to focus on
-everything, we focus on nothing. A few extremely wellchosen objectives impart a clear message about what we
+everything, we focus on nothing. A few extremely well chosen objectives impart a clear message about what we
 say "yes" to and what we say "no" to—which is what we
 must have if an MBO system is to work.
 
@@ -5558,7 +5558,7 @@ machines can be best used if all the various business units
 draw from them. If each unit had its own computer, very
 expensive equipment would be sitting idle much of the time.
 Another important advantage is that resources can be
-shifted and reallocated to respond to changes in corporatewide priorities. For instance, because manufacturing is
+shifted and reallocated to respond to changes in corporate wide priorities. For instance, because manufacturing is
 organized functionally, we can change the mix of product
 being made to match need as perceived by the entire
 its own
@@ -5753,7 +5753,7 @@ where. The rationale for such planning was very solid, but
 in practice it usually fell far, far short of meeting real
 I was an amateur
 consumer needs.
-photographer. During the winter, when I needed highcontrast film, none was to be found anywhere. Yet during
+photographer. During the winter, when I needed high contrast film, none was to be found anywhere. Yet during
 the summer, everyone was up to his waist in the stuff, even
 though regular film was in short supply. Year after year,
 decision-making in the central planning organization was so
@@ -6414,7 +6414,7 @@ production engineers pulling her in opposite directions. Her
 working environment, in short, is complex. Bruce, the
 marketing manager, has asked for permission to hire more
 people for his grossly understaffed group; his supervisor
-waffles, and Bruce is left with no idea if he'll get the goahead or what to do if he doesn't. Bruce's working
+waffles, and Bruce is left with no idea if he'll get the go-ahead or what to do if he doesn't. Bruce's working
 is uncertain. Mike, whom we will now
 environment
 introduce as an Intel transportation supervisor, had to deal
@@ -6467,7 +6467,7 @@ Bring young people in at relatively low-level, well-defined
 jobs with low CUA factors, and over time they will share
 experiences with their peers, supervisors, and subordinates
 
-and will learn the values, objectives, andmethods of the
+and will learn the values, objectives, and methods of the
 organization. They will gradually accept, even flourish in,
 the complex world of multiple bosses and peer decisionmaking.
 
@@ -7238,7 +7238,7 @@ tipping over while talking to him about safety on the
 streets. As the child's maturity continues to grow, the
 parent can cut back on specific instruction. When the child
 goes out to ride his bicycle, the parent no longer has to
-recite the litany of safety rules. Finally, when the liferelevant maturity of the child is high enough, he leaves
+recite the litany of safety rules. Finally, when the life-relevant maturity of the child is high enough, he leaves
 home and perhaps goes away to college. At this point the
 relationship between parent and child will change again as
 the parent merely monitors the child's progress.
@@ -7334,7 +7334,7 @@ informal relationship with them. The routines are so well
 established that he rarely has to tell anyone what to do;
 appropriate to the high TRM of the group, the sergeant
 contents himself with merely monitoring their activity. One
-day a jeepload of the enemy suddenly appears, coming over
+day a jeep load of the enemy suddenly appears, coming over
 the hill and shooting at the camp. Instantly the sergeant
 reverts to a structured, task-oriented leadership style,
 
@@ -8116,7 +8116,7 @@ justifying the judgment of the superior performance, while
 giving little attention to how he could do even better. But
 for a poor performer, the supervisor tends to concentrate
 heavily on ways he can improve performance, providing
-detailed and elaborate "corrective action programs," stepby-step affairs meant to ensure that the marginal employee
+detailed and elaborate "corrective action programs," step by-step affairs meant to ensure that the marginal employee
 can pull himself up to meet minimum requirements.
 
 I think we have our priorities reversed. Shouldn't we
@@ -8272,7 +8272,7 @@ tool we have
 even if he comments freely about the candidate, what he
 says won't have much meaning to you without some
 knowledge of how his company does business and what
-values it works by. Moreover, while few references will outand-out lie, they tend not to volunteer specific critical
+values it works by. Moreover, while few references will out-and-out-out lie, they tend not to volunteer specific critical
 remarks. So reference-checking hardly exempts you from
 getting as much as you can out of the interview.
 
@@ -8392,7 +8392,7 @@ performance in a new environment based on his own
 description of past performance. This managerial task is
 clearly tricky and high-risk, but unfortunately unavoidable.
 
-You can't get away from relying on a candidate's selfassessment. But that's not a bad way to get direct answers
+You can't get away from relying on a candidate's self-assessment. But that's not a bad way to get direct answers
 to direct questions. If, for example, you were to ask, "How
 good are you technically?" the interviewee might be taken
 back momentarily but then clear his throat and say timidly,
@@ -8443,7 +8443,7 @@ getting "real" information. If you don't, try to keep him on
 the phone long enough to let some sort of personal bond
 develop. If you can uncover some common experience or
 association, the reference will probably become more open
-with you. In my experience, the last ten minutes of a halfhour conversation are much more valuable than the first
+with you. In my experience, the last ten minutes of a half-hour conversation are much more valuable than the first
 ten minutes, thanks to that bond.
 
 If possible, you should talk with the applicant again after
@@ -8784,7 +8784,7 @@ consider the Peter Principle, which says that when someone
 is good at his job, he is promoted; he keeps getting
 promoted until he reaches his level of incompetence and
 then stays there. Like all good caricatures, this one
-captures at least some of what really happens in a meritbased promotion system.
+captures at least some of what really happens in a merit-based promotion system.
 
 Take a look at the illustration opposite, where we track
 someone's promotions. At point A the demands of Job 1 so
@@ -8825,7 +8825,7 @@ and stay there.
 
 Thus, you'll find two basic types of "meets" performers.
 One has no motivation to do more or faces no challenge to
-do more. This is the noncompetitor, who has become settled
+do more. This is the non-competitor, who has become settled
 and satisfied in his job. The other type of "meets" performer
 is the competitor. Each time he reaches a level of "exceeds
 requirements," he becomes a candidate for promotion.
@@ -8840,7 +8840,7 @@ that at an increasingly more challenging and difficult job
 level.
 
 There are times when a person is promoted into a
-position so much over his head that he performs in a belowaverage fashion for too long a time. The solution is to
+position so much over his head that he performs in a below average fashion for too long a time. The solution is to
 recycle him: to put him back into the job he did well before
 he was promoted. Unfortunately, this is a very difficult thing
 to do in our society. People tend to view it as a personal
@@ -9054,7 +9054,7 @@ present members of our organization.
 
 The distinction between new-employee and new-skill
 training is important because the magnitude of the tasks is
-very different. The size of the job of delivering a newemployee course is set by the number of new people joining
+very different. The size of the job of delivering a new employee course is set by the number of new people joining
 the organization. For instance, a department that has 10
 percent annual turnover and grows 10 percent per year
 has to teach 20 percent of its staff the basics of their work
@@ -9271,7 +9271,7 @@ set generated above.
 
 Generate an inventory of pending decisions you
 are responsible for. Take three and structure the
-decision-making process for them, using the sixquestion approach.
+decision-making process for them, using the six question approach.
 
 Evaluate your own motivational state in terms of
 the Maslow hierarchy. Do the same for each of

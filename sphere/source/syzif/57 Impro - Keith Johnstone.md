@@ -10,7 +10,7 @@ Devine and Tony Richardson, artistic directors of the Royal Court
 Theatre, commissioned a play from him. This was in 1956. A few years
 later he was himself Associate Artistic Director, working as a play
 reader and director, in particular helping to run the Writers' Group.
-The improvisatory techniques and exercises evolved there to foster
+The improvisational techniques and exercises evolved there to foster
 spontaneity and narrative skills were developed further in the actors'
 studio, then in demonstrations to schools and colleges and ultimately
 in the founding of a company of performers, called The Theatre
@@ -28,7 +28,7 @@ tion re-live on the page ... Get Mr Johnstone's fascinating manual and
 I promise you that if you open at the first page and begin to read you
 will not put it down until the final page.' (Yorkshire Post)
 
-'He suggests a hundred practical t~chniques for encouraging spon
+'He suggests a hundred practical t~techniques for encouraging spon
 taneity and originality by catching the subconscious unawares. But what
 makes the book such fun is the teacher's wit. Here is an inexhaustible
 supply of zany suggestions for unfreezing the petrified imagination.'
@@ -55,7 +55,7 @@ GAMES FOR ACTORS AND NON~ACTORS
 Richard Boleslavsky
 ACTING: THE FIRST SIX LESSONS
 
-Jean N ewlove
+Jean N Newlove
 LABAN FOR ACTORS AND DANCERS
 
 Constantin Stanislavski
@@ -85,7 +85,7 @@ Published by Routledge / Theatre Arts Books
 New York, NY 10017
 New York, NY 10001
 
-First published in paberback in 1981 by Eyre Methuen Ltd
+First published in paperback in 1981 by Eyre Methuen Ltd
 Reprinted 1982, 1983, 1985, 1987
 
 Reprinted in 1989 by Methuen Drama,
@@ -195,7 +195,7 @@ giant size and proceeds to a whale of a life on the high seas.
 That, in a nut-shell, is the Johnstone doctrine. You are not imagina
 tively impotent until you are dead; you are only frozen up. Switch off
 the no-saying intellect and welcome the unconscious as a friend: it
-will lead you to places you never dreamed of, and prcduce results
+will lead you to places you never dreamed of, and produce results
 more 'original' than anything you could achieve by aim;~lg at origin
 ality.
 
@@ -205,7 +205,7 @@ knitting pullovers from barbed wire, and a patient suffering from
 wood worm who infects the doctor's furniture. There are poems tran
 scribed from thin air, masked actors magicked back to childhood,
 Victorian melodrama played in extempore verse. At the point where
-rational narrative would come to a stop, Johnstone's stories carryon
+rational narrative would come to a stop, Johnstone's stories carry on
 cheerfully into the unknown. If a desperate schoolmaster kills himself
 he will find a plenary session of the school governors awaiting him at
 the pearly gates. Or if our hero is swallowed by a monster, he will
@@ -305,13 +305,13 @@ was relaxing myself and conjuring up horrific images. I had recalled
 
 14 NOTES ON MYSELF
 an eye operation I'd had under local anaesthetic, when suddenly I
-thought of attending to my mental images just as I had to the hypna
+thought of attending to my mental images just as I had to the hypnagogic
 gogic ones. The effect was astounding. They had all sorts of detail
 that I hadn't known about, and that I certainly hadn't chosen to be
 there. The surgeons' faces were distorted, their masks were thrusting
 out as if there were snouts beneath them! The effect was so interesting
 that I persisted. I thought of a house, and attended to the image and
-saw the doors and windows bricked in, bllt the chimney still smoking
+saw the doors and windows bricked in, but the chimney still smoking
 (a symbol for my inhibited state at the time?). I thought of another
 house and saw a terrifying figure in the doorway. I looked in the
 windows and saw strange rooms in amazing detail.
@@ -364,7 +364,7 @@ we can't show that!'
 The film showed three misshapen but gleeful cripples who were
 leaping about and hugging each other. The camera panned slightly to
 reveal that they were hiding around a corner and waiting for a normal
-person who was approaching. When he drew'level, the cripples leaped
+person who was approaching. When he drew level, the cripples leaped
 on him, and bashed him to pulp with long balloons. Then they helped
 him up, as battered and twisted as they were, and they shook hands
 with him, and the four of them waited for the next person.
@@ -438,7 +438,7 @@ seriously wrong with my imagination-it was becoming difficult actu
 ally to get ideas. How could this have happened when the state had
 spent so much money educating me?
 
-Other people seemed to have no insight iuto my problems. All my
+Other people seemed to have no insight into my problems. All my
 teachers cared about was whether I was a winner. I wanted to stand
 like Gary Cooper, and to be confident, and to know how to send the
 soup back when it was cold without making the waiter feel obliged to
@@ -515,7 +515,7 @@ my life I was in the hands of a great teacher.
 
 I'll describe the first lesson he gave us, which was unforgettable
 
-and completely disorientating.
+and completely disorienting.
 
 He treated us like a class of eight-year-olds, which I didn't like,
 but which I thought I understood-'He's letting us know what it feels
@@ -567,7 +567,7 @@ We wanted to get it right. 'What sort of patterns do you want?'
 'It's up to you.' He had to explain patiently to us that it really was
 our choice. I remember him asking us to think of our shapes as fields
 seen from the air if that helped, which it didn't. Somehow we finished
-the exercises, and waqdered around looking at our daubs rather
+the exercises, and wandered around looking at our daubs rather
 glumly, but Stirling seemed quite unperturbed. He went to a cupboard
 and took out armfuls of paintings and spread them around the floor,
 and it was the same exercise done by other students. The colours were
@@ -646,7 +646,7 @@ children alienated from them.
 
 Like most new teachers, I was given the class no one else wanted.
 Mine was a mix of twenty-six 'average' eight-year-olds, and twenty
-'backward' ten-year-olds whom the school had written off as ineduc
+'backward' ten-year-olds whom the school had written off as ineducable
 able. Some of the ten-year-olds couldn't write their names after five
 years of schooling. I'm sure Professor Skinner could teach even
 pigeons to type out their names in a couple of weeks, so I couldn't
@@ -716,7 +716,7 @@ wrote. I'd never seen any examples of children's writing during my
 training; I thought it was a hoax (one of my colleagues must have
 smuggled a book of modern verse in !). By far the best work came from
 the 'ineducable' ten-year-olds. At the end of my first year the Div
-isional Officer refused to end my probation. He'd found my class
+Divisional Officer refused to end my probation. He'd found my class
 doing arithmetic with masks over their faces-they'd made them in
 art class and I didn't see why they shouldn't wear them. There was a
 cardboard tunnel he was supposed to crawl through (because the
@@ -754,7 +754,7 @@ Japanese soldiers from the film on Saturday!' Which it was. We
 invented many games-like one child making sounds for water and
 another putting the 'fish' in it. Sometimes we got them to feel ob
 jects with their eyes shut, and got them to play what it felt like so that
-the others could guess. Other teachers were amazed by the enthus
+the others could guess. Other teachers were amazed by the enthusiasm
 iasm and talent shown by these 'dull' children.
 
 The Royal Court Theatre
@@ -924,7 +924,7 @@ entertaining each other? Was it right that every class should be like a
 party?
 
 I decided we'd have to perform in front of real audiences, and see if
-we 'lOere funny. I took about sixteen actors along to my contemporary
+we 'were funny. I took about sixteen actors along to my contemporary
 theatre class at Morley College, and said we'd like to demonstrate
 some of the exercises we were developing. 1'd thought that 1'd be the
 nervous one, but the actors huddled in the corner and looked terrified.
@@ -972,7 +972,7 @@ Martian suit you?' I wrote the play, and it was well received. Since
 then I've deliberately put myself in this position. I get myself engaged
 by a company and write the plays as I'm rehearsing the actors. For
 example, in eight weeks I did two street theatre plays lasting twenty
-minutes, plus a three-hpur improvised play called Der Fisch, plus a
+minutes, plus a three-hour improvised play called Der Fisch, plus a
 children's play lasting an hour-this was for Salvatore Poddine's
 Tubingen theatre. I don't see that the plays created in this way are
 inferior to those I struggle over, sometimes for years.
@@ -989,7 +989,7 @@ find the most obvious solutions possible.
 Nowadays everything is very easy to me (except writing didactic
 things like this book). If we need a cartoon for the programme, I'll
 draw one. If we need a play I'll write it. I cut knots instead of labor
-iously trying to untie them-that's how people see me; but they have
+laboriously trying to untie them-that's how people see me; but they have
 no idea of the turgid state I used to be in, or the morass from which
 I'm still freeing myself.
 
@@ -1064,7 +1064,7 @@ maintained, if the patient started to tremble, or sweat or whatever,
 then something even less alarming would be presented). Relaxation is
 incompatible with anxiety; and by maintaining the relaxed state, and
 presenting images that gradually neared the centre of the phobia, the
-state of alarm was soon dissipated-in most calles. Wolpe taught his
+state of alarm was soon dissipated-in most cases. Wolpe taught his
 patients to relax, but soon other psychologists were using pentathol
 to assist the relaxation. However, there has to be an intention to relax
 (muscle-relaxant drugs can be used as a torture !).
@@ -1077,7 +1077,7 @@ type that Wolpe advocates. Many teachers seem to me to be trying
 to get their students to conceal fear, which always leaves some traces
 a heaviness, an extra tension, a lack of spontaneity. I try to dissipate
 the fear by a method analogous to Wolpe's, but which I really got
-fr4)m Anthony Stirling. The one finding ofWolpe which I immediately
+fr4)m Anthony Stirling. The one finding of Wolpe which I immediately
 incorporated into my work was the discovery that if the healing pro
 cess is interrupted by a recurrence of the total fear-maybe a patient
 being treated for a phobia of birds suddenly finds himself surrounded
@@ -1191,7 +1191,7 @@ at the studio?
 I was preoccupied with this problem when I saw the Moscow Art's
 production of The Cherry Orchard. Everyone on stage seemed to have
 chosen the strongest possible motives for each action-no doubt the
-production had been '~mproved' in the decades since Stanislavsky
+production had been '~improved' in the decades since Stanislavsky
 directed it. The effect was 'theatrical' but not like life as I knew it. I
 asked myself for the first time what were the weakest possible motives,
 the motives that the characters I was watching might really have had.
@@ -1362,7 +1362,7 @@ opposite. This obviously makes for very bad social 'meshing'-as in
 Bion's therapy group-and many of us had to revise our whole idea of
 ourselves. In my own case I was astounded to find that when I thought
 I was being friendly, I was actually being hostile! If someone had said
-'I like your play', I would have said 'Oh, it's not up to much', perceiv
+'I like your play', I would have said 'Oh, it's not up to much', perceiving
 ing myself as 'charmingly modest'. In reality I would have been
 implying that my admirer had bad taste. I experience the opposite
 situation when people come up, looking friendly and supportive, and
@@ -1548,10 +1548,10 @@ old blind grandfather falls over I'll rush up and help him to his feet.
 If he's really hurt I may be appalled. If Nixon had slipped up on the
 White House steps many people would have found it hysterical. If
 Bergson had been right then we would laugh at a drowning man, and
-grand military parades would have the crowds rocking with merri
+grand military parades would have the crowds rocking with merriment
 ment. A Japanese regiment is said to have masturbated by numbers
 in a football stadium as an insult to the population of Nanking, but I
-don't ~~lppose it was funny at the time. Chaplin being sucked into the
+don't ~~suppose it was funny at the time. Chaplin being sucked into the
 machine is funny because his style absolves us of the need for sym
 pathy.
 
@@ -1602,7 +1602,7 @@ yet I hadn't immediately thought of applying this information to
 actor training. This is because normal people are inhibited from seeing
 that no action, sound, or movement is innocent of purpose. Many
 psychologists have noted how uncannily perceptive some schizo
-phrenics are. I think that their madness must have opened their eyes
+schizophrenics are. I think that their madness must have opened their eyes
 to things that 'normal' people are trained to ignore.
 
 In animals the pattern of eye contacts often establishes dominance.
@@ -1660,7 +1660,7 @@ eye contacts for a couple of seconds, while the others try to make and
 then break eye contacts and then immediately glance back for a moment.
 The group suddenly looks more like a 'real' group, in that some people
 become dominant, and others submissive. Those who hold eye con
-tacts report that they feel powerful-and actually look powerful. Those
+contacts report that they feel powerful-and actually look powerful. Those
 who break eye contact and glance back 'feel' feeble, and look it. The
 students like doing this, and are interested, and puzzled by the strength
 of the sensations.
@@ -1744,7 +1744,7 @@ below their partner's. This ensures that they really 'see' their partner,
 as they have exactly to relate their behaviour to his. The automatic
 status skills then 'lock on to' the other actor, and the students are
 transformed into observant, and apparently very experienced impro
-visers. Of course, they will have been playing status whenever they
+improvisers. Of course, they will have been playing status whenever they
 improvised, but it would be usually a personal status, not the status
 of a character. They would be relating to the problem of succeeding
 in the eyes of the audience. These status exercises reproduce on the
@@ -1801,7 +1801,7 @@ being able to look at someone else and have them look away. Looking
 away and back-felt persecuted. As if everyone was trying to crush
 me underfoot.'
 
-'Status-dothes not important. 1 was walking to the shower with
+'Status-status isn't not important. 1 was walking to the shower with
 only a towel over my shoulder when 1 met a fully dressed student who
 took on a very low-status look and allowed me to pass on my way.'
 
@@ -1848,7 +1848,7 @@ very unfamiliar to him.
 Without the status work my improvisation group, the Theatre
 Machine, could never have toured successfully in Europe; not without
 preparing the scenes first. If someone starts a scene by saying 'Ah,
-another sinner! What's it to be, the lake of fire or the river of excre
+another sinner! What's it to be, the lake of fire or the river of excrement
 ment?' then you can't 'think' fast enough to know how to react. You
 have to understand that the scene is in Hell, and that the other person
 is some sort of devil, and that you're dead all in a split second. If you
@@ -1864,7 +1864,7 @@ terror, or wonder.
 
 All this isn't so far away from Stanislavsky as some people might
 suppose, even though in Creating a Role Stanislavsky wrote: 'Play the
-external plOl in terms of physical actions. For example: enter a room.
+external plot in terms of physical actions. For example: enter a room.
 But since you cannot enter unless you know where you came from,
 where you are going and why, seek out the external facts of the plot to
 give you a basis for physical actions.' (From Appendix A.) Some
@@ -1951,7 +1951,7 @@ people into crumbling wrecks in a very short time, and for actors who
 like to 'pretend' without actually feeling anything, it can be a revela
 tion. One Scandinavian actor who apparently had never really
 achieved anything because of his self-consciousness, suddenly 'under
-stood' and became marvellous. It was for him a moment of satari. The
+stood' and became marvellous. It was for him a moment of satori. The
 terrifying thing is that there's no limit. For example:
 
 'Why didn't anyone tell me that the room had been changed? I
@@ -2014,7 +2014,7 @@ B: Ages.
 The implication is that B lowers A, but any status can be played. If
 both play high then A might stroll on with 'all the time in the world'
 and say 'Hallo' as if he wasn't late at all. B might hold eye contact and
-say 'Hallo' with emphasis. A might look away 1irily and say 'Been
+say 'Hallo' with emphasis. A might look away 1silly and say 'Been
 waiting long? with a sigh as if B were being 'difficult'. 'Ages,' says B,
 staring at him, or walking off as if expecting A to follow. If both are
 to play low, then A might arrive running; B might stand up, bend the
@@ -2329,7 +2329,7 @@ status specialists. The actors' directory Spotlight used to have the
 high-status specialists at the front (called 'straight'), followed by the
 low-status specialists (called 'character actors'), followed by children,
 and then dogs. This isn't as bad as it sounds, but it's symptomatic of
-the tendency for actors to overspecialise. A proper training for actors
+the tendency for actors to overspecialize. A proper training for actors
 would teach all types of transaction.
 
 Some problems: there are students who will report no change of
@@ -2407,7 +2407,7 @@ some difficulty. When they weren't acting, the bodies of the actors
 continually readjusted. As one changed position so all the others
 altered their postures. Something seemed to flow between them.
 When they were 'acting' each actor would pretend to relate to the
-others, but his movements wouid stem from himself. They seemed
+others, but his movements would stem from himself. They seemed
 'encapsulated'. In my view it's only when the actor's movements are
 related to the space he's in, and to the other actors, that the audience
 feel 'at one' with the play. The very best actors pump space out and
@@ -2460,10 +2460,10 @@ human beings ....
 things. There is no insulating layer of air between the man and the
 outside world. Any man who moves about causes ripples in the
 ambient world in the same way a fish does when it moves in the water.'
-(The Theatre of Jean-Louis Barrault, Barrie and RockcIiff, 196I.)
+(The Theatre of Jean-Louis Barrault, Barrie and Rockcliff, 196I.)
 
 This isn't very scientific, but like all magical language it does com
-municate a wayan actor can 'feel'. If I stand two students face to face
+municate a way an actor can 'feel'. If I stand two students face to face
 and about a foot apart they're likely to feel a strong desire to change
 their body position. If they don't move they'll begin to feel love or
 
@@ -2484,7 +2484,7 @@ Imagine a man sitting neutrally and symmetrically on a bench. If he
 crosses his left leg over his right then you'll see his space flowing over
 to the right as if his leg was an aerofoil. If he rests his right arm along
 the back of the bench you'll see his space flowing out more strongly.
-Ifhe turns his head to the right, practically all his space will be flowing
+If he turns his head to the right, practically all his space will be flowing
 in this same direction. Someone who is sitting neutrally in the 'beam'
 will seem lower-status. Every movement of the body modifies its space.
 If a man who is sitting neutrally crosses his left wrist over his right the
@@ -2548,7 +2548,7 @@ newspaper or whatever.
 
 People will travel a long way to visit a 'view'. The essential element
 of a good view is distance, and preferably with nothing human in the
-immediate foreground. When we stand on a hjll and look across fifty
+immediate foreground. When we stand on a hill and look across fifty
 miles of emptiness at the mountains, we are experiencing the pleasure
 of having our space flow out unhindered. As people come in sight of a
 view, it's normal for their posture to improve and for them to breathe
@@ -2938,7 +2938,7 @@ at the feet. People have a strong impulse to throw or kick the hats
 right away, which breaks up the group and spoils the crazy patterns.
 If you can keep the actors 'high' on the game they will now be using
 their bodies like excellent physical comedians, they will have a mar
-vellous 'rapport' with each other, and absolutely no trace of self
+marvelous 'rapport' with each other, and absolutely no trace of self
 consciousness. I make them playa scene while continuing this insane
 activity. I send them outside and get them to enter as if burgling a
 house in which people are asleep upstairs. Or I get them to pack for
@@ -3053,7 +3053,7 @@ I start the scene again and say that the moment the master feels the
 slightest irritation be's to snap his fingers-the servant will then
 commit suicide. I'll have to prod the master into action because he'll
 be reluctant to exercise his power. The moment the master looks ir
-ritated I say 'Kill him!' and send in more servants until the stage is
+irritated I say 'Kill him!' and send in more servants until the stage is
 
 littered with bodies. Everyone laughs a lot, but often the servants
 have no idea why they're being killed. I ask the master to explain the
@@ -3128,7 +3128,7 @@ failed to write successful plays (Blake, Keats, Tennyson, among others)
 because of a failure to understand that drama is not primarily a
 literary art. Shakespeare is a great writer even in translation; a great
 production is great even if you don't speak the language. A great play
-is a virtuoso display of status transactions-Waiting for Godat, for
+is a virtuoso display of status transactions-Waiting for Godot, for
 example. The 'tramps' play friendship status, but there's a continual
 friction because Vladimir believes himself higher than Estragon, a
 thesis which Estragon will not accept. Pozzo and Lucky play maxi
@@ -3218,12 +3218,12 @@ Spontaneity
 'I was given the part of poor Armgard, so I stood
 in front of the class and as I began with "Here he cannot escape
 me, he must hear me", I suddenly noticed a warm friendly feeling
-in the region of the stomach, like a soft hotwater bottle in a cold
+in the region of the stomach, like a soft hot water bottle in a cold
 bed, and when I got to "Mercy, Lord Governor! Oh, pardon,
 pardon", I was already on my knees, tears streaming from my eyes
 and nose, and sobbing to such an extent that I could only finish the
 passage "My wretched orphans cry for bread" with supreme difficulty.
-The fishhead was in favour of a more restrained performance and her
+The fish head was in favour of a more restrained performance and her
 cutting voice drove me to the back of the class room with words of
 "Un-German hysterical conduct". It was a nightmare. I almost died
 of shame and prayed for an earthquake or an air raid to deliver me
@@ -3232,7 +3232,7 @@ went still, the others stared at me as though they had unwittingly
 harboured a serpent in their midst. The rest of my days with Weise
 were torture. I was afraid of the others and myself for I could never
 be certain that I wouldn't again throw myself down in tears because
-of the orphans ... .' (Hildegarde Knef, The GJft Horse, Andre
+of the orphans ... .' (Hildegarde Knef, The Gift Horse, Andre
 Deutsch, 1971.)
 
 It's possible to turn unimaginative people into imaginative people
@@ -3339,7 +3339,7 @@ At the end of the course they made a longer, technically more pro
 ficient film, which hardly anyone wanted to see. He seemed outraged
 when I suggested they should close the school (he lectured there); yet
 until recently our directors didn't get any training. Someone asked
-Kubrick ifit was usual for a director to spend so much care on lighting
+Kubrick if it was usual for a director to spend so much care on lighting
 each shot and he said, 'I don't know. I've never seen anyone else light
 a film.'
 
@@ -3404,10 +3404,10 @@ about these days.' These days of course the Eskimos get booklets
 giving illustrations of what will sell, but before we infected them, they
 were in contact with a source of inspiration that we are not. It's no
 wonder that our artists are aberrant characters. It's not surprising that
-great Mrican sculptors end up carving coffee tables, or that the talent
+great African sculptors end up carving coffee tables, or that the talent
 of our children dies the moment we expect them to become adult.
 Once we believe that art is self-expression, then the individual can be
-criticised not only for his skill orlack of skill, but simply for being what
+criticised not only for his skill or lack of skill, but simply for being what
 he is.
 
 Schiller wrote of a 'watcher at the gates of the mind', who examines
@@ -3631,7 +3631,7 @@ I once read about a man who believed himself to have a fish in his
 jaw. (The case was reported in New Society.) This fish moved about,
 and caused him a lot of discomfort. When he tried to tell people about
 the fish, they thought him 'crazy', which led to violent arguments.
-Mter he'd been hospitalised several times-with no effect on the fish
+Mter he'd been hospitalized several times-with no effect on the fish
 it was suggested that perhaps he shouldn't tell anyone. Mter all it was
 the quarrels that were getting him put away, rather than the delusion.
 
@@ -3665,7 +3665,7 @@ working of the imagination as proof of their insanity.
 
 I remember the psychologist David Stafford-Clark criticising Ken
 Campbell at a public meeting. Ken had said that he encouraged his
-actors to act like lunatics, because then people would find them amus
+actors to act like lunatics, because then people would find them amusing
 ing. Stafford-Clark was upset at the idea that mad people should be
 thought 'funny', but that's hardly Ken's fault. Laughter is a whip that
 keeps us in line. It's horrible to be laughed at against your will. Either
@@ -3690,7 +3690,7 @@ Obscenity
 I find many things obscene, in the sense of repulsive or
 shocking. I find the use of film from real massacres in the titles of TV
 shows pretty nasty. I find the way people take pills and smoke cigar
-ettes, and generally screw themselves up, rather awful. The way parents
+cigarettes, and generally screw themselves up, rather awful. The way parents
 and teachers often treat children nauseates me. Most people think of
 obscene things as sexual like pubic hair, obscene language, but I'm
 more shocked by modern cities, by the carcinogens in the air and in
@@ -3791,7 +3791,7 @@ pupil set-up. If it isn't possible to let students speak and act with the
 same freedom they have outside the school, then it might be better not
 to teach them drama at all. The most repressed, and damaged, and
 'unteachable' students that I have to deal with are those who were the
-star performers at bad high schools. Instead oflearning how to be warm
+star performers at bad high schools. Instead of learning how to be warm
 and spontaneous and giving, they've become armoured and superficial,
 calculating and self-obsessed. I could show you many many examples
 where education has clearly been a destructive process.
@@ -4127,7 +4127,7 @@ exploded.'
 The audience will be convinced that it's the dentist who is con
 trolling the scene. When improvisers are anxious, each person tries
 to 'carry' the whole scene by himself. Putting the responsibility all on
-to one person helps them work more calrnly.4
+to one person helps them work more calmly.4
 
 Blocking and Accepting
 Blocking is a form of aggression. I say this because if
@@ -4348,7 +4348,7 @@ offers, because we want to know what will happen next. Even 'All
 right, begin' is OK. Your partner can beat you on the head with a
 balloon, and you thank him, and the audience are delighted.
 
-Here's an example in which A makes dull offers, while B makt:s
+Here's an example in which A makes dull offers, while B makes:s
 
 interesting offers.
 
@@ -4420,7 +4420,7 @@ notice that you are shorter than your partner you can say 'Simpkins!
 Didn't I forbid you ever to be taller than me?'-which can lead on to
 a scene in which the servant plays on all fours, or a scene in which the
 master is starting to shrink, or a scene in which the servant has been
-replact:d by his elder brother, or whatever. If your partner is sweating,
+replaced:d by his elder brother, or whatever. If your partner is sweating,
 fan yourself. If he yawns, say 'Late, isn't it?'
 
 100 SPONTANEITY
@@ -4428,7 +4428,7 @@ fan yourself. If he yawns, say 'Late, isn't it?'
 Once you learn to accept offers, then accidents can no longer
 interrupt the action. When someone's chair collapsed Stanislavsky
 berated him for not continuing, for not apologising to the character
-whose house he was in. This attitude makes for something really amaz
+whose house he was in. This attitude makes for something really amazing
 ing in the theatre. The actor who will accept anything that happens
 seems supernatural; it's the most marvellous thing about improvisa
 tion: you are suddenly in contact with people who are unbounded,
@@ -4479,7 +4479,7 @@ concentrates on making the thing he gives interesting, each actor
 seems in competition, and feels it. When they concentrate on making
 the gift they receive interesting, then they generate warmth between
 them. We have strong resistances to being overwhelmed by gifts,
-even when tney're just being mimed. You have to get the class en
+even when they're just being mimed. You have to get the class en
 thusiastic enough to go over the 'hump'. Then suddenly great joy
 and energy are released. Playing in gibberish helps.
 
@@ -4582,7 +4582,7 @@ I would classify 'It's Tuesday' as a 'make boring offers, and
 overaccept' game.
 
 'Yes, But . .. '
-This is a well known 'accept-and-block' garre (de
+This is a well known 'accept-and-block' manner (de
 scribed in Viola Spolin, Improvisation for the Theatre). (IB twin
 game 'Yes, and .. .' is an 'accept-and-offer' game.) I'll describe it
 because there are two ways of playing which produce opposite results,
@@ -4677,7 +4677,7 @@ Everyone wants to see her dead.'
 audience.
 
 No one in their right senses would think up a scene about sacri
-fking a cripple at Stonehenge, but the verse precipitates it. My job is
+sacrificing a cripple at Stonehenge, but the verse precipitates it. My job is
 to get the actors to go where the verse takes them. If you don't care
 what you say, and you go with the verse, the exercise is exhilarating.
 But if an actor suddenly produces a really witty couplet, you'll see
@@ -4715,7 +4715,7 @@ Accepting:
 Examples
 
 Yes.
-UhHmm.
+Uh-huh.
 I follow what you said.
 Nodding.
 
@@ -4812,7 +4812,7 @@ Testing:
 
 But how can you be President of the
 United States?
-If you're dead, why is your hean beating?
+If you're dead, why is your heart beating?
 What day is this?
 Do you know what kind of a hospital this is?
 Do you still have the idea that ... ?
@@ -4823,7 +4823,7 @@ for teachers to interact therapeutically. Thinking back to my own schooling,
 I remember how isolated the teachers were, how there were only certain
 areas in which you could communicate with them at all. If teachers were
 allowed to interact in a therapeutic manner, then the adjective 'school
-tea chery' would not be disparaging.
+tea teaching' would not be disparaging.
 3. When I meet a new group of students they will usually be 'naysayers'.
 This term and its opposite, 'yeasayers', come from a paper by Arthur
 Couch and Kenneth Kenison, who were investigating the tendency of
@@ -4971,7 +4971,7 @@ say.
 Even at the level of geometrical signs 'meaning' is ambiguous. A
 cross, a circle, and a swastika contain a 'content' quite apart from
 those which we assign to them. The swastika is symmetrical but
-unbalanced: it's a good sign for power, it has a clawiness about it
+unbalanced: it's a good sign for power, it has a clumsiness about it
 (cartoonists drew swastika spiders scrabbling over the face of Europe).
 The circle is stiller, is a much better sign for eternity, for complete
 ness. The cross can stand for many things, for a meeting-place, for a
@@ -5174,7 +5174,7 @@ spontaneously. Her first question is:
 
 too discouraged.)
 
-'Does the building have a. ything to do with the story?'
+'Does the building have a. anything to do with the story?'
 'Maybe.'
 'Does it have aeroplanes in it?'
 'Fish?'
@@ -5284,7 +5284,7 @@ B: ... 'I can't stand that dripping sound,' he cries,
 leaping up and making a great journey to the centre
 of the desert. Nothing he can do will stop the tap
 dripping. 'At least I can turn it on,' he cries.
-Immediately the desert fiourishes, the seas fill up
+Immediately the desert flourishes, the seas fill up
 again, and the old lady is very happy. She travels to
 the jungle to thank the old man, and ever afterwards
 keeps a picture of him and his hut above the
@@ -5302,7 +5302,7 @@ B: ... The sonic boom makes the children look up.
 They see the smoke signals. 'Daddy mended the
 bicycles,' they shout. When they run back to the
 cave a strange sight meets their eyes: not bicycles,
-but a fiying-machine made out of all the pieces.
+but a flying-machine made out of all the pieces.
 Leaping on, they all pedal into the air, and fiy
 around the valley all day.
 
@@ -5399,7 +5399,7 @@ have revealed himself as not quite so sane and secure as he pretends.
 I'll try typing out some nonsense as fast as I can and see what I get.
 
 'The lobster bites the foot. Freda leaps skyward, back falling
-prone on to the long breakwater. Archie Pellingoe the geologist
+prone on to the long breakwater. Archie Pellingo the geologist
 leaping up around down and upon her lovingly chews her alabaster
 sandwich .. .'
 
@@ -5538,7 +5538,7 @@ Till I live again.
 
 The personality will often try to resist this method by saying 'It's in
 Russian', or 'It's too tiny to read the print', and so on. I say 'There's
-something viritten iii English in the margin' or 'I'm shrinking yon
+something written iii English in the margin' or 'I'm shrinking yon
 down to the size of the book', or something suitable. It's easy to
 switch from 'automatic reading' to my form of 'automatic writing'.
 You just look at a blank sheet of paper, and 'see' a word, and then
@@ -5758,7 +5758,7 @@ answering.
 'But what techniques?'
 The 'expert' has agreed to answer the problem as part of the game,
 and he understands that the interviewer is trying to help him in
-demanding an immediate answer. Once he 'jumps in', and stops hedg
+demanding an immediate answer. Once he 'jumps in', and stops hedging
 ing, the game is simple.
 
 "Well, I demonstrated the stitches. Then I gave them sharpened
@@ -5962,7 +5962,7 @@ end!)
 
 I divide students into groups of four and get them to compose
 'letters' a word at a time. They all relax and one of the players writes
-the letter down. I was de&cribing this technique to an Eng. Lit.
+the letter down. I was de&describing this technique to an Eng. Lit.
 graduate.
 
 '1 don't think 1 could ever learn such a game,' she said
@@ -6092,7 +6092,7 @@ tenderly without cutting her throat. Leaves cut my heart, but Jesus
 cuts my mother. Between them their relationship seems brittle and
 lifeless like dead leaves.'
 
-5. 'Love lost. Sunshine brightens my life. Yesterday, today, tomor
+5. 'Love lost. Sunshine brightens my life. Yesterday, today, tomorrow
 row; all my loves have flown towards oblivion. Death approaches
 from lost loves. Is death the answer? Can Christ save lost lovers or do
 angels meet flying shadows under sunlit gardens? Black night frightens
@@ -6149,7 +6149,7 @@ each other's snows and live forever.'
 
 1 I. 'Happiness is always transient. Perhaps we should try to be
 happier and better with our friends. Friendship is transient but
-transcience meets often with lasting friendship. Why can't we meet
+transience meets often with lasting friendship. Why can't we meet
 other people and make friendships last? Am I ever going to meet my
 friends in honest friendship? Or will we ever see our own friendships
 die through lack of love? Which is the better? I don't like to leave
@@ -6434,7 +6434,7 @@ drinks the glass of water. 'Dennis, find that the water goes right through
 you, and is splashing on the floor under the chair. Betty, get him
 another glass of water. Dennis, examine yourself to try to work out
 what happened. Betty, give him the water, and put the glass under
-the chair to catch it when it runs through agaiu. Dennis, say "Can
+the chair to catch it when it runs through again. Dennis, say "Can
 you help me?". Betty, say "You'll have to take your clothes off,
 then." Dennis, mime undressing ... ' And so on. The level of inven
 tion is no higher, but the story is no longer being cancelled, and it holds
@@ -6460,7 +6460,7 @@ being a prisoner in a cell. Lucy Fleming arrived, I don't remember
 how, and he endowed her with invisibility. At first he was terrified,
 but she calmed him down, and said she had come to rescue him. She
 led him out of the prison and as he stepped free he fell dead. It had the
-same kind of effect as Ambrose Bierce's story Incident at Owl Creek
+same kind of effect as Ambrose Bierce story Incident at Owl Creek
 Bridge.
 
 I remember Richardson Morgan playing a scene in which I said he
@@ -6476,7 +6476,7 @@ to turn the screw.
 
 You have to trick students into believing that content isn't important
 and that it looks after itself, or they never get anywhere. It's the same
-kind of trick you use when you tell them that they are not their imagin
+kind of trick you use when you tell them that they are not their imaginations
 ations, that their imaginations have nothing to do with them, and
 that they're in no way responsible for what their 'mind' gives them.
 In the end they learn how to abandon control while at the same time
@@ -6486,7 +6486,7 @@ Then, much later, they become strong enough to resume the respons
 ibility themselves. By that time they have a more truthful concept of
 what they are.
 
-Masks andTrance
+Masks and Trance
 
 George Devine
 George Devine gave a Mask class to the Royal Court
@@ -6518,7 +6518,7 @@ impulse came to him. George's ideas related to Oriental theatre
 (Noguchi had designed his King Lear) but we had seen the toad-god,
 and thought more in terms of voodoo than the Noh Theatre. Gaskill
 persuaded me to give Mask classes as well: 'It shouldn't all be left to
-me,' he said, and we both gave classes to groups who visitedthe theatre.
+me,' he said, and we both gave classes to groups who visited the theatre.
 It's true that an actor can wear a Mask casually, and just pretend to
 be another person, but Gaskill and myself were absolutely clear that
 we were trying to induce trance states. The reason why one auto
@@ -6572,7 +6572,7 @@ mixing Character Masks with Tragic Masks (Tragic Masks work by a
 
 MASKS AND TRANCE
 
-quite different technique-see page 184). Mystudents showed him one
+quite different technique-see page 184). My students showed him one
 of the mixed scenes they had prepared with me, and they reported
 him as saying that it did work, but that he still didn't like it! When I
 visited him during his last illness, almost the last thing he said to me
@@ -6606,7 +6606,7 @@ Elsewhere Chaplin has said, 'I realised I would have to spend the
 rest of my life finding out about the creature. For me he was fixed,
 complete, the moment I looked in the mirror and saw him for the
 first time, yet even now I don't know all the things that are to be
-known about him.'l (Isabel Quigly, Charlie Chaplin-Early Comedies,
+known about him.'l (Isabel Quigley, Charlie Chaplin-Early Comedies,
 Studio Vista, 1968.)
 
 Russians
@@ -6735,7 +6735,7 @@ the curtain falls. 'What's Hecuba to him?' asks Hamlet, and the mystery
 remains. Actors can be possessed by the character they play just as
 they can be possessed by Masks. Many actors have been unable to
 really 'find' a character until they put on the make-up, or until they
-tryon the wig, or the costume. We find the Mask strange because we
+try on the wig, or the costume. We find the Mask strange because we
 don't understand how irrational our responses to the face are anyway,
 and we don't realise that much of our lives is spent in some form of
 trance, i.e. absorbed. What we assume to be 'normal consciousness' is
@@ -6797,7 +6797,7 @@ for a much shorter time.
 
 I see the Mask as something that is continually flaring up in this
 culture, only to be almost immediately snuffed out. No sooner have I
-estaDlished a tradition of Mask work somewhere than the students
+established a tradition of Mask work somewhere than the students
 start getting taught the 'correct' movements, just as they learn a
 phoney 'Commedia dell' Arte' technique. The manipulated Mask is
 hardly worth having, and is easy to drive out of the theatre. The Mask
@@ -6954,7 +6954,7 @@ We don't think of ourselves as moving in and out of trance because
 we're trained not to. It's impossible to be 'in control' all the time, but
 we convince ourselves that we are. Other people help to stop us
 drifting. They will laugh if we don't seem immediately in possession
-of ourselves, and we'll laugh too in acknowledgement of our inap
+of ourselves, and we'll laugh too in acknowledgement of our inappropriate
 propriate behaviour.
 
 In 'normal consciousness' I am aware of myself as 'thinking verb
@@ -7146,7 +7146,7 @@ many similarities. It's true that the possessed person is often sup
 posed to remember nothing that happens during the trance-but this
 is also observed sometimes in Mask work, even though it's not de
 manded. And two types of possession are often described: an am
-nesiac and a lucid state. Possessed people don't seem to need speech
+amnesiac and a lucid state. Possessed people don't seem to need speech
 lessons (which Masks do, as described later), but there are many
 descriptions of inarticulate sounds preceding speech. And sometimes a
 deeply possessed Mask will speak from the first moment.
@@ -7246,7 +7246,7 @@ her to intelligible speech .... Before her spirit could be restored to
 the light of common day, a spell of unconsciousness intervened. Apollo
 was washing her mind with Lethe water, to make her forget the fate
 ful secrets she had learned during his effulgent visitation. The spirit
-of divine truth departed and returned to whence it came; Phemonoe
+of divine truth departed and returned to whence it came; Phemonae
 collapsed on the floor, and was revived with difficulty.' (Translated by
 Robert Graves, Pharsalia, Penguin, 1956.)
 
@@ -7285,7 +7285,7 @@ over, but that she had conducted it herself. She says:
 
 'The possessed benefits least of all men from his own possession.
 He may suffer for it in material loss, in the sometimes painful, always
-exhausted aftermath. And to the c!egree that his consciousness persists
+exhausted aftermath. And to the c!degree that his consciousness persists
 into its first moments or becomes aware of it at the very end, he
 experiences an overwhelming fear. Never have I seen the face of such
 anguish, ordeal and blind terror as at moments when the loa comes.'
@@ -7419,7 +7419,7 @@ scribing an Indonesian possession ceremony:
 'The crowd that gathered was alert and attentive, the whole spirit
 like that of a game in which everyone would take part. Everyone
 would join in the singing which directed the trancer's performance.
-People would callout jibes to the performers, urging them on, taunt
+People would call out jibes to the performers, urging them on, taunt
 ing them with phrases known to infuriate them. The crowd enjoyed
 this very much indeed. When the time came to bring the act to an
 end, a whole group would fall on the trancer, who struggled fiercely in
@@ -7451,7 +7451,7 @@ example: someone possessed by Zaka appears under the peristyle in
 the get-up of a peasant. By canny movements he mimes the anxiety
 of a countryman come to town, and who fears to be robbed. Now
 another possessed person joins him, one might almost say 'comes on'.
-It is Guede-nibo of the Guede family, which watches over the dead.
+It is Guede-Guede-nibo of the Guede family, which watches over the dead.
 Zaka is clearly terrified by the presence of his gloomy colleague and
 tries to propitiate him, inviting him to have something to eat and to
 drink some rum. Guede, who is making a show as a townsman, ex-
@@ -7490,7 +7490,7 @@ a little toy in it, which is something the Masks like.)
 
 I put some furniture on the stage, and set up a screen to one side.
 Behind the screen are hats, and coats, and pyjamas, boiler suits, and a
-few dresses. If the clothes are a little out offashion, so much the better.
+few dresses. If the clothes are a little out off fashion, so much the better.
 Real clothes are generally better than stage costumes, though. Sheets
 of coloured material are good. I used to have some big felt 'shoes' that
 some Masks liked-I think they were made to fit inside gumboots in
@@ -7586,7 +7586,7 @@ When a student tries on a Mask for the second time I may say
 'When you look in the mirror let the Mask make a sound, and keep
 the sound going all through the scene.' This is a meditation technique
 very effective in blocking verbalisation (like' Tibetan monks chanting
-'Oooooommmmm'). I often say things like 'Yes, that's excellent', or
+'Ommmm'). I often say things like 'Yes, that's excellent', or
 'Who is it?' or 'Amazing' even before students have looked in the
 mirror, so that the feeling of being different, and hidden, is reinforced.
 The Masks begin to pant, and wheeze, and howl, which freaks out the
@@ -7594,7 +7594,7 @@ people watching even more, and 'pumps the atmosphere up'. In
 voodoo cults the drums throb for hours to call the gods across the
 ocean from Mrica.
 
-Once one person is possessed, others usually follow almcst im
+Once one person is possessed, others usually follow almost im
 mediately. In a beginners' Mask class there is usually a 'dead' twenty
 minutes before the first Mask appears-if you're lucky. My method
 is to 'seed' the class with a fully developed Mask. The presence of a
@@ -7639,9 +7639,9 @@ The problem is not one of getting the students to experience the
 from their reflection-the difficulty lies in stopping the student from
 making the change 'himself'. There's no reason for the student to
 start 'thinking' when he already 'knows' intuitively exactly what sort
-of creature he is. Getting him to hold his mouth in a fixed pcsition,
-and having him make sounds helps to block verbalisatioIl, and
-'finding a prop' helps to tear the Mask away from the mirro". Un-
+of creature he is. Getting him to hold his mouth in a fixed position,
+and having him make sounds helps to block verbalisation, and
+'finding a prop' helps to tear the Mask away from the mirror". Un-
 
 168 MASKS AND TRANCE
 fortunately, even the effort of walking may throw the actor into
@@ -7897,7 +7897,7 @@ the adults on a bus, you can see that they work to express a 'deadness'.
 If Masks were subjected to the same pressures as our children are,
 then they also would become dull and inexpressive. We adults have
 learned to be opaque. We live among hard surfaces that reflect sound
-back to us, so we're comtantly telling our children to be quiet. Our
+back to us, so we're constantly telling our children to be quiet. Our
 lives are surrounded with precious objects-glass, china, televisions,
 stereos-so that movement has to be restrained. Any adult who acted
 like a three-year-old would be intolerable to us.
@@ -7909,7 +7909,7 @@ can't 'act fourteen' either, so he looks stupid as a defence. A child of
 one and a half can look bright and alert, but an adult with a mental
 age of ten has to look like a moron because this is the most acceptable
 persona he's able to assemble. When Veronica Sherbourne allows re
-tarded children to behave spontaneously, we see at once that the
+retarded children to behave spontaneously, we see at once that the
 deadness was only a cloak, a crippling disguise, yet we 'normal' people
 are wooden and inexpressive compared to the Masks.
 
@@ -7968,7 +7968,7 @@ and I both kept notes on it. Here are some of mine.
 
 'When first created it looked at everything as if amazed. It made
 "cor!" and "ooooooooorh" noises. It covers Ingrid's top lip, which
-makes Ingrid's mouth form a strange shape, as ifher own top lip were
+makes Ingrid's mouth form a strange shape, as if her own top lip were
 fixed to the Mask.
 
 'I gave the Waif an ice cream on a stick. She tried to eat the paper.
@@ -8004,7 +8004,7 @@ and experiencing something much more fluid and dynamic-some
 times when the Mask is turned on there is a part of me sitting in a dist
 ant corner of my mind that watches and notices changed body sensa
 tions, emotions, etc. But it's very passive, this watcher-does nothing
-that criticises or interferes-and sometimes it's not there at all. Then
+that criticizes or interferes-and sometimes it's not there at all. Then
 it's like the "I" blanks out and "something else" steps in and experi
 ences. When Ingrid switches back she can't always remember what
 that something else did or experienced. But while I am the Mask I
@@ -8045,7 +8045,7 @@ Mask, and its high forehead, are likely to trigger parental feelings.
 The eyes are very wide apart as if looking into the distance, and help
 ing to give it its wondering look. Where the bottom of the Mask
 covers t;le wearer's top lip, a faint orange lip is painted onto the Mask.
-Everyo~e who has created a 'Waif' character with the Mask has lined
+Everyone~e who has created a 'Waif' character with the Mask has lined
 their lip up with the Mask's, and then held it frozen. I wrote my play
 The Last Bird for this Mask, and the Danish actress Karen-lis
 Ahrenkiel played the role in the Aarhus production. It was only when
@@ -8350,10 +8350,10 @@ fied to go near him.
 In The Last Bird, Death was to reap the Grandfather. It was a 'good'
 scene, and the actors were working well. But when we tried the scene
 with the Mask, Grandfather stopped doing anything one could recog
-nise as 'acting' and stared transfixed at the point of the scythe. It was
+recognize as 'acting' and stared transfixed at the point of the scythe. It was
 just cardboard with aluminium foil covering it, but suddenly it seemed
 
-the most terrible instrument in the universe. Dick Kajsl1Jr, who was
+the most terrible instrument in the universe. Dick Kajsl Jr1Jr, who was
 playing Death, backed off. 'I can't kill him,' he said, very upset, as we
 all were. It took about an hour before we could try the scene again.
 
@@ -8417,7 +8417,7 @@ Once the Masks have learned their roles, and have mastered the
 same thing each performance. It's silly to preset exactly how they
 should move, but similar patterns will always appear. If a moth flies
 in, maybe they'll be momentarily distracted and start chasing it, or
-snapping at it as it flies past, but the actors then assert taeir control,
+snapping at it as it flies past, but the actors then assert their control,
 call in a mirror, and set the Mask back on its track again.
 
 Tragic Masks
@@ -8439,7 +8439,7 @@ and was very moving.
 
 If one of the greatest half Masks of the cinema is Chaplin, then one
 of the greatest full Masks is Garbo. Critics raved about her face:
-' ... Her face, early called the face of the century, had an extraordin
+' ... Her face, early called the face of the century, had an extraordinary
 ary plasticity, a mirrorlike quality; people could see in it their own
 
 conflicts and desires.' (Norman Zierold, Garbo, W. H. Allen, London,
@@ -8468,7 +8468,7 @@ Such an actor can make a wooden Mask smile, its carved lips tremble,
 its painted brows narrow.
 
 The reason usually given for the changes of expression that occur
-in Mask work is that the Masks are asymetrical, and that as they move
+in Mask work is that the Masks are asymmetrical, and that as they move
 about we see different angles. This may be true in a few cases, but if
 you hold a Mask and move it about it won't smile knowingly, or seem
 about to weep, or become filled with terror. It's only when a Mask is
@@ -8508,7 +8508,7 @@ putting on a full Mask with head lowered, and then raising the head as
 if looking into the distance. It was interesting to see how much more
 we did than was asked of us, either because we felt the need to 'act',
 i.e. to add something extra, or because we weren't used to doing any
-thing so simple; hands fumbled uimecessarily, the head wasn't
+thing so simple; hands fumbled unnecessarily, the head wasn't
 brought up smoothly, and it trembled. With the face covered every
 movement of the body was emphasised.
 
@@ -8721,7 +8721,7 @@ movements that diminish the power of the Mask, but I also have to
 awaken feelings of grieving and seriousness. In moments of awe, or of
 grief, something takes over the body and tells it what to do, how to
 behave. The personality stops doing all the trivial things that help to
-maintain 'normal consciousness'. Jean Dorcy's technique is clearly
+maintain 'normal consciousness'. Jean Dorcy technique is clearly
 intended to produce this sort of serious trance state; so was Michel
 Saint-Denis's, and so was George's. A different kind of spirit is
 involved from that which inhabits the half Mask.
@@ -8735,7 +8735,7 @@ ment yourself. Modern photography is of such high quality that you
 can hardly believe that it's not a face you're watching. Also each Mask
 has its own built-in lighting. People gasp when they see them, and get
 frightened. Sometimes I've had to stop a class because we've all felt
-sick. This happens if you work for a long time, sayan hour, during
+sick. This happens if you work for a long time, say hour, during
 which the tensions can become unbearable.
 
 The students wearing the Masks feel completely safe, since they are
@@ -8783,7 +8783,7 @@ Mask. He had the actors stand in a line facing the audience, and act out
 a play in which a landlord raped a woman who wouldn't pay the rent.
 Each Mask acted in its 'own space'. One Mask knocked at a 'door' and
 
-192 MASRS AND TRANCE
+192 MASKS AND TRANCE
 another Mask answered a second 'door'. We saw two mimed 'doors',
 but we put them together in the brain. The rape was weird: the land
 lord tore at the air in front of him, while the girl Mask two places
@@ -8796,7 +8796,7 @@ board backing, and her tears were dissolving it.
 
 Four mor·: actors tried the scene, but they chose a child Mask for
 the woman, and then the actress knelt down, reducing her height, so
-they decidec'. to make it the rape of a child. The four characters were
+they decided'. to make it the rape of a child. The four characters were
 the landlord, child, father, and social worker. They went through the
 scene stage by stage in hideous detail, the landlord finding that Mum
 and Dad were out, getting himself admitted, and so on. The actors
@@ -8828,7 +8828,7 @@ fear can be shown by the fact that the presence of a doctor is thought
 
 MASKS AND TRANCE 193
 (0 make (hings OK. One of my first S(UL\enrs was a brain surgeon, and
-(his made everyone very happy, alrhough he knew no more about Mask
+(his made everyone very happy, although he knew no more about Mask
 work (han anyone else did.
 
 People seem (0 be afraid of (hree (hings: (I) (ha( (he students will be
@@ -8836,24 +8836,24 @@ violenr; (2) (ha( (he s(udenrs will go 'mad'; (3) (ha( (he students will
 refuse (0 remove (he Mask when instructed (a combination of (he
 first (wo).
 
-Ir's (rue (ha( (here are many reports of violenr and frightening
+It's (rue (ha( (here are many reports of violenr and frightening
 'possessions'. Steward Wavell describes a ceremony in which Malayan
 men were riding hobby-horses and becoming possessed by (he spirits
 of horses.
 
-'One centaur had leapt (owards a group of women gnashing his
+'One centaur had leapt (towards a group of women gnashing his
 (ee(h, pawing a( (he ground, kicking, snapping and biting, rushing
 backwards and (hen leaping again. Men rushed forwards (0 drag (he
-cenraur back, bur his strength was phenomenal. Three (imes he was
+centaur back, bur his strength was phenomenal. Three (times he was
 grabbed and res (rained bur managed (0 break himself free. Two of (he
-women had fainted. One had been badly binen .... Finally, (he old
-pawang, pressing forefinger and (humb on (he centaur's (emples, gave
+women had fainted. One had been badly bitten .... Finally, (he old
+pawang, pressing forefinger and (thumb on (he centaur's (temples, gave
 a sharp jerk (0 (he man's head which must have given a severe shock (0
 his spinal cord. The man recovered, looked dazed for a while, and (he
-dancing conrinued as if nothing had happened.
+dancing continued as if nothing had happened.
 
 'The headman (ook (he incident as a matter of course. Such ou(
-bursts sometimes occurred, he said. Ir was (he bitten girl's faulr: she
+bursts sometimes occurred, he said. Ir was (he bitten girl's fault: she
 should nor have been wearing a flower in her hair. A flower on a girl
 was bound (0 excite any hantu (horse-god).' (Wavell, Bu(( and Ep(on,
 Trances, Dunon, 1966.)
@@ -8866,11 +8866,11 @@ cried our 'To (he marke(!' The 'pig' ana eked, and scattered (he crowd.
 from a height of a( least five feel, landed on all fours with as much
 ease as if he'd been all his life a four-footed creature.
 
-'Still angry, he attacked (he overturned slone (rough, buning i( and
+'Still angry, he attacked (he overturned stone (rough, burning i( and
 pushing it along (he ground with his head. Men, seeing (ha( he was
 gening our of control, hurried (0 restrain him. Others brought great
 jars of water which (hey poured in (he centre of (he court, making a
-wet and muddy place, sloshy as a pigsry .... By (his (ime most of (he
+wet and muddy place, sloshy as a pigsty .... By (his (ime most of (he
 fibre covering had come off him, only (he head and snout remaining.
 Someone got close enough (0 him (0 (ear (his off, as (hey called our,
 "Wallow, wallow!" ,
@@ -8880,7 +8880,7 @@ Someone got close enough (0 him (0 (ear (his off, as (hey called our,
 The 'pig' went into the mud and rolled about in ecstasy, and then
 a crowd of men grabbed him, 'precipitating a fit of powerful convul
 sions'. They poured water over him, and as he grew quiet they mas
-saged him. Then they carried him to the 'sleeping platform' and he
+massaged him. Then they carried him to the 'sleeping platform' and he
 'woke up'.
 
 Another example of a 'pig-god' going out of control also resulted
@@ -8898,7 +8898,7 @@ but he cried and shouted and had dreadful convulsions.
 spat at him .... At last he became calmer and fell asleep for a long
 time. There was no feed brought for him and no mud bath, as we saw
 before, I suppose because of this accident. The crowd was very an
-noyed by the sudden end of it, and all went home.
+annoyed by the sudden end of it, and all went home.
 
 'G.N. noted that many people had called out: "Who was that who
 was so very insulting? ... It's not right for him to come out of trance
@@ -9019,7 +9019,7 @@ Masks may cause physical harm when the teacher is believed to be
 in control, but in fact has been distracted. The Mask may be depend
 ing on the teacher to say 'Take the Mask off.' When the instruction
 doesn't come, as a rule the Mask turns itself off, but it might, I sup
-pose, make an error, and hit harderthan it 'intends'. We have the para
+pose, make an error, and hit harder than it 'intends'. We have the para
 dox that the Masks are safest when the teacher is absent, since the
 actors then operate their own controls.
 
@@ -9064,7 +9064,7 @@ gain from such behaviour. If someone refused to come out of trance
 during a public hypnosis show, then he'd be put in a dressing-room
 to sleep it off, and would miss all the fun. In clinical hypnosis, the
 only purpose of such an action would lie in the opportunity to em
-barrass and confuse the hypnotist. If the hypnotist remained calm,
+embarrass and confuse the hypnotist. If the hypnotist remained calm,
 then there'd be no pay-off. In case of any trouble with people refusing
 to remove the Mask, all you'd have to do would be to say 'OK, fine,
 good,' and keep your status. Then the refusal would be pointless.
@@ -9101,7 +9101,7 @@ change his view of himself a little. Surely it was less lonely to know
 that he was actually just like the rest of us.
 
 During a weekend course a student went into a very deep trance,
-and became a little old man consumed by paroxysms oflust. He seemed
+and became a little old man consumed by paroxysms of lust. He seemed
 to blaze with an inner light. One of the old gods had returned to earth.
 The student was shaken, but quite calm until the other students
 talked to him during lunch and made him appreciate how odd it had
@@ -9110,7 +9110,7 @@ Mask had been very successful.
 
 Good drama teaching, of any kind, threatens to alter the personality.
 The better the teacher the more powerful the effects. In any actor
-training we work in the voice and the body, and feelings of'disinte
+training we work in the voice and the body, and feelings disintegration
 gration' are likely to occur. I remember asking an actress to mime an
 animal with her eyes shut, and to let her hands just move 'by them
 selves'. Suddenly she hallucinated a real animal! It's more difficult to
@@ -9195,7 +9195,7 @@ they become cannibals pretending to eat each other, and so on. But
 when you give the student permission to explore this material he very
 soon uncovers layers of unsuspected gentleness and tenderness. It is no
 longer sexual feelings and violence that are deeply repre:;sed in this
-culture now, whatever it may have been like in jin-de-siicle Vienna.
+culture now, whatever it may have been like in jin-de-decile Vienna.
 We repress our benevolence and tenderness.
 
 NOTES
@@ -9236,7 +9236,7 @@ people with an always artificially beaming face; there are "stiff" and
 expression themselves, if the attitude is repeatedly pointed out and de
 scribed to them, or shown to them by imitating it. One patient with "stiff"
 cheeks said: "My cheeks are as if heavy with tears." Suppressed crying
-easily leads to a masklike stiffness of the facial musculature. At an early
+easily leads to a mask-like stiffness of the facial musculature. At an early
 age, children develop a fear of "faces" which they used to delight in
 making; they are afraid because they are told that if they make a face
 it'll stay that way, and because the very impulses they express in their
@@ -9313,7 +9313,7 @@ in the head': 'I am breathing. I am thinking about breathing. I am notic
 ing a bird. I am feeling the weight of my arm on the chair ... .' This
 doesn't suppress verbalisation, but it diverts it.
 
-Dancing to repetitive rythms is trance-inducing. People report that the
+Dancing to repetitive rhythms is trance-inducing. People report that the
 body seems to be moving by itself as they move into the trance state.
 Drummers at possession cults drum louder and with more syncopation in
 order to 'throw people over the edge'.
@@ -9385,7 +9385,7 @@ and setting everything forth with a shrill voice and fluent tongue. When
 
 204 MASKS AND TRANCE
 
-you fancy he is at an end he is only beginning, when you think he is leav
+you fancy he is at an end he is only beginning, when you think he is leaving
 ing he turns back. He flies at one without addressing him, he seizes hold
 of another who is already past. Should he come across a brother of his
 profession, the folly rises to its height ....
@@ -9411,7 +9411,7 @@ some maskers or other. No foot passenger is secure from them. An abbot
 in black dress becomes a target for missiles on all hands; and seeing that
 gypsum and chalk always leave their mark wherever they alight, the
 abbot soon gets spotted all over with white and grey.' (Translated by
-A. J. W. Morrison and Charles Nesbit, G. Bell and Sons.)
+A. J. W. Morrison and Charles Nesbitt, G. Bell and Sons.)
 10. 'What I will say is this: See that in no sense you withdraw into
 yourself. And, briefly, I do not want you to be outside or above, behind or
 beside yourself either.
@@ -9424,7 +9424,7 @@ II. George had an extract from Saint-Denis's book Theatre: The Redis
 covery of Style (Theatre Art Books, New York, I960) handed out to his
 students at the studio. Here it is: 'This silent improvisation culminated in
 the use of masks, full-face masks of normal human size, simple and har
-monious masks representing the four ages of man: the adolescent, the
+harmonious masks representing the four ages of man: the adolescent, the
 adult, mature middle age and old age. In getting the students to wear
 masks, we were not aiming at aesthetic results nor was it our intention to
 revive the art of mime. To us, a mask was a temporary instrument which
@@ -9435,7 +9435,7 @@ consciousness, and lead him to develop his powers of outward expression.
 from it a strong impulse which you have got to obey. But the mask is also
 an inanimate object which the personality of the actor will bring to life.
 As his inner feelings accumulate behind the mask, so the actor's face re
-laxes. His body, which is made more expressive by the very immobility of
+relaxes. His body, which is made more expressive by the very immobility of
 the mask, will be brought to action by the strength of inner feeling.
 
 'Once the actor has acquired the elementary technique that is de-
@@ -9452,7 +9452,7 @@ physical actions compels him to detachment and lucidity.
 
 'Submission to the lesson of the mask enables an actor of talent to
 discover a broad, inspired and objective style of acting. It is a good
-prep'uatory school for tragedy and drama in its greatest styles. Scenarios
+preparatory school for tragedy and drama in its greatest styles. Scenarios
 using up to three actors were drawn from striking dramatic moments in
 classical tragedies and dramas. Further than this silent improvisation
 cannot go.'

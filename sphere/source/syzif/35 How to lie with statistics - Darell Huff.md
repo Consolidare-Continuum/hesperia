@@ -424,7 +424,7 @@ well	differ	sharply	in	their	sexual	histories	from	the	more	taciturn	who	have
 weeded	themselves	out	of	the	samples	by	saying	the	hopeful	interviewers	nay.
 That	all	this	is	more	than	speculation	is	confirmed	by	a	study	made	by	A.	H.
 Maslow	at	Brooklyn	College.	Among	girl	students	in	his	sample	were	many	who
-later	volunteered	for	kinseying,	and	Maslow	found	that	these	girls	were
+later	volunteered	for	kinsey,	and	Maslow	found	that	these	girls	were
 generally	the	more	sexually	unconventional	and	sexually	sophisticated	ones.
 
 The	problem	when	reading	Kinsey,	or	any	of	the	more	recent	studies	of	sexual
@@ -750,7 +750,7 @@ heads?	Half	the	time,	of	course.	Everyone	knows	that.
 Well,	let's	check	that	and	see	…	I	have	just	tried	ten	tosses	and	got	heads	eight
 
 times,	which	proves	that	pennies	come	up	heads	eighty	per	cent	of	the	time.
-Well,	by	toothpaste	statistics	they	do.	Now	try	it	yourself.	You	may	get	a	fiftyfifty	result,	but	probably	you	won't;	your	result,	like	mine,	stands	a	good	chance
+Well,	by	toothpaste	statistics	they	do.	Now	try	it	yourself.	You	may	get	a	fifty-fifty	result,	but	probably	you	won't;	your	result,	like	mine,	stands	a	good	chance
 of	being	quite	a	way	away	from	fifty-fifty.	But	if	your	patience	holds	out	for	a
 thousand	tosses	you	are	almost	(though	not	quite)	certain	to	come	out	with	a
 result	very	close	to	half	heads	–	a	result,	that	is,	which	represents	the	real
@@ -874,7 +874,7 @@ is	what	normal	means,	and	he	did	not	stamp	them	with	any	seal	of	approval.
 Whether	they	were	naughty	or	not	did	not	come	within	what	Dr	Kinsey
 considered	to	be	his	province.	So	he	ran	up	against	something	that	has	plagued
 many	another	observer:	It	is	dangerous	to	mention	any	subject	having	high
-emotional	content	without	hastily	saying	whether	you	are	for	or	agin	it.
+emotional	content	without	hastily	saying	whether	you	are	for	or	again	it.
 
 The	deceptive	thing	about	the	little	figure	that	is	not	there	is	that	its	absence	so
 
@@ -1131,7 +1131,7 @@ milked	from	the	idea	long	before.
 
 The	Gee-Whiz	Graph
 
-There	is	terror	in	numbers.	Humpty	Dumpty's	confidence	in	telling	Alice	that	he
+There	is	terror	in	numbers.	Humpty	Dumpty	confidence	in	telling	Alice	that	he
 was	master	of	the	words	he	used	would	not	be	extended	by	many	people	to
 numbers.	Perhaps	we	suffer	from	a	trauma	induced	by	early	experiences	with
 maths.
@@ -1200,7 +1200,7 @@ told	you:	Living	costs	have	more	than	tripled,	and	gas	has	gone	down	one-third!
 Steel	companies	have	used	similarly	misleading	graphic	methods	in	attempts
 to	line	up	public	opinion	against	wage	increases.	Yet	the	method	is	far	from	new,
 and	its	impropriety	was	shown	up	long	ago	–	not	just	in	technical	publications
-for	statisticians	either.	An	editorial	writer	in	Dun's	Review	back	in	1938
+for	statisticians	either.	An	editorial	writer	in	Dun	Review	back	in	1938
 reproduced	a	chart	from	an	advertisement	advocating	advertising	in	Washington,
 D.C.,	the	argument	being	nicely	expressed	in	the	headline	over	the	chart:
 GOVERNMENT	PAY	ROLLS	UP!	The	line	in	the	graph	went	along	with	the
@@ -1348,7 +1348,7 @@ But	the	effect	on	the	hasty	scanner	of	the	page	may	be	even	stranger:	He	may
 easily	come	away	with	the	idea	that	cows	are	bigger	now	than	they	used	to	be.
 
 Apply	the	same	deceptive	technique	to	what	has	happened	to	the	rhinoceros
-population	and	this	is	what	you	get.	Ogden	Nash	once	rhymed	rhinosterous	with
+population	and	this	is	what	you	get.	Ogden	Nash	once	rhymed	rhinoceros	with
 preposterous.	That's	the	word	for	the	method	too.
 
 The	Semi-attached	Figure
@@ -1832,13 +1832,13 @@ with	it,	but	they	don't	back	it	up;	and	note	also	that	while	the	statistics	are
 Cornell's	the	conclusions	are	not,	although	a	hasty	reader	may	come	away	with
 the	idea	that	they	are.
 
-Here	again	a	real	correlation	has	been	used	to	bolster	up	an	unproved	causeand-effect	relationship.	Perhaps	it	all	works	the	other	way	around	and	those
+Here	again	a	real	correlation	has	been	used	to	bolster	up	an	unproved	cause-and-effect	relationship.	Perhaps	it	all	works	the	other	way	around	and	those
 women	would	have	remained	unmarried	even	if	they	had	not	gone	to	college.
 Possibly	even	more	would	have	failed	to	marry.	If	these	possibilities	are	no
 better	than	the	one	the	writer	insists	upon,	they	are	perhaps	just	as	valid
 conclusions:	that	is,	guesses.
 
-Indeed	there	is	one	piece	of	evidence	suggesting	that	a	propensity	for	oldmaidhood	may	lead	to	going	to	college.	Dr	Kinsey	seems	to	have	found	some
+Indeed	there	is	one	piece	of	evidence	suggesting	that	a	propensity	for	old maidhood	may	lead	to	going	to	college.	Dr	Kinsey	seems	to	have	found	some
 correlation	between	sexuality	and	education,	with	traits	perhaps	being	fixed	at
 pre-college	age.	That	makes	it	all	the	more	questionable	to	say	that	going	to
 college	gets	in	the	way	of	marrying.
@@ -1849,7 +1849,7 @@ among	milk	drinkers.	Cancer,	it	seems,	was	becoming	increasingly	frequent	in
 New	England,	Minnesota,	Wisconsin,	and	Switzerland,	where	a	lot	of	milk	is
 produced	and	consumed,	while	remaining	rare	in	Ceylon,	where	milk	is	scarce.
 For	further	evidence	it	was	pointed	out	that	cancer	was	less	frequent	in	some
-Southern	states	where	less	milk	was	consumed.	Also,	it	was	pointed	out,	milkdrinking	English	women	get	some	kinds	of	cancer	eighteen	times	as	frequently
+Southern	states	where	less	milk	was	consumed.	Also,	it	was	pointed	out,	milk-drinking	English	women	get	some	kinds	of	cancer	eighteen	times	as	frequently
 as	Japanese	women	who	seldom	drink	milk.
 
 A	little	digging	might	uncover	quite	a	number	of	ways	to	account	for	these

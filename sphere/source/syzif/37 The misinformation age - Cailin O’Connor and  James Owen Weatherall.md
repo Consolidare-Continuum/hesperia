@@ -107,7 +107,7 @@ The Vegetable Lamb was reported as fact by leading naturalists and
 
 botanical scholars, several of whom claimed to have studied it and
 to have seen its wool. These claims persisted into the seventeenth
-century, and books reported studies of plant-animal and animalanimal hybrids of which the Vegetable Lamb was merely one famous
+century, and books reported studies of plant-animal and animal-animal hybrids of which the Vegetable Lamb was merely one famous
 example. (Another example of a nonexistent beast that appeared
 in scientific texts was a horned hare that looked strikingly like a
 jackalope—the mythical creature of the American Southwest said
@@ -470,7 +470,7 @@ public health interventions has long been a part of American public
 life. And yet, while the John Birch Society and their kin were certainly sincere in their opposition to water fluoridation (and many
 other government activities), they remained firmly on the fringes
 during the twentieth century.
-Today, however, the situation appears to be different. Evidencepoor arguments about public-health issues such as global climate
+Today, however, the situation appears to be different. Evidence-poor arguments about public-health issues such as global climate
 change, vaccination, and genetically modified foods are not only
 widely discussed and credited in mainstream political discussions,
 but in many cases they are actively supported by members of the
@@ -1222,7 +1222,7 @@ Radical environmentalists, Gross and Levitt argued, were scaremongering pseudosc
 And yet, in Rowland's case, it was the distinguished scientist and
 future Nobel laureate who, in speaking out about his own highly
 influential and widely cited research, was tarred as an activist and
-ideologue. Opposed to Rowland was not an apolitical and dispas-
+ideologue. Opposed to Rowland was not an apolitical and dispassionate-
 
 What Is Truth?
 
@@ -1290,7 +1290,7 @@ substantially reduced ozone levels. And the reason to believe that
 CFCs had produced that ozone hole was because a carefully tested
 theory was available according to which CFCs could deplete ozone—
 and the predicted by-products of that process were detected in the
-atmosphere over Antarctica. Likewise for sulfur produced by coalfired power plants and acid rain in distant regions.
+atmosphere over Antarctica. Likewise for sulfur produced by coal-fired power plants and acid rain in distant regions.
 All of this remains true even if we accept that science is deeply
 entwined with culture and politics—and that scientists have often
 gotten things wrong in the past. Seeking out the ways in which
@@ -1298,7 +1298,7 @@ current science is flawed is a natural part of science itself. If we take
 seriously the possibility that we are wrong—a stance that is central
 to the whole scientific enterprise—then we should be eager to give
 weight to criticism, particularly of a sort that scientists themselves
-may miss. The upshot of this criticism will be better science: moreconvincing arguments, fewer distortions, and better guidance to
+may miss. The upshot of this criticism will be better science: more convincing arguments, fewer distortions, and better guidance to
 action. It is the hard work of serious sociologists, anthropologists,
 historians, and philosophers of science—and scientists themselves—
 that has helped us better understand how science works, and why it
@@ -1823,7 +1823,7 @@ rheumatology, employed an expert who spent hours each week
 monitoring the public threat to his safety.
 What had happened?
 Lyme disease is caused by a spirochete—a type of bacteria shaped
-like a spiral or helix, like those that cause syphilis. And like syphilis,  the disease proceeds in stages. Initial infection causes flulike
+like a spiral or helix, like those that cause syphilis. And like syphilis,  the disease proceeds in stages. Initial infection causes flu-like
 symptoms: fever, headache, joint aches, and often, but not always,
 a distinctive rash in the shape of a bull's-eye.37 As the spirochetes
 spread throughout the body, some patients develop more alarming
@@ -1902,7 +1902,7 @@ question is which.
 On June 14, 2017, in Alexandria, Virginia, a group of Republican
 congressional representatives met to practice for the Congressional
 Baseball Game for Charity, which was scheduled for the following
-day.48 Suddenly, mid-practice, shots rang out from near the thirdbase dugout. Congressman Steve Scalise was hit in the hip; a lobbyist, a congressional aide, and a police officer assigned to protect
+day.48 Suddenly, mid-practice, shots rang out from near the third base dugout. Congressman Steve Scalise was hit in the hip; a lobbyist, a congressional aide, and a police officer assigned to protect
 Scalise were also shot and injured. The gunman was shot and died
 of his wounds.
 The shots were fired by a left-wing extremist named James
@@ -2146,7 +2146,7 @@ Puerperal, or "childbed" fever, was rampant, killing 10 percent
 of patients on average. Meanwhile, in the second clinic, the presumably less knowledgeable midwives were losing only 3–4 percent of
 their patients. Even more surprising, the death rate for women who
 had so-called street births on the way to the hospital was much lower
-than for women who received the dubious help of the doctors-intraining. During Semmelweis's first year, the first clinic's reputation
+than for women who received the dubious help of the doctors-interns. During Semmelweis's first year, the first clinic's reputation
 was so bad that his patients literally begged on their knees to be
 transferred to the second.
 Dismayed by their record, and horrified by the terrible deaths
@@ -2186,7 +2186,7 @@ other relatively difficult cases we have discussed. The message from
 the world was loud and clear: hand-washing dramatically reduces
 death by puerperal fever. What went wrong?
 
-On January 21, 2017, Donald Trump was inaugurated as the fortyfifth president of the United States. Within hours, his new administration was engulfed in a bizarre media storm. The subject had
+On January 21, 2017, Donald Trump was inaugurated as the forty-fifth president of the United States. Within hours, his new administration was engulfed in a bizarre media storm. The subject had
 nothing to do with policy or foreign affairs. The brouhaha was over
 the size of Trump's inauguration crowd.
 
@@ -2297,7 +2297,7 @@ and trusted their own judgment expressed discomfort with doing
 so. Here is how Asch described a subject who bucked the trend and
 chose the correct line: "His later answers came in a whispered
 voice, accompanied by a deprecating smile. At one point he grinned
-embarrassedly, and whispered explosively to his neighbor: 'I always
+embarrassingly, and whispered explosively to his neighbor: 'I always
 disagree—darn it!'"71
 Conformity bias can help explain what happened when Semmelweis showed that hand-washing could prevent puerperal fever. His
 peers—none of whom were washing their hands—ignored him
@@ -2656,7 +2656,7 @@ startling and deeply troubling. Yet the consequences of these activities are all
 Did (or do) you believe that fat is unhealthy—and the main contributor to obesity and heart disease? The sugar industry invested
 heavily in supporting and promoting research on the health risks
 of fat, to deflect attention from the greater risks of sugar.19 Who is
-behind the long-term resistance to legalizing marijuana for recrea-
+behind the long-term resistance to legalizing marijuana for recreational-
 
 tional use? Many interests are involved, but alcohol trade groups
 have taken a particularly strong and effective stand.20 There are
@@ -3250,7 +3250,7 @@ this, again, without fraud or biased production.
 The upshot is that when it comes to methylmercury, even though
 we have no reason to think the researchers from the University of
 Rochester were corrupted by coal industry funding, the EPRI likely
-still got its money's worth. Uncorrupt scientists can still be unwitting
+still got its money's worth. Uncorrupted scientists can still be unwitting
 participants in a process that subverts science for industry interests.
 Holman and Bruner describe another case in which the consequences of industrial selection were even more dire. In 1979, Harvard researcher Bernard Lown proposed the "arrhythmic suppression hypothesis"—the idea that the way to prevent deaths from
 heart attack was to suppress the heart arrhythmias known to precede
@@ -3396,7 +3396,7 @@ therefore most likely to realize our desired ends. Under ideal circumstances, in
 or medicine should not make any difference. What should matter is
 the evidence.
 Of course, our circumstances are nowhere near ideal. Most of us
-are underinformed and would struggle to understand any given scientific study in full detail. And as we pointed out in the last chapter,
+are under-informed and would struggle to understand any given scientific study in full detail. And as we pointed out in the last chapter,
 there are many cases in which even scientists should evaluate evidence with careful attention to its source. We are forced to rely on
 experts.
 But this role of judgment and authority in evaluating evidence
@@ -4377,7 +4377,7 @@ Russian hackers were behind the attacks—an accusation consistent
 with its earlier warnings to the DNC. Half a dozen private cybersecurity firms came to the same conclusion, and by October 2016,
 there was a broad consensus among the US intelligence agencies
 that the hacks had been conducted by Russian intelligence services.37
-Still, WikiLeaks never confirmed Russian involvement. In August 2016, Assange implied that the messages had come from a different source altogether: Seth Rich. He offered a twenty-thousanddollar reward for information related to Rich's death, and then,
+Still, WikiLeaks never confirmed Russian involvement. In August 2016, Assange implied that the messages had come from a different source altogether: Seth Rich. He offered a twenty-thousand dollar reward for information related to Rich's death, and then,
 in an interview with the Dutch television program Nieuwsuur, he
 asserted, following a question about Rich, that "our sources take
 risks"—before adding that WikiLeaks has a policy of never revealing or otherwise commenting on its sources.38
@@ -4530,7 +4530,7 @@ LGBTQ community, to Black Lives Matter activists, to gun rights
 supporters, to anti-immigrant zealots, and even, bizarrely, to animal lovers.
 One goal appears to have been to establish trust with a broad
 range of demographic and interest groups in order to influence them.
-The New York Times reported in October 2017 that the Russialinked LGBT United Twitter account, for example, declared: "We
+The New York Times reported in October 2017 that the Russia-linked LGBT United Twitter account, for example, declared: "We
 speak for all fellow members of LGBT community across the nation. Gender preference does not define you. Your spirit defines
 you." Even the dog-lover page, the Times suggests, was probably
 formed with the intention of developing a set of followers who
@@ -4898,7 +4898,7 @@ amplified on social media sites. If principles of free speech are compatible wit
 they are also compatible with regulating damaging lies dressed up as
 reported fact on matters of public consequence. Lying media should
 be clearly labeled as such, for the same reason that we provide the
-number of calories on a package of Doritos or point out health effects on a cigarette box. And social media sites should remain vigi-
+number of calories on a package of Doritos or point out health effects on a cigarette box. And social media sites should remain vigilant-
 
 lant about stopping the spread of fake news on their platforms or, at
 the very least, try to ensure that this "news" is clearly labeled as such.
@@ -6185,7 +6185,7 @@ See Fiegerman (2017) and G. Wells (2017); compare with the approximately
 245 million American adults. (Of course, not all Twitter users are adults, and
 so the 30 percent figure is merely approximate.)
 
-19. The term "meme," short for mimeme, is ancient Greek for "imitated thing."
+19. The term "meme," short for meme, is ancient Greek for "imitated thing."
 The term was proposed to describe units of cultural transmission in Dawkins
 (2006).
 See Singer-Vine and Silverman (2016).
@@ -6675,7 +6675,7 @@ Concha, Joe. 2016. "MSNBC Anchor Apologizes over False Statement About Fox."
 The Hill, December 9, 2016. http://thehill.com/homenews/media/309763-msnbc
 -anchor-apologizes-over-false-statement-about-fox.
 
-Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de. 1785. Essai sur l'application de l'analyse à la probabilité des décisions rendues à la pluralité des voix . . . Paris.
+Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de. 1785. Essai sur l'application de l'analyse à la probabilité des décisions rendues à la pluralitéé des voix . . . Paris.
 http://gallica.bnf.fr/ark:/12148/bpt6k417181.
 
 Conley, S. T. 1992. "What Do Consumers Think About Irradiated Foods?" FSIS
@@ -6833,7 +6833,7 @@ Human Primates Exposed to Borrelia Burgdorferi by Tick Feeding." PLOS
 ONE 12 (12): e0189071. https://doi.org/10.1371/journal.pone.0189071.
 
 Engber, Daniel. 2018. "LOL Something Matters." Slate, January 3, 2018. https://
-slate.com/health-and-science/2018/01/weve-been-told-were-living-in-a-post
+slate.com/health-and-science/2018/01/we've-been-told-were-living-in-a-post
 -truth-age-dont-believe-it.html.
 
 Ewing, Philip. 2016. "WikiLeaks Offers Reward in Search for Democratic Party
@@ -6879,7 +6879,7 @@ Field, Hartry. 1986. "The Deflationary Conception of Truth." In Fact, Science an
 Morality, edited by Graham Macdonald and Crispin Wright, 55–117. Oxford:
 Blackwell.
 
-Figueira, Álvaro, and Luciana Oliveira. 2017. "The Current State of Fake News:
+Figueira, ÁÁlvaro, and Luciana Oliveira. 2017. "The Current State of Fake News:
 Challenges and Opportunities." Procedia Computer Science 121: 817–825. https://
 doi.org/10.1016/j.procs.2017.11.106.
 
@@ -6932,7 +6932,7 @@ Science Policies Intended to Manage Industry Bias." Philosophy of Science. Forth
 to_Evaluate_Science_Policies_Intended_to_Manage_Industry_Bias.
 Gelfert, Axel. 2014. A Critical Introduction to Testimony. London: A & C Black.
 Gilbert, Margaret. 1992. On Social Facts. Princeton, NJ: Princeton University Press.
-Glaberson, William. 1988. "Behind Du Pont's Shift on Loss of Ozone Layer." New
+Glaberson, William. 1988. "Behind Du Du Pont's Shift on Loss of Ozone Layer." New
 
 York Times, March 26, 1988. http://www.nytimes.com/1988/03/26/business/be
 hind-du-pont-s-shift-on-loss-of-ozone-layer.html.
@@ -6950,7 +6950,7 @@ Goldman, Alvin I. 1986. Epistemology and Cognition. Cambridge, MA: Harvard Unive
 ———. 1999. Knowledge in a Social World. Oxford: Oxford University Press.
 Goldman, Alvin I., and Thomas Blanchard. 2001 (rev. 2015). "Social Epistemology." In The Stanford Encyclopedia of Philosophy (Winter 2016 edition), edited
 by  Edward N. Zalta. https://plato.stanford.edu/archives/win2016/entries/epis
-temology-social/.
+epistemology-social/.
 
 Goldman, Alvin I., and James C. Cox. 1996. "Speech, Truth, and the Free Market
 
@@ -6977,7 +6977,7 @@ Journal of Sociology 83: 1360–1380.
 Granovetter, Mark S. 1973. "The Strength of Weak Ties." American Journal of Sociology 78 (6): 1360–1380. https://doi.org/10.1086/225469.
 
 Greenwood, Shannon, Andrew Perrin, and Maeve Duggan. 2016. "Social Media
-Update 2016." Pew Research Center, November 11, 2016. http://www.pewinter
+Update 2016." Pew Research Center, November 11, 2016. http://www.pewintern
 net.org/2016/11/11/social-media-update-2016/.
 
 Grice, Andrew. 2017. "Fake News Handed Brexiteers the Referendum—and Now
@@ -7235,7 +7235,7 @@ Likens, Gene E., and F. Herbert Bormann. 1974. "Acid Rain: A Serious Regional
 Environmental Problem." Science 184 (4142): 1176–1179. https://doi.org/10
 .2307/1738257.
 
-Likens, Gene E., F. Herbert Bormann, and Noye M. Johnson. 1972. "Acid Rain."
+Likens, Gene E., F. Herbert Bormann, and Noyes M. Johnson. 1972. "Acid Rain."
 Environment: Science and Policy for Sustainable Development 14 (2): 33–40. https://
 doi.org/10.1080/00139157.1972.9933001.
 
@@ -7272,7 +7272,7 @@ Kenneth Dardick, Peter J. Krause, et al. 2014. "Xenodiagnosis to Detect Borrelia
 58 (7): 937–945. https://doi.org/10.1093/cid/cit939.
 
 Marshall, Barry J. 2002. "The Discovery That Helicobacter Pylori, a Spiral Bacterium, Caused Peptic Ulcer Disease." In Helicobacter Pioneers: First Hand Accounts
-from the Scientists Who Discovered Helicobacters 1892–1982, edited by Barry Marshall. 165–202. Hoboken, NJ: Wiley-Blackwell.
+from the Scientists Who Discovered Helicobacter 1892–1982, edited by Barry Marshall. 165–202. Hoboken, NJ: Wiley-Blackwell.
 
 Marshall, Barry J., and J. Robin Warren. 1984. "Unidentified Curved Bacilli in the
 Stomach of Patients with Gastritis and Peptic Ulceration." Lancet 323 (8390):
@@ -7302,7 +7302,7 @@ Fears for Freedom of Speech." Washington Post, January 10, 2018. https://www
 -raising-fears-for-freedom-of-speech/2018/01/10/78256962-f558-11e7-9af7-a
 50bc3300042_story.html.
 
-McCurdy, Patrick. 1975. "Fluorocarbons: Still Time for Fair Shake, Not Bum's
+McCurdy, Patrick. 1975. "Fluorocarbons: Still Time for Fair Shake, Not Bum
 
 Rush." Chemical Week, July 4, 1975.
 
@@ -7349,7 +7349,7 @@ Philosophical Monographs. Oxford: Oxford University Press.
 
 Mohseni, Aydin, and Cole Randall Williams. n.d. "Truth and Conformity on Networks." Unpublished manuscript.
 
-Molina, Mario J., and F. S. Rowland. 1974. "Stratospheric Sink for Chlorofluoromethanes: Chlorine Atom-Catalysed Destruction of Ozone." Nature 249 (5460):
+Molina, Mario J., and F. S. Rowland. 1974. "Stratospheric Sink for Chlorofluoromethanes: Chlorine Atom-Catalyzed Destruction of Ozone." Nature 249 (5460):
 810–812. https://doi.org/10.1038/249810a0.
 
 Molteni, Megan. 2017. "Anti-Vaxxers Brought Their War to Minnesota—Then
@@ -7424,7 +7424,7 @@ Snopes.com, July 10, 2016. https://www.snopes.com/pope-francis-donald
 -trump-endorsement/.
 
 Norr, Roy. 1952. "Cancer by the Carton." Reader's Digest, December 1952.
-Nowak, Andrzei, Jacek Szamrei, and Bibb Latané. 1990. "From Private Attitude to
+Nowak, Andrzej, Jacek Szamrei, and Bibb Latané. 1990. "From Private Attitude to
 
 Public Opinion: A Dynamic Theory of Social Impact." Psychological Review 97
 (3): 362–376.
@@ -7658,7 +7658,7 @@ Cornell University Library, arXiv.org. July 24, 2017. http://arxiv.org/abs/1707
 Shear, Michael D., Adam Goldman, and Emily Cochrane. 2017. "Steve Scalise
 Among 4 Shot at Baseball Field; Suspect Is Dead." New York Times, June 14,
 2017. https://www.nytimes.com/2017/06/14/us/steve-scalise-congress-shot-al
-exandria-virginia.html.
+Alexandria-virginia.html.
 
 Shrader-Frechette, Kristin. 2014. Tainted: How Philosophy of Science Can Expose Bad
 
@@ -7729,7 +7729,7 @@ Champaign: University of Illinois Press.
 Smith, Philip J., Susan Y. Chu, and Lawrence E. Barker. 2004. "Children Who Have
 
 Received No Vaccines: Who Are They and Where Do They Live?" Pediatrics
-114 (1): 187–195. https://doi.org/10.1542/peds.114.1.187.
+114 (1): 187–195. https://doi.org/10.1542/Pediatrics.114.1.187.
 
 Smith-Spangler, Crystal, Margaret L. Brandeau, Grace E. Hunter, J. Clay Bavinger,
 Maren Pearson, Paul J. Eschbach, Vandana Sundaram, et al. 2012. "Are Organic
@@ -7826,12 +7826,12 @@ Sun, Lena H. 2017a. "Anti-Vaccine Activists Spark a State's Worst Measles Out-
 
 break in Decades." Washington Post, May 5, 2017. https://www.washingtonpost
 .com/national/health-science/anti-vaccine-activists-spark-a-states-worst-mea
-sles-outbreak-in-decades/2017/05/04/a1fac952-2f39-11e7-9dec-764dc78
+measles-outbreak-in-decades/2017/05/04/a1fac952-2f39-11e7-9dec-764dc78
 1686f_story.html.
 
 ———. 2017b. "Despite Measles Outbreak, Anti-Vaccine Activists in Minnesota Refuse to Back Down." Washington Post, August 21, 2017. https://www.washington
 post.com/national/health-science/despite-measles-outbreak-anti-vaccine-ac
-tivists-in-minnesota-refuse-to-back-down/2017/08/21/886cca3e-820a-11e7
+activists-in-minnesota-refuse-to-back-down/2017/08/21/886cca3e-820a-11e7
 -ab27-1a21a8e006ab_story.html.
 
 Sun, Marjorie. 1984. "Acid Rain Report Allegedly Suppressed." Science 225 (4668):
@@ -9126,7 +9126,7 @@ Science on acid rain, 36, 40
 "science wars," 41–43, 194n53
 scientific objectivity, evolution of
 
-Sacred Congregation for the Propagaconcept, 192n30
+Sacred Congregation for the Propaganda, 192n30
 
 tion of the Faith, 97
 

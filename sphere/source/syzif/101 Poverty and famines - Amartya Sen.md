@@ -48,7 +48,7 @@ All rights reserved. No part of this publication may be reproduced,
 stored in a retrieval system, or transmitted, in any form or by any means,
 without the prior permission in writing of Oxford University Press,
 or as expressly permitted by law, or under terms agreed with the appropriate
-reprographcs rights organization. Enquiries concerning reproduction
+reprographics rights organization. Enquiries concerning reproduction
 outside the scope of the above should be sent to the Rights Department,
 Oxford University Press, at the address above
 You must not circulate this book in any other binding or cover
@@ -291,7 +291,7 @@ entitlements are as relevant as the overall volume of food supply vis-à-vis pop
 1.3 Modes of Production
 
 The exchange entitlements faced by a person depend, naturally, on his position in the economic class structure as well
-as the modes of production in the economy. What he owns will vary with his class, and even if exactly the same Emapping were to hold for all, the actual exchange entitlements would differ with his ownership position.
+as the modes of production in the economy. What he owns will vary with his class, and even if exactly the same Mapping were to hold for all, the actual exchange entitlements would differ with his ownership position.
 
 But even with the same ownership position, the exchange
 
@@ -309,7 +309,7 @@ be very divergent, but also to sharp differences in exchange entitlements in dis
 reducing the labour requirement for cultivation by destroying a part of the crop in each farm may cause some casual
 agricultural labourers to be simply fired, leading to a collapse of their exchange entitlements, while others are retained.
 In contrast, in this case the share-croppers may all operate with a lower labour input and lower entitlement, but no one
-may become fully jobless and thus incomeless.
+may become fully jobless and thus income-less.
 
 Similarly, if the output is food, e.g. rice or wheat, the share-cropper gets his return in a form such that he can directly
 eat it without going through the vagaries of the market. In contrast, the agricultural labourer paid in money terms will
@@ -1119,7 +1119,7 @@ the literature and to examine their shortcomings.
 3.5 Critique of Standard Measures
 
 The commonest measure of over-all poverty, already discussed in Chapter 2, is the head-count measure H, given by
-the proportion of the total population that happens to be identified as poor, e.g. as falling below the specified povertyline income. If q is the number of people who are identified as being poor and n the total number of people in the
+the proportion of the total population that happens to be identified as poor, e.g. as falling below the specified poverty line income. If q is the number of people who are identified as being poor and n the total number of people in the
 community, then the head-count measure H is simply q/n.
 
 This index has been widely used—explicitly or by implication—ever since quantitative study and measurement of
@@ -1230,7 +1230,7 @@ rank value r(i).
 and Townsend (1971).
 
 A rather distinguished and simple case of such a relationship is to make the weight on any person i's income gap equal
-the rank value r(i). This makes the weights equidistanced, and the procedure is in the same spirit as Borda's (1781)
+the rank value r(i). This makes the weights equidistant, and the procedure is in the same spirit as Borda's (1781)
 famous argument for the rank-order method of voting, choosing equal distances in the absence of a convincing case
 for any alternative assumption. While this too is arbitrary, it captures the notion of relative deprivation in a simple way,
 and leads to a transparent procedure, making it quite clear what precisely is being assumed.53
@@ -2046,7 +2046,7 @@ Correction 2: Changes in Wheat Imports
 While rice is by far the dominant food in Bengal, wheat is also consumed in considerable amounts, so that foodgrains
 availability should reflect variations in both rice and wheat. Very little wheat is grown in Bengal, but a fair amount is
 imported. The net imports of wheat and wheat flour into Bengal by rail and river-borne trade for 1938 to 1943 are
-calculated from Accounts Relating to the Inland (Rail and Riverborne) Trade of India, a then-current monthly publication of
+calculated from Accounts Relating to the Inland (Rail and River-borne) Trade of India, a then-current monthly publication of
 the Department of Commercial Intelligence and Statistics, Government of India.98 These statistics do not, however,
 include road-based trade. The Famine Inquiry Commission's (1945a) figure of net arrivals in Bengal in 1943 (p. 54) is
 36 per cent higher than the rail and river net imports, and its statement that in the 'five years ending 1941–42, [Bengal]
@@ -2070,7 +2070,7 @@ to arrive at an index of per capita availability. The annual rate of natural inc
 calculated to be 0.46 per cent per year during 1941–50 in the Census of India 1951 (vol. VI, part 1B, p. 2). But this is an
 underestimate for our period since the decade average reflects the impact of the famine itself; also, the 1941 figure was
 acknowledged to have been overstated owing to excessive registration of both the Hindu and Muslim communities to
-exaggerate their respective strengths in prepartition India. A figure of 1 per cent per year is, however, a reasonably safe
+exaggerate their respective strengths in pre-partition India. A figure of 1 per cent per year is, however, a reasonably safe
 overestimate, and it is chosen here with a bias in favour of the thesis to be rejected. In the last column of Table 6.2, the
 per capita indices of food availability (rice and wheat) are presented with an assumed population growth of 1 per cent
 per year, again with 1941 being taken as 100. The per capita availability index for 1943 is higher by about 9 per cent than
@@ -2507,7 +2507,7 @@ been distinctly less
 vulnerable than that of wage labourers, especially since most wages were fixed in money terms. The exchange
 entitlement approach would, therefore, tend to predict a lower impact of the famine on peasants and share-croppers
 than on agricultural labourers and sellers of certain commodities and services (fishermen, craftsmen, barbers, etc., who
-suffered sharp deteriorations of exchange entitlements).
+suffered sharp deterioration of exchange entitlements).
 
 6.4 The Class Basis of Destitution
 
@@ -2698,7 +2698,7 @@ cent). The proportion of families 'wiped off during 1943' is also the highest am
 cent compared with an over-all average of 15 per cent; indeed, 77 per cent of those agricultural labourers who were
 destituted by the famine got 'wiped off '). The relative rates for the different occupation categories are given in Table
 6.8. Next to agricultural labourers, the highest destitution rate is displayed in a category named 'unproductive', which is
-a bit decepetive since it includes people who traditionally live by beggary in these villages, and of course were easily
+a bit deceptive since it includes people who traditionally live by beggary in these villages, and of course were easily
 destituted further. The next highest group is 'artisan' (35 per cent destitution and 10 per cent 'wiped off '). The peasant
 cultivators and share-croppers had a relatively lower famine incidence (18 per cent destitution and 6 per cent wiped
 off), higher only than office employees and landlords.
@@ -3807,7 +3807,7 @@ scale two months later, the peak of the starvation crisis was already over, and 
 A major international rescue operation eventually went into action. While the famine in Wollo and Tigrai had by then
 ebbed, there were plenty of poor people seeking relief. And fresh destitutes were being created elsewhere in the
 country as the focus of drought moved south and further east, for example to the Ogaden region of Harerghe. The
-Relief and Rehabilitation Commission's estimate of 'affected populatiom' went on increasing well into 1975, but there is
+Relief and Rehabilitation Commission's estimate of 'affected population' went on increasing well into 1975, but there is
 little doubt that the severity of the distress was never as great as in 1973. In fact, the worst period of the famine went
 virtually unnoticed by the international community and only half acknowledged by the Ethiopian government, and the
 relief activity peaked well after the famine had ebbed.145
@@ -3855,7 +3855,7 @@ category is not similarly split up into substantial above-normal output and othe
 To give our analysis of output availability a downward bias, it may be assumed that none of the 'above-normal' districts
 was substantially so. Attaching the same importance to all the districts, the 14 per cent above-normal districts can be
 'cancelled out' against the 14 per cent non-substantially below-normal districts. This leaves us with 65 per cent normal
-output districts, and 7 per cent of the districts with substantially below-normal output. Even if 'substantially belownormal output' is taken to be no output at all, which is clearly an underestimate, this indicates a displacement from
+output districts, and 7 per cent of the districts with substantially below-normal output. Even if 'substantially below-normal output' is taken to be no output at all, which is clearly an underestimate, this indicates a displacement from
 normal output of 7 per cent. A 7 per cent decline in the output of food crops is hardly a devastating food availability
 decline (especially in an economy with primarily rain-dependent agriculture).
 
@@ -4073,7 +4073,7 @@ Other sorghum
 and zengada
 White teff
 Seregenga teff
-Red and abolse
+Red and abole
 teff
 White barley
 Other barley
@@ -5562,7 +5562,7 @@ destitute.247
 
 That food availability served as a constraint in government relief operations is not in dispute. But this would establish
 nothing about the causation of the famine itself. Was the famine caused by a decline of food availability resulting from
-the floods? Was there a general shortage of food? Does the FAD explanataion hold? I take up these questions next.
+the floods? Was there a general shortage of food? Does the FAD explanation hold? I take up these questions next.
 
 244 McHenry and Bird (1977), p. 82.
 245 For further details of this episode, see McHenry and Bird (1977) ; also Sobhan (1979). For more general discussions of negative features of food aid, see George (1976)
@@ -6559,7 +6559,7 @@ one influence among many affecting his entitlement relations.
 It is sometimes said that starvation may be caused not by food shortage but by the shortage of income and purchasing
 power. This can be seen as a rudimentary way of trying to catch the essence of the entitlement approach, since income
 does give one entitlement to food in a market economy. While income may not always provide command in a fully
-planned economy, or in a 'shortage economy', in which a different system of entitlement might hold,262 the incomecentred view will be relevant in most circumstances in which famines have occurred.263 But the inadequacy of the
+planned economy, or in a 'shortage economy', in which a different system of entitlement might hold,262 the income-centered view will be relevant in most circumstances in which famines have occurred.263 But the inadequacy of the
 income-centred view arises from the fact that, even in those circumstances in which income does provide command, it
 offers only a partial picture of the entitlement pattern, and starting the story with the shortage of income is to
 
@@ -6572,7 +6572,7 @@ Anderson (1976, Chapter 6).
 
 leave the tale half-told. People died because they didn't have the income to buy food, but how come they didn't have
 the income? What they can earn depends on what they can sell and at what price, and starting off with incomes leaves
-out that part of the entitlement picture. Futhermore, sometimes the income may be just 'notional', e.g. a peasant's
+out that part of the entitlement picture. Furthermore, sometimes the income may be just 'notional', e.g. a peasant's
 possession of the foodgrains he has grown, and then the income-and-purchasing-power story is a bit oblique. To talk
 about his entitlement to the food he has grown is, of course, more direct. But the main advantage of the entitlement
 approach rests not in simplicity as such, but—as explained above—in providing a more comprehensive account of a
@@ -6705,7 +6705,7 @@ good deal of debating over centuries. Adam Smith (1776) took the view that it di
 eloquently defended by Robert Malthus (1800) among others (see Appendix B). These arguments in political economy
 were widely used by policy-makers, not least in the British Empire.272
 
-When a famine was developing in Gujerat in 1812, the Governor of Bombay turned down a proposal for moving food
+When a famine was developing in Gujarat in 1812, the Governor of Bombay turned down a proposal for moving food
 into an affected areas by asserting the advisability of leaving such matters to the market mechanism, quoting 'the
 celebrated author of the Wealth of Nations'.273 Warren Hastings, who had tackled a famine in Bengal in 1783–4 by using
 public channels for moving food into the region, was rapped on the knuckles by Colonel Baird-Smith for not having
@@ -6904,7 +6904,7 @@ population queuing up for any food whatsoever (see Chapter 6 above).
 284 Haile Selassie, the Emperor of Ethiopia, apparently provided the following remarkable analysis of the famine in his country in June 1973: 'Rich and poor have always existed
 and always will. Why? Because there are those that work . . . and those that prefer to do nothing. . . . We have said wealth has to be gained through hard work. We have said
 those who don't work starve.' (Interview report by Oriana Fallaci; quoted by Wiseberg, 1976, p. 108.) They have indeed 'said' that for many centuries, in different lands.
-285 Such non-entitlement transfers have played a part in some famines of the past. As an example, see Walter Mallory's (1926) account of the 1925 famine in Szechwan: 'The
+285 Such non-entitlement transfers have played a part in some famines of the past. As an example, see Walter Mallory (1926) account of the 1925 famine in Szechwan: 'The
 Kweichow troops invaded southern Szechwan and after some fighting were driven out. When they left they took with them all available beasts of burden, loaded with grain.
 The Szechwan troops who replaced them brought very little in the way of supplies and forthwith appropriated the remainder of the food reserves of the district—leaving the
 population, who had no interests in either side, to starve' (pp. 78–9).
@@ -6917,9 +6917,9 @@ the rural labourers relatively behind). In the fight for market command over foo
 another group's prosperity, with the Devil taking the hindmost.286
 
 Third, it is important to distinguish between decline of food availability and that of direct entitlement to food. The former
-is concerned with how much food there is in the economy in question, while the latter deals with each food-grower's
+is concerned with how much food there is in the economy in question, while the latter deals with each food-grower
 output of food which he is entitled to consume directly. In a peasant economy a crop failure would reduce both
-availability and the direct entitlement to food of the peasants. But in so far as the peasant typically lives on his owngrown food and has little ability to sell and buy additional food from the market anyway, the immediate reason for his
+availability and the direct entitlement to food of the peasants. But in so far as the peasant typically lives on his own-grown food and has little ability to sell and buy additional food from the market anyway, the immediate reason for his
 starvation would be his direct entitlement failure rather than a decline in food availability in the market. Indeed, if his
 own crop fails while those of others do not, the total supply may be large while he starves. Similarly, if his crop is large
 while that of others go down, he may still be able to do quite well despite the fall in total supply. The analytical contrast
@@ -6995,7 +6995,7 @@ production possibilities open to him can be characterized by another mapping Q(.
 vector of inputs s, the set Q(s) of output vectors, any of which he can produce.(A7)
 
 Consider, now, the person owning x, buying r to be used as inputs, buying y to be used for consumption, selling z to
-meet the cost of purchases, and producing q by using a part s of xplus purchased inputs r. The exchange entitlement
+meet the cost of purchases, and producing q by using a part s of x plus purchased inputs r. The exchange entitlement
 mapping is now given by:(A8)
 
 The functions f(.) and Q(.) can be defined to take note of taxes, subsidies, social security benefits, etc.
@@ -7173,7 +7173,7 @@ speculative activities but simply by the role of prices to adjust demand to supp
 It seems now to be universally agreed, that the stock of old corn remaining on hand at the beginning of the harvest
 this year was unusually small, notwithstanding that the harvest came on nearly a month sooner than could have
 been expected in the beginning of June. This is a clear, decided, and unanswerable proof that there had been no
-speculations in corn that were prejudicial to the country. All that the larger farmers and cornfactors had done, was
+speculations in corn that were prejudicial to the country. All that the larger farmers and corn factors had done, was
 to raise the corn to that price which excluded a sufficient number from their usual consumption, to enable the
 supply to last throughout the year.292
 
@@ -8900,7 +8900,7 @@ the famine victims is brought out also by the survey of destitutes in Calcutta c
 Our information on this crucial aspect of famine mortality is limited and somewhat haphazard. And we have virtually
 no information at all on the occupational composition of post-famine mortality in the epidemics.
 
-Table D6 Distitution in Five Surveyed Villages in Faridpur
+Table D6 Distribution in Five Surveyed Villages in Faridpur
 
 Occupation on 1/1/43
 
@@ -9153,7 +9153,7 @@ famine mortality also seem to show remarkable similarity with the normal pattern
 Bibliography
 
 Aall, C. and Helsing, E. (1976), 'The Sahelian Drought', Journal of Tropical Pediatrics and Environmental Child Health, 22.
-Abdel-Fadil, M. (1975), Development, Income Distribution and Social Change in Rural Eygpt (1952–1970), Cambridge:
+Abdel-Fadil, M. (1975), Development, Income Distribution and Social Change in Rural Egypt (1952–1970), Cambridge:
 
 University Press.
 
@@ -9299,7 +9299,7 @@ Bhalla, Sheila (1979),
 
 'Real Wage Rates of Agricultural Labourers in Punjab, 1961–77: A Preliminary Analysis',
 
-Economic and Poltical Weekly, 14, 30 June.
+Economic and Political Weekly, 14, 30 June.
 
 Bhatia, B. M. (1967), Famines in India 1860–1965, 2nd edn, Bombay: Asia.
 Bhattacharjee, J. P. (1977), 'External Assistance and Agricultural Development in the Third World', World Development,
@@ -9310,7 +9310,7 @@ Bhattacharya, N. and Chatterjee, G. S. (1974),
 
 'Between-States Variation in Consumer Prices and Per Capita
 
-Household Consumption in Rural India', Sankhyā, 36.
+Household Consumption in Rural India', Sankhyaā, 36.
 
 Bhattacharya, N. and Chatterjee, G. S. (1977), 'A Further Note on
 
@@ -9424,7 +9424,7 @@ Clark, S., Hemming, R. and Ulph, D. (1979), 'On Indices for the Measurement of P
 
 for Fiscal Studies, London.
 
-Clarke, T. (1978). The Last Caravan, New York: G. P. Tutnam's Sons.
+Clarke, T. (1978). The Last Caravan, New York: G. P. Putnam's Sons.
 Clay, E. J. (1976), 'Institutional Change and Agricultural Wages in Bangladesh', Bangladesh Development Studies, 4.
 Cliffe, L. (1974), 'Feudalism, Capitalism and Famine in Ethiopia', Review of African Political Economy, 1.
 Cline, W. R. (1973), 'Interrelationship between Agricultural Strategy and Rural Income Distribution', Food Research
@@ -9435,12 +9435,12 @@ Cline, W. R. (1975), 'Distribution and Development: A Survey of the Literature',
 Club du Sahel (1977), Strategy and Programme for Drought Control and Development in the Sahel, Paris: OECD.
 Cohen, J. M. and Weintraub, D. (1975), Land and Peasants in Imperial Ethiopia: The Social Background to a Revolution, Assen:
 
-Van Goreum.
+Van Gore.
 
 Cole, J. (1976), The Poor of the Earth, London: Macmillan.
 Collier, P. (1980), 'Poverty and Growth in Kenya', World Bank Staff Working Paper 389.
 Comité Information Sahel (1974), Qui se nourrit de la famine en Afrique? Paris: Maspéro.
-Copans, J. et al. (1975), Sécheresses et famines du Sahel, Paris: Maspéro.
+Copans, J. et al. (1975), SéSécheresses et famines du Sahel, Paris: Maspéro.
 Currey, B. (1978), 'The Famine Syndrome: Its Definition for Preparedness and Prevention in Bangladesh', Ecology of
 
 Food and Nutrition, 7.
@@ -9467,7 +9467,7 @@ de Haen, H. (1978), 'Analysing the World Food Problem', Options: A IIASA News Re
 Dharm, Narain (1976), Growth of Productivity in Indian Agriculture, Occasional Paper no. 93, Cornell University.
 Dickson, H. (1977), 'Agricultural Policy in the World Market', Working Paper, Nationalekonomiska Institutionen,
 
-Göteborgs Universitet.
+GöGöteborgs Universitet.
 
 Dodge, C. P. and Wiebe, P. D. (1979), 'Famine Relief and Development in Rural Bangladesh', Economic and Political
 
@@ -9510,7 +9510,7 @@ Ethiopian Ministry of Agriculture (1973), Final Report of the Crop Condition Sur
 
 Imperial Ethiopian Government.
 
-Ethiopian Ministry of Agriculture (1974), A Photogrammatic Assessment of 1966 E. C. Harvest Conditions in Eritrea, Tigra,
+Ethiopian Ministry of Agriculture (1974), A Photogrammetric Assessment of 1966 E. C. Harvest Conditions in Eritrea, Tigra,
 
 Wollo, Northern Shea and Harerghe, Addis Ababa: Imperial Ethiopian Government.
 

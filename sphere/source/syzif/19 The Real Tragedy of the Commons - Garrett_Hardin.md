@@ -171,7 +171,7 @@ Creative Polarities:
 Traditionally Central Banks remain rather passive, neutral,
 restorative and indirect. Free market and state interventions
 search for a smallest common denominator. Linear, Silo and
-causal Thinking is prevailing. The welfare remains paretointerior.
+causal Thinking is prevailing. The welfare remains pareto inferior.
 
 Overcoming Polarities:
 Central Banks in the Anthropocene Era are becoming proactive, preventive and try to facilitate stable and free markets

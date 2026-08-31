@@ -477,7 +477,7 @@ huge amount of research has not yielded very strong results here. Young
 
 men, yes, are most likely to be perpetrators of many kinds of violence.
 But not all young men are violent. And middle-aged men, children, and
-women are violent too, in the appropriate situations. Similarly with background variables such as poverty, race, and origins in divorce or singleparent families. Though there are some statistical correlations between
+women are violent too, in the appropriate situations. Similarly with background variables such as poverty, race, and origins in divorce or single-parent families. Though there are some statistical correlations between
 these variables and certain kinds of violence, these fall short of predicting
 most violence in at least three aspects:
 
@@ -640,7 +640,7 @@ sheltered conditions. Professional photographers have become more in-
 
 6 • Chapter 1
 
-trepid, particularly in riots, demonstrations, and war zones; the number
+intrepid, particularly in riots, demonstrations, and war zones; the number
 of photographers killed has gone up drastically in the past ten years,
 far above any previous period.3 This too is an opportunity for microsociologists, although the aforementioned caveats again apply. Still photos are often better than videos for capturing the emotional aspects of
 violent interaction. When we analyze a video of a conflict sequence (or
@@ -885,7 +885,7 @@ most fights.
 
 Another apparent exception to the non-contagiousness of fighting is
 the friendly free-for-all such as pillow fights or food fights. Pillow fights
-at a festive occasion such as a children's sleep-over typically have an allagainst-all character; this both promotes and enhances a mood of hilarity,
+at a festive occasion such as a children's sleep-over typically have an all-against-all character; this both promotes and enhances a mood of hilarity,
 implying that the situation is very unusual, framed as an exceptionally
 
 • 13
@@ -988,7 +988,7 @@ the most part, these are situations of flashing knives at each other but
 letting the confrontation turn into a standoff; where serious injury is
 done, a quick blow is struck, and the fight is thereby regarded as at an end.
 Thus another staple of entertainment lore regarding an earlier historical
-period, the extended swordfight as choreographed in films and plays, was
+period, the extended sword fight as choreographed in films and plays, was
 probably for the most part mythical. In early modern Europe, if someone
 actually succeeded in killing the other, or inflicting serious injury (cases
 likely to come to the notice of authorities), it was usually described as an
@@ -1333,7 +1333,7 @@ carries over automatically into violent behavior. Violence is hard, not
 24 • Chapter 1
 
 easy. Virtually no cultural discourse admits this; neither perpetrators nor
-pro-violence groups, nor victims, nor altruistic or righteous observersfrom-a-distance. Everyone thinks violence is easy to perform, whether one
+pro-violence groups, nor victims, nor altruistic or righteous observers from-a-distance. Everyone thinks violence is easy to perform, whether one
 brags about it, fears it, or hopes to eliminate it. But the micro-situational
 realities of talking about violence fall into ritual patterns of bluster and
 bluff, and these rituals provide an ideology that covers up the real nature
@@ -1346,7 +1346,7 @@ reach the concept of "symbolic violence." This helps us not at all to explain re
 a clear core referent, which we can study using micro-situational observations. We are in a very different conceptual universe, when Bourdieu
 writes of schooling requirements as symbolic violence, and in general invokes the entire arena of symbolic possessions as "the gentle, invisible
 form of violence, which is never recognized as such, and is not so much
-undergone as chosen, the violence of credit, confidence, obligation, personal loyalty, hospitality, gifts, gratitude, piety. . . . [S]ymbolic violence
+undergone as chosen, the violence of credit, confidence, obligation, personal loyalty, hospitality, gifts, gratitude, piety. . . . [S]symbolic violence
 is the gentle, hidden form which violence takes when overt violence is
 impossible" (Bourdieu 1972/1977: 192, 195). This is a merely rhetorical
 usage, a way of dramatizing the argument that school achievement, cultural tastes, and ritual practices are part of a self-reproducing structure
@@ -1369,7 +1369,7 @@ even though there is a good deal of cursing which does not lead to violence. By 
 
 • 25
 
-reling, and of fearful, tense, and hostile emotions generally. The methodological rule should be to let the research process find its own borders.
+quarreling, and of fearful, tense, and hostile emotions generally. The methodological rule should be to let the research process find its own borders.
 By this criterion, rhetorical pseudo-explanations get ruled out because
 they do not connect.
 
@@ -1423,7 +1423,7 @@ status in society; physical strength and violence is the one resource in
 which they have superiority, whereas they rank low in economic position,
 deference, and organizational power. The point I want to stress again is
 my micro-sociological refrain: evolutionary theory assumes that violence
-is easy—provided that the genes are primed for it—whereas in fact violence is hard, even for young men. Indeed, the majority of our microevidence is about the failures of violence among young men.
+is easy—provided that the genes are primed for it—whereas in fact violence is hard, even for young men. Indeed, the majority of our micro-evidence is about the failures of violence among young men.
 
 Large sectors of the intellectual world today dismiss evolutionary
 theory: partly in response to its perceived insensitivity to cultural and
@@ -1444,7 +1444,7 @@ the micro-interactional signals given off by other humans. Humans are
 hard-wired to get caught in a mutual focus of intersubjective attention,
 and to resonate emotions from one body to another in common rhythms.
 This is an evolved biological propensity; humans get situationally caught
-up in the momentary nuances of each other's nervous and endocrinologi-
+up in the momentary nuances of each other's nervous and endocrinology-
 
 • 27
 
@@ -1621,7 +1621,7 @@ much more detail than the truncated news dispatches. Television news
 reports are usually more cryptic and more commentary-laden, hence less
 useful, except where they provide videos. The main exception here is on
 sports violence. I have used my own observations of televised games for
-analysis of player and fans violence. American sports are so recordoriented that one can often go from a cryptic news story of a fight to
+analysis of player and fans violence. American sports are so record-oriented that one can often go from a cryptic news story of a fight to
 reconstruct much of the context: for example, how the players and teams
 were doing in the competition leading up to the fight. I have also been
 able to check certain features such as how frequently players are hit by
@@ -1662,7 +1662,7 @@ Quantitative data is also used here where relevant. It has been useful
 (though hard to get) on certain aspects of police violence; and military
 reconstructions have been at the heart of the academic awakening of how
 violence really happens, including counts of soldiers firing, hits, ammunition expended, and casualties. A few demonstrations and their casualties
-(such as the 1970 Kent State national guard killings) have been reconstructed in detail; and I have drawn on data on looting, arrests, and timepatterns of the spread and severity of riots.
+(such as the 1970 Kent State national guard killings) have been reconstructed in detail; and I have drawn on data on looting, arrests, and time patterns of the spread and severity of riots.
 
 Throughout I follow the rule to make my own interpretations of the
 data. This often means detaching them from the reporter's or the previous
@@ -2287,7 +2287,7 @@ Virtually always
 
 Fired
 
-Non-weapons rolesa
+Non-weapons roles
 
 Combat enlisted men
 
@@ -2337,10 +2337,10 @@ N
 
 181b
 
-aThese are soldiers whose primary task was other than to use direct-fire weapons, including administrative duties, artillery, engineers, etc., but who did come
+a are soldiers whose primary task was other than to use direct-fire weapons, including administrative duties, artillery, engineers, etc., but who did come
 into enemy engagement and had small arms that they could have used.
 
-bThis line is calculated from Glenn (2000b: 162) and excludes artillery, aviation,
+b line is calculated from Glenn (2000b: 162) and excludes artillery, aviation,
 
 administration, and others; hence, it is not a total of the above categories.
 
@@ -2499,7 +2499,7 @@ establishing discipline, the automatic obedience to authority that will enable a
 and low firing ratio, close-order drill can be promoted as a solution precisely to the motivational problem shown in Marshall's and similar studies. But in fact robot-like obedience does not promote effective firing in
 combat; Marshall noted (1947: 60–61) that the minority of combat firers
 often contains soldiers who are otherwise unamenable to discipline, who
-perform badly in barracks drills, and often are in the guardhouse for violations of authority. Thus it appears likely that even in the era of massformation firing, parade drill was not really a means of making troops
+perform badly in barracks drills, and often are in the guardhouse for violations of authority. Thus it appears likely that even in the era of mass formation firing, parade drill was not really a means of making troops
 effective in combat; it was even then largely a ritual of peacetime discipline, a symbolic effort to display an image of the army impressive to
 outsiders and, indeed, to itself. Marching and drill could get the troops
 into combat; but it could not make them effective fighters. It continues as
@@ -3461,7 +3461,7 @@ on their killing missions (pp. 114–20). He recovered from his illness when
 he was transferred to regular frontline duty, where shooting was done at
 a distance, and he distinguished himself in action.
 
-Disfunctioning bowels are found in situations of high tension and fear,
+Dysfunctioning bowels are found in situations of high tension and fear,
 occurring in confrontations ranging from soldiers who shit their pants in
 combat, to burglars who give away their presence to the police by the
 smell they leave.28 Thus the expressions "intestinal fortitude" and having
@@ -4446,7 +4446,7 @@ horseback almost broke the English line; it was stopped only because
 French horses ran onto the row of sharpened stakes that the English had
 driven into the ground as a defense.
 
-The charge, momentarily terrifying for the English, [by] French menat-arms, twice their height from the ground, and moving at ten or fifteen miles an hour on steel-shod and grotesquely caparisoned warhorses, had stopped only a few feet distant. . . . And as they rode off,
+The charge, momentarily terrifying for the English, [by] French men-at-arms-arms, twice their height from the ground, and moving at ten or fifteen miles an hour on steel-shod and grotesquely caparisoned warhorses, had stopped only a few feet distant. . . . And as they rode off,
 the archers, with all the violent anger that comes with release from
 sudden danger, bent their bows and sent fresh flights of arrows after
 them, bringing down more horses and maddening others in uncontrolled flight. (Keegan 1976: 96)
@@ -4543,7 +4543,7 @@ of infantry tended to be a shoving match, with relatively few casualties
 unless one side broke apart; thus many battles of the Greek city-state
 era were nondecisive (and the small city-states, which rarely took new
 territory, may have been content to have them so). Another type of nondecisive battling was skirmishing among cavalry or light-armed, rapidly
-moving troops, or between such troops and the more ponderous heavyarmed phalanxes. Unless the fast-moving troops got the infantry disorganized, or caught it by surprise or on the march, the result was typically
+moving troops, or between such troops and the more ponderous heavy-armed phalanxes. Unless the fast-moving troops got the infantry disorganized, or caught it by surprise or on the march, the result was typically
 that the horsemen or other skirmishers would retreat without much
 damage to either side. When Caesar was seeking to bring about a fullscale battle in North Africa in 46 B.C., his legions were often harassed
 on the march by Numidian tribal horsemen and light-armed runners;
@@ -4659,7 +4659,7 @@ normal state of mind and body in combat," says Marshall (1947: 194).
 "When the tension suddenly relaxes through the winning of a first objective, troops are apt to be pervaded by a sense of extreme well-being and
 there is apt to ensue laxness in all its forms and with all its dangers." A
 relatively innocuous example is Grant's first Civil War battle, at Belmont,
-Missouri, in November 1861, where his troops easily panicked the Confederates into retreat, and then spent the next hours celebrating enthusiastically in the captured camp. When the Confederates brought in reinforcements to counter-attack, it was only with difficultly that Grant got his
+Missouri, in November 1861, where his troops easily panicked the Confederates into retreat, and then spent the next hours celebrating enthusiastically in the captured camp. When the Confederates brought in reinforcements to counter-attack, it was only with difficulty that Grant got his
 troops back into sufficient order to retreat safely (Grant 1885/1990: 178–
 85). Battles sometimes turn decisive because of a two-step pattern, in
 which an initial victory on one part of the field so disintegrates the victorious forces that the entire army is left vulnerable to a disciplined counterattack in the second phase.
@@ -5369,7 +5369,7 @@ was stomped, kicked and struck with a wine bottle on the head. . . .
 
 Detectives say Williams would likely have lived if not for the crowd . . .
 who tripped and corralled her, then encouraged Lee with shouts of "Kill
-her!" and "Beat her ass!" Lee initially told detectives the crowd's exhor-
+her!" and "Beat her ass!" Lee initially told detectives the crowd's exhortations-
 
 • 131
 
@@ -5779,7 +5779,7 @@ entrainment, built up on both sides into exasperation, perhaps also such
 emotions as fear, anger, and guilt over one's own behavior, is found in the
 conflictual response to crying that builds up into violence.
 
-All the various kinds of abuse—child, spouse, elder—involve a timeprocess in which conflict builds up emotional entrainment. Knowing the
+All the various kinds of abuse—child, spouse, elder—involve a time process in which conflict builds up emotional entrainment. Knowing the
 time-patterns would be helpful for practical measures in training
 to prevent violence; it could give conscious awareness of the maximal
 danger zones.
@@ -5997,7 +5997,7 @@ The abuse repeatedly occurred when Bill had been drinking, and was
 always preceded by Bill's declaration that Barbara didn't love him and
 was going to leave him. Her solution was to try to reassure him of her
 love and her loyalty. As she became more affectionate and solicitous,
-the battering would start. Bill would call her names, insults would escalate to physical shovings or holdings to demonstrate superior power
+the battering would start. Bill would call her names, insults would escalate to physical shoving or holdings to demonstrate superior power
 by Bill. This would be followed by Barbara expressing sorrow, and
 continued attempts of reassurance. . . . More recently, the threats of
 
@@ -6206,7 +6206,7 @@ me go." I said, "I'm not going to let you go, you stinking old bitch, I'm
 going to kill you." I grabbed her by the hair again and slammed her
 head back and forth against the side of the truck until blood started
 running out from her hair and over her ears. Then I dropped her on
-the ground, kicked her over into the mudpuddle and left her for dead.
+the ground, kicked her over into the mud puddle and left her for dead.
 We got into her camper and drove off. (Athens 1989: 3)
 
 We see not only attacker-victim entrainment, but self-entrainment of the
@@ -6656,7 +6656,7 @@ feeling of bitterness about two-facedness, superficiality, and opportunism of fr
 2. Talking about others in ways that puts them down is a chief form
 of entertainment. Since status is based on having fun, being humorous and lively, the most convenient source of entertaining conversational material is to make jokes at other students' expense: to tell
 embarrassing stories about them, criticize their clothes, taste, sexual
-failures, and social faux pas. The collective effervescence of sociabil-
+failures, and social faux pas. The collective effervescence of sociability-
 
 164 • Chapter 5
 
@@ -6775,7 +6775,7 @@ such groups is usually carried out in an atmosphere of fun and hilarity,
 at least on the part of the perpetrators, helping to legitimate it. The same
 kind of structural locations that promote hazing have ritual carousing
 and ritual vandalism. In the early twentieth century, when American
-colleges were more sharply segregated from normal life, restricted to allmale student bodies, Monday-through-Saturday extensive class schedules, dormitory regulations, and dining room hours, they also had traditions involving ritualized violence. These included collective rites of
+colleges were more sharply segregated from normal life, restricted to all-male student bodies, Monday-through-Saturday extensive class schedules, dormitory regulations, and dining room hours, they also had traditions involving ritualized violence. These included collective rites of
 passage such as freshman/sophomore battles on a given day of the year
 (usually at the beginning or end of the term) (Horowitz 1987). Here again
 is the typical pattern of hazing: the group that has been hazed in the
@@ -6842,7 +6842,7 @@ instigation of higher authorities or family connections. In reality, the three
 types might blend together; Hughes describes the hero of his book, who
 is a good patron, together with his friends, beating up a "toady" who
 intrudes in his own sphere of protection, using tactics not so different
-from those bullies used on their victims. The pervasive creation of subhierarchies based on violence and protection might make all varieties distinguished by insiders look somewhat similar to a disinterested outsider.
+from those bullies used on their victims. The pervasive creation of sub-hierarchies based on violence and protection might make all varieties distinguished by insiders look somewhat similar to a disinterested outsider.
 The situation in prisons is more complex. Although there is considerable violence and other exploitation among inmates, much of this is not
 bullying, or is ambiguous enough so that inmates themselves are unclear
 whether to call it bullying (O'Donnell and Edgar 1998b). Prisons generally have an underground economy: buying or trading illicit goods smuggled in, including drugs; legitimate possessions (such as phone cards, per-
@@ -6918,7 +6918,7 @@ other boy shoved it up his arsehole. I don't know why we did it. In
 the dorms, people get bored and look for entertainment and fun. Unfortunately, it is the weak who are the entertainment." (O'Donnell
 and Edgar, 1998a: 271)
 
-This incident has the character of ebullient carousing, in which the victimto-be takes part at first by sharing his drugs; as he shows increasing weakness, the attacks on him escalate; the others become entrained, in something like the conclusion of a forward panic, but with the special character
+This incident has the character of ebullient carousing, in which the victim-to-be-be takes part at first by sharing his drugs; as he shows increasing weakness, the attacks on him escalate; the others become entrained, in something like the conclusion of a forward panic, but with the special character
 of disgust at someone who violates the group standard of membership, a
 stance of macho toughness.
 
@@ -6995,7 +6995,7 @@ and ethnic segregation—are structurally antithetical. Gangs channel violence i
 they lack stratification, externally they differentiate only between gang
 members and the non-belonging masses. The latter may be targets of attack and exploitation by gang members (stealing their lunches, clothes,
 and money), but this is not their chief form of action. The classic places for
-bullying—British boarding schools—were very vertically oriented, classconscious without and within, but they lacked gangs and were very far
+bullying—British boarding schools—were very vertically oriented, class-conscious without and within, but they lacked gangs and were very far
 from a culture of violence except in bullying relationships. Gangs engender cycles of violence among themselves, but the schools and communities
 where they are located are not the places where most bullying occurs, nor
 mass retaliations against bullying. Even where there is bullying by gang
@@ -7820,7 +7820,7 @@ Thus: the first day of battle, the Greek hero Diomedes goes on a rampage through
 Trojan heroes, Aineias; their single combat is not ritualized by formal
 oaths, but they go on at some length in shouting challenges to each other
 and exchanging several blows, until Aineias too is spirited away by a
-protective goddess. The victor exults in at least capturing Aineais's horses,
+protective goddess. The victor exults in at least capturing Aineias's horses,
 since they are a famous possession and make a glorious trophy. Later in
 the same battle, Diomedes faces off in the mid-space between the armies
 with an impressive-looking Trojan hero, Glaukos; they ask each other's
@@ -8001,7 +8001,7 @@ honor confrontations; it is often difficult to tell, since news stories and
 police reports rarely give information about the size and attentiveness of
 an audience.6 The fact that honor confrontations that escalate to violence
 disproportionately occur in entertainment venues and carousing situations (i.e., weekend evenings) implies that there are large numbers of people around, and that they are actively interested in witnessing fights. One
-might hypothesize that a fight is much less likely to happen in a nearempty bar on an off night of the week; or in a situation where the crowd
+might hypothesize that a fight is much less likely to happen in a nearly-empty bar on an off night of the week; or in a situation where the crowd
 is not paying attention.7
 
 There is some illustrative evidence from my own observations and from
@@ -8530,7 +8530,7 @@ upon class precedents. Boxing became a favorite form of exercise among
 upper-middle-class males in England and the United States during the late
 nineteenth and early twentieth centuries (not in other countries, where
 older forms of dueling or fight training schools still survived). Such gentlemen were not professional competitive boxers; the latter were always
-identified with the lower classses.17 Like Tokugawa samurai, gentleman
+identified with the lower classes.17 Like Tokugawa samurai, gentleman
 boxers spent much more time in practice bouts than in public fisticuffs.
 Similarly again with karate, kung-fu, and other martial arts students of
 the twentieth century.18 These schools, in fact, were generally not very
@@ -8901,7 +8901,7 @@ gambling, displaying one's honor by willingness to risk one's life with a
 pistol shot. Russian roulette was a way of fighting a duel without an opponent. Both were similar in that a duel typically also involved being subject
 to only one or at most two shots, that most of the time would likely miss
 or prove non-fatal; and the chances of not hitting the one loaded cylinder
-in a six-shot revolver held to one's head were similarly favorable. Deathdefying acts of bravado were ways of gaining status, as well as claiming
+in a six-shot revolver held to one's head were similarly favorable. Death-defying acts of bravado were ways of gaining status, as well as claiming
 the center of attention among one's aristocratic peers.24 But in fact there
 
 220 • Chapter 6
@@ -9092,7 +9092,7 @@ The following case shows where guns are fired largely for effect, with
 some rather random casualties. A group of young black men accompanied
 a friend to a rival housing project to see a girl:
 
-We was smokin' (marijuana), mindin' our own business and shit. Then
+We was smokin' (marijuana), minding' our own business and shit. Then
 the niggas from the other side come up and ask mad questions, "who
 this?" you know, like "who the fuck are you?" And I'm like, you know,
 "who the fuck are YOU?" and shit. What the hell are you, what's the
@@ -9100,8 +9100,8 @@ problem, man, we just chillin'. So, you know, we started with the lip
 and shit. And one thing led to another and we was fightin' and everybody started pullin' out and we started bustin' each other, and I think
 nobody got hit. One person got hit from the Brownsville side, 'cause
 my man hit him up against the chest. I didn't get hit. So it was a lot of
-gunplay and shit. And we started blastin', not really paying. . . . When
-people blast I don't think they really aimin' at anyone, you know, a
+gunplay and shit. And we started blasting', not really paying. . . . When
+people blast I don't think they really aiming' at anyone, you know, a
 blast is just a blast. A lot of stray bullets be going everywhere, you
 know. I'm glad we got out of that situation. (Wilkinson 2003: 153)
 
@@ -9300,7 +9300,7 @@ some difference in tone. Codes of honor are regarded as deep-seated traditions, 
 or romantic nostalgia about the past. Explanation by disrespect has a
 tone of altruistic sympathy with an underdog who is put down by social
 prejudice and disadvantage, and who is fighting "in search of respect" (in
-the title of Bourgois's [1995] book).
+the title of Bourgois [1995] book).
 
 Such efforts at empathy, although worthy as an ethical stance, distort
 both the structural conditions and the situational phenomenology of violence. A code of honor is not just a matter of tradition. It is the cultural
@@ -9336,7 +9336,7 @@ it provides is illusory. We might further argue that societies with honor
 codes are unusually violent, because they tend to escalate minor disagreements into violent ones, and to manufacture occasions for trouble
 where none need exist.
 
-Another kind of empirical point also tells against the rationalistic explanation of an honor code as providing informal law and order: Many latetwentieth-century fights in countries like the United States are attributed
+Another kind of empirical point also tells against the rationalistic explanation of an honor code as providing informal law and order: Many late-twentieth-century fights in countries like the United States are attributed
 to honor confrontations: altercations in bars, for instance, or road rage
 shootings. These do not occur only in places where there is no state penetration and no formal mechanisms for enforcing security, but to a large
 extent in places that are not at all lawless. Moreover, these are often anonymous public situations, where the individual has no reputation to uphold, since there is no mechanism for circulating such a reputation. To
@@ -9667,7 +9667,7 @@ a fair fight, but to win, and therefore to have an unfair fight. Police do
 not seek a fair fight, but to bring overwhelming force against any resistance. Armies attempt the same, although not always with success against
 opposing armies. Parents don't have fair fights with children, but seek to
 enforce discipline. Similarly with organized crime such as the Mafia: they
-are largely in the enforcement business, and hence seek maximal intimida-
+are largely in the enforcement business, and hence seek maximal intimidation-
 
 238 • Chapter 6
 
@@ -9924,7 +9924,7 @@ police reappeared with superior force, resulting in one last flurry of con-
 
 • 245
 
-centrated resistance, which dispersed in a few minutes as the surrounding
+concentrated resistance, which dispersed in a few minutes as the surrounding
 crowd disappeared.
 
 A moral holiday is uncontrolled by authorities, but it is not a situation
@@ -10031,7 +10031,7 @@ insurrections in the 1960s, "burn, baby, burn!" (and echoing threats from
 militant political leaders "the fire next time"), was politically inflammatory, incendiary rhetoric; the fires, too, were largely a form of rhetoric, a
 theatrical gesture of the most dramatic sort. Their main effect, beyond
 the limited destruction they caused to the enemy, was to demand attention: from the world outside, but above all from nearby residents who
-could now not help but take their stand, one way or the other, in the nowestablished moral holiday.4
+could now not help but take their stand, one way or the other, in the now-established moral holiday.4
 
 If fires are the device for assembling people for witness to the moral
 holiday, looting is the device for building mass participation. Looting
@@ -10154,7 +10154,7 @@ church-goers, members of what Anderson [1999] calls the decent, nonstreet part o
 emotional attraction or social magnetism of joining in the collective effervescence. The second-order problem of "who guards the guardians" in
 rational/utilitarian theory is strikingly absent here; if we ask, "who loots
 from the looters" once law and order is gone, the answer is virtually no
-one—the moral holiday has its own form of social solidarity. The breakdown of external authority in a moral holiday does not promote a freefor-all of unrestrained violence.8
+one—the moral holiday has its own form of social solidarity. The breakdown of external authority in a moral holiday does not promote a free-for-all-all of unrestrained violence.8
 
 The best detail available on the sequential dynamics of looting comes,
 not from a protest riot, but from the blackout of the electric grid in New
@@ -10211,14 +10211,14 @@ the store-owners were mostly white and lived outside the neighborhood.
 The police, although highly outnumbered, were rarely assaulted, and
 when they made arrests met with little resistance.
 
-The emotional atmosphere mixed exhilaration and fear. It was neartotal darkness, punctuated by police cars speeding along the streets with
+The emotional atmosphere mixed exhilaration and fear. It was near-total darkness, punctuated by police cars speeding along the streets with
 sirens wailing, crowds rushing about, sometimes hooting and yelling; police firing guns in the air in an effort to scare off looters—this had little
 deterrent effect, since looters soon realized the police were not shooting
 to hit them. Crowds sometimes turned into pockets of frenzy, while other
 places were festive or amiable in mood. A twenty-one-year-old black man
 recalled he was out playing basketball:
 
-When the lights went out, everybody started screamin', you know. . . .
+When the lights went out, everybody started screaming', you know. . . .
 At first really I was yelling just to be fancy, yeah, yeah, yeah, yeah.
 [Then someone suggested a commercial street to loot.] Everybody from
 all over was down there. Everybody was just walkin' and talkin'. We
@@ -10573,7 +10573,7 @@ host with a punch, hits him over the head with a lamp, knocks him down
 and stomps him in the face. He is later arrested for aggravated assault
 (Athens 1980: 37–38).
 
-End-resisting violence can also occur not just among hardened actionseekers and in casual anonymous settings, but among friends. Here the
+End-resisting violence can also occur not just among hardened action-seekers and in casual anonymous settings, but among friends. Here the
 violence is usually more limited:
 
 In one instance (from student report), a group of high school students
@@ -10718,7 +10718,7 @@ as the evening wore on. When the young women first arrived, their hosts
 acted courteously, holding doors for them, attentively asking them if they
 would like more drinks or snacks. As the drinking progressed, the fraternity brothers' attentions became more blatant. A typical line: "Hey girl.
 What's your name? Linda? Linda, Linda, let-me-in-da! I'm Dave. You
-enjoying yourself? Did you get some of Pi Delta's beer? Likin' it? Want
+enjoying yourself? Did you get some of Pi Delta's beer? Likin'' it? Want
 some more? You let me know if you want some more!" After his sixth
 drink, a student who had started out as shy cornered one of the women
 against a wall, removed her sweater and fondled her breasts. Women too
@@ -10802,7 +10802,7 @@ days in the past month; 5.5 percent of the population) (1999 National
 
 266 • Chapter 7
 
-Household Survey of Drug Abuse; U.S. Dept. of Health and Human Services, National Institute of Alcohol Abuse and Alcoholism; www.niaa
+Household Survey of Drug Abuse; U.S. Dept. of Health and Human Services, National Institute of Alcohol Abuse and Alcoholism; www.niaaa
 .gov/databases). There were 15,500 murders in 1999, of which about four
 thousand are attributed to alcohol (Federal Bureau of Investigation,
 Uniform Crime Reports 1999; www.fbi.gov/ucr). There were about
@@ -11135,7 +11135,7 @@ two factions) in a fight zone. I will pursue the analogy at greater length
 in chapter 11. The point I wish to emphasize here is that the structure of
 the field limits the amount of emotional energy individuals within it feel.
 The fight itself benefits (if that is the right word) from the audience's
-limited but concentrated focus of attention; but the same focus deenergizes other possible fights.
+limited but concentrated focus of attention; but the same focus de-energizes other possible fights.
 
 And all this happens regardless of how drunk the persons present are.
 One might expect, in the abstract, that if drinking increases the chance of
@@ -11304,7 +11304,7 @@ MOCK FIGHTS AND MOSH PITS
 The clearest cases of fighting for fun are mock fights: fights that are explicitly playful, like children's rough-housing, or the playful arm-punching
 or imitation boxing-style sparring that young men engage in on occasions
 of ebullience. These mock fights are often accompanied by laughter, joking, or squeals of delight; although this may occur more on one side than
-another, and one side can have much more fun. Usually there is a moreor-less clear boundary between fun and when the fight turns serious—
+another, and one side can have much more fun. Usually there is a more-or-less clear boundary between fun and when the fight turns serious—
 that is, when it is no longer fun. This suggests that "real" fighting has
 a distinctive quality, easily recognized; no doubt this is the arousal of
 confrontational tension/fear, which poses a challenge to get through and
@@ -11360,7 +11360,7 @@ proximate feature that sustains the mosh pit is its tight integration with
 the surrounding audience, it follows that the circle has the strongest sense
 of its unity and its role in sustaining the moshing when it is compact
 enough so that its members can see each other and move together in the
-same rhythm. Other ways in which mosh pits break down are when outsiders intervene, whether these be police or external groups with a preex-
+same rhythm. Other ways in which mosh pits break down are when outsiders intervene, whether these be police or external groups with a pretext-
 
 • 279
 
@@ -11638,7 +11638,7 @@ make up a continuum from legitimate player force, to fouls, to gameinterrupting 
 
 Sports may be divided into three main types: staged combats, in which
 there is both offense and defense situations; parallel contests, in which
-competitors strive to outdo each other toward a goal; and skill exhibi-
+competitors strive to outdo each other toward a goal; and skill exhibition-
 
 286 • Chapter 8
 
@@ -11886,7 +11886,7 @@ although these do not protect the face, and sometimes elbow and shin
 .3 Limiting the scuffle by use of protective equipment (July 2004). Reuters.
 
 guards, but these have little relevance to fights. Only the catcher, with
-chestguard, shin guards, and face mask, is heavily protected (against his
+chest guard, shin guards, and face mask, is heavily protected (against his
 own pitcher, chiefly).16
 
 Almost all baseball fights begin after a pitcher hits a batter with a pitch;
@@ -11950,7 +11950,7 @@ It was during this time that Cobb acquired the reputation for sharpening
 
 his spikes to bloody defensive players with his violent high slides. The
 reputation was in part bluster, an image and strategy of intimidation;
-Cobb also perfected techniques of guile and timing by carefully observing the moves of opposing pitchers. Rival base-stealers developed similar strategies and techniques. After this period of competition, the reccord remained stable until 1962; base-stealing was no longer an object
+Cobb also perfected techniques of guile and timing by carefully observing the moves of opposing pitchers. Rival base-stealers developed similar strategies and techniques. After this period of competition, the record remained stable until 1962; base-stealing was no longer an object
 of rapt attention; the yearly totals of Cobb and the other contenders
 dropped off considerably, and fights centering on base-running virtually
 disappeared.20
@@ -12258,8 +12258,8 @@ one is unusual because the initiator is really angry, a batter who throws
 his batting helmet at the pitcher; wrestles him to the ground, and punches
 him while he is on the ground; as both benches rush the field, other players
 trade punches too, and the instigator keeps pursuing the pitcher, tackles
-him again near homeplate as he is trying to get away, again punching him
-on the ground. The manager of the team on receiving side of the helmetthrowing calls it "the most vicious thing I've ever seen." The brawl stops
+him again near home plate as he is trying to get away, again punching him
+on the ground. The manager of the team on receiving side of the helmet throwing calls it "the most vicious thing I've ever seen." The brawl stops
 play for 12 minutes, and the instigator plus one coach on each side are
 thrown out of game. The fight is unusual in the amount of punches
 thrown, although there is also the usual milling around, pushing each
@@ -12267,7 +12267,7 @@ other at arms length, and angry shouting (Los Angeles Times, Aug. 11,
 2001).
 
 The immediate lead-up to the fight: Mike Sweeney, Kansas City Royals'
-first baseman and clean-up hitter, complains that the Detroit Tiger's
+first baseman and clean-up hitter, complains that the Detroit Tigers
 pitcher, Jeff Weaver, is leaving the white resin bag on top of the mound
 so that it distracts the hitter's vision. Upon his second complaint to the
 umpire, the pitcher says something, quoted by Sweeney afterward in an
@@ -12490,7 +12490,7 @@ likely to consist in groups of young men, whereas West Coast and Mid-
 western crowds have a higher proportion of women and family groups.
 This is the same pattern that has been suggested to account for the difference in violence between North American hockey and football spectators
 (predominantly middle-class, college-educated, and almost half female),
-as compared to European soccer matches (whose fans are largely working-class males between ages seventeen and twenty) (Roberts and Benjamin 2000). It is not clear when and how often spectators get into smallscale fights unrelated to team partisanship—possibly very little, if teamidentity sides preempt the violent attention space.
+as compared to European soccer matches (whose fans are largely working-class males between ages seventeen and twenty) (Roberts and Benjamin 2000). It is not clear when and how often spectators get into smallscale fights unrelated to team partisanship—possibly very little, if team identity sides preempt the violent attention space.
 
 Most of what is known about spectator violence concerns large-scale
 crowd disturbances. One study, which listed all the episodes of collective
@@ -12499,7 +12499,7 @@ that of the twenty-seven incidents of crowd violence, 74 percent were
 ignited by player violence (Smith 1978). For example, during a Hockey
 Association Junior game, a cross-checking incident sparked a fight that
 eventually included most players from both teams, several hundred spectators, and twenty city policemen. In a professional hockey game between
-Buffalo and Cleveland, players brawled, touching off a paroxysm of chairthrowing by spectators, whereupon players, sticks flailing, went into the
+Buffalo and Cleveland, players brawled, touching off a paroxysm of chair throwing by spectators, whereupon players, sticks flailing, went into the
 stands to fight with the fans. In a Toronto soccer game between Yugoslavia Zagreb and the Greek All-Stars, many of the 13,000 spectators invaded the field after eighteen minutes of the second half. The score was
 tied 1–1 at the time. The Yugoslav goalkeeper tripped a Greek player as
 he was racing for the goal. The referee awarded a penalty kick and the
@@ -12713,7 +12713,7 @@ This implies that offsite riots increase as field security goes up; the hypothes
 levels of security.
 
 In the following example, the victorious team is away from home, and
-the celebration riot takes place at the home campus. Detail on the timesequence of violence and social control moves are especially useful here:
+the celebration riot takes place at the home campus. Detail on the time sequence of violence and social control moves are especially useful here:
 In April 2003, the University of Minnesota hockey team was playing
 in Buffalo, N.Y., for its second straight championship. Back in Minneapolis, beer kegs were set out on fraternity lawns in anticipation of a celebration in public space. When news of the victory came at 8:30 p.m., people
 started pouring out of fraternities, sororities, and apartments, growing to
@@ -12873,7 +12873,7 @@ when the action is not yet begun but is being watchfully anticipated and
 sought out; when to group together and move as a phalanx; when to
 spread out. When police met them in strong formations, hooligans would
 drop back into civilized demeanor, slipping through police lines, "not
-walking too fast, everyone maintaining the I-am-on-my-own-and-notabout-to-start-trouble look" (Buford 1993: 198; also 92–93). Since this
+walking too fast, everyone maintaining the I-am-on-my-own-and-not about-to-start-trouble look" (Buford 1993: 198; also 92–93). Since this
 could happen immediately after a riot, police were not necessarily taken
 in, but their own inclination to avoid further confrontation generally motivated them to go along with this Goffmanian performance. Hooligans
 are sophisticated about the confrontational tension/fear of police, and
@@ -13137,7 +13137,7 @@ afterward, is a relatively small part of their activities. King sums up:
 
 324 • Chapter 8
 
-Although the highpoint of the hooligan's existence, fighting itself constitutes a negligible length of time in the lives of these fans. For all the
+Although the high point of the hooligan's existence, fighting itself constitutes a negligible length of time in the lives of these fans. For all the
 discussions of violence, confrontations like the fight in the Velodrome
 (a brief brawl in the Marseille stadium) are almost invariably quick and
 indecisive. By contrast, discussions of fights are lengthy. The imbalance
@@ -13259,7 +13259,7 @@ to King, committed racists but defended themselves as merely joking and
 using a verbal tactic to upset their opponents. Racial insults are even generalized as a way to insult opponents of the same race who are supporters
 of rival teams. North Italian fans insult white fans from the south by
 yelling that Africa begins at Rome; Liverpool fans chant "I'd rather be a
-Paki [Pakistanian] than a Scouse [nickname for rival fans]." In these verbal tactics they draw upon a background convention of racial hierarchy,
+Paki [Pakistani] than a Scouse [nickname for rival fans]." In these verbal tactics they draw upon a background convention of racial hierarchy,
 which their instrumental behavior unconsciously reinforces.
 
 • 327
@@ -14166,7 +14166,7 @@ communication, Oct. 2002):
 
 In a racially mixed middle-class area on the edge of the poverty zone,
 an integrated group was having a street party for local families, and the
-end of the street was blocked off to cars. A car carrying two drugdealers, displaying the street style, drove their car past the barrier and
+end of the street was blocked off to cars. A car carrying two drug dealers, displaying the street style, drove their car past the barrier and
 proceeded slowly up the street, apparently looking for an address; by
 their actions and postures they were expressing contempt and mild hostility toward the middle-class scene they had penetrated. Most of the
 local people shrank from any confrontation. However, one black man,
@@ -14598,7 +14598,7 @@ more ebullient pathway of boasting leading to insult and bluster. Let us
 take these in turn.
 
 One micro-interactional feature of arguments as they become heated is
-that they violate the turn-taking ritual of normal talk. Ordinary, highsolidarity talk is finely attuned in the rhythm of alternating turns to speak;
+that they violate the turn-taking ritual of normal talk. Ordinary, high solidarity talk is finely attuned in the rhythm of alternating turns to speak;
 one speaker monitors the other's speaking rhythm (and bodily movements) so as to come in at the end of the other's utterance, keeping up a
 flow that is very much like singing together (Sacks et al. 1974; see further
 evidence and analysis in Collins 2004). High-solidarity talk has "no gap,
@@ -14773,7 +14773,7 @@ censorship; Dreiser subsequently made a living editing conventional ladies' maga
 built up among elite intellectuals, and younger writers like Lewis took
 him as a model for naturalistic expose´s of ordinary American life. In the
 1920s, Lewis published a series of best-selling novels, exposing smalltown life in Main Street (1920) and making Babbitt (1922) a household
-word for shallow boosterism; eventually Dreiser published his longawaited masterpiece, An American Tragedy (1925), which did well with
+word for shallow boosterism; eventually Dreiser published his long-awaited masterpiece, An American Tragedy (1925), which did well with
 the intellectuals but not with the public. Now Lewis was in a position to
 patronize his old patron, offering to promote his book, and extending aid
 to him on a European trip. Dreiser took all this as his due, attempting to
@@ -14833,7 +14833,7 @@ was already basking in public controversy because of his iconoclastic
 books, took the incident in stride and went back to making statements of
 admiration for Dreiser's work.
 
-Why didn't the fight escalate? At the time, Dreiser was sixty-one yearsold, but at 6 feet 1 inch and over 200 pounds, he was bigger and stronger
+Why didn't the fight escalate? At the time, Dreiser was sixty-one years-old, but at 6 feet 1 inch and over 200 pounds, he was bigger and stronger
 than the tall, slender Lewis (age forty-six); this helps explain Dreiser's
 willingness to escalate to a blow—although not a very serious one—and
 with Lewis keeping his response merely verbal. The standard devices for
@@ -14868,7 +14868,7 @@ sustained violence.22
 Much of the time these conditions are lacking. The contestants are too
 evenly matched, or feel only slight edges, not enough to give them confidence in carrying on to an open and prolonged break. Recall the conclusions of chapter 2, that the reluctance to fight found so widely in military
 combat is not just fear of being hurt, but a generalized social tension
-arising from nonsolidary interaction. There is an underlying apprehension
+arising from non-solidary interaction. There is an underlying apprehension
 of being the loser in a situational contest, that is, of losing something
 more than bodily pains. It is not just a matter of fighting or not fighting,
 but of looking well in the process of doing it.
@@ -14889,7 +14889,7 @@ that antagonists find ways of altering the rhythm and focus of their hostile
 • 369
 
 back-and-forth; perhaps not using the standard Goffmanian ritual repairs, but on a tacit paralinguistic level, settle themselves back into a situational equilibrium. Even after the Goffmanian challenge and apology, or
-the polite overlooking, have failed to work, there are processes of microde-escalation through repetition, loss of cognitive content, and deflation
+the polite overlooking, have failed to work, there are processes of microde-escalation-escalation through repetition, loss of cognitive content, and deflation
 of anger into boredom.
 
 The other condition for proceeding to violence is the audience encouraging or even enforcing a fight. But this condition, too, is often lacking;
@@ -15116,7 +15116,7 @@ that competent violence is a matter of interactional techniques that are
 developed over time. Kids do not start out as skilled snipers, ace pilots,
 hitmen, or cowboy cops. What children develop as they grow up, I suggest, is greater sensitivity to the larger group around them. For many
 people this inhibits violence—more precisely, it de-energizes it—while for
-others it provides a niche that increases violence, and especially highactivity and high-competence violence.
+others it provides a niche that increases violence, and especially high-activity and high-competence violence.
 
 The Violent Few • 375
 
@@ -15166,7 +15166,7 @@ the rest (notably Robert Egbert's research in Korea, summarized in
 Glenn 2000a: 139). The most active fighters were more dominant, physically bigger and heavier, more proactive ("doers"); other soldiers preferred to be around them, both for sociability and during combat. This
 is consistent with a picture of elite fighters getting much social support,
 as the center of group attention; getting emotional energy also from dominating others (non-violently as well as violently). Active firers also tested
-as more intelligent and as having more military knowledge; like actionoriented cops, they are strongly committed to the professional lore of their
+as more intelligent and as having more military knowledge; like action-oriented cops, they are strongly committed to the professional lore of their
 job. Highly rated combat soldiers, far from being afraid of injury, were
 relatively confident that they would not be hurt; like the ace fighter pilots
 we consider later, they expected to be successful in combat, to prevail over
@@ -15283,7 +15283,7 @@ barricaded-subject call-up. Just same ole, same ole. In fact, I was looking forw
 deal. You need to think of what he's doing, think like he's thinking,
 listen carefully, and pay attention to your nose. A lot of times when we
 go into a room where suspects are hiding, I can smell these guys. Their
-adrenalin's going, they're sweating, so if you're paying attention, you
+adrenaline's going, they're sweating, so if you're paying attention, you
 can smell 'em. . . . You gotta think of all the potential hiding places. . . .
 So my mind was not on fear at all. That was the last thing in it. It was
 on all my training, all my intuition, just doing my job and thinking,
@@ -15435,7 +15435,7 @@ elite South African sharpshooters unit of twenty-four men (recruited from
 big-game hunters) killed 125 Germans each on the average; spread over
 two and a half years, this was four per month. Other sniper units in various armies averaged between one kill per month and one per three
 months. The entire contingent of Russian women snipers killed an average of eight each during the length of World War II (calculated from Pegler
-2001: 24, 29; 2004: 140–42, 178; Keegan 1997: 162–63). The very peakkilling snipers—300–500 kills—are the top one or two individuals in an
+2001: 24, 29; 2004: 140–42, 178; Keegan 1997: 162–63). The very peak-killing snipers—300–500 kills—are the top one or two individuals in an
 entire army of millions of troops; even those with a hundred kills are a
 handful at most. Their kill totals are similar to those of the very top ace
 pilots. These peak totals depend upon several conditions beyond the sheer
@@ -15537,7 +15537,7 @@ of their hiding place; but the clandestine approach is also an offensive
 move, waiting to find an accessible target and to take the best possible
 shot at him. This is why high numbers of kills per day by a sniper are
 rare; most snipers wait for a month or more for their kill. But some snipers
-do score much higher than others, even on the same front; these ultraelite killers are not only clandestine but also aggressive in seeking out
+do score much higher than others, even on the same front; these ultra-elite killers are not only clandestine but also aggressive in seeking out
 targets. The average sniper, on the other hand, has plenty of opportunities
 to pass up shots, ostensibly for technical reasons.
 
@@ -15663,7 +15663,7 @@ aircraft. Fighter pilot performance became a topic of avid record-keeping.
 
 Among American fighter pilots, less than 1 percent became aces from
 World War I through the Korean war; but they typically accounted for
-between 37 and 68 percent of the enemy aircraft destroyed (EAD) in airto-air fighting. The majority of pilots had no kills at all.21 The result came
+between 37 and 68 percent of the enemy aircraft destroyed (EAD) in air-to-air fighting. The majority of pilots had no kills at all.21 The result came
 from a combination of pilots firing inaccurately—the low competence
 pattern—or not firing at all—Marshall's low firing ratio. In the Korean
 war, half of American fighter pilots "never fired their guns, and of those
@@ -15826,7 +15826,7 @@ man-to-man fight.
 
 The official justification of honoring fighter pilots was that they saved
 lives of other troops, especially those of bomber crews. But this utilitarian argument did not explain the dynamics of honors given and the way
-records were created. As the number of aces rose in the massive airforces
+records were created. As the number of aces rose in the massive air forces
 of World War II, there was a proliferation of various kinds of records.
 In the American and British militaries, becoming an ace with five kills
 remained the primary honor. Pilots also became honored for the highest
@@ -15866,7 +15866,7 @@ units were especially victorious. Five main factors are responsible for a
 high level of victories.
 
 1. Sometimes military forces had superior planes over their local opponents. German planes were greatly superior to Soviet planes, although not to American and British planes. Planes might be superior
-in speed, maximal altitude, range from base, diving ability, or allaround maneuverability; some were better built and able to survive
+in speed, maximal altitude, range from base, diving ability, or all-around maneuverability; some were better built and able to survive
 enemy fire. But success was not straight technological determinism.
 Planes were often better in some features and weaker in others. Japanese planes, for example, were highly maneuverable, and their pilots were often better at acrobatic battle tactics; nevertheless, they
 tended to lose heavily to American pilots,32 since the Japanese emphasized highly coordinated group maneuvers and engaged in less
@@ -16176,7 +16176,7 @@ friendly fire hits. In another case, the same combination results in a hostage b
 
 I charged up the stairs, Clancy and Thompson on my right. We moved
 down the narrow, dark hall, which was barely illuminated by the filtered light from a downstairs hallway, and into Jeremy's [the twelveyear-old hostage] room. We could make out North [the hostage-taker]
-seated on the edge of the bed, holding Jeremy between his legs in a onearm choke hold. The boy was completely shielding North's body, and
+seated on the edge of the bed, holding Jeremy between his legs in a one-arm choke hold. The boy was completely shielding North's body, and
 the way he was holding the knife at the boy's throat made it look as if
 the knife was sticking in his neck.
 
@@ -16353,7 +16353,7 @@ most easily terrified soldiers, and when they were hit, their screams caused
 the others to abort the attack. In another instance, "[H]e waited until
 three or four attacking waves had begun to advance, then he started to
 put as many rounds as possible into the stomachs of the last wave. The
-startling cries of the wounded and the fact that the attack was being demoralised from the rear unnerved the front ranks. The attacks started to
+startling cries of the wounded and the fact that the attack was being demoralized from the rear unnerved the front ranks. The attacks started to
 falter. That was the moment he started to take the front rank into his
 reticle [crosshairs]. Enemies nearer than 50 meters were hit with head or
 heart shots—men further back were shot in the trunk to create as many
@@ -16747,7 +16747,7 @@ mid-teenagers confront a British soldier; the one in front is throwing a
 rock, while the other six stand in two rows behind him, several with hands
 in pockets, or looking away from the action. It is a scene of desultory
 violence, and their faces look more bored than engrossed. In many of
-these scenes we see the same territorial markers; only the lone rockthrower has stepped off the sidewalk into the street; the others are safely
+these scenes we see the same territorial markers; only the lone rock thrower has stepped off the sidewalk into the street; the others are safely
 in the non-confrontational zone of the sidewalk, except for one youth
 who gingerly stands at the rear of the group, with one foot in the street,
 the other on the curb (Sept. 10, 2001, Peter Morrison/Associated Press
@@ -16885,7 +16885,7 @@ atmosphere. Later in the day, techno music from a van was suddenly
 turned up to a deafening level. Police pushed a group of a hundred or so
 demonstrators into a park; a smaller group in masks appeared from a side
 street and cut off a small group of police, pelting them with cobblestones
-and downing one cop with a hit to the head. According to the cameraman's report, the demonstrators in balaclavas cheered, then screamed
+and downing one cop with a hit to the head. According to the cameraman report, the demonstrators in balaclavas cheered, then screamed
 when the police opened fire with eight shots at the lone taunter who dared
 to approach within twenty yards of the police. The episode resembles the
 filmed tribal warfare described in chapter 2, consisting more in taunting
@@ -16941,7 +16941,7 @@ police station; a lynch mob of several hundred swarmed the walls and
 422 • Chapter 11
 
 broke through barricades, injuring a dozen policemen. A photo (figure
-11.6) taken minutes later, shows a young man leaning out the secondfloor window of the station, his mouth open in an exultant yell, holding
+11.6) taken minutes later, shows a young man leaning out the second floor window of the station, his mouth open in an exultant yell, holding
 up his bloodied palms for the crowd to see. The blood-stained hands of
 two other men are also thrust into view in the window. In the crowd
 below, the picture silhouettes seven men, part of a larger throng, almost
@@ -17114,7 +17114,7 @@ for a confrontation that is yet to come.
 
 A few confrontations remain relatively well organized even in the fighting phase. These are chiefly in South Korea. A photo example (not shown)
 depicts a line of Korean protestors, wearing gas masks and armed with
-long staves, striking out at a police line of shields; both sides are phalanxlike (Nov. 14, 2004 Ahn Young-Joon/Associated Press). Ten staves are
+long staves, striking out at a police line of shields; both sides are phalanx-like (Nov. 14, 2004 Ahn Young-Joon/Associated Press). Ten staves are
 visible, all roughly at the same angle; it is not clear how many demonstrators actually make it to the front lines, as their ranks appear to be only
 one or two deep, and the preceding rally was attended by 20,000. Such
 battles may well be ceremonial, following established formulas that limit
@@ -17230,7 +17230,7 @@ other: 'Yell and you'll help keep them focused.' And the crowd got louder
 [as protesters were arrested]" (Summers-Effler 2004).
 
 The apex of the event is the actions of the violent few. The basis of their
-emotional energy—their confidence, enthusiasm, initiative, their nonpassivity—is the successive layers of helpers, co-participants, and spectators around them. The layers of the crowd are like a giant cone, quasivisible in their arrangement in space, and almost literally making up a
+emotional energy—their confidence, enthusiasm, initiative, their non-passivity—is the successive layers of helpers, co-participants, and spectators around them. The layers of the crowd are like a giant cone, quasi-visible in their arrangement in space, and almost literally making up a
 giant sound chamber that intensifies noise toward the center; these layers
 of human attention shape the energy that makes possible the confrontation at its focal point.15 The crowd in the standoff phase provides the
 tension buildup. If circumstances (usually some sign of weakness on the
@@ -17351,7 +17351,7 @@ interactional tactics that put everyone else on the defensive. They became
 specialists in taking the violent initiative, and with such suddenness, determination, and ruthlessness that others gave way to them.
 
 Hitmen make themselves experts in emotion management, both their
-own and others'. There are two aspects of this, short-run and mediumrun. In micro-situational confrontation, the hitman is cool in execution.
+own and others'. There are two aspects of this, short-run and medium run. In micro-situational confrontation, the hitman is cool in execution.
 He is acutely aware of the victim's emotions; if he has to confront him
 face to face, he notices signs of fear—eyes, glistening sweat, trembling
 hands. Concentrating on these technical details, he averts entrainment,
@@ -17616,7 +17616,7 @@ to $20,000 or more at the high end, depending on the importance of the
 person to be killed; in contrast, mere "muscle" might go on salary, or
 be paid $250 for an episode). Here the money symbolizes rank, as much
 as it pays for higher-quality service. Differences in rank are paralleled
-by differences in density of social structure. Low-end hitmen, like unaffiliated criminals generally, make social connections in a random, hit-ormiss fashion; they have much less access to good information about their
+by differences in density of social structure. Low-end hitmen, like unaffiliated criminals generally, make social connections in a random, hit-hit-or-miss fashion; they have much less access to good information about their
 victim's behavior, and their contacts easily become informants for the
 police (e.g., Magida 2003). The core networks of organized crime have
 much more dense surveillance of each other; this makes it possible both
@@ -17826,7 +17826,7 @@ been adopted is not just the technology of how to make bombs and detonators but 
 has made it possible for ideologically motivated terrorism to be carried
 out by middle-class women and men without backgrounds in ordinary
 boisterous or criminal violence. As a generalization, the more clandestine
-and confrontation-avoiding the technique of violence, the more its practitioners are from the respectable middle class, and indeed from its nonboisterous, well-behaved sector.39 Terrorist bombing is, so to speak, the
+and confrontation-avoiding the technique of violence, the more its practitioners are from the respectable middle class, and indeed from its non-boisterous, well-behaved sector.39 Terrorist bombing is, so to speak, the
 violence of the meek.
 
 • 447
@@ -17926,7 +17926,7 @@ the fighters overcome confrontational tension/fear; the emotional support flows 
 The problem of overcoming confrontational tension/fear is harder when
 the larger group itself becomes a participant in the violence—even if this
 is only nominal participation, not really doing much, but nevertheless taking up a stance of confronting a real opponent who might engage them.
-Sometimes the crowd has an easy opportunity, as when an authorityfree zone is created, and the crowd can engage in rioting against inert
+Sometimes the crowd has an easy opportunity, as when an authority-free zone is created, and the crowd can engage in rioting against inert
 physical emblems of the other side, such as by looting and burning. Here,
 too, we have seen that the crowd is stratified into looting leaders, preexisting gangs or clusters, and, gradually over time, a larger amateurish mass
 of participation-seekers drawn by the emotional atmosphere; yet even the
@@ -18022,7 +18022,7 @@ positions of rivals who are also struggling to gain recognition. Creativity
 is driven by conflict; creativity occurs simultaneously in different parts of
 the field, never in a single isolated upheaval against the past but in rival
 reformulations of dominant conceptions of knowledge. The most creative
-intellectuals are puzzle finders, raising points to argue about, not just puzzlesolvers. Star intellectuals, like the violent elite, make their reputations by
+intellectuals are puzzle finders, raising points to argue about, not just puzzle-solvers. Star intellectuals, like the violent elite, make their reputations by
 stirring up trouble. Instead of backing away from it, as most people do
 from violent confrontations, they seek it out, as we have seen with career
 criminals and hooligans as well as ace pilots and cowboy cops.
@@ -18119,7 +18119,7 @@ them, and apparently feels comfortable, even a source of strength. Not to
 say that the violent elite are isolates all the time; they also may check in
 on the usual action scenes and keep their presence known among their
 peers. But this is analogous to intellectuals; they may spend long hours
-alone writing, but also keep contact with their professional network. Selfmotivation in isolation is highest among the violent elite, those who are
+alone writing, but also keep contact with their professional network. Self-motivation in isolation is highest among the violent elite, those who are
 best at the cool techniques of violence; the less competent layer of the
 actively violent, practicing hot violence in the midst of groups, have much
 less of this self-reliant character.
@@ -18197,7 +18197,7 @@ For the intellectual world, the network structure tends to reproduce the
 pattern of a small number of stars; both because only a few lineages and
 clusters are generated at the center of action, and because those at the
 center de-energize and exclude other competitors. Analogously, network
-patterns centering around the violent elite would promote a smallnumbers pattern for each type of violence.
+patterns centering around the violent elite would promote a small-numbers pattern for each type of violence.
 
 We come now to the micro-mechanisms by which a small number of
 individuals make themselves the elite, while others who start out with
@@ -18430,7 +18430,7 @@ attention spaces. The cool techniques of violent domination are social on
 462 • Chapter 11
 
 every level: In the immediate confrontation, they consist in a way to
-swiftly and unself-consciously perceive the emotional positions and trajectories of everyone around one and manipulate these to one's advantage.
+swiftly and unself-consciously-consciously perceive the emotional positions and trajectories of everyone around one and manipulate these to one's advantage.
 But only a few can do so, because success in exercising these techniques
 de-energizes the techniques of one's less successful rivals. In the chain of
 confrontations that make up each violent individual's life, the successful
@@ -18616,7 +18616,7 @@ of violence need to be headed off in different ways. This seems discouraging. Bu
 amok was a traditional form of honorable suicide in Indonesia, where a
 man would suddenly go into a frenzy of slashing at everyone around
 him with his machete until he was finally cut down (Blacker and Tupin
-1977; Westermeyer 1973). Amoks in traditional Indonesian society were
+1977; Westermeyer 1973). Amok in traditional Indonesian society were
 eradicated when the authorities stopped killing them at the climax of
 their killing frenzy. Instead, they were sentenced to life in prison and not
 allowed to die. Since running amok was an honorable form of suicide,
@@ -18662,7 +18662,7 @@ young ages, when girls are about as strong as boys, little girls often engage in
 hitting, biting, and kicking at about the same rate as boys—varying by about 5
 percent at most, and sometimes slightly exceeding boys (Trembley 2004). And by
 strategically picking situations where parents are present, a little girl can get away
-with fighting her male siblings, even in attacking them, thus turning the boysdon't-pick-on-girls ideology to their own advantage, since the boy is the one who
+with fighting her male siblings, even in attacking them, thus turning the boys don't-pick-on-girls ideology to their own advantage, since the boy is the one who
 typically gets punished for retaliating. I have observed this repeatedly among small
 children in domestic situations.
 
@@ -18978,7 +18978,7 @@ a gun, and in 79 of 107 times when a gun was fired there could have been several
 people firing; hence the firing ratio and accuracy level could be much lower. When
 respondents fired, they claimed to have hit their opponents 51 percent of the time;
 when opponents fired, respondents were hit 13 percent of the time (calculated
-from Wilkinson 2003: 129–30, 216). Respondents reportedly outhit their opponents by 3.8 to 1. There may well be some egotistical bias in their recollections;
+from Wilkinson 2003: 129–30, 216). Respondents reportedly out hit their opponents by 3.8 to 1. There may well be some egotistical bias in their recollections;
 but it also may indicate that these ultra tough guys were chiefly picking their fights
 when they had the advantage over their opponents. As we shall see (in chapter 6),
 gangs as well as solo hoodlums attempt to avoid violent situations in which they
@@ -19023,7 +19023,7 @@ mass participation drops out more easily (Clayman 1993).
 CHAPTER 3
 FORWARD PANIC
 
-1. A similar case of LAPD officers beating a car thief at the end of a footchase,
+1. A similar case of LAPD officers beating a car thief at the end of a foot chase,
 videoed by a news helicopter, is shown in a sequence of photographs in the Los
 Angeles Times, July 24, 2004.
 
@@ -19235,7 +19235,7 @@ APImages.com; pictures.Reuters.com; procorbis.com; GettyImages.com.
 31. We may add yet a fourth factor leading to the prolonged beating of King:
 the officer who initially led the car chase and first attempted to arrest King was a
 woman. King's demeanor when he finally left his car to surrender in the first moments of the arrest was not so much threatening as insolent. The woman highway
-patrol officer testified that he grabbled his buttock and shook it at her. King was
+patrol officer testified that he grabbed his buttock and shook it at her. King was
 not taking the arrest seriously, and even was expressing a sexual innuendo at the
 woman officer. At least this was how the other officers present took the gesture.
 The woman officer, having trouble subduing King, drew her pistol; whereupon
@@ -19805,7 +19805,7 @@ wounded because his opponent cheats, and finally encompasses his revenge by
 killing all those who are implicated in the trespass of dueling rules. At almost
 every point, Hamlet shows his moral superiority by following the rules of fair
 fights; the exception is when he kills an eavesdropper by stabbing him through
-the wall-hanging, but even this is a punishment for deception, and of a lowerranking person.
+the wall-hanging, but even this is a punishment for deception, and of a lower-ranking person.
 
 Notes to Chapter 6 • 491
 
@@ -20234,7 +20234,7 @@ standard take-down and immobilization moves. Sumo wrestlers also seem never
 to fight outside the prescribed moment. They do spend considerable time in posturing and stamping just before taking their starting positions for the match; this
 has an element of attempting to disrupt the opponent's concentration, especially
 by standing up and walking away from the ring for a few seconds with a gesture
-of contempt. The honorific nature of these moves is shown by the fact that higherranking sumo wrestlers are officially given more time for these preliminary rituals;
+of contempt. The honorific nature of these moves is shown by the fact that higher-ranking sumo wrestlers are officially given more time for these preliminary rituals;
 and these gestures are often cheered by spectators for their theatrical quality (from
 
 500 • Notes to Chapter 8
@@ -20561,7 +20561,7 @@ not so easy and untrammeled; confrontational tension/fear has existed throughout
 history, and violence was not a pleasurable expression of natural impulses but the
 same kind of ignominious attacking of the weak, or an honorific limited and staged
 fighting, as we have seen in this book. What sport expresses does not exist as natural
-unrepressed violence anywhere. Second, premodern sports also created pleasurable tension, ranging from tribal games, ancient Olympics, Byzantine chariotraces, to medieval jousts and popular games. As Elias and Dunning (1986) themselves document in the case of medieval English folk football, the chief difference
+unrepressed violence anywhere. Second, premodern sports also created pleasurable tension, ranging from tribal games, ancient Olympics, Byzantine chariot races, to medieval jousts and popular games. As Elias and Dunning (1986) themselves document in the case of medieval English folk football, the chief difference
 from modern times was that the games of the lower classes had little formal organization; there were no referees or codified rules, and participation drew in entire
 communities rather than specializing among the most skilled, encouraging large
 and unspecified numbers of players who might be variously on horse and on foot,
@@ -20819,7 +20819,7 @@ sequence during the years from 1950 to 1966 (Chicago Sun Times, August 18,
 easy victim of a stickup, is a major motive for decent people putting on the street
 code (Anderson 1999: 131).
 
-18. I will deal with long tunnels of violence in a companion volume on timedynamics of violence, including also its long-term macro dimensions.
+18. I will deal with long tunnels of violence in a companion volume on time dynamics of violence, including also its long-term macro dimensions.
 
 19. The dueling code provided a different way of dealing with this point. Making a challenge to a duel, and accepting it, brought the immediate confrontation
 to an end; the actual violence was postponed to another time. The stage of bluster
@@ -20897,7 +20897,7 @@ eighth-grade classrooms in urban poverty area schools (Mollie Rubin, personal
 communication, Nov. 2004; Patricia Maloney, Oct. 2005). Milner's research
 (2004: 105) describes one occasion in a big, racially mixed (but predominantly
 white middle-class) high school when two fights broke out within ten minutes of
-each other during the lunch period; the first fight was all-white, the second blackon-black. There were many hundreds of students in the lunch area, and most of
+each other during the lunch period; the first fight was all-white, the second black-on-black. There were many hundreds of students in the lunch area, and most of
 them ignored the fights, especially the fight in the other racial group; all of which
 suggests that the school had segregated attention spaces. The only description I
 have encountered where adults had several fights simultaneously in the same attention space is from Riker's Island prison in New York City, where an inmate
@@ -20940,7 +20940,7 @@ was a member of an elite special unit, the gang squad. The arrest, however, was
 completely without violence; the suspects gave themselves up passively when they
 were finally pulled over.
 
-15. In Peter Moskos's study, which focused on police who were most interested
+15. In Peter Moskos study, which focused on police who were most interested
 in easy jobs and extra pay opportunities, being involved in shootings was regarded
 as a way of getting into trouble with the administration (personal communication,
 April 2005). Conversely, officers who want easy duty attempt to serve on midnight
@@ -20970,8 +20970,8 @@ even in this area.
 snipers, who use their own insider lore in the arts of concealment to locate their
 opponent, and their firing skill to dispatch him/her with a well-placed shot. Static
 fronts with trench warfare and abundant skilled snipers on both sides tend to
-produce sniper-counter-sniper contests, which are costly on both sides. Sniperversus-sniper is a war among elites. In the criminal world, the toughest guys do
-not go usually up against the other toughest guys. The high attrition of the sniperon-sniper pattern, reaching 90 to 100 percent in the world wars (Pegler 2001: 58;
+produce sniper-counter-sniper contests, which are costly on both sides. Sniper versus-sniper is a war among elites. In the criminal world, the toughest guys do
+not go usually up against the other toughest guys. The high attrition of the sniper-on-sniper pattern, reaching 90 to 100 percent in the world wars (Pegler 2001: 58;
 2004: 140–42) suggests what would happen if they did.
 
 19. A comparison of the visibility of human bodies, buildings, and various
@@ -21259,7 +21259,7 @@ by career hitmen or their associates. I draw also on a four-hour interview with 
 
 Notes to Chapter 11 • 521
 
-reputed hitman; he apparently had worked for organized crime rather than lowerpaid and lower-status contract killing for "civilians." We did not discuss particular killings but rather techniques of violent procedure and interaction. Most of
+reputed hitman; he apparently had worked for organized crime rather than lower-paid and lower-status contract killing for "civilians." We did not discuss particular killings but rather techniques of violent procedure and interaction. Most of
 the information here concerns high-level American hitmen working between 1950
 and 1990. Female contract killers exist, but the only ones I have heard of are in
 the lower tier. In the following examples, I refer to the victims as well as the killers
@@ -21305,7 +21305,7 @@ though strong. Joey Gallo, who killed mob boss Albert Anastasia in his barber
 522 • Notes to Chapter 11
 
 chair in 1957, and who later launched a war on another gang faction, was 5 ft. 7
-inches and thin. Joe "Mad Dog" Sulllivan (who had over 100 hits and was regarded by Tony the Greek as the best in the profession) was 5 ft. 11 inches, 180
+inches and thin. Joe "Mad Dog" Sullivan (who had over 100 hits and was regarded by Tony the Greek as the best in the profession) was 5 ft. 11 inches, 180
 lbs. (Hoffman and Headley 1992: xxii, 92, 96, 133, 154, 236; Fisher 2002: vii–
 viii, 198; Mustain and Capeci 1993: 28–37). Tony also did debt collecting for
 loan sharks, sometimes accompanied by a 300-pound man who frightened and
@@ -21327,7 +21327,7 @@ opponent did or said that can be construed as insults or slights, to work up ang
 for an upcoming match. Specialists in violence thus may hoard memories of previous humiliation or deliberately nurse a grudge. Their "chip on the shoulder"
 should not be taken simply as mere unconscious repression or bypassed shame
 that comes out as rage. Not to deny that Scheff's (1994) model can operate in
-a straightforward manner; but there are also complex versions of emotion selfmanagement, in which one deliberately uses past emotions as a resource to get an
+a straightforward manner; but there are also complex versions of emotion self-management, in which one deliberately uses past emotions as a resource to get an
 advantage in a present confrontation.
 
 24. This may seem morally cold; but it is the same kind of reaction as that of
@@ -21554,7 +21554,7 @@ Inner City. New York: Norton.
 
 . 2002. "The Ideologically Driven Critique." American Journal of Sociology 107: 1533–50.
 
-Archer, Dane, and Rosemary Gartner. 1984. Violence and Crime in Crossnational Perspective. New Haven, Conn.: Yale University Press.
+Archer, Dane, and Rosemary Gartner. 1984. Violence and Crime in Cross-national Perspective. New Haven, Conn.: Yale University Press.
 
 Ardant du Picq, Charles. 1903/1999. E´ tudes sur le combat. Paris: E´ ditions Ivrea,
 translated edition. Battle Studies: Ancient and Modern Battles. New York: Macmillan, 1921.
@@ -22305,7 +22305,7 @@ the Making of Modern Japan. Cambridge, Mass.: Harvard University Press.
 Japanese Culture. Cambridge and New York: Cambridge University Press.
 Inbert, Barbara, and John Sprague. 1980. The Dynamics of Riots. Ann Arbor,
 
-Mich.: Inter-university Consortius for Political and Social Research.
+Mich.: Inter-university Consortium for Political and Social Research.
 
 Ireland, Jane. 2002. "Official Records of Bullying Incidents among Young Offenders: What Can They Tell Us and How Useful Are They?" Journal of Adolescence
 25: 669–79.
@@ -22467,7 +22467,7 @@ Klusemann, Stefan. 2002. "The German Revolution of 1918 and Contemporary
 
 Theories of State Breakdown." M.A. thesis, University of Pennsylvania.
 
-. 2006. "Micro-situational Antecedants of Violent Atrocity: The Case of
+. 2006. "Micro-situational Antecedents of Violent Atrocity: The Case of
 Srebrenica." Paper presented at American Sociological Association, Montreal.
 Kooistra, Paul. 1989. Criminals as Heroes. Bowling Green, Ohio: Bowling Green
 
@@ -22610,7 +22610,7 @@ Crime and Delinquency 33: 269–305.
 
 Mauss, Marcel. 1925/1967. The Gift. New York: Norton.
 Maxfield, Michael G., and Cathy Spatz Widom. 1996. "The Cycle of Violence
-Revisted Six Years Later." Archives of Pediatric and Adolescent Medicine 150:
+Revisited Six Years Later." Archives of Pediatric and Adolescent Medicine 150:
 390–95.
 
 Mazur, Alan, E. Rosa, M. Faupel, J. Heller, R. Leen, and B. Thurman. 1980.
@@ -22745,7 +22745,7 @@ Oxford: Oxford University Press.
 
 Oberschall, Anthony, and Michael Seidman. 2005. "Food Coercion in Revolution
 and Civil War." Comparative Studies in Society and History, 47: 372–402.
-O'Donnell, Ian, and Kimmet Edgar. 1998a. "Routine Vicitimisation in Prisons."
+O'Donnell, Ian, and Kimmet Edgar. 1998a. "Routine Victimisation in Prisons."
 
 The Howard Journal 37: 266–79.
 
@@ -22771,7 +22771,7 @@ Deviant Behavior." American Sociological Review 61: 635–55.
 
 • 545
 
-Ostvik, Kristina, and Floyed Rudmin. 2001. "Bullying and Hazing among Norwegian Army Soldiers: Two Studies of Prevalence, Context, and Cognition." Military Psychology 13: 17–39.
+Ostvik, Kristina, and Floyd Rudmin. 2001. "Bullying and Hazing among Norwegian Army Soldiers: Two Studies of Prevalence, Context, and Cognition." Military Psychology 13: 17–39.
 
 Overy, Richard J. 1980. The Air War 1939–1945. New York: Stein and Day.
 
@@ -22785,7 +22785,7 @@ N.Y.: Cornell University Press.
 
 Random House.
 
-Pappas, Nick T., Patrick C. Mckenry, and Beth Skilken Catlett. 2004. "Athlete
+Pappas, Nick T., Patrick C. McHenry, and Beth Skilken Catlett. 2004. "Athlete
 Aggression on the Rink and off the Ice: Athlete Violence and Aggression in
 Hockey and Interpersonal Relationships." Men and Masculinities 6, no. 3:
 291–312.
@@ -23022,7 +23022,7 @@ Athletics." Adolescence, 34, no. 135: 503–21.
 
 • 549
 
-Shils, Edward, and Morris Janowitz. 1948. "Cohersion and Disintegration in the
+Shils, Edward, and Morris Janowitz. 1948. "Coercion and Disintegration in the
 
 Wehrmacht in World War II." Public Opinion Quarterly 12: 280–315.
 
@@ -24094,7 +24094,7 @@ Philadelphia, 200, 243, 245, 268, 271,
 307, 347–48, 474n28, 511n14, 518n1,
 518n5
 
-Phillipine guerrillas, 165
+Philippine guerrillas, 165
 photos and videos as evidence of violence,
 4–6, 29–30, 42–45, 53, 68–70, 83–84,
 88–90, 115–17, 121–26, 128, 165, 218,

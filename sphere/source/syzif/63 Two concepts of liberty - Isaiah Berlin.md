@@ -368,7 +368,7 @@ to keep
 instituted
 
 [173] Philosophers with an optimistic view of human nature,
-and a belief in the harmonisation of human interests, such as
+and a belief in the harmonization of human interests, such as
 Locke or Adam Smith and, in some of his moods, Mill, believed in
 the need for securing a large area for private life, that is to say, in a
 large extension of individual liberty which neither the State nor any
@@ -394,7 +394,7 @@ same. We must preserve a minimum area of personal freedom
 because, in Constant's words, we cannot sacrifice the 'eternal
 principles of justice and mercy' if we are not to 'degrade or deny
 our nature'. No doubt we cannot remain absolutely free, and must
-give up some of our liberty to preserve the rest. But total selfsurrender is self-defeating, for if we give all there will be nothing
+give up some of our liberty to preserve the rest. But total self-surrender is self-defeating, for if we give all there will be nothing
 left to preserve.
 
 What then must the minimum be? That which a man cannot
@@ -631,7 +631,7 @@ The extent of my freedom seems to depend at the very least on (a) how
 many possibilities are open to me (although the method of counting
 these can never be more than impressionistic: possibilities of action are
 not discrete entities like apples which can be exhaustively enumerated);
-(b) how easy or difficult each of these possibilities is to actualise; (c) how
+(b) how easy or difficult each of these possibilities is to actualize; (c) how
 important in my plan of life, given my character and circumstances, these
 possibilities are when compared with each other; (d ) how far they are
 closed or opened by deliberate human acts; (e) what value not merely the
@@ -788,7 +788,7 @@ benevolent reformer, to mould in accordance with my, not their,
 rational purpose.
 
 This [184] is precisely the policy the Utilitarians recommended.
-Helvétius (and Bentham) believed not in resisting but in using
+Helvétiusétius (and Bentham) believed not in resisting but in using
 men's tendency to be slaves to their passions; they wished to
 dangle rewards and punishments before men – the acutest possible
 form of heteronomy – if by this means the 'slaves' might be made
@@ -1430,7 +1430,7 @@ be seeking not for what Mill would wish me to seek, namely
 security from coercion, from arbitrary arrest, from tyranny, from
 the deprivation of certain opportunities of action, for a space
 within which I am legally accountable to no one for my acts.
-Equally I may not be seeking for a rational plan of life, or the selfperfection of a dispassionate sage. What I may seek to be saved
+Equally I may not be seeking for a rational plan of life, or the self-perfection of a dispassionate sage. What I may seek to be saved
 from is being ignored, or patronised, or despised, or from being
 taken too much for granted; in short from not being treated as a
 unique human being, from having my humanity insufficiently
@@ -1479,7 +1479,7 @@ nationalities demand their rights is neither simply unhampered
 liberty of action, nor necessarily equality of economic or social
 
 21 This is vividly brought out in the celebrated words of the leveller
-Rainborough in 1647: Adler p. 336. [Major Thomas Rainborough's 'the
+Rainborough in 1647: Adler p. 336. [Major Thomas Rainborough 'the
 poorest he that is in England hath a life to live, as the greatest he' is cited
 by Mortimer J. Adler, The Idea of Freedom: A Dialectical Examination of the
 Conceptions of Freedom (New York, 1958), 336.]
@@ -1796,7 +1796,7 @@ myself into slavery, am I the less a slave? If I commit suicide, am I
 the less dead because I have taken my own life freely?
 
 'Popular government is a spasmodic tyranny, monarchy a more
-centralised despotism.' Constanr perceived in Rousseau the worst
+centralised despotism.' Constant perceived in Rousseau the worst
 enemy of liberty. Rousseau's famous thesis, that by giving myself
 to all [210] I give myself to no one, is founded on the assumption
 that the sovereign is literally everybody. Even so, this 'everybody'
@@ -1862,7 +1862,7 @@ defined in terms of rules so widely accepted that their observance
 has entered into the definition of what it is to be a human being;
 rules of which it would be absurd to say that they could be
 abrogated by some formal procedure on the part of some court or
-sovereign body. It is such universaally accepted rules as these that
+sovereign body. It is such universally accepted rules as these that
 are broken when a man is punished without being proved guilty
 even by some semblance of a trial; or when men are tortured or
 murdered indiscriminately by the arbitrary will of a despot. This
@@ -1871,7 +1871,7 @@ recognition of the moral existence of some absolute barriers to the
 imposition of one man's will on another. The freedom of a society
 or a class or a group in this sense of freedom is measured by the
 strength of the barriers and the number and importance of the
-pathcs which they keep open before each of their members. This is
+paths which they keep open before each of their members. This is
 widely different from the ambition of those who believe in liberty
 in the 'positive' – self-directive – sense. [212] The former want to
 curb authority as such. The latter want it placed in their own
@@ -1930,7 +1930,7 @@ or implied – reason rejects the possibility that conflict cannot be
 eliminated, that the fulfilment of all our ideals is in principle
 unattainable, a union of contradictory elements, a logical chimera.
 And yet it seems no less clear that no situation is conceivable in
-which men, however enlightenened, can be at once wholly good
+which men, however enlightened, can be at once wholly good
 and just and equal and happy and free. The very notion of a total
 harmony of all values and all interests, so long as we understand by
 them what we do understand when we discuss them with each
@@ -1948,11 +1948,11 @@ agonising choices equally ultimate, the [214] realisation of one of
 which inevitably entails the sacrifice of the other. Indeed, it is
 because this is the situation that men place such immense and
 justified value upon the freedom to choose; for if we had
-assurance that in some perfect state, realisable by men on earth,
+assurance that in some perfect state, realizable by men on earth,
 the ends pursued by men would no longer be in conflict, the need
 fro choice and for freedom of choice, in either of the two senses
 of the word, would in this stae no longer arise; freedom, on this
-view, ceases to be an end in itslef: any method of bringing the final
+view, ceases to be an end in itself: any method of bringing the final
 stae nearer would be justified by its purpose – no matter how uch
 freedom it sacrificed in its advance.
 
@@ -2022,7 +2022,7 @@ thing was ever made' and are doomed to piecemeal operations.
 
 The 'negative' liberty that they seek to realise seems to me a
 more humane ideal than that of those who seek for the great
-disciplined authoritarian structures that incarnate 'positive' selfmastery by classes or peoples or mankind, because it destroys far
+disciplined authoritarian structures that incarnate 'positive' self-mastery by classes or peoples or mankind, because it destroys far
 less of what most men, sometimes by bitter experience, discover to
 be indispensable [217] to them as human beings. But in the end
 one chooses as one chooses, because one's life and thought are

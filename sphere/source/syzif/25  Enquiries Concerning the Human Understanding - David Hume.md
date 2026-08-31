@@ -198,7 +198,7 @@ perhaps show that Hume, in re-casting the Treatise into its new form, displayed 
 less admirable sides of his temper rather freely.
 
 In the second place, it is undeniable that Hume's own judgement on the style of his
-earlier work was quite correct. The Treatise was ill-proportioned, incoherent, illexpressed. There are ambiguities and obscurities of expression in important passages
+earlier work was quite correct. The Treatise was ill-proportioned, incoherent, ill-expressed. There are ambiguities and obscurities of expression in important passages
 which are most exasperating. Instead of the easy language, familiar and yet precise, of
 the Enquiries, we have an amount of verbal vagueness and slovenliness for which it is
 hard to excuse even 'a solitary Scotchman.' How far the difference between the two
@@ -455,7 +455,7 @@ interesting part of the whole Treatise is that in which Hume tried to explain (�
 187–218) our belief in the existence of body, which he reduced to the continued and
 distinct existence of perceptions, by the influence of their constancy and coherence on
 our imagination. This is entirely dropped in the Enquiry, together with the account of
-our idea of substance (Treatise, § iii, 'Of the antient philosophy'), and of our idea of
+our idea of substance (Treatise, § iii, 'Of the ancient philosophy'), and of our idea of
 mind (Treatise, § vi, 'Of personal identity'). A considerable part of the discussion on
 the immateriality of the soul (Treatise, § v), may appear to us antiquated, just as it
 may fairly have appeared to Hume too dry for a popular work, and not absolutely
@@ -758,7 +758,7 @@ Morals With Book III Of The Treatise On Human Nature.
 ADVERTISEMENT
 
 Most of the principles, and reasonings, contained in this volume, were published in a
-work in three volumes, calledA Treatise of Human Nature:A work which the Author
+work in three volumes, called A Treatise of Human Nature:A work which the Author
 had projected before he left College, and which he wrote and published not long after.
 But not finding it successful, he was sensible of his error in going to the press too
 early, and he cast the whole anew in the following pieces, where some negligences in
@@ -766,7 +766,7 @@ his former reasoning and more in the expression, are, he hopes, corrected. Yet s
 writers, who have honoured the Author's Philosophy with answers, have taken care to
 direct all their batteries against that juvenile work, which the Author never
 acknowledged, and have affected to triumph in any advantages, which, they imagined,
-they had obtained over it: A practice very contrary to all rules of candour and fairdealing, and a strong instance of those polemical artifices, which a bigotted zeal
+they had obtained over it: A practice very contrary to all rules of candour and fair dealing, and a strong instance of those polemical artifices, which a bigotted zeal
 thinks itself authorized to employ. Henceforth, the Author desires, that the following
 Pieces may alone be regarded as containing his philosophical sentiments and
 principles.
@@ -870,7 +870,7 @@ Man is also an active being; and from that disposition, as well as from the vari
 necessities of human life, must submit to business and occupation: But the mind
 requires some relaxation, and cannot always support its bent to care and industry. It
 seems, then, that nature has pointed out a mixed kind of life as most suitable to the
-human race, and secretly admonished them to allow none of these biasses to draw too
+human race, and secretly admonished them to allow none of these biases to draw too
 much, so as to incapacitate them for other occupations and entertainments. Indulge
 your passion for science, says she, but let your science be human, and such as may
 have a direct reference to action and society. Abstruse thought and profound
@@ -914,7 +914,7 @@ their perfection, and renders them more subservient to the interests of society.
 though a philosopher may live remote from business, the genius of philosophy, if
 carefully cultivated by several, must gradually diffuse itself throughout the whole
 society, and bestow a similar correctness on every art and calling. The politician will
-acquire greater foresight and subtility, in the subdividing and balancing of power; the
+acquire greater foresight and subtlety, in the subdividing and balancing of power; the
 lawyer more method and finer principles in his reasonings; and the general more
 regularity in his discipline, and more caution in his plans and operations. The stability
 of modern governments above the ancient, and the accuracy of modern philosophy,
@@ -940,8 +940,8 @@ indeed lies the justest and most plausible objection against a considerable part
 metaphysics, that they are not properly a science; but arise either from the fruitless
 efforts of human vanity, which would penetrate into subjects utterly inaccessible to
 the understanding, or from the craft of popular superstitions, which, being unable to
-defend themselves on fair ground, raise these intangling brambles to cover and protect
-their weakness. Chaced from the open country, these robbers fly into the forest, and
+defend themselves on fair ground, raise these entangling brambles to cover and protect
+their weakness. Chased from the open country, these robbers fly into the forest, and
 lie in wait to break in upon every unguarded avenue of the mind, and overwhelm it
 with religious fears and prejudices. The stoutest antagonist, if he remit his watch a
 moment, is oppressed. And many, through cowardice and folly, open the gates to the
@@ -1083,7 +1083,7 @@ is, that they represent their object in so lively a manner, that we could almost
 feel or see it: But, except the mind be disordered by disease or madness, they never
 can arrive at such a pitch of vivacity, as to render these perceptions altogether
 undistinguishable. All the colours of poetry, however splendid, can never paint natural
-objects in such a manner as to make the description be taken for a real landskip. The
+objects in such a manner as to make the description be taken for a real landscape. The
 most lively thought is still inferior to the dullest sensation.
 
 We may observe a like distinction to run through all the other perceptions of the mind.
@@ -1938,7 +1938,7 @@ holy men, for the same reason, that they seek after types or images, in order to
 their devotion, and give them a more intimate and strong conception of those
 exemplary lives, which they desire to imitate. Now it is evident, that one of the best
 reliques, which a devotee could procure, would be the handywork of a saint; and if his
-cloaths and furniture are ever to be considered in this light, it is because they were
+clothes and furniture are ever to be considered in this light, it is because they were
 once at his disposal, and were moved and affected by him; in which respect they are
 to be considered as imperfect effects, and as connected with him by a shorter chain of
 consequences than any of those, by which we learn the reality of his existence.
@@ -1946,7 +1946,7 @@ consequences than any of those, by which we learn the reality of his existence.
 Suppose, that the son of a friend, who had been long dead or absent, were presented to
 us; it is evident, that this object would instantly revive its correlative idea, and recal to
 our thoughts all past intimacies and familiarities, in more lively colours than they
-would otherwise have appeared to us. This is another phaenomenon, which seems to
+would otherwise have appeared to us. This is another phenomenon, which seems to
 prove the principle above mentioned.
 
 We may observe, that, in these phaenomena, the belief of the correlative object is
@@ -2013,7 +2013,7 @@ of any event has the same influence on the understanding, and begets a like spec
 belief or opinion.
 
 There is certainly a probability, which arises from a superiority of chances on any
-side; and according as this superiority encreases, and surpasses the opposite chances,
+side; and according as this superiority increases, and surpasses the opposite chances,
 the probability receives a proportionable encrease, and begets still a higher degree of
 belief or assent to that side, in which we discover the superiority. If a dye were
 marked with one figure or number of spots on four sides, and with another figure or
@@ -2205,7 +2205,7 @@ by will, both over the organs of the body and faculties of the soul.
 We shall proceed to examine this pretension; and first with regard to the influence of
 volition over the organs of the body. This influence, we may observe, is a fact, which,
 like all other natural events, can be known only by experience, and can never
-beforeseen from any apparent energy or power in the cause, which connects it with
+foreseen from any apparent energy or power in the cause, which connects it with
 the effect, and renders the one an infallible consequence of the other. The motion of
 our body follows upon the command of our will. Of this we are every moment
 conscious. But the means, by which this is effected; the energy, by which the will
@@ -2800,7 +2800,7 @@ particular. For, not to mention that almost every action of their life supposes 
 opinion, there are even few of the speculative parts of learning to which it is not
 essential. What would become of history, had we not a dependence on the veracity of
 the historian according to the experience which we have had of mankind? How could
-politics be a science, if laws and forms of goverment had not a uniform influence
+politics be a science, if laws and forms of government had not a uniform influence
 upon society? Where would be the foundation of morals, if particular characters had
 no certain or determinate power to produce particular sentiments, and if these
 sentiments had no constant operation on actions? And with what pretence could we
@@ -3112,10 +3112,10 @@ sentiments which arise from the natural and immediate view of the objects? A man
 who is robbed of a considerable sum; does he find his vexation for the loss anywise
 diminished by these sublime reflections? Why then should his moral resentment
 against the crime be supposed incompatible with them? Or why should not the
-acknowledgment of a real distinction between vice and virtue be reconcileable to all
+acknowledgment of a real distinction between vice and virtue be reconcilable to all
 speculative systems of philosophy, as well as that of a real distinction between
 personal beauty and deformity? Both these distinctions are founded in the natural
-sentiments of the human mind: And these sentiments are not to be controuled or
+sentiments of the human mind: And these sentiments are not to be controlled or
 altered by any philosophical theory or speculation whatsoever.
 
 The second objection admits not of so easy and satisfactory an answer; nor is it
@@ -3168,7 +3168,7 @@ distinguishable from the cunning and sagacity of the old, who have learned, by l
 observation, to avoid what hurt them, and to pursue what gave ease or pleasure. A
 horse, that has been accustomed to the field, becomes acquainted with the proper
 height which he can leap, and will never attempt what exceeds his force and ability.
-An old greyhound will trust the more fatiguing part of the chace to the younger, and
+An old greyhound will trust the more fatiguing part of the chase to the younger, and
 will place himself so as to meet the hare in her doubles; nor are the conjectures, which
 he forms on this occasion, founded in any thing but his observation and experience.
 
@@ -3342,7 +3342,7 @@ force goes, and the superior can only operate on the mind by the force, which re
 The very same principle of experience, which gives us a certain degree of assurance
 in the testimony of witnesses, gives us also, in this case, another degree of assurance
 against the fact, which they endeavour to establish; from which contradition there
-necessarily arises a counterpoize, and mutual destruction of belief and authority.
+necessarily arises a counterpoise, and mutual destruction of belief and authority.
 
 I should not believe such a story were it told me by Cato, was a proverbial saying in
 Rome, even during the lifetime of that philosophical patriot1 . The incredibility of a
@@ -3551,7 +3551,7 @@ have for our warrant the testimony of a few barbarous Arabians: And on the other
 hand, we are to regard the authority of Titus Livius, Plutarch, Tacitus, and, in short, of
 all the authors and witnesses, Grecian, Chinese, and Roman Catholic, who have
 related any miracle in their particular religion; I say, we are to regard their testimony
-in the same light as if they had mentioned that Mahometan miracle, and had in
+in the same light as if they had mentioned that Mohammedan miracle, and had in
 express terms contradicted it, with the same certainty as they have for the miracle they
 relate. This argument may appear over subtile and refined; but is not in reality
 different from the reasoning of a judge, who supposes, that the credit of two
@@ -3592,7 +3592,7 @@ recovered that limb by the rubbing of holy oil upon the stump; and the cardinal
 assures us that he saw him with two legs. This miracle was vouched by all the canons
 of the church; and the whole company in town were appealed to for a confirmation of
 the fact; whom the cardinal found, by their zealous devotion, to be thorough believers
-of the miracle. Here the relater was also cotemporary to the supposed prodigy, of an
+of the miracle. Here the relater was also contemporary to the supposed prodigy, of an
 incredulous and libertine character, as well as of great genius; the miracle of so
 singular a nature as could scarcely admit of a counterfeit, and the witnesses very
 numerous, and all of them, in a manner, spectators of the fact, to which they gave
@@ -3630,7 +3630,7 @@ alone be regarded as a sufficient refutation.
 Is the consequence just, because some human testimony has the utmost force and
 authority in some cases, when it relates the battle of Philippi or Pharsalia for instance;
 that therefore all kinds of testimony must, in all cases, have equal force and authority?
-Suppose that the Cæsarean and Pompeian factions had, each of them, claimed the
+Suppose that the CæCaesarean and Pompeian factions had, each of them, claimed the
 victory in these battles, and that the historians of each party had uniformly ascribed
 the advantage to their own side; how could mankind, at this distance, have been able
 to determine between them? The contrariety is equally strong between the miracles
@@ -3683,9 +3683,9 @@ to a proof, it would be opposed by another proof; derived from the very nature o
 fact, which it would endeavour to establish. It is experience only, which gives
 authority to human testimony; and it is the same experience, which assures us of the
 laws of nature. When, therefore, these two kinds of experience are contrary, we have
-nothing to do but substract the one from the other, and embrace an opinion, either on
+nothing to do but subtract the one from the other, and embrace an opinion, either on
 one side or the other, with that assurance which arises from the remainder. But
-according to the principle here explained, this substraction, with regard to all popular
+according to the principle here explained, this subtraction, with regard to all popular
 religions, amounts to an entire annihilation; and therefore we may establish it as a
 maxim, that no human testimony can have such force as to prove a miracle, and make
 it a just foundation for any such system of religion.
@@ -3746,7 +3746,7 @@ births or productions, and in a word of every thing new, rare, and extraordinary
 nature. But this must be done with the most severe scrutiny, lest we depart from truth.
 Above all, every relation must be considered as suspicious, which depends in any
 degree upon religion, as the prodigies of Livy: And no less so, every thing that is to be
-found in the writers of natural magic or alchimy, or such authors, who seem, all of
+found in the writers of natural magic or alchemy, or such authors, who seem, all of
 them, to have an unconquerable appetite for falsehood and fable1 .'
 
 I am the better pleased with the method of reasoning here delivered, as I think it may
@@ -4222,7 +4222,7 @@ There is not a greater number of philosophical reasonings, displayed upon any
 subject, than those, which prove the existence of a Deity, and refute the fallacies of
 Atheists; and yet the most religious philosophers still dispute whether any man can be
 so blinded as to be a speculative atheist. How shall we reconcile these contradictions?
-The knightserrant, who wandered about to clear the world of dragons and giants,
+The knights-errant, who wandered about to clear the world of dragons and giants,
 never entertained the least doubt with regard to the existence of these monsters.
 
 The Sceptic is another enemy of religion, who naturally provokes the indignation of
@@ -4419,7 +4419,7 @@ and its tangent, and so on, in infinitum? The demonstration of these principles 
 as unexceptionable as that which proves the three angles of a triangle to be equal to
 two right ones, though the latter opinion be natural and easy, and the former big with
 contradiction and absurdity. Reason here seems to be thrown into a kind of
-amazement and suspence, which, without the suggestions of any sceptic, gives her a
+amazement and suspense, which, without the suggestions of any sceptic, gives her a
 diffidence of herself, and of the ground on which she treads. She sees a full light,
 which illuminates certain places; but that light borders upon the most profound
 darkness. And between these she is so dazzled and confounded, that she scarcely can
@@ -4568,14 +4568,14 @@ variety of mediums, their equality or inequality, through their different appear
 But as all other ideas are clearly distinct and different from each other, we can never
 advance farther, by our utmost scrutiny, than to observe this diversity, and, by an
 obvious reflection, pronounce one thing not to be another. Or if there be any difficulty
-in these decisions, it proceeds entirely from the undeterminate meaning of words,
+in these decisions, it proceeds entirely from the indeterminate meaning of words,
 which is corrected by juster definitions. That the square of the hypothenuse is equal to
 the squares of the other two sides, cannot be known, let the terms be ever so exactly
 defined, without a train of reasoning and enquiry. But to convince us of this
 proposition, that where there is no property, there can be no injustice, it is only
 necessary to define the terms, and explain injustice to be a violation of property. This
 proposition is, indeed, nothing but a more imperfect definition. It is the same case
-with all those pretended syllogistical reasonings, which may be found in every other
+with all those pretended syllogistic reasonings, which may be found in every other
 branch of learning, except the sciences of quantity and number; and these may safely,
 I think, be pronounced the only proper objects of knowledge and demonstration.
 
@@ -4637,7 +4637,7 @@ do not believe the opinions they defend, but engage in the controversy, from
 affectation, from a spirit of opposition, or from a desire of showing wit and ingenuity,
 superior to the rest of mankind. The same blind adherence to their own arguments is
 to be expected in both; the same contempt of their antagonists; and the same
-passionate vehemence, in inforcing sophistry and falsehood. And as reasoning is not
+passionate vehemence, in enforcing sophistry and falsehood. And as reasoning is not
 the source, whence either disputant derives his tenets; it is in vain to expect, that any
 logic, which speaks not to the affections, will ever engage him to embrace sounder
 principles.
@@ -4736,7 +4736,7 @@ which nature has made universal in the whole species. For what else can have an
 influence of this nature? But in order to pave the way for such a sentiment, and give a
 proper discernment of its object, it is often necessary, we find, that much reasoning
 should precede, that nice distinctions be made, just conclusions drawn, distant
-comparsions formed, complicated relations examined, and general facts fixed and
+comparisons formed, complicated relations examined, and general facts fixed and
 ascertained. Some species of beauty, especially the natural kinds, on their first
 appearance, command our affection and approbation; and where they fail of this
 effect, it is impossible for any reasoning to redress their influence, or adapt them
@@ -4815,7 +4815,7 @@ and victories, the unusual length of his administration, and his nine trophies e
 over the enemies of the republic. You forget, cries the dying hero, who had heard all,
 you forget the most eminent of my praises, while you dwell so much on those vulgar
 advantages, in which fortune had a principal share. You have not observed that no
-citizen has ever yet worne mourning on my account1 .
+citizen has ever yet worn mourning on my account1 .
 
 In men of more ordinary talents and capacity, the social virtues become, if possible,
 still more essentially requisite; there being nothing eminent, in that case, to
@@ -4838,7 +4838,7 @@ virtues. These, indeed, sufficiently engage every heart, on the first apprehensi
 them; and it is difficult to abstain from some sally of panegyric, as often as they occur
 in discourse or reasoning. But our object here being more the speculative, than the
 practical part of morals, it will suffice to remark, (what will readily, I believe, be
-allowed) that no qualities are more intitled to the general good-will and approbation
+allowed) that no qualities are more entitled to the general good-will and approbation
 of mankind than beneficence and humanity, friendship and gratitude, natural affection
 and public spirit, or whatever proceeds from a tender sympathy with others, and a
 generous concern for our kind and species. These wherever they appear, seem to
@@ -5916,7 +5916,7 @@ all, did not our hearts beat with correspondent movements to those which are
 described by the historian.
 
 Thucydides and Guicciardin support with difficulty our attention; while the former
-describes the trivial rencounters of the small cities of Greece, and the latter the
+describes the trivial reencounters of the small cities of Greece, and the latter the
 harmless wars of Pisa. The few persons interested and the small interest fill not the
 imagination, and engage not the affections. The deep distress of the numerous
 Athenian army before Syracuse; the danger which so nearly threatens Venice; these
@@ -5936,7 +5936,7 @@ narrow attachments of self-love and private interest! Popular sedition, party ze
 devoted obedience to factious leaders; these are some of the most visible, though less
 laudable effects of this social sympathy in human nature.
 
-The frivolousness of the subject too, we may observe, is not able to detach us entirely
+The frivolity of the subject too, we may observe, is not able to detach us entirely
 from what carries an image of human sentiment and affection.
 
 When a person stutters, and pronounces with difficulty, we even sympathize with this
@@ -5948,7 +5948,7 @@ composition; because we still imagine, that a person recites it to us, and suffe
 the pronunciation of these jarring sounds. So delicate is our sympathy!
 
 Easy and unconstrained postures and motions are always beautiful: An air of health
-and vigour is agreeable: Clothes which warm, without burthening the body; which
+and vigour is agreeable: Clothes which warm, without burdening the body; which
 cover, without imprisoning the limbs, are well-fashioned. In every judgement of
 beauty, the feelings of the person affected enter into consideration, and communicate
 to the spectator similar touches of pain or pleasure1 . What wonder, then, if we can
@@ -5992,7 +5992,7 @@ contributes to the good of mankind, as it crosses the constant bent of his wishe
 desires, must produce uneasiness and disapprobation; and on the contrary, whatever is
 the source of disorder and misery in society, must, for the same reason, be regarded
 with pleasure and complacency. Timon, who probably from his affected spleen more
-than any inveterate malice, was denominated the manhater, embraced Alcibiades with
+than any inveterate malice, was denominated the man-hater, embraced Alcibiades with
 great fondness. Go on my boy! cried he, acquire the confidence of the people: You will
 one day, I foresee, be the cause of great calamities to them1 . Could we admit the two
 principles of the Manicheans, it is an infallible consequence, that their sentiments of
@@ -6231,9 +6231,9 @@ than extensive provinces, even of the richest soil, when over-run with weeds and
 brambles.
 
 But all prospect of success in life, or even of tolerable subsistence, must fail, where a
-reasonable frugality is wanting. The heap, instead of encreasing, diminishes daily, and
+reasonable frugality is wanting. The heap, instead of increasing, diminishes daily, and
 leaves its possessor so much more unhappy, as, not having been able to confine his
-expences to a large revenue, he will still less be able to live contentedly on a small
+expenses to a large revenue, he will still less be able to live contentedly on a small
 one The souls of men, according to Plato1 , inflamed with impure appetites, and
 losing the body, which alone afforded means of satisfaction, hover about the earth,
 and haunt the places, where their bodies are deposited; possessed with a longing
@@ -6382,7 +6382,7 @@ reference to us, or to the community, are yet esteemed and valued; by what theor
 system can we account for this sentiment from self-love, or deduce it from that
 favourite origin? There seems here a necessity for confessing that the happiness and
 misery of others are not spectacles entirely indifferent to us; but that the view of the
-former, whether in its causes or effects, like sunshine or the prospect of wellcultivated plains (to carry our pretensions no higher), communicates a secret joy and
+former, whether in its causes or effects, like sunshine or the prospect of well-cultivated plains (to carry our pretensions no higher), communicates a secret joy and
 satisfaction; the appearance of the latter, like a lowering cloud or barren landscape,
 throws a melancholy damp over the imagination. And this concession being once
 made, the difficulty is over; and a natural unforced interpretation of the phenomena of
@@ -6543,7 +6543,7 @@ we regard the latter1 .
 Few men would envy the character which Caesar gives of Cassius:
 
 He loves no play,
-As thou do'st, Anthony: he hears no music:
+As thou doest, Anthony: he hears no music:
 Seldom he smiles; and smiles in such a sort,
 As if he mock'd himself, and scorn'd his spirit
 That could be mov'd to smile at any thing.
@@ -6592,7 +6592,7 @@ Place in opposition the picture which Tacitus draws of Vitellius, fallen from em
 prolonging his ignominy from a wretched love of life, delivered over to the merciless
 rabble; tossed, buffeted, and kicked about; constrained, by their holding a poinard
 under his chin, to raise his head, and expose himself to every contumely. What abject
-infamy! What low humilation! Yet even here, says the historian, he discovered some
+infamy! What low humiliation! Yet even here, says the historian, he discovered some
 symptoms of a mind not wholly degenerate. To a tribune, who insulted him, he
 replied, I am still your emperor3 .
 
@@ -6728,7 +6728,7 @@ amorous, who can sympathize with the tender passions, will allow that this very
 weakness, for they will readily call it such, chiefly endears that hero, and interests
 them in his fortunes.
 
-The excessive bravery and resolute inflexibility of Charles the XIIth ruined his own
+The excessive bravery and resolute inflexibility of Charles the XII ruined his own
 country, and infested all his neighbours; but have such splendour and greatness in
 their appearance, as strikes us with admiration; and they might, in some degree, be
 even approved of, if they betrayed not sometimes too evident symptoms of madness
@@ -6994,7 +6994,7 @@ prognosticate the greatest honours and advancement2 . You surprise me, replies a
 third, when you talk of Cleanthes as a man of business and application. I met him
 lately in a circle of the gayest company, and he was the very life and soul of our
 conversation: so much wit with good manners; so much gallantry without affectation;
-so much ingenious knowledge so genteelly delivered, I have never before observed in
+so much ingenious knowledge so genteel delivered, I have never before observed in
 any one3 . You would admire him still more, says a fourth, if you knew him more
 familiarly. That cheerfulness, which you might remark in him, is not a sudden flash
 struck out by company: it runs through the whole tenor of his life, and preserves a
@@ -7016,7 +7016,7 @@ what reason are they everywhere rejected by men of sense, but because they serve
 no manner of purpose; neither advance a man's fortune in the world, nor render him a
 more valuable member of society; neither qualify him for the entertainment of
 company, nor increase his power of self-enjoyment? We observe, on the contrary, that
-they cross all these desirable ends; stupify the understanding and harden the heart,
+they cross all these desirable ends; stupefy the understanding and harden the heart,
 obscure the fancy and sour the temper. We justly, therefore, transfer them to the
 opposite column, and place them in the catalogue of vices; nor has any superstition
 force sufficient among men of the world, to pervert entirely these natural sentiments.
@@ -7122,7 +7122,7 @@ determined to be conformable to our abstract rule; that other, contrary. And by 
 universal principles are the particular sentiments of self-love frequently controlled and
 limited1 .
 
-From instances of popular tumults, seditions, factions, panics, and of all passions,
+From instances of popular tumults, sedition, factions, panics, and of all passions,
 which are shared with a multitude, we may learn the influence of society in exciting
 and supporting any emotion; while the most ungovernable disorders are raised, we
 find, by that means, from the slightest and most frivolous occasions. Solon was no
@@ -7422,7 +7422,7 @@ discernment of all moral distinctions to reason alone, without the concurrence o
 sentiment. It is impossible that, in any particular instance, this hypothesis can so much
 as be rendered intelligible, whatever specious figure it may make in general
 declamations and discourses. Examine the crime of ingratitude, for instance; which
-has place, wherever we observe good-will, expressed and known, together with goodoffices performed, on the one side, and a return of ill-will or indifference, with illoffices or neglect on the other: anatomize all these circumstances, and examine, by
+has place, wherever we observe good-will, expressed and known, together with good offices performed, on the one side, and a return of ill-will or indifference, with illoffices or neglect on the other: anatomize all these circumstances, and examine, by
 your reason alone, in what consists the demerit or blame. You never will come to any
 issue or conclusion.
 
@@ -7430,7 +7430,7 @@ Reason judges either of matter of fact or of relations. Enquire then, first, whe
 matter of fact which we here call crime; point it out; determine the time of its
 existence; describe its essence or nature; explain the sense or faculty to which it
 discovers itself. It resides in the mind of the person who is ungrateful. He must,
-therefore, feel it, and be conscious of it. But nothing is there, except the passion of illwill or absolute indifference. You cannot say that these, of themselves, always, and in
+therefore, feel it, and be conscious of it. But nothing is there, except the passion of ill will or absolute indifference. You cannot say that these, of themselves, always, and in
 all circumstances, are crimes. No, they are only crimes when directed towards persons
 who have before expressed and displayed good-will towards us. Consequently, we
 may infer, that the crime of ingratitude is not any particular individual fact; but arises
@@ -7665,9 +7665,9 @@ Hobbes and Locke, who maintained the selfish system of morals, lived irreproacha
 lives; though the former lay not under any restraint of religion which might supply the
 defects of his philosophy.
 
-An epicurean or a Hobbist readily allows, that there is such a thing as a friendship in
+An epicurean or a Hobbesian readily allows, that there is such a thing as a friendship in
 the world, without hypocrisy or disguise; though he may attempt, by a philosophical
-chymistry, to resolve the elements of this passion, if I may so speak, into those of
+chemistry, to resolve the elements of this passion, if I may so speak, into those of
 another, and explain every affection to be self-love, twisted and moulded, by a
 particular turn of imagination, into a variety of appearances. But as the same turn of
 imagination prevails not in every man, nor gives the same direction to the original
@@ -7741,7 +7741,7 @@ interested considerations: but a man that grieves for a valuable friend, who nee
 patronage and protection; how can we suppose, that his passionate tenderness arises
 from some metaphysical regards to a self-interest, which has no foundation or reality?
 We may as well imagine that minute wheels and springs, like those of a watch, give
-motion to a loaded waggon, as account for the origin of passion from such abstruse
+motion to a loaded wagon, as account for the origin of passion from such abstruse
 reflections.
 
 Animals are found susceptible of kindness, both to their own species and to ours; nor
@@ -7834,7 +7834,7 @@ influence, is in itself complete and entire, it also excites the moral sentiment
 approbation, without any reflection on farther consequences, and without any more
 enlarged views of the concurrence or imitation of the other members of society. On
 the contrary, were the generous friend or disinterested patriot to stand alone in the
-practice of beneficence, this would rather inhance his value in our eyes, and join the
+practice of beneficence, this would rather enhance his value in our eyes, and join the
 praise of rarity and novelty to his other more exalted merits.
 
 The case is not the same with the social virtues of justice and fidelity. They are highly
@@ -8010,7 +8010,7 @@ influence on conduct. The distinction between the heart and the head may also be
 adopted: the qualities of the first may be defined such as in their immediate exertion
 are accompanied with a feeling of sentiment; and these alone may be called the
 genuine virtues: but industry, frugality, temperance, secrecy, perseverance, and many
-other laudable powers or habits, generally stiled virtues, are exerted without any
+other laudable powers or habits, generally styled virtues, are exerted without any
 immediate sentiment in the person possessed of them, and are only known to him by
 
 their effects. It is fortunate, amidst all this seeming perplexity, that the question, being
@@ -8045,7 +8045,7 @@ infirmities, and meannesses, or more dread to have exposed by raillery and satir
 And is not the chief object of vanity, our bravery or learning, our wit or breeding, our
 eloquence or address, our taste or abilities? These we display with care, if not with
 ostentation; and we commonly show more ambition of excelling in them, than even in
-the social virtues themselves, which are, in reality, of such superior excellence. Goodnature and honesty, especially the latter, are so indispensably required, that, though
+the social virtues themselves, which are, in reality, of such superior excellence. Good-nature and honesty, especially the latter, are so indispensably required, that, though
 the greatest censure attends any violation of these duties, no eminent praise follows
 such common instances of them, as seem essential to the support of human society.
 And hence the reason, in my opinion, why, though men often extol so liberally the
@@ -8168,7 +8168,7 @@ The character of Alexander the Sixth, to be found in Guicciardin1 , is pretty si
 but juster; and is a proof that even the moderns, where they speak naturally, hold the
 same language with the ancients. In this pope, says he, there was a singular capacity
 and judgement: admirable prudence; a wonderful talent of persuasion; and in all
-momentous enterprizes a diligence and dexterity incredible. But these virtues were
+momentous enterprises a diligence and dexterity incredible. But these virtues were
 infinitely overbalanced by his vices; no faith, no religion, insatiable avarice,
 exorbitant ambition, and a more than barbarous cruelty.
 
@@ -8289,7 +8289,7 @@ obligations upon him, had even saved his life on a certain occasion, and had, by
 will, which was found after the murder, made him heir to a considerable part of his
 fortune. Alcheic, it seems, conspired with about twenty or thirty more, most of them
 also Usbek's friends; and falling all together on that unhappy man, when he was not
-aware, they had torne him with a hundred wounds; and given him that reward for his
+aware, they had torn him with a hundred wounds; and given him that reward for his
 past favours and obligations. Usbek, said the general voice of the people, had many
 great and good qualities: His very vices were shining, magnificent, and generous: But
 this action of Alcheic's sets him far above Usbek in the eyes of all judges of merit;
@@ -8541,7 +8541,7 @@ may observe, always values himself upon his courage, his sense of honour, his fi
 and friendship; qualities, which are here indeed very oddly directed, but which have
 been esteemed universally, since the foundation of the world.
 
-Have the gods forbid self-murder? An Athenian allows, that it ought to be forborn.
+Have the gods forbid self-murder? An Athenian allows, that it ought to be forborne.
 Has the Deity permitted it? A Frenchman allows, that death is preferable to pain and
 infamy.
 
@@ -8623,7 +8623,7 @@ required, it seems, an apology.
 
 When Demosthenes prosecuted his tutors, to make them refund his patrimony, it
 became necessary for him, in the course of the law-suit, to prove that the marriage of
-Aphobus's sister with Oneter was entirely fraudulent, and that, notwithstanding her
+Aphobus sister with Oneter was entirely fraudulent, and that, notwithstanding her
 sham marriage, she had lived with her brother at Athens for two years past, ever since
 her divorce from her former husband. And it is remarkable, that though these were
 people of the first fortune and distinction in the city, the orator could prove this fact
@@ -8756,7 +8756,7 @@ This book was writ by Mons. Montgeron, counsellor or judge of the parliament of
 Paris, a man of figure and character, who was also a martyr to the cause, and is now
 said to be somewhere in a dungeon on account of his book.
 
-There is another book in three volumes (called Recueil des Miracles de l'Abbé Paris)
+There is another book in three volumes (called Recueil des Miracles de l'Abbéé Paris)
 giving an account of many of these miracles, and accompanied with prefatory
 discourses, which are very well written. There runs, however, through the whole of
 these a ridiculous comparison between the miracles of our Saviour and those of the
@@ -8793,7 +8793,7 @@ the testimony, are almost sure to be confounded. It must be a miserable impostur
 indeed, that does not prevail in that contest.
 
 All who have been in France about that time have heard of the reputation of Mons.
-Heraut, the lieutenant de Police, whose vigilance, penetration, activity, and extensive
+Hérault, the lieutenant de Police, whose vigilance, penetration, activity, and extensive
 intelligence have been much talked of. This magistrate, who by the nature of his
 office is almost absolute, was vested with full powers, on purpose to suppress or
 
@@ -8822,7 +8822,7 @@ account for them. He did not throw down the walls of every city like those of Je
 on the sounding of the rams horns, nor break up the prison of every apostle, like that
 of St. Paul.
 
-No less a man, than the Duc de Chatillon, a duke and peer of France, of the highest
+No less a man, than the Duc de Châtillon, a duke and peer of France, of the highest
 rank and family, gives evidence of a miraculous cure, performed upon a servant of
 his, who had lived several years in his house with a visible and palpable infirmity.
 
@@ -8837,7 +8837,7 @@ as extraordinary capacity, is well known. The famous Racine gives an account of 
 miracle in his famous history of Port-Royal, and fortifies it with all the proofs, which
 a multitude of nuns, priests, physicians, and men of the world, all of them of
 undoubted credit, could bestow upon it. Several men of letters, particularly the bishop
-of Tournay, thought this miracle so certain, as to employ it in the refutation of atheists
+of Tournai, thought this miracle so certain, as to employ it in the refutation of atheists
 and free-thinkers. The queen-regent of France, who was extremely prejudiced against
 the Port-Royal, sent her own physician to examine the miracle, who returned an
 absolute convert. In short, the supernatural cure was so uncontestable, that it saved,
@@ -9091,7 +9091,7 @@ will itself is subject to nothing, because, when by a denial of it we are provok
 we feel, that it moves easily every way, and produces an image of itself (or a Velleïty,
 
 as it is called in the schools) even on that side, on which it did not settle. This image,
-or faint motion, we persuade ourselves, could, at that time, have been compleated into
+or faint motion, we persuade ourselves, could, at that time, have been completed into
 the thing itself; because, should that be denied, we find, upon a second trial, that, at
 present, it can. We consider not, that the fantastical desire of shewing liberty, is here
 the motive of our actions. And it seems certain, that, however we may imagine we
@@ -9694,8 +9694,8 @@ natis, antra habitare, corpore aut nudo agere, aut corticibus arborum ferarumve
 pellibus vestito, vitae genus exquisitius delegissent, industria opus fuit, quam singuli
 rebus singulis adhiberent: Quo minus autem fructus in commune conferrentur,
 primum obstitit locorum, in quae homines discesserunt, distantia, deinde justitiae et
-amoris defectus, per quem fiebat, ut nec in labore, nec in consumtione fructuum, quae
-debebat, aequalitas servaretur. Simul discimus, quomodo res in proprietatem iverint;
+amoris defectus, per quem fiebat, ut nec in labore, nec in consumption fructuum, quae
+debet, aequalitas servatur. Simul discimus, quomodo res in proprietatem iverint;
 non animi actu solo, neque enim scire alii poterant, quid alii suum esse vellent, ut eo
 abstinerent, et idem velle plures poterant; sed pacto quodam aut expresso, ut per
 divisionem, aut tacito, ut per occupationem.' De jure belli et pacis. Lib. ii. cap. 2. § 2.
@@ -9779,7 +9779,7 @@ connexions and turns of the imagination.
 indifferent, and may be either good or bad, according as it is well or ill founded, and
 according to the other circumstances which accompany it. The French express this
 sentiment by the term, amour propre, but as they also express self-love as well as
-vanity by the same term, there arises thence a great confusion in Rochefoucault, and
+vanity by the same term, there arises thence a great confusion in Rochefoucauld, and
 many of their moral writers.
 
 [1 ]Love and esteem are nearly the same passion, and arise from similar causes. The
@@ -9844,7 +9844,7 @@ recommended by The Whole Duty of Man.
 [2 ]Lib. xii.
 
 [3 ]Vid. Plato in Menone, Seneca de otio sap. cap. 31. So also Horace, Virtutem
-doctrina paret, naturane donet. Epist. lib. i. ep. 18. Æschines Socrations, Dial. 1.
+doctrina paret, naturane donet. Epist. lib. i. ep. 18. Æschines Socrates, Dial. 1.
 
 [1 ]The laws of Athens allowed a man to marry his sister by the father. Solon's law
 forbid paederasty to slaves, as being an act of too great dignity for such mean persons.

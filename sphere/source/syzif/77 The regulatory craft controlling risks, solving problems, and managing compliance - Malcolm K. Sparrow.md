@@ -175,7 +175,7 @@ the medicines in your bathroom cabinet. The pacemaker the surgeon
 installs in your chest was approved and tested by the Food and Drug
 Administration, along with the meat and milk and bread in your
 kitchen. You have to show proof that Johnny and Susie have been vaccinated for smallpox before they can enroll in a public school, which uses
-textbooks selected by a state regulatory board. On the schoolbus that
+textbooks selected by a state regulatory board. On the school bus that
 brings them home are placards and warnings mandated by regulators.
 The bus driver needs a special driver's license and has to attend a special
 training class. So does the crossing guard. Johnny's toys have passed rigorous safety testing. So has the mattress he sleeps on.
@@ -534,7 +534,7 @@ and Health Administration), Andrea Schneider (Pension Benefit Guaranty Corporati
 Remington (Delaware Division of Revenue, representing the Federation
 of Tax Administrators), Mark Smith, John Spinnello, and Bob Shinn
 (New Jersey Department of Environmental Protection, representing
-ECOS), Ellen Hennessy (formerly of the Pension Benefit Guaranty Corporation), and George Grob (Department of Health and Human Servives, Inspector General's Office).
+ECOS), Ellen Hennessy (formerly of the Pension Benefit Guaranty Corporation), and George Grob (Department of Health and Human Services, Inspector General's Office).
 
 I found these sessions illuminating, invigorating, and enormous fun.
 They substantially shaped the final product, made it somewhat longer
@@ -1443,7 +1443,7 @@ unambiguous recommendation. "It is perhaps a hateful thought to give
 government officials a measure of discretion, but that's the only way for
 them to do anything, and the only way for us to know who to blame."30
 A 1998 report from the Research and Policy Committee of the Committee for Economic Development (an industry group) apparently beats
-the same drum, recommending the use of markets first, command-andcontrol style regulations last, and rigorous cost-benefit analysis for proposed rules.31 But with respect to the behavior of regulators, and in contrast to Howard, it finds that "Congress far too often grants overly
+the same drum, recommending the use of markets first, command-and control style regulations last, and rigorous cost-benefit analysis for proposed rules.31 But with respect to the behavior of regulators, and in contrast to Howard, it finds that "Congress far too often grants overly
 broad authority to regulators because it cannot or will not resolve major
 conflicts over objectives in its legislation, leaving the resolution of such
 conflicts to the regulators. As a result, administrators have leeway to act
@@ -1470,7 +1470,7 @@ answer to the question "Why did you prosecute me?" is "Because you
 
 PRESSURES 27
 
-broke the law." If discretion is exercised mostly informally and by fieldlevel staff (and without ever being laid down in written policies), then
+broke the law." If discretion is exercised mostly informally and by field level staff (and without ever being laid down in written policies), then
 neither the agency nor its managers have to explain its use.
 
 But if regulatory executives acknowledge the routine, unavoidable,
@@ -1571,7 +1571,7 @@ they need frameworks that will enable them to see when pieces do not
 fit, when pieces overlap, and which pieces are still missing. As comprehensive as the list of nine ideas above (at the EPA) may at first seem, this
 entire collection of ideas offers the EPA little guidance on how to tackle
 emerging and significant environmental problems, unless those problems just happen to have a shape that conforms to a watershed area (the
-focus of ecosystem management) or a community (the focus of placebased management, the anthropocentric equivalent) or are specific to
+focus of ecosystem management) or a community (the focus of place-based management, the anthropocentric equivalent) or are specific to
 one of the six industries covered by the commonsense initiative.
 
 Private Sector Managerial Methods
@@ -1668,7 +1668,7 @@ government begins to prescribe the organizational culture and orientation that m
 with rules and procedures.
 
 Decentralized government could be translated as support for the
-notion that regulatory systems are more responsive (that is, less onesize-fits-all) when the locus of design and operation is moved to lower
+notion that regulatory systems are more responsive (that is, less one size-fits-all) when the locus of design and operation is moved to lower
 levels. Also, decentralized government coupled with catalytic government could be used to press regulators to negotiate more local agreements, both to be responsive to local needs and to mobilize a broader
 
 IDEAS 33
@@ -1766,7 +1766,7 @@ style would caution), the agency is compromised, neglects its original
 mission, and is unlikely to pursue enforcement actions when warranted.
 The danger of capture arises from a variety of factors. Shortages of
 
-resources may leave regulators outgunned by those they seek to regulate. Regulatory agencies may have trouble retaining sufficient, wellqualified staff. The revolving door may place friends and former colleagues on the other side of the fence. Industry may control essential
+resources may leave regulators outgunned by those they seek to regulate. Regulatory agencies may have trouble retaining sufficient, well qualified staff. The revolving door may place friends and former colleagues on the other side of the fence. Industry may control essential
 information and expertise. Commentators also list as a contributory factor for capture the "establishment of cooperative relationships for the
 solution of problems."11
 
@@ -2525,7 +2525,7 @@ and trends of noncompliance" and (2) "tailored strategies including
 maintaining accounts; educating, assisting, and informing; and the
 focused use of enforcement."5
 
-Early in the life of the Compliance 2000 strategy, a new executivelevel position was created, the Compliance 2000 Executive, to help
+Early in the life of the Compliance 2000 strategy, a new executive level position was created, the Compliance 2000 Executive, to help
 promulgate the vision, but the first piece of substantial organizational
 apparatus created toward implementation was essentially analytical.
 The thirty-three DORA (District Office of Research and Analysis) sites
@@ -2543,7 +2543,7 @@ a cure?
 
 By 1996, the IRS had replaced the EPA, OSHA, and the FDA as targets of choice for Republicans in Congress. In fact, here was one agency
 perceived as so unpopular that both political parties were eager to recommend reforms. Democrats and Republicans—now not quite so far
-apart in their ideas about regulatory reform—collaborated in a biparti­
+apart in their ideas about regulatory reform—collaborated in a bipartisan­
 
 CUSTOMER SERVICE 59
 
@@ -3022,7 +3022,7 @@ managerial tool kit was needed.
 Who could teach that mind-set? What were those tools? I suggested
 Herman Goldstein's Problem-Oriented Policing, a core text from the
 police profession, describing attempts to move beyond a preoccupation
-with process. Goldstein, a professor of law at the University of Wiscon­
+with process. Goldstein, a professor of law at the University of Wisconsin­
 
 72. THE CHALLENGES OF REGULATION
 
@@ -3339,7 +3339,7 @@ of regulatory
 
 craftsmanship
 
-plishment, particularly specific risks identified and reduced, seems to
+accomplishment, particularly specific risks identified and reduced, seems to
 run much more powerfully, outnumbering these others by a ratio of
 roughly five to one. Moreover, in contrast to the reinvention rhetoric,
 the vast majority of these programs contain not the slightest hint of
@@ -3458,7 +3458,7 @@ exhibits many elements of a problem-solving approach. It identifies an
 important concentration of risk through systematic data analysis and
 then focuses resources on those risks in an attempt to mitigate them.
 The significant concentration of risk (identified through data analysis of
-workdays-Iost-to-injury data) lay with just two hundred employers. This
+workdays-Lost-to-injury data) lay with just two hundred employers. This
 group represented 1 percent of Maine's employers but employed 30 percent of the state's work force and accounted for 44 percent of compensable workplace injuries, illnesses, and fatalities.
 
 Having identified the concentration of risk, OSHA designed a new
@@ -3499,7 +3499,7 @@ The Refugee Services of North Texas and the International Rescue Committee have 
 Jobs provided 2,500 jobs for unemployed U.S. workers in Texas. In
 March 1995 the INS expanded the scope of the project to eighteen
 states in INS's central region, making job placement referrals for 1,400
-U.S. citizens and legal residents w'ithin the first two weeks.
+U.S. citizens and legal residents within the first two weeks.
 
 7. City of New York, Department of Transportation: Red
 Light Camera Program (1995 finalist)
@@ -4000,7 +4000,7 @@ words, they think they have it already, a claim that always begs careful
 examination. Even the vocabulary with which to discuss this subject
 remains poorly formed. The Internal Revenue Service would call it compliance management. The police profession calls it problem solving. The
 Occupational Safety and Health Administration and the Customs Service
-have adopted or adapted the police profession's language of probem
+have adopted or adapted the police profession's language of problem
 solving. Customs calls its program Strategic Problem Solving. Environmental agencies (starting with the Florida Department of Environmental
 
 ELEMENTS OF REFORM IO3
@@ -4342,7 +4342,7 @@ New England region (EPA's Region 1) the Boston Globe in April 1996
 questioned that office's commitment to enforcement.3 Reporting a 59
 percent reduction in inspections and fines over the preceding six-month
 period, the Globe blamed the decision of the regional administrator
-John DeVillars to transfer staff from enforcement to new programs promoting voluntary environmental improvements. DeViilars responded—
+John DeVillars to transfer staff from enforcement to new programs promoting voluntary environmental improvements. DeVillars responded—
 as have so many other regulatory agency executives—that they had not
 backed off enforcement but had become more sophisticated in their
 choice of tools and more selective in targeting the worst offenders for
@@ -4569,7 +4569,7 @@ and over time. Hence their appeal—and the difficulty of displacing them.
 In 1995, when I visited a Customs Service port on the southern U.S.
 border, members of the staff informed me that their port topped the
 charts year after year in drug seizures and arrests and that no other port
-in the LTnited States even came close to their figures. As their guest, I felt
+in the United States even came close to their figures. As their guest, I felt
 constrained to congratulate them, but the question I wanted to ask was,
 Why do drug runners keep using your port? Presumably, the effective
 tax on the drug runners' business, represented by the probability of
@@ -4826,7 +4826,7 @@ to disguise or conceal it, and then drive up to the inspection booth at
 selected border crossing points. The driver would be uncooperative,
 essentially challenging the inspector. If the inspector asked for identification, or took too long, or asked to look in the trunk, or attempted to pull
 the vehicle over for secondary examination, the driver would accelerate
-away agressively, smashing other vehicles out of the way if necessary and
+away aggressively, smashing other vehicles out of the way if necessary and
 running down the inspector or anyone else foolish enough to get in the
 way—never mind the damage to the vehicle, the load was much more
 valuable. Port runners picked crossing points where, within half a mile of
@@ -4940,13 +4940,13 @@ handlers with drug-sniffing dogs) to work the queues in front of the
 inspection booths. The dogs could smell these huge drug loads across
 many lanes of traffic, enabling Customs Service officers to surround the
 vehicle while it was stuck in the queue. This approach, while more successful than anything else tried up to that point, suffered from being
-manpower (and dogpower) intensive and highly visible from the Mexican side. Also, the dog handlers were reluctant to make their dogs work
+manpower (and dog power) intensive and highly visible from the Mexican side. Also, the dog handlers were reluctant to make their dogs work
 for protracted periods during the heat of the day, when the road surface
 was scorching hot and the air choked with exhaust fumes.
 
 Eventually, and at about the fifth attempt, the team came up with a
 sustainable solution. They arranged Jersey barriers (concrete barriers
-used to protect highway construction sites) in a zigzig pattern behind, the
+used to protect highway construction sites) in a zigzag pattern behind, the
 ports. Once cleared at the primary inspection point, vehicles had to
 carefully maneuver left and right through a chicane of barriers before
 they could drive away. With barriers in this configuration, port runners
@@ -5484,14 +5484,14 @@ the largely police-specific literature on problem solving, relies upon relativel
 follows the same basic structure: identify the problem, design solutions,
 select one and implement it, monitor the effect.
 
-For example, Herb Appenzeller's volume, Risk Management in
+For example, Herb Appenzeller volume, Risk Management in
 Sport, considers a broad range of risks and risk management issues
 related to administration of college sports programs, including sudden
 death in competitive athletes, emergency medical preparedness, events
 crowd management, vehicle safety, blood-borne pathogens, defamation
 suits, and cheerleading. Despite the extraordinary range of risks consid­
 
-140 THE EMERGENCE OF REGE'LATORY CRAFTSMANSHIP
+140 THE EMERGENCE OF REGULATORY CRAFTSMANSHIP
 
 ered, Appenzeller confidently imports a generic risk management
 process consisting of five steps, which he asserts can properly be applied
@@ -5583,7 +5583,7 @@ in a few material points.10 The six stages are
 4. Develop solutions or interventions.
 5(a). Implement the plan, with
 5(b). Periodic monitoring, review, and adjustment.
-6. Close project, allowing for long-term monitoring and mainte­
+6. Close project, allowing for long-term monitoring and maintenance­
 
 nance.
 
@@ -6080,7 +6080,7 @@ Commission
 
 executives
 
-need apparatus for managing problem-solv­
+need apparatus for managing problem-solving­
 Whether
 ing or risk control operations depends on how they answer these questions: Is problem solving for individual employees or is it for the organization? Is it just a matter of personal style for regulators or is it a
 pattern of organizational behavior? A problem orientation can be
@@ -6140,7 +6140,7 @@ any of those that appear as finalists in the Innovations in American Government 
 
 PROBLEM-SOLVING INFRASTRUCTURE 157
 
-titution in San Francisco) fall somewhere below the realm of agencywide
+prostitution in San Francisco) fall somewhere below the realm of agencywide
 programs and above the realm of individual field-level initiative—in the
 awkward in-between realm where resources have to be allocated and
 plans approved or denied, but without accompanying changes in legislation, policy, or budgetary structure. That troublesome reality lands the
@@ -6340,7 +6340,7 @@ for practical resource allocation decisions than anything else. A problem-solvin
 respect to risk assessment and problem selection and not shy away from
 making these choices. Even if regulators take up this practical challenge,
 society might still pursue more exhaustive risk-based reassessments at
-the national level as a way of reordering its macrolevel regulatory prioril62 the emergence
+the national level as a way of reordering its macrolevel regulatory priorities62 the emergence
 
 ties. But we do not need to wait for such high-level changes, or rely
 upon them, in order to obtain more effective regulatory protection.
@@ -6402,7 +6402,7 @@ departure (for example, Colombia), and have it removed in the United
 States by dockyard or airport workers before the load clears customs
 examination. Miami Seaport had been plagued by ramp conspiracies for
 years, and more than half of the dockyard workers (members of the
-Longshoremen's Union) had criminal convictions, mostly for drugrelated offenses. During their period of duty at the Miami Seaport,
+Longshoremen's Union) had criminal convictions, mostly for drug-related offenses. During their period of duty at the Miami Seaport,
 dockyard workers were permitted to drive their private vehicles into the
 dock area and park them on the wharf, only yards from the ships and
 from shipping containers stacked on the dock.
@@ -6761,7 +6761,7 @@ of intergang rivalries, then the strategy should be designed to focus upon
 and take advantage of these concentrations. As project director David
 Kennedy puts it, the strategy was designed to take advantage of what is
 normally regarded as extremely bad news: the fact that the offenders
-were "persistent, manifoldly deviant, and tightly networked."4 Gang
+were "persistent, manifold deviant, and tightly networked."4 Gang
 members were relatively few, and news would travel fast throughout the
 gang networks. So the working group devised what came to be known
 as the Ceasefire strategy, which involved artfully crafting news that the
@@ -7102,7 +7102,7 @@ What I did not realize in 1994 was how quickly and easily rejection of
 reactive strategies leads to the decimation of reactive capabilities. The
 flawed logic that connects the two goes like this:
 
-We recognize the limitations of a reactive strategy, with its toolate, incident-specific, heavy-handed enforcement orientation. We
+We recognize the limitations of a reactive strategy, with its too late, incident-specific, heavy-handed enforcement orientation. We
 therefore replace the reactive strategy with a preventive strategy,
 moving resources from the back end to the front end, replacing
 investigators with educators and consultants to encourage and
@@ -7279,7 +7279,7 @@ preference for coercive interventions.12
 If the word control seems inappropriately coercive, perhaps risk
 reduction strategy or harm reduction strategy will do instead. Whatever
 we choose to call it, a control strategy leaves wide open the analytic
-questions of how to divide big risks, so they can be conquered. Chronol­
+questions of how to divide big risks, so they can be conquered. Chronology­
 
 l88 THE EMERGENCE OF REGULATORY CRAFTSMANSHIP
 
@@ -7390,7 +7390,7 @@ no trouble translating to their own field:
 Choosing investments in health is more difficult than some of the
 claims for prevention would suggest. Sometimes prevention buys
 
-STRATEGIES REACTIVE, PREVENTIVE, PROACTIv
+STRATEGIES REACTIVE, PREVENTIVE, PROACTIVE
 
 more health for the money; sometimes cure does. And indeed,
 since the choice must usually include some of both, the issue most
@@ -7432,7 +7432,7 @@ world as it presents itself rather than determining how it really is. It
 relates to the idea that purely reactive strategies focus on the incidents
 that present themselves and assume the contents of the agency's collective in-baskets to represent all the important problems.
 
-According to Chamber's Twentieth Century Dictionary, to be proactive means to act "forward or forth or publicly." Risk control, done
+According to Chambers Twentieth Century Dictionary, to be proactive means to act "forward or forth or publicly." Risk control, done
 well, will require regulators to become consciously and deliberately
 proactive in a number of senses, as follows.
 
@@ -7615,7 +7615,7 @@ taxpayers and the causes of noncompliance in nontraditional
 ways, to help identify ways to foster improved compliance with
 less effort than through traditional enforcement mechanisms. Once
 such an "alternative strategy" is fully tested, we will incorporate it
-into the model to compete for resources on a marginal revenue-tocost basis.
+into the model to compete for resources on a marginal revenue-to cost basis.
 
 7 he fact that alternative strategies may have been designed for specific
 problem areas and may not work for others gets lost in this calculus.
@@ -7917,7 +7917,7 @@ Risk Control Challenge
 
 1998, at the Florida Department of Environmental Pro­
 In September
-tection's annual Compliance Conference, I participated in a session to
+Protection's annual Compliance Conference, I participated in a session to
 review and assess the status of the department's environmental problemsolving program. In the room for that discussion, among others, were
 the majority of the department's internal problem-solving consultants, a
 group of young, energetic, and analytically minded staff from across the
@@ -8142,7 +8142,7 @@ thousand companies—far too many to handle in the same kind of part­
 
 CENTRALITY OF RISK CONTROL 21 3
 
-nership arrangements as in Maine. In other words, the same risk concentration did not exist elsewhere, and so the same program would not
+partnership arrangements as in Maine. In other words, the same risk concentration did not exist elsewhere, and so the same program would not
 work elsewhere. The complaints, "That wouldn't work here," heard
 from around the country, were in many regards justified.
 
@@ -8306,7 +8306,7 @@ None of that is intended as criticism. The point is, the Compstat system
 is quite particular in many ways in which a problem-solving strategy is
 quite general.
 
-Particular, also, was the city of Minneapolis's Repeat Call Address
+Particular, also, was the city of Minneapolis Repeat Call Address
 Policing Unit (RECAP) program in focusing on repeat-call addresses.
 Particular, also, are the forms of analysis conducted by the Consumer
 Product Safety Commission (focusing on products) and the methods it
@@ -8461,7 +8461,7 @@ leverage are often the least obvious. . . .
 Tackling a difficult problem is often a matter of seeing where the
 high leverage lies, a change which—with a minimum of effort—
 would lead to lasting, significant improvement. The only problem
-is that high-leverage changes are usually nonohvious to most participants in the system. .. . This is what makes life interesting.19
+is that high-leverage changes are usually non-obvious to most participants in the system. .. . This is what makes life interesting.19
 
 In the early 1990s the Australian Tax Office established a matrix
 
@@ -9040,7 +9040,7 @@ Managing Discretion
 
 to regulatory unreasonableness is to give regu­
 Some say the answer
-lators more discretion. Others say the regulators themselves are the problem and that the solution is to take away their discretion by exerting
+regulators more discretion. Others say the regulators themselves are the problem and that the solution is to take away their discretion by exerting
 tighter legislative control. The dilemma is familiar and ages old. Too little
 discretion produces legalistic, nitpicky behavior and denies regulators the
 means to tailor their responses to local or particular circumstances. Too
@@ -9208,7 +9208,7 @@ would it provide any basis for determining whether the Australian Seen-
 
 MANAGING DISCRETION 2.43
 
-rities and Investments Commission acted reasonably when its staff constructed a bogus Internet investment site, as a method of identifying and
+authorities and Investments Commission acted reasonably when its staff constructed a bogus Internet investment site, as a method of identifying and
 then educating gullible investors, and convinced 233 people to part with
 $4 million over the Internet.7
 
@@ -9393,7 +9393,7 @@ national initiatives (even national problem-solving initiatives) would
 swallow up all available local resources and squeeze out local problem
 solving. They worried particularly that problem solving at the national
 level, if conducted without due regard for methodological rigor, might
-produce action plans highly consumptive of resources (resource ineffi­
+produce action plans highly consumptive of resources (resource inefficient­
 
 2.48 THE ELUSIVE ART OF RISK CONTROL
 
@@ -9517,7 +9517,7 @@ Responsiveness versus Consistency
 
 And as you carefully pick and choose what to do and how to do it, reconcile your pursuit of effectiveness with the values of justice and equity.
 Risk control effectiveness may conflict with the values of equity and
-consistency. The Massachusetts commissioner of revenue's "go find me
+consistency. The Massachusetts commissioner of revenue "go find me
 a yacht" seems unfair from the point of view of the hapless victim. Yes
 the deadbeat dad had been delinquent, and the agency acted within its
 rights with respect to that delinquency. But many others dads, equally
@@ -9859,7 +9859,7 @@ mobilize media and public opinion against violators, thus pushing
 retailers into monitoring compliance among their own suppliers and
 contractors.
 
-Marine Safety in Commercial Shipping. The U.S. Coastguard's Office
+Marine Safety in Commercial Shipping. The U.S. Coast Guard's Office
 of Marine Safety, Security, and Environmental Protection disaggregated
 statistical data relating to worker fatalities in commercial shipping.4
 Although the raw numbers were not high, fatality rates were particularly high for commercial towing operations. The office shared this data
@@ -9871,7 +9871,7 @@ falling overboard. The standard form of towboat inspections did not
 INTELLIGENCE AND ANALYSIS 259
 
 address that particular problem. The Office of Marine Safety subsequently formed a partnership with the towing industry to find targeted
-solutions (mostly nonregulatory in nature) for this problem. Fatality
+solutions (mostly non-regulatory in nature) for this problem. Fatality
 rates dropped from 77 per 100,000 workers in 1992 to 27 per 100,000
 in 1995.
 
@@ -10246,7 +10246,7 @@ focus almost exclusively on criminal organizations, aiming to incapacitate them 
 criminal organizations than enforcement agencies could ever hope to
 close down). Some focus on spatial (hot spot) analysis to the virtual
 exclusion of all other methods. Some do industry segmentation, equating that with risk analysis or problem solving. These agencies need to
-spread their analytic wings and produce much greater analytic versatil­
+spread their analytic wings and produce much greater analytic versatility­
 
 INTELLIGENCE AND ANALYSIS 269
 
@@ -10548,7 +10548,7 @@ the control task into specific, actionable projects so that each could be
 assigned and have a clear purpose and progression. The reason why this
 disaggregation turns out to be particularly difficult is because it has to
 be done way back in the chronology of a terrorist incident—long before
-an "event" takes place, long before an event is even imminent or proxi­
+an "event" takes place, long before an event is even imminent or proximity­
 
 INTELLIGENCE AND ANALYSIS 277
 
@@ -10990,7 +10990,7 @@ presents substantial challenges. Compliance, as determined by a facility
 inspection, might only signify compliance during the short period that
 an inspector is on the site. Many facilities are inspected infrequently, or
 never. Some forms of noncompliance are more observable than others.
-Some inspectors are more likely to find violations than others. And selfreported compliance rates are inevitably biased, with the extent of the
+Some inspectors are more likely to find violations than others. And self-reported compliance rates are inevitably biased, with the extent of the
 bias dependent on the level of investment in verification.
 
 2£O DEMONSTRATING RESULTS
@@ -11411,7 +11411,7 @@ The first Executive Focus Area Review Board meeting, held under the
 new rules, convened in Tallahassee on May 7, 1999. Three new focus
 areas were on the agenda, identified by the senior management team
 from data contained in the latest edition of the SQPR. The first related
-to air quality exceedancies and potential nonattainment in Escambia
+to air quality exceedances and potential nonattainment in Escambia
 and Santa Rosa counties. The board decided this problem was not suitable for an agency problem-solving project because the problem went
 beyond these two counties, and federally prescribed efforts to address it
 were about to begin.
@@ -11978,7 +11978,7 @@ Law Review, vol. 49, no. 4 (1997), p. 721.
 Lessons and Prospects," OECD Proceedings: Regulatory Reform and International Market Openness (Paris: OECD, 1996).
 
 13. Clifford and Braithwaite, Cost-Effective Business Regulation, p. 6.
-14. Philip K. Howard, The Death of Common Sense: How Law Is Suffocat­
+14. Philip K. Howard, The Death of Common Sense: How Law Is Suffocating­
 
 ing America (Random House, 1994), p. 11.
 
@@ -12668,7 +12668,7 @@ and Environmental Protection, April 1996), p. 8.
 
 16. Ronald V. Clarke, quoted in Gordon Hughes, Understanding Crime Pre­
 
-vention (Philadephia: Open University Press, 1998), p. 60.
+vention (Philadelphia: Open University Press, 1998), p. 60.
 
 17. Ronald V. Clarke, "Situational Crime Prevention," in Michael Tonry and
 David Farrington, eds., Building a Safer Society: Strategic Approaches to Crime
@@ -12694,7 +12694,7 @@ Kennedy School of Government, case program, 1990).
 2. On the problem of fear, see Mark H. Moore and Darrel W. Stephens,
 Beyond Command and Control: The Strategic Management of Police Departments (Washington, D.C.: Police Executive Research Forum, 1991), p. 8.
 
-3. Mike Lane, "Funding of Strategic Problem Solving Initiatives," memoran­
+3. Mike Lane, "Funding of Strategic Problem Solving Initiatives," memorandum­
 
 dum (Customs Service, June 11, 1996).
 

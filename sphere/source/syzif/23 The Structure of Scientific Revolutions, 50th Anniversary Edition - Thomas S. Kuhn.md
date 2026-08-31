@@ -354,7 +354,7 @@ Normal Science and Puzzle-Solving (§§ II–IV)
 Kuhn's thoughts were really quite shocking. Normal science is, he taught,
 just working away at a few puzzles that are left open in a current field of
 knowledge. Puzzle-solving makes us think of crossword puzzles, jigsaw
-puzzles, and sudoko, pleasant ways to keep busy when one is not up to
+puzzles, and sudoku, pleasant ways to keep busy when one is not up to
 useful work. Is normal science like that?
 
 A lot of scientific readers were a bit shocked, but then had to admit that
@@ -1051,7 +1051,7 @@ Notice that there is no sociology in the book. Scientific communities and
 their practices are, however, at its core, entering with paradigms, as we saw,
 at page 10 and continuing to the final page of the book. There had been
 sociology of scientific knowledge before Kuhn, but after Structure it
-burgeoned, leading to what is now called science studies. This is a selfgenerating field (with, of course, its own journals and societies) that
+burgeoned, leading to what is now called science studies. This is a self-generating field (with, of course, its own journals and societies) that
 includes some work in the history and the philosophy of sciences and
 technology, but whose emphasis is on sociological approaches of various
 kinds, some observational, some theoretical. Much, and perhaps most, of
@@ -3345,7 +3345,7 @@ considerable resistance to paradigm change. The science has become
 increasingly rigid. On the other hand, within those areas to which the
 paradigm directs the attention of the group, normal science leads to a detail
 of information and to a precision of the observation-theory match that could
-be achieved in no other way. Furthermore, that detail and precision-ofmatch have a value that transcends their not always very high intrinsic
+be achieved in no other way. Furthermore, that detail and precision-of match have a value that transcends their not always very high intrinsic
 interest. Without the special apparatus that is constructed mainly for
 anticipated functions, the results that lead ultimately to novelty could not
 occur. And even when the apparatus exists, novelty ordinarily emerges only
@@ -4164,7 +4164,7 @@ not have done so. We are about to discover that a similar circularity is
 
 characteristic of scientific theories. Bothersome or not, however, that
 circularity is no longer unqualified. This section of the essay and the two
-preceding have educed numerous criteria of a breakdown in normal
+preceding have reduced numerous criteria of a breakdown in normal
 scientific activity, criteria that do not at all depend upon whether breakdown
 is succeeded by revolution. Confronted with anomaly or with crisis,
 scientists take a different attitude toward existing paradigms, and the nature
@@ -4880,7 +4880,7 @@ one suspect that something like a paradigm is prerequisite to perception
 itself. What a man sees depends both upon what he looks at and also upon
 what his previous visual-conceptual experience has taught him to see. In the
 absence of such training there can only be, in William James's phrase, "a
-bloomin' buzzin' confusion."
+blooming' buzzing' confusion."
 
 In recent years several of those concerned with the history of science
 have found the sorts of experiments described above immensely suggestive.
@@ -5185,7 +5185,7 @@ before last—can only articulate a paradigm, not correct it. Paradigms are
 not corrigible by normal science at all. Instead, as we have already seen,
 normal science ultimately leads only to the recognition of anomalies and to
 crises. And these are terminated, not by deliberation and interpretation, but
-by a relatively sudden and unstructured event like the gesalt switch.
+by a relatively sudden and unstructured event like the gestalt switch.
 Scientists then often speak of the "scales falling from the eyes" or of the
 "lightning flash" that "inundates" a previously obscure puzzle, enabling its
 components to be seen in a new way that for the first time permits its
@@ -5247,7 +5247,7 @@ impetus paradigm, however, and partly through a doctrine known as the
 latitude of forms, scholastic criticism changed this way of viewing motion.
 A stone moved by impetus gained more and more of it while receding from
 its starting point; distance from rather than distance to therefore became the
-revelant parameter. In addition, Aristotle's notion of speed was bifurcated
+relevant parameter. In addition, Aristotle's notion of speed was bifurcated
 by the scholastics into concepts that soon after Galileo became our average
 speed and instantaneous speed. But when seen through the paradigm of
 which these conceptions were a part, the falling stone, like the pendulum,
@@ -5932,7 +5932,7 @@ surely occurs, does not happen with, or simply because of, the emergence of
 an anomaly or falsifying instance. Instead, it is a subsequent and separate
 process that might equally well be called verification since it consists in the
 triumph of a new paradigm over the old one. Furthermore, it is in that joint
-verification-falsification process that the probabilist's comparison of
+verification-falsification process that the probabilist comparison of
 
 theories plays a central role. Such a two-stage formulation has, I think, the
 virtue of great verisimilitude, and it may also enable us to begin explicating
@@ -6234,7 +6234,7 @@ very different. Usually the opponents of a new paradigm can legitimately
 claim that even in the area of crisis it is little superior to its traditional rival.
 Of course, it handles some problems better, has disclosed some new
 regularities. But the older paradigm can presumably be articulated to meet
-these challenges as it has met others before. Both Tycho Brahe's earthcentered astronomical system and the later versions of the phlogiston theory
+these challenges as it has met others before. Both Tycho Brahe's earth-centered astronomical system and the later versions of the phlogiston theory
 were responses to challenges posed by a new candidate for paradigm, and
 both were quite successful.15 In addition, the defenders of traditional theory
 and procedure can almost always point to problems that its new rival has
@@ -7279,7 +7279,7 @@ the symbolic generalization
 In practice, though this aspect of the situation is seldom or never noted,
 what students have to learn is even more complex than that. It is not quite
 the case that logical and mathematical manipulation are applied directly to f
-= ma. That expression proves on examination to be a law-sketch or a lawschema. As the student or the practicing scientist moves from one problem
+= ma. That expression proves on examination to be a law-sketch or a law-schema. As the student or the practicing scientist moves from one problem
 to which such
 situation
 manipulations apply changes. For the case of free fall, f = ma becomes mg =
@@ -7385,7 +7385,7 @@ of it should make my most essential point. When I speak of knowledge
 embedded in shared exemplars, I am not referring to a mode of knowing
 that is less systematic or less analyzable than knowledge embedded in rules,
 laws, or criteria of identification. Instead I have in mind a manner of
-knowing which is miscontrued if reconstructed in terms of rules that are
+knowing which is misconstrued if reconstructed in terms of rules that are
 first abstracted from exemplars and thereafter function in their stead. Or, to
 put the same point differently, when I speak of acquiring from exemplars
 the ability to recognize a given situation as like some and unlike others that
@@ -7607,7 +7607,7 @@ Only philosophers have seriously misconstrued the intent of these parts of
 my argument. A number of them, however, have reported that I believe the
 following:16
 theories cannot
-communicate with each other at all; as a result, in a debate over theorychoice there can be no recourse to good reasons; instead theory must be
+communicate with each other at all; as a result, in a debate over theory-choice there can be no recourse to good reasons; instead theory must be
 chosen for reasons that are ultimately personal and subjective; some sort of
 mystical apperception is responsible for the decision actually reached. More
 than any other parts of the book, the passages on which these
@@ -7878,7 +7878,7 @@ application to whole theories, but this one will not do. There is, I think, no
 theory-independent way to reconstruct phrases like 'really there'; the notion
 of a match between the ontology of a theory and its "real" counterpart in
 nature now seems to me illusive in principle. Besides, as a historian, I am
-impressed with the implausability of the view. I do not doubt, for example,
+impressed with the implausibility of the view. I do not doubt, for example,
 that Newton's mechanics improves on Aristotle's and that Einstein's
 improves on Newton's as instruments for puzzle-solving. But I can see in
 their succession no coherent direction of ontological development. On the
@@ -8130,7 +8130,7 @@ published in 1935 an analysis of science perhaps more radical than Kuhn's. Genes
 Development of a Scientific Fact, trans. Fred Bradley and Thaddeus J. Trenn (Chicago, IL:
 University of Chicago Press, 1979). The German subtitle has been omitted from the English
 translation: "Introduction to the Theory of the Thought-Style and the Thought-Collective." Kuhn's
-scientific community matches Fleck's notion of a "thought-collective," characterized by a "thoughtstyle," which many readers now see as analogous to a paradigm. Kuhn acknowledged that Fleck's
+scientific community matches Fleck's notion of a "thought-collective," characterized by a "thought style," which many readers now see as analogous to a paradigm. Kuhn acknowledged that Fleck's
 essay "anticipated many of my own ideas" (Structure, xli). Kuhn was instrumental in finally getting
 the book translated into English. Late in life he said he was put off by Fleck's writing in terms of
 "thoughts," internal to the mind of an individual rather than communal ("Discussion with Thomas S.
@@ -8185,8 +8185,8 @@ Preface
 
 Meyerson, Identity and Reality, trans. Kate Loewenberg (New York, 1930); Hélène Metzger, Les
 doctrines chimiques en France du début du XVIIe à la fin du XVIIIe siècle (Paris, 1923), and Newton,
-Stahl, Boerhaave et la doctrine chimique (Paris, 1930); and Anneliese Maier, Die Vorläufer Galileis
-im 14. Jahrhundert ("Studien zur Naturphilo-sophie der Spätscholastik"; Rome, 1949).
+Stahl, Boerhaave et la doctrine chimique (Paris, 1930); and Anneliese Maier, Die Vorläufer Galilei
+im 14. Jahrhundert ("Studien zur Naturphilosophie-sophie der SpäSpätscholastik"; Rome, 1949).
 
 2. Because they displayed concepts and processes that also emerge directly from the history of
 science, two sets of Piaget's investigations proved particularly important: The Child's Conception of
@@ -8272,7 +8272,7 @@ detectors, the first reliable and generally diffused techniques for measuring ch
 the concept of capacity and its relation to a newly refined notion of electric tension, and the
 quantification of electrostatic force. On all of these see Roller and Roller, op. cit., pp. 66–81; W. C.
 Walker, "The Detection and Estimation of Electric Charges in the Eighteenth Century," Annals of
-Science, I (1936), 66–100; and Edmund Hoppe, Geschichte der Elektrizität (Leipzig, 1884), Part I,
+Science, I (1936), 66–100; and Edmund Hoppe, Geschichte der Elektrizitätät (Leipzig, 1884), Part I,
 chaps. iii–iv.
 
 III. The Nature of Normal Science
@@ -8297,7 +8297,7 @@ the NASA Conference on Experimental Tests of Theories of Relativity," Physics To
 Philosophy in the Eighteenth Century (2d ed.; London, 1952), pp. 103–5. For the Atwood machine,
 see N. R. Hanson, Patterns of Discovery (Cambridge, 1958), pp. 100–102, 207–8. For the last two
 pieces of special apparatus, see M. L. Foucault, "Méthode générale pour mesurer la vitesse de la
-lumière dans l'air et les milieux transparants. Vitesses relatives de la lumière dans l'air et dans l'eau
+lumière dans l'air et les milieux transparents. Vitesses relatives de la lumière dans l'air et dans l'eau
 . . . ," Comptes rendus . . . de l'Académie des sciences, XXX (1850), 551–60; and C. L. Cowan, Jr.,
 et al., "Detection of the Free Neutrino: A Confirmation," Science, CXXIV (1956), 103–4.
 

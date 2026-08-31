@@ -174,7 +174,7 @@ still feel for their public shame. But our worst enemy was the police, who would
 swoop down on us as we played stickball in the streets (with a broomstick bat and
 Spalding rubber ball). Without offering any reason, they would confiscate our
 stickball bats and force us to stop playing in the street. Since there was not a play
-ground within a mile of where we lived, streets were all we had, and there was litxii
+ground within a mile of where we lived, streets were all we had, and there was little
 
 tle danger posed to citizens by our pink rubber ball. I recall a time when we hid the
 bats as the police approached, but the cops singled me out to spill the beans as to
@@ -484,7 +484,7 @@ Adam and Eve to disobey God and be led into evil, God decrees that they will in
 The Lucifer Effect
 
 time be saved. However, for the rest of time, Satan will be allowed to slither
-around that injunction, enlisting witches to tempt people to evil. Satan's interme
+around that injunction, enlisting witches to tempt people to evil. Satan's intermediaries
 diaries would thereafter become the target of zealous inquisitors who want to rid
 the world of evil, but their horrific methods would breed a new form of systemic
 evil the world had never before known.
@@ -537,7 +537,7 @@ our kind. Professor of religious studies David Frankfurter concludes his search 
 Evil Incarnate by focusing on the social construction of this evil other.
 
 [T]he construction of the social Other as cannibal-savage, demon, sor
-cerer, vampire, or an amalgam of them all, draws upon a consistent reper
+cerer, vampire, or an amalgam of them all, draws upon a consistent repertoire
 toire of symbols of inversion. The stories we tell about people out on the
 periphery play with their savagery, libertine customs, and monstrosity.
 At the same time, the combined horror and pleasure we derive from con
@@ -866,7 +866,7 @@ mander of the Greek forces, tells his men before they engage their enemy, "We ar
 not going to leave a single one of [the Trojans] alive, down to the babies in their
 mothers' wombs—not even they must live. The whole people must be wiped out of
 existence ..." These vile words come from a noble citizen of one of the most civi
-lized nation-states of its time, the home of philosophy, jurisprudence, and classi
+lized nation-states of its time, the home of philosophy, jurisprudence, and classical
 cal drama.
 
 We live in the "mass murder century." More than 50 million people have
@@ -883,7 +883,7 @@ Iraq. In 2006, genocide has erupted in Sudan's Darfur region, which most of the
 world has conveniently ignored.12
 
 Note that almost exactly the same words that Agamemnon used three mil
-lennia ago were also spoken in our own time, in the African nation of Rwanda, as
+millennia ago were also spoken in our own time, in the African nation of Rwanda, as
 the ruling Hutus were in the process of wiping out their former neighbors, the
 Tutsi minority. One victim recalls what one of her tormentors told her: "We're
 going to kill all the Tutsi, and one day Hutu children will have to ask what a Tutsi
@@ -959,7 +959,7 @@ with spears, gun barrels, bottles or the stamens of banana trees. Sexual organs
 were mutilated with machetes, boiling water and acid; women's breasts were cut
 off" (p. 85). "Making the matter worse, the rapes, most of them committed by
 many men in succession, were frequently accompanied by other forms of physical
-torture and often staged as public performances to multiply the terror and degra
+torture and often staged as public performances to multiply the terror and degradation
 dation" (p. 89). They were also used as a public way of promoting social bonding
 among the Hutu murderers. This shared emergent camaraderie is often a by
 product of male group rape.
@@ -999,7 +999,7 @@ the canvas.
 
 As unimaginable as it may be to any of us for someone to intentionally in
 spire such monstrous crimes, Nicole Bergevin, Pauline's lawyer in her genocide
-trial, reminds us, "When you do murder trials, you realize that we are all suscep
+trial, reminds us, "When you do murder trials, you realize that we are all susceptible
 tible, and you wouldn't even dream you would ever commit this act. But you come
 
 to understand that everyone is [susceptible]. It could happen to me, it could hap
@@ -1044,7 +1044,7 @@ being accused of complicity."
 
 "We killed everyone we tracked down [hiding] in the papyrus. We had no rea
 son to choose, to expect or fear anyone in particular. We were cutters of ac
-quaintances, cutters of neighbors, just plan cutters."
+acquaintances, cutters of neighbors, just plan cutters."
 
 "Our Tutsi neighbors, we knew they were not guilty of no misdoing, but
 we thought all Tutsis at fault for our constant troubles. We no longer looked
@@ -1104,7 +1104,7 @@ stroy innocent civilian "enemy non-combatants." However, were it a singular in
 cident and not just another part of the historical tapestry of such inhumanities
 against civilians we might think it an anomaly. British troops executed and raped
 civilians during the U.S. Revolutionary War. Soviet Red Army soldiers raped an es
-timated 100,000 Berlin women toward the end of Word War II and between
+estimated 100,000 Berlin women toward the end of Word War II and between
 1945 and 1948. In addition to the rapes and murders of more than 500 civilians
 at the My Lai massacre in 1968, recently released secret Pentagon evidence de
 scribes 320 incidents of American atrocities against Vietnamese and Cambodian
@@ -1212,7 +1212,7 @@ of the greater damage they would surely have done to the credibility and moral
 image of the U.S. military and President Bush's administrative command. I have
 seen hundreds of these images, and they are indeed horrifying.
 
-I was deeply distressed at the sight of such suffering, of such displays of arro
+I was deeply distressed at the sight of such suffering, of such displays of arrogance
 gance, of such indifference to the humiliation being inflicted upon helpless pris
 oners. I was also amazed to learn that one of the abusers, a female soldier who
 had just turned twenty-one, described the abuse as "just fun and games."
@@ -1249,7 +1249,7 @@ abuses to flourish. As the project's principal investigator, I designed the expe
 ment that randomly assigned normal, healthy, intelligent college students to
 enact the roles of either guards or prisoners in a realistically simulated prison set
 ting where they were to live and work for several weeks. My student research as
-sociates, Craig Haney, Curt Banks, and David Jaffe, and I wanted to understand
+associates, Craig Haney, Curt Banks, and David Jaffe, and I wanted to understand
 some of the dynamics operating in the psychology of imprisonment.
 
 How do ordinary people adapt to such an institutional setting? How do the
@@ -1375,7 +1375,7 @@ about to go on trial with his "Soledad Brothers" for the alleged murder of a pri
 guard. The women's liberation movement is picking up steam, dedicated to end
 ing women's secondary citizenship and fostering new opportunities for them. The
 unpopular war in Vietnam drags on as body counts soar daily. That tragedy wors
-ens as the Nixon-Kissinger administration reacts to antiwar activists with evergreater bombings in reaction to the mass demonstrations against the war. The
+ens as the Nixon-Kissinger administration reacts to antiwar activists with ever greater bombings in reaction to the mass demonstrations against the war. The
 "military-industrial complex" is the enemy of this new generation of people, who
 openly question its aggressive-commercial-exploitation values. For anyone who
 likes to live in a truly dynamic era, this Zeitgeist is unlike any in recent history.
@@ -1405,7 +1405,7 @@ vandals appeared and began stripping the car—Dad barking orders for Mom to
 empty the trunk and the son to check out the glove compartment while he re
 moved the battery. Passersby, walking and driving, stopped to strip our helpless
 car of any and all items of value before the demolition derby began. This episode
-was followed by a parade of vandals who systematically stripped and then demol
+was followed by a parade of vandals who systematically stripped and then demolished
 ished that vulnerable New York City car.
 
 Time magazine carried this sad tale of urban anonymity at work under the
@@ -1549,7 +1549,7 @@ volunteered to assist in my prison study in whatever other way feasible.
 I suggested that the ideal way to start the study most realistically and with
 dramatic flair would be for his officers to stage arrests of the would-be mock pris
 oners. It would take only a few hours on an off-time Sunday morning, and it
-would surely make a big difference in the success of the research if the prisonersto-be had their freedom suddenly stripped away as they would in real arrests,
+would surely make a big difference in the success of the research if the prisoners-to-be had their freedom suddenly stripped away as they would in real arrests,
 rather than coming to Stanford voluntarily to surrender their freedom as re
 search subjects. The chief acquiesced halfheartedly and promised that the duty
 sergeant would assign one squad car for this purpose on Sunday morning.
@@ -1564,7 +1564,7 @@ was already away for the weekend. Bad omen.
 
 As I expected, on Sunday the duty sergeant had no intention of committing
 the Palo Alto Police Department to a surprise mass arrest of a band of college stu
-dents for alleged penal code violations, certainly not without written authoriza
+dents for alleged penal code violations, certainly not without written authorization
 tion from his chief. No way this old-timer was going to get involved in any
 experiment conducted by someone like me, whom his vice president, Spiro
 Agnew, had dismissed as an "effete intellectual snob." There were obviously more
@@ -1665,7 +1665,7 @@ new; this unit was just constructed within the main Palo Alto City office center
 short distance but a far cry from the old jail, which had become run down, not
 from overuse but just old age. I wanted the officers and the cameraman to stay in
 volved in the proceedings from the first arrest to the last to keep the arrests as stan
-dardized as possible. I had debriefed the TV man earlier about the purpose of the
+standardized as possible. I had debriefed the TV man earlier about the purpose of the
 study but done so in a cursory manner because my concern had been winning
 over the anticipated resistance of the duty sergeant. It occurred to me that I should
 lay out for all of them some of the procedural details of the study as well as some
@@ -1692,7 +1692,7 @@ I had told your chief."
 "As I was saying, the nine students you are about to arrest were part of a
 large group of about a hundred men who answered our ads in the Palo Alto Times
 and The Stanford Daily. We screened out the obvious weirdos, the ones with prior
-arrests of any kind, and any with medical or mental problems. After an hourlong
+arrests of any kind, and any with medical or mental problems. After an hour-long
 psychological assessment and in-depth interviews by my assistants, Craig Haney
 and Curt Banks, we selected twenty-four of these volunteers to be our research
 subjects."
@@ -1735,7 +1735,7 @@ feel like it was their place. Each of them picked out a uniform at the local Arm
 surplus store, and they are waiting now for the action to begin."
 
 "Did they get any training to be guards?"
-"Wish I had the time to do that, but all we did was give them a brief orienta
+"Wish I had the time to do that, but all we did was give them a brief orientation
 tion yesterday; no specific training in how to act their new role. The main thing is
 for them to maintain law and order, no violence against prisoners, and not allow
 any escapes. I also tried to convey to them the kind of psychological mind-set of
@@ -1766,7 +1766,7 @@ person undergo in the process of adapting to that new role? Is it possible in th
 short time of only a few weeks to take on a new identity that is different from one's
 usual self?
 
-"There have been studies of actual prison life by sociologists and criminolo
+"There have been studies of actual prison life by sociologists and criminologists
 gists, but they suffer from some serious drawbacks. Those researchers are never
 free to observe all phases of prison life. Their observations are usually limited in
 scope, without much direct access to prisoners and even less to the guards. Since
@@ -1978,7 +1978,7 @@ trol. The subject is on the researcher's turf. It's as the police interrogation 
 caution: "Never interrogate suspects or witnesses in their homes; bring them to the
 station, where you can capitalize on the unfamiliarity, seize on the lack of social
 supports, and in addition, you need not worry about unplanned interruptions."
-I tried gently to urge the policeman to move a bit faster, but Bill kept intrud
+I tried gently to urge the policeman to move a bit faster, but Bill kept intruding
 ing with requests for one more shot, one more angle. Joe was blindfolding Hubbie.
 Form C11-6, Bureau of Criminal Identification and Investigation, had been com
 pleted with the required information and full set of fingerprints, with only the
@@ -2155,7 +2155,7 @@ of the prisoners' genitals, remarking on their small penis size or laughing at t
 unevenly hanging testicles. Such a guy thing!
 
 Still blindfolded, each prisoner is then given his uniform, nothing fancy, just
-a smock, like a tan muslin dress, with numbers on front and back for identifica
+a smock, like a tan muslin dress, with numbers on front and back for identification
 tion. The numbers have been sewn on from sets we bought from a Boy Scout sup
 ply store. A woman's nylon stocking serves as a cap covering the long hair of
 many of these prisoners. It is a substitute for the head shaving that is part of the
@@ -2188,7 +2188,7 @@ prisoners by number and by number only. Address guards as 'Mr. Correctional
 Officer.' "
 
 As more prisoners are brought into the Yard, they are similarly deloused,
-outfitted, and made to join their fellows standing against the wall for indoctrina
+outfitted, and made to join their fellows standing against the wall for indoctrination
 tion. The guards are trying to be very serious. "Some of you prisoners already
 know the rules, but others of you have shown you don't know how to act, so you
 need to learn them." Each rule is read slowly, seriously, and authoritatively. The
@@ -2341,7 +2341,7 @@ part of a correctional community. In order to keep the community running
 smoothly, you prisoners must obey the following rules."
 
 Jaffe nods in agreement; he already likes to think of this as a prison commu
-nity, in which reasonable people giving and following rules can live harmo
+nity, in which reasonable people giving and following rules can live harmoniously
 niously.
 
 The First Count in This Strange Place
@@ -2655,7 +2655,7 @@ At first, Prisoner Tom-2093 says he needs more than the brief time allocated
 because he can't urinate since he is so tense. The guards refuse, but the other pris
 oners unify in their insistence that he be allowed sufficient time. "It was a matter
 of establishing that there were certain things that we wanted," 5486 later defi
-antly reported.7 Small events like this one are what can combine to give a new col
+defiantly reported.7 Small events like this one are what can combine to give a new col
 lective identity to prisoners as something more than a collection of individuals
 trying to survive on their own. Rebel Doug-8612 feels that the guards are obvi
 ously role-playing, that their behavior is just a joke, but that they are "going over
@@ -2771,7 +2771,7 @@ ences that take place in prisons, which I had learned from my contacts with our
 prison consultant, the formerly incarcerated Carlo Prescott, and from the sum
 mer school course we had just completed on the psychology of imprisonment. I
 worried that I might have given too much direction to them, which would de
-mand behavior that they were simply following rather than gradually internaliz
+mand behavior that they were simply following rather than gradually internalizing
 ing their new roles through their on-the-job-experiences. So far, it seemed as if
 the guards were rather varied in their behavior and not acting from a preplanned
 script. Let's review what transpired in that earlier guard orientation.
@@ -2956,7 +2956,7 @@ didn't hear the two of you."
 
 "Yes, Mr. Correctional Officer."
 "4325, what kind of day is this?"
-"It's a good day, Mr. Correctional Offic—"
+"It's a good day, Mr. Correctional Officer—"
 "No. It's a wonderful day!"
 "Yes sir, Mr. Correctional Officer."
 They begin to chant, "It's a wonderful day, Mr. Correctional Officer."
@@ -3052,7 +3052,7 @@ shut his filthy mouth.
 
 I realize that this is the first obscenity that has been uttered in this setting. I
 had expected the guards to curse a lot as part of establishing the macho role, but
-they have not yet done so. However, Doug-8612 does not hesitate to fling obscen
+they have not yet done so. However, Doug-8612 does not hesitate to fling obscenities
 ities around.
 
 Guard Ceros: "It was weird to be in command. I felt like shouting that every
@@ -3257,7 +3257,7 @@ is accomplished, they plan to use the edge of the plate as a screwdriver to unsc
 the cell door lock. One will pretend to be sick and, when the guard is taking him to
 the toilet, will open the main entrance door down the hall. Signaled by a whistle,
 the other cellmate will burst out. They will knock the guard down and run away
-to freedom! As in real prisons, prisoners can show remarkable creativity in fash
+to freedom! As in real prisons, prisoners can show remarkable creativity in fashioning
 ioning weapons out of virtually anything and hatching ingenious escape plans.
 Time and oppression are the fathers of rebellious invention.
 
@@ -3343,7 +3343,7 @@ his head when he knows it is not there. His demand to see the warden will be
 granted later in the day.
 
 At four o'clock, beds are returned to good Cell 3, as the guards' attention fo
-cuses on the prisoners in the still rebellious Cell 1. The night shift guards are asked
+focuses on the prisoners in the still rebellious Cell 1. The night shift guards are asked
 to come in early, and together with the day shift they storm the cell, shooting the
 fire extinguisher at the door opening to keep the prisoners at bay. They strip the
 three prisoners naked, take away their beds, and threaten to deprive them of din
@@ -3364,7 +3364,7 @@ lost their broad time perspectives and were living "in the moment."
 The Grievance Committee, consisting of elected members, Paul-5704, Jim-
 4325, and Rich-1037, tell me that their contract has been violated in many ways.
 Their prepared list includes that: the guards are being both physically and ver
-bally abusive; there is an unnecessary level of harassment; the food is not ade
+verbally abusive; there is an unnecessary level of harassment; the food is not ade
 quate; they want to have their books, glasses, and various pills and meds
 returned; they want more than one Visiting Night; and some of them want reli
 gious services. They argue that all of these conditions justified their need to rebel
@@ -3450,7 +3450,7 @@ It is about 7 P.M. when Carlo and I watch one of the counts on the TV moni
 tor that is recording the day's special events. Then we retreat to my superinten
 dent's office to discuss how things are going and how I should handle tomorrow's
 Visiting Night. Suddenly, Warden Jaffe bursts in to report that 8612 is really dis
-traught, wants out, and insists on seeing me. Jaffe can't tell whether 8612 is just
+distraught, wants out, and insists on seeing me. Jaffe can't tell whether 8612 is just
 faking it to get released and then to make some trouble for us, or if he is genuinely
 feeling ill. He insists that it is my call and not his to make.
 "Sure, bring him in so I can assess the problem," I say.
@@ -3637,7 +3637,7 @@ the main doors by Burdan. The prisoner, who had just attempted to escape, stands
 at attention in the center of the hallway just beyond the dinner table. He is blind
 folded. Landry asks the prisoner how he removed the lock on the door. He refuses
 to spill the beans. When the blindfold is taken off the escapee, Geoff warns men
-acingly, "If we see your hands near that lock, 8612, we'll have something really
+menacingly, "If we see your hands near that lock, 8612, we'll have something really
 good for you." It was Doug-8612 who tried the escape plan! Landry pushes him
 back into his cell, where 8612 begins to scream obscenities again, louder than
 before, and a stream of 'Fuck yous' floods the Yard. Hellmann says wearily into Cell
@@ -3713,7 +3713,7 @@ get when the original details of the prison were described to them. A guard
 replies, "I don't know if we'll ever have a movie!"
 
 The guards openly discuss the consequences of damaging prison property,
-and Hellmann grabs a copy of the prison rules, reading off the rule about damag
+and Hellmann grabs a copy of the prison rules, reading off the rule about damaging
 ing prison property. As he leans against Cell l's doorframe and twirls his billy
 club, he seems to be inhaling confidence and dominance moment by moment. In
 stead of movie time, he will give them either work or R&R time, Hellmann tells his
@@ -4058,7 +4058,7 @@ brother, John, has been tough on the prisoners, but he is nevertheless "going by
 the book." He is not aggressively excessive, as Arnett is, but he does usually back
 up the boss with firm, no-nonsense orders.
 
-The prisoners are all about the same average height, about five-eight to fiveten, except for Glenn-3401, who is the shortest of all, around five-two, and tall
+The prisoners are all about the same average height, about five-eight to five-ten, except for Glenn-3401, who is the shortest of all, around five-two, and tall
 Paul-5 704, who is tallest at maybe six feet two. Interestingly, 5704 is moving into
 
 the leadership position among the prisoners. He appears more self-confident
@@ -4171,7 +4171,7 @@ One after another each prisoner shouts out, "The superintendent's!" as the
 answer to the question posed by Varnish: "Whose orders are supreme?" It's my
 turn on our early-morning shift to tape-record the key events while Curt and
 Craig catch some shut-eye. Seems strange to hear this assertion that my orders
-are "supreme." In my other life, I make it a point never to give orders, only sugges
+are "supreme." In my other life, I make it a point never to give orders, only suggestions
 tions or hints about what I want or need.
 
 Varnish eggs them on, forcing them to sing out "Punishment" as the last
@@ -4221,7 +4221,7 @@ unable to find your stocking cap, put a towel on your head.
 "A wonderful day, Mr. Correctional Officer."
 "Okay, make your beds, without any wrinkles whatsoever, then sit on them."
 By this time, the other guards have left, and only the morning shift guards re
-main, including the backup guard, Morison, quietly observing all this authoritar
+main, including the backup guard, Morison, quietly observing all this authoritarian
 ian abuse. He tells the prisoners that they can lie down if they wish, and they
 immediately hit the sack and are in dreamland almost instantly.
 
@@ -4476,7 +4476,7 @@ The same committee of three prisoners that I met with earlier came armed with a
 long list of grievances that they had delivered to Curt Banks while I was away
 dealing with the city police. The same three-prisoner team, headed by 5704,
 along with 4325 and 1037, were elected by all the prisoners. Curt listened re
-spectfully to their complaints. Among them: unsanitary conditions due to toilet
+respectfully to their complaints. Among them: unsanitary conditions due to toilet
 restrictions; no clean water to wash hands before meals; no showers; fear of com
 municable disease; handcuffs and leg chain irons too tight, causing bruises and
 abrasions. They also wanted church services on Sundays. In addition, they re
@@ -4648,7 +4648,7 @@ plate and walks away, sneering at him. Bad blood is developing between them.
 Meanwhile, in the corridor outside the main prison door, we are making final
 preparations for the visitors, whose potential for making trouble is a realistic fear.
 Opposite the wall housing the three offices of the guards, the warden, and the su
-perintendent are a dozen folding chairs for visitors while they await entry. As they
+superintendent are a dozen folding chairs for visitors while they await entry. As they
 come down into the basement, full of good humor at what seems a novel, fun ex
 perience, we deliberately and systematically bring their behavior under situa
 tional control, according to plan. They have to be taught that they are our guests,
@@ -4710,7 +4710,7 @@ matic hugging of parents and their child?
 
 (This kind of awkward exchange involving minimal body contact is what
 happens when one is visiting a real maximum-security prison, but we never made
-that a condition for visiting in our prison. It was our previsit manipulation of the
+that a condition for visiting in our prison. It was our pre-visit manipulation of the
 visitors' expectations that worked to create confusion about what behaviors were
 appropriate in this strange place. When in doubt, do the minimal amount.)
 
@@ -4941,7 +4941,7 @@ reminiscent of President John Kennedy's "disastrous" decision to invade Cuba in
 the Bay of Pigs fiasco.11
 
 It should also have been apparent to me that we were losing the scientific de
-tachment essential for conducting any research with unbiased objectivity. I was
+detachment essential for conducting any research with unbiased objectivity. I was
 well on the way to becoming a prison superintendent rather than a principal in
 vestigator. It should have been obvious that this was so from my earlier encounter
 with Mrs. Y. and her husband, not to mention my tantrums with the police
@@ -5018,7 +5018,7 @@ sleep so he won't be talking with you."
 The warden has set a pair of chairs against the wall between Cells 2 and 3
 for the priest and each inmate who comes to him. I bring over another for me to
 sit on next to the priest. Jaffe is at my side, looking very serious as he personally es
-corts each inmate from his cell to the interview. Jaffe is obviously relishing the
+escorts each inmate from his cell to the interview. Jaffe is obviously relishing the
 mock reality of this scenario with a real priest enacting his pastoral role with our
 mock prisoners. He really gets into it. I am more concerned about the prisoners'
 likely complaints and what the good father is likely to do to correct them. I ask
@@ -5192,7 +5192,7 @@ and agrees not to try any funny business.
 
 Priest to 819: "Maybe you are responding to the smell of this place. The air
 here is oppressive. There's an unpleasant smell, it takes time to get used to it. Nev
-ertheless, it's there, it has sort of a toxic quality, maybe that's too strong, but the
+nevertheless, it's there, it has sort of a toxic quality, maybe that's too strong, but the
 stench brings home the reality of prison. [McDermott is smelling the urine and
 feces odor now clinging to our prison, to which we are habituated and don't no
 tice until it is called to our attention.] You have to get your balance, plenty of pris
@@ -5819,7 +5819,7 @@ Girlfriend: "Are you cooperating?"
 Burdan intrudes: "Well, they had a little escape attempt."
 Girlfriend: "I heard about that."
 7258: "I didn't enjoy the rest of this day at all. We do not have anything; no
-bed, no nothing." He tells her about having to clean out stickers from dirty blan
+bed, no nothing." He tells her about having to clean out stickers from dirty blanket
 kets and other nasty chores. Nevertheless, he remains upbeat and smiles and
 holds her hand for the full ten-minute visit. Burdan escorts her out as the prisoner
 returns to his lonely cell.
@@ -5999,7 +5999,7 @@ Sarge is not afraid of him and plays the game: "It's in my nature to be obedi
 
 ent, Mr. Correctional Officer."
 
-"You are a liar. You are a stinkin' liar."
+"You are a liar. You are a stinkin'' liar."
 "If you say so, Mr. Correctional Officer."
 Hellmann becomes ever more obscene, maybe aroused by the previous sexual
 games: "What if I told you to get down on that floor and fuck the floor, what would
@@ -6023,7 +6023,7 @@ tim. As he opens the door to the Hole, Hellmann, like a carnival pitchman, shout
 
 are all looking at him. He is holding a sausage in each hand!
 
-Burdan: "How come you holdin' on to your sausages, 416?"
+Burdan: "How come you holding' on to your sausages, 416?"
 "He hasn't ate no sausages yet," Hellmann says, his usually good grammar
 breaking down as he becomes more emotional. "And you know what that means
 for the rest of you?"
@@ -6038,7 +6038,7 @@ The prisoner walks to the door, looks 416 in the eyes and tells him gently,
 "You eat those sausages if you want to, 416."
 
 "That's sure a half-assed way to tell him to do something, 5486," Burdan ad
-monishes. "I guess you don't want your blankets tonight. Next up, 7258, you tell
+admonishes. "I guess you don't want your blankets tonight. Next up, 7258, you tell
 him."
 
 In sharp contrast to the first prisoner in line, 7258 yells at the rebel inmate,
@@ -6118,7 +6118,7 @@ and 5704 sitting on his back (they do so without any hesitation). Sarge struggle
 with all his might and pride to complete a push-up cycle.
 
 He strains to raise himself from the floor but then collapses under the weight
-of this human burden. The devilish duo bursts into laugher, making fun of Sarge.
+of this human burden. The devilish duo bursts into laughter, making fun of Sarge.
 They are not quite done humiliating Sarge, but 416's stubborn resistance against
 eating his sausages is of greater immediate consequence to these guards. Hell
 mann intones: "I just don't understand a thing like those sausages, 416. I don't
@@ -6198,7 +6198,7 @@ wanna get a good night's sleep tonight, don't you?"
 They all say, "Yes, sir!"
 Hellmann: "Well, I think we gonna wait a little bit, to let 2093 think about
 just what a bastard he is. And then maybe he'll tell the rest of us that he thinks so."
-(This is an unexpected power struggle between the most controlling, powerhungry guard and the prisoner who until now has been a totally obedient pris-
+(This is an unexpected power struggle between the most controlling, power-hungry guard and the prisoner who until now has been a totally obedient pris-
 
 oner, so much so that he is ridiculed as "Sarge," whom most prisoners and guards
 dislike as they all have considered him to be nothing more than a military robot.
@@ -6258,7 +6258,7 @@ toady he initially seemed to be. Later, he tells us something interesting about 
 mind-set he adopted as a prisoner in this setting:
 
 When I entered the prison I determined to be myself as closely as I know
-myself. My philosophy of prison was not to cause or add to the deteriora
+myself. My philosophy of prison was not to cause or add to the deterioration
 tion of character on the part of fellow prisoners or myself, and to avoid
 causing anyone punishments because of my actions.
 
@@ -6318,7 +6318,7 @@ ficer."
 Burdan jumps in: "He's swishing his ass, isn't he, 2093?"
 Sarge meekly acquiesces: "If you say so, Mr. Correctional Officer."
 Burdan: "What's he doing?"
-5486 complies: "He's swishin' his ass."
+5486 complies: "He's swishing' his ass."
 Hellmann makes Paul-5704 demonstrate the way to do good push-ups for
 
 416's edification.
@@ -6420,7 +6420,7 @@ fists, on the door."
 
 They do so, one by one, banging on the door, as they recite, "Thank you,
 416!" As they do, a loud, resonating noise booms through the Hole, to further ter
-rify pitiable 416, alone in there.
+terrify pitiable 416, alone in there.
 
 Burdan: "That's the way, with real spirit."
 (It's difficult to determine the extent to which the other prisoners are angry
@@ -6463,7 +6463,7 @@ Hole all night?
 
 Just then, Kindly Guard Geoff Landry saunters into the Yard. At six feet three
 and 185 pounds, he is the biggest of all the guards or prisoners. As usual, he
-holds a cigarette in one hand, the other hand in his pocket, sunglasses conspicu
+holds a cigarette in one hand, the other hand in his pocket, sunglasses conspicuously
 ously absent. He walks to the center of the action, stops, looks distressed, frowns,
 seems about to intervene, and does nothing but passively observe John Wayne
 continue with showtime.
@@ -6602,7 +6602,7 @@ and finally Prisoner Hubbie-7258. After each has had his time before the Board,
 he is returned to the hallway bench, handcuffed, chained, and bagged until the
 session is completed and all the prisoners are returned to the prison basement.
 
-Before the first prisoner appears, as I'm checking the video quality, the oldtime pro, Carlo, begins to educate the Board neophytes on some basic Parole
+Before the first prisoner appears, as I'm checking the video quality, the old-time pro, Carlo, begins to educate the Board neophytes on some basic Parole
 Board realities. (See Notes for his soliloquy.)1 Curt Banks, sensing that Carlo is
 warming up to one of the long speeches he's heard too often during our summer
 school course, says authoritatively, "We've gotta move, time is running."
@@ -6693,7 +6693,7 @@ After a few more questions from other Board members, Prescott asks the cor-
 
 rectional officer to take the inmate back to his cell. The prisoner stands and
 thanks the board. He then automatically extends his arms, palms facing each
-other, as the attending guard locks on the handcuffs. Jim-4325 is escorted out, rebagged, and made to sit in silence in the hallway while the next prisoner has his
+other, as the attending guard locks on the handcuffs. Jim-4325 is escorted out, re-bagged, and made to sit in silence in the hallway while the next prisoner has his
 turn at the Board.
 
 After the prisoner leaves, Prescott notes for the record, "Well, that guy's an
@@ -6752,7 +6752,7 @@ that started when his cell created the barricade. What did he do to stop it?
 3401 replies with surprising bluntness: "I did not stop it, I encouraged it!"
 After further inquiry into this situation by other board members, 3401 continues
 in a sarcastic tone, so different from Prisoner 4325's apparent humility, "I think
-the purpose of our institution is to rehabilitate the prisoners and not to antago
+the purpose of our institution is to rehabilitate the prisoners and not to antagonize
 nize them, and I felt that as a result of our actions—"
 
 Warden Jaffe, seated along the side of the room and not at the Board table,
@@ -6800,7 +6800,7 @@ you're an intelligent man and know the language quite well, I think that you can
 probably change yourself, yes, you might have a chance to change yourself in the
 future."
 
-Carlo turns to the guard and gestures to take the prisoner away. A nowcontrite little boy slowly raises his arms outstretched as handcuffs are applied,
+Carlo turns to the guard and gestures to take the prisoner away. A now contrite little boy slowly raises his arms outstretched as handcuffs are applied,
 and out he goes. He may be realizing that his flippant attitude has cost him dearly,
 that he was not prepared for this event to be so serious and the Parole Board so in
 tense.
@@ -6960,7 +6960,7 @@ rather unruly natural character."
 he should get parole. I won't go as far as Arnett does, but parole shouldn't be
 given," writes John Landry.
 
-As soon as the prisoner is unbagged, he beams his usual big toothy smile,
+As soon as the prisoner is un-bagged, he beams his usual big toothy smile,
 
 which irritates Carlo enough to spur his jumping all over him.
 
@@ -6981,7 +6981,7 @@ This reality check might otherwise threaten to unravel the proceedings, but
 not with skipper Prescott at the helm:
 
 "So wise guy, you think this is just an experiment?" He takes back the steering
-wheel, pretending to examine the prisoner's dossier. Prescott notes matter-offactly, "You were involved in a burglary."
+wheel, pretending to examine the prisoner's dossier. Prescott notes matter-matter-of-factly, "You were involved in a burglary."
 
 Prescott turns to ask Curt Banks whether it was first- or second-degree bur
 
@@ -7009,7 +7009,7 @@ Forfeiting Pay for Freedom
 
 This break in the highly tense action gives me time to realize the importance of
 Prisoner 1037's assertion of willing to forfeit his pay for parole. We need to for
-malize that as a critical final question to be put to each of the prisoners. I tell Carlo
+formalize that as a critical final question to be put to each of the prisoners. I tell Carlo
 to ask them, "Would you be willing to forfeit all the money you have earned as a
 prisoner if we were to parole you?"
 
@@ -7119,7 +7119,7 @@ parole requests by inmates, the opposing challenges from their guards, the diver
 composition of all the Parole Board members, the nature of the personal ques
 tions put to the inmates, and accusations made against them—in short, the in
 tense affective quality of the entire proceeding. The basis of this interaction is
-obvious in the Board's questions and prisoners' answers regarding "past convic
+obvious in the Board's questions and prisoners' answers regarding "past convictions
 tions," the rehabilitative activities of attending classes or participating in therapy
 or vocational training sessions, arranging for legal representation, the status of
 their trial, and their future plans for becoming good citizens.
@@ -7263,7 +7263,7 @@ The next day brings four more prisoners before a reconstituted Parole Board. Ex
 cept for Carlo, all the other members of the Board are newcomers. Craig Haney,
 who had to leave town for urgent family business in Philadelphia, is replaced by
 another social psychologist, Christina Maslach, who quietly observes the pro
-ceedings with little apparent direct involvement—at this time. A secretary and
+proceedings with little apparent direct involvement—at this time. A secretary and
 two graduate students fill out the rest of this five-person Board. However, at the
 urging of the guards, in addition to considering parole requests, the Board also
 considers various disciplinary actions against the more serious troublemakers.
@@ -7298,7 +7298,7 @@ This scrawny youngster presents much the same face to the Board that he
 does to the guards: he is intelligent, self-determined, and strong willed in his opin
 ions. However, his justification for disputing his imprisonment—that he was not
 of legal age to sign the research informed consent contract—seems strangely le
-galistic and circumstantial for a person who has typically acted from ideological
+legalistic and circumstantial for a person who has typically acted from ideological
 principles. Despite his disheveled, gaunt appearance, there is something about
 416's demeanor that does not elicit sympathy from anyone who interacts with
 him—neither the guards, the other prisoners, nor this board. He looks like a
@@ -7378,7 +7378,7 @@ ther, it was this same 5704 who had volunteered for this experiment under false
 pretenses. He signed up with the intention of being a spy who was going to expose
 this research in articles he planned to write for several alternative, liberal, "un-
 
-derground" newspapers, on the assumption that this experiment was no more
+underground" newspapers, on the assumption that this experiment was no more
 than a government-supported project for learning how to deal with political dissi
 dents. Where had all that former bravado gone? Why had he suddenly become in
 coherent?
@@ -7418,7 +7418,7 @@ far in exchange for parole.
 The guards report that 5486 does not deserve parole consideration because
 "he made a joke out of letter writing, and for his general non-cooperation." When
 asked to explain his action, Prisoner 5486 responds that "I knew it wasn't a legit
-imate letter . .. it didn't seem to be ..."
+legitimate letter . .. it didn't seem to be ..."
 
 Guard Arnett, who has been standing aside silently observing the proceed
 ings, can't help but interrupt: "Did the correctional officers ask you to write the let
@@ -7442,7 +7442,7 @@ evidence I have, along with the report from staff, what would you do? How would
 you act? What would you do? What do you think is right for yourself?"
 
 The prisoner answers evasively but never fully addresses those difficult ques
-tions. After a few more questions from the other members of the Board, an exas
+tions. After a few more questions from the other members of the Board, an exasperated
 perated Prescott dismisses him: "I think we've seen enough, I think we know what
 we need to do. I don't see any reason to waste our time."
 
@@ -7620,7 +7620,7 @@ with college students playing at prison guards. The prisoner, on the other hand,
 who is left to consider his own situation in regard to how defiant he is, how effec
 tive he is in keeping the experience away from him, comes face-to-face daily with
 his own helplessness. He has to correlate both his own hatred and the effective
-ness of his defiance with the reality that regardless of how heroic or how coura
+ness of his defiance with the reality that regardless of how heroic or how courageous
 geous he sees himself at a certain time—he will still be counted and still be
 subjected to the rules and regulations of the prison."5
 
@@ -7668,7 +7668,7 @@ own freedom restored.
 
 The 2:30 A.M. count is in full swing once again. The seven weary prisoners,
 awakened once more by loud, shrilling whistles and billy clubs rattling the bars
-on their stinking, barren cells, are lined up against the wall. Guard Vandy is recit
+on their stinking, barren cells, are lined up against the wall. Guard Vandy is reciting
 ing selected rules and then testing the prisoners' memories of them by delivering
 assorted punishments for memory lapses.
 
@@ -7782,7 +7782,7 @@ mind. Also I make an actual try of my will to dehumanize them in order to
 make it easy for me.7
 
 Our staff agree that of all the guards, the one who "goes by the book" most con
-sistently is Varnish. He is one of the oldest guards, at twenty-four, like Arnett. Both
+consistently is Varnish. He is one of the oldest guards, at twenty-four, like Arnett. Both
 of them are graduate students, so they should have a bit more maturity than the
 other guards, whose ages range from just eighteen for Ceros, Vandy, and J. Landry.
 Varnish's daily shift reports are the most detailed and lengthy, including ac
@@ -7937,7 +7937,7 @@ ward the guards gave you. They always threatened they wouldn't let you eat, but
 they had to give you eats. And so I stopped eating. Then I had a sort of power over
 something because I found the one thing they couldn't crack me on. They were
 going to catch shit eventually if they didn't get me to eat. And so I was sort of hu
-miliating them by being able to fast."12
+humiliating them by being able to fast."12
 
 He began by refusing to touch his lunch. Arnett reported that he overheard
 416 telling his cellmates that he intended not to eat until he got the legal consul
@@ -8084,7 +8084,7 @@ when she sees him at the next Visitors' Night, Mrs. W. does what she is told. Sh
 calls her nephew Tim, a lawyer in the public defender's office. He in turn calls me,
 and we follow through on this script by agreeing to schedule his official lawyer's
 visit for Friday morning as one more realistic element in this experience that is
-growing ever more unreal. Our little drama, it would appear, is now being rewrit
+growing ever more unreal. Our little drama, it would appear, is now being rewritten
 ten by Franz Kafka as a surreal supplement to The Trial, or perhaps by Luigi Piran
 dello as an update of his Il fu Mattia Pascal, or his better-known play Six Characters
 in Search of an Author.
@@ -8528,7 +8528,7 @@ underwear beneath their smock-dresses.) Hellmann continues with obvious glee,
 "Now you two, you're male camels. Stand behind the female camels and hump
 them."
 
-Burdan giggles at this double entendre. Although their bodies never touch,
+Burdan giggles at this double double entendre. Although their bodies never touch,
 the helpless prisoners are simulating sodomy by making thrusting motions of
 humping. They are dismissed back to their cells as the guards retreat to their
 quarters, clearly feeling that they have earned their night's salary. My nightmare
@@ -8726,7 +8726,7 @@ his back.
 The public defender is startled by that account, duly noting it down with a
 frown. Next, tall Paul-5704 complains about the guards manipulating him by
 using his smoking habit against him. Good guy Jerry-5486 complains at a less
-personal, more general level of the inadequate diet and missed meals, the exhaus
+personal, more general level of the inadequate diet and missed meals, the exhaustion
 tion from endless middle-of-the-night counts, the out-of-control behavior of some
 guards, and the lack of supervision by the senior staff. I wince as he turns to look
 directly at me, but he was right on target: I was guilty.
@@ -8834,7 +8834,7 @@ culture of its own, as many Systems collectively come to contribute to the cultu
 of a society.
 
 While the Situation surely brought out the worst in many of these student
-volunteers, transforming some into perpetrators of evil and others into pathologi
+volunteers, transforming some into perpetrators of evil and others into pathological
 cal victims, I was even more fully transformed by the System of domination. The
 others were kids, young men, without much real experience. I was a seasoned re
 searcher, a mature adult, and a "street-smart" grown-up, still filled with my
@@ -8892,7 +8892,7 @@ choices that had been available to each of the participants and how they had
 dealt with them. We discussed what the guards could have done differently to be
 less abusive to the prisoners and what the prisoners could have done to deflect
 their abuse. I made it clear that I felt personally responsible for not having inter
-vened a number of times during the study when the abuse was extreme. I had
+intervened a number of times during the study when the abuse was extreme. I had
 tried to contain physical aggression, but I had not acted to modify or stop the other
 forms of humiliation when I should have. I was guilty of the sin of omission—the
 evil of inaction—of not providing adequate oversight and surveillance when it
@@ -9000,7 +9000,7 @@ In the second hour of debriefing, the former guards presented a quite different
 group portrait. While a few of them, the "good guards" in the prisoner evalua
 tions, were also glad that the ordeal was over, most were distressed to see the study
 terminated prematurely. Some focused on the easy money they had been antici
-pating for another week's work now that they had the situation clearly under
+anticipating for another week's work now that they had the situation clearly under
 their control. (They ignored the continuing problems posed by Clay-416's fast
 and Sarge's gaining the moral upper hand in his confrontations with Hellmann.)
 Some guards were ready to apologize openly for having gone too far, for fully en
@@ -9034,14 +9034,14 @@ A Final Mixing of the Categories
 
 In the third hour of debriefing a lot of nervous laughter filled the laboratory room
 when we brought in the former prisoners to meet their captors, indistinguishable
-in their civilian clothes. Without their uniforms, numbers, and distinctive acces
+in their civilian clothes. Without their uniforms, numbers, and distinctive accessories
 sories, they were interchangeable, hard even for me to identify, having gotten so
 used to seeing them in their prison garb. (Remember, in 1971 there was hair
 everywhere, shoulder-length hair and long sideburns on most of the students in
 both categories, some of whom had full mustaches as well.)
 
 The joint session was, in the words of one former prisoner, "stiffly polite,"
-compared to the more relaxed and friendly prisoners' session. As each was scop
+compared to the more relaxed and friendly prisoners' session. As each was scoping
 ing out the others, one prisoner asked whether some recruits had been selected to
 be guards because they were taller. Jerry-5486 said, "I had the feeling somewhere
 along the study that the guards were bigger than the prisoners, and I wonder if
@@ -9092,7 +9092,7 @@ found in this sad place.
 Before we adjourned, I asked them all to be sure they had completed their
 final evaluations of the experience they had undergone and to complete some
 other forms that Curt Banks had available. I also invited them to write a short ret
-rospective diary of the events that stood out in their memory during the following
+retrospective diary of the events that stood out in their memory during the following
 month. They would get a fee for doing so. Finally, they would all be invited back in
 a few weeks for a "Class of 1971" reunion to review some of the data we had
 gathered. A slide show and video clips would be available.
@@ -9121,7 +9121,7 @@ gling at the time should learn to protect their interests without being a real
 obstacle to those who are struggling. A bad prisoner is one who cannot do this,
 who is only out for himself."10
 
-]erry-5486: "The most apparent thing that I noticed was how most of the
+]Jerry-5486: "The most apparent thing that I noticed was how most of the
 people in this study derive their sense of identity and well-being from their imme
 diate surroundings rather than from within themselves, and that's why they
 broke down—just couldn't stand the pressure—they had nothing within them to
@@ -9173,7 +9173,7 @@ experience was so upsetting to me that I was unable to bring myself to dis
 cuss my experiences in depth with anyone—even my wife.15
 
 I should add that we later discovered that the handcuff keys had been stolen
-from one of the guards by a prisoner. After the incident with the Wednesdaynight transfer of all the prisoners up to the fifth-floor storage room, when they
+from one of the guards by a prisoner. After the incident with the Wednesday night transfer of all the prisoners up to the fifth-floor storage room, when they
 were returned to the Yard at 12:30 A.M., two of the prisoners had been cuffed to
 gether to prevent their trying to escape. Without the keys to unlock them, I had to
 call the Stanford Police to remove the cuffs, an embarrassment, to say the least.
@@ -9191,7 +9191,7 @@ son that enjoys this type of thing."16
 
 Guard Varnish: "This experience was worthwhile for me, absolutely. The idea
 that two roughly identical groups of college students each in only a week's time
-evolved into two totally disparate social groups with one group having and utiliz
+evolved into two totally disparate social groups with one group having and utilizing
 ing total power over the other to their detriment is chilling.
 
 "I was surprised at myself.... I made them call each other names and clean
@@ -9201,7 +9201,7 @@ and I kept thinking I have to watch out for them in case they try something."17
 Guard Vandy: "My enjoyment in harassing and punishing prisoners was quite
 
 unnatural for me because I tend to think of myself as being sympathetic to the in
-jured, especially animals. I think that it was an outgrowth from my total freedom
+injured, especially animals. I think that it was an outgrowth from my total freedom
 to rule the prisoners, I began to abuse my authority."18
 
 (An interesting carryover, or carryout, of this newfound guard power is re
@@ -9260,7 +9260,7 @@ time I was afraid and apprehensive and thought of quitting. And I also was think
 
 ing of asking to become a prisoner. I felt as though I didn't want to become part of
 the machine that beats down on other men and forces them to conform and con
-tinually harasses them. I almost wished that I was being harassed than having to
+continually harasses them. I almost wished that I was being harassed than having to
 be the harasser."22
 
 In this context, it is interesting to note that on Wednesday night, this guard
@@ -9287,7 +9287,7 @@ the guards to become sadistic, prisoners to become hysterical, other prisoners t
 break out in hives. Here you have a benign situation, and it didn't work. It pro
 moted everything a regular prison promotes. The guard role promotes sadism.
 The prisoner role promotes confusion and shame. Anybody can be a guard. It's
-harder to be on guard against the impulse to be sadistic. It's a quiet rage, malevo
+harder to be on guard against the impulse to be sadistic. It's a quiet rage, malevolence
 lence, you can keep down but there's nowhere for it to go; it comes out sideways,
 sadistically. I think you do have more control as a prisoner. Everybody needs to
 [experience being] a prisoner. There are real prisoners I have met in jail who are
@@ -9310,7 +9310,7 @@ guard. He was reacting to the uniform. I had no choice but to defend myself as
 a guard. It shocked me. . .. I realized that I was just as much a prisoner as they
 
 were. I was just a reaction to their feelings.. .. We were both crushed by the op
-pressiveness, but we, the guards, had an illusion of freedom. That's just what it
+oppressiveness, but we, the guards, had an illusion of freedom. That's just what it
 was, an illusion. . . . We all went in slaves to the money. The prisoners soon be
 came slaves to us .. ."26 As Bob Dylan sings in his song "George Jackson," some
 times the world seems like one big prison yard:
@@ -9424,7 +9424,7 @@ On Hellmann's "Little Experiments"
 
 Let's look back at the Volunteer Background Form that Hellmann completed a
 week before the start of the experiment in order to get a sense of what he was like
-in his preguard status. I was amazed to learn that he was only an eighteen-yearold sophomore student, among our youngest participants. His counterpart, Arnett, was one of the oldest. Hellmann came from a middle-class academic family,
+in his pre-guard status. I was amazed to learn that he was only an eighteen-yearold sophomore student, among our youngest participants. His counterpart, Arnett, was one of the oldest. Hellmann came from a middle-class academic family,
 the youngest sibling of four older sisters and a brother. At six feet two and 175
 pounds, with green eyes and blond hair, he was an imposing figure. This young
 man identified himself as a musician and "a scientist at heart." His self-description
@@ -9448,7 +9448,7 @@ With that character reference in mind, it is now instructive to review his poste
 Guard Hellmann: "Yes it has been more than an experiment. I had a chance at
 testing people's capabilities, pushing them to the breaking point under the guise
 of a correctional officer. It was not pleasant but I felt compelled out of my own fas
-cination to test their reactions. I was conducting experiments on my own on
+fascination to test their reactions. I was conducting experiments on my own on
 many occasions."29
 
 "The best thing about the experiment was that I seemed to be the catalyst
@@ -9609,13 +9609,13 @@ have benefited from his support.
 
 When we began our experiment, we had a sample of individuals who did not
 deviate from the normal range of the general educated population on any of the
-dimensions we had premeasured. Those randomly assigned to the role of "pris
+dimensions we had pre-measured. Those randomly assigned to the role of "pris
 oner" were interchangeable with those in the "guard" role. Neither group had
 any history of crime, emotional or physical disability, or even intellectual or social
 disadvantage that might typically differentiate prisoners from guards and prison
 ers from the rest of society.
 
-It is by virtue of this random assignment and the comparative premeasures
+It is by virtue of this random assignment and the comparative pre-measures
 that I am able to assert that these young men did not import into our jail any of
 
 The SPE's Meaning and Messages
@@ -9648,7 +9648,7 @@ quantitative analyses, and some were correlated with outcome measures.
 
 The data analyses present a number of problems in their interpretation: the
 sample size was relatively small; the recordings were selective and not compre
-hensive because of our limited budget and staff, and because of the strategic deci
+comprehensive because of our limited budget and staff, and because of the strategic deci
 sion to focus on daily events of high interest (such as counts, meals, visitors, and
 parole hearings). In addition, the causal directions are uncertain because of the
 dynamic interplay among guards and prisoners within and across guard shifts.
@@ -9687,7 +9687,7 @@ finding emerges when we compare the F-Scale scores of the five prisoners who re
 mained for the duration of the study and the five who were released early. Those
 who endured the authoritarian environment of the SPE scored more than twice
 (mean = 7.8) as high on conventionality and authoritarianism than their earlyreleased peers (mean = 3.2). Amazingly, when these scores are arranged in rank
-order from lowest to highest prisoner F-Scale values, a highly significant correla
+order from lowest to highest prisoner F-Scale values, a highly significant correlation
 tion is found with the number of days of staying in the experiment (correlation
 coefficient = .90). A prisoner was likely to remain longer and adjust more effec
 tively to the authoritarian prison environment to the extent that he was high in
@@ -9708,7 +9708,7 @@ evaluated as also adjusting well had the lowest Machiavellian scores.
 
 The Comrey Personality Scales.5 This self-report inventory consists of eight subscales that we used to predict dispositional variations between the guards and
 prisoners. These personality measures are: Trustworthiness, Orderliness, Confor
-mity, Activity, Stability, Extroversion, Masculinity, and Empathy. On this measure,
+conformity, Activity, Stability, Extroversion, Masculinity, and Empathy. On this measure,
 the average scores of the guards and those of the prisoners were virtually inter
 changeable; none even approached statistical significance. Furthermore, on
 every subscale, the group mean fell within the fortieth to sixtieth percentile range
@@ -9982,7 +9982,7 @@ initially total strangers. It was only when they were alone in the solitude of t
 cells that they could get to know one another since no "small talk" was allowed at
 public times. We assumed that they would seek common ground for relating to
 one another, given their close quarters and their expectation of interacting for
-two weeks. We expected to hear them talk about their college lives, majors, voca
+two weeks. We expected to hear them talk about their college lives, majors, vocations
 tions, girlfriends, favorite teams, music preferences, hobbies, what they would do
 for the remainder of the summer once the experiment was over, or maybe what
 they would do with the money they would earn.
@@ -10059,7 +10059,7 @@ messages.
 
 The Virtue of Science
 
-From one perspective, the SPE does not tell us anything about prisons that sociolo
+From one perspective, the SPE does not tell us anything about prisons that sociologists
 gists, criminologists, and the narratives of prisoners have not already revealed
 about the evils of prison life. Prisons can be brutalizing places that invoke what is
 worst in human nature. They breed more violence and crime than they foster
@@ -10084,7 +10084,7 @@ social behavior, crime, or violence. Moreover, because they were college student
 they were generally above average in intelligence, lower in prejudice, and more
 confident about their futures than their less educated peers. Then, by virtue of
 random assignment, the key to experimental research, these good people were
-randomly assigned to the role of guard or prisoner, regardless of whatever incli
+randomly assigned to the role of guard or prisoner, regardless of whatever inclination
 nation they might have had to be the other. Chance ruled. Further experimental
 control involved systematic observation, collection of multiple forms of evidence,
 and statistical data analyses that together could be used to determine the impact
@@ -10113,7 +10113,7 @@ statistically significant cannot be dismissed as chance connections.
 The pioneering theorist-researcher in social psychology Kurt Lewin argued
 decades ago for a science of experimental social psychology. Lewin asserted that it
 is possible to abstract significant issues from the real world conceptually and prac
-tically and test them in the experimental laboratory. With well-designed studies
+practically and test them in the experimental laboratory. With well-designed studies
 and carefully executed manipulations of independent variables (the antecedent
 factors used as behavioral predictors), he thought, it was possible to establish cer
 tain causal relationships in ways that were not possible in field or observational
@@ -10135,25 +10135,25 @@ and hurting the "prisoners" day in and night out. Their actions fit the psycholo
 cal definition of evil proposed in chapter 1. Other guards played their role in
 tough, demanding ways that were not particularly abusive, but they showed little
 sympathy for the plight of the suffering inmates. A few guards, who could be clas
-sified as "good guards," resisted the temptation of power and were at times con
-siderate of the prisoners' condition, doing little things like giving one an apple,
+classified as "good guards," resisted the temptation of power and were at times con
+considerate of the prisoners' condition, doing little things like giving one an apple,
 another a cigarette, and so on.
 
 Although vastly different from the SPE in the extent of its horror and com
 plexity of the system that spawned and sustained it, there is one interesting par
-allel between the Nazi SS doctors involved in the death camp at Auschwitz and
+parallel between the Nazi SS doctors involved in the death camp at Auschwitz and
 our SPE guards. Like our guards, those doctors could be categorized as falling into
 three groups. According to Robert Jay Lifton in Nazi Doctors, there were "zealots
 
 who participated eagerly in the extermination process and even did 'extra work'
 on behalf of killing; those who went about the process more or less methodically
 and did no more or no less than they felt that they had to do; and those who par
-ticipated in the extermination process only reluctantly."11
+participated in the extermination process only reluctantly."11
 
 In our study, being a good guard who did his job reluctantly meant "goodness
 by default." Doing minor nice deeds for the prisoners simply contrasted with the
 demonic actions of their shift mates. As noted previously, none of them ever in
-tervened to prevent the "bad guards" from abusing the prisoners; none com
+intervened to prevent the "bad guards" from abusing the prisoners; none com
 plained to the staff, left their shift early or came to work late, or refused to work
 overtime in emergencies. Moreover, none of them even demanded overtime pay
 for doing tasks they may have found distasteful. They were part of the "Evil of In
@@ -10165,7 +10165,7 @@ out," never reminded him that this was "just an experiment," that there was no
 need to inflict so much suffering on the kids who were just role-playing prisoners.
 Instead, as we have seen from his personal accounts, Geoff simply suffered in
 silence—along with the prisoners. Had he energized his conscience into con
-structive action, this good guard might have had a significant impact in mitigat
+structive action, this good guard might have had a significant impact in mitigating
 ing the escalating abuse of the prisoners on his shift.
 
 In my many years of experience teaching at a variety of universities, I have
@@ -10186,7 +10186,7 @@ Wherever anyone is against his will, that is to him a prison.
 
 Our initial interest was not so much in the guards as in how those assigned the
 prisoner role would adapt to their new lowly, powerless status. Having spent the
-summer enmeshed in the psychology of imprisonment course I had just cotaught at Stanford, I was primed to be on their side. Carlo Prescott had filled us
+summer enmeshed in the psychology of imprisonment course I had just co-taught at Stanford, I was primed to be on their side. Carlo Prescott had filled us
 with vivid tales of abuse and degradation at the hands of guards. From other for
 mer prisoners, we heard firsthand the horror stories of prisoners sexually abusing
 other prisoners and gang wars. Thus, Craig, Curt, and I were privately pulling for
@@ -10201,7 +10201,7 @@ We were pleased when the prisoners rebelled so soon, challenging the has
 sling of the menial tasks the guards assigned them, the arbitrary enforcement of
 rules, and the exhausting count lineups. Their expectations about what they
 would be doing in the "study of prison life" to which our newspaper ad had re
-cruited them had been violated. They had anticipated a little menial labor for a
+recruited them had been violated. They had anticipated a little menial labor for a
 few hours mixed with time to read, relax, play some games, and meet new people.
 That, in fact, was what our preliminary agenda called for—before the prisoners'
 rebellion and before the guards took control of matters. We had even planned to
@@ -10263,7 +10263,7 @@ ized you were bullshitting me, and that made me mad, so I decided I'm getting ou
 and I was going to do anything, and I made up several schemes whereby I could
 get out. The easiest one and that wouldn't hurt anybody or hurt any equipment
 was to just act mad or upset, so I chose that one. When I was in the Hole, I pur
-posely kind of built it up and I knew that when I went to talk with Jaffe, I didn't
+purposely kind of built it up and I knew that when I went to talk with Jaffe, I didn't
 want to release the energy in the Hole, I wanted to release in front of Jaffe, so I
 knew I'd get out, and then, even while I was being upset, I was manipulating and
 I was being upset, you know—how could you act upset unless you were upset...
@@ -10397,7 +10397,7 @@ the key features was the power of rules. Rules are formal, simplified ways of co
 
 trolling informal complex behavior. They work by externalizing regulations, by
 
-establishing what is necessary, acceptable, and rewarded and what is unaccept
+establishing what is necessary, acceptable, and rewarded and what is unacceptable
 
 able and therefore punished. Over time, rules come to have an arbitrary life of
 
@@ -10499,7 +10499,7 @@ to follow the period's rigidly hierarchical standards of behavior, he was "frigh
 
 ened" by the ease with which he became an autocratic master. This sixty-fiveyear-old architect was not prepared to slip so readily into a role that allowed him
 
-to exercise absolute power over a household of underservants whom he bossed:
+to exercise absolute power over a household of underlings whom he bossed:
 
 "Suddenly you realize that you don't have to speak. All I had to do was lift my fin
 
@@ -10669,7 +10669,7 @@ the cultural inscriptions written upon them by movie accounts of prison life. So
 
 ciety had done the training for us. We had only to record the extent of their im
 
-provisation with the roles they played—as our data.
+improvisation with the roles they played—as our data.
 
 There is abundant evidence that virtually all of our participants at one time
 
@@ -10705,7 +10705,7 @@ ers escalated to new, higher levels each day despite the prisoners' nonresistanc
 
 and the obvious signs of their deterioration as the full catastrophe of imprison
 
-ment was achieved. In one taped interview, a guard laughingly recalled apologiz
+ment was achieved. In one taped interview, a guard laughingly recalled apologizing
 
 ing for having pushed a prisoner on the first day, but by Day 4. he thought
 
@@ -10763,7 +10763,7 @@ guards: information we gathered about them when they were in their quarters
 
 preparing to enter or leave a shift reveals that they rarely exchanged personal,
 
-nonprison information. Instead, they talked about "problem prisoners," upcom
+nonprison information. Instead, they talked about "problem prisoners," upcoming
 
 ing prison issues, reactions to our staff—never the usual guy stuff that college
 
@@ -10791,7 +10791,7 @@ priest, the head of our Parole Board, the public defender, and the parents on Vi
 
 iting Nights. The parents not only accepted our show of the prison situation as be
 
-nign and interesting rather than hostile and destructive, but they allowed us to
+benign and interesting rather than hostile and destructive, but they allowed us to
 
 impose a set of arbitrary rules on them, as we had done to their children, to con
 
@@ -10851,11 +10851,11 @@ To the extent that we can both live in the skin of a role and yet be able to sep
 
 ourselves from it when necessary, we are in a position to "explain away" our per
 
-sonal responsibility for the damage we cause by our role-based actions. We abdi
+sonal responsibility for the damage we cause by our role-based actions. We abdicate
 
 cate responsibility for our actions, blaming them on that role, which we convince
 
-ourselves is alien to our usual nature. This is an interesting variant of the Nurem
+ourselves is alien to our usual nature. This is an interesting variant of the Nuremberg
 
 berg Trial defense of the Nazi SS leaders: "I was only following orders." Instead
 
@@ -11357,7 +11357,7 @@ existing laws, norms, morals, and ethics. Such validation usually comes cloaked
 
 in the mantle of ideology. Ideology is a slogan or proposition that usually legiti
 
-mizes whatever means are necessary to attain an ultimate goal. Ideology is the
+legitimizes whatever means are necessary to attain an ultimate goal. Ideology is the
 
 "Big Kahuna," which is not challenged or even questioned because it is so appar
 
@@ -11381,9 +11381,9 @@ sounded their call to arms as the necessary defense against a "threat to nationa
 
 security" allegedly posed by socialists or Communists. Eliminating that threat ne
 
-cessitated state-sanctioned torture by the military and civil police. It also legiti
+necessitated state-sanctioned torture by the military and civil police. It also legiti
 
-mized assassination by death squads of all suspected "enemies of the state."
+legitimized assassination by death squads of all suspected "enemies of the state."
 
 2 27
 
@@ -11453,7 +11453,7 @@ system of Hitler's cabinet, the National Socialist politicians, bankers, Gestapo
 
 officers, SS troops, engineers, doctors, architects, chemists, educators, train con
 
-ductors, and more, each doing its part in this concentrated attempt at the geno
+conductors, and more, each doing its part in this concentrated attempt at the geno
 
 cide of all European Jews and other enemies of the State.
 
@@ -11558,7 +11558,7 @@ were the consequences of known psychological processes that operate on all of us
 
 in various ways in many situations—albeit not so intensely, pervasively, and re
 
-lentlessly. They were enmeshed in a "total situation" whose impact was greater
+relentlessly. They were enmeshed in a "total situation" whose impact was greater
 
 than most ordinary situations that we move into and out of repeatedly at will.1
 
@@ -11568,7 +11568,7 @@ plates, to be saint or sinner, altruistic or selfish, gentle or cruel, submissiv
 
 dominant, sane or mad, good or evil. Perhaps we are born with a full range of ca
 
-pacities, each of which is activated and developed depending on the social and
+capacities, each of which is activated and developed depending on the social and
 
 cultural circumstances that govern our lives. I will argue that the potential for
 
@@ -11622,7 +11622,7 @@ ture tactics, into paranoid ideologies and the Nazis' efficient system of mass m
 
 der. Any one of our special attributes contains the possibility of its opposite
 
-negative, as in the dichotomies of love-hate; pride-arrogance; self-esteemself-loathing.2
+negative, as in the dichotomies of love-hate; pride-arrogance; self-self-esteem-loathing.2
 
 The fundamental human need to belong comes from the desire to associate
 
@@ -11632,7 +11632,7 @@ the need to belong can also be perverted into excessive conformity, compliance,
 
 and in-group versus out-group hostility. The need for autonomy and control, the
 
-central forces toward self-direction and planning, can be perverted into an exces
+central forces toward self-direction and planning, can be perverted into an excessive
 
 sive exercise of power to dominate others or into learned helplessness.
 
@@ -11752,7 +11752,7 @@ sive or rationalizing my role in this study, I will use this research as a vehic
 
 outlining the complexity of ethical judgments involved in research that entails in
 
-terventions in human functioning. First, let us consider the category of the ethics
+interventions in human functioning. First, let us consider the category of the ethics
 
 of intervention. That will provide a foundation for comparing absolute ethics to
 
@@ -11766,7 +11766,7 @@ is a matter of ethics (the radical therapist R. D. Laing would say it is a "poli
 
 cision"). The following diverse groups share common objectives: therapists, sur
 
-geons, counselors, experimentalists, educators, urban planners, architects, social
+surgeons, counselors, experimentalists, educators, urban planners, architects, social
 
 reformers, public health agents, cult leaders, used-car salespeople, and our par
 
@@ -11788,7 +11788,7 @@ granted the value of the powerful socializing influences parents exert on their
 
 children in shaping them to their image and toward a socially, politically, and re
 
-ligiously imposed ideal. Should we care that parents do so without obtaining their
+religiously imposed ideal. Should we care that parents do so without obtaining their
 
 children's informed consent? Seems like an idle question until one considers par
 
@@ -11826,11 +11826,11 @@ he used monetary reinforcement or social approval instead of this dubious tech
 
 nique? Is it his goal or his means that some might find ethically offensive? Would
 
-it be preferable instead for this anxious father to rely upon the more subtle indoc-
+it be preferable instead for this anxious father to rely upon the more subtle indoctrination-
 
 2 33
 
-trination devices that are disguised as "education" in the classroom: national
+indoctrination devices that are disguised as "education" in the classroom: national
 
 flags; pictures of national leaders; national anthems; prayers; and being forced to
 
@@ -11902,7 +11902,7 @@ On the basis of such an absolute ethic, the Stanford Prison Experiment must cer
 
 tainly be judged unethical because human beings did suffer considerable an
 
-guish. People suffered much more than they could have reasonably anticipated
+anguish. People suffered much more than they could have reasonably anticipated
 
 when they volunteered for an academic study of "prison life" that was being con
 
@@ -12180,7 +12180,7 @@ perimental design. Moreover, the bystanders did not see the more severe abuses a
 
 they were unfolding, nor were the participants willing to disclose them fully to
 
-outsiders, even to close friends and families. They were driven, perhaps, by embar
+outsiders, even to close friends and families. They were driven, perhaps, by embarrassment
 
 rassment, pride, or a sense of "manliness." So many came and looked but did not
 
@@ -12500,7 +12500,7 @@ the enhanced self-esteem that accompanied his teaching at Stanford with me on
 
 the subject of the psychology of imprisonment, and his contributions to the SPE,
 
-have had salutary consequences for him. He landed a good job as the radio talkshow host of Carlo's Corner on San Francisco's KGO station, where he provoked
+have had salutary consequences for him. He landed a good job as the radio talk show host of Carlo's Corner on San Francisco's KGO station, where he provoked
 
 his listeners to social consciousness and offered penetrating insights into racist
 
@@ -12603,7 +12603,7 @@ I might add that as the flip side to the deindividuation processes that were so
 
 potent in the SPE, Christina has also done pioneering research on its opposite, in
 
-dividuation, the ways in which people strive for uniqueness.18
+individuation, the ways in which people strive for uniqueness.18
 
 Phil Zimbardo. And then there was me. (See notes for status of Curtis Banks and
 
@@ -12749,7 +12749,7 @@ interviews, experiments, and cross-cultural studies, I learned many new things
 
 about time perspective that enabled me to develop a valid, reliable metric for as
 
-sessing individual differences in time perspective.22 The Zimbardo Time Perspec
+assessing individual differences in time perspective.22 The Zimbardo Time Perspec
 
 tive Inventory (ZTPI) is being used by researchers around the world to study a
 
@@ -12791,7 +12791,7 @@ When studying institutions, it also becomes apparent that time perspective
 
 plays a powerful, hidden role in shaping the minds of the those who become "in
 
-stitutionalized," whether in prisons, homes for the aged, or chronic care hospi
+stitutionalized," whether in prisons, homes for the aged, or chronic care hospitals
 
 tals. Endless routines and undifferentiated daily activities create a seeming
 
@@ -12903,7 +12903,7 @@ institutionalization.
 
 Therefore, I have argued that the seeds of madness can be planted in any
 
-one's backyard and will grow in response to transient psychological perturba
+one's backyard and will grow in response to transient psychological perturbations
 
 tions in the course of the lifetime of ordinary experience. Switching from a
 
@@ -13041,7 +13041,7 @@ plaintiffs.
 
 These and other activities that I have engaged in following the SPE were un
 
-dertaken with the sense of an ethical mission. To balance the relative ethics equa
+undertaken with the sense of an ethical mission. To balance the relative ethics equa
 
 tion, I felt it was necessary to compensate for the pain experienced by our SPE
 
@@ -13108,7 +13108,7 @@ erage. I mentioned earlier that it was featured only a few months after its comp
 
 tion on NBC-TV's Chronolog series.29 The illustrated story of the SPE was also
 
-aired on 60 Minutes and the National GeographicTV series.30 Most recently, it was
+aired on 60 Minutes and the National Geographic TV series.30 Most recently, it was
 
 featured in a well-made television program, "The Human Behavior Experi
 
@@ -13158,7 +13158,7 @@ grew foggy and they couldn't concentrate. They became irritated by the
 
 lack of privacy, especially the open toilets. Some felt abandoned and dehu
 
-manized. Others said they began to withdraw or wanted to rebel. Some lost
+dehumanized. Others said they began to withdraw or wanted to rebel. Some lost
 
 track of time." This demonstration alerted the staff to several technical
 
@@ -13200,7 +13200,7 @@ My interest in social psychology began when I was a cadet at the USAF
 
 Academy and read about (or saw the video of) the SPE study in my intro
 
-psych class. It spoke to what I saw going on all around me in the indoctri
+psych class. It spoke to what I saw going on all around me in the indoctrination
 
 nation of promising young minds into killing, dehumanizing, abuse ma
 
@@ -13244,7 +13244,7 @@ brutality. The State Courts have all denied the petitions. Because of my
 
 refusal to let the "things die down" and "forget" all that happened during
 
-my 37 months in solitary, I am the most hated prisoner in this Ohio Peni
+my 37 months in solitary, I am the most hated prisoner in this Ohio Penitentiary
 
 tentiary and called a "hard-core incorrigible."
 
@@ -13390,7 +13390,7 @@ An experiment was conducted for a BBC-TV show based on the SPE model. Its re
 
 sults challenged those of the SPE because the guards showed little violence or cru
 
-elty. Let's fast-forward to the end of the study and its remarkable conclusion: the
+cruelty. Let's fast-forward to the end of the study and its remarkable conclusion: the
 
 prisoners dominated the guards! The guards became "increasingly paranoid, de
 
@@ -13422,7 +13422,7 @@ abusive and destructive. Seeing the film and discussing its implications helps
 
 abused women not to blame themselves for their abuse but to better understand
 
-the situational factors that transformed their once loving mates into such abus
+the situational factors that transformed their once loving mates into such abusing
 
 ing criminals. The experiment has also become absorbed into some versions of
 
@@ -13628,7 +13628,7 @@ server's reviewer concluded, " 'The Experiment' is an improbable thriller of no
 
 great originality that offers itself as a fable of national (possibly universal) in
 
-clination toward authoritarian fascism."44 Harsher was the reviewer of The
+inclination toward authoritarian fascism."44 Harsher was the reviewer of The
 
 Guardian: "Any episode of Big Brother would have had more insight than this silly
 
@@ -13724,7 +13724,7 @@ understand a terrible experience he had had during military boot camp:
 
 Not too far into it [watching the Stanford Prison Experiment], I was almost
 
-in tears. November 2 0 0 1 ,1 joined the United States Marine Corps, pursu
+in tears. November 2 0 0 1 ,1 joined the United States Marine Corps, pursuing
 
 ing a childhood dream. To make a long story short, I had become the vic
 
@@ -13768,7 +13768,7 @@ prisoner Stew-819 wanted to do.] Other behaviors come to mind like the
 
 push-ups for punishment, shaved heads, not having any identity other
 
-than being addressed as and referring to other people as "Recruit So-andso" which replicates your study.
+than being addressed as and referring to other people as "Recruit So-and so" which replicates your study.
 
 The point of it all is even though your experiment was conducted 31
 
@@ -13911,7 +13911,7 @@ identity. Its lure for most of us is obvious—who does not want to be a member 
 
 the "in-group"? Who does not want to know that she or he has been tried and
 
-found worthy of inclusion in, of ascendance into, a new, rarifled realm of social
+found worthy of inclusion in, of ascendance into, a new, rarefied realm of social
 
 acceptability?
 
@@ -13931,7 +13931,7 @@ climbing the corporate ladder.
 
 This motivational force is doubly energized by what Lewis called the "terror
 
-of being left outside." This fear of rejection when one wants acceptance can crip
+of being left outside." This fear of rejection when one wants acceptance can cripple
 
 ple initiative and negate personal autonomy. It can turn social animals into shy
 
@@ -14105,7 +14105,7 @@ Yet these biases can be maladaptive as well by blinding us to our similarity to
 
 others and distancing us from the reality that people just like us behave badly in
 
-certain toxic situations. Such biases also mean that we don't take basic precau
+certain toxic situations. Such biases also mean that we don't take basic precautions
 
 tions to avoid the undesired consequences of our behavior, assuming it won't
 
@@ -14227,7 +14227,7 @@ Sherif also used a confederate who was trained to give estimates that varied
 
 in their latitude from a small to a very large range. Sure enough, the naive sub
 
-ject's autokinetic experience mirrored that of the judgments of this devious con
+subject's autokinetic experience mirrored that of the judgments of this devious con
 
 federate rather than sticking to his previously established personal perceptual
 
@@ -14349,7 +14349,7 @@ comes from research that highlights two of the basic mechanisms that contribute
 
 to group conformity.11 We conform first out of informational needs: other people
 
-often have ideas, views, perspectives, and knowledge that helps us to better navi
+often have ideas, views, perspectives, and knowledge that helps us to better navigate
 
 gate our world, especially through foreign shores and new ports. The second
 
@@ -14369,7 +14369,7 @@ deciding to go along with the group out of normative needs, or are they actually
 
 changing their perceptions and accepting the validity of the new though erro
 
-neous information provided by the group? A recent study utilized advanced
+erroneous information provided by the group? A recent study utilized advanced
 
 brain-scanning technology to answer this question.12 Researchers can now peer
 
@@ -14838,7 +14838,7 @@ them to estimate the percentage of American citizens who would go to each of
 
 the thirty levels in the experiment. On average, they predicted that less than 1 per
 
-cent would go all the way to the end, that only sadists would engage in such sadis
+cent would go all the way to the end, that only sadists would engage in such sadistic
 
 tic behavior, and that most people would drop out at the tenth level of 1 50 volts.
 
@@ -14908,7 +14908,7 @@ continue to shock errors. You look at the shock panel and realize that the easie
 
 exit lies at the end of the last shock lever. A few more lever presses is the fast way
 
-out, with no hassles from the experimenter and no further moans from the nowsilent learner. Voilà! 4 50 volts is the easy way out—achieving your freedom with
+out, with no hassles from the experimenter and no further moans from the now-silent learner. Voilà! 4 50 volts is the easy way out—achieving your freedom with
 
 out directly confronting the authority figure or having to reconcile the suffering
 
@@ -15012,7 +15012,7 @@ want to draw parallels to compliance strategies used by "influence professionals
 
 in real-world settings, such as salespeople, cult and military recruiters, media ad
 
-vertisers, and o t h e r s .20 There are ten methods we can extract from Milgram's
+advertisers, and o t h e r s .20 There are ten methods we can extract from Milgram's
 
 paradigm for this purpose:
 
@@ -15290,7 +15290,7 @@ comparable college class were asked to predict how far an average woman would
 
 go on this task, they estimated 0 percent—a far cry from 1 00 percent. (However,
 
-this faulty low estimate is reminiscent of the 1 percent figure given by the psychia
+this faulty low estimate is reminiscent of the 1 percent figure given by the psychiatrists
 
 trists who assessed the Milgram paradigm.) Again this underscores one of my
 
@@ -15348,7 +15348,7 @@ mously caved in and complied. All but one of twenty-two nurses put to the real
 
 test started to pour the medication (actually a placebo) to administer to the
 
-patient—before the researcher stopped them from doing so. That solitary disobe
+patient—before the researcher stopped them from doing so. That solitary disobedient
 
 dient nurse should have been given a raise and a hero's medal.
 
@@ -15518,7 +15518,7 @@ Sexual Obedience to Authority: The Strip-Search Scam
 
 "Strip-search scams" have been perpetrated in a number of fast-food restaurant
 
-chains throughout the United States. This phenomenon demonstrates the perva
+chains throughout the United States. This phenomenon demonstrates the pervasiveness
 
 siveness of obedience to an anonymous but seemingly important authority. The
 
@@ -15602,7 +15602,7 @@ sitions of the victim and her assailants, as naive, ignorant, gullible, weird in
 
 viduals. However, when we learn that this scam has been carried out successfully
 
-in sixty-eight similar fast-food settings in thirty-two different states, in a halfdozen different restaurant chains, and with assistant managers of many restau
+in sixty-eight similar fast-food settings in thirty-two different states, in a half-dozen different restaurant chains, and with assistant managers of many restau
 
 rants around the country being conned, with both male and female victims, our
 
@@ -15710,7 +15710,7 @@ for the students and a shock for the teacher, not to mention the principal and t
 
 students' parents. Simulation and reality merged as these students created a to
 
-talitarian system of beliefs and coercive control that was all too much like that
+totalitarian system of beliefs and coercive control that was all too much like that
 
 fashioned by Hitler's Nazi regime.34
 
@@ -15760,7 +15760,7 @@ They were "a select group of young people chosen to help in this cause," he told
 
 them. A rally was scheduled for the next day at which a national presidential can
 
-didate was supposed to announce on TV the formation of a new Third Wave
+candidate was supposed to announce on TV the formation of a new Third Wave
 
 Youth program. More than two hundred students filled the auditorium at Cubberly High School in eager anticipation of this announcement. Exhilarated Wave
 
@@ -15856,7 +15856,7 @@ brown-eyes had to obey rules that enforced their second-class status, including
 
 wearing a collar that enabled others to recognize their lowly status from a distance.
 
-The previously friendly blue-eyed kids refused to play with the bad "browneyes," and they suggested that school officials should be notified that the
+The previously friendly blue-eyed kids refused to play with the bad "brown-eyes," and they suggested that school officials should be notified that the
 
 brown-eyes might steal things. Soon fistfights erupted during recess, and one
 
@@ -15870,7 +15870,7 @@ angry. They described themselves as "sad," "bad," "stupid," and "mean."
 
 The next day was turnabout time. Mrs. Elliott told the class that she had been
 
-wrong—it was really the brown-eyed children who were superior and the blueeyed ones who were inferior, and she provided specious new evidence to support
+wrong—it was really the brown-eyed children who were superior and the blue-eyed ones who were inferior, and she provided specious new evidence to support
 
 this chromatic theory of good and evil. The blue-eyes now switched from their
 
@@ -15934,7 +15934,7 @@ views on a simple survey to be completed now by you and the rest of the students
 
 in the auditorium. You begin answering the questions because you have been per
 
-suaded that this is a new vital issue about which your voice matters. You dili
+suaded that this is a new vital issue about which your voice matters. You diligently
 
 gently answer each of the seven questions and discover that there is a lot of
 
@@ -16008,7 +16008,7 @@ most Polish Jews lived in small towns and not large cities, the question that
 
 Browning raised about the German high command was "where had they found
 
-the manpower during this pivotal year of the war for such an astounding logisti
+the manpower during this pivotal year of the war for such an astounding logistical
 
 cal achievement in mass murder?"39
 
@@ -16038,7 +16038,7 @@ refuse to execute these men, women, and children. The records indicate that at
 
 first about half the men refused and let the other police reservists engage in the
 
-mass murder. But over time, social modeling processes took over, as did guiltinduced persuasion by those reservists who had been doing the shooting, along
+mass murder. But over time, social modeling processes took over, as did guilt-induced persuasion by those reservists who had been doing the shooting, along
 
 with the usual group conformity pressures of "how would they be seen in the eyes
 
@@ -16126,7 +16126,7 @@ dreds of former Nazi SS men, from privates to generals. He needed to know what
 
 had made these men embrace such unspeakable evil day in and day out. Steiner
 
-found that many of these men were high on the F-Scale measure of authoritari
+found that many of these men were high on the F-Scale measure of authoritarian
 
 anism, which attracted them to the subculture of violence in the SS. He refers to
 
@@ -16374,7 +16374,7 @@ ponents of their police training—we might be able to generalize across culture
 
 and settings and discover some of the operative principles responsible for this re
 
-markable human transformation.
+remarkable human transformation.
 
 The sociologist and Brazil expert Martha Huggins, the Greek psychologist
 
@@ -16546,13 +16546,13 @@ financial incentive, or a monthly pension, that goes to their family.
 
 Their photo is emblazoned on posters that will be put on walls everywhere in
 
-the community the moment they succeed in their mission—to become inspira
+the community the moment they succeed in their mission—to become inspirational
 
 tional models for the next round of suicide bombers. To stifle their concerns about
 
 the pain from wounds inflicted by exploding nails and other bomb parts, the re
 
-cruits are assured that before the first drop of their blood touches the ground they
+recruits are assured that before the first drop of their blood touches the ground they
 
 will already be seated at the side of Allah, feeling no pain, only pleasure. The die is
 
@@ -16673,7 +16673,7 @@ it," reflected a friend of one of them.
 
 "The most terrifying thing about suicide bombers is their sheer normality,"
 
-concludes Andrew Silke, an expert on the subject.57 He notes that in all the foren
+concludes Andrew Silke, an expert on the subject.57 He notes that in all the forensic
 
 sic examinations of the bodies of dead suicide bombers there have never been
 
@@ -16715,7 +16715,7 @@ tion, where brotherhood and tolerance would be dominant over the materialism
 
 and racism he loathed in the United States. But over time and place Jones was
 
-transformed from the caring, spiritual "father" of this large Protestant congrega
+transformed from the caring, spiritual "father" of this large Protestant congregation
 
 tion into an Angel of Death—a truly cosmic transformation of Luciferian propor
 
@@ -16745,7 +16745,7 @@ to drink by the guards or shot trying to escape, but it appears as though most
 
 obeyed their leader.
 
-Jones was surely an egomaniac; he had all of his speeches and proclama
+Jones was surely an egomaniac; he had all of his speeches and proclamations
 
 tions, and even his torture sessions tape-recorded—including this last-hour sui
 
@@ -16779,7 +16779,7 @@ gonna get. Let's just be done with it. Let's be done with the agony of it.
 
 with their child. I think it's humane. I want to go—I want to see you go,
 
-t h o u g h . . .. It's not to be afeared. It is not to be feared. It is a friend. It's a
+t h o u g h . . .. It's not to be afraid. It is not to be feared. It is a friend. It's a
 
 friend... sitting there, show your love for one another. Let's get gone. Let's
 
@@ -16787,7 +16787,7 @@ get gone. Let's get gone. [Children crying.]. . . . Lay down your life with
 
 dignity. Don't lay down with tears and agony. There's nothing to death. . . .
 
-it's just stepping over to another plane. Don't be this way. Stop this hyster
+it's just stepping over to another plane. Don't be this way. Stop this hysteria
 
 ics. . .. No way for us to die. We must die with some dignity. We must die
 
@@ -16886,7 +16886,7 @@ that avarice,
 is a heap of conspiracies,
 The historical account of humans
 revolutions,
-bellions,
+rebellions,
 very worst
 faction,
 ness, cruelty, rage, madness, hatred, envy,
@@ -16897,7 +16897,7 @@ that nature ever suffered
 
 re
 the
-hypocrisy, perfidiouslust, malice, and am
+hypocrisy, perfidious lust, malice, and am
 the bulk of your
 the most pernicious race of little odious vermin
 the surface of the earth.
@@ -17322,7 +17322,7 @@ tumes arrived, they were put on in different rooms so the children's identities
 
 were not known to each other, and they played the same games but now in cos
 
-tume. In the third phase, the costumes were removed (allegedly to be given to
+costume. In the third phase, the costumes were removed (allegedly to be given to
 
 other children in other parties) and the games continued as in the first phase.
 
@@ -17656,7 +17656,7 @@ He represented both a force for the liberation of the human spirit from its stai
 
 confinement in rational discourse and orderly planning, and a force of destruc
 
-tion: lust without limits and personal pleasure without societal controls. Diony
+tion: lust without limits and personal pleasure without societal controls. Dionysus
 
 sus was the god of drunkenness, the god of insanity, the god of sexual frenzy and
 
@@ -17706,7 +17706,7 @@ It is deindividualization in group action.
 
 D E H U M A N I Z A T I ON A ND M O R AL D I S E N G A G E M E NT
 
-Dehumanization is the central construct in our understanding of "man's inhu
+Dehumanization is the central construct in our understanding of "man's inhumanity
 
 manity to man." Dehumanization occurs whenever some human beings consider
 
@@ -17852,9 +17852,9 @@ see how the responsibility variations operated. After settling into the study, e
 
 group of participants believed they were overhearing an interchange over the in
 
-tercom between the research assistant and the experimenter about the question
+intercom between the research assistant and the experimenter about the question
 
-naires the decision makers had allegedly completed. The assistant remarked in a
+questionnaires the decision makers had allegedly completed. The assistant remarked in a
 
 brief aside that the personal qualities exhibited by this group confirmed the opin
 
@@ -17958,7 +17958,7 @@ less personally responsible and when their victims were dehumanized.
 
 When Bandura's research team evaluated how the participants had justified
 
-their performance, they found that dehumanization promoted the use of selfabsolving justifications, which in turn were associated with increasing punish
+their performance, they found that dehumanization promoted the use of self-absolving justifications, which in turn were associated with increasing punish
 
 ment. These findings about how people disengage their usual self-sanctions
 
@@ -17980,7 +17980,7 @@ moral standards imposed by parents, teachers, and other authorities become in
 
 ternalized as codes of personal conduct. People develop personal controls over
 
-their thoughts and actions that become satisfying and provide a sense of selfworth. They learn to sanction themselves to prevent acting inhumanely and to
+their thoughts and actions that become satisfying and provide a sense of self-worth. They learn to sanction themselves to prevent acting inhumanely and to
 
 foster humane actions. The self-regulatory mechanisms are not fixed and static in
 
@@ -17996,7 +17996,7 @@ of moral standards by simply disengaging their usual moral functioning at cer
 
 tain times, in certain situations, for certain purposes, ft is as if they shift their
 
-morality into neutral gear and coast along without concern for hitting pedestri
+morality into neutral gear and coast along without concern for hitting pedestrians
 
 ans until they later shift back to a higher gear, returning to higher moral ground.
 
@@ -18120,7 +18120,7 @@ I Am More Human than You: The Infrahumanization Bias
 
 Beyond perceiving and derogating others in the "out-group" with animallike
 
-qualities, people also deny them any "human essence." Out-group infrahumaniza
+qualities, people also deny them any "human essence." Out-group infrahumanization
 
 tion is a newly investigated phenomenon in which people tend to attribute
 
@@ -18132,7 +18132,7 @@ However, we go further in declaring that the essence of humanness resides
 
 primarily in ourselves, more so than in any others, even our in-group members.
 
-While we attribute infrahumaness to out-groups, as less than human, we are mo
+While we attribute infrahumaneness to out-groups, as less than human, we are mo
 
 tivated to see ourselves as more human than others. We deny uniquely human
 
@@ -18146,7 +18146,7 @@ bias. These tendencies appear to be rather general and multifaceted. A team of
 
 Australian researchers concluded their investigation into the perception of hu
 
-manness with a variant of the famous quote by the ancient Roman writer Ter
+humanness with a variant of the famous quote by the ancient Roman writer Ter
 
 ence. He proudly proclaimed, "Nothing human is alien to me." Its ironic twist
 
@@ -18190,7 +18190,7 @@ In Faces of the Enemy, Sam K e e n21 shows how archetypes of the enemy are
 
 created by visual propaganda that most nations use against those judged to be the
 
-dangerous "them," "outsiders," "enemies." These visual images create a consen-
+dangerous "them," "outsiders," "enemies." These visual images create a consensual-
 
 sual societal paranoia that is focused on the enemy who would do harm to the
 
@@ -18532,7 +18532,7 @@ cause they were in a hurry to give a sermon about it. They experienced the clash
 
 in task demands: to help science or to help a victim. Science won, and the victim
 
-was left to suffer. (As you would now expect, the victim was an acting confeder
+was left to suffer. (As you would now expect, the victim was an acting confederate
 
 ate.)
 
@@ -18544,7 +18544,7 @@ major variations in who helped and who were passive bystanders. There was no
 
 need to resort to dispositional explanations about theology students being cal
 
-lous, cynical, or indifferent, as the nonhelping New Yorkers were assumed to be in
+lous, cynical, or indifferent, as the non-helping New Yorkers were assumed to be in
 
 the case of poor Kitty Genovese. When the research was replicated, the same re
 
@@ -18654,7 +18654,7 @@ posal to prevent the suffering and deaths of many citizens. Despite advance warn
 
 ings of the impending disaster of the worst kind imaginable, city, state, and
 
-national authorities did not engage in the basic preparations needed for evacua
+national authorities did not engage in the basic preparations needed for evacuation
 
 tion and for the safety of those who could not leave on their own. In addition to
 
@@ -18712,7 +18712,7 @@ under special circumstances—which they define. Many of the recently uncovered
 
 scandals at the highest levels of government, in the military, and in business in
 
-volve the toxic mix of unverbalized authority expectations conveyed to subordi
+volve the toxic mix of unverbalized authority expectations conveyed to subordinates
 
 nates who want to be accepted in the "Inner Ring," with the tacit approval of a
 
@@ -18845,7 +18845,7 @@ The workings of the criminal justice system should not continue to be
 
 guided by illusions about cross-situational consistency in behavior, by er
 
-roneous notions about the impact of dispositions versus situations in guid
+erroneous notions about the impact of dispositions versus situations in guid
 
 ing behavior, or by failures to think through the logic of "person by
 
@@ -18915,9 +18915,9 @@ Some situations "essentialize" the roles people are assigned; each person
 
 must be what the role demands when he is on that stage set. Image, if you will,
 
-that you are a totally normal person who finds yourself hospitalized in a psychi
+that you are a totally normal person who finds yourself hospitalized in a psychiatric
 
-atric ward in a mental hospital. You are there because a hospital admissions offi
+psychiatric ward in a mental hospital. You are there because a hospital admissions offi
 
 cer mistakenly labeled you as "schizophrenic." That diagnosis was based on the
 
@@ -18983,7 +18983,7 @@ even when detailed, does not capture the affective tone of the place, its nonver
 
 features, its emergent norms, or the ego involvement and arousal of being a par
 
-ticipant. It is the difference between being an audience member at a game show
+participant. It is the difference between being an audience member at a game show
 
 and being the contestant onstage. It is one reason that experiential learning can
 
@@ -19049,7 +19049,7 @@ our times: the digitally documented abuses of Iraqis detained in the prison at A
 
 Ghraib. Revelations of these violations against humanity moved out from that se
 
-cret dungeon in Tier 1A, that little shop of horrors, to reverberate around a
+secret dungeon in Tier 1A, that little shop of horrors, to reverberate around a
 
 shocked world. How could this happen? Who was responsible? Why had pho
 
@@ -19166,7 +19166,7 @@ if his legs gave way and he fell off the perch, he would be electrocuted. His ho
 
 was lifted briefly to see the wires leading from the wall to his body. They were false
 
-electrodes that aimed at inducing anxiety, not physical pain. How long he shud
+electrodes that aimed at inducing anxiety, not physical pain. How long he shuddered
 
 dered in absolute fear for his life we don't know, but we can readily imagine the
 
@@ -19226,7 +19226,7 @@ authoritative declaration to absolve the System and blame the few at the bottom
 
 of the barrel. His claim was reminiscent of what police chiefs tell the media when
 
-ever police abuse of criminal suspects is revealed—blame the few rotten-applebad-cops—to deflect the focus away from the norms and usual practices in the
+ever police abuse of criminal suspects is revealed—blame the few rotten-bad-cops—to deflect the focus away from the norms and usual practices in the
 
 back rooms of police stations or the police department itself. This rush to attribute
 
@@ -19738,7 +19738,7 @@ tower where it's built so close to the neighborhood that we can look into the be
 
 rooms, you know, right there on the porches. There were snipers on those roofs
 
-and on those porches firing at the soldiiers who were up there on the towers. So
+and on those porches firing at the soldiers who were up there on the towers. So
 
 we're constantly on guard and trying to defend this and trying to keep the insur
 
@@ -19746,9 +19746,9 @@ gents away from coming inside."12
 
 After the U.S. forces overthrew Saddam's government in March 2 0 0 3, the
 
-name of the prison was changed from Abu Ghraib—to dissociate it from its unsa
+name of the prison was changed from Abu Ghraib—to dissociate it from its unsavory
 
-vory past—to the Baghdad Central Confinement Facility (BCCF)—initials seen in
+unsavory past—to the Baghdad Central Confinement Facility (BCCF)—initials seen in
 
 3 33
 
@@ -19798,7 +19798,7 @@ against the Coalition. Once arrested and found innocent after interrogation, the
 
 were not released because the military feared that they would then join the insur
 
-gency, or because nobody wanted to take the reponsibility for making such deci
+gency, or because nobody wanted to take the responsibility for making such deci
 
 sions.
 
@@ -19892,9 +19892,9 @@ generators. The prisoners stank, as did the whole facility that enclosed them.
 
 Under the heavy rains of summer, when temperatures soared well above 1 10 de
 
-grees F. ( 45 C ), the prison became a baking oven, or sauna. During a windstorm,
+degrees F. ( 45 C ), the prison became a baking oven, or sauna. During a windstorm,
 
-fine dust participles got into everyone's lungs, causing congestion and viral infec
+fine dust participles got into everyone's lungs, causing congestion and viral infections
 
 tions.
 
@@ -19908,7 +19908,7 @@ prison site.
 
 Nor did the quality of the food make up for the other deficiencies in the ac
 
-commodations. Even though this large facility had recently been renovated by the
+accommodations. Even though this large facility had recently been renovated by the
 
 U.S. Army, there were no mess halls. For more than two years after the occupation
 
@@ -19967,7 +19967,7 @@ solutely no experience in running any kind of prison system. Now she was sup
 
 posed to command three large jails, seventeen prisons throughout Iraq, eight
 
-battalions of soldiers, hundreds of Iraqi guards, and thirty-four hundred inexpe
+battalions of soldiers, hundreds of Iraqi guards, and thirty-four hundred inexperienced
 
 rienced Army Reservists, as well as the special Interrogation Center in Tier 1 A. It
 
@@ -20029,7 +20029,7 @@ As the prison population swelled to more than ten thousand during the first
 
 six months of Karpinski's tenure, there were, among those imprisoned, thirty ju
 
-veniles, ages ten to seventeen. For these children not only were there no educa
+juveniles, ages ten to seventeen. For these children not only were there no educa
 
 tional programs, but there were also no separate facilities. "It was heartbreaking
 
@@ -20065,7 +20065,7 @@ Police Company, from the night shift on Tier 1 A.
 
 General Karpinski was later admonished, suspended from duty, officially rep
 
-rimanded, and removed from this command. She was also demoted to the rank of
+reprimanded, and removed from this command. She was also demoted to the rank of
 
 colonel and retired from the service. She was the first officer to be found blame
 
@@ -20481,7 +20481,7 @@ conclusion: "Validity scales indicate the patient presented himself as a morally
 
 virtuous individual," according to the military psychologist conducting the as
 
-sessment. In addition, these standardized test results indicate that Chip Frederick
+assessment. In addition, these standardized test results indicate that Chip Frederick
 
 has "no sadistic or pathological tendencies." That conclusion strongly suggests
 
@@ -20603,11 +20603,11 @@ he was unaware of who the "client" was and of his specific work setting).29
 
 According to Dr. Leiter, Chip's scores reveal an unusual profile of burnout on
 
-these three dimensions. Ordinarily, a high degree of exhaustion, elevated cyni
+these three dimensions. Ordinarily, a high degree of exhaustion, elevated cynicism
 
 cism, and a reduced sense of personal effectiveness at work go together in charac
 
-terizing job burnout. However, Chip showed few signs of cynicism or a negative
+characterizing job burnout. However, Chip showed few signs of cynicism or a negative
 
 evaluation of his personal work effectiveness. Nonetheless, he does show extreme
 
@@ -20679,7 +20679,7 @@ been forced to work and live in such an abnormal situation, he might have been
 
 the military's All-American poster soldier on its recruitment ads. He could have
 
-been used honestly in place of the military's fabricated psuedoheroes. Privates
+been used honestly in place of the military's fabricated pseudoheroes. Privates
 
 Jessica Lynch and Pat Tillman.31 The military could have used Staff Sergeant Ivan
 
@@ -20737,7 +20737,7 @@ serve Company (based in Cresaptown, Maryland) replaced the 72nd Military
 
 Police National Guard Company. Initially, he was able to handle the complex as
 
-signments handed to him, even though it was an escalation from the hundred or
+assignments handed to him, even though it was an escalation from the hundred or
 
 so medium-security prisoners he had had under his command back home. How
 
@@ -20847,7 +20847,7 @@ cell doors, should not have prisoners nude except for self-mutilators, can't han
 
 prisoners with mental conditions. . . . One of the first things that I asked for as
 
-soon as I got there was regulations, operating procedures. . . . I was housing juve
+soon as I got there was regulations, operating procedures. . . . I was housing juveniles
 
 niles, men, women, and mentally ill prisoners all in the same thing, it's a violation
 
@@ -20905,7 +20905,7 @@ complaining to his superiors.
 
 Where did he go at 4 A.M. when his long twelve-hour shift was over? He sim
 
-ply went to sleep in another part of the prison—in a prison cell! He slept in a sixby-nine-foot prison cell that had no toilet but did have plenty of rodents running
+ply went to sleep in another part of the prison—in a prison cell! He slept in a six-by-nine-foot prison cell that had no toilet but did have plenty of rodents running
 
 around it. ft was dirty because there were not enough cleaning supplies and not
 
@@ -20935,7 +20935,7 @@ be fed. I ate a lot of cheese and crackers," Chip reported. Other emerging healt
 
 problems for this athletic, socially minded young man were that he stopped exer
 
-cising because he was always tired and he was not able to socialize with buddies
+exercising because he was always tired and he was not able to socialize with buddies
 
 because of work schedule conflicts. More and more his life revolved entirely
 
@@ -21001,7 +21001,7 @@ the middle of the night. Commander Karpinski never visited Tiers 1 A /B during
 
 the months that Chip was on duty, except once when giving a TV tour. One re
 
-servist in that unit reported seeing Karpinski only twice in the five months he was
+reservist in that unit reported seeing Karpinski only twice in the five months he was
 
 at Abu Ghraib. A few other officers made brief appearances in the late afternoon.
 
@@ -21079,7 +21079,7 @@ The use of sterilized uniforms [cleansed of all identification] is highly sugges
 
 and personnel should NOT address each other by true name and rank in the seg
 
-regation a r e a . "33
+segregation a r e a . "33
 
 The Army's own investigations revealed the truth of Frederick's descriptions
 
@@ -21213,7 +21213,7 @@ One of the most frightening and unexpected series of events on the tier happened
 
 on November 2 4, 2 0 0 3, when Iraqi police smuggled a handgun, ammo, and bay
 
-onets into the cell of a suspected Syrian insurgent. Chip's small force had a shoot
+bayonets into the cell of a suspected Syrian insurgent. Chip's small force had a shoot
 
 out with him, and they were able to subdue him without killing him. However,
 
@@ -21231,7 +21231,7 @@ daily bombardment, and both guards and prisoners were wounded and some
 
 killed by these mortar attacks. "I was always fearful," Chip confessed to me. "The
 
-mortar and rocket attacks and the firelights were very scary for me. I had never
+mortar and rocket attacks and the firefights were very scary for me. I had never
 
 been in a combat zone before Iraq." Nevertheless, he had to suck it up and act
 
@@ -21287,7 +21287,7 @@ Now that we have surveyed the work setting, we can begin to see parallels be
 
 tween the psychological states experienced by Chip Frederick and his fellow
 
-guards with those of the guards in the Stanford Prison Experiment. Deindividua
+guards with those of the guards in the Stanford Prison Experiment. Deindividuation
 
 tion processes created by anonymity of person and anonymity of place are evi
 
@@ -21305,7 +21305,7 @@ your imagination. Break them. We want them broke by the time we come back.'
 
 As soon as we'd have prisoners come in, sandbags instantly on their head. They
 
-would flexicuff 'em; throw 'em down to the ground; some would be stripped. It
+would flexicuffs 'em; throw 'em down to the ground; some would be stripped. It
 
 was told to all of us, they're nothing but dogs [familiar phrase?]. So you start
 
@@ -21536,9 +21536,9 @@ Sexual Dynamics on Tier lA
 
 One of the unusual features of the night shift staff on Alpha Tier was the mixture
 
-of young female and male guards. It is noteworthy that, in this culture of unsu
+of young female and male guards. It is noteworthy that, in this culture of unsupervised
 
-pervised young adults, the women were quite attractive. Add to this emotionally
+supervised young adults, the women were quite attractive. Add to this emotionally
 
 charged mix young Lynndie England, who hung out with that shift to be with her
 
@@ -21578,7 +21578,7 @@ group of Iraqi prisoners allegedly raped a fifteen-year-old boy who had been
 
 housed with them. Specialist Sabrina Harman marked one of these men on his leg
 
-with a Sharpie pen, "I am a Rapeist" [sic]. On another of them, a lipstick face was
+with a Sharpie pen, "I am a Rapist" [sic]. On another of them, a lipstick face was
 
 drawn around his nipples with his prison ID number also marked with lipstick
 
@@ -21818,7 +21818,7 @@ pany recalled. Another buddy remembered Graner as "a funny guy, outgoing,
 
 and quick to crack a joke." He added. "From what I saw, he did not have a ma
 
-levolent side." However, according to another member of Graner's unit, a poten
+malevolent side." However, according to another member of Graner's unit, a poten
 
 tially violent confrontation between him and some other soldiers with Iraqi
 
@@ -21976,7 +21976,7 @@ and Graner as good soldier is found in his performance evaluation during the key
 
 month of the prisoner abuses. On November 1 6 , 2 0 0 3, in a Developmental Coun
 
-seling Form ( 4 8 5 6) given to Graner by the platoon leader Captain Brinson, he is
+counseling Form ( 4 8 5 6) given to Graner by the platoon leader Captain Brinson, he is
 
 singled out for the fine job he has been doing:
 
@@ -22032,7 +22032,7 @@ And I said, "What do you mean?"
 
 He says, "Every time a bomb goes off outside the wire, or outside the
 
-fence, they come in, and they tell me, that's another American losin' their
+fence, they come in, and they tell me, that's another American losin'' their
 
 life. And unless you help us, their blood's on your hands as well."49
 
@@ -22052,7 +22052,7 @@ more effective. Megan Ambuhl has asserted that "There were no credible claims of
 
 sodomy, or rape, nor were there pictures or videos of such, at least not by any of the
 
-7 MP's involved in this investigation." She continued, "I have all the pictures and
+7 MPs involved in this investigation." She continued, "I have all the pictures and
 
 videos from the beginning of the investigation. I spent almost 13 hours a day on
 
@@ -22096,13 +22096,13 @@ tracks of how important conflicts are judged and remembered. The West
 
 ern memory museum is now mostly a visual one. Photographs have an in
 
-superable power to determine what we recall of events, and it now seems
+insuperable power to determine what we recall of events, and it now seems
 
 probable that the defining association of people everywhere with the war
 
 that the United States launched pre-emptively in Iraq last year will be pho
 
-tographs of the torture of Iraqi prisoners by Americans in the most infa
+tographs of the torture of Iraqi prisoners by Americans in the most infamous
 
 mous of Saddam Hussein's prisons, Abu Ghraib.51
 
@@ -22140,7 +22140,7 @@ Digital Power
 
 One simple answer is that new digital technology makes everyone an instant pho
 tographer. It provides immediate feedback and no development waiting time, and
-its images can easily be readily shared online without being censored by filmdeveloping laboratories. Because these cameras are conveniently small in size,
+its images can easily be readily shared online without being censored by film developing laboratories. Because these cameras are conveniently small in size,
 large in capacity, and relatively inexpensive, they are so ubiquitous that it is easy
 for anyone to take hundreds of photos on the spot. Just as Web logs (blogs) and
 
@@ -22206,7 +22206,7 @@ mented in photographs contained in a website devoted to that genocide.56
 
 Another genre of trophy photos common in pre-animal-rights eras is that of
 
-big-game hunters and sports fishermen exulting over their marlin, tigers, or griz
+big-game hunters and sports fishermen exulting over their marlin, tigers, or grizzly
 
 zly bears. I recall seeing a photo of Ernest Hemingway in such a pose. However,
 
@@ -22246,7 +22246,7 @@ these antics. However, they failed to realize that file sharing and easy distrib
 
 would make the digital images independent of the photographers; they would
 
-lose control over who would get to view them—and thus they were caught redhanded by the authorities.
+lose control over who would get to view them—and thus they were caught red-handed by the authorities.
 
 With the exception of the iconic image of torture of the hooded man with
 
@@ -22425,7 +22425,7 @@ cent victims. It was also re-created by some of the guards in our Stanford priso
 
 In these situations, as in Abu Ghraib, standard social constraints against aggres
 
-sion and antisocial action were suspended as people experienced extended lati
+sion and antisocial action were suspended as people experienced extended latitudes
 
 tudes of behavioral freedom.
 
@@ -22571,7 +22571,7 @@ mand responsible for Abu Ghraib invested a fraction of that attention, concern,
 
 and resources in oversight and maintenance of discipline, there would have been
 
-no need for these trials.) Their game plan was simple and compelling: After gath
+no need for these trials.) Their game plan was simple and compelling: After gathering
 
 ering sufficient evidence and testimonies, they worked out plea bargain deals with
 
@@ -22792,7 +22792,7 @@ Some Relevant Comparisons
 
 There is no question that the abuses engaged in by Chip Frederick brought physi
 
-cal and emotional suffering to prisoners under his charge and enduring humilia
+cal and emotional suffering to prisoners under his charge and enduring humiliation
 
 tion and anger to their families. He pled guilty, was found guilty as charged and
 
@@ -22896,7 +22896,7 @@ ceived: reduction in rank to SSG, no prison time, no DD.
 
 Corporal Graner was found guilty of assault, maltreatment, nonverbal con
 
-spiracy, indecent acts, and dereliction of duty. Maximum sentence: 15 years
+conspiracy, indecent acts, and dereliction of duty. Maximum sentence: 15 years
 
 in prison, DD, and E l. Received: 10 years in prison, DD, E l, and a fine.
 
@@ -23022,7 +23022,7 @@ also reminiscent of a classic social psychological experiment that showed greate
 
 loyalty to one's group the more severe was the initiation into i t .65
 
-Martha Frederick's life has also been shattered by these trials and tribula
+Martha Frederick's life has also been shattered by these trials and tribulations
 
 tions. You may recall that she is a corrections officer in the Pennsylvania prison
 
@@ -23140,7 +23140,7 @@ such torture in Guantanamo Bay Prison and then transporting it to Abu Ghraib
 
 and beyond.
 
-I will shift roles from behavioral scientist turned pyschological investigative
+I will shift roles from behavioral scientist turned psychological investigative
 
 reporter in the current chapter to that of prosecutor in the next. I will charge se
 
@@ -23232,7 +23232,7 @@ comparisons, as in the Schlesinger report (quoted at the start of this chapter) 
 
 in a report by former Naval Cryptologist Alan Hensley. In his analysis of the de
 
-fendants charged with the abuses, he concluded:
+defendants charged with the abuses, he concluded:
 
 In the case of Abu Ghraib, a model described in detail in the Zimbardo
 
@@ -23246,7 +23246,7 @@ ticipants."70
 
 I want to end this phase of our journey with the analysis of Newsweek maga
 
-zine's Baghdad bureau chief, Ron Nordland, about what he thinks went wrong in
+magazine Baghdad bureau chief, Ron Nordland, about what he thinks went wrong in
 
 a war that began with good intentions:
 
@@ -23281,7 +23281,7 @@ And I would remind you, sir, that the enemy fights on morale like we
 
 do, and this can form a rallying point for our enemies now and in the fu
 
-ture. And I would also ask you to think about enemies who might surren
+ture. And I would also ask you to think about enemies who might surrender
 
 der in the future. That's what we ideally want. We want them to be so
 
@@ -23307,7 +23307,7 @@ Military:
 
 Finally, sir. the honor of our United States Army is both precious and per
 
-ishable. We have a sacred trust in the United States Army, of all armies,
+perishable. We have a sacred trust in the United States Army, of all armies,
 
 but in particular, our Army, is that we bear this great responsibility and
 
@@ -23523,7 +23523,7 @@ fuller investigation into allegations of detainee abuse, undocumented prisoner e
 
 capes, and widespread failures in discipline and accountability. Taguba did an ad
 
-mirable job in a detailed, extensive investigation that was published in March
+admirable job in a detailed, extensive investigation that was published in March
 
 2 0 0 4. Although it was intended to remain classified because it made direct accu
 
@@ -24063,7 +24063,7 @@ tive to the Treatment of Prisoners of War.
 
 the Hard-Site at Abu Ghraib (BCCF).
 
-• Failing to properly establish and enforce basic soldier standards, profi
+• Failing to properly establish and enforce basic soldier standards, proficiency
 
 ciency, and accountability.
 
@@ -24142,7 +24142,7 @@ dan, Mr. Steven Stephanowicz, and Mr. John Israel were either directly or
 
 indirectly responsible for the abuses at Abu Ghraib (BCCF) and strongly rec
 
-ommend immediate disciplinary action as described in the preceding
+recommend immediate disciplinary action as described in the preceding
 
 paragraphs as well as the initiation of a Procedure 15 Inquiry to deter
 
@@ -24150,7 +24150,7 @@ mine the full extent of their culpability. [Italics added for emphasis.]
 
 The Milolashek Report Blames Only the Few
 
-Lieutenant General Paul T. Milolashek, Army inspector general, reviewed ninetyfour confirmed cases of detainee abuse in Afghanistan and Iraq and the conditions
+Lieutenant General Paul T. Milolashek, Army inspector general, reviewed ninety-four confirmed cases of detainee abuse in Afghanistan and Iraq and the conditions
 
 contributing to these violations of U.S. military policy; (the report was issued on
 
@@ -24727,7 +24727,7 @@ Widespread Military Abuses
 
 First, the report notes the widespread nature of "abuse" across all U.S. military fa
 
-cilities. (The term "torture" is never used.) At that time, November 2 0 0 4, there
+facilities. (The term "torture" is never used.) At that time, November 2 0 0 4, there
 
 were three hundred incidents of alleged detainee abuse in joint operation
 
@@ -24787,7 +24787,7 @@ fire from mortar and rocket-propelled grenades
 
 • Several riots in the prison
 
-• MI and MP seriously underresourced
+• MI and MP seriously under-resourced
 
 • MI and MP lack of unit cohesion and midlevel leadership
 
@@ -24807,7 +24807,7 @@ capability to overcome the shortfalls it confronted
 
 forced
 
-• No clear delineation of responsibility between commands and little coordi
+• No clear delineation of responsibility between commands and little coordination
 
 nation; lax and dysfunctional command structure
 
@@ -24821,7 +24821,7 @@ nessed and provided tacit approval as bystanders
 
 • "Secretary Rumsfeld publicly declared he directed one detainee be held se
 
-cretly at the request of the Director of Central Intelligence." That action
+secretly at the request of the Director of Central Intelligence." That action
 
 provided a model of deception at the highest levels of command, which
 
@@ -24860,7 +24860,7 @@ clusion that military intelligence personnel share responsibility for the
 
 abuses at Abu Ghraib.
 
-The unclear command structure at Abu Ghraib was further exacer
+The unclear command structure at Abu Ghraib was further exacerbated
 
 bated by the confused relationships up the chain.
 
@@ -25104,7 +25104,7 @@ the "justifiers," the lawyers who came up with new language and concepts that
 
 legalized "torture" in new ways and means—the president's legal counselors Al
 
-berto Gonzales, John You, Jay Bybee, William Taft, and John Ashcroft. The "fore
+Alberto Gonzales, John You, Jay Bybee, William Taft, and John Ashcroft. The "fore
 
 men" on the torture construction job were the military leaders, such as Generals
 
@@ -25158,7 +25158,7 @@ and military leaders—including Secretary of Defense Donald Rumsfeld,
 
 former CIA Director George Tenet, Lieutenant General Ricardo Sanchez, for
 
-merly the top commander in Iraq, and Major General Geoffrey Miller, the
+formerly the top commander in Iraq, and Major General Geoffrey Miller, the
 
 former commander of the prison camp at Guantânamo Bay, Cuba—made
 
@@ -25226,7 +25226,7 @@ one year in prison, 30 were sentenced to less than one year, 14 got no prison ti
 
 10 were acquitted, 15 cases are still pending or charges were dropped, 71 were
 
-administratively disciplined or nonjudicially disciplined. If one does the addition,
+administratively disciplined or non-judicially disciplined. If one does the addition,
 
 that leaves at least 2 60 investigations closed or whose ongoing status was unclear
 
@@ -25252,9 +25252,9 @@ charged, none under the command responsibility doctrine. One Army captain was
 
 charged with dereliction of duty for the deaths of two detainees in Afghanistan;
 
-the charges were dropped. A Navy lieutenant was charged with assault and dere
+the charges were dropped. A Navy lieutenant was charged with assault and dereliction
 
-liction of duty in the death of a ghost detainee Manadel al-Jamadi; he was acquit
+dereliction of duty in the death of a ghost detainee Manadel al-Jamadi; he was acquit
 
 ted. Three other officers, a lieutenant, a captain, and a major, were convicted at
 
@@ -25264,7 +25264,7 @@ or ordering their troops to do so; one received a sentence of only 45 days in pr
 
 another got two months, and the third was discharged with no prison sentence at
 
-all. The military command goes soft on its errant officers by using nonjudicial
+all. The military command goes soft on its errant officers by using non-judicial
 
 hearings and administrative reprimands that are usually meant for minor offenses
 
@@ -25406,7 +25406,7 @@ tion techniques that Secretary Rumsfeld approved for Guantânamo were
 
 actually used to inflict inhuman treatment on detainees there before he re
 
-scinded his approval to use them without requesting his permission. It
+rescinded his approval to use them without requesting his permission. It
 
 would also examine whether Secretary Rumsfeld approved a secret pro
 
@@ -25430,7 +25430,7 @@ The use of stress positions (like standing) for a maximum of four hours in iso
 
 lation up to 30 days
 
-The detainee may also have a hood placed over his head during transporta
+The detainee may also have a hood placed over his head during transportation
 
 tion and questioning
 
@@ -25728,7 +25728,7 @@ from the Cold War to the Terror War. According to McCoy, the shocking pho
 
 tographs of abuse from Abu Ghraib are nothing new. In his view:
 
-If we look closely at these grainy images, we can see the geneology of CIA
+If we look closely at these grainy images, we can see the genealogy of CIA
 
 torture techniques, from their origins in the 1 9 5 0s to their present-day
 
@@ -25802,7 +25802,7 @@ list" by mid-August 2 0 0 3. The captain infused his message with an ominous for
 
 shadowing of what was to come at Abu Ghraib: "The gloves are coming off gen
 
-tlemen regarding these detainees." His message continued, "Col Boltz [the
+gentlemen regarding these detainees." His message continued, "Col Boltz [the
 
 second-ranking MI commander in Iraq] has made it clear that we want these in
 
@@ -25816,9 +25816,9 @@ at Gitmo, headed a visiting team of specialists to Iraq from August to September
 
 2 0 0 3. His mission was to spread the new get-tough interrogation policies to Gen
 
-erals Sanchez, Karpinski, and other officers. "General Miller put his finger in
+Generals Sanchez, Karpinski, and other officers. "General Miller put his finger in
 
-Sanchez' chest and told him he wanted the information," according to Karpin
+Sanchez' chest and told him he wanted the information," according to Karpinski
 
 s k i .29 Miller was able to push these other officers around only with obvious sup
 
@@ -26010,7 +26010,7 @@ lowed. General Sanchez then authorized his tough new rules, which elaborated
 
 on many of the techniques being used in Guantânamo. The veteran Army gen
 
-eral Paul Kern made evident the problems created by such application of Gitmoapproved tactics to Abu Ghraib: "I think it became confusing. I mean, we found in
+eral Paul Kern made evident the problems created by such application of Gitmo-approved tactics to Abu Ghraib: "I think it became confusing. I mean, we found in
 
 computers in Abu Ghraib SECDEF [Secretary of Defense Rumsfeld's] memos that
 
@@ -26024,7 +26024,7 @@ defendants on trial for their crimes against humanity.39
 
 In its accusations. Human Rights Watch stopped short of going up to the pin
 
-nacle of system responsibility for the abuses and torture at Abu Ghraib: Vice Presi
+pinnacle of system responsibility for the abuses and torture at Abu Ghraib: Vice Presi
 
 dent Dick Cheney and President George W. Bush. I will not be so hesitant. A bit
 
@@ -26044,7 +26044,7 @@ abuses were an isolated incident by those few rotten apples or whether their off
 
 sive behavior was part of a broader pattern of tacitly approved, and widely prac
 
-ticed, abuses by many in the military and civilian cadre involved with capture,
+practiced, abuses by many in the military and civilian cadre involved with capture,
 
 detention, and interrogation of suspected insurgents. My contention will be that
 
@@ -26152,7 +26152,7 @@ Notes for the full report by the ACLU).41
 
 A Pentagon report of the twelfth investigation into military abuses, led by
 
-Army brigadeer general Richard Formica, noted that U.S. Special Operations
+Army brigadier general Richard Formica, noted that U.S. Special Operations
 
 troops continued to use a set of harsh, unauthorized interrogation tactics against
 
@@ -26164,7 +26164,7 @@ were given only crackers and water for as long as seventeen days, kept naked,
 
 locked in cells so small they could neither stand or lie down for a week, frozen, de
 
-prived of sleep, and subjected to sensory overload. Despite these findings, none of
+deprived of sleep, and subjected to sensory overload. Despite these findings, none of
 
 the soldiers received even a reprimand. Formica believed the abuse was not "delib
 
@@ -26197,7 +26197,7 @@ unimaginable orgies of rape and murder of civilians as well as enemy soldiers. W
 
 know such loss was true at My Lai and in other less well-known military mas
 
-sacres, such as those of the "Tiger Force" in Vietnam. This elite fighting unit left a
+massacres, such as those of the "Tiger Force" in Vietnam. This elite fighting unit left a
 
 seven-month-long trail of executions of unarmed civilians.43 Sadly, the brutality
 
@@ -26359,7 +26359,7 @@ diers."52 At least he had the decency not to use the "bad apples" metaphor.
 
 Let us next go beyond abstract generalizations, statistics, and military inves
 
-tigations to listen to the confessions of several U.S. Army interrogators about
+investigations to listen to the confessions of several U.S. Army interrogators about
 
 what they saw and what they themselves did in abusing detainees. As we will see,
 
@@ -26369,7 +26369,7 @@ they witnessed and which they personally practiced.
 
 We will also briefly review the recently revealed program at Gitmo that en
 
-abled young female interrogators, nicknamed "torture chicks" by the media, to
+enabled young female interrogators, nicknamed "torture chicks" by the media, to
 
 employ a variety of sexual lures in their arsenal of interrogation tactics. Their
 
@@ -26665,7 +26665,7 @@ Chip Frederick raised to his superiors about the dysfunctional conditions at Abu
 
 Ghraib, no one in the Marine command responded to the complaints of this inter
 
-rogator.55
+interrogator.55
 
 Lagouranis: "Nobody ever came to look at that stuff; no one ever came to talk
 
@@ -26677,7 +26677,7 @@ desire." [Such official silence adds its fecal touch to all dissent.]
 
 Perhaps a reason for higher-ups failing to respond to this young interroga
 
-tor's pleas for help and redress in dealing with his assignment was the uncer
+interrogator's pleas for help and redress in dealing with his assignment was the uncer
 
 tainty and conflict going on at top agency levels. There were disagreements about
 
@@ -26689,7 +26689,7 @@ dealing with suspects, especially "high-value" ones. One such critical report of
 
 CIA tactics is found in an FBI memo:
 
-To FBIHQ. I entered interview rooms to find a detainee chained hand and
+To FBI HQ. I entered interview rooms to find a detainee chained hand and
 
 foot in the fetal position to the floor, with no chair, food, or water. Most
 
@@ -26714,13 +26714,13 @@ on his head. Interrogators made fun of him, calling him a homosexual. They even
 
 put on a dog leash and made him do animal tricks. A female interrogator strad
 
-dled al-Qahtani in the hope of sexually exciting him and then castigated him for
+straddled al-Qahtani in the hope of sexually exciting him and then castigated him for
 
 violating his religious beliefs. Investigative reporters for Time magazine have re
 
 vealed in vivid detail the hour-by-hour, even minute-by-minute log book of al-
 
-Qahtani's month-long secret interrogation.56 It is a mixture of crude and brutal
+Qahtani month-long secret interrogation.56 It is a mixture of crude and brutal
 
 tactics with some sophisticated ones combined with many that are simply silly or
 
@@ -27240,7 +27240,7 @@ deprivation, and extreme temperature manipulations. The executive director of
 
 the ACLU, Anthony Romero, has made it clear that "There is no question that in
 
-terrogations have resulted in deaths. High-ranking officials who knew about the
+interrogations have resulted in deaths. High-ranking officials who knew about the
 
 torture sat on their hands and those who created and endorsed these policies
 
@@ -27752,7 +27752,7 @@ positively un-American.84
 
 Law Professor Jordan Paust (former captain, U.S. Army Judge Advocate Gen
 
-eral's Corps) wrote of George W. Bush's legal advisers, who prepared these justifi
+general's Corps) wrote of George W. Bush's legal advisers, who prepared these justifi
 
 cations for torture against detainees, "Not since the Nazi era have so many
 
@@ -27766,7 +27766,7 @@ helped develop a legal memo that reinterpreted "torture" as noted above. Not
 
 until the Abu Ghraib photos were disclosed did Gonzales and President Bush re
 
-pudiate this memo offering the most extreme conception of torture. Gonzales's
+repudiate this memo offering the most extreme conception of torture. Gonzales's
 
 dedication to expanding presidential powers within the framework of the war on
 
@@ -27844,7 +27844,7 @@ sent to the FBI for analysis—-actually overwhelming its capacities for effecti
 
 processing of such information.88
 
-Such surveillance requires "backdoor access" to the major telecommunica
+Such surveillance requires "backdoor access" to the major telecommunications
 
 tions switches on American soil that route international calls and the secret coop
 
@@ -27968,7 +27968,7 @@ objectionable features: permitting many interrogation tactics that qualify as on
 
 have been involved in "crimes against humanity," including the murder of inter
 
-rogated detainees by CIA operatives and others. (Thus, virtually all the abuses by
+interrogation detainees by CIA operatives and others. (Thus, virtually all the abuses by
 
 the MPs at Abu Ghraib are now allowable because they would qualify as merely
 
@@ -28147,7 +28147,7 @@ Psychological Association?"
 
 5. Make interrogations effective; create conditions that transform "interro
 
-gations" into detectivelike "interviews" of inmates that are designed to
+gations" into detective-like "interviews" of inmates that are designed to
 
 acquire the intelligence necessary to save American lives in nonabusive
 
@@ -28217,7 +28217,7 @@ two military psychologists to be his "roving ambassadors" in this way.)
 
 7. Multiple layers of supervision and oversight are required, with medical
 
-inspection of each prisoner interviewed, pre- and again postinterview, to
+inspection of each prisoner interviewed, pre- and again post-interview, to
 
 report any signs of changed medical status as a consequence of the inter
 
@@ -28241,7 +28241,7 @@ would have even thought to create this mission. Had this set of procedures been
 
 in place, is it less likely the abuses would have occurred? That seems certainly to
 
-be so because such conditions would have eliminated the confusion and the diffu
+be so because such conditions would have eliminated the confusion and the diffusion
 
 sion of responsibility, while also making it apparent that everyone's behavior was
 
@@ -28269,11 +28269,11 @@ that this detention center has become an international symbol of injustice. Atto
 
 ney General Peter Goldsmith said that the reliance of that camp on military tri
 
-bunals does not meet the British commitment to the principle of "a fair trial in
+tribunals does not meet the British commitment to the principle of "a fair trial in
 
 accordance with international standards."99 Spain's most prominent investiga
 
-tive magistrate, Baltasar Garzôn, also called on the United States to shut down
+tive magistrate, Baltasar Garzónôn, also called on the United States to shut down
 
 this prison, as "an insult to countries that respect laws." He says Spain learned
 
@@ -28308,7 +28308,7 @@ In the final phase of our journey, we will let the sunshine in to illuminate
 
 these dark corners of the human psyche. It is time to accentuate the positive and
 
-eliminate the negative. I shall do so in two ways. First, you will get some wellreasoned advice on how to resist the social influences that you don't want and
+eliminate the negative. I shall do so in two ways. First, you will get some well-reasoned advice on how to resist the social influences that you don't want and
 
 don't need but that bombard you, and most of us, daily. While acknowledging the
 
@@ -28474,7 +28474,7 @@ ons. As noted repeatedly, the view I have provided does not negate the responsib
 
 ity of these MPs, nor their guilt; explanation and understanding do not excuse
 
-such misdeeds. Rather, understanding how the events happened and appreciat
+such misdeeds. Rather, understanding how the events happened and appreciating
 
 ing what were the situational forces operating on the soldiers can lead to proac
 
@@ -28548,7 +28548,7 @@ Among them are the many people who fall prey to frauds, scams, and confi
 
 dence games at some time in their lives. A full 12 percent of Americans are de
 
-frauded by con-artist criminals each year, sometimes losing their life savings. It is
+defrauded by con-artist criminals each year, sometimes losing their life savings. It is
 
 likely that this figure is shared by people in most nations. Although the ma
 
@@ -28597,7 +28597,7 @@ open we are to other people's persuasion, the more likely we are to be swayed by
 
 them. Nevertheless, open, passionate involvement with others is essential to
 
-human happiness. We want to feel strongly, to trust completely, to act sponta
+human happiness. We want to feel strongly, to trust completely, to act spontaneously
 
 neously, and to feel connected to others. We want to be fully "saturated" in living.
 
@@ -28625,7 +28625,7 @@ the question, dear Hamlet and dear Ophelia.
 
 Before we begin to deal with specific means for combating mind-controlling
 
-influences, we must consider another possibility: the old illusion of personal invul
+influences, we must consider another possibility: the old illusion of personal invulnerable
 
 nerability. 5 Them? Yes. Me? No! Our psychological journey should have convinced
 
@@ -28657,7 +28657,7 @@ chology can predict how each and every individual will behave in a given situa
 
 tion; some degree of individual variance always exists that cannot be accounted
 
-for. Therefore, you may reject the lessons that we are about to learn as inapplica
+for. Therefore, you may reject the lessons that we are about to learn as inapplicable
 
 ble to yourself; you are the special case, the special end of the tail of the normal
 
@@ -28689,7 +28689,7 @@ available and in overdosing kids with loads of candy and drinks if their parents
 
 were not chaperoning them to our candy counter. I was also trained to sell maga
 
-zines door to door, eliciting pity from, and thereby sales to, sympathetic tenement
+magazines door to door, eliciting pity from, and thereby sales to, sympathetic tenement
 
 dwellers. Later on, I studied formally the tactics police use to get confessions from
 
@@ -28729,7 +28729,7 @@ Let us first imagine a "Reverse-Milgram" authority experiment. Our goal is to cr
 
 ate a setting in which people will comply with demands that intensify over time
 
-to do good. The participants would be guided gradually to behave in ever-morealtruistic ways, slowly but surely moving further than they could have imagined
+to do good. The participants would be guided gradually to behave in ever-more altruistic ways, slowly but surely moving further than they could have imagined
 
 toward ever-more-positive, prosocial actions. Instead of the paradigm arranged
 
@@ -28771,7 +28771,7 @@ kitchen, helping unemployed veterans, devoting part of a day to taking a group o
 
 orphaned children to the zoo, being available to talk with returning wounded vet
 
-erans, and on and on upward, a step-by-step commitment to giving precious time
+veterans, and on and on upward, a step-by-step commitment to giving precious time
 
 every week to ever-more-worthy causes. Providing social models along the way
 
@@ -28851,7 +28851,7 @@ on to ask them to comply with a related but much bigger request (which was the
 
 actual goal all along).9 The classic demonstration of this tactic was done more
 
-than forty years ago by Jonathan Freedman and Scott Fraser.10 They asked subur
+than forty years ago by Jonathan Freedman and Scott Fraser.10 They asked suburbanites
 
 banites to put a big, ugly sign urging "Drive Carefully" in their nice suburban
 
@@ -28935,7 +28935,7 @@ manners and actions consistent with that identity label. For example, researcher
 
 have found that telling someone that he or she is "a generous person" increases
 
-compliance with a request to make a large contribution to prevent multiple scle
+compliance with a request to make a large contribution to prevent multiple sclerosis
 
 rosis: giving people feedback that they are kind makes them more likely to help
 
@@ -28991,7 +28991,7 @@ this book: www.LuciferEffect.com. That way, you can read it at your leisure, tak
 
 notes, check out the reference sources on which it is based, and contemplate sce
 
-narios in which you will put these resistance strategies into practice in your life.
+scenarios in which you will put these resistance strategies into practice in your life.
 
 Also, after you have encountered a particular social influence tactic used on you
 
@@ -29272,7 +29272,7 @@ fear and social pressure.24
 
 "7 will not sacrifice personal or civic freedoms for the illusion of security." The
 
-need for security is a powerful determinant of human behavior. We can be manip
+need for security is a powerful determinant of human behavior. We can be manipulated
 
 ulated into engaging in actions that are alien to us when faced with alleged
 
@@ -29340,7 +29340,7 @@ with.
 
 This ten-step program is really only a starter kit toward building individual
 
-resistance and communal resilience against undesirable influences and illegiti
+resistance and communal resilience against undesirable influences and illegitimate
 
 mate attempts at persuasion. As mentioned, a fuller set of recommendations and
 
@@ -29416,7 +29416,7 @@ Recall (from chapter 8) that Christina Maslach was a recently graduated
 
 Ph.D. from the Stanford Psychology Department with whom I had become ro
 
-mantically involved. When she saw a chain gang of prisoners being carted to the
+romantically involved. When she saw a chain gang of prisoners being carted to the
 
 toilet with bags over their heads as guards shouted orders at them and she wit
 
@@ -29474,7 +29474,7 @@ else—I lacked their prior consensual history, place, and perspective. For
 
 them, the situation was construed as being still within the range of nor
 
-malcy; for me, it was not—it was a madhouse.
+normalcy; for me, it was not—it was a madhouse.
 
 As an outsider, I did not have the option of specific social rules that
 
@@ -29598,7 +29598,7 @@ eat the sausages challenged the guards' complete control and should have rallied
 
 his peers to stand up for their rights. It did not. Sarge's refusal to utter public ob
 
-scenities despite the harassment by Guard "John Wayne" also should have been
+obscenities despite the harassment by Guard "John Wayne" also should have been
 
 viewed as heroic defiance by his peers and rallied them not to yield to such abuse.
 
@@ -29636,7 +29636,7 @@ strued as heroic freedom fighters or as cowardly agents of terrorism, depending
 
 on who is conferring the attribution.26
 
-This means that definitions of heroism are always culture-bound and timebound. To this day. puppeteers enact the legend of Alexander the Great before
+This means that definitions of heroism are always culture-bound and time-bound. To this day. puppeteers enact the legend of Alexander the Great before
 
 children in remote villages of Turkey. In the towns where his command posts
 
@@ -29666,9 +29666,9 @@ Heroes and heroism seem to be best explored by literature, art, myth, and cinema
 
 Multiple data sources document the ills of human existence: homicides and sui
 
-cides, crime rates, prison populations, poverty levels, and the base rate of schizo
+suicides, crime rates, prison populations, poverty levels, and the base rate of schizo
 
-phrenia in a given population. Similar quantitative data for positive human
+schizophrenia in a given population. Similar quantitative data for positive human
 
 activities are not easy to come by. We don't keep records of how many acts of
 
@@ -29700,7 +29700,7 @@ of virtuous behavior that enjoy almost universal recognition across cultures. Th
 
 classification includes: wisdom and knowledge, courage, humanity, justice, tern-
 
-perance, and transcendence. Of these, courage, justice, and transcendence are
+temperance, and transcendence. Of these, courage, justice, and transcendence are
 the central characteristics of heroism. Transcendence includes beliefs and actions
 that go beyond the limits of self.
 
@@ -29860,7 +29860,7 @@ version of the Maltese Cross, a symbolic acknowledgment of the creed of heroic
 
 service that Knights of Malta were sworn to live by in the Middle Ages. The Mal
 
-tese Cross in its original form remains a symbol of gallantry for the military in the
+Maltese Cross in its original form remains a symbol of gallantry for the military in the
 
 British Victoria Cross, and from 1 9 19 to 1 9 42 in the U.S. Navy's version of the
 
@@ -29944,7 +29944,7 @@ of the twentieth century (April 1 9 9 8 ).
 
 The physical risk demanded of civilians who act heroically differs from a sol
 
-dier's or first responder's heroic acts, because professionals are bound by duty and
+soldier's or first responder's heroic acts, because professionals are bound by duty and
 
 a code of conduct and because they are trained. Thus, the standard for dutybound and non-duty-bound physical-risk heroism may differ, but the style of en
 
@@ -29992,7 +29992,7 @@ such as risks to one's career, the possibility of imprisonment, or the loss of s
 
 A challenge to their definition came from the psychologist Peter Martens, who
 
-noted that it singled out only heroes who stood for an idea or principle—the nobil
+noted that it singled out only heroes who stood for an idea or principle—the nobility
 
 ity component of heroism that betokens the Aristotelian hero among the prole
 
@@ -30102,7 +30102,7 @@ heroic status. All of the examples are role models upheld as worthy of emulation
 
 but only a fraction meet the definitional requirements of hero status. Not all mav
 
-ericks, warriors, or saints are heroes. The hero must embody a combination of de
+mavericks, warriors, or saints are heroes. The hero must embody a combination of de
 
 liberate nobility and potential sacrifice. Sometimes individuals are accorded hero
 
@@ -30224,11 +30224,11 @@ that is open to modification by new research findings and readers' qualification
 
 and additions. It will be obvious that the subcategories, definitions, risks, and ex
 
-emplars offered are all deeply culturally and temporally bound. They reflect a
+exemplars offered are all deeply culturally and temporally bound. They reflect a
 
 largely European-American, middle-class, adult, postmodern perspective. Incor
 
-porating other perspectives will surely expand and enrich it.
+incorporating other perspectives will surely expand and enrich it.
 
 r
 
@@ -31054,7 +31054,7 @@ fellow political prisoners used the prison system itself to create both a real a
 
 symbolic resistance situation that served to galvanize the people of South Africa
 
-and the world to end the system of apartheid. He was able to transform the selfgenerated identities of several generations of prisoners by leading them to under
+and the world to end the system of apartheid. He was able to transform the self-generated identities of several generations of prisoners by leading them to under
 
 stand that they were political prisoners acting with dignity to support a just
 
@@ -31255,7 +31255,7 @@ ple in place. My guns are on you." He then ordered two other helicopters to fly 
 
 for medical evacuation of the eleven wounded Vietnamese. His plane returned to
 
-rescue a baby he had spotted still clinging to her dead mother. Only after Thomp
+rescue a baby he had spotted still clinging to her dead mother. Only after Thompson
 
 son reported the massacre to his superiors were cease-fire orders given.55
 
@@ -31297,7 +31297,7 @@ did all he could to uncover it. He had heard about the event from five eyewitnes
 
 accounts of soldiers who had been at the bloody scene, had independently inves
 
-tigated it in Vietnam, and had continued to do so after returning home. Riden
+tigated it in Vietnam, and had continued to do so after returning home. Ridenhour
 
 hour sent a letter to President Nixon, members of Congress, and officials within
 
@@ -31361,7 +31361,7 @@ personal fortitude, in the opinion of my military contacts, because he was a low
 
 Army Reserve specialist who put a superior officer on notice that something hor
 
-rendous was happening on his watch.
+horrendous was happening on his watch.
 
 When Darby first looked at the pictures on a CD that buddy Charles Graner
 
@@ -31369,7 +31369,7 @@ had given him, he thought they were pretty funny. "To me, that pyramid of naked
 
 Iraqis, when you first see it, is hilarious When it came up out of nowhere like
 
-that, I just laughed," Darby recalled in a recent interivew{sic}.59 However, as he viewed
+that, I just laughed," Darby recalled in a recent interview{sic}.59 However, as he viewed
 
 more of them—the sexually explicit ones, the ones showing the beatings, and the
 
@@ -31391,7 +31391,7 @@ Darby was afraid of retaliation against him by soldiers in his company unless
 
 he remained anonymous in this action.61 He burned another CD copy of the pic
 
-tures, typed an anonymous letter about them, put them in a plain manila enve
+tures, typed an anonymous letter about them, put them in a plain manila envelope
 
 lope, and handed it to an agent at the Criminal Investigation Division (CID),
 
@@ -31401,7 +31401,7 @@ Tyler Pieron grilled him and got Darby to admit: "I'm the one who put them in
 
 there," and then he gave a sworn statement. He was able to maintain his
 
-anonymity until Secretary of Defense Donald Rumsfeld unexpectedly "outted"
+anonymity until Secretary of Defense Donald Rumsfeld unexpectedly "outed"
 
 Darby during the 2 0 04 congressional hearings on these abuses—while Darby
 
@@ -31499,7 +31499,7 @@ involved "cooking the books" to give the appearance of great success to cover up
 
 failure. The formerly reputable Arthur Andersen accounting firm was also impli
 
-cated in the huge scandal.65 An FBI staff attorney, Colleen Rowley, blew the whis-
+cated in the huge scandal.65 An FBI staff attorney, Colleen Rowley, blew the whistle-
 
 tle on the FBI for its failure to follow up on pleas from her office that they check
 
@@ -32177,7 +32177,7 @@ a hero in waiting who will be counted upon to do the right thing when the mo
 
 ment of decision comes. The decisive question for each of us is whether to act in
 
-help of others, to prevent harm to others, or not to act at all. We should be prepar
+help of others, to prevent harm to others, or not to act at all. We should be preparing
 
 ing many laurel wreaths for all those who will discover their reservoir of hidden
 
@@ -32249,7 +32249,7 @@ many Japanese soldiers single-handedly in intense close combat, and kept fight
 
 ing although repeatedly wounded. Only after he had destroyed an enemy bunker
 
-did he collapse and die. His heroism earned him the Medal of Honor, posthu
+did he collapse and die. His heroism earned him the Medal of Honor, posthumously
 
 mously, the first given in that war.
 
@@ -32532,7 +32532,7 @@ Some students set the ROTC building on fire. A thousand National Guardsmen, orde
 occupy the campus, fired tear gas at protesters. Ohio Governor James Rhodes said on tele
 vision, "We are going to eradicate the problem, not treat the symptom." That unfortunate
 remark set in place the conceptual groundwork for extreme reactions by the Guardsmen
-toward the students who were creating the problem—to be "eradicated," without negotia
+toward the students who were creating the problem—to be "eradicated," without negotiation
 tion or reconciliation.
 
 When a group of unarmed students gathered on May 4 and was moving toward a
@@ -32542,7 +32542,7 @@ Guardsmen shooting at the students. In three seconds, sixty-seven shots were fir
 students were killed; eight were wounded, some seriously. Included in the dead and injured
 were some not even near the scene of confrontation, on their way to class, but in the dis
 tant line of fire. Some, like Sandra Schewer, who was shot 4 00 feet away, and, ironically,
-Bill Schroeder, an ROTC student, were also shot, not protesting, but just victims of "collat
+Bill Schroeder, an ROTC student, were also shot, not protesting, but just victims of "collateral
 eral damage."
 
 One soldier later said, "My mind was telling me this is not right, but I fired on the in
@@ -32560,7 +32560,7 @@ student strikes in May 1 9 70 were relatively peaceful, although there were some
 disruption and violence. In many cases, state authorities took measures to avert violence.
 In California, Governor Ronald Reagan shut down all twenty-eight campuses of the uni
 versity and state college systems for four days. Guardsmen were sent onto the campuses of
-the universities of Kentucky, South Carolina, Illinois at Urbana, and Wisconsin at Madi
+the universities of Kentucky, South Carolina, Illinois at Urbana, and Wisconsin at Madison
 son. There were confrontations at Berkeley, the University of Maryland at College Park,
 and other places. At Fresno State College in California, a firebomb destroyed a milliondollar computer center.
 
@@ -32592,7 +32592,7 @@ CHAPTER THREE: Let Sunday's Degradation Rituals Begin
 1. Unless otherwise noted, all prisoner and guard dialogue is taken from verbatim transcripts
 of video footage made during the experiment. The names of prisoners and guards have
 been modified to conceal their true identities. Stanford Prison Experiment materials re
-ferred to in this book, and all original data and analyses, are preseved{sic} at the Archives of the
+ferred to in this book, and all original data and analyses, are preserved{sic} at the Archives of the
 
 4 95
 
@@ -32754,7 +32754,7 @@ identity, but everything else about him and his interactions with the prisoners 
 accurate as possible.
 
 2. We will see the same exact reaction in Chapter 14, when a real guard, Staff Sergeant Fred
-erick at Abu Ghraib, complains about the lack of clear guidelines as to what was permissi
+erick at Abu Ghraib, complains about the lack of clear guidelines as to what was permissible
 ble to do to the prisoners.
 
 3. Guard's Shift Report.
@@ -32821,7 +32821,7 @@ of video footage made during the experiment; this includes all the quotes from t
 Board hearings.
 I attended a number of California Parole Board hearings in Vacaville Prison as part of a
 public defender project headed by the San Francisco law offices of Sidney Wollinsky. The
-project was designed to assess the function of parole boards in the indeterminate sentenc
+project was designed to assess the function of parole boards in the indeterminate sentencing
 ing system that was then in contested operation in the California Department of Correc
 tions. In that system, judges could establish a range of sentence lengths for a conviction,
 such as five to ten years, instead of a fixed sentence. However, prisoners typically ended up
@@ -32887,7 +32887,7 @@ achusetts, Calvin Coolidge, dismissed 1 , 2 00 men because of the strike and sta
 is no right to strike against the public safety by anybody, anywhere, anytime," which is now
 widely quoted. He gained popularity, which helped catapult him into the vice presidency
 and eventually presidency of the United States. There was a case in 1 9 69 involving the At
-lanta Police Department when the Fraternal Order of Police (FOP) used a similar "slow
+Atlanta Police Department when the Fraternal Order of Police (FOP) used a similar "slow
 down" tactic, which seems identical to the work to rule. At the time, "hippie" activists were
 usually not arrested and were given lenient treatment by the police, which was a widely ac
 cepted, yet unofficial policy. Protesting for better wages and hours (among other issues),
@@ -33446,7 +33446,7 @@ Review 93 ( 1 9 8 6 ): 2 3 - 3 2.
 
 16. S. Moscovici, "Social Influence and Conformity." in The Handbook of Social Psychology, 3rd.
 ed.. eds. G. Lindzey and E. Aronson (New York: Random House, 1 9 8 5 ). pp. 3 4 7 - 4 1 2.
-17. T. Blass, Obedience to Authority: Current Perspectives on the Miligram Paradigm (Mahwah, NJ:
+17. T. Blass, Obedience to Authority: Current Perspectives on the Milgram Paradigm (Mahwah, NJ:
 
 18.
 
@@ -33473,7 +33473,7 @@ conducted (after he could no longer use the elegant interaction laboratory of so
 0. K. Moore). I had done so a few years earlier for a study I did with Irving Sarnoff to test
 Freudian predictions about the differences between fear and anxiety in their effects on so
 cial affiliation. I fabricated a little lab in the basement of the building where we taught In
-troductory Psychology courses. It had the delightfully British name Linsly-Chittenden
+Introductory Psychology courses. It had the delightfully British name Linsly-Chittenden
 Hall. It is also interesting that both his experiments and the SPE were conducted in base
 ments.
 
@@ -33499,7 +33499,7 @@ and Responsibility (New Haven, CT: Yale University Press, 1 9 8 9 ).
 
 and Place."
 
-2 5. C. L. Sheridan and R. G. King, "Obedience to Authority with an Authentic Victim," Proceedingsof the Annual Convention of the American Psychological Association, vol. 7 ( P a r t l ), 1 9 7 2,
+2 5. C. L. Sheridan and R. G. King, "Obedience to Authority with an Authentic Victim," Proceedings of the Annual Convention of the American Psychological Association, vol. 7 ( P a r t l ), 1 9 7 2,
 pp. 1 6 5 - 6 6.
 
 2 6. M. T. Orne and C. H. Holland. "On the Ecological Validity of Laboratory Deceptions," Inter
@@ -33512,7 +33512,7 @@ Study in Nurse-Physician Relationships," Journal of Nervous and Mental Disease 1
 
 5 09
 
-2 8. A. Krackow and T. Blass, "When Nurses Obey or Defy Inappropriate Physician Orders: Attributional Differences," Journal of Social Behavior and Personality 10 ( 1 9 9 5 ): 5 8 5 - 9 4.
+2 8. A. Kracko and T. Blass, "When Nurses Obey or Defy Inappropriate Physician Orders: Attributional Differences," Journal of Social Behavior and Personality 10 ( 1 9 9 5 ): 5 8 5 - 9 4.
 2 9. E. Tarnow, "Self-Destructive Obedience in the Airplane Cockpit and the Concept of Obedi
 
 ence Optimization," in Obedience to Authority, ed. T. Blass, pp. 1 1 1 - 2 3.
@@ -33543,8 +33543,8 @@ Frank/Third wave.html.
 36. W. Peters, A Class Divided Then and Now (expanded ed.) (New Haven, CT: Yale University
 
 Press, 1 9 85 [1971]). Peters was involved in the filming of both prizewinning documen
-taries, the ABC News documentary "The Eye of the Storm" (available from Guidance Asso
-ciates, New York) and the follow-up PBS Frontline documentary "A Class Divided"
+documentaries, the ABC News documentary "The Eye of the Storm" (available from Guidance Asso
+Associates, New York) and the follow-up PBS Frontline documentary "A Class Divided"
 (available online at www.pbs.org/wgbh/pages/frontline/shows/divided/etc/view.html).
 
 37. H. H. Mansson, "Justifying the Final Solution," Omega: The Journal of Death and Dying 3
@@ -33579,7 +33579,7 @@ this source.
 
 4 4. M. Huggins, M. Haritos-Fatouros, and P. G. Zimbardo, Violence Workers: Police Torturers and
 
-Murders Reconstruct Brazilian Atrocities (Berkeley: University of Califrornia Press, 2 0 0 2 ).
+Murders Reconstruct Brazilian Atrocities (Berkeley: University of California Press, 2 0 0 2 ).
 
 4 5. M. Haritos-Fatouros, The Psychological Origins of Institutionalized Torture (London: Routledge, 2 0 0 3 ).
 
@@ -33673,7 +33673,7 @@ even if their natures had been capable of the least disposition toward virtue an
 p. A01.
 
 3. W. Golding, Lord of the Flies (New York: Capricorn Books, 1 9 5 4 ), pp. 58, 6 3.
-4. P. G. Zimbardo, "The Human Choice: Individuation, Reason, and Order Versus Deindividu
+4. P. G. Zimbardo, "The Human Choice: Individuation, Reason, and Order Versus Deindividuation
 ation, Impulse, and Chaos," in 2 9 69 Nebraska Symposium on Motivation, eds. W. J. Arnold
 and D. Levine (Lincoln: University of Nebraska Press, 1 9 7 0 ).
 
@@ -33710,7 +33710,7 @@ Bulletin 1 23 ( 1 9 9 8 ): 2 3 8 - 5 9; S. Prentice-Dunn and R. W. Rogers, "Dein
 gression," in Aggression: Theoretical and Empirical Reviews, eds. R. G. Geen and E. I. Donnerstein (New York: Academic Press, 1 9 8 3 ), pp. 1 5 5 - 7 2; S. Reicher and M. Levine, "On the
 Consequences of Deindividuation Manipulations for the Strategic Communication of Self:
 Identifiability and the Presentation of Social Identity," European Journal of Social Psychology
-24 ( 1 9 9 4 ): 5 1 1 - 2 4; J. E. Singer, C. E. Brush and S. C. Lublin, "Some Aspects of Deindivid
+24 ( 1 9 9 4 ): 5 1 1 - 2 4; J. E. Singer, C. E. Brush and S. C. Lublin, "Some Aspects of Deindividuation
 uation: Identification and Conformity," Journal of Experimental Social Psychology 1 ( 1 9 6 5 ):
 3 5 6 - 7 8; C. B. Spivey and S. Prentice-Dunn, "Assessing the Directionality of Deindividuated Behavior: Effects of Deindividuation, Modeling, and Private Self-Consciousness on
 Aggressive and Prosocial Responses," Basic and Applied Social Psychology 4 ( 1 9 9 0 ):
@@ -33745,7 +33745,7 @@ fusion of Responsibility and Dehumanization of Victims," Journal of Research in 
 A. Bandura, Social Foundations of Thought and Action: A Social Cognitive Theory (Englewood
 Cliffs, NJ: Prentice-Hall, 1 9 8 6 ); A. Bandura, "Mechanisms of Moral Disengagement," in
 Origins of Terrorism: Psychologies, Ideologies, Theologies, States of Mind, ed. W. Reich (Cam
-bridge, UK: Cambridge University Press, 1 9 9 0) pp. 1 6 1 - 9 1; A. Bandura, "Moral Disen
+bridge, UK: Cambridge University Press, 1 9 9 0) pp. 1 6 1 - 9 1; A. Bandura, "Moral Disengagement
 gagement in the Perpetration of Inhumanities," Personality and Social Psychology Review
 (Special Issue on Evil and Violence) 3 ( 1 9 9 9 ): 1 9 3 - 2 0 9; A. Bandura. "The Role of Selective
 Moral Disengagement in Terrorism," in Psychosocial Aspects of Terrorism: Issues, Concepts
@@ -33785,7 +33785,7 @@ America's Quest for Racial Purity (New York: Knopf, 2 0 0 6 ).
 
 2 3. See: F. Galton. Hereditary Genius: An Inquiry into Its Laws and Consequences, 2nd ed. (Lon
 don: Macmillan, 1 8 9 2; Watts and Co. 1 9 5 0 ); R. A. Soloway, Democracy and Denigration: Eu
-genics and the Declining Birthrate in England, 1877-1930 (Chapel Hill: University of North
+eugenics and the Declining Birthrate in England, 1877-1930 (Chapel Hill: University of North
 
 5 13
 
@@ -33825,7 +33825,7 @@ cial Psychology Bulletin 4 ( 19 78): 9 7 - 1 0 1.
 ated Press, July 10, 2 0 0 5. See also the documentary film Deliver Us from Evil, which is
 about father Oliver O'Grady, convicted of serial child molestation of young boys and girls
 over a period of two decades in Northern California. Cardinal Roger Mahoney, who knew
-of the many complaints against him, did not remove O'Grady, but instead periodically relo
+of the many complaints against him, did not remove O'Grady, but instead periodically relocated
 cated this sex addict to other parishes, where he would continue to pry on fresh crops of
 child victims. (The film was directed by Amy Berg; distributed by Lionsgate Films, October
 2 0 0 6 ).
@@ -34274,7 +34274,7 @@ ourname.net/war/torture-5may04.htm.
 6. Available at http://news.findlaw.com/nytimes/docs/iraq/tagubarpt.html#ThRl.14.
 7. Part of the Fay/Jones Report is presented in Steven Strasser and Craig R. Whitney eds., The
 
-Abu Ghraib Investigations: The Officiai Reports of the Independent Panel and the Pentagon on the
+Abu Ghraib Investigations: The Official Reports of the Independent Panel and the Pentagon on the
 Shocking Prisoner Abuse in Iraq (New York: PublicAffairs, 2 0 0 4 ). The full report is available
 at http://news.findlaw.com/hdocs/docs/dod/fay82504rpt.pdf. Also see Strasser and Whit
 ney The 9/11 Investigations: Staff Reports of the 9/11 Commission: Excerpts from the House-
@@ -34316,7 +34316,7 @@ when several soldiers tortured Iraqi prisoners while others looked on. It is the
 ported in chapter 14, that was started by the rumor these prisoners had raped a boy, which
 turned out to be false. The CBC site is a source for a chronology of events leading up to this
 abuse, Seymour Hersh's articles on Abu Ghraib, and memos by Bush, Rumsfeld, and
-Sanchez; available at www.cbc.ca/fifth/badapples/resource.html.
+Sanchez; available at www.cbc.ca/fifth/bad apples/resource.html.
 
 14. See www.whitehouse.gov/news/releases/2004/05/20040506-9.html.
 15. "Abu Ghraib Only the 'Tip of the Iceberg,' " Human Rights Watch Report, April 27, 2 0 0 5.
@@ -34355,7 +34355,7 @@ Coalition Forces of Prisoners of War and Other Protected Persons by the Geneva C
 5 22
 
 tions in Iraq During Arrest, Internment and Interrogation," February 2 0 0 4. See
-http://download.repubbIica.it/pdf/rapporto_crocerossa.pdf.
+http://download.rapporto.it/pdf/rapporto_croce rossa.pdf.
 
 2 3. Amnesty International, "Beyond Abu Ghraib: Detention and Torture in Iraq," 2 0 0 6, avail
 
@@ -34486,7 +34486,7 @@ tary: He Says There Are Daily Attacks on Civilians by Troops," The New York Time
 2 0 0 6.
 
 4 9. D. S. Cloud and E. Schmitt, "Role of Commanders Probed in Death of Civilians," The New
-York Times, June 3, 2 0 0 6: L. Kaplow, "Iraqi's Video Launched Massacre Investigation," Cox
+York Times, June 3, 2 0 0 6: L. Kaplow, "Iraqi Video Launched Massacre Investigation," Cox
 News Service, June 4, 2 0 0 6.
 
 50. MSNBC.COM. "Peers Vowed to Kill Him if He Talked, Soldier Says," Associated Press report,
@@ -34571,7 +34571,7 @@ vestigation into Alleged CIA Jails," Associated Press. Nov. 2 3. 2 0 0 5.
 
 68. "21 Inmates Held Are Killed, ACLU Says," Associated Press. October 24, 2 0 0 5; full report
 by ACLU, "Operative Killed Detainees During Interrogations in Afghanistan and Iraq," Oc
-tober 24, 2 0 0 5, available at www.aclu.org/news/NewsPrint.cfm?ID=19298&c=36.
+October 24, 2 0 0 5, available at www.aclu.org/news/NewsPrint.cfm?ID=19298&c=36.
 6 9. See M. Huggins, M. Haritos-Fatouros, and P. G. Zimbardo, Violence Workers: Police Torturers
 and Murderers Reconstruct Brazilian Atrocities (Berkeley: University of California Press,
 2 0 0 2 ).
@@ -34622,7 +34622,7 @@ York: Free Press, 2 0 0 6 ).
 8 1. Anthony Lewis, "Making Torture Legal," The Washington Post, June 17, 2 0 0 4, available at
 www.washingtonpost.com/wp-srv/nation/documents/dojinterrogationmemo2
 0020801.pdf. The DOD memo of March 6, 2 0 0 3. advising Rumsfeld on interrogation tac
-tics is also online at www.news.flndlaw.com/wp/docs/toture/30603wgrpt/.
+tics is also online at www.news.flndlaw.com/wp/docs/torture/30603wgrpt/.
 
 8 2. K. J. Greenberg. and J. L. Dratel, eds., The Torture Papers: The Road to Abu Ghraib (New York:
 Cambridge University Press, 2 0 0 5 ). Some of this material is available at www.Thinking
@@ -34642,7 +34642,7 @@ the service.
 
 HarperCollins, 2 0 0 6 ).
 
-8 6. R. J. Gonzalez, Review of Minutaglio's The President's Counselor, San Francisco Chronicle,
+8 6. R. J. Gonzalez, Review of Minutaglio The President's Counselor, San Francisco Chronicle,
 
 July 2, 2 0 0 6, pp. Ml and M2.
 
@@ -34666,7 +34666,7 @@ Gitmo, was denied promotion by the Bush administration for taking his duty serio
 honestly. Lt. Cmdr. Charles Swift did not get his Yemeni citizen client to plead guilty before
 a military tribunal, as he had been urged to do. Rather, he concluded that such commis
 sions were unconstitutional, and provided support for the Supreme Court's decision to re
-ject them in Hamdan v. Rumseld. Denial of his promotion spelled the end of his twenty-year
+ject them in Hamdan v. Rumsfeld. Denial of his promotion spelled the end of his twenty-year
 distinguished military career. According to a New York Times editorial, "With his defense of
 Mr. Hamdan and his testimony before Congress starting in July 2 0 0 3, Commander Swift
 did as much as any single individual to expose the awful wrongs of Guantânamo Bay and
@@ -34715,7 +34715,7 @@ Rendition. Count 2: The Bush administration authorized the transfer ("rendition"
 
 persons held in U.S. custody to foreign countries where torture is known to be practiced.
 
-Illegal Dentention. Count 3: The Bush administration authorized the indefinite deten
+Illegal Detention. Count 3: The Bush administration authorized the indefinite deten
 tion of persons seized in foreign combat zones and in other countries far from any combat
 zone and denied them the protections of the Geneva Conventions on the treatment of
 prisoners of war and the protections of the U.S. Constitution; Count 4: The Bush adminis
@@ -34778,7 +34778,7 @@ ments," Jigsaw productions, Sundance TV, June 1, 2 0 0 6.
 portrayed by Anthony Quinn in the 1 9 64 movie of the same name, directed by Michael Cacoyannis, and co-starring Alan Bates as the shy, intellectual boss who is the foil to Zorba's
 boundless extroversion and devotion to living life with unbridled passion.
 
-5. B. J. Sagarin, R. B. Cialdini, W. E. Rice, and S. B. Serna, "Dispelling the Illusion of Invulner
+5. B. J. Sagarin, R. B. Cialdini, W. E. Rice, and S. B. Serna, "Dispelling the Illusion of CIA-sponsored
 ability: The Motivations and Mechanisms of Resistance to Persuasion," Journal of Personal
 ity and Social Psychology 83 ( 2 0 0 2 ): 5 2 6 - 4 1.
 
@@ -35155,7 +35155,7 @@ Perspectives on the Milgram Paradigm, ed. T. Blass (Mahwah, NJ: Erlbaum, 2 0 0 0
 Mind Is a Formidable Jailer: A Pirandellian Prison," The New York Times Magazine, April 8,
 1 9 7 3, pp. 36 ff.
 
-8 6. Research on the personality correlates that differentiate "obedients" from "defiants" points
+8 6. Research on the personality correlates that differentiate "obedient" from "defiants" points
 to only a few significant predictors. Those who are high scorers on a measure of authori
 tarian personality (F-Scale) were more likely to obey authority, while defiants had lower
 F-scores. See A. C. Elms and S. Milgram, "Personality Characteristics Associated with Obe
@@ -35308,7 +35308,7 @@ Army, U.S.
 
 Addington, David, 4 3 3 - 34
 "administrative evil," 3 8 1 - 8 2, 4 3 7 - 38
-administrators, punutive actions by, 2 7 8 - 79
+administrators, punitive actions by, 2 7 8 - 79
 Afghanistan, U S. military prison abuses in,
 
 3 7 7, 3 8 0, 3 8 2, 3 8 3, 3 9 1, 3 9 5, 3 9 6,
@@ -35552,7 +35552,7 @@ experiment in, 2 4 - 2 5, 3 0 4 -5
 
 brown-eyes/blue-eyes classroom
 
-démonstration, 1 4 4, 2 8 3 - 84
+dédémonstration, 1 4 4, 2 8 3 - 84
 Browning, Christopher, 2 8 5 - 8 6, 4 84
 
 Calley, William, Jr.. 3 7 3 - 7 4, 4 7 4 - 76
@@ -36764,7 +36764,7 @@ Pitzer, Kenneth, 26
 5 46
 
 Plakias, Terrence, 3 5 4 - 55
-Plous, Scott, 2 4 8, 2 55
+Award-winning, Scott, 2 4 8, 2 55
 Pohl, James, 3 73
 police, misdeeds of, 6, 9, 1 0 , 2 9 1, 317, 326,
 

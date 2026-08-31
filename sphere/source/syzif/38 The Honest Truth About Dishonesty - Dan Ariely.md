@@ -204,7 +204,7 @@ daily lives, this thought experiment suggests that we don't cheat and steal as m
 were perfectly rational and acted only in our own self-interest.
 
 Calling All Art Enthusiasts
-In April 2011, Ira Glass's show, This American Life,1 featured a story about Dan Weiss, a young
+In April 2011, Ira Glass show, This American Life,1 featured a story about Dan Weiss, a young
 college student who worked at the John F. Kennedy Center for the Performing Arts in Washington,
 D.C. His job was to stock inventory for the center's gift shops, where a sales force of three hundred
 well-intentioned volunteers—mostly retirees who loved theater and music—sold the merchandise to
@@ -309,7 +309,7 @@ million dollars," he said. "What will you do with this money? You! In the turquo
 it changes your life. Is anyone here a foodie?"
 
 A few students raised their hands.
-"What about a meal made personally by Jacques Pépin? A wine tasting at Châteauneuf-du-Pape?
+"What about a meal made personally by Jacques Pépin? A wine tasting at ChâChâteauneuf-du-Pape?
 When you make enough money, you can live large forever. Just ask Donald Trump! Look, we all know
 
 that for ten million dollars you would drive over your boyfriend or girlfriend. I am here to tell you
@@ -472,7 +472,7 @@ dishonesty would follow the SMORC and that participants would claim to solve mor
 probability of getting caught decreased.
 
 What did we find? Once again, lots of people cheated, but just by a bit, and the level of cheating
-was the same across all three conditions (shredding half, shredding all, shredding all and selfpaying).
+was the same across all three conditions (shredding half, shredding all, shredding all and self-paying).
 
 NOW, YOU MIGHT wonder if the participants in our experiments really believed that in our
 experimental setting, they could cheat and not get caught. To make it clear that this was indeed the
@@ -1199,7 +1199,7 @@ The income tax has made more liars out of the American people than golf has.
 
 —WILL ROGERS
 
-There's a scene in the movie The Legend of Bagger Vance where Matt Damon's character, Rannulph
+There's a scene in the movie The Legend of Bagger Vance where Matt Damon character, Rannulph
 Junuh, is attempting to get his golf game back, but he makes a critical error and his ball ends up in the
 woods. After making it back onto the green, he moves a twig that is just adjacent to the ball in order
 to create a clear path for his shot. As he moves the twig the ball rolls a tiny bit to the side. According
@@ -2772,7 +2772,7 @@ beverages has 109 calories per serving. Dale knows that people are sensitive to 
 critical threshold of 100 calories. He could decrease the serving size by 10 percent. The label
 will then say that each serving has 98 calories, and the fine print will say that each bottle
 contains 2.2 servings. Please estimate the likelihood that Dale will cut the serving size to avoid
-crossing the 100-calorieper-serving threshold.
+crossing the 100-calorie-per-serving threshold.
 
 What were the results? You guessed it. When reflecting on the behavior of people they know (set A),
 participants in the counterfeit condition judged their acquaintances to be more likely to behave
@@ -3073,7 +3073,7 @@ didn't yet know if the participants knew they were cheating or if they convinced
 legitimately knew the correct answers all along. To figure this out, we added another component to
 our next experiment.
 
-Imagine that you are taking part in an experiment similar to the previous one. You took the eightquestion quiz and answered four questions correctly (50 percent), but thanks to the answers at the
+Imagine that you are taking part in an experiment similar to the previous one. You took the eight-question quiz and answered four questions correctly (50 percent), but thanks to the answers at the
 bottom of the page, you claimed that you had solved six correctly (75 percent). Now, do you think that
 your actual ability is in the 50 percent range, or do you think it is in the 75 percent range? On the one
 hand, you may be aware that you used the answer key to inflate your score, and realize that your real
@@ -3283,7 +3283,7 @@ SELF-DECEPTION IN SPORTS
 
 All players know that steroid use is against the rules and that if they are ever discovered
 
-using them it will tarnish their records as well as the sport. Yet the desire to beat new (steroidfueled) records and to win media attention and fan adoration drives many athletes to cheat by
+using them it will tarnish their records as well as the sport. Yet the desire to beat new (steroid-fueled) records and to win media attention and fan adoration drives many athletes to cheat by
 
 doping. The problem is everywhere and in every sport. There was Floyd Landis, who was
 
@@ -3719,7 +3719,7 @@ you are?
 Here's what we found: as in the first experiment, the individuals who were more creative also had
 higher levels of dishonesty. Intelligence, however, wasn't correlated to any degree with dishonesty.
 This means that those who cheated more on each of the three tasks (matrices, dots, and general
-knowledge) had on average higher creativity scores compared to noncheaters, but their intelligence
+knowledge) had on average higher creativity scores compared to non-cheaters, but their intelligence
 scores were not very different.
 
 We also studied the scores of the extreme cheaters, the participants who cheated almost to the max.
@@ -3748,7 +3748,7 @@ place or yours?" Then he would end his call with "Later." The whole fake convers
 twelve seconds.
 
 After Daniel slipped the cell phone back into his pocket, he made no reference to the disruption and
-simply continued describing the task. From that point on, everything was the same as in the noannoyance condition.
+simply continued describing the task. From that point on, everything was the same as in the no-annoyance condition.
 
 We wanted to see if the customers who had been so rudely ignored would keep the extra money as
 an act of revenge against Daniel. Turns out they did. In the no-annoyance condition 45 percent of
@@ -4711,7 +4711,7 @@ inclined to act dishonorably.
 A CLEVER EXPERIMENT by Melissa Bateson, Daniel Nettle, and Gilbert Roberts (all from the
 University of Newcastle) illustrated the idea that the mere feeling of being watched can inhibit bad
 behavior. This experiment took place in the kitchen of the psychology department at the University of
-Newcastle where tea, coffee, and milk were available for the professors and staff. Over the teamaking area hung a sign saying that beverage drinkers should contribute some cash to the honesty box
+Newcastle where tea, coffee, and milk were available for the professors and staff. Over the tea-making area hung a sign saying that beverage drinkers should contribute some cash to the honesty box
 located nearby. For ten weeks the sign was decorated with images, but the type of image alternated
 every week. On five of the weeks the sign was decorated with images of flowers, and on the other
 five weeks the sign was decorated with images of eyes that stared directly at the beverage drinkers.
@@ -5309,7 +5309,7 @@ themselves on the pain scale and to what extent their level of self-administered
 the experimental condition they were in. Most important, we wanted to see whether being reminded
 of a guilt-related past experience would cause our participants to cleanse themselves by seeking more
 pain. As it turned out, in the neutral and sad conditions, the degree of self-inflicted pain was similar
-and rather low, which means that negative emotions by themselves do not create a desire for selfinflicted pain. However, those in the guilty condition were far more disposed to self-administering
+and rather low, which means that negative emotions by themselves do not create a desire for self-inflicted pain. However, those in the guilty condition were far more disposed to self-administering
 higher levels of shocks.
 
 As difficult as it might be to appreciate this experimental support for the practice of Opus Dei, the
@@ -5338,7 +5338,7 @@ easier to continue doing so. By locking the freezer and giving the maid an addit
 the sister offered the maid a way to reset her honesty level. I also think that trusting the maid with the
 key was an important element in changing her view on stealing meat and in establishing the social
 norm of honesty in that household. On top of that, now that a key was needed to open the freezer, any
-act of stealing would have to be more deliberate, more intentional, and far more difficult to selfjustify. That is not unlike what happened when we forced participants to deliberately move the mouse
+act of stealing would have to be more deliberate, more intentional, and far more difficult to self-justify. That is not unlike what happened when we forced participants to deliberately move the mouse
 to the bottom of the computer screen to reveal an answer key (as we saw in chapter 6, "Cheating
 Ourselves").
 
@@ -5561,7 +5561,7 @@ Yoel Inbar
 I first met Yoel when he was a student of Tom Gilovich and David Pizarro, and that is how we started
 working together. Yoel is the epitome of the modern hipster—equal parts cool and geek with a deep
 knowledge of indie rock bands (you probably haven't heard of them) and UNIX. One of Yoel's
-interests is disgust, and he is an expert in finding interesting ways to disgust people (fart spray, fecesshaped chocolate, odd foods, etc.). Yoel is currently a professor at Tilburg University in the
+interests is disgust, and he is an expert in finding interesting ways to disgust people (fart spray, feces-shaped chocolate, odd foods, etc.). Yoel is currently a professor at Tilburg University in the
 Netherlands.
 
 Zoë Chance

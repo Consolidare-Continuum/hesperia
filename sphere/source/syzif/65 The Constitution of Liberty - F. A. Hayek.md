@@ -288,7 +288,7 @@ Twenty- four
 
 Education and Research
 
-POSTCRIPT
+POSTSCRIPT
 
 Postscript: Why I Am Not a Conservative
 
@@ -2370,8 +2370,8 @@ confidence in the transcendent wisdom of this age, and its discernment."11
 10 David Hume, who will be our constant companion and sage guide throughout the following
 pages, could speak as early as 1742 (Essays, "Of Moral Prejudices," [Essay 2], vol. 2, pp. 371 and
 373 [Liberty Fund edition, pp. 539 and 542]) of "that grave philosophic Endeavour after Perfection, which, under Pretext of reforming Prejudices and Errors, strikes at all the most endearing Sentiments of the Heart, and all the most useful Byasses and Instincts, which can govern a
-human Creature."(vol. 2, p. 371) "not to depart too far from the receiv'd Maxims of Conduct
-and Behaviour, by a refin'd Search after Happiness or Perfection" (vol. 2, p. 373).
+human Creature."(vol. 2, p. 371) "not to depart too far from the received Maxims of Conduct
+and Behaviour, by a refined Search after Happiness or Perfection" (vol. 2, p. 373).
 
 11 William Wordsworth, The Excursion: Being a Portion of The Recluse; A Poem (London: Printed for
 
@@ -2418,8 +2418,8 @@ deposing a person on whom they had conferred a tyrannical authority; others for 
 choosing a superior whom they are obliged to obey, others for the right of bearing arms, and
 of being thereby enabled to use violence; others, in fine, for the privilege of being governed by
 a native of their own country, or by their own laws." ["Il n'y a point de mot qui ait reçu plus de
-différentes significations, et qui ait frappé les esprits de tant de manières, que celui de liberté. Les
-uns l'ont pris pour la facilité de déposer celui à qui ils avoient donné un pouvoir tyrannique; les
+différentes significations, et qui ait frappéé les esprits de tant de manières, que celui de liberté. Les
+uns l'ont pris pour la facilitéé de déposer celui à qui ils avaient donné un pouvoir tyrannique; les
 autres, pour la faculté d'élire celui à qui ils dévoient obéir; d'autres, pour le droit d'être armés, et
 de pouvoir exercer la violence; ceux- ci pour le privilège de n'être gouvernés que par un homme
 de leur nation, ou par leurs propres lois."(vol. 2, p. 394)—Ed.]
@@ -2446,7 +2446,7 @@ respectively, from Latin and Greek words with the same meaning.4
 
 vey of the various meanings of the word see Mortimer Jerome Adler, The Idea of Freedom: A Dialectical Examination of the Conceptions of Freedom (Garden City, NY: Doubleday, 1958), which I have
 been privileged to see in draft, and an even more comprehensive work by Harald Ofstad, An
-Inquiry into the Freedom of Decision (Oslo: Norwegian University Press; Stockholm: Svenska bokförlaget, 1961).
+Inquiry into the Freedom of Decision (Oslo: Norwegian University Press; Stockholm: Svenska förlagetöförlaget, 1961).
 
 3 See Aristotle, Metaphysics, 1.2.8 [982b]: "As man is free w e say he exists for his own sake and not
 for another's." Gottfried Wilhelm Leibniz, "Über die Freiheit," in Philosophische Werke: Hauptschriften zur
@@ -2748,7 +2748,7 @@ this identification of freedom with power is admitted, there is no limit to the
 sophisms by which the attractions of the word "liberty" can be used to support measures which destroy individual liberty,18 no end to the tricks by which
 
 17 Barbara Wootton, Freedom under Planning (London: Allen and Unwin, 1945), p. 10. The earliest explicit use of freedom in the sense of power which is known to me occurs in Voltaire, Le
-Philosophe ignorant, quoted by Bertrand de Jouvenel, De la souveraineté, à la recherche du bien politique
+Philosophe ignorant, quoted by Bertrand de Jouvenel, De la souverainetéé, à la recherche du bien politique
 (Paris: M. T. Génin, 1955), p. 315: "Étre véritablement libre, c'est pouvoir. Quand je peux faire
 ce que je veux, voilà ma liberté." ["To be really free, is (to possess) power. When I can do what
 I wish to do, therein my liberty lies." Voltaire's essay appears in Mélanges, J. van den Heuvel, ed.
@@ -3240,7 +3240,7 @@ what he himself has created, the limitations of his conscious knowledge and
 therefore the range of ignorance significant for his conscious action have
 constantly increased. Ever since the beginning of modern science, the best
 minds have recognized that "the range of acknowledged ignorance will grow
-with the advance of science."7 Unfortunately, the popular effect of this sciena subject ourselves or we know where we can f nd information upon it." (James Boswell, The Life of Samuel Johnson, LL.D.: Comprehending an Account of His Studies and Numerous Works [3 vols.; 2nd ed., rev.
+with the advance of science."7 Unfortunately, the popular effect of this scientia subject ourselves or we know where we can f nd information upon it." (James Boswell, The Life of Samuel Johnson, LL.D.: Comprehending an Account of His Studies and Numerous Works [3 vols.; 2nd ed., rev.
 and aug.; London: Printed by Henry Baldwin, 1793], vol. 2, pp. 237–38).
 
 7 Giorgio de Santillana, The Crime of Galileo (Chicago: University of Chicago Press, 1955),
@@ -3367,7 +3367,7 @@ is so often wrong that it is arguable that progress depends on individuals being
 own judgement despite collective disapproval. . . . To give a monopoly of decision to a government committee would seem to have the disadvantage of both worlds."
 
 10 One of the few authors who have seen clearly at least part of this was Frederic William
-Mait land, who stresses (The Collected Papers of Frederic William Maitland, Downing Professor of the
+Maitland land, who stresses (The Collected Papers of Frederic William Maitland, Downing Professor of the
 Laws of England [3 vols.; Cambridge: Cambridge University Press, 1911], vol. 1, p. 107) that "the
 most powerful argument is that based on the ignorance, the necessary ignorance, of our rulers."
 [Maitland's quotation appears in A Historical Sketch of Liberty and Equality, Liberty Fund edition,
@@ -3654,7 +3654,7 @@ to believe that we can draw conclusions about what our values ought to be
 simply because we realize that they are a product of evolution. But we cannot
 
 17 See Aaron Director, "The Parity of the Economic Market Place," in Conference on Freedom and
-the Law, May 7, 1953: Fiftieth Anniversary Celebration, Thuman Welsey Arnold, et al. (University of
+the Law, May 7, 1953: Fiftieth Anniversary Celebration, Thuman Wesley Arnold, et al. (University of
 Chicago Law School Conference Series, no. 13, Chicago: University of Chicago Press, 1953),
 pp. 16–25.
 
@@ -3763,7 +3763,7 @@ that Cromwell once told him "on ne montait jamais si haut que quand on ne sait o
 The phrase apparently made a deep impression on eighteenth century thinkers, and it is quoted
 by David Hume (Essays, vol. 1, p. 124) [ The essay in which Hume's reference falls originally
 appeared under the title "Whether the British Government Inclines More to Absolute Monarchy, or to a Republic," (Essay 9) in Essays, Moral and Political (Edinburgh: Printed by R. Fleming
-and A. Alison for A. Kincaid, 1741), p. 98n. (Liberty Fund edition, p. 50). In a footnote quoting Cromwell's statement to Bellièvre he there notes that "a Man, possess'd of usurp'd Authority, can set no Bounds to his Pretensions." Hume's footnote appears in all editions of his Essays
+and A. Alison for A. Kincaid, 1741), p. 98n. (Liberty Fund edition, p. 50). In a footnote quoting Cromwell's statement to Bellièvre he there notes that "a Man, possessed of usurped Authority, can set no Bounds to his Pretensions." Hume's footnote appears in all editions of his Essays
 until that of 1774, at which point it was dropped.—Ed.], Adam Ferguson (An Essay on the History of Civil Society [Edinburgh: Printed for A. Millar and T. Caddel in the Strand, London, and
 A. Kincaid and J. Bell, Edinburgh, 1767], p. 187), and (according to Duncan Forbes, "Scientific
 Whiggism," Cambridge Journal, vol. 7 [1954]: 654) also by Anne Robert Jacques Turgot. [ Turgot
@@ -3779,7 +3779,7 @@ Wilhelm Ernst Ausgabe (2 vols.; Leipzig: Inselverlag, 1913–14), vol. 2, p. 626
 weiter, als wenn man nicht mehr weiss, wohin man geht." ["One never goes so far as when one
 doesn't know where one is going."—Ed.] Cf. in this connection also Giambattista Vico, Opere di
 Giambattista Vico, ordinate ed illustrate coll'analisi storica della mente di Vico in relazione alla scienza della
-civiltà, Giuseppe Ferrari, ed. (6 vols.; Milan: Società Tipog. de' Classici Italiani, 1852–54), vol. 5,
+civiltàà, Giuseppe Ferrari, ed. (6 vols.; Milan: Società Tipog. de' Classici Italiani, 1852–54), vol. 5,
 p. 183. "Homo non intelligendo fit omnia." [ The Latin should read: "Homo non intelligendo
 facit omnia," which translates as "Man unknowingly makes all things."—Ed.] Since there will
 
@@ -3811,7 +3811,7 @@ The history of civilization is the account of a progress which, in the short
 space of less than eight thousand years, has created nearly all that we regard
 as characteristic of human life. After abandoning hunting life, most of our
 direct ancestors, at the beginning of neolithic culture, took to agriculture and
-soon to urban life perhaps less than three thousand years or one hundred genbe no other opportunity to refer to Vico, it should be mentioned here that he and his great disciple, Ferdinando Galiani, constitute the only important parallel on the Continent to the antirationalist British tradition, which we shall consider more fully in the next chapter.
+soon to urban life perhaps less than three thousand years or one hundred genus no other opportunity to refer to Vico, it should be mentioned here that he and his great disciple, Ferdinando Galiani, constitute the only important parallel on the Continent to the antirationalist British tradition, which we shall consider more fully in the next chapter.
 
 A German translation of an earlier and somewhat longer version of the present chapter has
 been published as "Grundtatsachen des Fortschritts," [The Fundamental Facts of Progress] in
@@ -3836,7 +3836,7 @@ half a million years' existence as a wandering hunter, and that created problems
 3 Cf. Adam Ferguson, History of Civil Society, p. 12: "If the palace be unnatural the cottage is
 so no less: and the highest refinements of political and moral apprehension, are no more artifi -
 cial in their kind, than the first operations of sentiment and reason." Wilhelm Roscher, Ansichten
-der Volkswirthschaft aus dem geschichtlichen Standpunkte (Leipzig and Heidelberg: C. F. Winter, 1861),
+der Volkswirthschaft aus dem geschichtlichen Standpunkt (Leipzig and Heidelberg: C. F. Winter, 1861),
 pp. 408–9, gives, as illustrations of the "pernicious refinements" against which austere moralists have thundered at one time or another, forks, gloves, and glazed windows; Plato in his Phaedo
 makes one of the speakers fear that the invention of writing, by weakening memory, would lead
 to degeneration! [Hayek is here confusing the Phaedo with the Phaedrus. It is in the Phaedrus that
@@ -3887,7 +3887,7 @@ In fact, there is increasing recognition that even the attempt to make science
 4 If it were still possible to change an established usage, it would be desirable to confine the
 word "progress" to such deliberate advance toward a chosen goal and to speak only of the "evolution of civilization."
 
-5 See Alfred Louis Kroeber, Conf gurations of Cultural Growth (Berkeley: University of California Press,
+5 See Alfred Louis Kroeber, Conf Configurations of Cultural Growth (Berkeley: University of California Press,
 1944), p. 839: "Progress . . . is something that makes itself. We do not make it." [Hayek is in error in citing
 this work. The quotation in fact appears in Kroeber's Anthropology (New York: Harcourt, Brace and Company, 1923), p. 133.—Ed.]
 
@@ -4376,9 +4376,9 @@ chap. 14, pp. 246–47. [The French text, in full, reads: "On ne saurait trop le
 plus fécond en merveilles que l'art d'être libre; mais il n'y a rien de plus dur que l'apprentissage
 de la liberté. Il n'en est pas de même du despotisme. Le despotisme se présente souvent comme
 le réparateur de tous les maux soufferts; il est l'appui du bon droit, le soutien des opprimés et
-le fondateur de l'ordre. Les peuples s'endorment au sein de la prospérité momentanée qu'il fait
-naître; et lorsqu'ils se réveillent, ils sont misérables. La liberté, au contraire, naît d'ordinaire au
-milieu des orages, elle s'établit péniblement parmi les discordes civiles et ce n'est que quand elle
+le fondateur de l'ordre. Les peuples s'endorment au sein de la prospéritéérité momentanéeée qu'il fait
+naître; et lorsqu'ils se réréveillent, ils sont misémisérables. La liberté, au contraire, naît d'ordinaire au
+milieu des orages, elle s'éétablit pépéniblement parmi les discordes civiles et ce n'est que quand elle
 est déjà vielle qu'on peut connaître ses bienfaits" (bk. 1, pt. 2, chap. 6). "De la démocratie en
 Amérique," in Œuvres, André Jardin, ed. Bibliothèque de la Pléiade (2 vols.; Paris: Éditions Gallimard, 1992), vol. 2, p. 275.—Ed.] Cf. also vol. 2, chap. 2, p. 96: "The advantages that freedom
 brings are shown only by the lapse of time, and it is always easy to mistake the cause in which
@@ -4412,7 +4412,7 @@ révolution, comme d'une source commune, étaient sortis deux fleuves: le premie
 les hommes aux institutions libres, tandis que le second les menait au pouvoir absolu." ("From
 the eighteenth century and the Revolution, as from a common source, two streams issued. The
 first led men to free institutions, the second to absolute power.") The quotation appears in the
-"Discours de M. De Tocqueville Prononcé dan la Séance Publique du 21 avril 1842, en venant
+"Discours de M. De Tocqueville Prononcéé dan la Séance Publique du 21 avril 1842, en venant
 prendre séance à la place de M. le comte de Cessac," Œuvres, vol. 1, pp. 1208–09.—Ed.] Cf.
 the observation by Sir Thomas Erskine May, Democracy in Europe: A History (London: Longmans,
 Green, and Co., 1877), vol. 2, p. 334: "The history of the one [ France], in modern times, is the
@@ -4425,8 +4425,8 @@ which had already begun to destroy the old feudal world and had given to its sub
 of equality. The new Liberalism, like the monarchy, was egalitarian; but its egalitarianism was
 inspired and ennobled by a broader rationalistic consciousness attributing to all men one identical spiritual and human value. But the love of equality which gave its peculiar tone to the
 new freedom was so overwhelming that it ended by overthrowing and crushing it" ( pp. 81–82).
-—Ed.] On the absence of a truly liberal tradition in France see Emile Faguet, Le Liberalisme
-(Paris: Société française d'imprimerie et de librairie, 1902), esp. p. 307, and Heinrich von Treitschke, Die Freiheit (1861) (Leipzig: Insel Bücherei, 1912), p . 12: "Daß die Franzosen trotz aller Begeisterung für die Freiheit doch immer n ur die Gleichheit gekannt haben, nie die F reiheit." ["The French,
+—Ed.] On the absence of a truly liberal tradition in France see Emile Faguet, Le Libéralisme
+(Paris: Société française d'imprimerie et de librairie, 1902), esp. p. 307, and Heinrich von Treitschke, Die Freiheit (1861) (Leipzig: Insel BüBücherei, 1912), p . 12: "Daß die Franzosen trotz aller Begeisterung für die Freiheit doch immer n ur die Gleichheit gekannt haben, nie die F reiheit." ["The French,
 despite all the excitement regarding liberty, have known only equality, never liberty."—Ed.]
 
 2 "Rationalism" and "rationalistic" will be used here throughout in the sense defined by Bernard Groethuysen in "Rationalism," Encyclopedia of the Social Sciences, vol. 13, p. 113, as a tendency
@@ -4453,7 +4453,7 @@ and for the benefit of which class the interference takes place, while according
 or aristocracy, and the present dictatorship of the ouvriers would appear to us
 an uncompromising aristocracy of the ouvriers."6
 
-3 The author of the most detailed monog raph on one of the f rst French economic theorists, Pierre de
+3 The author of the most detailed monograph raph on one of the f rst French economic theorists, Pierre de
 Boisguillebert (Hazel van Dyke Roberts, Boisguilbert: Economist of the Reign of Louis XIV [New York:
 Columbia University Press, 1935] has noted: "His positive theory may be said in a very real sense to have
 been simply a rationale of what he thought to be the English w ay of life, a way of life he would have the
@@ -4484,20 +4484,20 @@ Adam Ferguson,8 seconded by their English contemporaries Josiah Tucker,
 Edmund Burke, and William Paley, and drawing largely on a tradition rooted
 in the jurisprudence of the common law.9 Opposed to them was the tradition
 of the French Enlightenment, deeply imbued with Cartesian rationalism: the
-Encyclopedists and Rousseau, the Physiocrats and Condorcet, are their bestknown representatives. Of course, the division does not fully coincide with national boundaries. Frenchmen like Montesquieu and, later, Benjamin Condiscussion of the first elementary principles." See also József Eötvös , Der Einf uß der herrschenden Ideen des 19. Jahrhunderts auf den Staat (2 vols.; Leipzig: F. A. Brockhaus, 1854), particularly vol. 1,
+Encyclopedists and Rousseau, the Physiocrats and Condorcet, are their best-known representatives. Of course, the division does not fully coincide with national boundaries. Frenchmen like Montesquieu and, later, Benjamin Condiscussion of the first elementary principles." See also József Eötvös , Der Einf uß der herrschenden Ideen des 19. Jahrhunderts auf den Staat (2 vols.; Leipzig: F. A. Brockhaus, 1854), particularly vol. 1,
 p. 38, and James Mill, Considerations on Representative Government (London: Parker, Son, and Bour n,
 1861), pp. 82–84.
 
 7 One of the reasons wh y the French notion of liber ty was so attractive was offered by Friedrich Naumann in his previously cited treatise (Das Ideal der Freiheit, p. 16–17): He wrote: "Die Länder, wo der Sieg
-der Freiheit, das heißt in diesem F alle der gleichen Rechte (!) am v ollkommensten ist, sind v om Standpunkt liberaler Romantik die langweiligsten, denn in ihnen gibt es keine Freiheitskämpfer mehr, höchstens
-noch einen gewissen pharisäischen Stolz denen gegenüber, die noch nicht so weit sind, und ein gewisses
-erhabenes Mitleid für die Opf er zurückgebliebener Zustände. So etwa erscheint bisweilen der englische
+der Freiheit, das heißt in diesem F alle der gleichen Rechte (!) am v vollkommensten ist, sind v om Standpunkt liberaler Romantik die langweiligsten, denn in ihnen gibt es keine Freiheitskämpferämpfer mehr, höchstens
+noch einen gewissen pharisäischenäischen Stolz denen gegenüber, die noch nicht so weit sind, und ein gewisses
+erhabenes Mitleid für die Opf er zurüzurückgebliebener Zuständeände. So etwa erscheint bisweilen der englische
 Liberalismus." ["Those countries in which the victory of liberty, that is to say, equality of rights,
 was most complete, were, from the point of view of liberal romanticism, the most boring, since
 there were no longer any freedom fighters, while what remained, for the most part, was a certain Pharisaic pride towards those nations that had not yet advanced to this point and a species
 of pity for those people subject to these backward circumstances. This is, more or less, how English Liberalism appears."—Ed.]
 
-One of the most amusing episodes of World War I was the dispute, which extended beyond the battlef eld, between French and German intellectuals over the question of which countr y had discovered the
+One of the most amusing episodes of World War I was the dispute, which extended beyond the battlefield eld, between French and German intellectuals over the question of which countr y had discovered the
 secret of social organization. See Jean Labadié, ed., L'Allemagne: A- t- elle le secret de l'organisation?
 (Paris: Bibliothèque de l'Opinion, 1916). It would have been diff cult for an Englishman to make this claim
 for his countr y. In this conte xt, see the discussion about the role of "organization" during the Napoleonic era.
@@ -4538,10 +4538,10 @@ compatriots. Constant was partly educated in Scotland, and Tocqueville could say
 that "So many of my thoughts and feelings are shared by the English that England has turned
 into a second native land of the mind for me." [ The Simpson translation renders Tocqueville's
 French thus: "So many of my opinions and feelings are English, that England is to me almost
-a second country intellectually" (Tocqueville to Nassau Senior, Versailles, 27 July 1851, Correspondence and Conversations of Alexis de Tocqueville and Naussau William Senior, from 1834 to 1959,
+a second country intellectually" (Tocqueville to Nassau Senior, Versailles, 27 July 1851, Correspondence and Conversations of Alexis de Tocqueville and Nassau William Senior, from 1834 to 1959,
 Mary Charlotte Mair Simpson, ed. and trans. [2 vols.; 2nd ed.; London: Henry S. King and
 Co., 1872], vol. 1, pp. 1, 264). Tocqueville's original reads: "J'ai d'ailleurs tant de sentiments et
-d'idées qui me sont communs avec les Anglais, que l'Angleterre est devenue pour moi comme
+idéesées qui me sont communs avec les Anglais, que l'Angleterre est devenue pour moi comme
 une seconde patrie intellectuelle." Alexis de Tocqueville, Œuvres complètes. Tome 6: Correspondance
 Anglaise, 3 vols.; part 2: Correspondance et Conversations d'Alexis de Tocqueville et Nassau William Senior
 (Paris: Gallimard, 1991), p. 132.—Ed.] A fuller list of eminent French thinkers who belonged
@@ -4708,7 +4708,7 @@ excellent men, in many succession of ages, by long and continual experience (the
 and truth) fined and refined, which no one man, (being of so short a time) albeit he had the
 wisdom of all the men in the world, in any one age could ever have effected or attained unto"
 [ Liberty Fund edition, vol. 1, p. 173.]. Cf. also the legal proverb: "Per varios usus experientia legem fecit." [The phrase carries the following sense: Experience made law through diverse
-customs.—Ed.] See J. G. A. Pocock, The Ancient Constitution and the F eudal Law (New York: Cambridge University Press, 1957), as w ell as Sir John Da vies, Les Reports des Cases en La y (commonly
+customs.—Ed.] See J. G. A. Pocock, The Ancient Constitution and the F feudal Law (New York: Cambridge University Press, 1957), as w ell as Sir John Da vies, Les Reports des Cases en La y (commonly
 cited as Irish Reports [London, 1612]), Preface: "As it is said of every Art and Science which is brought to
 perfection, Per varios usus artem experiential fecit, so may it properly be said of our Law Per varios usus
 Legem experiential fecit. Long experience, and many trials of what w as best for the common good, did
@@ -4992,7 +4992,7 @@ L'erreur de l'école libérale est d'avoir trop cru qu'il est facile de créer l
 et de n'avoir pas vu qu'un établissement n'est solide que quand il a des racines historiques . . .
 Elle ne vit pas que de tous ses efforts ne pouvait sortir qu'une bonne administration, mais jamais
 la liberté, puisque la liberté résulte d'un droit antérieur et supérieur à celui de l'État, et non
-d'une déclaration improvisée ou d'un raisonnement philosophique plus ou moins bien déduit."
+d'une déclaration improviséeée ou d'un raisonnement philosophique plus ou moins bien déduit."
 ["Liberalism, claiming as it does to be uniquely founded on the principles of reason, ordinarily
 holds that tradition need play no role. This is its error. . . . The liberal school errs in thoroughly
 embracing the view that it is easy to create a liberal regime solely through reflection, not seeing
@@ -5188,17 +5188,17 @@ individual."44 The rationalists of the eighteenth century, indeed, explicitly
 argued that, since they knew human nature, they "could easily find the morals which suited it."45 They did not understand that what they called "human
 nature" is very largely the result of those moral conceptions which every individual learns with language and thinking.
 
-43 Descartes, Discourse on Method, pt. 4, p. 26. [The French reads: "que je rejetasse comme absolument faux tout ce en quoi je pourrois imaginer le moindre doute."—Ed.]
+43 Descartes, Discourse on Method, pt. 4, p. 26. [The French reads: "que je rejetasse comme absolument faux tout ce en quoi je pourrais imaginer le moindre doute."—Ed.]
 
 44 Edmund Burke, A Vindication of Natural Society, Preface, in Works, vol. 1, p. 7 [ Liberty Fund
 
 edition, p. 9].
 
 45 Paul Henri Thiry, Baron d'Holbach, Système social, Ou Principes naturels de la morale et de la
-politique (3 vols.; London [ Rouen], 1773), vol. 1, p. 55, quoted in Talmon, Origins of Totaltarian Democracy, p. 270. [The full French statement reads: "En partant de l'homme lui- même on
+politique (3 vols.; London [ Rouen], 1773), vol. 1, p. 55, quoted in Talmon, Origins of Totalitarian Democracy, p. 270. [The full French statement reads: "En partant de l'homme lui- même on
 trouvera facilement la morale qui lui convient. Cette morale sera vraie, si l'on voit l'homme tel
-qu'il est . . . principes . . . evidents . . . capables d'être aussi rigoureusement demonstrés que
-l'arithmétique ou la géometrie."—Ed.] Similarly naïve statements are not difficult to find in the
+qu'il est . . . principes . . . evidents . . . capables d'être aussi rigoureusement démontrésés que
+arithmétiqueétique ou la géometrie."—Ed.] Similarly naïve statements are not difficult to find in the
 writings of contemporary psychologists. Burrus Frederic Skinner, e.g., in Walden Two (New York:
 Macmillan, 1948), p. 85, makes the hero of his utopia argue: "Why not experiment? The questions are simple enough. What's the best behavior for the individual so far as the group is concerned? And how can the individual be induced to behave in that way? Why not explore these
 questions in a scientific spirit?
@@ -5239,7 +5239,7 @@ when we deliberately formulate an abstract rule for our individual guidance
 ed. (Zurich: Erlenbach- Zurich: E. Rentsch, 1957), pp. 71–84, reprinted as "What is 'Social'?—
 What Does it Mean?" in Studies in Philosophy, Politics, and Economics (Chicago: University of Chicago Press, 1967), pp. 237–47. [An unauthorized translation of this essay appeared in Freedom and
 Serfdom: An Anthology of Western Thought, Albert Hunold, ed., Richard Henry Stevens, trans. (Dordrecht: D. Reidel, 1961), pp. 107–18. Hayek writes of this translation that "in parts (it) gravely
-misrepresented the meaning of the original."—Ed.] See also the attempted defense of the concept in Hermann Jahrreiss, Freiheit und Sozialstaat (Kölner Universitätsreden. No. 17; Krefeld,
+misrepresented the meaning of the original."—Ed.] See also the attempted defense of the concept in Hermann Jahrreiss, Freiheit und Sozialstaat (Kölner Universitäuniversitaires. No. 17; Krefeld,
 1957), now reprinted in the same author's Mensch und Staat. Rechtsphilosophische, staatsrechtliche und
 völkerrechtliche Grundfragen in unserer Zeit (Cologne and Berlin: Carl Heymann, 1957), pp. 69–88.
 
@@ -5378,7 +5378,7 @@ Hume commenced when he "turned against the enlightenment its own weapons" and un
 The first condition for such an intelligent use of reason in the ordering of
 human affairs is that we learn to understand what role it does in fact play and
 can play in the working of any society based on the co- operation of many
-separate minds. This means that, before we can try to remold society intelligently, we must understand its functioning; we must realize that, even when
+separate minds. This means that, before we can try to remould society intelligently, we must understand its functioning; we must realize that, even when
 we believe that we understand it, we may be mistaken. What we must learn
 to understand is that human civilization has a life of its own, that all our
 efforts to improve things must operate within a working whole which we cannot entirely control, and the operation of whose forces we can hope merely
@@ -5404,7 +5404,7 @@ Mossner, Life of David Hume (Oxford: Clarendon Press, 1954), p. 125: "In the Age
 Hume set himself apart as a systematic anti- rationalist."
 
 53 See Dietrich Schindler, Recht, Staat, Völkergemeinschaft: ausgewählte Schriften und Fragmente aus
-dem Nachlass (Zurich: Schulthess and Co ., 1948), p. 86: "Der Gesetzgeber gleicht eher dem Gär tner,
+dem Nachlass (Zurich: Schulthess and Co ., 1948), p. 86: "Der Gesetzgeber gleicht eher dem Gär gärtner,
 
 inside this given whole, aim at piecemeal, rather than total, construction,54
 and use at each stage the historical material at hand and improve details step
@@ -5417,7 +5417,7 @@ all exclusive, monopolistic power to experiment in a particular field—power
 which brooks no alternative and which lays a claim to the possession of superior wisdom—and against the consequent preclusion of solutions better than
 the ones to which those in power have committed themselves.
 
-der mit dem v orhandenen Erdreich und mit den Wachstumsbedingungen der Pf anzen zu rechnen hat,
+der mit dem v vorhandenen Erdreich und mit den Wachstumsbedingungen der Pf Pflanzen zu rechnen hat,
 als dem Maler, der seiner Phantasie freies Spiel läßt." ["The legislator more closely resembles a gardener, who has to assess the soil and the conditions necessary for his plants' growth, than a
 painter who gives free rein to his imagination."—Ed.]
 
@@ -5519,9 +5519,9 @@ It appears that the assertion that the will is free has as little meaning as
 its denial and that the whole issue is a phantom problem,4 a dispute about
 
 3 Conrad Hal Waddington. The Scientific Attitude (Pelican Books; Harmondsworth: Penguin
-Books, 1941), p. 110. See also Burrhus F rederic Skinner, Walden Two (New York: Macmillan, 1948),
+Books, 1941), p. 110. See also Burrhus F Frederic Skinner, Walden Two (New York: Macmillan, 1948),
 p. 257: "I deny that freedom exists at all. I must deny it, or my program would be absurd. You can't have
-a science about a subject matter which leaps capr iciously about." In addition, see Skinner's Science and
+a science about a subject matter which leaps capriciously iciously about." In addition, see Skinner's Science and
 Human Behavior (New York: Macmillan, 1953), which stands as the most e xtreme example of anti- liberal
 attitudes embraced by the modern "behavioral scientist."
 
@@ -5575,7 +5575,7 @@ Hume and apparently even Aristotle. Hume stated explicitly (Treatise of Human Na
 sec. 2], vol. 2, p. 192): "'Tis only upon the principles of necessity, that a person acquires any
 merit or demerit from his actions, however the common opinion may incline to the contrary."
 On Aristotle see Yves Simon, Traité du libre arbitre (Liège: Sciences et lettres, 1951), pp. 93–99; and
-Carl Friedrich Heman, Des Aristoteles Lehre von der Freiheit des menschlichen Willens (Leipzig: Fues's
+Carl Friedrich Heman, Des Aristoteles Lehre von der Freiheit des menschlichen Willens (Leipzig: Fues
 R. Riesland, 1887), esp. pp. 168–94, quoted by Simon. For recent discussions see R. E. Hobart,
 "Free Will as Involving Determination and Inconceivable without It," Mind, 43 (1934): 1–27;
 and Philippa Foot, "Free Will Involving Determinism," Philosophical Review, 66 (1957): 439–50.
@@ -5790,8 +5790,8 @@ that they can become fully moral. Consider: "(Man's) culture consists of two thi
 Where both qualities are united, Man will combine the greatest fullness of existence with the
 utmost self- dependence and freedom and instead of abandoning himself to the world he will
 rather draw it into himself with the whole infinity of its phenomena, and subject it to the unity of
-reason." ( p. 69; "Seine Kultur wird also darin bestehen: erstlich: Dem empfangenden Vermögen
-die vielfältigsten Berührungen mit der Welt zu verschaffen und auf seiten des Gefühls die Passivität aufs Höchste zu treiben; zweitens dem bestimmenden Vermögen die höchste Unabhängigkeit von dem empfangenden zu erwerben und auf seiten der Vernunft die Aktivität aufs Höchste
+reason." ( p. 69; "Seine Kultur wird also darin bestehen: erstens: Dem empfangenden Vermögen
+die vielfältigstenävielfältigsten BerüBerührungen mit der Welt zu verschaffen und auf seiten des Gefühls die Passivitätät aufs Höchste zu treiben; zweitens dem bestimmenden Vermögen die höchste Unabhängigkeit von dem empfangenden zu erwerben und auf seiten der Vernunft die Aktivitätät aufs Höchste
 zu treiben. Wo beide Eigenschaften sich vereinigen, da wird der Mensch mit der höchsten Fülle
 von Dasein die höchste Selbständigkeit und Freiheit verbinden, und, anstatt sich an die Welt zu
 verlieren, diese vielmehr mit der ganzen Unendlichkeit ihrer Erscheinungen in sich ziehen und
@@ -5972,7 +5972,7 @@ cannot feel in the same way about the thousands or millions of unfortunates
 whom we know to exist in the world but whose individual circumstances we
 do not know. However moved we may be by accounts of their misery, we cannot make the abstract knowledge of the numbers of suffering people guide
 our everyday action. If what we do is to be useful and effective, our objectives
-must be limited, adapted to the capacities of our mind and our compassions.
+must be limited, adapted to the capacities of our mind and our compassion.
 To be constantly reminded of our "social" responsibilities to all the needy or
 unfortunate in our community, in our country, or in the world, must have the
 effect of attenuating our feelings until the distinctions between those responsibilities which call for our action and those which do not disappear. In order
@@ -6015,8 +6015,8 @@ The quotation at the head of the chapter is taken from The Holmes- Laski Letters
 appeared in Ordo: Jahrbuch für die Ordnung von Wirtschaft und Gesellschaft, 10 (1958): 5–29.
 
 1 See Gerhard Leibholz, "Die Bedrohung der Freiheit durch die Macht der Gesetzgeber," in Die Freiheit
-der Persönlichkeit: eine Vortragsreihe, Ludwig von Bertalanffy, ed. (Stuttgart: A. Kröner, 1958), p. 80:
-"Freiheit erzeugt notwendig Ungleichheit und Gleichheit notw endig Unfreiheit." ["Freedom necessarily
+der PersöPersönlichkeit: eine Vortragsreihe, Ludwig von Bertalanffy, ed. (Stuttgart: A. Kröner, 1958), p. 80:
+"Freiheit erzeugt notwendig Ungleichheit und Gleichheit notwendig notwendig Unfreiheit." ["Freedom necessarily
 creates inequality and equality necessarily creates unfreedom."—Ed.]
 
 state that would be necessary if persons who are in fact very different were to
@@ -6059,7 +6059,7 @@ and Unwin, 1931)], pp. 47–50.
 Uniqueness of the Individual (London: Methuen, 1957).
 
 4 Williams, Free and Unequal, p. 152.
-5 See the description of this fashionable view in Horace Mever Kallen's article "Behaviorism,"
+5 See the description of this fashionable view in Horace Mever Kallen article "Behaviorism,"
 Encyclopedia of the Social Sciences, vol. 2, p. 498: "At birth human infants, regardless of their heredity, are as equal as Fords."
 
 be, we must not overlook the fact that individuals are very different from the
@@ -6210,7 +6210,7 @@ possessions as will cause substantial inequality.
 
 9 See William Graham Sumner, Andrew Jackson (Standard library ed.; Boston: Houghton Miff in, 1899),
 pp. 24–25: "True honor, truthfulness, suppression of individual personal feeling, self- control and courtesy
-are inculcated best, if not exclusively, by the constant precept and example, in earliest childhood of highbred parents and relativ es. There is nothing on ear th which it costs more labor to produce than a highbred man. It is also indisputab le that home discipline and tr aining ingrain into the char acter of men the
+are inculcated best, if not exclusively, by the constant precept and example, in earliest childhood of highbred parents and relativ es. There is nothing on ear th which it costs more labor to produce than a highbred man. It is also indisputable le that home discipline and tr aining ingrain into the char acter of men the
 most solid and valuable elements and that, without such training, more civilization means better food and
 clothes rather than better men."
 
@@ -6284,7 +6284,7 @@ human, envy is certainly not one of the sources of discontent that a free societ
 
 p. 205.
 
-ervation of such a society that we do not countenance envy, not sanction its
+preservation of such a society that we do not countenance envy, not sanction its
 demands by camouflaging it as social justice, but treat it, in the words of John
 Stuart Mill, as "that most anti- social and odious of all passions."11
 
@@ -6319,10 +6319,10 @@ But, as we shall presently see, Mr. Gallie is right that, in the Aristotelian te
 does not see that distributive justice is irreconcilable with freedom in the choice of one's activities: it is the justice of a hierarchic organization, not of a free society.
 
 John Stuart Mill, Principles of Political Economy, with Some of Their Applications to Social Philosophy,
-vol. 2 of The Collected Works of John Stuar t Mill (Toronto: University of Toronto Press, 1965), bk. 2,
+vol. 2 of The Collected Works of John Stuart t Mill (Toronto: University of Toronto Press, 1965), bk. 2,
 chap. 1, p. 210 [similarly, Liberty Fund edition]: "The proportioning of remuneration to work done is really
 just only in so f ar as the more or less of the w ork is a matter of choice: when it depends on natur al differences of strength and capacity , this principle of remuneration is in itself an injustice: it gives to those
-who have; assigning most to those already most favoured by nature." See Gustav Radbruch, Rechtsphilosophie (5th ed.; Stuttgart: Koehler, 1956), e.g., p. 187: "Auch das sozialistische Gemeinw esen wird also
+who have; assigning most to those already most favoured by nature." See Gustav Radbruch, Rechtsphilosophie (5th ed.; Stuttgart: Koehler, 1956), e.g., p. 187: "Auch das sozialistische Gemeinwesen Wesen wird also
 ein Rechtsstaat sein, ein Rechtsstaat freilich, der statt v on der ausgleichenden v on der austeilenden
 Gerechtigkeit beherrscht wird." ["The socialist polity will therefore also be a state of law, a Rechtsstaat
 ruled by distributive instead of retributive justice."—Ed.]
@@ -6344,7 +6344,7 @@ Aristotle and Thomas Aquinas had in mind when they distinguished "distributive j
 "commutative justice," I prefer not to tie up the discussion with all the difficulties and confusions which in the course of time have become associated with these traditional concepts. That
 what we call here "reward according to merit" corresponds to the Aristotelian distributive justice seems clear. The difficult concept is that of "commutative justice," and to speak of justice
 in this sense seems always to cause a little confusion. Cf. Max Salomon, Der Begriff der Gerechtigkeit
-bei Aristoteles: nebst einem Anhang über den Begriff des Tauschgeschäftes (Leiden: Sijthoff, 1937); and for a
+bei Aristoteles: nebst einem Anhang über den Begriff des TauschgeschäTauschgeschäft (Leiden: Sijthoff, 1937); and for a
 survey of the extensive literature Giorgio del Vecchio, Die Gerechtigkeit (2nd ed.; Basel: Verlag für
 Recht und Gesellschaft, 1950).
 
@@ -6757,7 +6757,7 @@ completamente distintas.
 "La democracia responde a esta pregunta: ¿Quién debe ejercer el Poder público?
 La respuesta es: el ejercicio del Poder público corresponde a la colectividad de los ciudadanos.
 
-"Pero en esa pregunta no se habla de qué extensión deba tener el Poder público.
+"Pero en esa pregunta no se habla de qué extensiónón deba tener el Poder público.
 Se trata sólo de determinar el sujeto a quien el mando compete. La democracia propone que mandemos todos; es decir: que todos intervengamos soberanamente en los
 hechos sociales.
 
@@ -6771,18 +6771,18 @@ very confusing use of words.
 
 While liberalism is one of those doctrines concerning the scope and purpose of government from which democracy has to choose, the latter, being a
 method, indicates nothing about the aims of government. Though "democratic" is often used today to describe particular aims of policy that happen
-to be popular, especially certain egalitarian ones, there is no necessary conpúblico, ejérzalo un autócrata o el pueblo, no puede ser absoluto, sino que las personas tienen derechos previos a toda injerencia del Estado. Es, pues, la tendencia a limitar la intervención del Poder público." ( pp. 416–17).—Ed.]
+to be popular, especially certain egalitarian ones, there is no necessary con públicoúblico, ejéejérzalo un autócrata o el pueblo, no puede ser absoluto, sino que las personas tienen derechos previos a toda injerencia del Estado. Es, pues, la tendencia a limitar la intervenciónón del Poder público." ( pp. 416–17).—Ed.]
 
 See also the same author's The Revolt of the Masses (London: Allen and Unwin, 1932), p. 83. No
 less emphatic, from the dogmatic democratic position, is Max Lerner, "Minority Rule and the
 Constitutional Tradition," in The Constitution Reconsidered, Conyers Read, ed. (New York: Columbia University Press, 1938), p. 199: "When I speak of democracy here, I want to distinguish it
 sharply from liberalism. There is no greater confusion in the layman's mind today than the tendency to identify the two." Cf. also Hans Kelsen, "Foundations of Democracy," Ethics, 66, no. 1,
 pt. 2 (1955): 3: "It is of importance to be aware that the principle of democracy and that of liberalism are not identical, that there exists even a certain antagonism between them." Also Ruth
-Fulton Benedict, "Primitive Freedom," Atlantic Monthly, 30 (1942): 760: "But being a democr acy has not
+Fulton Benedict, "Primitive Freedom," Atlantic Monthly, 30 (1942): 760: "But being a democracia acy has not
 itself guaranteed the blessings of liberty."
 
 One of the best historical accounts of the relation is to be found in Franz Schnabel, Deutsche
-Geschichte im neunzehnten Jahrhundert, Vol. 2: Monarchie und Volkssouveränität (4 vols.; Freiburg im Breisgau: Herder, 1933), p. 98: "Liberalismus und Demokratie waren also nicht sich ausschließende
+Geschichte im neunzehnten Jahrhundert, Vol. 2: Monarchie und Volkssouveränitätänität (4 vols.; Freiburg im Breisgau: Herder, 1933), p. 98: "Liberalismus und Demokratie waren also nicht sich ausschließendeßende
 Gegensätze, sondern handelten von zwei verschiedenen Dingen: der Liberalismus sprach vom
 Umfang der staatlichen Wirksamkeit, die Demokratie vom Inhaber der staatlichen Souveränität." ["Liberalism and democracy were not, then, mutually exclusive nor opposites; rather they
 addressed two different things. Liberalism spoke to the extent of the government's potency while
@@ -6791,10 +6791,10 @@ Abbott Lawrence Lowell, "Democracy and Liberty," in Essays on Government (Boston
 Stuttgart: K. F. Koehler, 1950), pp. 137ff., esp. p. 156–62; Benedetto Croce, "Liberalism as
 a Concept of Life," Politics and Morals (New York: Philosophical Library, 1945); and Leopold
 von Wiese, "Liberalismus and Demokratismus in ihren Zusammenhängen und Gegensätzen,"
-Zeitschrift für Politik, 9 (1916): 407–25; Heinrich Ritter von Srbik, Deutsche Einheit: Idee und Wirklichkeit vom Heiligen Reich bis Königgrätz (4 vols.; Munich: F. Bruckmann KG, 1940), vol. 1, p. 245; Gerhard
+Zeitschrift für Politik, 9 (1916): 407–25; Heinrich Ritter von Srbik, Deutsche Einheit: Idee und Wirklichkeit vom Heiligen Reich bis KöKöniggrätzätz (4 vols.; Munich: F. Bruckmann KG, 1940), vol. 1, p. 245; Gerhard
 Ritter, Vom sittlichen Problem der Macht (Bern: A. Francke AG. Verlag, 1948), pp. 106 and 118; Peter
 Rossi, "Liberismo e regime parlamentare in Gaetano Mosca," Giornale degli Economisti e Annali di Economia, n.s., 8 (1949): 621–34; Werner Kägi, "Rechtsstaat und Demokratie: Antinomie und Synthese ," in
-Demokratie und Rechtsstaat: Festgabe zum 60. Geburstag von Zaccaria Giacometti (Zürich: Polygraphischer Verlag, 1953), pp. 107–42. A useful survey of some of the literature is Josef Thür, Demokratie
+Demokratie und Rechtsstaat: Festgabe zum 60. Geburtstag von Zaccaria Giacometti (Zürich: Polygraphischer Verlag, 1953), pp. 107–42. A useful survey of some of the literature is Josef Thür, Demokratie
 und Liberalismus in ihrem gegenseitigen Verhältnis (dissertation; Bischofszell: Buchdruckerei L. Hildebrand, 1944). See also Konrad von Orelli, Das Verhältnis von Demokratie und Gewaltenteilung und seine
 Wandlungen insbesondere im schweizerischen Bunde (dissertation; Wädenswil: Villiger, 1947).
 
@@ -6851,7 +6851,7 @@ We should also remember that the right of the majority is usually recognized onl
 is not always a natural or obvious unit. We certainly do not regard it as right
 that the citizens of a large country should dominate those of a small adjoining country merely because they are more numerous. There is as little reason
 why the majority of the people who have joined for some purposes, be it as a
-nation or some supernational organization, should be regarded as entitled to
+nation or some supranational organization, should be regarded as entitled to
 extend the scope of their power as far as they please. The current theory of
 democracy suffers from the fact that it is usually developed with some ideal
 homogeneous community in view and then applied to the very imperfect and
@@ -6872,7 +6872,7 @@ on the scope of the state action that is to be guided by democratic decision.
 While the dogmatic democrat regards it as desirable that as many issues as
 possible be decided by majority vote, the liberal believes that there are defi -
 nite limits to the range of questions which should be thus decided. The dogmatic democrat feels, in particular, that any current majority ought to have
-the right to decide what powers it has and how to exercise them, while the liberal regards it as important that the powers of any temporary majority be limto landowners would produce a legislature sufficiently independent of the government to exercise effective control over it. [Women's suffrage in Switzerland was introduced at the cantonal
+the right to decide what powers it has and how to exercise them, while the liberal regards it as important that the powers of any temporary majority be limbo landowners would produce a legislature sufficiently independent of the government to exercise effective control over it. [Women's suffrage in Switzerland was introduced at the cantonal
 level in 1971 and enshrined in the Swiss Constitution in 1985.—Ed.]
 
 5 Cf. Frederic William Maitland, The Collected Papers of Frederic William Maitland, Downing Professor of the Laws of England (3 vols.; Cambridge: Cambridge University Press, 1911), vol. 1, p. 84:
@@ -6951,7 +6951,7 @@ Buchanan McCallum, ed. (Oxford: Blackwell, 1946), p. 3. See also the statement m
 Jefferson noted in chap. 16, n. 79, below (Jefferson's draft of the Kentucky Resolutions, in Ethelbert Dudley Waterf eld, The Kentucky Resolutions of 1798: An Historical Study [2nd ed.; New York: Putnam, 1894],
 pp. 157–58). Indeed, this idea can be tr aced back to Rousseau; see his Du contrat social [Bibliothèque
 Philosophique; Paris: Aubier, Editions Montaigne, 1943], bk. 1, chap. 7 ("Du Souverain", p. 106) who offers
-the view that when a people f orm a legislature with plenar y powers "le puissance Souveraine n'a nul
+the view that when a people f orm a legislature with plenary y powers "le puissance Souveraine n'a nul
 besoin de garant envers les sujets, parce qu'il est impossible que le corps veuille nuire à tous ses membres, et nous verrons ci- après qu'il ne peut nuire à aucun en par ticulière." ["the sovereign power need
 offer no guarantee to its subjects, because it is impossible for the body to wish to hurt all its members. And we shall later see that it cannot hurt any in particular."—Ed.]
 
@@ -7514,7 +7514,7 @@ Wohlfahrtsstaat," Schweizer Monatshefte, 35 (1956): esp. 575: "Die Zahl der Unse
 Gefühl der Verantwortung für sich und die Zukunft bei den Selbstständigerwerbenden aus naheliegenden Gründen lebhafter entwickelt; sie müssen auf lange Sicht planen und haben auch die
 Möglichkeit, durch Geschick und Initiative für schlechtere Zeiten vorzusorgen. Die Unselbstständigerwerbenden hingegen, die in regelmäßigen Abständen ihren Lohn erhalten, haben ein
 anderes, [ein] statisches Lebensgefühl; sie planen selten auf lange Sicht, und erschrecken bei der
-geringsten Schwankung. Ihr Sinnen und Trachten ist auf Stabilität und Sicherheit gerichtet." ["The
+geringsten Schwankung. Ihr Sinnen und Trachten ist auf Stabilitätät und Sicherheit gerichtet." ["The
 number of non- self- employed has sharply increased, both in absolute terms and as a percent-
 
 prescribed or which are not conventional. He cannot go beyond his allotted
@@ -7635,7 +7635,7 @@ and Bros., 1942), p. 242, and the further discussion of the character of large o
 below, chap. 17, sec. 8.
 
 8 William Henry Beveridge, Baron Beveridge, Power and Inf uence (London: Hodder and Stoughton,
-1955), p. 70. The Webbs "owed both things —time for thought and social contact with the po werful—to
+1955), p. 70. The Webbs "owed both things —time for thought and social contact with the po powerful—to
 Beatrice's possession of £1,000 a year inherited from her father. Where will the next generation of reformers f nd their Webbs?"
 
 9 I wish I could command the eloquence with which I once heard the late Lord Keynes expatiate on the indispensable role that the man of independent means plays in any decent society.
@@ -7890,7 +7890,7 @@ NINE
 
 COERCION AND THE STATE
 
-For that is an absolute villeinage from which an uncertain and indeterminate
+For that is an absolute villainage from which an uncertain and indeterminate
 service is rendered, where it cannot be known in the evening what service is
 to be rendered in the morning, that is where a person is bound to whatever
 is enjoined to him. —Henry Bracton
@@ -7985,7 +7985,7 @@ to such a position [of irresponsible power] would be bound to change for the wor
 Excellence thereof, Compared with the Inconveniences and Dangers of Readmitting Kingship in this Nation" [1660], in Milton's Prose, Malcolm William Wallace, ed. [ World's Classics;
 London: Oxford University Press, 1925], p. 459 [ Liberty Fund edition, p. 428]); Montesquieu
 asserts that "constant experience shows us that every man invested with power is apt to abuse
-it, and to carry his authority as far as it will go" ["Mais c'est une expérience éternelle que tout
+it, and to carry his authority as far as it will go" ["Mais c'est une expérience ééternelle que tout
 homme qui a du pouvoir est porté à en abuser; il va jusquà ce qu'il trouve des limites."—Ed.]
 (Spirit of the Laws, bk. 11, chap. 4, vol. 1, p. 150; French edition: vol. 2, p. 395); Immanuel Kant
 maintains that "the possession of power invariably debases the free judgment of reason" ["Der
@@ -8025,7 +8025,7 @@ important form of coercion. But they are not synonymous with coercion, for
 the threat of physical force is not the only way in which coercion can be exercised. Similarly, "oppression," which is perhaps as much a true opposite of liberty as coercion, should refer only to a state of continuous acts of coercion.
 
 3. Coercion should be carefully distinguished from the conditions or terms
-on which our fellow men are willing to render us specific services or beneand jacobins and sans culottes" (vol. 6, p. 477) [The first quotation appears in chap. 1 of Adams's
+on which our fellow men are willing to render us specific services or beneath jacobins and sans culottes" (vol. 6, p. 477) [The first quotation appears in chap. 1 of Adams's
 "A Defence of the Constitutions of Government of the United States of America." The second is taken from Adams's Letters to John Taylor.—Ed.]; James Madison asserts [in his letter to Thomas Ritchie dated 18 December 1825] that "all power in human hands is liable to
 be abused" and [in an unsent letter to Thomas Lehre dated 2 August 1828] that "power, wherever lodged, is liable, more or less, to abuse" (The Complete Madison: His Basic Writings, Saul Kussiel
 Padover, ed. [New York: Harper, 1953], p. 46); Jacob Burckhardt never ceases to reiterate that
@@ -8034,8 +8034,8 @@ York: Pantheon Books, 1943], e.g., p. 115 [Liberty Fund edition, p. 102]); and t
 Lord Acton's maxim "power tends to corrupt, and absolute power corrupts absolutely" (Historical
 Essays, p. 504 [ Liberty Fund edition, Essays in the Study and Writing of History, p. 383]). [ Letter
 from Acton to Bishop Mandell Creighton (April 3,1887) regarding Acton's review of vols. 3 and
-4 of Creighton's History of the Papacy, The Italian Princes, 1464–1518, contributed to the English Historical Review in 1887.—Ed.] See also Carl von Rotteck, "Absolutismus," in Staatslexikon oder Encyklopädie der Staatswissenschaften, Carl von Rotteck and Carl. T. Welcker, eds. (Altona: Hammrich, 1834),
-vol. 1, p. 155: "Es liegt in der unumschränkten Gewalt eine so schauerliche Macht der bösen Versuchung,
+4 of Creighton's History of the Papacy, The Italian Princes, 1464–1518, contributed to the English Historical Review in 1887.—Ed.] See also Carl von Rotteck, "Absolutismus," in Staatslexikon oder Encyclopädieädie der Staatswissenschaften, Carl von Rotteck and Carl. T. Welcker, eds. (Altona: Hammrich, 1834),
+vol. 1, p. 155: "Es liegt in der unumschränktenänkten Gewalt eine so schauerliche Macht der bösen Versuchung,
 daß nur die alleredelsten Menschen ihr widerstehen können." ["Absolute power contains within itself
 the awful temptation toward evil that only the most noble can resist."—Ed.]
 
@@ -8223,7 +8223,7 @@ the very prerequisite of any ordered action in the cultural sense."12
 
 In modern society, however, the essential requisite for the protection of the
 
-8 On the role of property in the American tradition of liberty, see Paul Abraham Freund, On Understanding the Supreme Court: A Series of Lectures Delivered under the Auspices of the Julius Rosenthal Foundation at Nor thwestern University School of La w, in April 1949 (3rd ed.; Boston: Little, Brown and Co.,
+8 On the role of property in the American tradition of liberty, see Paul Abraham Freund, On Understanding the Supreme Court: A Series of Lectures Delivered under the Auspices of the Julius Rosenthal Foundation at Nor Northwestern University School of La w, in April 1949 (3rd ed.; Boston: Little, Brown and Co.,
 1951), pp. 14ff.
 
 9 The expression "several property" used by Sir Henry Maine (Village Communities in the East and
@@ -8525,7 +8525,7 @@ law."1 Thus one of the great legal scholars of the last century stated the basic
 
 The quotation at the head of the chapter is taken from José Ortega y Gasset, Mirabeau o El
 politico (1927), in Obras completas (Madrid: Revista de Occidente, 1947), vol. 3, p. 603: "Orden
-no es una presión que desde fuera se ejerce sobra la sociedad, sino un equilibrio que se suscita
+no es una presión que desde fuera se ejerce sobre la sociedad, sino un equilibrio que se suscita
 en su interior." Cf. John Corrie Carter, "The Ideal and the Actual in the Law," Annual address
 delivered at the Thirteenth Annual Meeting of the American Bar Association (Philadelphia: Dando Publishing Co., 1890), p. 21. [Reprinted from the American Law Review, 24 (1890): 768–69]: "Law is
 not a body of commands imposed upon society from without, either by an individual sovereign
@@ -8589,7 +8589,7 @@ limits which are consistent with the general welfare of mankind."
 most general sense of the term, is the science of liberty."—Ed.]
 
 3 A number of particularly insightful explanations about the role of rules in determining social structures
-can be found in the wr itings of Richard Stanle y Peters, especially The Concept of Motiv ation (London:
+can be found in the wr itings of Richard Stanle y Peters, especially The Concept of Motivation ation (London:
 Routledge and Kegan Paul, 1958), as well as the book he wrote in conjunction with Stanle y Isaac Benn,
 Social Principles and the Democratic State (London: Allen and Unwin, 1959).
 
@@ -8708,8 +8708,8 @@ sex, or status greatly restrict his choice.8 Though he is not obeying another
 
 8 I have borrowed this illustration from José Ortega y Gasset, Del imperio romano (1940), in Obras
 completas (6 vols.; Madrid: Revista de Occidente, 1947), vol. 6, p. 76, who presumably derives it
-from some anthropologist. [Ortega writes: "El lector no sonreiría tan absolutamente si conociese
-un poco mejor la historia de la circulación humana, las angustias y luchas que ha ocasionado y
+from some anthropologist. [Ortega writes: "El lector no sonreiríaía tan absolutamente si conociese
+un poco mejor la historia de la circulaciónón humana, las angustias y luchas que ha ocasionado y
 si yo tuviese espacio libre para dibujar aquí un gráfico de las líneas rigurosamente prescritas que
 tiene que seguir hoy mismo el africano bantú para moverse, según su edad, sexo y condición,
 
@@ -8738,7 +8738,7 @@ and place, he can use as the basis for his decisions.
 
 Since the laws determine only part of the conditions that the actions of the
 individual will have to satisfy, and apply to unknown people whenever certain
-conditions are present, irrespective of most of the facts of the particular situaentre las catorce chozas de su aldea." ("The reader would not smile so broadly were he better
+conditions are present, irrespective of most of the facts of the particular situación las catorce chozas de su aldea." ("The reader would not smile so broadly were he better
 acquainted with the history of the movement of human beings, the anxieties and problems to
 which it has given rise and, had I sufficient space to describe it, the rigorously prescribed lines
 along which the African Bantu were today required to follow depending on his age, his sex, and
@@ -8776,7 +8776,7 @@ other action that I have taken in full knowledge of the law.
 
 The significance for the individual of the knowledge that certain rules will
 be universally applied is that, in consequence, the different objects and forms
-of action acquire for him new properties. He knows of man- made cause- andeffect relations which he can make use of for whatever purpose he wishes.
+of action acquire for him new properties. He knows of man- made cause- cause-and-effect relations which he can make use of for whatever purpose he wishes.
 The effects of these man- made laws on his actions are of precisely the same
 kind as those of the laws of nature: his knowledge of either enables him to
 foresee what will be the consequences of his actions, and it helps him to make
@@ -9007,7 +9007,7 @@ apply and, in fact, are one of the means by which man has learned to cope
 19 Cf. David Hume, Treatise of Human Nature, bk. 2, pt. 2, secs. 2–6 (Works, vol. 2, pp. 258–300),
 which still contains perhaps the most satisfactory discussion of the problems considered here,
 esp. vol. 2, p. 269: "A single act of justice is frequently contrary to public interest; and were
-it to stand alone, without being follow'd by other acts, may, in itself, be very prejudicial to society. . . . Nor is every single act of justice, consider'd apart, more conducive to private interest
+it to stand alone, without being followed by other acts, may, in itself, be very prejudicial to society. . . . Nor is every single act of justice, considered apart, more conducive to private interest
 than to public; . . . But however single acts of justice may be contrary, either to public or private
 interest, 'tis certain, that the whole plan or scheme is highly conducive, or indeed absolutely requisite, both to the support of society and the well- being of every individual. 'Tis impossible to
 separate the good from the ill. Property must be stable, and must be fix'd by general rules. Tho'
@@ -9076,7 +9076,7 @@ observes: "There is not anything in the world so much abused as this sentence, S
 lex esto." [ The phrase originates in Cicero De Legibus, bk. 3, chap. 3, sec. 8.—Ed.] Cf. Charles
 Howard McIlwain, Constitutionalism: Ancient and Modern (rev. ed.; Ithaca, NY: Cornell University
 Press, 1947), p. 149, n. 6 [Liberty Fund edition, p. 4 n. 6], and, on the general issue, Friedrich
-Meinecke, Die Idee der Staatsräson in der neueren Geschichte (Munich: R. Oldenburg, 1924), p. 265,
+Meinecke, Die Idee der Staatsräsonäson in der neueren Geschichte (Munich: R. Oldenburg, 1924), p. 265,
 now translated as Machiavellism: the Doctrine of Raison d'état and its Place in Modern History, Douglas
 Scott, trans. (London: Routledge and Kegan Paul, 1957); see also Mises, Socialism, p. 400 [ Liberty Fund edition, p. 359].
 
@@ -9102,14 +9102,14 @@ guided by successful foresight, that people not only make effective use of their
 knowledge but can also foresee with a high degree of confidence what collaboration they can expect from others.25
 
 23 Cf., e.g., the opinion of James I, quoted by Francis Dunham Wormuth, The Origins of Modern Constitutionalism (New York: Harper, 1949), p. 51, that "order was dependent upon the relationship of command and obedience. All organization derived from superiority and subordination." [ James makes this point in his "Triplici nodo, triplex cuneus. Or an apologie for the
-oath of allegiance. Against the two breves of pope pavlvs qvintvs, and the late letter of cardinall bellarmine to g. blackwel the arch- priest," in The Political Works of James I (reprinted from the
+oath of allegiance. Against the two breves of pope pavlvs qvintvs, and the late letter of cardinal bellarmine to g. blackwel the arch- priest," in The Political Works of James I (reprinted from the
 edition of 1616), Charles Howard McIlwain, ed. (Cambridge, MA: Harvard University Press,
 1918).—Ed.]
 
 24 I apologize to the author whose words I quote but whose name I have forgotten. I had
 noted the passage with a reference to Edward Evan Evans- Pritchard, Social Anthropology (London: Cohen and West, 1951), p. 19, but, though the same idea is expressed there, it is not in
 the words quoted. [ The quotation that Hayek cannot place does indeed come from Evans-
-Pritchard's monograph Social Anthropology (Glencoe, IL: The Free Press, 1954), p. 49. The passage on p. 19, which expresses the same idea, reads: "It is evident that there must be uniformities
+Pritchard monograph Social Anthropology (Glencoe, IL: The Free Press, 1954), p. 49. The passage on p. 19, which expresses the same idea, reads: "It is evident that there must be uniformities
 and regularities in social life, that a society must have some sort of order, or its members could
 not live together."—Ed.]
 
@@ -9208,7 +9208,7 @@ Britain and the Nether lands, Papers Delivered to the Oxford- Netherlands Histor
 (London: Chatto and Windus, 1960).
 
 Ignorance also compels me to pass over the important discussions and the development of
-similar ideas in Renaissance Italy, especially in Florence. (For a brief discussion see the introduction to the notes to chap. 20.) Cf. also Rudolf von Albertini, Das f orentinische Staatsbewußtsein im
+similar ideas in Renaissance Italy, especially in Florence. (For a brief discussion see the introduction to the notes to chap. 20.) Cf. also Rudolf von Albertini, Das f fiorentinische Staatsbewußtseinßtsein im
 Übergang von der Republik zum Prinzipat (Bern: Francke, 1955), particularly p. 294, and Giovanni Battista
 Guarini, Trattato della pubblica libertà (ca. 1599), (Venice: Andreola, 1818). And I cannot speak with
 
@@ -9240,7 +9240,7 @@ laws" and "government of men" 2,500 years ago.
 
 2 Cf. Montesquieu's remark in The Spirit of the Laws (vol. 1, p. 151; French edition: vol. 2,
 p. 396): "One nation there is also in the world that has for the direct end of its constitution
-political liberty." ["Il y a aussi une nation dans le monde qui a pour objet direct de sa constitution la liberté politique."—Ed.] See also Rudolph Henne, Der englische Freiheitsbegriff (dissertation; Zurich: R. Sauerländer, 1927). A careful study of the discovery of English liberty by the
+political liberty." ["Il y a aussi une nation dans le monde qui a pour objet direct de sa constitution la liberté politique."—Ed.] See also Rudolph Henne, Der englische Freiheitsbegriff (dissertation; Zurich: R. Sauerländeränder, 1927). A careful study of the discovery of English liberty by the
 Continental people and of the influence of the English model on the Continent has yet to be
 made. Important early works are Guy Miège, L'État présent de la Grande- Bretagne après son heureuse
 union en 1707, sous le règne glorieux d'Anne (2 vols. in 1; Amsterdam: Chez les Wetsteins, 1708), also
@@ -9248,7 +9248,7 @@ in an enlarged German edition as Geist- und weltlicher Staat von Gross- Britanni
 gegenwärtigen Zeit (Leipzig: Weidmanns, 1718); Paul de Rapin- Thoyras, Dissertation sur les Whigs
 et les Torys, or an Historical Dissertation upon Whig and Tory, John Ozell, trans. (London: Printed for
 E. Curll, 1717); and August Adolph Friedrich von Hennings, Philosophische und statistische Geschichte
-des Ursprungs und des Fortgangs der Freyheit in Engeland nach Hume, Blackstone und andern Quellen ausgearbeitet (Copenhagen: Proft, 1783).
+des Ursprungs und des Fortgangs der Freyheit in England nach Hume, Blackstone und andern Quellen ausgearbeitet (Copenhagen: Proft, 1783).
 
 3 Cf. particularly Sir Frederick Pollock and Frederic William Maitland, History of English Law
 Before the Time of Edward I (2nd ed.; 2 vols.; Cambridge: Cambridge University Press, 1911); Robert von Keller, Freiheitsgarantien für Person und Eigentum im Mittelalter: eine Studie zur Vorgeschichte moderner Verfassungsgrundrechte (Heidelberg: C. Winter, 1933); Hans Planitz, "Zur Ideengeschichte der
@@ -9267,7 +9267,7 @@ Grundrechte," in Die Grundrechte und Grundpflichten der Reichsverfassung. Kommen
 Reichsverfassung, Hans Carl Nipperdey, ed. (3 vols.; Berlin: Verlag Reimar Hobbing, 1929–30),
 vol. 3, pp. 597–623, esp. 601; and Otto Friedrich von Gierke, Johannes Althusius und die Entwicklung
 der naturrechtlichen Staatstheorien: zugleich ein Beitrag zur Geschichte der Rechtssystematik (2nd ed.; Bres lau:
-Verag Marcus, 1902).
+Verlag Marcus, 1902).
 
 4 See Charles Howard McIlwain, "The English Common Law Barrier against Absolutism,"
 American Historical Review, 49 (1934): 27. The extent to which even the most famous and later
@@ -9306,7 +9306,7 @@ Sünde und wäre eine Auflehnung gegen Gott, der allein Recht schafft."—Ed.]; 
 Kingship and Law in the Middle Ages. Vol. 1: The Divine Right of Kings and the Right of Resistance in the
 Early Middle Ages. Vol. 2: Law and Constitution in the Middle Ages: Studies, Stanley Bertram Chrimes,
 trans. (Oxford: B. Blackwell, 1939); Edward Jenks, Law and Politics in the Middle Ages: With a Synoptic Table of Sources (London: J. Murray, 1898), pp. 24–25; Charles Howard McIlwain, The High
-Court of Parliament and Its Supremacy: An Historical Essay on the Boundaries Between Legislation and Adjudication in England (New Haven: Yale University Press, 1910); John Nevelle Figgis, The Divine
+Court of Parliament and Its Supremacy: An Historical Essay on the Boundaries Between Legislation and Adjudication in England (New Haven: Yale University Press, 1910); John Neville Figgis, The Divine
 Right of Kings (2nd ed., with three additional essays; Cambridge: Cambridge University Press,
 1914); Charles Victor Langlois, Le Règne de Philippe III, le Hardi (Paris: Hachette et cie., 1887),
 p. 285; and, for a correction concerning the situation in the later Middle Ages, Theodore Frank
@@ -9315,7 +9315,7 @@ Thomas Plucknett, Statutes and Their Interpretation in the First Half of the Fou
 History (Oxford: Clarendon Press, 1955).
 
 6 Cf. Bernhard Rehfeldt, Die Wurzeln des Rechtes [Rechts] (Berlin: Duncker und Humblot, 1951),
-p. 67: "Das Auftauchen des Phänomens der Gesetzgebung . . . bedeutet in der Menschheitsgeschichte die Erfindung der Kunst, Recht und Gesetz zu machen. Bis dahin hatte man ja geglaubt
+p. 67: "Das Auftauchen des PhäPhänomen der Gesetzgebung . . . bedeutet in der Menschheitsgeschichte die Erfindung der Kunst, Recht und Gesetz zu machen. Bis dahin hatte man ja geglaubt
 Recht nicht setzen, sondern nur anwenden zu können als etwas, das seit jeher war. An dieser
 Vorstellung gemessen ist die Erfindung der Gesetzgebung vielleicht die folgenschwerste, die je
 gemacht worden—folgenschwerer als die des Feuermachens oder des Schießpulvers—denn am
@@ -9358,7 +9358,7 @@ success of legal positivism in England.
 
 How profoundly the traditional view that laws are found and not made still influenced English opinion in the late eighteenth century is shown by Edmund Burke's statement in the Tracts
 Relative to the Laws against Popery in Ireland, in Works, vol. 9, pp. 352–53: "It would be hard to point
-to any errour more truly subversive of all the order and beauty, of all the peace and happiness,
+to any error more truly subversive of all the order and beauty, of all the peace and happiness,
 of human society, than the position, that any body of men have a right to make what Laws they
 please; or that Laws can derive any authority from their institution merely and independent of
 the quality of the subject matter. No arguments of policy, reason of State, or preservation of
@@ -9374,7 +9374,7 @@ the matter from an exclusively legal point of view, is tempted to assert that th
 the other, was whether a strong administration of the continental type should, or should not, be
 permanently established in England."
 
-8 This is how Henry Bracton describes Magna Carta in De legibus et consuetudinus Angliae, George
+8 This is how Henry Bracton describes Magna Carta in De legibus et consuetudines Angliae, George
 Edward Woodbine, ed. (4 vols.; New Haven: Yale University Press, 1915–42), fol. 168b. [ The
 reference to Magna Carta as "the constitution of liberty" occurs in vol. 3, p. 35 of this edition.—
 Ed.] On the consequences of what was in effect a seventeenth- century misinterpretation of
@@ -9445,7 +9445,7 @@ the Greeks. He notes that "this doctrine that freedom is glorious and honourable
 their every word is true. The senates and national assemblies meet almost every day to discuss
 more than anything else how to confirm their freedom if they have it, or to acquire it if they
 have it not." (20.137–38; Loeb Classical Library, vol. 9, p. 89).—Ed.]; and Strabo in his Geography
-(H. L. Jones, ed.; Loeb Classical Library, vol. 5, p. 145 [10.4.16]) writes of the Cretans: "As for their constitution, which is described by Ephorus, it might suff ce to tell in a way its most important provisions. The
+(H. L. Jones, ed.; Loeb Classical Library, vol. 5, p. 145 [10.4.16]) writes of the Cretans: "As for their constitution, which is described by Ephorus, it might suffice ce to tell in a way its most important provisions. The
 lawgiver, he says, seems to take it for granted that liberty is a state's greatest good, for this alone makes
 property belong specif cally to those who acquire it, whereas in a condition of sla very everything belongs
 to the rulers and not to the ruled." See Eric Alfred Havelock, The Liberal Temper in Greek Politics (New
@@ -9478,25 +9478,25 @@ noble and the base"17 and thereby gave them "not so much the control of
 
 Grundlage der griechischen Antike aufbauten, nicht an Stelle des Wortes Demokratie jenes
 andere übernommen haben, das in Athen auf Grund der geschichtlichen Entwicklung besondere Achtung erweckte und ausserdem den hier wesentlichen Gedanken einer guten Regierungsform besonders rein zum Ausdruck brachte: das Wort 'Isonomia,' Gleichheit der Gesetze. Dies
-Wort hatte sogar einen unsterblichen Klang. . . . Aus dem Worte 'Isonomia' spricht weit deutlicher und unmittelbarer als aus 'Demokratia' das Ideal der Freiheit; auch ist die in der Bezeichnung 'Isonomia' enthaltene These nichts Unerfüllbares wie dies bei 'Demokatia' der Fall ist. Das
-wesentliche Prinzip des Rechtsstaates ist in diesem Wort bündig und klar wiedergegeben." ["It
+Wort hatte sogar einen unsterblichen Klang. . . . Aus dem Worte 'Isonomia' spricht weit deutlicher und unmittelbarer als aus 'Demokratia' das Ideal der Freiheit; auch ist die in der Bezeichnung 'Isonomia' enthaltene These nichts Unerfüllbaresüllbares wie dies bei 'Demokratia' der Fall ist. Das
+wesentlich Prinzip des Rechtsstaates ist in diesem Wort bündig und klar wiedergegeben." ["It
 is unfortunate that the cultures that were to arise on the foundations of Greek antiquity appropriated the word 'democracy' rather than 'isonomia,' that other word employed in Athens that,
 for reasons of historical development, expressed in its purest form the essential notion of a good
 government, that is, equality before the law. The word 'isonomia' carries the sense of an ideal of
 freedom far more clearly and more directly than does 'democratia.' In addition, the term 'isonomia' does not suggest something that is ultimately unattainable, as does 'democratia.' The notion
 'isonomia' best and most concisely reflects the essential principle of the Rechtsstaat."—Ed.]
 
-13 In the Italian dictionary by John Florio, Worlde of Wordes, or Most Copious and Exact Dictionarie in
+13 In the Italian dictionary by John Florio, World of Words, or Most Copious and Exact Dictionary in
 
 Italian and English (London: Printed by Arnold Hatfield for Edw. Blount, 1598), p. 195.
 
 14 Titus Livius, Romane Historie [also containing the Breviaries of Lucius Annaeus Florus], Philemon Holland, trans. (London: Printed by Adam Islip, 1600), pp. 114, 134, 1016.
 
 15 The Oxford English Dictionary, s.v. "Isonomy," gives instances of use in 1659 and 1684, each
-suggesting that the term was then in fairly common use. [The references are to: "1659 Quaeries
-on Proposalls Officers Armie to Parlt. 8 Every one pretending to equality and Isonomy, lifteth up and
+suggesting that the term was then in fairly common use. [The references are to: "1659 Queries
+on Proposals Officers Army to Parliament. 8 Every one pretending to equality and Isonomy, lifteth up and
 advanceth himself whilst he shoveth at, and thrusteth down others. 1684 tr. Agrippa's Van. Arts lv.
-155 They who prefer a Popular State have dignifi 'd it with the most agreeable and specious Title
+155 They who prefer a Popular State have dignified 'd it with the most agreeable and specious Title
 of Isonomie."—Ed.]
 
 16 The earliest preserved use of the word "isonomia" seems to be that by Alcmaeon about 500
@@ -9548,9 +9548,9 @@ Not less glorious was thy deed,
 Wentworth, fix'd in Virtue's cause;
 Not less brilliant be thy meed,
 Lenox, friend to Equal Laws!
-High in Freedom's temple rais'd,
+High in Freedom's temple raised,
 See Fitz Maurice beaming stand,
-For collected Virtues prais'd,
+For collected Virtues praised,
 Wisdom's voice, and Valour's hand!
 Ne'er shall fate their eyelids close:
 
@@ -9719,12 +9719,12 @@ p. 17]. See also John Adams, Works: With a Life of the Author, Charles Francis A
 Boston: Charles C. Little and James Brown, 1851), vol. 4, p. 403. In Holland's translation of
 Livy of 1600 [The Romane Historie, Written by T. Livius of Padua (also containing the Breviaries of
 Lucus Annaeus Florus), Philemon Holland, trans. (London: Printed by Adam Islip, 1600), p. 44]
-these words are rendered as "the authoritie and rule of laws, more powerfull and mightie than
+these words are rendered as "the authority and rule of laws, more powerful and mighty than
 those of men." The words I have italicized provide the earliest instance known to me in which
 "rule" is used in the sense of "government" or "dominion."
 
 34 Cf. Walter Rüegg, Cicero und der Humanismus: formale Untersuchungen über Petrarca und Erasmus
-(Zurich: Rheinverlag, 1946), and George Holland Sabine and Stanley Barney Smith, "Introduction," to Marcus Tullius Cicero, On the Commonwealth (Columbus: Ohio State University Press,
+(Zurich: Rhein Verlag, 1946), and George Holland Sabine and Stanley Barney Smith, "Introduction," to Marcus Tullius Cicero, On the Commonwealth (Columbus: Ohio State University Press,
 1929), pp. 74–99. On Cicero's influence on David Hume in particular see David Hume, My
 Own Life, in Essays, vol. 1, p. 2 [Liberty Fund edition, p. xxxiii], and John Laird, Hume's Philosophy
 of Human Nature (London: Methuen and Co., Ltd., 1932), pp. 241–43, who speaks of "the Ciceronian f avour of Hume's ethical thinking." [ Hume writes: "I found an unsurmountable aversion to everything but the pursuits of philosophy and general learning; and while I fancied I was poring upon
@@ -9733,7 +9733,7 @@ was an eminent eighteenth- century Dutch legal theorist, who attempted to system
 Dutch civil law; Arnoldus Vinnius (1588–1657) was also a Dutch legal theorist and a contemporary of Grotius.—Ed.]
 
 35 Marcus Tullius Cicero, De Domo Sua, 13.33 (Loeb edition, pp . 172–73), where he speaks of "the
-peculiar mark of a free comm unity—the right, I mean, in accordance with which it is unla wful for any
+peculiar mark of a free comm unity—the right, I mean, in accordance with which it is unlawful wful for any
 
 leges legum, which govern legislation,36 the conception that we obey the law in
 order to be free,37 and the conception that the judge ought to be merely the
@@ -9780,7 +9780,7 @@ agens" ["The king is nothing other than the law in action."—Ed.]; also Montesq
 the Laws, bk. 11, chap. 6 (vol. 1, p. 159; French edition: vol. 2, p. 404) "The national judges are
 no more than the mouth that pronounces the word of the law, mere passive beings, incapable of
 moderating either its force or rigor." ["Mais les juges de la nation ne sont, comme nous avons dit,
-que la bouche qui prononce les paroles de la loi; des êtres inanimés qui n'en peuvent modérer ni
+que la bouche qui prononce les paroles de la loi; des êtres inanimésés qui n'en peuvent modérer ni
 la force ni la rigueur"—Ed.] The phrase was still repeated in the United States by Chief Justice
 John Marshall (Osborn v. Bank of United States, 22 U.S. [9, Wheaton] 738 at 866), when he spoke of
 judges as "the mere mouthpieces of the law" and "capable of willing nothing." [In fact, what
@@ -9820,7 +9820,7 @@ World Tried to Deal with Modern Problems (New York: A. Knopf, 1939); and Luigi R
 "Greatness and Decline of Planned Economy in the Hellenistic World," Kyklos 2 (1948) [ part 1,
 pp. 193–210; part 2, pp. 289–316], reprinted as Greatness and Decline of Planned Economy in the Hellenistic World (Berne: A. Francke, 1950).
 
-41 Fritz Pringsheim, "Jus aequum und jus strictum," Zeitschrift der Savigny- Stiftung für Rechtsgeschichte, Romanistische Abteilung 42 (1921): 668. [ The original German reads: "Das absolute Kaisertum verkündet mit der aequitas zugleich die von der Schranke des jus befreite Autorität des
+41 Fritz Pringsheim, "Jus aequum und jus strictum," Zeitschrift der Savigny- Stiftung für Rechtsgeschichte, Romanistische Abteilung 42 (1921): 668. [ The original German reads: "Das absolute Kaisertum verkündetündet mit der aequitas zugleich die von der Schranke des jus befreite Autorität des
 kaiserlichen Willens. Justinian mit seinen gelehrten Professoren bringt die Entwicklung zum
 Abschlusse."—Ed.] Cf. also the same author's Hohe und Ende der Römischen Jurisprudenz: Vortrag
 gehalten bei der Freiburger wissenschaftlichen Gesellschaft am 3. Dezember 1932 (Freiburg in Baden: Speyer
@@ -9885,7 +9885,7 @@ any man to have the sole making of cards, or the sole dealing with any other
 trade, that grant is against the liberty and freedom of the subject, that before
 did, or lawfully might have used that trade, and consequently against this
 Great Charter";46 but he went beyond such opposition to the royal prerogative to warn Parliament itself "to leave all causes to be measured by the golden
-and straight metewand of the law, and not to the incertain and crooked cord
+and straight metewand of the law, and not to the uncertain and crooked cord
 of discretion."47
 
 Out of the extensive and continuous discussion of these issues during the
@@ -9953,7 +9953,7 @@ Manuscripts, With Supplementary Documents [ London: J. M. Dent and Sons, 1938], 
 54 This recurring phrase apparently derives from Sir Edward Coke, The Second Part of the Institute, p. 292: "Nova constitutio futuris formam imponere debet, non praeteritis." ["A new law
 ought to regulate what is to follow, not the past." The quotation carries the meaning that any
 
-istrates should be strictly circumscribed by law.55 Throughout, the governing
+magistrates should be strictly circumscribed by law.55 Throughout, the governing
 idea was that the law should be king or, as one of the polemical tracts of the
 period expressed it, Lex, Rex.56
 
@@ -9966,7 +9966,7 @@ in chap. 4 of the Second Part of the Institutes marked "Merton," which is not in
 56 Samuel Rutherford, Lex, Rex: The Law and the Prince: A Dispute for the Just Prerogative of King
 and People (London: Printed for John Field, 1644); excerpts are given in Woodhouse, Puritanism
 and Liberty, pp. 199, 212. The phrase of the title goes back to the ancient Greek nomos basileus.
-The issue of law versus arbitrariness was not used only by the Roundheads; it also appears frequently in the Royalist argument, and Charles I [in his King Charls, his Speech Made upon the Scaffold
+The issue of law versus arbitrariness was not used only by the Roundheads; it also appears frequently in the Royalist argument, and Charles I [in his King Charles, his Speech Made upon the Scaffold
 at Whitehall- Gate, Immediately before his Execution, on Tuesday the 30 of Jan. 1648. With a Relation of the
 Maner of His Going to Execution (London: Printed by P. Cole, 1649), p. 6] could assert that "Their
 Liberty and their Freedom consists in having of government those Laws, by which their Life and
@@ -10017,11 +10017,11 @@ so outstanding in its lasting effects that we must confine our attention to it.
 59 Wormuth, Origins of Modern Constitutionalism, p. 71.
 60 Ibid., p.72.
 61 The two main authors whom a fuller account would mainly have to consider are Algernon
-Sidney and Gilbert Burnet. The chief points relevant to us in Sidney's Discourses concerning Government (first published in 1698) are that "liberty solely consists in an independency upon the will
+Sidney and Gilbert Burnet. The chief points relevant to us in Sidney Discourses concerning Government (first published in 1698) are that "liberty solely consists in an independency upon the will
 of another" which connects with the maxim "potentiora erant legum quam hominum imperia" (Works, p. 10 [ Liberty Fund edition, p. 17]), that "laws that aim at the public good make
 no distinction of persons" (Works, p. 150 [ Liberty Fund edition, p. 150]), that laws are made
 "because nations will be governed by rule, and not arbitrarily" (Works, p. 338 [ Liberty Fund
-edition, p. 392]), and that laws "ought to aim at perpetuity" (Works, p. 492 [Liberty Fund edition, p. 559]). Of Gilbert Burnet's numerous writings, see particularly his anonymously published Enquiry into the Measures of Submission to the Supreme Authority and of the Grounds upon which it may
+edition, p. 392]), and that laws "ought to aim at perpetuity" (Works, p. 492 [Liberty Fund edition, p. 559]). Of Gilbert Burnet numerous writings, see particularly his anonymously published Enquiry into the Measures of Submission to the Supreme Authority and of the Grounds upon which it may
 be Lawful or Necessary for Subjects to Defend Their Religion, Lives, and Liberties (London, 1688); quoted
 in the Harleian Miscellany; or, A Collection of Scarce, Curious, and Entertaining Pamphlets and Tracts, William Oldys, ed. (12 vols.; London: Printed for R. Dutton, 1808–11), vol. 9, p. 204: "The plea for
 liberty always proves itself, unless it appears that it is given up, or limited by any special agreement. . . . In the management of this civil society, great distinction is to be made between the
@@ -10054,10 +10054,10 @@ was therefore most happy and preferable to that of all European subjects." [Haye
 nach der gegenwärtigen Zeit, Johann Bernhard Heinzelmann, trans. (Leipzig: Verlag Moritz George
 Weidmanns, 1718), pp. 512–13. The German reads: "keine Unterthanen in der Welt, die so viel
 fundamentale und erbliche Freyheiten genießen, wie das Volck in England" and "sein Stand (sey)
-glückseelig und er allen Europäischen Unterthanen hierin . . . vorzuziehen."—Ed.]
+glüglückseelig und er allen Europäischen Unterthanen hierin . . . vorzuziehen."—Ed.]
 
 62 This may still be said even though it now appears that the Treatise was drafted before the
-revolution of 1688. (See Cranston, John Locke: A Biography, p. 326, and especially Peter Laslett's introductory essay in John Loc ke, Two Treatises of Government: A Critical Edition, Peter Laslett, ed. [Cambridge: Cambridge University Press, 1964], which we are here quoting.)
+revolution of 1688. (See Cranston, John Locke: A Biography, p. 326, and especially Peter Laslett introductory essay in John Loc ke, Two Treatises of Government: A Critical Edition, Peter Laslett, ed. [Cambridge: Cambridge University Press, 1964], which we are here quoting.)
 
 63 Cf. John Wiedhofft Gough, John Locke's Political Philosophy: Eight Studies (Oxford: Clarendon
 Press, 1950). The extent to which Locke in dealing with the points here discussed merely summarized views long expressed by lawyers of the period still deserves study. Especially important
@@ -10219,7 +10219,7 @@ without the mixture of some arbitrary authority, committed to some magistrate; a
 society could ever arrive at that state of perfection, as to support itself with no
 other control, than the general and rigid maxims of law and equity. But the
 parliament justly thought, that the King was too eminent a magistrate to be
-trusted with discretionary power, which he might so easily turn to the destruction of liberty. And in the event it has been found, that, though some inconve-
+trusted with discretionary power, which he might so easily turn to the destruction of liberty. And in the event it has been found, that, though some inconvenience-
 
 83 In addition to the passage quoted later on in the text, see particularly David Hume, "Of
 the Origin of Government," vol. 1, p. 117 [ Liberty Fund edition, p. 41]; "Of Civil Liberty,"
@@ -10237,13 +10237,13 @@ things are more conformable to Whig principles; my representations of persons to
 p. 311; see also Life, p. 179, where Hume is described as a "'Revolution Whig,' though not of
 the dogmatic variety"). Thomas Carlyle, "Boswell's Life of Johnson," Critical and Miscellaneous Essays
 (5 vols.; London: Chapman and Hall, Ltd., 1899), vol. 3, p. 133, even calls Hume "the father of all succeeding Whigs." See also David Hume, "Liberty of the Press," Essays [Essay 2], vol. 1, p. 96 [Liberty Fund edition, p. 12]: "As the republican part of the government prevails in England, though with a g reat mixture of
-monarchy, it is obliged, for its own preservation, to maintain a w atchful jealousy over the magistrates, to
-remove all discretionary powers, and to secure every one's life and fortune by general and inf exible laws.
+monarchy, it is obliged, for its own preservation, to maintain a w watchful jealousy over the magistrates, to
+remove all discretionary powers, and to secure every one's life and fortune by general and inf inflexible laws.
 No action must be deemed a crime but what the law has plainly determined to be such."
 
 84 Friedrich Meinecke, Die Entstehung des Historismus (2 vols.; Munich and Berlin: R. Oldenbourg, 1936), vol. 1, p. 234.
 
-niencies arise from the maxim of adhering strictly to law, yet the advantages
+inconveniences arise from the maxim of adhering strictly to law, yet the advantages
 so much overbalance them, as should render the English forever grateful to
 the memory of their ancestors, who, after repeated contests, at last established
 that noble principle."85
@@ -10266,8 +10266,8 @@ that can be given of the true freedom which is the consequence of its frame" ( p
 Fund edition, p. 295] ["le plus particulière la manière dont l'Angleterre est gouvernée, et est la
 preuve la plus convaincante de la liberté réelle qui resulte de tous son gouvernement." Constitution d'Angleterre, vol. 2, p.178.—Ed.], that in England "all the individual's actions are supposed
 to be lawful, till that law is pointed out which make them to be otherwise" ( p. 436) [ Liberty
-Fund edition, p. 292] ["Toutes les actions de l'individu passent pour légitimes jusqu'à ce qu'on
-nomme la loi que leur donne une autre dénomination." Constitution d'Angleterre, ou état du gouvernement anglois (2 vols.; London: G. Robinson, J. Murray, 1785), vol. 2, p. 174.—Ed.]. He then goes
+Fund edition, p. 292] ["Toutes les actions de l'individu passent pour lélégitimes jusqu'à ce qu'on
+nommer la loi que leur donne une autre dénomination." Constitution d'Angleterre, ou état du gouvernement anglois (2 vols.; London: G. Robinson, J. Murray, 1785), vol. 2, p. 174.—Ed.]. He then goes
 on to say: "The foundation of that law principle, or doctrine, which confines the exertion of the
 power of the government to such cases only as are expressed by a law in being" ( p. 439) [Liberty
 Fund edition, p. 294] ["Le fondement de cette maxime du droit, qui borne l'exercice du pouvoir
@@ -10407,7 +10407,7 @@ of these Observations, which appeared in the Two Tracts.—Ed.]
 95 Richard Price, Observations on the Importance of the American Revolution and the Means of Making
 It a Benefit to the World, to Which is Added a Letter from M. Turgot [dated March 22, 1778] (London:
 T. Caddell, 1785), p.111. [The French reads: "Comment se fait- il que vous soyez presque le premier parmi vos écrivains qui ayez donné des notions justes de la liberté, et qui ayez fait sentir la
-fausseté de cette notion rebattue par presque tous les écrivains les plus républicains, que la liberté consiste à n'être soumis qu'aux loix, comme si un homme opprimé par une loi injuste êtoit
+faussetéé de cette notion rebattue par presque tous les écrivains les plus républicains, que la liberté consiste à n'être soumis qu'aux loix, comme si un homme opprimé par une loi injuste êtoit
 libre."—Ed.]
 
 96 William Searle Holdsworth, A History of English Law, vol. 10, p. 23.
@@ -10493,12 +10493,12 @@ America has resisted, and insist on the acknowledgement of independence."—Ed.]
 6 See Clinton Rossiter, Seedtime of the Republic: The Origin of the American Principle of Political Liberty (New York: Harcourt, Brace, 1953), p. 360, where he quotes from the Newport Mercury of
 May 19, 1766, a toast of "A Son of Liberty in Bristol County, Mass.": "Our toast in general
 is,—Magna Charta, the British Constitution,—PITT and Liberty forever!" [The quotation does not
-appear in Rossiter's book. However, the original quotation does indeed appear, on p. 3, of the
+appear in Rossiter book. However, the original quotation does indeed appear, on p. 3, of the
 Newport Mercury of May 12 to May 19, 1766.—Ed.]
 
 THE AMERICAN CONTRIBUTION
 
-tiative in the further development of the ideal of free government passed to
+initiative in the further development of the ideal of free government passed to
 the Americans.
 
 They were singularly fortunate, as perhaps no other people has been in a
@@ -10518,7 +10518,7 @@ the missing foundation had to be supplied.9 They regarded it as fundamental doct
 
 edition, Essays in the History of Liberty, p. 398].
 
-8 See Charles Frederic Mullett, Fundamental Law and the Amer ican Revolution, 1760–1776 (dissertation; New York: Columbia University, 1933), pp. 13–78, quoting Randolph Greenf eld Adams, Political
+8 See Charles Frederic Mullett, Fundamental Law and the Amer ican Revolution, 1760–1776 (dissertation; New York: Columbia University, 1933), pp. 13–78, quoting Randolph Greenfield eld Adams, Political
 Ideas of the American Revolution: Britannic- American Contributions to the Problem of Imperial Organization, 1765–1775 (3rd ed.; New York: Barnes and Noble, 1958) [esp. pp. 193–99.—Ed.], who notes that
 Jefferson referred to the works from Aristotle to Locke as "elementary books" for Americans of the eighteenth century.
 
@@ -10729,7 +10729,7 @@ implies a recognition of limits to the power of deliberate reason and a preferen
 implies that the hierarchy of rules does not necessarily end with the explicitly stated rules of constitutional law. Like the forces governing the individual mind, the forces making for social order are a multilevel affair; and even
 constitutions are based on, or presuppose, an underlying agreement on more
 
-June 1649 (2nd ed., corrected and amended; London: "Reprinted in the grand year of Hipocritical and abominable Dissimulation," 1649), p. 34.—Ed.] Significant in this connection is also
+June 1649 (2nd ed., corrected and amended; London: "Reprinted in the grand year of Hypocritical and abominable Dissimulation," 1649), p. 34.—Ed.] Significant in this connection is also
 the resolution of the Concord, Massachusetts, town meeting of October 21, 1776 (reprinted in
 Sources and Documents Illustrating the American Revolution, 1764–1788, and the Formulation of the Federal
 Constitution, Samuel Eliot Morison, ed. (Oxford: Clarendon Press, 1923), p. 177), which declared
@@ -10817,11 +10817,11 @@ the other states but also for the French Declaration of the Rights of Men and
 23 See Roscoe Pound, The Development of Constitutional Guarantees of Liberty (New Haven: Yale
 University Press, 1957). There exists an important German literature on the origin of the Bills
 of Rights, of which the following may be mentioned here: Georg Jellinek, Die Erklärung der
-Menschen- und Bürgerrechte. Ein Beitrag zur modernen Verfassungsgeschichte, Walter Jellinek, ed. (3rd ed.;
+Menschen- und BüBürgerrechte. Ein Beitrag zur modernen Verfassungsgeschichte, Walter Jellinek, ed. (3rd ed.;
 Munich and Leipzig: Duncker und Humblot, 1919), pp. iii–xiv, which contains a survey of the
 discussions since the first publication of the work in 1895; Richard Karl Schmidt, "Die Vorgeschichte
 der geschriebenen Verfassung," in Festgabe für Otto Mayer: Zum siebzigsten Geburtstag dargebracht von
-Freunden, Verehrern und Schülern. 29. Mä rz 1916, Otto Mayer, ed. (Leipzig: F, Meiner, 1916), pp. 81–191;
+Freunden, Verehrern und SchüSchülern. 29. Mä rz 1916, Otto Mayer, ed. (Leipzig: F, Meiner, 1916), pp. 81–191;
 Justus Hashagen, "Zur Entstehungsgeschichte der nordamerikanischen Erklärungen der Menschenrechte," Zeitschrift für die gesamte Staatswissenschaft, 78 (1924): 461–95; Gustav Adolf Salander,
 Vom Werden der Menschenrechte: ein Beitrag zur modernen Verfassungsgeschichte unter Zugrundelegung der virginischen Erklärung der Rechte von 12. Juni 1776 (Leipzig: T. Weicher, 1926); Otto Vossler, "Studien
 zur Erklärung der Menschenrechte," Historische Zeitschrift, 142 (1930): 516–45.
@@ -10844,7 +10844,7 @@ emphatic manner in which in some of the constitutions the principle of the
 separation of powers is laid down30—no less so because in practice this was
 honored more in the breach than in the observance. Another recurring feature
 which to present readers will appear to be no more than a rhetorical flourish but to the men of the time was very important is the appeal to "the fundamental principles of a free government" which several of the constitutions
-contain31 and the repeated reminder that "a frequent recurrency to fundamental principles is absolutely necessary to preserve the blessing of liberty."32
+contain31 and the repeated reminder that "a frequent recurrence to fundamental principles is absolutely necessary to preserve the blessing of liberty."32
 
 27 For a discussion of the relationship see the works cited in n. 23 above.
 28 Cf. Webster, "Comparative Study of State Constitutions," p. 386: "Each of these instruments declared that no one should be deprived of his liberty except by law or by judgment of his
@@ -11021,7 +11021,7 @@ include a Bill of Rights in the Constitution and the considerations which later
 persuaded even those who had at first opposed the decision are equally significant. The argument against inclusion was explicitly stated by Alexander
 Hamilton in the Federalist: "[ Bills of rights are] not only unnecessary in the
 proposed constitution, but would even be dangerous. They would contain various exceptions to powers not granted, and on this very account would afford
-a colourable pretext to claim more than were granted. For why declare that
+a colorable pretext to claim more than were granted. For why declare that
 things shall not be done which there is no power to do? Why, for instance,
 should it be said, that the liberty of the press shall not be restrained, when
 no power is given by which restrictions may be imposed? I will not contend
@@ -11151,7 +11151,7 @@ Senate: June 8, 1789, vol. 1, p. 457, where he declares that the courts would "c
 against every assumption of power in the Legislative or Executive: they will be naturally led to
 resist every encroachment upon rights expressly stipulated for in the Constitution by the declaration of rights," and his later statement in a letter to George Thompson, dated June 30, 1825
 (quoted in The Complete Madison, p. 344): "No doctrine can be sound that releases a Legislature
-from the controul of a constitution. The latter is as much a law to the former, as the acts of the
+from the control of a constitution. The latter is as much a law to the former, as the acts of the
 former are to individuals and although always liable to be altered by the people who formed it, is
 not alterable by any other authority; certainly not by those chosen by the people to carry it into
 effect. This is so vital a principle, and has been so justly the pride of our popular Government,
@@ -11494,21 +11494,21 @@ general happiness, left to its judgment, is to be its aim? Are the princes to
 be the fathers of the people, however great be the danger that they will also
 become its despots? —G. H. von Berg
 
-The quotation at the head of the chapter is taken from Günther Heinrich von Berg, Handbuch des teutschen Policeyrechtes [i.e., deutschen Polizeirechts] (7 vols.; Hanover: Hahn, 1799–1804),
+The quotation at the head of the chapter is taken from Günther Heinrich von Berg, Handbuch des deutschen Deutschen [i.e., deutschen Polizeirechts] (7 vols.; Hanover: Hahn, 1799–1804),
 vol. 2, p. 3. The German text is: "Wo bleibt eine bestimmte Grenze der höchsten Gewalt, wenn
-eine unbestimmte, ihrem eigenen Urtheile überlassene allgemeine Glückseligkeit ihr Ziel sein
-soll? Sollen die Fürsten Väter des Volks seyn, so gross auch die Gefahr ist, dass sie seine Despoten seyn werden?" See also Johann Christoph, Freiherr von Aretin (continued by Carl von Rotteck),
-Staatsrecht der konstitutionellen Monarchie: Ein Handbuch für Geschäftsmänner, studirende Jünglinge
-und gebildete Bürger (2 vols.; Altenburg: Literatur- Comptoir, 1824–27), vol. 2, p. 179: "Die Rechtsherrschaft vom Staate verlangen, heißt ihn v erpf ichten, die Rechte jedes Einz elnen zu schütz en und zu
+eine unbestimmte, ihrem eigenen Urtheile üüberlassene allgemeine GlüGlückseligkeit ihr Ziel sein
+soll? Sollen die FüFürsten Väter des Volks seyn, so gross auch die Gefahr ist, dass sie seine Despoten seyn werden?" See also Johann Christoph, Freiherr von Aretin (continued by Carl von Rotteck),
+Staatsrecht der konstitutionellen Monarchie: Ein Handbuch für GeschäGeschäftsmänneränner, studierende JüJünglinge
+und gebildete Bürger (2 vols.; Altenburg: Literatur- Comptoir, 1824–27), vol. 2, p. 179: "Die Rechtsherrschaft vom Staat verlangen, heißt ihn v verpflichten verpflichten, die Rechte jedes Einz einzelnen zu schütz en und zu
 achten, die Wohlfahrt von ihm verlangen, heißt ihn auffordern, die Rechte der Einzelnen zu verletzen, weil
 die Mittel, wodurch die Größe, die Macht, der Ruhm, der Wohlstand einer Nation beförder t werden soll,
-in der Regel von der Art sind, daß jene Rechte dadurch beeinträchtigt w erden." ["To demand that the
+in der Regel von der Art sind, daß jene Rechte dadurch beeinträchtigtäbeeinträchtigt w erden." ["To demand that the
 state institute the rule of law means that it is obliged to protect and respect the rights of the individual. To demand that the state provide for its citizens' welfare is to ask that it abuse the rights
 of the individual, inasmuch as the promotion of the size, power, glory, and prosperity of a nation
-impairs these rights."—Ed.] All of this seems to be rooted in Imman uel Kant, Sämmtliche Werke,
+impairs these rights."—Ed.] All of this seems to be rooted in Immanuel uel Kant, Sämmtliche Werke,
 Gustav Hartenstein, ed. (8 vols.; Leipzig: Leopold Voss, 1868), "Vom Verhältniss der Theorie zur Praxis im
 Staatsrecht" ["On the Relationship of Theory to Practice in Public Law"], vol. 6, p. 327; "Von dem Kampf
-des guten Princips mit dem bösen und die Gründung eines Reichs Gottes auf Erden" ["Struggle between
+des guten Prinzip mit dem bösen und die Gründung eines Reichs Gottes auf Erden" ["Struggle between
 the Good and the Evil Principle and Founding the Kingdom of God"], vol. 6, pp. 220–29; and "Metaphysische Anfangsgründe der Rechtslehre" ["Metaphysical Elements of the Theory of Law"], vol. 7, p. 130.
 
 How little the problems have changed in a century and a half is shown when we compare this
@@ -11575,7 +11575,7 @@ or nominate a royal family; in a word, anything that relates to a named individu
 memorable phrase of the historian Michelet, as "l'avènement de la loi."3 As
 
 Dei Delitti e delle P ene edizione rivista, corretta, e disposta secondo l'ordine della tr aduzione francese
-approuato dall'autore coll'aggiunta del commentario alla detta opera di Mr. de Voltaire tradotto da celebre
+approvato dall'autore coll'aggiunta del commentario alla detta opera di Mr. de Voltaire tradotto da celebre
 autore [An Essay on Crimes and Punishments ] (London [Venice]: Presso la Società dei Filosof , 1774).
 First published anonymously in 1764 in Italy , Beccaria notes that the "legislatore" or the "sovrano" can
 only institute "leggi generali, chi obblighino tutti i membr i" ["general laws that are equally applicable
@@ -11589,8 +11589,8 @@ Avec des éclairissements et des notes historiques (2nd ed.; 25 vols.; Paris: Ba
 p. 72. [The original reads: "Quand je dis que l'objet des loix est toujours général, j'entends que
 la loi considère les sujets en corps et les actions comme abstraites, jamais un homme comme
 individu ni une action particulière. Ainsi la loi peut bien statuer qu'il y aura des privileges, mais
-elle n'en peut donner nommément à personne; la loi peut faire plusieurs Classes de Citoyens,
-assigner même les qualités qui donneront droit à ces classes, mais elle ne peut nommer tels et tels
+elle n'en peut donner nommémentément à personne; la loi peut faire plusieurs Classes de Citoyens,
+assigner même les qualitésés qui donneront droit à ces classes, mais elle ne peut nommer tels et tels
 pour y être admis; elle peut établir un Gouvernement royal et une succession héréditaire, mais
 elle ne peut élire un roi ni nommer une famille royale; en un mot toute fonction qui se rapporte
 à un objet individuel n'appartient point à la puissance législative."—Ed.]
@@ -11598,9 +11598,9 @@ elle ne peut élire un roi ni nommer une famille royale; en un mot toute fonctio
 3 [ The phrase carries the meaning "the advent of the law."—Ed.] Jules Michelet, Histoire de la révolution française (5 vols.; Paris: Chamerot, 1847–50), vol. 1, p. xxiii. See also
 François- Auguste- Marie- Alexis Mignet, Histoire de la Révolution française, depuis 1789 jusqu'en 1814
 (2 vols.; Paris: Didot, 1824), p. 2. [ In writing of the old regime, Mignet notes: "Le peuple ne
-possèdait aucun droit, la royauté n'avait pas de limites et la France était livrée à la confusion de
+possèpossédait aucun droit, la royautéé n'avait pas de limites et la France était livréeée à la confusion de
 l'arbitraire ministériel, des régimes particuliers et des privilèges des corps. A cet ordre abusif la
-révolution en a substitué un plus conforme à la justice et plus approprié à nos temps. Elle a remplacé l'arbitraire par la loi [et] le privilège par l'égalité." ("The people possessed no rights, the
+révolution en a substituéé un plus conforme à la justice et plus approprié à nos temps. Elle a remplacéé l'arbitraire par la loi [et] le privilège par l'égalité." ("The people possessed no rights, the
 Crown was unrestrained, and France had submitted to the confusion of ministerial arbitrariness,
 perverse administration, and the privileges of authority. To this abusive order the Revolution
 
@@ -11631,23 +11631,23 @@ nor the separation of powers defined, has no constitution whatever."—Ed.]
 Marquis de Condorcet are concerned with such fundamental distinctions which go right to the
 heart of the matter as that between true laws in the sense of general rules and mere orders. See
 particularly the "Projet girondin" in Archives parlementaires de 1787 à 1860: Recueil complet des débats
-législatifs et politiques des chambres françaises [imprimé par ordre du Corps législatif sous la direction de Jérome Mavidal and Émile Laurent, ed. Series 1 (1787–99), vol. 58 (Paris, 1900; vols.
+législatifs et politiques des chambres françaises [impriméé par ordre du Corps législatif sous la direction de Jérome Mavidal and Émile Laurent, ed. Series 1 (1787–99), vol. 58 (Paris, 1900; vols.
 52–70 (September 20, 1792–August 10, 1793)]: 1st series, vol. 58, title 7, sec. 2, arts. 1–7, vol.
 58, pp. 617–18; and Condorcet, Œuvres de Condorcet, Arthur Condorcet O'Connor and François
 Arago, eds. (12 vols.; Paris: Firmin Didot frères, 1847–49), vol. 12, pp. 356–58 and 367. [The
 pages Hayek cites are part of Condorcet's "Exposition des Principes et des Motifs du Plan de
 Constitution," pp. 335–415.—Ed.] See also the passage quoted without reference by Joseph
-Hippolyte Jean Baptiste Barthélemy, Le Rôle du pouvoir exécutif dans les républiques modernes (Paris:
+Hippolyte Jean Baptiste Barthélemy, Le Rôle du pouvoir exéexécutif dans les républiques modernes (Paris:
 Giard et Brière, 1906), p. 489. See also Alfred Stern, "Condorcet und der girondistische Verfassungsentwurf von 1793," Historische Zeitschrift, 141 (1930): 479–96.
 
 7 Cf. Jean Ray, "La Révolution française et la pensée juridique: l'idée du règne de la loi," Revue
-philosophique, 128 (1939): 364–425; and Jean Belin, La Logique d'une idée- force: l'idée d'utilité sociale et
+philosophique, 128 (1939): 364–425; and Jean Belin, La Logique d'une idée- force: l'idée utilitéé sociale et
 la Révolution française (7 vols.; Paris: Hermann and Cie., 1939).
 
 8 Cf. Ray, "La Révolution française," p. 372. It is of some interest that one of the clearest
 statements of the English conception of liberty occurs in a work published in Geneva in 1792 by
 Jean- Joseph Mounier in protest against the abuse of the word "liberty" during the French Revolution. It bears the significant title Recherches sur les causes qui ont empêché les François de devenir libres,
-et sur les moyens qui leur restent pour acquérir la liberté, and its first chapter, headed "Quels sont les car-
+et sur les moyens qui leur restent pour acquérirérir la liberté, and its first chapter, headed "Quels sont les car-
 
 no violent revolution is likely to increase the respect for the law. A Lafayette
 might appeal to the "reign of law" against the "reign of the clubs," but he
@@ -11660,12 +11660,12 @@ The decisive factor which made the efforts of the Revolution toward the
 enhancement of individual liberty so abortive was that it created the belief
 that, since at last all power had been placed in the hands of the people, all
 safeguards against the abuse of this power had become unnecessary. It was
-thought that the arrival of democracy would automatically prevent the arbiactères de la liberté?" begins: "Les citoyens sont libres, lorsqu'ils ne peuvent être constraints ou
+thought that the arrival of democracy would automatically prevent the arbitrairesères de la liberté?" begins: "Les citoyens sont libres, lorsqu'ils ne peuvent être constraints ou
 empêchés dans leurs actions ou dans le jouissance de leurs biens et de leur industrie, si ce n'est
-en vertu des loix antérieures, établies pour l'intérêt public, et jamais d'après l'autorité d'aucun
+en vertu des loix antéantérieures, éétablies pour d'intérêtérêt public, et jamais d'après l'autorité d'aucun
 homme, quels que soient son rang et son pouvoir.
 
-"Pour qu'un peuple jouisse de la liberté, les lois, qui sont les actes plus essentiels de la puissance souveraine, doivent être dictées par des vues générales, et non par des motifs d'intérêt particulier; elles ne doivent jamais avoir un effet rétroactif, ni se rapporter à [des circonstances passés, ou à] certaines personnes."
+"Pour qu'un peuple jouisse de la liberté, les lois, qui sont les actes plus essentiels de la puissance souveraine, doivent être dictées par des vues générales, et non par des motifs d'intérêtérêt particulier; elles ne doivent jamais avoir un effet rérétroactif, ni se rapporter à [des circonstances passés, ou à] certaines personnes."
 
 ["Citizens are free inasmuch as they cannot be constrained or obstructed in their actions or
 in the enjoyment of their possessions and their industry unless by laws previously enunciated,
@@ -11675,15 +11675,15 @@ regardless of his rank or power.
 "For a people blessed with liberty, the laws, which are crucial to the sovereign power, must be
 determined by the general good and not those of particular interests. They must never have retroactive effect, nor have reference to prior circumstances or to particular persons."—Ed.] Mounier
 is fully aware that what he is defending is the English concept of liberty, and on the next page
-he explicitly says: "Sureté, propriété, disent les Anglois, quand ils veulent caractériser la liberté
-civile ou personelle. Cette définition est en effet très exacte: tous les avantages que la liberté procure sont exprimés dans ces deux mots." ["'Security,' 'Property,' say the English, when they wish
+he explicitly says: "Sûretéé, propriété, disent les Anglois, quand ils veulent caractériser la liberté
+civile ou personnelle. Cette définition est en effet très exacte: tous les avantages que la liberté procure sont exprimés dans ces deux mots." ["'Security,' 'Property,' say the English, when they wish
 to characterize personal or civil liberty. This definition is especially accurate; all of the advantages liberty allows are expressed in these two words."—Ed.] On Mounier and generally on the
-initial influence and gradual receding of the English example in the course of the French Revolution see Gabriel Bonno, La Constitution britannique devant l'opinion française de Montesquieu à Bonaparte
-(Paris: H. Champion, 1931), esp. chap. 6 ["La période révolutionnaire"], pp. 191–272.
+initial influence and gradual receding of the English example in the course of the French Revolution see Gabriel Bonnot, La Constitution britannique devant l'opinion française de Montesquieu à Bonaparte
+(Paris: H. Champion, 1931), esp. chap. 6 ["La pépériode révolutionnaire"], pp. 191–272.
 
 9 Jean Portalis in an address on the occasion of the submission of the third draft of the French
-civil code to the Council of the Five Hundred in 1796, quoted in P. Antoine Fenet, Recueil complet des travaux préparatoires du code civil, suivi d'une édition de ce code, à laquelle sont ajoutés les lois, décrets
-et ordonnances formant le complément de la législation civile de la France, et ou se trouvent indiqués, sous chaque
+civil code to the Council of the Five Hundred in 1796, quoted in P. Antoine Fenet, Recueil complet des travaux prépréparatoires du code civil, suivi d'une édition de ce code, à laquelle sont ajoutésés les lois, décrets
+et ordonnances formant le complément de la législation civile de la France, et ou se trouvent indiquésés, sous chaque
 article séparément, tous les passages du recueil qui s'y rattachent (15 vols.; Paris: Ducessois, 1827), vol. 1,
 pp. 464–67. [ The French reads: "L'esprit révolutionnaire se glisse dans toutes. Nous appelons
 esprit révolutionnaire, le désir exalté de sacrifier violemment tous les droits à un but politique, et de
@@ -11894,7 +11894,7 @@ J. Springer, 1934), pp.13–17.
 Johann Gottlieb Fichte, Grundlage des Naturrechts nach Principien der Wissenschaftslehre (1796). Vol. 3 of
 Sämmtliche Werke, Immanuel Hermann Fichte, ed. (8 vols.; Berlin: Veit, 1845), and the writings of
 the poet Friedrich Schiller [See his Werke und Briefe, Klaus Harro Hilzinger, ed. (12 vols.; Frankfurt: Deutscher Klassiker Verlag, 1988–2004).] who did probably as much as any man to spread
-liberal ideas in Germany. See Erich Eyck, "Freiheit und Demokratie, 1848–1948," in Accademia Nazionale dei Lincei (Fondazione Alessandro Volta), Convegno di scienze morali, storiche e f lologiche. 4–10
+liberal ideas in Germany. See Erich Eyck, "Freiheit und Demokratie, 1848–1948," in Accademia Nazionale dei Lincei (Fondazione Alessandro Volta), Convegno di scienze morali, storiche e f filologiche. 4–10
 ottobre 1948 [Tema: Il 1848 Nella Storia d'Europa] (Rome: Accademia Nazionale dei Lincei, 1949), p. 31.
 On these and the other German classics see Gustav Falter, Staatsideale unserer Klassiker (Leipzig:
 
@@ -11936,7 +11936,7 @@ L'État et ses limites: suivi d'essais politiques (Paris: Charpentier, 1863). [ 
 der Wirksamkeit des Staates (Nuremberg: Verlag Hans Carl, 1946), p. 132. There is a Liberty Fund
 edition of this essay published under the title The Limits of State Action.—Ed.]
 
-22 It had been preceded by a Swedish code in 1734 and an even earlier Danish code. [The Encyclopedia Britannica notes that the Prussian code (Code Fréderic), published by Frederick the Great in
+22 It had been preceded by a Swedish code in 1734 and an even earlier Danish code. [The Encyclopedia Britannica notes that the Prussian code (Code FréFrédéric), published by Frederick the Great in
 1751, "was intended to take the place of Roman, common Saxon, and other foreign subsidiary
 laws and statutes." Earlier, in 1683, Christian V promulgated a civil code for Denmark, which
 was later extended to Norway and Iceland. In 1734, the Swedish Parliament approved a new
@@ -11967,11 +11967,11 @@ nineteenth century was that all exercise of administrative power over the person
 most far- reaching experiment in this direction—a law of 1797 which applied
 
 23 The principle seems to have been first stated in this form by Paul Johann Anselm Feuerbach,
-Lehrbuch des gemeinen in Deutschland gültigen peinlichen Rechts (Giessen: G. H. Heyer, 1801), p. 20. But
+Lehrbuch des gemeinen in Deutschland gügültigen peinlichen Rechts (Giessen: G. H. Heyer, 1801), p. 20. But
 see chap. 11, n. 78, above.
 
-24 "Art. 8: "La loi ne doit établir que des peines strictement et évidemment nécessaire, et nul
-ne peut être puni qu'en vertu d'une loi établie et promulguée antérieurement au délit, et légalement appliquée." [Hayek is here quoting not the Austrian criminal code of 1787 but art. 8 of
+24 "Art. 8: "La loi ne doit établir que des peines strictement et éévidemment nénécessaire, et nul
+ne peut être puni qu'en vertu d'une loi éétablie et promulguéeée antéantérieurement au délit, et légalement appliquée." [Hayek is here quoting not the Austrian criminal code of 1787 but art. 8 of
 the Declaration of the Rights of Man and of the Citizen of 1789. It reads: "The law shall provide for such punishments only as are strictly and obviously necessary, and no one shall suffer
 punishment except it be legally inflicted in virtue of a law passed and promulgated before the
 commission of the offense." The Austrian Criminal Code of 1787, promulgated by the Emperor
@@ -11993,20 +11993,20 @@ developed26 and became, together with the ideal of constitutionalism, the
 
 25 Cf. Edgar Loening, Gerichte und Verwaltungsbehörden in Brandenburg- Preußen: Ein Beitrag zur
 preußischen Rechts- und Verfassungsgeschichte (Halle: Waisenhaus, 1914), and particularly the extensive review article on this work by Otto Hintze, "Preußens Entwicklung zum Rechtsstaat," in Geist
-und Epochen der preußichen Geschichte (Leipzig: Koehler and Amelang, 1943) [chap. 4], pp.105–71.
+und Epochen der preußpreußischen Geschichte (Leipzig: Koehler and Amelang, 1943) [chap. 4], pp.105–71.
 26 We cannot enter here into a further examination of the earlier history of this German concept and especially of the interesting question of how far it may have derived from Jean Bodin's
 conception of a "droit gouvernement." On the more specific German sources see Otto Friedrich
 von Gierke, Johannes Althusius und die Entwicklung der naturrechtlichen Staatstheorien: zugleich ein Beitrag
 zur Geschichte der Rechtssystematik (2nd ed.; Breslau: W. Koebner, 1880). According to Carl Schmitt,
 "Was bedeutet der Streit um den' Rechtsstaat?" Zeitschrift für die gesamte Staatswissenschaft, 95 (1935):
-190, the term Rechtsstaat appears for the f rst time in Adam Heinr ich Müller (Elemente der Staatskunst:
+190, the term Rechtsstaat appears for the f rst time in Adam Heinrich ich Müller (Elemente der Staatskunst:
 Öffentliche Vorlesungen vor Sr. Durchlaucht dem Prinzen Bernhard von Sachsen- Weimar und einer Versammlung von Staatsmännern und Diplomaten, im Winter von 1808 auf 1809, zu Dresden, gehalten [Berlin: Sander, 1809]) with reference to "a truly organic legal system." Later, however, this sense was seldom
 meant.
 
 The word Rechtsstaat seems to appear for the first time, but hardly yet with its later meaning, in
 Karl Teodor Welcker, Die letzten Gründe von Recht, Staat und Strafe: Philosophisch und nach den Gesetzen
-der merkwürdigsten Völker rechtshistorisch entwickelt (Giessen: Heyer, 1813), where three types of government are distinguished: despotism, theocracy, and Rechtsstaat. On the history of the conception see Reimund Asanger, Beiträge zur Lehre vom Rechtsstaat im 19. Jahrhundert (unpublished doctoral
-dissertation; Westfälische Wilhelms- Universität, Münster, 1938). The best account of the role of
+der merkwürdigstenümerkwürdigsten Völker rechtshistorisch entwickelt (Giessen: Heyer, 1813), where three types of government are distinguished: despotism, theocracy, and Rechtsstaat. On the history of the conception see Reimund Asanger, Beiträge zur Lehre vom Rechtsstaat im 19. Jahrhundert (unpublished doctoral
+dissertation; WestfälischeäWestfälische Wilhelms- Universität, Münster, 1938). The best account of the role of
 the ideal in the German liberal movement is to be found in Franz Schnabel, Deutsche Geschichte
 im neunzehnten Jahrhundert (4 vols.; Freiburg im Breisgau: Herder, 1933–59), vol. 2, pp. 99–109.
 See also Thomas Ellwein, Das Erbe der Monarchie in der deutschen Staatskrise: Zur Geschichte des Verfassungsstaates in Deutschland (Munich: Isar, 1954).
@@ -12023,7 +12023,7 @@ tradition; among them E. Brandes, A. W. Rehberg, and later F. C. Dahlmann were t
 important in spreading English constitutional ideas in Germany. [ Ernest Brandes (1768–1810),
 August Wilhelm Rehberg (1757–1836), and Frederich C. Dahlmann (1785–1860), known as
 Hanoverian Whigs, who traced the origins of English constitutionalism to Anglo- Saxon institutions and rejected the notion that Norman political notions served as the basis of English
-liberty.—Ed.] See on these men Hermann Christern, Deutscher Ständestaat und englischer Parlamentarismus am Ende des 18. Jahrhunderts (Munich: C. H. Beck'sche Verlagsbuchhandlung, 1939). For
+liberty.—Ed.] See on these men Hermann Christern, Deutscher StäStändestaat und englischer Parlamentarismus am Ende des 18. Jahrhunderts (Munich: C. H. Beck'sche Verlagsbuchhandlung, 1939). For
 
 main goal of the new liberal movement.27 Whether it was mainly because, by
 the time the German movement had started, the American precedent was
@@ -12040,7 +12040,7 @@ Staaten von Nord- Amerika (Stuttgart: J. G. Cotta, 1824), which appears to have 
 States," in the American Jurist and Law Magazine, 14 (October 1835): 330–45). The main works in
 which he elaborated the theory of the Rechtsstaat include his Staatsrecht des Königreiches Württemberg (2 vols.; Tübingen: H. Laupp, 1829–31), in which he embr aces Welcker's distinction between
 despotism, theocracy, and a constitutional state, while adding a fourth type, the patriarchal state (see vol.
-1, pp. 6–9), in the course of which he giv es what is probab ly the most accur ate def nition of the constitutional state found in German literature, a state in which "the citizen is apprised of any changes in the
+1, pp. 6–9), in the course of which he giv es what is probab ly the most accurate ate def nition of the constitutional state found in German literature, a state in which "the citizen is apprised of any changes in the
 purpose or conditions of every law not by virtue of the arbitrary commands of a higher human or spiritual
 power, but only through laws equally applicable to all (p. 182). See also Mohl's Das Recht der Steuerverwilligung nach den Grundsätzen der württembergischen Verfassung, mit Rücksicht auf entgegenstehende
 Bestimmungen des deutschen Bundes (Stuttgart: Liesching, 1836), which contains one of the earliest differentiations between substantive and formal law. [ The author of this work is, in fact, Paul Achatius Pfizer.—Ed.] Further, see Mohl's Die Polizei- Wissenschaft nach den Grundsätzen des Rechtsstaates
@@ -12053,8 +12053,8 @@ tendency of recent times. It should exactly and irrevocably determine and secure
 and the limits of its activity and the free sphere of the citizen, and not enforce on its own behalf
 or directly any moral ideas beyond the sphere of law. This is the conception of the Rechtsstaat
 and not that the state should confine itself to administering the law and pursue no administrative purpose or only protect the rights of the individual. It says nothing about the content or aim
-of the state but defines only the manner and method of achieving them." [ The original German reads: "Der Staat soll Rechtsstaat seyn, das ist die Losung und ist auch in Wahrheit der Entwickelungstrieb der neueren Zeit. Er soll die Bahnen und Gränzen seiner Wirksamkeit wie die
-freie Sphäre seiner Bürger in der Weise des Rechts genau bestimmen und unverbrüchlich sichern und soll die sittlichen Ideen von Staats wegen also direkt, nicht weiter verwirklichen (erzwingen), als es der Rechtssphäre angehört, d.i. nur bis zur nothwendigsten Umzäunung. Dieß
+of the state but defines only the manner and method of achieving them." [ The original German reads: "Der Staat soll Rechtsstaat seyn, das ist die Lösung und ist auch in Wahrheit der Entwickelungstrieb der neueren Zeit. Er soll die Bahnen und Gränzen seiner Wirksamkeit wie die
+freie Sphäre seiner Bürger in der Weise des Rechts genau bestimmen und unverbrüchlichüchlich sichern und soll die sittlichen Ideen von Staats wegen also direkt, nicht weiter verwirklichen (erzwingen), als es der Rechtssphäre angehört, d.i. nur bis zur nothwendigsten UmzäUmzäunung. Dieß
 ist der Begriff des Rechtsstaates, nicht etwa daß der Staat bloß die Rechtsordnung handhabe
 ohne administrative Zwecke, oder vollends bloß die Rechte der Einzelnen schütze, er bedeutet überhaupt nicht Ziel und Inhalt des Staates, sondern nur Art und Charakter, dieselben zu
 verwirklichen."—Ed.] (The last sentences are aimed at the extreme position represented, for example, by Wilhelm von Humboldt.)
@@ -12533,15 +12533,15 @@ a legislative authority. But of these laws in the formal sense of the word,10
 only some—today usually only a very small proportion—are substantive (or
 "material") laws regulating the relations between private persons or between
 
-9 See particularly Carl Schmitt, Unabhängigkeit der Richter, Gleichheit vor dem Gesetz und Gewährleistung des Privateigentums nach der Weimarer Verfassung: Ein Rechtsgutachten zu den Gesetzentwürfen über die
-Vermögensauseinandersetzung mit den frührer regierenden Fürstenhäusern (Berlin: Walter de Gruyter, 1926),
+9 See particularly Carl Schmitt, Unabhängigkeit der Richter, Gleichheit vor dem Gesetz und Gewährleistung des Privateigentums nach der Weimarer Verfassung: Ein Rechtsgutachten zu den Gesetzentwürfeürfen über die
+Vermögensauseinandersetzung mit den frührer regierenden FüFürstenhäusernäFürstenhäusern (Berlin: Walter de Gruyter, 1926),
 and Carl Schmitt, Verfassungslehre (Munich and Leipzig: Duncker und Humblot, 1928).
 
-10 On this distinction see Paul Laband, Das Staatsrecht des deutschen Reiches (5th ed.; 4 vols.; Tübingen: J. C. B. Mohr, 1911–14), vol. 2, pp. 54–56; Ernst Seligmann, Der Begriff des Gesetzes im materiellen und formellen Sinne (Berlin: Guttentag, 1886); Albert Haenel, Studien zum deutschen Staatsrechte.
+10 On this distinction see Paul Laband, Das Staatsrecht des deutschen Reiches (5th ed.; 4 vols.; Tübingen: J. C. B. Mohr, 1911–14), vol. 2, pp. 54–56; Ernst Seligmann, Der Begriff des Gesetzes im materiellen und formellen Sinne (Berlin: Guttentag, 1886); Albert Haenel, Studien zum deutschen Staatsrecht.
 Vol. 2: Die organisatorische Entwicklung der deutschen Reichsverfassung. Gesetz im formellen und materiellen
-Sinne (2 vols.; Leipzig: Verlag H. Haessel, 1873–88); and, for a discussion of the subsequent development and current state of German teaching, Karl Zeidler, Maßnahmegesetz und "klassiches" Gesetz: Eine
-Kritik (Karlruhe: C. F. Müller, 1961); Ernest Wolfgang Böckenförde, Gesetz und gesetzgebende Ge walt:
-Von den Anfängen der deutschen Staatsrechtslehre bis zur Höhe des staatsrechslichen P ositivismus
+Sinne (2 vols.; Leipzig: Verlag H. Haessel, 1873–88); and, for a discussion of the subsequent development and current state of German teaching, Karl Zeidler, Maßnahmegesetz und "klassisches" Gesetz: Eine
+Kritik (Karlsruhe: C. F. Müller, 1961); Ernest Wolfgang Böckenförde, Gesetz und gesetzgebende Ge walt:
+Von den Anfängen der deutschen Staatsrechtslehre bis zur Höhe des staatsrechslichen P Positivismus
 (Tübingen: Mohr Siebeck, 1958); Hans Werner Kopp, Inhalt und Form der Gesetze als ein Prob lem der
 Rechtstheorie; mit vergleichender Berücksichtigung der Schweiz, Deutschlands, Frankreichs, Grossbritanniens und der USA. (dissertation; 2 vols.; Zürich: Polygraphischer Verlag, 1958); and especially Konrad
 Huber, Rechtsgesetz und Maßnahmegesetz: eine Studie zum rechtsstaatlichen Gesetz esbegriff (dissertation; Berlin: Duncker und Humblot, 1963); Léon Duguit, Traité de droit constitutionnel. Vol. 1, pp. 539–
@@ -12592,15 +12592,15 @@ been led to ask: "Have we not come to a time when we must find another name for 
 than Law itself ? Para- law, perhaps: or even sub- laws" (Cyril John Radcliffe, Viscount Radcliffe
 of Werneth, Law and the Democratic State: Being the Presidential Address of the Right Hon. Lord Radcliffe,
 President of the Holdsworth Club of the Faculty of Law in the University of Birmingham, 1954–1955 [Holdsworth lecture] [Birmingham: Holdsworth Club of the University of Birmingham, 1955], p. 4.
-Cf. also Hermann Jahrreiss, Freiheit and Sozialstaat (Kölner Universitätreden No. 17; Krefeld:
+Cf. also Hermann Jahrreiss, Freiheit and Sozialstaat (Kölner UniversitäUniversitätreden No. 17; Krefeld:
 Scherpe, 1957); reprinted in Mensch und Staat: Rechtsphilosophische, staatsrechtliche und völkerrechtliche
-Grundfragen in unserer Zeit (Cologne: C. Heymann, 1957), p. 15: "Wir sollten es uns einmal überlegen, ob wir nicht hinfort unter diesem ehrwürdigen Namen 'Gesetz' nur solche Normen setzen
+Grundfragen in unserer Zeit (Cologne: C. Heymann, 1957), p. 15: "Wir sollten es uns einmal üüberlegen, ob wir nicht hinfort unter diesem ehrwürdigenürdigen Namen 'Gesetz' nur solche Normen setzen
 und Stafdrohungen nur hinter solche Normen stellen sollten, die dem Jedermann 'das Gesetz'
 zu werden vermögen. Sie, nur sie, seien 'Gesetze'! Alle übrigen Regelungen—die technischen
 Details zu solchen echten Gesetzen oder selbständige Vorschriften ephemeren Charakters–
 sollten äußerlich abgesondert unter einem anderen Namen, als etwa 'Anordnungen' ergehen
 und allenfalls Sanktionen nicht strafrechtlichen Charakters vorsehen, auch wenn die Legislative
-sie beschließt." ["We should give serious consideration, from this point forward, whether under
+sie beschließtßt." ["We should give serious consideration, from this point forward, whether under
 the honored name of 'law' we should place those norms and attach penalties only to those rules
 that can be universalized. They, and only they, are true laws! All other regulations—the technical details that are associated with true laws or instructions of a fleeting character—should be
 clearly separated and labeled differently, and perhaps called 'directions.' In any case, they should
@@ -12698,7 +12698,7 @@ do not develop; they are repealed and are superseded by other rules."
 
 Press, 1949); reprinted from The University of Chicago Law Review, 15 (1948): 501–74.
 
-18 Cf. René Brunet, Le Principe d'egalité en droit français (Doctoral dissertation, Université de Paris
+18 Cf. René Brunet, Le Principe d'égalitéé en droit français (Doctoral dissertation, Université de Paris
 Faculté de Droit; Paris: F. Alcan, 1910); Max Friedrich Rümelin, Die Gleichheit von dem Gesetz:
 Rede gehalten bei der akademischen Preisverteilung am 6. November 1928 (Tübingen: Mohr, 1928); Otto
 
@@ -12729,9 +12729,9 @@ least 800 meters."
 
 20 Cf. art. 4 of the Swiss Federal Constitution: "Die Verschiedenheiten, die der Gesetzgeber
 aufstellt, müssen sachlich begründet sein, d. h. auf vernünftigen und ausschlaggebenden Erwä-
-gungen in der Natur der Sache beruhen derart, dass der Gesetzgeber nur durch solche Unterscheidungen dem inneren Zweck der Ordnung der betreffenden Lebensverhältnisse." [ The English reads: "The distinctions that the legislator specifies must be grounded in fact; that is, they
+gungen in der Natur der Sache beruhen derart, dass der Gesetzgeber nur durch solche Unterscheidungen dem inneren Zweck der Ordnung der betreffenden Lebensverhältnisseältnisse." [ The English reads: "The distinctions that the legislator specifies must be grounded in fact; that is, they
 must rest on reasonable and essential aspects of the matter before him such that only by making such distinctions would the legislator do justice to the intrinsic purpose of regulating the circumstances in question." The quotation is not a transcription of Art. 4 of the Federal Constitution, as amended to 1 July 1953 and in place at the time The Constitution of Liberty was written.
-Art. 4 reads: "Alle Schweizer sind vor dem Gesetz gleich. Es gibt in der Schweiz keine Untertanenverhältnisse, keine Vorrechte des Ortes, der Geburt, der Familie oder Personen." ("All
+Art. 4 reads: "Alle Schweizer sind vor dem Gesetz gleich. Es gibt in der Schweiz keine Untertanenverhältnisseältnisse, keine Vorrechte des Ortes, der Geburt, der Familie oder Personen." ("All
 Swiss are equal before the Law. In Switzerland there is neither subjection or privilege of locality, birth, family, or person.") See Christopher Hughes, trans., The Federal Constitution of Switzerland
 (Oxford: Clarendon Press, 1954), pp. 6–7, 173. Hayek's quotation is contained in Die Gleich heit
 vor dem Gesetz, Erich Kaufmann, et al., eds (Berlin: Walter de Gruyter, 1927), p. 10, which itself
@@ -12773,7 +12773,7 @@ which makes it improbable that any oppressive rules will be adopted.
 
 21 Léon Duguit, Manuel de droit constitutionnel, théorie générale de l'état, le droit de l'état, les libertés publiques, organisation politique (3rd ed.; Paris: Fontenoing and Cie., 1918), p. 96. ["La loi peut être
 mauvaise, injuste; mais étant formulée par voie générale et abstraite, ce danger se trouve réduit
-au minimum. Ainsi encore le caractère protecteur de la loi, sa raison d'être elle- même se trouvent dans sa généralité."—Ed.]
+au minimum. Ainsi encore le caractère protecteur de la loi, sa raison d'être elle- même se trouvent dans sa génégénéralitéé."—Ed.]
 
 22 It would lead too far here to raise the question of whether the distinct attributes which Continental law attaches to "public" as distinct from "private" law are compatible with freedom
 under the law in the Anglo- Saxon sense. Though such a classification may be useful for some
@@ -12810,7 +12810,7 @@ ensured is to make all its actions of this kind subject to judicial review.
 Whether the rules by which the administration is bound should be laid
 down by the general legislature or whether this function may be delegated
 
-23 See William Searle Holdsworth's review of the 9th edition of Dicey's Introduction to the Study
+23 See William Searle Holdsworth review of the 9th edition of Dicey's Introduction to the Study
 of the Law of the Constitution, in Law Quarterly Review, 55 (1939): 587–88, which contains one of
 the latest authoritative statements in England of the traditional conception of the rule of law.
 It deserves quotation at length, but we will reproduce only one paragraph here: "The rule of
@@ -12857,10 +12857,10 @@ to review by another such body that needs to know only the existing rules and
 the facts of the case is probably the best test as to whether a decision is bound
 
 24 See Sir Cecil Thomas Carr, Delegated Legislation: Three Lectures (Cambridge: Cambridge University Press, 1921); Allen, Law and Orders, esp. pp. 114–15; and the studies by various authors
-collected in Die Übertragung rechtsetzender Gewalt im Rechtsstaat, Walter E. Genzer and Wolfgang Einbeck, eds. (Frankfurt: Institut zur Förderung öffentlicher Angelegenheiten, 1952).
+collected in Die ÜÜbertragung rechtsetzender Gewalt im Rechtsstaat, Walter E. Genzer and Wolfgang Einbeck, eds. (Frankfurt: Institut zur FöFörderung ööffentlicher Angelegenheiten, 1952).
 
 25 Hans Huber, "Niedergang des Rechts und Krise des Rechtsstaates," in Demokratie und Rechtsstaat:
-Festgabe zum 60. Geburststag von Zaccaria Giacometti, p. 66, writes similarly of the concept of discretion
+Festgabe zum 60. Geburtstag von Zaccaria Giacometti, p. 66, writes similarly of the concept of discretion
 as a "Trojan horse in constitutional, administrative law."
 
 by rule or left to the discretion of the judge's authority. A particular interpretation of the law may be subject to dispute, and it may sometimes be impossible to arrive at a fully convincing conclusion; but this does not alter the fact
@@ -12925,8 +12925,8 @@ and Policies in Anglo- American Administrative Law Theory," Yale Law Journal, 47
 Order: Essays in Legal Philosophy (New York: Harcourt, Brace and Co., 1933), pp. 259–67; Fritz
 Morstein Marx, "Comparative Administrative Law: A Note on Review of Discretion," University of Pennsylvania Law Review, 87 (1938–39): 954–78; G. E. Treves, "Administrative Discretion
 and Judicial Control," Modern Law Review, 10 (1947): 276–91; Rudolf von Laun, Das freie Ermessen und seine Grenzen (Leipzig: Deuticke, 1910); Paul Oertmann, Die staatsbürgerliche Freiheit und das
-freie Ermessen der Behörden [Vortrag gehalten in der Gehe- Stiftung zu Dresden, am 18. November 1911] (Leipzig: B. G. Teubner, 1912); Friedrich Tezner, Das freie Ermessen der Verwaltungsbehörden. Kritisch- systematisch erörtert auf Grund der österreichischen verwaltungsgerichtlichen Rechtsprechung
-(Leipzig and Vienna: F. Deuticke, 1924); Christian- Friedrich Menger, System des verwaltungsrechtlichen Rechtsschutzes: eine verwaltungsgerichtliche und prozeßvergleichende Studie (Tübingen: Mohr, 1954);
+freie Ermessen der Behörden [Vortrag gehalten in der Gehe- Stiftung zu Dresden, am 18. November 1911] (Leipzig: B. G. Teubner, 1912); Friedrich Tezner, Das freie Ermessen der Verwaltungsbehörden. Kritisch- systematisch eröerörtert auf Grund der österreichischen verwaltungsgerichtlichen Rechtsprechung
+(Leipzig and Vienna: F. Deuticke, 1924); Christian- Friedrich Menger, System des verwaltungsrechtlichen Rechtsschutzes: eine verwaltungsgerichtliche und Prozessvergleichendeßvergleichende Studie (Tübingen: Mohr, 1954);
 and Paul Alexéef, "L'État–le droit–et le pouvoir discrétionnaire des autorités publiques," Revue
 internationale de la théorie du droit, 3 (1928–29): 195–219. Also Oskar Adolf Germann, "Zur Problematik
 der Ermessensentschiede" in Festgabe zum siebzigsten Geburtstag von Erwin Ruck, Juristische Fakultät
@@ -13218,7 +13218,7 @@ inexpedient, either because they will fail or because their costs will outweigh
 the advantages. This means that, so long as they are compatible with the rule
 of law, they cannot be rejected out of hand as government intervention but
 must be examined in each instance from the viewpoint of expediency. The
-habitual appeal to the principle of non- interference in the fight against all illconsidered or harmful measures has had the effect of blurring the fundamental distinction between the kinds of measures which are and those which are
+habitual appeal to the principle of non- interference in the fight against all ill-considered or harmful measures has had the effect of blurring the fundamental distinction between the kinds of measures which are and those which are
 not compatible with a free system. And the opponents of free enterprise have
 been only too ready to help this confusion by insisting that the desirability or
 undesirability of a particular measure could never be a matter of principle
@@ -13431,7 +13431,7 @@ well be sufficient (it is by no means evident that even in the case of doctors
 this would not be preferable to the requirement of a license to practice). But it
 is probably undeniable that in some instances, such as where the sale of poisons or firearms is involved, it is both desirable and unobjectionable that only
 persons satisfying certain intellectual and moral qualities should be allowed
-to practice such trade. So long as everybody possessing the necessary qualifi -
+to practice such trade. So long as everybody possessing the necessary qualifications -
 cations has the right to practice the occupation in question and, if necessary,
 
 can have his claim examined and enforced by an independent court, the basic
@@ -13848,7 +13848,7 @@ are no possible limits to the power of the legislator,17 and there are no "socal
 
 freedom of the individual"—Ed.] becomes in the second edition of 1929 "im Grunde unmö-
 gliche Freiheit des Individuums" ["the in fact impossible freedom of the individual"—Ed.] (Von
-Wesen und Wert der Demokatie [2nd ed.; Tübingen: J. C. B. Mohr, 1929], p. 11).
+Wesen und Wert der Demokratie [2nd ed.; Tübingen: J. C. B. Mohr, 1929], p. 11).
 
 14 "Loslösung des Demokratismus von Liberalismus," Hans Kelsen, Vom Wesen und Wert der
 
@@ -13909,7 +13909,7 @@ by more than one speaker at a congress of German constitutional lawyers.24
 
 19 Hans Kelsen, Allgemeine Staatslehre, p. 335. [The original quotation reads: "Ihr den Charakter
 
-des Rechts absprechen, ist nur eine naturrechtliche Naivität oder Überhehung."—Ed.]
+des Rechts absprechen, ist nur eine naturrechtliche Naivität oder ÜÜberhebung."—Ed.]
 
 20 Hans Kelsen, Allgemeine Staatslehre, pp. 231–35ff.; cf. the same author's General Theory of Law
 
@@ -13923,7 +13923,7 @@ pp. 299–310.
 
 23 Darmstädter, Die Grenzen der Wirksamkeit des Rechtsstaates, p. 95. [ The German reads: "Tendenz das Wesen des Rechtsstaates im Staatsbegriff schlechthin untergehen zu lassen, . . . dem
 Siege und der Alleingeltung des faschistischen und bolschewistischen Staatswollens . . . derart
-von der Staatslehre her ein grundsätzliches Hindernis nicht mehr engegen [stellt]."—Ed.]
+von der Staatslehre her ein grundsägrundsätzliches Hindernis nicht mehr entgegen [stellt]."—Ed.]
 
 24 Heinrich Triepel, Comment on "Die Reform des Wahlrechts" ( pp. 194–98), and Gerhard
 Leibholz, "Die Wahlrechtsreform und ihre Grundlagen" ( pp. 159–90), in Entwicklung und Reform
@@ -13956,7 +13956,7 @@ this direction than too much. It is a wrong belief that the interest or the secu
 political freedom requires the greatest possible limitation of the government by the law. This is
 based upon the strange notion [!] that force is an evil which must be combated to the utmost. But
 in reality it is a good, in which, however, as in every good, it is necessary, in order to make possible its wholesome use, to take the possibility of its abuse into the bargain." Cf. Otto Friedrich von
-Gierke, Johannes Althusius und die Entwickling der naturrechtlichen Staatstheorien: zugleich ein Beitrag
+Gierke, Johannes Althusius und die Entwicklung der naturrechtlichen Staatstheorien: zugleich ein Beitrag
 zur Geschichte der Rechtssystematik (Breslau: W. Koebner, 1880), p. 304, in which he remarks about the
 theory of the Rechtsstaat put forward by Kant and Humboldt: "Dieser Rechtsstaat wäre, wenn seine Verwirklichung überhaupt denkbar gewesen wäre, mit der vollen Unfreiheit und Ohnmacht der Staatsge walt
 erkauft worden." ["The Rechtsstaat could have been purchased only at the cost of the total impotence and incapacity of the state, were it even conceivable."—Ed.]
@@ -14037,7 +14037,7 @@ that this principle is also to be found in Aristotle, Nicomachean Ethics, 1138a.
 Regime; Comparative Survey and Translation of the Civil Code, Code of Domestic Relations, Judiciary Act, Code
 of Civil Procedure, Laws on Nationality, Corporations, Patents, Copyright, Collective Farms, Labor, and Related
 Laws (2 vols.; Ann Arbor: University of Michigan Law School, 1948–49), vol. 1, p. 170; quoted
-in Peter Ivanovitch Stuchka, Entsiklopediia gosudarstva i prava [Encyclopedia of State and Law] (3 vols.;
+in Peter Ivanovitch Stuchka, Encyclopedia gosudarstva i prava [Encyclopedia of State and Law] (3 vols.;
 Moscow: Izd- vo Kommunisticheskoi Akademii, 1925–27), p. 1593.
 
 33 Concerning Pashukanis's fate, Roscoe Pound observes in his Administrative Law: Its Growth,
@@ -14309,7 +14309,7 @@ below.
 Minister of Agriculture into the Disposal of Land at Crichel Down (London: History Majesty's Stationery
 Office, 1954) [Cmd. 9176]; and cf. also the less- known but nearly as instructive case of Odlum
 v. Stratton (1946), before Mr. Justice Atkinson, King's Bench Division, a report of the proceedings of which has been printed by the Wiltshire Gazette [Odlum v. Stratton: Verbatim Report of the Proceedings in the High Court of Justice, King Bench Division, before Mr. Justice Atkinson (Devizes, Wiltshire:
-Wilshire Gazette, 1946)]. [ The case was the subject of comment on ministerial discretion by
+Wiltshire Gazette, 1946)]. [ The case was the subject of comment on ministerial discretion by
 Lord Simon of Glaisdale in the House of Lords on 26 February 1996. Lord Simon remarked:
 "(Odlum v. Stratton) was a libel action in which the professional competence of a farmer was in
 question. A series of reports on his competence was in the hands of the Ministry of Agriculture.
@@ -14317,7 +14317,7 @@ The Ministry claimed that it was immune from disclosure except for two documents
 documents told against the plaintiff. He wanted to see the others, but those were the only two for
 which immunity was waived. The judge had no doubt at all, nor do I think would anyone reading a transcript have had any doubt, that the documents were divulged precisely with the objective of discrediting the plaintiff " (Hansard, Lords, column 1265–66).—Ed.]
 
-trator" without legal training have had an even greater influence here than
+administrator" without legal training have had an even greater influence here than
 in Great Britain; it may even be said that the British socialist lawyers we have
 just considered have usually found their inspiration more often in American
 than in British legal philosophers. The circumstances which have brought this
@@ -14367,7 +14367,7 @@ that jurisdiction."74
 The reaction against the tradition of stringent control of the courts over not
 only administrative but also legislative action had, in fact, commenced some
 time before the first World War. As an issue of practical politics it became
-important for the first time in Senator La Follette's campaign for the presidency in 1924, when he made the curbing of the power of the courts an
+important for the first time in Senator La La Follette campaign for the presidency in 1924, when he made the curbing of the power of the courts an
 important part of his platform.75 It is mainly because of this tradition which
 the Senator established that, in the United States more than elsewhere, the
 progressives have become the main advocates of the extension of the discretionary powers of the administrative agency. By the end of the 1930s, this
@@ -14428,7 +14428,7 @@ too, even more than the British committee, tended in its Majority Report81 to
 77 Charles Grove Haines, A Government of Laws or a Government of Men: Judicial or Legislative Supremacy (Berkeley: University of California Press, 1929), p. 37.
 
 78 Ibid., p. 18.
-79 Thomas Jefferson, "Draft of the Kentucky Resolution of 1789," in Ethelbert Dudley Warfield, The Kentucky Resolutions of 1798 (2nd ed.; New York: Putman, 1894), pp. 157–58.
+79 Thomas Jefferson, "Draft of the Kentucky Resolution of 1789," in Ethelbert Dudley Warfield, The Kentucky Resolutions of 1798 (2nd ed.; New York: Putnam, 1894), pp. 157–58.
 
 80 Jerome Frank, Law and the Modern Mind (New York: Brentano's, 1930), p. 21. More than a
 quarter of a century after the publication of this book, Thurman Wesley Arnold, in the University of Chicago Law Review ["Judge Jerome Frank," 24 (1957): 635], could say of it that "more than
@@ -14543,7 +14543,7 @@ of the rule of law is to be halted, there seems to be urgent need for some in-
 French reads: "Il nous faut tout d'abord faire le procès des juristes. Ce sont eux qui depuis un
 demi- siècle ont affaibli la notion de droit individuel sans avoir conscience qu'ils livraient ainsi
 ces droits à toute puissance de l'État politique. Les uns étaient désireux de se classer parmi
-les hommes de progrès. Les autres croyaient retrouver une doctrine traditionnelle étouffée par
+les hommes de progrès. Les autres croyaient retrouver une doctrine traditionnelle éétoufféeée par
 l'individualisme libéral du xixe siècle. Les hommes de science ont souvent une certaine candeur
 qui ne leur permet pas d'apercevoir les conséquences pratiques que d'autres tireront de leurs
 doctrines désintéressées."—Ed.] Cf. also Paul Roubier, Théorie générale du droit: histoire des doctrines
@@ -14595,7 +14595,7 @@ Unfortunately, since then the International Commission of Jurists (in its "Decla
 10, 1959) decided to introduce a "new" and "dynamic" conception of the Rule of La w which included the
 establishment of "social, economic, educational and cultural conditions under which [the individual's] aspirations and dignity may be realized." However desirable these objectives might be, extending the notion of
 the Rule of Law to include these goals can only lead to making the term worthless and can only accelerate
-the repudiation of those constr aints that the Rule of La w places on the actions of the state should these
+the repudiation of those constraints aints that the Rule of La w places on the actions of the state should these
 limitations stand in the way of pursuing certain social ends. Cf. "The Declaration of Delhi," Newsletter of the
 International Commission of Jurists, no. 6 (March–April 1959): 1.
 
@@ -14629,11 +14629,11 @@ remains, but to spare them all care of thinking and all the trouble of living?
 
 This quotation is taken from Tocqueville, Democracy in America, vol. 2, p. 318. [ The French
 reads: "Au- dessus de ceux- là s'élève un pouvoir immense et tutélaire, qui se charge seul d'assurer
-leur jouissance et de veiller sur leur sort. Il est absolu, détaillé, régulier, prévoyant et doux. Il
-ressemblerait à la puissance paternelle si, comme elle, il avait pour objet de préparer les hommes
-à l'âge viril; mais il ne cherche, au contraire, qu'à les fixer irrévocablement dans l'enfance; il
-aime que les citoyens se réjouissent, pourvu qu'ils ne songent qu'à se réjouir. Il travaille volontiers à leur bonheur; mais il veut en être l'unique agent et le seul arbitre; il pourvoit à leur sécurité, prévoit et assure leurs besoins, facilite leur plaisirs, conduit leurs principales affaires, dirige
-leur industrie, règle leurs successions, devise leurs héritages; que ne peut- il leur ôter entièrement
+leur jouissance et de veiller sur leur sort. Il est absolu, dédétailléé, rérégulier, préprévoyant et doux. Il
+ressemblerait à la puissance paternelle si, comme elle, il avait pour objet de prépréparer les hommes
+à l'âge viril; mais il ne cherche, au contraire, qu'à les fixer irréirrévocablement dans l'enfance; il
+aime que les citoyens se réréjouissent, pourvu qu'ils ne songent qu'à se réréjouir. Il travaille volontiers à leur bonheur; mais il veut en être l'unique agent et le seul arbitre; il pourvoit à leur sésécuritéé, prévoit et assure leurs besoins, facilite leur plaisir, conduit leurs principales affaires, dirige
+leur industrie, règle leurs successions, devise leurs héhéritage; que ne peut- il leur ôter entièrement
 le trouble de penser et la peine de vivre?" (bk. 2, sec. 4, pt. 6; vol. 2, p. 837).—Ed.] The three
 paragraphs which follow, or indeed the whole of chapter 6 of book 4, from which it is taken,
 would deserve quotation as a prologue to the following discussion.
@@ -14665,7 +14665,7 @@ and the latter gradualist; but their conceptions of the new society they hoped
 to create were basically the same. Socialism meant the common ownership of
 the means of production and their "employment for use, not for profit."
 
-The quotation at the head of the chapter is taken from the dissenting opinion of Mr. Justice Louis Brandeis in Olmstead v. United States 277 U.S. 438, at 479 (1927). Also see Jeremy Bentham, Deontology; or, The Science of Morality: In Which the Harmony and Co- incidence of Duty and Selfinterest, Virtue and Felicity, Prudence and Benevolence, are Explained and Exemplif ed (2 vols.; London:
+The quotation at the head of the chapter is taken from the dissenting opinion of Mr. Justice Louis Brandeis in Olmstead v. United States 277 U.S. 438, at 479 (1927). Also see Jeremy Bentham, Deontology; or, The Science of Morality: In Which the Harmony and Co- incidence of Duty and Selfinterest, Virtue and Felicity, Prudence and Benevolence, are Explained and Exemplified ed (2 vols.; London:
 Rees, Orme, Browne, Green, and Longman, 1834), vol. 2, p. 289: "Despotism never takes a worse shape
 than when it comes in the guise of benevolence."
 
@@ -14697,9 +14697,9 @@ Middlesex: Penguin Books, 1956); Charles Anthony Raven Crosland, The Future of S
 and the discussions carried on in the journals Socialist Commentary and the New Statesman. A useful
 survey of these debates is Thomas Wilson, "Changing Tendencies in Socialist Thought," Lloyds
 Bank Review ( July 1956): 1–21. Illuminating comments on the British experiment by foreign
-observers are Bertrand de Jouvenel, Problèmes de l'Angleterre socialiste: ou, L'échec d'une expérience (Paris:
+observers are Bertrand de Jouvenel, Problèmes de l'Angleterre socialiste: ou, L'ééchec d'une expérience (Paris:
 La table ronde, 1947); Clare Elmer Griffin, Britain: A Case Study for Americans (Ann Arbor: University of Michigan Press, 1950); David McCord Wright, Post- War West German and United Kingdom Recovery (Washington, DC: American Enterprise Association, 1957); and Johannes Messner,
-Das englische Experiment des Sozialismus: auf Grund ökonomischer Tatsachen und sozialistischer Selbstzeugnisse
+Das englische Experiment des Sozialismus: auf Grund öökonomischer Tatsachen und sozialistischer Selbstzeugnisse
 dargestellt (Innsbruck: Tyrolia, 1954).
 
 2 For the Continental developments see particularly Joseph Buttinger, In the Twilight of Socialism: A History of the Revolutionary Socialists of Austria, Elizabeth Bruce Ashton, trans. (New York:
@@ -15008,7 +15008,7 @@ concerned with what they regard as the public good. Though theorists may
 still talk about the democratic control of these activities, all who have direct
 experience in this matter agree that (as one recent English writer put it) "if the
 Minister's control . . . has become a myth, the control of Parliament is and
-always has been the merest fairy- tale."20 It is inevitable that this sort of adminof the press and popular constitution of the legislature would make this or any other country
+always has been the merest fairy- tale."20 It is inevitable that this sort of admin of the press and popular constitution of the legislature would make this or any other country
 free otherwise than in name. And the evil would be greater, the more efficiently and scientifically
 the administrative machinery was constructed—the more skilful the arrangements for obtaining
 the best qualified hands and heads with which to work it."
@@ -16176,7 +16176,7 @@ wird." ["A further tendency of social security schemes arises when one considers
 terms. These schemes require, under compulsion, that parts of the national income be used to
 underwrite the costs of a particular demand that is presented as being an objective need."—Ed.]
 Also Alfred Müller- Armack, "Soziale Marktwirtschaft," again in the Handwörterbuch der Sozialwissenschaften, p. 391: "Der marktwirtschaftliche Einkommensprozeß bietet der Sozialpolitik
-ein tragfähiges Fundament für eine staatliche Einkommensumleitung, die in Form von Fürsorgeleistungen, Renten- und Lastenausgleichszahlungen, Wohnungsbauzuschüssen, Subven-
+ein tragfähigesähältiges Fundament für eine staatliche Einkommensumleitung, die in Form von Fürsorgeleistungen, Renten- und Lastenausgleichszahlungen, Wohnungsbauzuschüssen, Subven-
 
 resisted this transformation into something quite different, an instrument
 for the compulsory redistribution of income. The ethics of such a system, in
@@ -16409,8 +16409,8 @@ only if, from the outset, the distinction is clearly made between benefits for
 these stages such as Fürsorge, Versicherung, and Versorgung; see Hans Achinger, Soziale Sicherheit. Eine
 historisch- soziologische Untersuchung neuer Hilfsmethoden (Stuttgart: Frederick Vorwerk, 1953), p. 35,
 and cf. the same author's contribution to the collective volume, Neuordnung der sozialen Leistungen: Denkschrift auf Anregung des Herrn Bundeskanzlers (2 vols. in 1; Cologne: Graven Verlag, 1955)
-[ Essays by Hans Achinger, Joseph Höffner, Hans Muthesius, Ludwig Neundörfer], and Karl-
-Heinrich Hansmayer, Der Weg zum Wohlfahrtsstaat: Wandlungen der Staatstätigkeit im Spiegel der Finanzpolitik unseres Jahrhunderts (Frankfurt am Main: F. Knapp, 1957).
+[ Essays by Hans Achinger, Joseph Höffner, Hans Muthesius, Ludwig Neundörferörfer], and Karl-
+Heinrich Hansmayer, Der Weg zum Wohlfahrtsstaat: Wandlungen der Staatstätigkeitätigkeit im Spiegel der Finanzpolitik unseres Jahrhunderts (Frankfurt am Main: F. Knapp, 1957).
 
 16 For numerous instances of this see Stokes, Social Security—Fact and Fancy.
 17 Cf. the passages quoted in n. 4, above, and, for the extent to which this aim has in fact
@@ -16599,7 +16599,7 @@ most of those who will retire at the end of the century will be dependent on
 the charity of the younger generation. And ultimately not morals but the fact
 
 25 See Henry D. Allen, "The Proper Federal Function in Security for the Aged," American Economic Security, 10 (1953): 50. [ Mr. Justice Benjamin N. Cardozo delivered the majority opinion
-in Helvering v. Davis 301 U.S. Reports 619 at 643 (1936). Quoting the Social Security Board ("Economic Insecurity in Old Age," 1937, p. 15) Cardozo, on behalf of the Court, noted that "onefifth of the aged in the United States were receiving old- age assistance, emergency relief, institutional care, employment under the works program, or some other form of aid from public or
+in Helvering v. Davis 301 U.S. Reports 619 at 643 (1936). Quoting the Social Security Board ("Economic Insecurity in Old Age," 1937, p. 15) Cardozo, on behalf of the Court, noted that "one-fifth of the aged in the United States were receiving old- age assistance, emergency relief, institutional care, employment under the works program, or some other form of aid from public or
 private funds; two- fifths to one- half were dependent on friends and relatives; one- eighth had
 some income from earnings; and possibly one- sixth had some savings or property. Approximately three out of four persons 65 or over were probably dependent wholly or partially on
 others for support." The claim is quoted in Allen's essay as an example of the propaganda
@@ -16985,7 +16985,7 @@ TAXATION AND REDISTRIBUTION
 
 It lies in the nature of things that the beginnings are slight, but unless great
 care is taken, the rates will multiply rapidly and finally will reach a point that
-no one could have foreseen. —Franscesco Guicciardini (ca. 1538)
+no one could have foreseen. —Francesco Guicciardini (ca. 1538)
 
 The quotation at the head of the chapter is taken from Francesco Guicciardini, "La decima
 scalata," in Opere inedite, ed. Piero and Luigi Guicciardini (10 vols.; Florence: Barbàra, Bianchi e
@@ -17001,7 +17001,7 @@ appeal to the masses. One of the instruments they used for this purpose was prog
 "It is well known how much the nobility and the wealthy were oppressed by Cosimo and in the
 following time by taxation, and the reason for this, which the Medici never admitted, was that
 it provided a certain means of destroying in a seemingly legal manner, because they always
-reserved to themselves the power to knock down arbitrarily anybody they wished." [ The Italian reads: "È notissimo quante nobilità, quante ricchezze furono distrutte da Cosimo, e poi ne'
+reserved to themselves the power to knock down arbitrarily anybody they wished." [ The Italian reads: "È notissimo quante nobiltàà, quante ricchezze furono distrutte da Cosimo, e poi ne'
 tempi seguenti, colle gravezze; e questa è stata la cagione che mai la casa de' Medici non ha consentito, che si truovi uno modo fermo, che le gravezze quasi dalla legge; perchè hanno volunto
 riservarsi sempre la potestà di battere co'modi arbitrarii chi gli pareva."—Ed.]
 
@@ -17207,7 +17207,7 @@ Graduating Taxation," [pp. 260–70]).—Ed.]
 9 As late as 1921, Sir Josiah Stamp (later Lord Stamp) could say (The Fundamental Principles of
 Taxation in the Light of Modern Developments [ London: Macmillan, 1921], p. 40) that "it was not
 until the marginal theory was thoroughly worked out on its psychological side, that progressive
-taxation obtained a really secure basis in principle." Even more recently Tibor Barna, Redistibution of Incomes through Public Finance in 1937 (Oxford: Clarendon Press, 1945), p. 5, could still argue
+taxation obtained a really secure basis in principle." Even more recently Tibor Barna, Redistribution of Incomes through Public Finance in 1937 (Oxford: Clarendon Press, 1945), p. 5, could still argue
 that "given the total national income, satisfaction is maximized with an equal distribution of
 income. This argument is based, on the one hand, on the law of diminishing marginal utility of
 income, and, on the other hand, on the assumption (based on the postulates of political democracy rather than economics) that persons with the same income possess the same capacity of
@@ -17254,7 +17254,7 @@ the law, "of the most sacred principle of equality," which provided the only
 barrier against encroachment on property.11 The very smallness of the burden involved in the new schemes made ineffective any attempt to oppose it as
 a matter of principle.
 
-11 Prussian Parliament, Stenographische Berichte über die Verhandlungen der durch die Allerhöchste Verordnung vom 16. Dezember 1890 einberufenen beiden Häuser des Landtages: Haus der Abgeordneten (2 vols.; Berlin, 1891), vol. 2, p. 907: "Die allerheiligsten politischen Grundsätze der Gleichheit werden sich
+11 Prussian Parliament, Stenographische Berichte über die Verhandlungen der durch die Allerhöchsteöchste Verordnung vom 16. Dezember 1890 einberufenen beiden Häuser des Landtages: Haus der Abgeordneten (2 vols.; Berlin, 1891), vol. 2, p. 907: "Die allerheiligsten politischen Grundsätze der Gleichheit werden sich
 aber untreu, wenn wir an die Frage der Progressivsteuer herangehen. Da verleugnet selbst die
 absolute Demokratie in Hunderttausenden von Stimmen ihre Grundsätze, wenn es sich darum
 handelt, den Reichen schärfer zu treffen." ["The most sacred political principles of equality
@@ -17898,7 +17898,7 @@ self- steering mechanism of the market, a loose joint that can sufficiently inte
 reason for this is that money, unlike ordinary commodities, serves not by being
 used up but by being handed on. The consequence of this is that the effects
 of a change in the supply of money (or in the demand for it) do not directly
-lead to a new equilibrium. Monetary changes are, in a peculiar sense, "selfreversing." If, for example, an addition to the stock of money is first spent on
+lead to a new equilibrium. Monetary changes are, in a peculiar sense, "self-reversing." If, for example, an addition to the stock of money is first spent on
 a particular commodity or service, it not merely creates a new demand which
 in its nature is temporary and passing, but also sets up a train of further effects
 which will reverse the effects of the initial increase in demand. Those who
@@ -17991,8 +17991,8 @@ pp. 85–107 [chap. 7, "The Variation of Cash Reserve Requirements," pp. 85–91
 of the common assumption that "f scal policy" as a means of controlling the economy was unknown when
 liberal policy was at its peak, tw o quotations from John Mor ley, Viscount Morley (Life of William Ewart
 Gladstone [3 vols.; London: Macmillan, 1903]) are of interest. Morley, writing of Gladstone's f rst budget in
-1853 (vol. 1, bk. 4, p. 461) observes: "its initial boldness lay in the adoption of the un usual course of estimating the national income roughly f or a period of seven years, and assuming that e xpenditure would
-remain tolerably steady for the whole per iod," and, earlier, he cites a remar k made by Gladstone (vol. 2,
+1853 (vol. 1, bk. 4, p. 461) observes: "its initial boldness lay in the adoption of the un usual course of estimating the national income roughly f or a period of seven years, and assuming that e expenditure would
+remain tolerably steady for the whole per iod," and, earlier, he cites a remark k made by Gladstone (vol. 2,
 bk. 5, p. 57): "If you want to benef t the labouring classes and to do the maximum of good, it is not enough
 to operate upon the articles consumed by them; you should rather operate upon the articles that give the
 maximum of employment."
@@ -18377,7 +18377,7 @@ of commodities selected and not the prices of any of the individual commodities 
 
 5. I certainly have no wish to weaken the case for any arrangement that
 will force the authorities to do the right thing. The case for such a mechanism
-becomes stronger as the likelihood of the monetary policy's being affected
+becomes stronger as the likelihood of the monetary policy being affected
 by considerations of public finance becomes greater; but it would weaken,
 rather than strengthen, the argument if we exaggerated what can be achieved
 by it. It is probably undeniable that, though we can limit discretion in this
@@ -18556,7 +18556,7 @@ critics of the evils of urban housing (some fifty years ago a satirical Ger-
 Ltd., 1957). Of earlier works the discussions of local taxation by Edwin Cannan, History of Local
 Rates in England, in Relation to the Proper Distribution of the Burden of Taxation (2nd ed., much enl.; London: P. S. King and Son, 1912), and his "Memorandum," in Royal Commission on Local Taxation, Memoranda Chiefly Relating to the Classification and Incidence of Imperial and Local Taxes [Alexander Hugh Bruce Balfour, Baron Balfour, Chairman] (London: Her Majesty's Stationery Office,
 1899) [Cmd. 9528], pp. 160–75, are still among the most helpful on the crucial issues. [See also
-Cannan's Answers to the Questions Submitted to Him by the Royal Commission on Local Taxation (London,
+Cannan Answers to the Questions Submitted to Him by the Royal Commission on Local Taxation (London,
 1898).—Ed.] See also Jane Jacobs, The Death and Life of the Great Amer ican Cities (New York: Random House, 1961).
 
 man weekly could suggest that an economist be defined as a man who went
@@ -18625,9 +18625,9 @@ At the same time, the owner loses all interest in investing in the maintenance o
 York: Foundation for Economic Education, 1948); Sir Roy Forbes Harrod, Are These Hardships
 Necessary? (London: Rupert Hart- Davis, 1947); Frank Walter Paish, "The Economics of Rent
 Restriction," Lloyds Bank Review, n.s., 14 (April 1950): 1–17, reprinted in Frank Walter Paish,
-The Post- War Financial Problem, and Other Essays (London: Macmillan, 1950), pp. 74–93; Wilhelm Röpke, Wohnungszwangswirtschaft—ein europäisches Problem (Düsseldorf: Deutsche Wohnungswirtschaft, 1951); Alfred Amonn, "Normalisierung der Wohnungswirtschaft in grundsätzlicher
+The Post- War Financial Problem, and Other Essays (London: Macmillan, 1950), pp. 74–93; Wilhelm Röpke, Wohnungszwangswirtschaft—ein europäisches Problem (Düsseldorf: Deutsche Wohnungswirtschaft, 1951); Alfred Amonn, "Normalisierung der Wohnungswirtschaft in grundsägrundsätzlicher
 Sicht," Schweizer Monatshefte, 33 ( June 1953): 129–138; and my own earlier essays, Das Mieterschutzproblem: nationalökonomische Betrachtungen [ The Rent- Control Problem: Political- Economic
-Considerations] (Vienna: Steyrermühl Verlag, 1929) and "Wirkungen der Mietzinsbeschränkungen" [The Repercussions of Rent Restrictions], Schriften des Vereins für Sozialpolitik, 182 (Leipzig:
+Considerations] (Vienna: Steyrermühlühl Verlag, 1929) and "Wirkungen der MietzinsbeschränkungenäMietzinsbeschränkungen" [The Repercussions of Rent Restrictions], Schriften des Vereins für Sozialpolitik, 182 (Leipzig:
 Duncker und Humblot, 1930), pp. 253–70.
 
 ants for that specific purpose. In cities like Paris, where inflation has reduced
@@ -18984,7 +18984,7 @@ Levy on Increasing Efficiency," Financial Times (London), pt. 1 (April 26, 1949)
 Charges," p. 4; and pt. 3 (April 28, 1949), "Too Little Evidence of Planning," p. 4.
 
 12 Charles Monroe Haar, Land Planning Law in a Free Society: A Study of the British Town and Country
-Planning Act (Cambridge, MA: Harvard University Press, 1951); cf. my "Review of C. M. Haar's
+Planning Act (Cambridge, MA: Harvard University Press, 1951); cf. my "Review of C. M. Haar
 Land Planning Law in a Free Society," University of Chicago Law Review, 19 (1952): 620–26; reprinted as
 an Appendix under the title "The Economics of Development Charges," in Studies in Philosophy,
 Politics and Economics (Chicago: University of Chicago Press, 1967), pp. 331–38.
@@ -19284,7 +19284,7 @@ lem. In 1929 Black worked out the details of what he christened the voluntary do
 and went on to become Chairman of the Federal Reserve Bank of New York and a close advisor to President Franklin D. Roosevelt. Among his many contributions to the modern state was
 the idea of withholding income taxes from workers' paychecks. John Black, an advisor in farm
 policy in the Roosevelt administration, later joined the Harvard faculty, where he became one of
-the most persistent voices supporting more extensive government. Black's protegé, John Kenneth
+the most persistent voices supporting more extensive government. Black's protégéé, John Kenneth
 Galbraith, was brought into the department largely at Black's urging.—Ed.]
 
 property. It is, however, a curious illusion to expect that farming will more
@@ -19385,7 +19385,7 @@ more anxious to speed up the growth of the industrial population by arti-
 6 On the problems of undeveloped countries and assistance to their economic development see
 particularly Peter Tamás Bauer, Economic Analysis and Policy in Underdeveloped Countries (Cambridge:
 Cambridge University Press, 1957); Sally Herbert Frankel, The Economic Impact on Under- developed
-Societies: Essays on International Investment and Social Change (Oxford: Blackwell, 1953); Frederic Benham, " Reflexiones sobre los países insuficientemente desarrollados," El Trimestre económico, 19
+Societies: Essays on International Investment and Social Change (Oxford: Blackwell, 1953); Frederic Benham, " Reflexiones sobre los países insuficientemente desarrollados," El Trimestre econóeconómico, 19
 (1952): 45–57; and Milton Friedman, "Foreign Economic Aid, Means and Objectives," Yale
 Review, n.s., 47 (1958): 500–516.
 
@@ -19423,7 +19423,7 @@ underpay them.
 8 The important and well- established fact of the necessity of the development of an agricultural surplus before rapid industrialization can bring a growth of wealth is particularly well
 brought out by Kenneth Ewart Boulding, "Economic Analysis and Agricultural Policy," esp.
 p. 440, reprinted in Contemporary Readings in Agricultural Economics, esp. p. 197: "The so called
-'industrial revolution' was not created by a few rather unimportant technical changes in the textile industry; it was the direct child of the agricultural revolution based on turnips, clover, fourcourse rotation, and livestock improvement which developed in the first half of the eighteenth
+'industrial revolution' was not created by a few rather unimportant technical changes in the textile industry; it was the direct child of the agricultural revolution based on turnips, clover, four-course rotation, and livestock improvement which developed in the first half of the eighteenth
 century. It is the turnip, not the spinning jenny, which is the father of industrial society." See Samuel Pfrimmer Hays, Conservation and the Gospel of Eff ciency: The Progressive Conservation Movement,
 1890–1920 [Harvard Historical Monographs, No. 40] (Cambridge, MA: Harvard University Press, 1960).
 
@@ -19767,7 +19767,7 @@ Analphabeten gegeben haben soll, obw ohl dessen 'freie Demokratie jede Einmischu
 
 It is important to recognize that general education is not solely, and perhaps not even mainly, a matter of communicating knowledge. There is a
 need for certain common standards of values, and, though too great emphasis on this need may lead to very illiberal consequences, peaceful common
-existence would be clearly impossible without any such standards. If in longsettled communities with a predominantly indigenous population, this is not
+existence would be clearly impossible without any such standards. If in long-settled communities with a predominantly indigenous population, this is not
 likely to be a serious problem, there are instances, such as the United States
 during the period of large immigration, where it may well be one. That the
 United States would not have become such an effective "melting pot" and
@@ -19800,7 +19800,7 @@ at public expense and in what manner it should be provided. It is true that,
 historically, compulsory education was usually preceded by the governments'
 increasing opportunities by providing state schools. The earliest experiments
 with making education compulsory, those in Prussia at the beginning of the
-eighteenth century, were in fact confined to those districts where the governalso avoided all interference with private life. There was no compulsory education nor state
+eighteenth century, were in fact confined to those districts where the government avoided all interference with private life. There was no compulsory education nor state
 schools.'"—Ed.]
 
 ment had provided schools. There can be little doubt that in this manner the
@@ -19874,7 +19874,7 @@ the very possibility that, with a system of government education, all elementary
 group who genuinely believe that they have scientific answers to those prob-
 
 4 Cf. Ludwig von Mises, Nation, Staat und Wirtschaft. Beiträge zur Politik und Geschichte der Zeit
-(Vienna and Leipzig: Manzscher Verlag, 1919). [This work was translated into English as Nation,
+(Vienna and Leipzig: Manzsche Verlag, 1919). [This work was translated into English as Nation,
 State, and Economy: Contributions to the Politics and History of Our Time, Leland B. Yeager, trans. (New
 York: New York University Press, 1983). A Liberty Fund edition was released in 2006.—Ed.]
 
@@ -20403,8 +20403,8 @@ argument hitherto unfolded in these pages directly converges, is the absolute
 and essential importance of human development in its richest diversity."19
 
 19 Wilhelm von Humboldt, The Sphere and Duties of Government, Joseph Coulthard, Jr., trans. (London: John Chapman, 1854), p. 65 [ Liberty Fund edition, p. 48]. [ The German reads: "Nach
-dem ganzen vorigen Räsonnement kommt schlechterdings alles auf Ausbildung des Menschen
-in der höchsten Mannigfaltigkeit an." (Über die Grenzen der Wrksamkeit des Staates [Nuremberg: Verlag Hans Carl, 1946], p. 80)—Ed.] John Stuart Mill took the quotation from this translation.
+dem ganzen vorigen RäRäsonnement kommt schlechterdings alles auf Ausbildung des Menschen
+in der höchsten Mannigfaltigkeit an." (Über die Grenzen der Wirkung des Staates [Nuremberg: Verlag Hans Carl, 1946], p. 80)—Ed.] John Stuart Mill took the quotation from this translation.
 
 POSTSCRIPT
 
@@ -20593,7 +20593,7 @@ concerned with the problem of how the powers of government should be limited tha
 When I say that the conservative lacks principles, I do not mean to suggest
 that he lacks moral conviction. The typical conservative is indeed usually a
 
-tises the blunders of his predecessors'? For long tracts of their history they have indiscriminately
+criticizes the blunders of his predecessors'? For long tracts of their history they have indiscriminately
 resisted improvement, and in claiming to reverence their ancestors often reduce opinion to aged
 individual prejudice. Their position becomes safer, but more complex, when we add that this
 Right wing is incessantly overtaking the Left; that it lives by repeated inoculation of Liberal
@@ -20685,7 +20685,7 @@ What We Defend: Essays in Freedom by Members of the University of Manchester, Er
 [London: Oxford University Press, 1942], p. 96). On the role of the conservatives in this connection see also my "Introduction: History and Politics," Capitalism and the Historians (Chicago:
 University of Chicago Press, 1954), pp. 19ff. [Collected Works edition, vol. 3, pp. 56–72.]
 
-servatives feel instinctively that it is new ideas more than anything else that
+conservatives feel instinctively that it is new ideas more than anything else that
 cause change. But, from its point of view rightly, conservatism fears new ideas
 because it has no distinctive principles of its own to oppose to them; and, by
 its distrust of theory and its lack of imagination concerning anything except
@@ -20748,7 +20748,7 @@ unhampered intercourse which the liberal favors, but by bringing them the
 blessings of efficient government. It is significant that here again we frequently
 find the conservatives joining hands with the socialists against the liberals—
 not only in England, where the Webbs and their Fabians were outspoken
-im perialists, or in Germany, where state socialism and colonial expansionism went together and found the support of the same group of "socialists
+im imperialists, or in Germany, where state socialism and colonial expansionism went together and found the support of the same group of "socialists
 of the chair," but also in the United States, where even at the time of the
 first Roosevelt it could be observed: "the Jingo and the Social Reformer have
 gotten together and have formed a political party, which threatened to capture the Government and use it for their program of Caesaristic paternalism, a danger which appears now to have been averted only by the other parties having themselves adopted this programme in a somewhat milder degree
@@ -20960,7 +20960,7 @@ unemployment benefit, industrial injuries benefit and a national health scheme."
 prejudices, entrenched positions, and firmly established privileges. Follies and
 abuses are no better for having long been established principles of policy.
 
-Though quieta non movere may at times be a wise maxim for the statesman,
+Though quies non movere may at times be a wise maxim for the statesman,
 it cannot satisfy the political philosopher. He may wish policy to proceed gingerly and not before public opinion is prepared to support it, but he cannot
 accept arrangements merely because current opinion sanctions them. In a
 world where the chief need is once more, as it was at the beginning of the
@@ -21887,7 +21887,7 @@ Holdsworth, William, 114–115n22,
 252n63, 253n70, 254n74, 255n82,
 260n96, 319n23
 
-Holland, Philemond, 244n33
+Holland, Philemon, 244n33
 Hollar, Wenceslas, 166n
 Holmes, Oliver Wendell, Jr., 148, 224
 
@@ -22117,7 +22117,7 @@ Macaulay, Thomas Babington, 174n11,
 Macbeath, Alexander, 115–116n23
 MacDermott, John Clark (Baron Mac-
 
-Dermott), 201n3, 385–386n3
+Dermot), 201n3, 385–386n3
 
 MacGregor, David Hutchison, 119n30
 Machiavelli, Niccolò, 120n32
@@ -22255,7 +22255,7 @@ Montesquieu, 57, 62–63n13, 119n28,
 255n82, 315n14
 Morley, Felix, 10, 35
 Morley, John (Viscount Morley), 454n5
-Mossner, Ernest Cambpell, 256n83
+Mossner, Ernest Campbell, 256n83
 Motley, John Lothrop, 232–233n1
 Mounier, Jean- Joseph, 290–291nn7–8
 Müller, Adam Heinrich, 299–300n26
@@ -22332,7 +22332,7 @@ Petro, Sylvester, 386–388nn7–8, 394–
 Petty- Fitzmaurice, William, 257–258n86
 Pfizer, Paul Achatius, 299–301nn26–27
 Philbrook, Clarence, 181n17
-Phillips, George Godrey, 315n14
+Phillips, George Godfrey, 315n14
 Phillips, Henry Bayard, 55
 Philo of Alexandria, 237–238n10
 Picot, Albert, 308–310n1
@@ -23222,7 +23222,7 @@ and, 399–401. See also currency; inflation; trade policy
 
 Eden, Anthony, 520–521n4
 Edgeworth, Francis Ysidro, 435n8
-Edingburgh Review, 116–118n26, 530n16
+Edinburgh Review, 116–118n26, 530n16
 education: academic freedom and, 511–
 516, 512nn13–514; Americanization and, 500; compulsory, 499, 499–
 500nn1–2, 500–501, 502; despotism
@@ -23305,7 +23305,7 @@ services and, 427n38; superiority and,
 inequality
 
 Equality (Tawney), 506
-ethics: rule of law and, 296, 296n18; taxaunions in, 390; legal codes in, 297,
+ethics: rule of law and, 296, 296n18; tax unions in, 390; legal codes in, 297,
 297n2; legislation in, 235–236n6; new
 freedom and, 65–66n18; origins of
 law and, 233–234; revolution of 1848
@@ -23982,7 +23982,7 @@ Lectures Introductory to the Study of the Law of
 
 the Constitution (Dicey), 306–307
 legal positivism. See positivism, legal
-legislation and legislative power: abitrariness and, 253; administration
+legislation and legislative power: arbitrariness and, 253; administration
 and, 319–320; in American colonies,
 272; constitutional limitation of, 264–
 
@@ -24476,7 +24476,7 @@ profit, legitimate versus excess, 164n19
 progress: civilization and, 92–93; economic leveling and, 101; enjoyment
 of, 95–96; goals and, 93–94; inequality and, 96–100; lack of control and,
 89–90; meaning of, 94n4; opinion formation and, 175–176; rapid, 103, 105;
-resistance to change and, 104; as selfmaking, 94n5; skepticism about, 92;
+resistance to change and, 104; as self-making, 94n5; skepticism about, 92;
 theories of, 94n6; uncertainty and, 91,
 91–92n, 94, 95; wealth and, 99, 100–
 
@@ -24845,7 +24845,7 @@ social security: abolition of, 429n42;
 
 administrative apparatus for, 407–408;
 ambitious aims of, 410–411n7; benefi -
-ciaries' irresponsibility and, 411, 411–
+beneficiaries' irresponsibility and, 411, 411–
 412n10; branches of, 417–418; coercion and, 406–407, 409–411nn6–7,
 415–416; complexity of, 411–413,
 411n9; dependence of the aged and,

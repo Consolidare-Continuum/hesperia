@@ -102,7 +102,7 @@ c. High-income countries
 Over recent decades, the late Hans Rosling and The Gapminder
 Foundation have posed these and similar questions to thousands of
 people around the world as part of the Gapminder Misconception
-Study.3 In Factfulness, Hans, his son Ola Rosling, and his daughterin-law Anna Rosling Rönnlund share the surprising results of the
+Study.3 In Factfulness, Hans, his son Ola Rosling, and his daughter-in-law-law Anna Rosling Rönnlund share the surprising results of the
 tests. Here is a summary of some of the key findings.
 According to the World Bank, the proportion of the world's
 population living below the Bank's extreme poverty line fell from
@@ -130,7 +130,7 @@ and "developing" countries, which leaves no space for the
 population lives. If we add to that people living in high-income
 countries, we reach 91%. That leaves only 9% living in low-income
 countries, and of course, not all of them are in extreme poverty,
-but that is no ground for complacency, because large middleincome countries such as India and Nigeria have very unequal
+but that is no ground for complacency, because large middle-income countries such as India and Nigeria have very unequal
 distributions of income, with many millions of people living in
 extreme poverty.
 As we shall see in Chapter 3, many people don't give to
@@ -282,7 +282,7 @@ to build Versailles, the most magnificent palace Europe had ever
 seen, but he could not keep it cool in summer as effectively as
 most people in high-income nations can keep their homes cool
 today. His gardeners, for all their skill, were unable to produce
-the variety of fresh fruits and vegetables that we can buy all yearround. If he developed a toothache or fell ill, the best his dentists
+the variety of fresh fruits and vegetables that we can buy all year-round. If he developed a toothache or fell ill, the best his dentists
 and doctors could do for him would make us shudder.
 We're not just better off than a French king who lived centuries
 ago. We are also much better off than our own great-grandparents.
@@ -596,7 +596,7 @@ natural right, to the poor for their sustenance." In support of this
 view, he quoted Ambrose, one of the four original "Great Doctors,"
 or teachers, of the Church. He also cited the Decretum Gratiani, a
 12th-century compilation of canon law that contains the powerful
-statement, "The bread which you withhold belongs to the hungry:the clothing you shut away, to the naked: and the money you buryin the earth is the redemption and freedom of the penniless."
+statement, "The bread which you withhold belongs to the hungry:the clothing you shut away, to the naked: and the money you bury in the earth is the redemption and freedom of the penniless."
 Note the words "owed" and "belongs." For these Christians,
 sharing our surplus wealth with the poor is not a matter of charity,
 but of our duty and their rights. Aquinas even went so far as to say:
@@ -859,7 +859,7 @@ neighbors. Yet there is a callous side to a philosophy that denies
 that we have any responsibilities to those who, through no fault
 of their own, are in need. Taking libertarianism seriously would
 require us to abolish all state-supported welfare programs for
-those who can't get a job or are ill or disabled, and all statefunded health care for the aged and for those who are too poor
+those who can't get a job or are ill or disabled, and all state-funded health care for the aged and for those who are too poor
 to pay for their own health insurance. Few people really support
 such extreme views. Most think that we do have obligations to
 those we can help with relatively little sacrifice—certainly to
@@ -2475,7 +2475,7 @@ effective altruism is very enjoyable for me," Catherine explains,
 "and the most rewarding part is hearing from people later to find
 out they've started donating to an effective charity as a result of the
 workshop." Some of her activities in the school where she teaches
-lead to activities with very tangible results, including studentled campaigns that raised over $10,000 for effective charities;
+lead to activities with very tangible results, including student-led campaigns that raised over $10,000 for effective charities;
 "meatless Mondays" in the school cafeteria; and the school itself
 becoming carbon neutral by donating to effective climate charities
 that offset its emissions.17
@@ -2492,7 +2492,7 @@ which was traditionally the big day for retail sales and huge
 crowds trying to take advantage of them. As online shopping grew,
 "Cyber Monday" (the Monday following Black Friday) became
 more significant for online shopping, and now that is followed by
-Giving Tuesday. According to #GivingTuesday, over $1 billion has
+Giving Tuesday. According to #Giving Tuesday, over $1 billion has
 been given globally on this day since 2012.18
 Unfortunately the correlation between great ideas and ideas that
 spread rapidly on social media is far from perfect. The Ice Bucket
@@ -3056,7 +3056,7 @@ but it's unfortunate that many seem to believe that not spending
 money on administration and fundraising is the most important
 factor to consider when selecting an organization to support.
 Before there was GiveWell, there was Charity Navigator,
-founded in 2001, which claims to be America's "largest and mostutilized evaluator of charities." It pulls together useful information,
+founded in 2001, which claims to be America's "largest and most utilized evaluator of charities." It pulls together useful information,
 including the percentages of their income that charities spend
 on administration and fundraising. Its website includes a list of
 "Charities with Perfect Scores"—the 1% of charities it assesses that
@@ -5250,7 +5250,7 @@ the deficiencies of others, we may still be required to do a lot more
 than most of us do now.
 A Moderately Demanding View
 If we can dismiss the argument that limits our obligations to our
-fair share, the next challenge is to examine a number of moredemanding standards that have arisen in philosophical debates.
+fair share, the next challenge is to examine a number of more demanding standards that have arisen in philosophical debates.
 According to Richard Miller, a philosopher who has written widely
 about global justice, we ought to give to the point at which, if we
 were to give more, we would run a "significant" risk of worsening

@@ -14,26 +14,26 @@ A DIVISION OF RANDOM HOUSE, INC. NEW YORK
 
 SECOND VINTAGE BOOKS EDITION, MAY 1995
 
-Translation copynght © 1977 hy Alan Shendan
+Translation copyright © 1977 hy Alan Sheridan
 
-All nghts reserved under International and
+All rights reserved under International and
 
-Pan-Amencan Copyright Conventions. Published
+Pan-American Copyright Conventions. Published
 
-m the U mted States by Random House, Inc., New York,
+m the U United States by Random House, Inc., New York,
 
-and m Canada by Random House of Canada Ltmited,
+and m Canada by Random House of Canada Limited,
 
-Toronto. Originally pubhshed m France
-as Surveiller et Pumr: Nazssance de Ia przson by
+Toronto. Originally published m France
+as Surveiller et Pumr: Naissance de Ia prison by
 
-Eduions Gallimard, Paris. Copyright© 1975
+Editions Gallimard, Paris. Copyright© 1975
 
-by Edtttons Gallimard. Enghsh translation
+by Editions Gallimard. English translation
 
-onginally published in Great Bntam
+originally published in Great Britain
 
-by Pengum Books, Ltd.
+by Penguin Books, Ltd.
 
 F1rst American edition published by Pantheon
 
@@ -43,9 +43,9 @@ Library of Congress Cataloging-in-Publication Data
 
 Foucault, Michel. Translation of Surveiller
 
-et pumr.B1bliography : p.
+et pumr.B1Bibliography : p.
 
-1. Pnsons. 2. Pnson d1scipline.
+1. Prisons. 2. Pnson d1discipline.
 
 3· Punishment. I. Title.
 
@@ -163,8 +163,8 @@ prison.
 
 girls.
 
-10 L' orth.opedie ou l' art de prlvenir et de corriger dans les enfants les
-difformites du corps (Orthopaedics or the art of preventing and correcting deformities of the body in children) by N. Andry, 1749·
+10 L' orth.orthopédie ou l' art de prévenir et de corriger dans les enfants les
+difformités du corps (Orthopaedics or the art of preventing and correcting deformities of the body in children) by N. Andry, 1749·
 
 Translator1s Note
 
@@ -174,7 +174,7 @@ uses the infinitive, which, as here, may have the effect of an 'impersonal
 imperative'. Such a nuance is denied us in English. More seriously the verb
 'surveiller' has no adequate English equivalent. Our noun 'surveillance'
 has an altogether too restricted and technical use. Jeremy Bentham used
-the term 'inspect' - whirh Foucault translates as 'surveiller' - but the
+the term 'inspect' - which Foucault translates as 'surveiller' - but the
 range of connotations does not correspond. 'Supervise' is perhaps closest
 of all, but again the word has different associations. 'Observe' is rather
 too neutral, though Foucault is aware of the aggression involved in any
@@ -205,7 +205,7 @@ Torture
 1. The body of the condemned
 
 On 2. March 1 757 Damiens the regicide was condemned 'to make
-the amende konorahle before the main door of the Church of Paris',
+the amende honorable before the main door of the Church of Paris',
 where he was to be 'taken and conveyed in a cart, wearing nothing
 but a shirt, holding a torch of burning wax weighing two pounds';
 
@@ -227,12 +227,12 @@ I April 1757. 'This last operation was very long, because the horses
 used were not accustomed to drawing; consequently, instead of
 four, six were needed; and when that did not suffice, they were
 
-forced, in order to cut off the wretch's thighs, to sever the sinews
+forced, in order to cut off the wretch thighs, to sever the sinews
 and hack at the joints .. .
 
 'It is said that, though he was always a great swearer, no blas­
 
-phemy escaped his lips; but the excessive pain made him utter
+blasphemy escaped his lips; but the excessive pain made him utter
 horrible cries, and he often repeated: "My God, have pity on me!
 
 Jesus, help me!" The spectators were all edified by the solicitude
@@ -1482,7 +1482,7 @@ considerable proof, imperfect or slight (Jousse, 66o); or, again,
 'urgent or necessary' proof that did not allow one to doubt the
 truth of the deed (this was 'full' proof: thus two irreproachable witnesses affirming that they saw the accused, carrying an unsheathed
 and bloody sword, leave the place where, some time later, the body
-of the dead man was found with stab wounds); approximate or semifull proof, which may be regarded as true as long as the accused does
+of the dead man was found with stab wounds); approximate or semi-full proof, which may be regarded as true as long as the accused does
 not destroy it with evidence to the contrary (the evidence of a single
 eye-witness or death threats preceding a murder); lastly, distant or
 'adminicule' clues, which consisted only of opinion (rumour, the
@@ -1491,7 +1491,7 @@ Vouglans, 1757, 345-7). Now, these distinctions are not simply
 theoretical subtleties. They have an operational function. First,
 because each of these kinds of evidence, taken in isolation, may have
 a particular type of judicial effect: 'full' proof may lead to any
-sentence; 'semi-full' proof may lead to any of the 'peines ajjlictives',
+sentence; 'semi-full' proof may lead to any of the 'peines ajustive',
 or heavy penalties, except death; imperfect and slight clues are
 enough for the suspect to have a writ issued against him, to have
 the case deferred for further inquiry or to have a fine imposed on
@@ -1517,7 +1517,7 @@ domain the result of a complex art; it obeys rules known only to
 specialists, and, consequently, it reinforces the principle of secrecy.
 'It is not enough that the judge should have the conviction that any
 reasonable man may have . . . Nothing is more incorrect than this
-way of judging, which, in truth, is no other than a more or less wellfounded opinion.' But, on the other hand, it is a severe constraint
+way of judging, which, in truth, is no other than a more or less well-founded opinion.' But, on the other hand, it is a severe constraint
 for the magistrate; in the absence of this regularity, 'every sentence
 would be reckless, and in a sense it may be said that it is unjust even
 when, in truth, the accused is guilty' (Poullain du Pare, I 12.-IJ - see
@@ -1694,7 +1694,7 @@ into a single body of evidence that would bring the final certainty
 of guilt. Each piece of evidence aroused a particular degree of
 abomination. Guilt did not begin when all the evidence was gathered
 together; piece by piece, it was constituted by each of the elements
-that made it possible to recognize a guilty person. Thus a semiproof did not leave the suspect innocent until such time as it was
+that made it possible to recognize a guilty person. Thus a semi-proof did not leave the suspect innocent until such time as it was
 completed; it made him semi-guilty; slight evidence of a serious
 crime marked someone as slightly criminal. In short, penal demonstration did not obey a dualistic system: true or false; but a
 principle of continuous gradation; a degree reached in the demonstration already formed a degree of guilt and consequently involved
@@ -1833,7 +1833,7 @@ its sudden dramatic moments, the cries and sufferings of the condemned man serve
 ritual. Every death agony expresses a certain truth: but, when it
 takes place on the scaffold, it does so with more intensity, in that it
 
-is hastened by pain; with more rigour, because it �ccurs exactly at
+is hastened by pain; with more rigour, because it �occurs exactly at
 the juncture between the judgement of men and the judgement of
 God; with more ostentation, because it takes place in public. The
 sufferings of the condemned man are an extension of those of the
@@ -2618,7 +2618,7 @@ of his belated repentance. Against the law, against the rich, the
 powerful, the magistrates, the constabulary or the watch, against
 taxes and their collectors, he appeared to have waged a struggle
 with which one all too easily identified. The proclamation of these
-crimes blew up to epic proponions the tiny struggle that passed
+crimes blew up to epic proportions the tiny struggle that passed
 unperceived in everyday life. If the condemned man was shown to
 be repentant, accepting the verdict, asking both God and man for
 forgiveness for his crimes, it was as if he had come through some
@@ -2658,7 +2658,7 @@ confer on those 'illustrious' criminals, and no doubt in the very
 words they use (one should study the use of such categories as
 'misfortune' or 'abomination' or such epithets as 'famous' or
 'lamentable' in accounts such as The History of the Life, Great
-Robheries and Tricks of Guilleri and his Companions and of their
+Robberies and Tricks of Guilleri and his Companions and of their
 Lamentable and Unhappy End. 6
 
 Perhaps we should compare this literature with the 'disturbances
@@ -2770,7 +2770,7 @@ legal limit: the legitimate frontier of the power to punish. Not that
 which must be reached in order to alter him, but that which must
 be left intact in order to respect him. Noli me tangere. It marks the
 end of the sovereign's vengeance. The 'man' that the reformers set
-up against the despotism of the scaffold has also become a 'manmeasure': not of things, but of power.
+up against the despotism of the scaffold has also become a 'man-measure': not of things, but of power.
 
 There is, therefore, a problem here: how was this man-measure
 opposed to the traditional practice of punishment? How did he
@@ -2873,7 +2873,7 @@ example, Dupaty, 247); and they included the magistrates who
 claimed to be swamped by the number of trials: 'the misery of the
 people and the corruption of morals have increased the number of
 crimes and convicted criminals' (one of the judges of the Chambre
-de Ia T ournelle in an address to the king, 2 August 1 768, quoted
+de Ia T Tournelle in an address to the king, 2 August 1 768, quoted
 in Farge, 66); in any case, that crime was on the increase was shown
 by the real practice of the courts. 'The revolutionary and imperial
 era could already be sensed in the last years of the Ancien Regime.
@@ -2927,7 +2927,7 @@ years at least, all of which denounced in this denaturation the
 principle of an irregular justice. Penal justice was irregular first of
 all by virtue of the multiplicity of courts responsible for assuring it,
 without ever forming a single and continuous pyramid ( cf. Linguet
-or Boucher d'Argis, 1 789). Quite apart from the ecclesiastical jurisdictions, we must take into account the discontinuities, overlappings
+or Boucher d'Argis, 1 789). Quite apart from the ecclesiastical jurisdictions, we must take into account the discontinuities, overlapping
 and conflicts between the different legal systems: those of the
 nobility, which still played an important role in judging petty
 offences; those of the king, which were themselves numerous and
@@ -3012,7 +3012,7 @@ property, of buying and selling, of corruption in obtaining not only
 offices, but the decisions themselves) and its political cost (by dissociating it from the arbitrariness of monarchical power). The new
 juridical theory of penality corresponds in fact to a new 'political
 economy' of the power to punish. This explains why the 'reform'
-did not have a single origin. It was not the more enlightened members of the public, nor the ph.ilosoph.es, who regarded themselves as
+did not have a single origin. It was not the more enlightened members of the public, nor the ph.philosophes.es, who regarded themselves as
 enemies of despotism and friends of mankind; it was not even the
 social groups opposed to the parlementaires who instigated the
 reform. Or rather it was not they alone; in this same overall project
@@ -3174,7 +3174,7 @@ among the people, to a series of chain reactions of an increasingly
 illegal, or, if one prefers the term, criminal kind: breaches of close,
 the theft or killing of cattle, fires, assaults, murders (cf. Festy
 and Agulhon). The illegality of rights, which often meant
-the survival of the most deprived, tended, with the new status ofproperty, to become an illegality of property. It then had to be
+the survival of the most deprived, tended, with the new status of property, to become an illegality of property. It then had to be
 punished.
 
 And this illegality, while resented by the bourgeoisie where the
@@ -3443,7 +3443,7 @@ Here the principle takes root that one should never apply 'inhumane' punishments
 a traitor and a monster. If the law must now treat in a 'humane' way
 an individual who is 'outside nature' (whereas the old justice treated
 the 'outlaw' inhumanely), it is not on account of some profound
-humanity that the cniminal conceals within him, but because of a
+humanity that the criminal conceals within him, but because of a
 necessary regulation of the effects of power. It is this 'economic'
 rationality that must calculate the penalty and prescribe the appropriate techniques. 'Humanity' is the respectable name given to this
 economy and to its meticulous calculations. 'Where punishment is
@@ -3512,7 +3512,7 @@ to the crime; it had, by a sort of twin manifestation, to show the
 crime and at the same time to show the sovereign power that
 mastered it; in a penality calculated according to its own effects,
 example must refer back to the crime, but in the most discreet way
-possible and with the greatest possible economy indicate the intervention of pbwer; ideally, too, it should prevent any subsequent
+possible and with the greatest possible economy indicate the intervention of power; ideally, too, it should prevent any subsequent
 
 reappearance of either. The example is no longer a ritual that manifests; it is a sign that serves as an obstacle. Through this technique of
 punitive signs, which tends to reverse the whole temporal field of
@@ -4094,7 +4094,7 @@ of society, the object of a collective and useful appropriation. This
 explains why the reformers almost always proposed public works
 as one of the best possible penalties; in this, they were supported by
 the Cahiers de do/lances: 'Let those condemned to penalties short of
-death be put to the public works of the country for a time proportionate to their crime.'2 Public works meant two things: the collective interest in the punishment of the condemend man and the
+death be put to the public works of the country for a time proportionate to their crime.'2 Public works meant two things: the collective interest in the punishment of the condemned man and the
 visible, verifiable character of the punishment. Thus the convict
 pays twice; by the labour he provides and by the signs that he
 produces. At the heart of society, on the public squares or highways,
@@ -4197,7 +4197,7 @@ the benefits of the law are applied to crime - a living lesson in the
 museum of order.
 
 6. This will make possible in society an inversion of the traditional discourse of crime. How can one extinguish the dubious glory
-of the criminal? This was a matter of grave concern to the lawmakers of the eight�enth century. How can one silence the adventures of the great criminals celebrated in the almanacs, broadsheets
+of the criminal? This was a matter of grave concern to the lawmakers of the eight�eighteenth century. How can one silence the adventures of the great criminals celebrated in the almanacs, broadsheets
 and popular tales? If the recoding of punishment is well done, if the
 ceremony of mourning takes place as it should, the crime can no
 longer appear as anything but a misfortune and the criminal as an
@@ -4321,7 +4321,7 @@ convict-ship is an open-air prison. Detention, reclusion, imprisonment for a min
 one and the same punishment' (Remusat, 185). And the Empire
 decided at once to translate this imprisonment, envisaged by the
 law, into reality, according to a whole penal, administrative, geographical hierarchy; at the lowest degree, associated with each
-justice of the peace, municipal maisons de police; in each arrondissement, maisons d' arret; in each departement, a matson de correction;
+justice of the peace, municipal maisons de police; in each arrondissement, maisons d' arret; in each département, a matson de correction;
 at the summit, several maisons centrales for convicted criminals or
 correctionels serving sentences of over one year; lastly, in a few ports,
 convict-ships. A great prison structure was planned, whose different
@@ -4376,7 +4376,7 @@ those with degraded souls. But the severe penalties actually
 I I6
 
 '
-forms of detention: the 'cackot', in which the
+forms of detention: the 'cacot', in which the
 proposed are three
 penalty of imprisonment is augmented by various measures (solitude,
 a deprivation oflight, restrictions on food); the' gene', in which these
@@ -4386,7 +4386,7 @@ promised, is reduced in the end to this grey, uniform penalty.
 Indeed, at the time, there were deputies who expressed surprise that,
 instead of establishing a natural relation between offences and
 penalties, a quite different plan had been adopted: 'So that if I have
-betrayed my country, I go to prison; iflhave killed my father, I go
+betrayed my country, I go to prison; if I have killed my father, I go
 to prison; every imaginable offence is punished in the same uniform
 way. One might as well see a physician who has the same remedy
 for all ills' (Chabroud, 618).
@@ -4404,7 +4404,7 @@ depend on the caprice of the legislator, but on the nature of the
 thing; it is not man who does violence to man, but the man's own
 action' (article 67). A few years later, Beccaria's general principle
 served as a foundation for the new Tuscan Code and for the new
-code given by Joseph II to Austria; and yet both legislations made
+code given by Joseph II to Austria; and yet both legislation made
 imprisonment - modulated according to its duration and augmented in certain cases by branding or the use of irons - an almost
 uniform penalty: at least thirty years' detention for an attempt on
 the sovereign's life, for counterfeiting and for murder with robbery;
@@ -4421,7 +4421,7 @@ vacant by the disappearance of public torture. In fact, imprisonment
 - and on this point many countries were in the same situation as
 France - had only a limited and marginal position in the system of
 penalties. This is shown by the texts themselves. The ordinance of
-1670 does not include detention among the peines a.fflictives, or
+1670 does not include detention among the peines a.afflictives, or
 serious penalties. Perpetual or temporary imprisonment was no
 doubt included among certain local customs and practices ( cf., for
 example, Coquille). But contemporary writers maintained that it was
@@ -4655,7 +4655,7 @@ in which the isolated prisoners would be put 'to the most servile
 labours, most compatible with the ignorance, negligence and
 obstinacy of the criminals': walking in a wheel to move a machine,
 
-fixing a winch, polishing marble, beating hemp, rasping Iogwood,
+fixing a winch, polishing marble, beating hemp, rasping Logwood,
 cutting up rags, rope-making and sewing sacks. In fact, only one
 penitentiary was built, at Gloucester, and it corresponded only
 
@@ -4745,7 +4745,7 @@ of society' (Turnbull, 27).
 But no doubt the most important thing was that this control and
 transformation of behaviour were accompanied - both as a condition
 and as a consequence - by the development of a knowledge of the
-individuals. When the new pl-isoner arrived, the Walnut Street
+individuals. When the new pl-prisoner arrived, the Walnut Street
 administration received a report concerning his crime, the circumstances in which it was committed, a summary of the examinations
 
 of the defendant, notes on his behaviour before and after sentence:
@@ -4980,7 +4980,7 @@ rhetoric of honour; 'The signs for recognizing those most suited to
 this profession are a lively, alert manner, an erect head, a taut
 stomach, broad shoulders, long arms, strong fingers, a small belly,
 thick thighs, slender legs and dry feet, because a man of such a
-figure could not fail to be agile and strong'; when he becomes a pikebearer, the soldier 'will have to march in step in order to have as
+figure could not fail to be agile and strong'; when he becomes a pike bearer, the soldier 'will have to march in step in order to have as
 much grace and gravity as possible, for the pike is an honourable
 weapon, worthy to be borne with gravity and boldness' (Montgommery, 6 and 7). By the late eighteenth century, the soldier has
 become something that can be made; out of a formless clay, an inapt
@@ -5160,7 +5160,7 @@ for the meaning that it conceals within it as for the hold it provides
 for the power that wishes to seize it. Characteristic is the great hymn
 to the 'little things' and to their eternal importance, sung by Jean­
 Baptiste de La Salle, in his Traite sur les obligations des freres des
-Ecoles ckritiennes. The mystique of the everyday is joined here with
+Ecoles écritiens. The mystique of the everyday is joined here with
 the discipline of the minute. 'How dangerous it is to neglect little
 things. It is a very consoling reflection for a soul like mine, little
 disposed to great actions, to think that fidelity to little things may,
@@ -5203,7 +5203,7 @@ world is the most important of all that I flatter myself I have dis­
 covered: when I think of it, my heart aches' (these words are
 
 attributed to Bonaparte in the Introduction to Saint-Hilaire's
-Notions syntMtiques et kistoriques de pkilosopkie naturelle). Napoleon
+Notions syntMtiques et historiques de philosophie naturelle). Napoleon
 did not discover this world; but we know that he set out to organize
 
 it; and he wished to arrange around him a mechanism of power that
@@ -5244,7 +5244,7 @@ after the departure of the Jesuits, it was turned into a model school
 (cf. Aries, J08-IJ and Snyders, 35-41). There were the military
 
 barracks: the army, that vagabond mass, has to be held in place;
-looting and violence must be prevented; the fears of local inhabi­
+looting and violence must be prevented; the fears of local inhabitants­
 
 tants, who do not care for troops passing through their towns,
 
@@ -5260,7 +5260,7 @@ an outer wall ten feet high, which will surround the said houses, at
 
 a distance of thirty feet from all the sides'; this will have the effect
 of maintaining the troops in 'order and discipline, so that an officer
-will be in a position to answer for them• (L'Ordon.nance militaire,
+will be in a position to answer for them• (Ordonnance.nance militaire,
 IXL, 2.5 September 1719). In 1745, there were barracks in about
 32.0 towns; and it was estimated that the total capacity of the barracks in 1775 was approximately zoo,ooo men (Daisy, 2.01--9; an
 anonymous memoir of 1775, in Depot de Ia guerre, 3689, f. 1 5 6;
@@ -5268,7 +5268,7 @@ Navereau, I Jl.-5)· Side by side with the spread of workshops, there
 also developed great manufacturing spaces, both homogeneous and
 well defined: first, the combined manufactories, then, in the second
 half of the eighteenth century, the works or factories proper (the
-Chaussade ironworks occupied almost the whole of the Medine
+Chaussade ironworks occupied almost the whole of the Médine
 
 peninsula, between Nievre and Loire; in order to set up the Indret
 factory in 1777, Wilkinson, by means of embankments and dikes,
@@ -5289,7 +5289,7 @@ rung'; a quarter of an hour later no one will be admitted; at the end
 
 of the day, the workshops' heads will hand back the keys to the Swiss
 guard of the factory, who will then open the gates (Amboise, f.
-n,IJoi). The aim is to derive the maximum advantages and to
+n,Joi). The aim is to derive the maximum advantages and to
 neutralize the inconveniences (thefts, interruptions of work, dis­
 
 turbances and 'cabals'), as the forces of production become more
@@ -5326,7 +5326,7 @@ image of death, the dormitory is the image of the sepulchre . . .
 although the dormitories are shared, the beds are nevertheless
 arranged in such a way and closed so exactly by means of curtains
 that the girls may rise and retire without being seen' (Reglement pour
-Ia communautl des filles Ju Bon Pasteur, in Delamare, 507). But this
+Ia communauté des filles Ju Bon Pasteur, in Delamare, 507). But this
 is still a very crude form.
 
 3· The rule of functional sites would gradually, in the disciplinary
@@ -5537,7 +5537,7 @@ power.
 
 The control of activity
 
-1 . The time-tahle is an old inheritance. The strict model was no
+1 . The time-table is an old inheritance. The strict model was no
 doubt suggested by the monastic communities. It soon spread. Its
 three great methods - establish rhythms, impose particular occupations, regulate the cycles of repetition - were soon to be found in
 schools, workshops and hospitals. The new disciplines had no difficulty in taking up their place in the old forms; the schools and poorhouses extended the life and the regularity of the monastic communities to which they were often attached. The rigours of the
@@ -5553,9 +5553,9 @@ in the workshops; the framework of the 'factory-monastery' was
 
 imposed upon the workers. In the Protestant armies of Maurice of
 Orange and Gustavus Adolphus, military discipline was achieved
-through a rhythmics of time punctuated by pious exercises; army
+through a rhythms of time punctuated by pious exercises; army
 life, Boussanelle was later to say, should have some of the 'perfections of the cloister itself' (Boussanelle, 2.; on the religious character
-of discipline in the Swedish army, cf. The Swedish Disci'pli'ne,
+of discipline in the Swedish army, cf. The Swedish Discipline'ne,
 London, 1632.). For centuries, the religious orders had been masters
 of discipline: they were the specialists of time, the great technicians
 of rhythm and regular activities. But the disciplines altered these
@@ -5568,7 +5568,7 @@ activities were governed in detail by orders that had to be obeyed
 immediately: 'At the last stroke of the hour, a pupil will ring the
 bell, and at the first sound of the bell all the pupils will kneel, with
 their arms crossed and their eyes lowered. When the prayer has been
-said, the teachet will strike the signal once to indicate that the pupils
+said, the teacher will strike the signal once to indicate that the pupils
 should get up, a second time as a sign that they should salute Christ,
 and a third that they should sit down' (La Salle, Conduite . . . , 2.7-8).
 In the early nineteenth century, the following time-table was suggested for the Ecoles mutuelles, or 'mutual improvement schools':
@@ -5601,7 +5601,7 @@ ways of controlling marching troops. In the early seventeenth
 century, we have: 'Accustomed soldiers marching in file or in
 battalion to march to the rhythm of the drum. And to do this, one
 must begin with the right foot so that the whole troop raises the
-same foot at the same time' (Montgommery, 86). In the mideighteenth century, there are four sorts of steps: 'The length of the
+same foot at the same time' (Montgommery, 86). In the mid-eighteenth century, there are four sorts of steps: 'The length of the
 the short step will be a foot, that of the ordinary step, the double
 step and the marching step will be two feet, the whole measured from
 one heel to the next; as for the duration, that of the small step and
@@ -5622,7 +5622,7 @@ another degree of precision in the breakdown of gestures and movements, another 
 What the ordinance of 1766 defines is not a time-table - the
 general framework for an activity; it is rather a collective and
 
-obligatory rhythm, imposed froll\ the outside; it is a 'programme';
+obligatory rhythm, imposed from\ the outside; it is a 'programme';
 it assures the elaboration of the act itself; it controls its development
 and its stages from the inside. We have passed from a form of
 injunction that measured or punctuated gestures to a web that constrains them or sustains them throughout their entire succession. A
@@ -5686,7 +5686,7 @@ place. This obligatory syntax is what the military theoreticians of
 the eighteenth century called 'manoeuvre'. The traditional recipe
 gives place to explicit and obligatory prescriptions. Over the whole
 surface of contact between the body and the object it handles, power
-is introduced, fastening them to one another. It constitutes a bodyweapon, body-tool, body-machine complex. One is as far as possible
+is introduced, fastening them to one another. It constitutes a body-weapon, body-tool, body-machine complex. One is as far as possible
 from those forms of subjection that demanded of the body only
 signs or products, forms of expression or the result of labour.
 The regulation imposed by power is at the same time the law of
@@ -5710,7 +5710,7 @@ moment, as if time, in its very fragmentation, were inexhaustible or
 as if, at least by an ever more detailed internal arrangement, one
 could tend towards an ideal point at which one maintained maximum
 speed and maximum efficiency. It was precisely this that was implemented in the celebrated regulations of the Prussian infantry that
-the whole of Europe imitated after the victories of F rederick II:4 the
+the whole of Europe imitated after the victories of F Frederick II:4 the
 more time is broken down, the more its subdivisions multiply,
 the better one disarticulates it by deploying its internal elements
 under a gaze that supervises them, the more one can accelerate an
@@ -5779,7 +5779,7 @@ organism. Disciplinary power has as its correlative an individuality
 that is not only analytical and 'cellular', but also natural and
 'organic'.
 
-The organiration of geneses
+The organisation of geneses
 
 In 1 667, the edict that set up the manufactory of the Gobelins
 envisaged the organization of a school. Sixty scholarship children
@@ -5875,7 +5875,7 @@ officer of the regiment, who will see him if he thinks it necessary,
 and will have him examined by the senior officers. The slightest
 mistakes will be enough to have him rejected, and no one will be
 able to pass from the second class to the first until he has undergone
-this first examination' (Instruction par !'exercise de l'infonterie, 14
+this first examination' (Instruction par !'exercise de infanterie, 14
 mai 1754). 4· Draw up series of series; lay down for each individual,
 according to his level, his seniority, his rank, the exercises that are
 suited to him; common exercises have a differing role and each
@@ -5921,7 +5921,7 @@ a fourth for those who are learning the double letters (ff, ss, tt, st).
 The second class would be divided into three streams: for those who
 'count each letter aloud before spelling the syllable, D.O., DO'; for
 those 'who spell the most difficult syllables, such as bant, brand,
-spinx', etc. (Demia, 19-2.0). Each stage in the combinatory of elements must be inscribed within a greattemporal series, which is both
+spinx', etc. (Demia, 19-2.0). Each stage in the combinatory of elements must be inscribed within a great temporal series, which is both
 a natural progress of the mind and a code for educative procedures.
 The 'seriation' of successive activities makes possible a whole
 investment of duration by power: the possibility of a detailed control and a regular intervention (of differentiation, correction,
@@ -6040,7 +6040,7 @@ greater value to the soldier's skill; more capable of reaching a particular targ
 target, requiring by the same token greater mobility; it involved
 therefore the disappearance of a technique of masses in favour of an
 art th.1t distributed units and men along extended, relatively flexible,
-mobile ilnes. Hence the need to find a whole calculated practice of
+mobile lines. Hence the need to find a whole calculated practice of
 individual and collective dispositions, movements of groups or
 isolated elements, changes of position, of movement from one disposition to another; in short, the need to invent a machinery whose
 principle would no longer be the mobile or immobile mass, but a
@@ -6053,7 +6053,7 @@ The same problems arose when it was a question of constituting
 a productive force whose effect had to be superior to the sum of
 elementary forces that composed it: 'The combined working-day
 produces, relatively to an equal sum of working-days, a greater
-quantity of use-values, and, consequently, diminishes the labourtime necessary for the production of a given useful effect. Whether
+quantity of use-values, and, consequently, diminishes the labour time necessary for the production of a given useful effect. Whether
 the combined working-day, in a given case, acquires this increased
 productive power, because it heightens the mechanical force of
 labour, or extends its sphere of action over a greater space, or contracts the field of production relatively to the scale of production,
@@ -6191,7 +6191,7 @@ system of signals to which one had to react immediately. Even
 verbal orders were to function as elements of signalization: 'Enter
 your benches. At the word enter, the children bring their right
 hands down on the table with a resounding thud and at the same
-time put one leg into the bench; at the words your henches they put
+time put one leg into the bench; at the words your benches they put
 the other leg in and sit down opposite their slates . . . Take your
 slates. At the word take, the children, with their right hands, take
 hold of the string by which the slate is suspended from the nail
@@ -6266,7 +6266,7 @@ means produce great effects; the strength of this state will spring
 from its own strength, its prosperity from its own prosperity. Time,
 which destroys all, will increase its power. It will disprove that
 vulgar prejudice by which we are made to imagine that empires are
-subjected to an imperious law of decline and ruin' (Guibert, xxiiixxiv; cf. what Marx says about the army and forms of bourgeois
+subjected to an imperious law of decline and ruin' (Guibert, xxiii-xxiv; cf. what Marx says about the army and forms of bourgeois
 society in his letter to Engels, 25 September 1 857). The Napoleonic
 regime was not far off and with it the form of state that was to
 survive it and, we must not forget, the foundations of which were
@@ -6279,11 +6279,11 @@ were seeking in the pact a primal model for the construction or
 reconstruction of the social body, the soldiers and with them the
 technicians of discipline were elaborating procedures for the individual and collective coercion of bodies.
 
-Medal commemorating Lou1s XIV's f1rst m1htary
-revue 1n 1 668 ( B . N . Cabmetdes meda1lles).
+Medal commemorating Lou1s XIV's f1rst m1military
+revue 1n 1 668 ( B . N . Cabinet des médailles1médailles).
 Ct. p. 1 88.
 
-2 H andwntmg model (Col lections h1stonques de
+2 H handwriting model (Col lections h1stonques de
 
 I ' I . N . R .D.P.). Cf. p. 1 52.
 
@@ -6291,41 +6291,41 @@ I ' I . N . R .D.P.). Cf. p. 1 52.
 
 voi. IV. 1 843. 1 72-3\. Cf. o. 201 .
 
-4 N Harou- Romam. Plan for a pen1tent1ary, 1 840 A pnsoner. 1n h 1 s cell. kneeling a t
+4 N Harou- Roman. Plan for a pen1tent1ary, 1 840 A prisoner. 1n h 1 s cell. kneeling a t
 
 prayer before the central 1 nspect1on tower. Ct. p 250.
 
 5 The Ma1son centrale at Rennes 1n 1 877. Cf. p. 250.
 
-Interior of the penite11t1ary at Statev1lle, U nited States, twentieth century. Ct. p. 250.
+Interior of the penitentiary11t1ary at Stateville1lle, U nited States, twentieth century. Ct. p. 250.
 
 7 Bedtime at the reformatory of Mettray. Ct. p. 294.
 
-8 Lecture on the evils of alcoholism 1n the aud1tonum of Fresnes pnson
+8 Lecture on the evils of alcoholism 1n the aud1auditorium of Fresnes pnson
 
-9 Steam mach me for the 'celenferous' correction of young boys and g1rls 'Fathers
+9 Steam mach me for the 'celestial' correction of young boys and g1rls 'Fathers
 
-and Mothers. Uncles and Aunts, Guard1an M asters and M istresses of boardmg
-schools and all those who have lazy. greedy, d1sobed1ent. rebellious msolent:
-quarrelsome, tale-beanng, chattenng. 1rrelig1ous c h i ldren. or chi ldren havmg any
-other defect, are hereby mformed that M r Bogeyman and Mrs Bncabrac have JUSt set
-up 10 every mame of the City of Pans a mach me Similar to the one represented 10 th1s
+and Mothers. Uncles and Aunts, Guard1an M asters and M istresses of boarding
+schools and all those who have lazy. greedy, d1disobedient1ent. rebellious insolent:
+quarrelsome, tale-tale-bearing, chattering. 1irreligious1ous c h i ldren. or chi ldren havmg any
+other defect, are hereby informed that M r Bogeyman and Mrs Bncabrac have JUSt set
+up 10 every name of the City of Pans a mach me Similar to the one represented 10 th1s
 engravmg and are ready to accept a l l naughty chi ldren 1 0 need of correction 1 n
-their establishments e a c h day. from m1dday t o two o'clock M r Werewolf, C o a l man
-Scarecrow, Eat-Without- H u nger and Mrs Wildcat. Sp1teful Slag and D n nk-wlthout­
-Thlrst. fnends and relat1ons of M r Bogeyman and Mrs Bncabrac. will, for a smal l sum,
-set up s1m1lar machmes to be sent mto prov1nc1al towns and Will themselves superv1se
-the1r operation The cheapness of correct1on g1ven by the steam machme and the
-surpnsmg effects that 1t produces will persuade parents to avai l themselves of 1 t as
-often as the bad behav1our of the1r c h ildren Will requne 1t We also take 1ncomg1ble
+their establishments e a c h day. from m1midday t o two o'clock M r Werewolf, C o a l man
+Scarecrow, Eat-Without- H u nger and Mrs Wildcat. Sp1teful Slag and D n nk-without­
+Thirst. friends and relations1ons of M r Bogeyman and Mrs Bncabrac. will, for a smal l sum,
+set up s1m1lar machines to be sent mto prov1nc1al towns and Will themselves supervise1se
+the1r operation The cheapness of correct1on g1ven by the steam machine and the
+surprising effects that 1t produces will persuade parents to avail l themselves of 1 t as
+often as the bad behav1our of the1r c h ildren Will require 1t We also take 1incomparable1ble
 c h i ldren as boarders . they are fed on bread and water · Engravmg of the late
 e1ghteenth century (Collections h1stonques d e I ' I . N R . D P . ) .
 
-1 0 N Andry, L' orthopedte au /'art de prevemr et de comger dans
+1 0 N Andry, L' orthopédiste au /'art de prévenir et de corriger dans
 
-les enfants les dtfformttes du corps (Orthopaedics or the art
-of preventmg and correctmg deform 1t1es of the body m
-chlldren ) . 1 749.
+les enfants les déformations du corps (Orthopaedics or the art
+of preventing and correcting deform 1t1es of the body m
+enfants ) . 1 749.
 
 2. The means of correct training
 
@@ -6443,14 +6443,14 @@ throughout the night; and Paris had insisted that 'a window be
 placed on the corridor wall of each room from chest-level to within
 one or two feet of the ceiling. Not only is it pleasant to have such
 windows, but one would venture to say that it is useful, in several
-respects, not to mention the disciplinary reasons that may determine this arrangement' (quoted in Laulan, 117-18). In the diningrooms was 'a slightly raised platform for the tables of the inspectors
+respects, not to mention the disciplinary reasons that may determine this arrangement' (quoted in Laulan, 117-18). In the dining rooms was 'a slightly raised platform for the tables of the inspectors
 of studies, so that they may see all the tables of the pupils of their
 divisions during meals'; latrines had been installed with half-doors,
 so that the supervisor on duty could see the head and legs of the
 pupils, and also with side walls sufficiently high 'that those inside
 cannot see one another'. 2 This infinitely scrupulous concern with
 surveillance is expressed in the architecture by innumerable petty
-mechanisms. These mechanis�s can only be seen as unimportant
+mechanisms. These mécanismes�s can only be seen as unimportant
 if one forgets the role of this instrumentation, minor but flawless,
 in the progressive objectification and the ever more subtle partitioning of individual behaviour. The disciplinary institutions secreted
 a machinery of control that functioned like a microscope of conduct;
@@ -6467,7 +6467,7 @@ both the source of light illuminating everything, and a locus of
 convergence for everything that must be known: a perfect eye that
 nothing would escape and a centre towards which all gazes would be
 turned. This is what Ledoux had imagined when he built Arc-et­
-Senans; all the buildings were to be arranged in a circle, opening on
+Sénans; all the buildings were to be arranged in a circle, opening on
 the inside, at the centre of which a high construction was to house
 the administrative functions of management, the policing functions
 of surveillance, the economic functions of control and checking, the
@@ -6522,7 +6522,7 @@ scale of a factory, a great iron-works or a mine, 'the objects of
 expenditure are so multiplied, that the slightest dishonesty on each
 object would add up to an immense fraud, which would not only
 absorb the profits, but would lead to a loss of capital . . . the slightest
-incompetence, ifleft unnoticed and therefore repeated each day, may
+incompetence, if left unnoticed and therefore repeated each day, may
 prove fatal to the enterprise to the extent of destroying it in a very
 short time'; hence the fact that only agents, directly dependent on
 the owner, and entrusted with this task alone would be able to see
@@ -6555,7 +6555,7 @@ I75
 reading spiritual texts on feast days, etc.); the second involved surveillance: the 'observers must record who left his bench, who was
 talking, who did not have his rosary, or Book of Hours, who did not
 comport himself properly at mass, who committed an impure act,
-who indulged in idle talk or was unruly in the street'; the 'admonitors' were placed in charge of those 'who talk or hum when studying
+who indulged in idle talk or was unruly in the street'; the 'admoniteurs' were placed in charge of those 'who talk or hum when studying
 their lessons and those who will not write and who waste their time
 in play'; the 'visitors' called on the families of pupils who had been
 absent or who had committed serious offences. The 'intendants'
@@ -6569,7 +6569,7 @@ at the same time 'marked down trouble-makers'; another assistant
 teacher had the same tasks in the reading class; the intendant who
 supervised the other officers and was in charge of behaviour in
 general also had the task of 'initiating newcomers into the customs
-of the school'; the decurions got the pupils to recite their lessons and
+of the school'; the décurions got the pupils to recite their lessons and
 'marked down' those who did not know them. 3 We have here a
 sketch of an institution of the 'mutual' type in which three procedures are integrated into a single mechanism: teaching proper, the
 acquisition of knowledge by the very practice of the pedagogical
@@ -6651,7 +6651,7 @@ function to the apparently indifferent elements of the disciplinary
 apparatus: so that, if necessary, everything might serve to punish
 the slightest thing; each subject find himself caught in a punishable,
 punishing universality. 'By the word punishment, one must understand everything that is capable of making children feel the offence
-they have committed, everything that is capable ofhumiliating them,
+they have committed, everything that is capable of humiliating them,
 of confusing them: . . . a certain coldness, a certain indifference, a
 question, a humiliation, a removal from office' (La Salle, Conduite
 . . . , 204-5 )·
@@ -6726,7 +6726,7 @@ Moreover,' it is possible to quantify this field and work out an
 arithmetical economy based on it. A penal accountancy, constantly
 brought up to date, makes it possible to obtain the punitive balancesheet of each individual. School 'justice', rudiments of which are to
 be found in the army and the workshops, carried this system very
-far. The Brothers of the Christian Schools organized a whole microeconomy of privileges and impositions: 'Privileges may be used by
+far. The Brothers of the Christian Schools organized a whole microéconomie of privileges and impositions: 'Privileges may be used by
 pupils to gain exemption from penances which have been imposed
 on them . . . For example, a pupil may have been given four or six
 catechism questions to copy out as an imposition; he will be able to
@@ -6773,7 +6773,7 @@ treated as 'purely military troops'; they therefore had a right to
 military punishment (arrests and, in serious cases, imprisonment).
 The second class, 'the good', wore an epaulette of red silk and silver;
 they could be arrested and condemned to prison, but also to the cage
-and to kneeling. The class of' mldiocres', had the right to an epaulette
+and to kneeling. The class of' médiocres', had the right to an epaulette
 of red wool; to the preceding penalties was added, if necessary, the
 wearing of sackcloth. The last class, that of the 'bad', was marked by
 
@@ -6921,14 +6921,14 @@ became an ever more important part of the functioning of the
 hospital. In 1661, the physician of the Hotei-Dieu of Paris was
 called upon to make a daily visit; in 1687, an 'expectant' physician
 was to examine, in the afternoon, certain seriously sick patients.
-The eighteenth-century regulations iaid down the hours of the visit
+The eighteenth-century regulations laid down the hours of the visit
 and its duration (at least two hours); they insisted on a rotation of
 physicians, which would guarantee visits every day 'even on Easter
 Sunday'; at last, in 1771, a resident physician was appointed, charged
 with 'providing all the services of his state, at night as well as in the
 
 day, in the intervals between visits by an outside physician' (Registre
-des deliherati'ons du hureau de l' Hotel-Dieu). The old form of inspection, irregular and rapid, was transformed into a regular observation
+des délibérations du hureau de l' Hotel-Dieu). The old form of inspection, irregular and rapid, was transformed into a regular observation
 that placed the patient in a situation of almost perpetual examination. This had two consequences: in the internal hierarchy, the
 physician, hitherto an external element, begins to gain over the
 religious staff and to relegate them to a clearly specified, but subordinate role in the technique of the examination; the category of the
@@ -7039,7 +7039,7 @@ frozen into a uniformly repeated attitude of ranks and lines: a
 tactical unity. The order of the architecture, which frees at its summit the figures of the dance, imposes its rules and its geometry on the
 disciplined men on the ground. The columns of power. 'Very good',
 Grand Duke Mikhail once remarked of a regiment, after having
-kept it for one hour presenting arms, 'only they hreathe' (Kropotkin,
+kept it for one hour presenting arms, 'only they breathe' (Kropotkin,
 8; I owe this reference to G. Canguilhem).
 
 1 88
@@ -7091,7 +7091,7 @@ correlation of these elements, the accumulation of documents, their
 seriation, the organization of comparative fields making it possible
 to classify, to form categories, to determine averages, to fix norms.
 The hospitals of the eighteenth century, in particular, were great
-laboratories for scriptuary and documentary methods. The keeping
+laboratories for scriptural and documentary methods. The keeping
 of registers, their specification, the modes of transcription from one
 to the other, their circulation during visits, their comparison,during
 regular meetings of doctors and administrators, the transmission of
@@ -7258,7 +7258,7 @@ The adventure of our childhood no longer finds expression in 'le
 1 93
 
 hon petit Henri', but in the misfortunes of 'little Hans'. The Romance
-of the Rose is written today by Mary Barnes; in the place oflancelot,
+of the Rose is written today by Mary Barnes; in the place Lancelot,
 we have Judge Schreber.
 
 It is often said that the model of a society that has individuals
@@ -7730,7 +7730,7 @@ power relations function in a function, and of making a function
 function through these power relations. Bentham's Preface to
 Panopticon opens with a list of the benefits to be obtained from his
 'inspection-house': 'Morals reformed - health preserved - industry
-invigorated- instruction diffused-public hurthens lightened- Economy
+invigorated- instruction diffused-public burthens lightened- Economy
 seated, as it were, upon a rock - the gordian knot of the Poor-Laws
 not cut, but untied - all by a simple idea in architecture !' (Bentham,
 39)·
@@ -7744,7 +7744,7 @@ as a penitentiary, may without difficulty be subjected to such irregular and con
 right to come and see with his own eyes how the schools, hospitals,
 factories, prisons function. There is no risk, therefore, that the
 increase of power created by the.panoptic machine may degenerate
-into tyranny; the disciplinary mechanism wtll be democratically
+into tyranny; the disciplinary mechanism will be democratically
 controlled, since it will be constantly accessible 'to the great tribunal
 committee of the world'. 4 This Panopticon, subtly arranged so that
 an observer may observe, at a glance, so many different individuals,
@@ -7755,7 +7755,7 @@ exercise of power may be supervised by society as a whole.
 
 The panoptic schema, without disappearing as such or losing any
 of its properties, was destined to spread throughout the social body;
-its vocation was to become a generalized function. The plaguestricken town provided an exceptional disciplinary model: perfect,
+its vocation was to become a generalized function. The plague-stricken town provided an exceptional disciplinary model: perfect,
 but absolutely violent; to the disease that brought death, power
 opposed its perpetual threat of death; life inside it was reduced to
 its simplest expression; it was, against the power of death, the meticulous exercise of the right of the sword. The Panopticon, on the
@@ -7813,7 +7813,7 @@ and temporary scale of a plague-stricken town, Bentham dreamt of
 
 transforming into a network of mechanisms that would be every­
 
-where and always alert, running through society without interrup­
+where and always alert, running through society without interruption­
 
 tion in space or in time. The panoptic arrangement provides the
 
@@ -7917,7 +7917,7 @@ Hence, too, the double tendency one sees developing throughout
 the eighteenth century to increase the number of disciplinary institutions and to discipline the existing apparatuses.
 
 2.. The swarming of disciplinary mechanisms. While, on the one
-hand, the disciplinary establishments increase, their mec;:hanisms
+hand, the disciplinary establishments increase, their mec;:mechanisms
 have a certain tendency to become 'de-institutionalized', to emerge
 from the closed fortresses in which they once functioned and to
 circulate in a 'free' state; the massive, compact disciplines are broken
@@ -8032,7 +8032,7 @@ And, in order to be exercised, this power had to be given the
 
 instrument of permanent, exhaustive, omnipresent surveillance,
 
-capable of making all visible, as long as it could itself remain invisi­
+capable of making all visible, as long as it could itself remain invisible­
 
 ble. It had to be like a faceless gaze that transformed the whole
 social body into a field of perception: thousands of eyes posted
@@ -8206,7 +8206,7 @@ its low exteriorization, its relative invisibility, the little resistance it
 arouses); secondly, to bring the effects of this social power to their
 maximum intensity and to extend them as far as possible, without
 either failure or interval; thirdly, to link this 'economic' growth of
-power with the output of the apparatuses (ed)lcational, military,
+power with the output of the apparatuses (ed)educational, military,
 industrial or medical) within which it is exercised; in short, to
 increase both the docility and the utility of all the elements of the
 system. This triple objective of the disciplines corresponds to a
@@ -8239,7 +8239,7 @@ the Treasury; because the system of corrupt offices and farmed-out
 taxes weighed indirectly, but very heavily, on the population;
 because the resistance it encountered forced it into a cycle of perpetual reinforcement; because it proceeded essentially by levying
 (levying on money or products by royal, seigniorial, ecclesiastical
-taxation; levying on men or time by corvees of press-ganging, by
+taxation; levying on men or time by corvées of press-ganging, by
 locking up or banishing vagabonds). The development of the disciplines marks the appearance of elementary techniques belonging to
 a quite different economy: mechanisms of power which, instead of
 proceeding by deduction, are integrated into the productive efficiency of the apparatuses from within, into the growth of this
@@ -8354,7 +8354,7 @@ by the organization of a parliamentary, representative regime. But
 the development and generalization of disciplinary mechanisms
 constituted the other, dark side of these processes. The general
 juridical form that guaranteed a system of rights that were egalitarian in principle was supported by these tiny, everyday, physical
-mechanisms, by all those systems of micre-power that are essentially
+mechanisms, by all those systems of micro-power that are essentially
 non-egalitarian and asymmetrical that we call the disciplines. And
 although, in a formal way' the representative regime makes it possible, directly or indirectly, with or without relays, for the will of
 all to form the fundamental authority of sovereignty, the disciplines
@@ -8384,7 +8384,7 @@ imposed, the mechanisms it brings into play, the non-reversible
 2.2.2.
 
 subordination of one group of people by another, the 'surplus'
-power that is always fixed on the same side, the inequality of position of the different 'parmers' in relation to the common regulation,
+power that is always fixed on the same side, the inequality of position of the different 'partners' in relation to the common regulation,
 all these distinguish the disciplinary link from the contractual link,
 and make it possible to distort the contractual link systematically
 from the moment it has as its content a mechanism of discipline.
@@ -8455,7 +8455,7 @@ and accumulation of new forms of knowledge.
 
 The extension of the disciplinary methods is inscribed in a broad
 historical process: the development at about the same time of many
-other technologies - agronomical, industrial, economic. But it must
+other technologies - agronomic, industrial, economic. But it must
 be recognized that, compared with the mining industries, the
 emerging chemical industries or methods of national accountancy,
 compared with the blast furnaces or the steam engine, panopticism
@@ -8589,7 +8589,7 @@ system. It had already been constituted outside the legal apparatus
 when, throughout the social body, procedures were being elaborated
 for distributing individuals, fixing them in space, classifying them,
 extracting from them the maximum in time and forces, training their
-bodies, coding thdr continuous behaviour, maintaining them in
+bodies, coding their continuous behaviour, maintaining them in
 perfect visibility, forming around them an apparatus of observation,
 registration and recording, constituting on them a body of knowledge that is accumulated and centralized. The general form of an
 apparatus intended to render individuals docile and useful, by means
@@ -8601,7 +8601,7 @@ opening up of penality to mechanisms of coercion already elaborated
 elsewhere. The 'models' of penal detention - Ghent, Gloucester,
 Walnut Street - marked the first visible points of this transition,
 rather than innovations or points of departure. The prison, an
-essential element in the punitive panopoly, certainly marks an important moment in the history of penal justice: its access to 'humanity'.
+essential element in the punitive panoply, certainly marks an important moment in the history of penal justice: its access to 'humanity'.
 But it is also an important moment in the history of those disciplinary mechanisms that the new class power was developing: that
 in which they colonized the legal institution. At the turn of the
 century, a new legislation defined the power to punish as a general
@@ -8750,13 +8750,13 @@ the machine-prison:3 programmes for the treatment of the prisoners,
 models for material improvement, some of these, like those of
 Danjou and Harou-Romain, remaining no more than projects,
 others becoming embodied in instructions (like the circular of 9
-August I 84 I on the building of mai'sons d' arret), others becoming
+August I 84 I on the building of maisons d' arret), others becoming
 actual buildings, such as the Petite Roquette in which cellular
 imprisonment was organized for the first time in F ranee.
 
 To these should be added the publications that sprang more or
 less directly from the prison and were drawn up either by philanthropists like Appert, or a little later by 'specialists' (such as the
-Annales de Ia Chariti)4 or, again, by former prisoners; Pauvre
+Annales de Ia Charité)4 or, again, by former prisoners; Pauvre
 Jacques at the end of the Restoration, or the Ga:rette de Sainte­
 Pelagie at the beginning of the July monarchy. 5
 
@@ -8876,7 +8876,7 @@ like wild beasts in their cages', they must be brought together,
 good habits, preventing moral contagion by active surveillance,
 maintaining reflection by the rule of silence'; this rule accustoms the
 convict 'to regard the law as a sacred precept whose violation brings
-just and legitimate harm' (Mittermaier, in Revue frant;aise et ltrangere
+just and legitimate harm' (Mittermaier, in Revue française;aise et étrangère
 c/e legislation, 1 836). Thus this operation of isolation, assembly
 without communication and law guaranteed by uninterrupted
 supervision, must rehabilitate the criminal as a social individual: it
@@ -8965,7 +8965,7 @@ early 1 84os: it was a period of economic crisis, a period of workers'
 agitation and a period, too, in which the opposition between the
 worker and the delinquent was beginning to crystallize (cf. below,
 
-Complete and austere in::;titutions
+Complete and austere in::;institutions
 
 .2.8;). There were strikes against the prison workshops: when a .
 Chaumont glove-maker succeeded in organizing a workshop at
@@ -8992,7 +8992,7 @@ someone would exclaim, who scarcely has a word for the gilders.
 But what can you expect? One has to have killed or robbed to
 arouse compassion or interest.' On the theme above all that, if the
 prison was tending to become a workshop, it would not be long
-before beggars and the unemployed were sent there, thus reconstituting the old hOpitaux generaux of France or the workhouses of
+before beggars and the unemployed were sent there, thus reconstituting the old hôpitaux generaux of France or the workhouses of
 England. In addition, there were petitions and letters, especially
 after the law of 1 844 - one petition, rejected by the Chambre de
 Paris, 'found inhuman that one should propose to apply murderers
@@ -9040,7 +9040,7 @@ England the 'treadmill' and the pump provided a disciplinary
 mechanization of the inmates, with no end product). The making
 of machine-men, but also of proletarians; in effect, when one has
 
-only a 'pair of arms for any good work', one citn live only 'from
+only a 'pair of arms for any good work', one can live only 'from
 the product of one's labour, through the practice of a profession or
 from the product of the labour of others, by thieving'; but, although
 the prison did not force offenders to work, it seems to have reintroduced into its very institution and, obliquely, by means of taxation,
@@ -9104,7 +9104,7 @@ possible to quantify the penalties exactly, to graduate them according to circum
 explicit form of wages; but it also runs the risk of having no corrective value, if it is fixed once and for all in the sentence, The length
 of the penalty must not be a measurement of the 'exchange value'
 of the offence; it must be adjusted to the 'useful' transformation of
-the inmate during his term of imprisonment. It is not a timemeasure, but a time finalized. The form of the operation, rather
+the inmate during his term of imprisonment. It is not a time-measure, but a time finalized. The form of the operation, rather
 than the form of the wages. 'Just as the prudent physician ends his
 medication or continues it according to whether the patient has
 or has not arrived at a perfect cure, so, in the first of these two
@@ -9386,7 +9386,7 @@ knowledge and a technique for correcting individual lives. The
 observation of the delinquent 'should go back not only to the
 circumstances, but also to the causes of his crime; they must be
 sought in the story of his life, from the triple point of view of
-psychology, social position and upbringing, in order to discoverthe
+psychology, social position and upbringing, in order to discover the
 dangerous proclivities of the first, the harmful predispositions of the
 second and the bad antecedents of the third. This biographical
 investigation is an essential part of the preliminary investigation for
@@ -9558,7 +9558,7 @@ the prison this recognition.
 Illegalities and delinquency
 
 From the point of view of the law, detention may be a mere deprivation of liberty. But the imprisonment that performs this function
-has always involved a technical project. The transition frdm the
+has always involved a technical project. The transition from the
 public execution, with its spectacular rituals, its art mingled with the
 ceremony of pain, to the penalties of prisons buried in architectural
 masses and guarded by the secrecy of administrations, is not a
@@ -9583,7 +9583,7 @@ ritual: the fixing of iron collars and chains in the courtyard of
 Bicetre prison. The convict's neck was thrown back upon a block;
 but this time the art of the executioner was to strike without crushing the head - an inverted skill that knew how not to deliver the
 death blow. 'The courtyard of Bicetre displays its instruments of
-torture: several rows of chains with their iron-collars. The artoupans
+torture: several rows of chains with their iron-collars. The artoupa
 (head-warders), who serve as temporary blacksmiths, arrange the
 
 block and hammer. Around the bars of the wall walk are stuck all
@@ -9591,7 +9591,7 @@ those heads, wearing a gloomy or bold expression, which the operator is to rivet
 and arms dangling through the bars of the cells, as at some bazaar
 of human flesh; these are the prisoners who have come to assist at
 the toilet of their comrades of the day before . . . Here they are in
-the attitude of sacrifice. They are stitting on the ground, coupled at
+the attitude of sacrifice. They are sitting on the ground, coupled at
 random by the waist; the chains they must carry, each weighing
 eight pounds, rest heavily on their knees. The operator inspects
 them, measuring heads and adapting the enormous inch-thick
@@ -9633,7 +9633,7 @@ moment the police inspectors spread out along the route and followed the convict
 their wooden bowls at the heads of the police, some of whom were
 struck. At that moment, the crowd reacted strongly. They started to
 fight amongst themselves' (Ga1_ette des trihunaux, 20 July 1 836).
-Between Bicetre and Sevres a considerab le number of houses were
+Between Bicetre and Sevres a considerable le number of houses were
 looted as the chain-gang passed by (La Phalange, 1 August 1 836).
 In this festival of the departing convicts, there was something of
 the rites of the scapegoat that is struck as it is chased away, something of the festival of fools, in which the reversal of roles is practised, something of the old ceremonies of the scaffold, in which the
@@ -9784,7 +9784,7 @@ reasons that brought about, in the eighteenth century, the abolition
 of the public executions: 'It is no part of our morality to treat men
 in this way; one must avoid providing in the towns that the convoy
 passes through so hideous a spectacle, which, in any case, teaches
-the population nothing' (Ga{ette des trihuneaux, 19 July 1 836). It
+the population nothing' (Ga{ette des tribunaux, 19 July 1 836). It
 was necessary, therefore, to break with these public rites; to subject
 the movements of convicts to the same mutation as the punishments
 themselves; and to bring them, too, under the veil of administrative
@@ -9801,7 +9801,7 @@ with wool and linked together by chains eighteen inches long; the
 legs were secured in metal knee-guards. The convict sat on a kind
 of 'zinc and oak funnel that emptied onto the public way'. The cell
 had no window onto the outside; it was completely lined with sheet
-iron; only a ventilator, also of sheet-iron, with holes pierc�d in it,
+iron; only a ventilator, also of sheet-iron, with holes pierced�d in it,
 allowed a 'suitable flow of air'. On the corridor side, the door of
 each cell was provided with a hatch, divided into two compartments:
 one for food, the other, covered by a grill, for surveillance. 'The
@@ -9837,7 +9837,7 @@ sight of those cynical and joyous travellers' ( Gar.ette des trihunaux,
 only a few days (during. which the inmates had not been detached
 for a single moment), it functioned as an apparatus of correction.
 One emerged from it astonishingly calm: 'From a moral point of
-view, this tran.>portation, which lasts no more than seventy-two
+view, this tran.>transportation, which lasts no more than seventy-two
 hours, is a terrible torture whose effects on the prisoner seem to be
 lasting.' The convicts themselves support this view: 'In the cell
 carriage, when you don't sleep, you can only think. And when I
@@ -9877,7 +9877,7 @@ hostility to society. The means of repression at one's ,disposal are;
 the scaffold, the iron-collar, three convict-ships, 19 maisons centrales,
 86 maisons de justice, 362 maisons d' arret, 2,8oo cantonal prisons,
 2,238 cells in police stations. Despite all these, vice goes unchecked.
-The number of crimes is not diminishing . . . the number of recidivists is increasing, rather than declining' (La Fraternitl, no. 10,
+The number of crimes is not diminishing . . . the number of recidivists is increasing, rather than declining' (La Fraternité, no. 10,
 February 1 842 ).
 
 - Detention causes recidivism; those leaving prison have more
@@ -10048,7 +10048,7 @@ of the penalty, but as a mitigation, of which it is no longer possible
 to deprive the prh;oner'. It must enable him to learn or to practise a
 trade, and to provide the prisoner and his family with a source of
 income (Ducpetiaux, 1 857). 1945: 'Every common-law prisoner is
-obliged to work . . . No prisoner may be forced to remain unoccupied.' The principle of work as ohligation and right.
+obliged to work . . . No prisoner may be forced to remain unoccupied.' The principle of work as obligation and right.
 
 5· The education of the prisoner is for the authorities both an
 indispensable precaution in the interests of society and an obligation
@@ -10091,7 +10091,7 @@ system comprising: the additional, disciplinary element of the prison
 - the element of 'super-power'; the production of an objectivity, a
 technique, a penitentiary 'rationality' - the element of auxiliary
 knowledge; the de facto reintroduction, if not actual increase, of a
-criminality that the prison ought to destroy - the element of inverted efficiency; lastly, the repetition of a 'reform' that is isomorphic, despite its 'idealism', with the discipliAary functioning of the
+criminality that the prison ought to destroy - the element of inverted efficiency; lastly, the repetition of a 'reform' that is isomorphic, despite its 'idealism', with the disciplinary functioning of the
 prison - the element of utopian duplication. It is this complex
 ensemble that constitutes the 'carceral system', not only the institution of the prison, with its walls, its staff, its regulations and its
 violence. The carceral system combines in a single figure discourses
@@ -10100,7 +10100,7 @@ real social effects and invincible utopias, programmes for correcting
 delinquents and mechanisms that reinforce delinquency. Is not the
 supposed failure part of the functioning of the prison? Is it not to
 be included among those effects of power that discipline and the
-auxiliary techQology of imprisonment have induced in the apparatus
+auxiliary technology of imprisonment have induced in the apparatus
 of justice, and in society in general, and which may be grouped
 together under the name of 'carceral system'? If the prison-institution has survived for so long, with such immobility, if the principle
 of penal detention has never seriously been questioned, it is no
@@ -10250,7 +10250,7 @@ century a massive movement of illegality that was both political and
 social. But, in their emerging form and despite their dispersal, they
 were sufficiently marked to serve as a support for the 'great fear'
 of a people who were believed to be criminal and seditious as a
-whole, for the myth of a barbaric, immorat ·and outlaw class which,
+whole, for the myth of a barbaric, immoral ·and outlaw class which,
 from the empire to the July monarchy, haunted the discourse of
 legislators, philanthropists and investigators into working-class life.
 It is these processes that are to be found behind a whole series of
@@ -10303,7 +10303,7 @@ one particular form of illegality in the midst of others, which it is
 able to isolate, to place in full light and to organize as a relatively
 enclosed, but penetrable, milieu. It helps to establish an open illegal-
 
-ity, irreducible at a certain level and secretly useful, at once refrac­
+ity, irreducible at a certain level and secretly useful, at once refractory­
 
 tory and docile; it isolates, outlines, brings out a form of illegality
 that seems to sum up symbolically all the others, but which makes it
@@ -10468,7 +10468,7 @@ would not have been possible without the development of police
 supervision. General surveillance of the population, 'silent, mysterious, unperceived vigilance . . . it is the eye of the government ceaselessly open and watching without distinction over all citizens, yet
 without subjecting them to any measure of coercion whatever • . . It
 does not need to be written into the law' (Bonneville, 1 847, 397-9).
-Surveillance of individuals, envisaged by the code of 1 810, of exconvicts and of all those who, having appeared before the courts on
+Surveillance of individuals, envisaged by the code of 1 810, of ex-convicts and of all those who, having appeared before the courts on
 serious charges, were legally presumed to represent a new threat to
 the peace of society. But surveillance, too, of milieux and groups
 
@@ -10538,7 +10538,7 @@ of the dominant class.
 Two figures stand out as representative of this process, which
 developed in the first thirty or forty years of the nineteenth century.
 First, there was Vidocq (cf. his Memoires and Histoire de Vidocq
-racontee par lui-meme). He was a man of the old illegalities, a Gil
+racontée par lui-meme). He was a man of the old illegalities, a Gil
 
 Bias of the other end of the century, who soon took a turn for the
 worse: disturbances, adventures, swindlings, of which he was
@@ -10582,7 +10582,7 @@ of friendships made in prison, mutual blackmail, recidivism, up to
 the last, failed attempt at murder - Lacenaire is the typical 'delinquent'. But he brought with him, at least potentially, a horizon of
 illegalities that had, until quite recently, represented a threat: this
 ruined petty bourgeois, of good education, would, a generation
-earlier, have been a revolutionary, a J acobin, a regicide;19 had he been
+earlier, have been a revolutionary, a J Jacobin, a regicide;19 had he been
 a contemporary of Robespierre, his rejection of the law would have
 taken a directly political form. Born in 1 800, at more or less the
 same time as Stendhal's Julien Sorel, his character bears the trace
@@ -10613,7 +10613,7 @@ petty criminality leading to political violence. Nor should we forget
 that it took place a few months before the departure of the last
 
 chain-gang and the scandalous demonstrations that accompanied it.
-These two festivals overlapped in history; and, indeed, F ranc;ois,
+These two festivals overlapped in history; and, indeed, F François;ois,
 
 Lacenaire's accomplice, was one of the best-known characters in the
 chain-gang of 19 July. 20 The one extended the ancient rituals of the
@@ -10629,7 +10629,7 @@ economic illegalities actually practised by the bourgeoisie were to
 be duplicated in theoretical and aesthetic representation: the 'Meta­
 
 physics of crime', a term often associated with Lacenaire. The French
-translation of De Quincey's Murder Considered as One of the Fine
+translation of De De Quincey Murder Considered as One of the Fine
 Arts was published in 1 849.
 
 This production of delinquency and its investment by the penal
@@ -10771,7 +10771,7 @@ carefully traces around delinquency, the tactic of what might be
 called the 'counter-fait divers' is characteristic. What the workers'
 newspapers do is to reverse the use that was made of crimes or trials
 in the newspapers which, like the Ga'{_ette des trihunaux, 'gorge
-themselves with blood', 'feed on prison' and provide a daily 'repertoire of melodrama' (Pauvre Jacques, Ist year, no. 3). The counterfait divers systematically stresses the facts of delinquency in the
+themselves with blood', 'feed on prison' and provide a daily 'repertoire of melodrama' (Pauvre Jacques, Ist year, no. 3). The contrefait divers systematically stresses the facts of delinquency in the
 bourgeoisie, showing that it is the class affected by 'physical degeneration' and 'moral decay'; for the accounts of crimes committed
 by ordinary people it substitutes descriptions of the misery into
 which their exploiters plunge them and who, literally, starve and
@@ -10783,7 +10783,7 @@ reverse this monotonous discourse on crime, which sought both to
 isolate it as a monstrosity and to depict it as the work of the poorest
 class.
 
-In the course of this anti-penal polemic, the F ourierists no doubt
+In the course of this anti-penal polemic, the F Fourierists no doubt
 went further than any of the others. They were perhaps the first to
 elaborate a political t�eory which, at the same time, places a positive
 value on crime. Although, in their view, crime is a result of 'civilization', it is also, and by that very fact, a weapon against it. It bears
@@ -10961,7 +10961,7 @@ is to punish the most minor offences very severely: at Mettray, a useless word i
 confinement to one's cell; for 'isolation is the best means of acting on
 the moral nature of children; it is there above all that the voice of
 religion, even if it has never spoken to their hearts, recovers all its
-emotional power' - Ducpetiaux, 1852, 377); the entire parapenal
+emotional power' - Ducpetiaux, 1852, 377); the entire parapénal
 institution, which is created in order not to be a prison, culminates
 in the cell, on the walls of which are written in black letters: 'God
 sees you.'
@@ -11040,7 +11040,7 @@ history of the sciences. But the supervision of normality was firmly
 encased in a medicine or a psychiatry that provided it with a sort
 of 'scientificity'; it was supported by a judicial apparatus which,
 directly or indirectly, gave it legal justification. Thus, in the shelter
-of these two considt"rable protectors, and, indeed, acting as a link
+of these two considérable"rable protectors, and, indeed, acting as a link
 between them, or a place of exchange, a carefully worked out
 technique for the supervision of norms has continued to develop
 right up to the present day. The specific, institutional supports of
@@ -11049,7 +11049,7 @@ school at Mettray; their apparatuses have increased in quantity and
 scope; their auxiliary services have increased, with hospitals, schools,
 public administrations and private enterprises; their agents have
 proliferated in number, in power, in technical qualification; the
-technicians of indiscipline have founded a family. In the normalization of the power of normalization, in the arrangement of a powerknowledge over individuals, Mettray and its school marked a new
+technicians of indiscipline have founded a family. In the normalization of the power of normalization, in the arrangement of a power-knowledge over individuals, Mettray and its school marked a new
 era.
 
 But why choose this moment as the point of emergence of the
@@ -11140,9 +11140,9 @@ authorities (court, penitence, confinement). Incarceration with its
 mechanisms of surveillance and punishment functioned, on the
 contrary, according to a principle of relative continuity. The con ..
 tinuity of the institutions themselves, which were linked to one
-another (public assistance with the orphanage, the reformitory, the
+another (public assistance with the orphanage, the reformatory, the
 penitentiary, the disciplinary battalion, the prison; the school with
-the charitable society, the workshop, the almshouse, the peniten ..
+the charitable society, the workshop, the almshouse, the penitentiary ..
 tiary convent; the workers' estate with the hospital and the prison).
 A continuity of the punitive criteria and mechanisms, which on the
 basis of a mere deviation gradually strengthened the rules and
@@ -11327,7 +11327,7 @@ Prison .
 
 4· With this new economy of power, the carceral system, which
 is its basic instrument, permitted the emergence of a new form of
-'law': a mixture oflegality and nature, prescription and constitution,
+'law': a mixture of legality and nature, prescription and constitution,
 the norm. This had a whole series of effects: the internal dislocation
 of the judicial power or at least of its ·functioning; an increasing
 difficulty in judging, as if one were ashamed to pass sentence; a
@@ -11400,7 +11400,7 @@ is once and for all indispensable to our kind of society. One may, on
 
 the contrary, site the two processes which, in the very continuity of
 the processes that make the prison function, are capable of exercising
-considerable restraint on its use and of transforming it'l internal
+considerable restraint on its use and of transforming its internal
 functioning. And no doubt these processes have already begun to a
 large degree. The first is that which reduces the utility (or increases
 its inconveniences) of a delinquency accommodated as a specific
@@ -11519,7 +11519,7 @@ or for long.'
 2 In any case, I could give no notion by references or quotations what
 this book owes to Gilles Deleuze and the work he is undertaking with
 Felix Guattari. I should also have quoted a number of pages from
-R. Castell's Psych.analysme and say how much I am indebted to
+R. Castell Psych.analysme and say how much I am indebted to
 Pierre Nora.
 
 3 I shall study the birth of the prison only in the French penal system.
@@ -11532,7 +11532,7 @@ describe the phenomenon as a whole too schematic.
 I The name given to two fortresses in old Paris, the Grand and the
 Petit Chatelet. The first, demolished in 1801, was situated on the
 right bank of the Seine. It was the seat of the criminal jurisdiction of
-the viscounty and provostry of Paris. The second, on the left bank,
+the viscountcy and provostry of Paris. The second, on the left bank,
 near the Hotei-Dieu, served as a prison [Tr.J.
 
 2 In the catalogues of judicial proofs, the confession appears in about
@@ -11588,7 +11588,7 @@ J IO
 
 PART T W O P U N I S H M E N T
 
-I Generalir_ed punishment
+I Generalized_ed punishment
 
 I Mogensen, p.6. The author shows that in Auge crimes of violence
 were four times less numerous on the eve of the Revolution than at the
@@ -11622,7 +11622,7 @@ maintain a system of very strict penalties. And, curiously enough, the
 principles of the Social Contract could be used to support the old
 correspondence of atrocity between crime and punishment. 'The protection due to citizens requires that penalties be measured according
 to the atrocity of the crimes and not sacrifice, in the name of humanity,
-humanity itselr (Mougins de Roquefort, who quotes this passage from
+humanity itself (Mougins de Roquefort, who quotes this passage from
 the Social Contract: cf. Mougins, 637).
 
 6 Duport, Archives parlementaires, X, 744· One might also cite in
@@ -11665,7 +11665,7 @@ were subject to special penalties.
 
 1 2 Le Peletier, 32 1-1. The following year, Bellart made what may be
 regarded as the first defence of a crime passionel. This was the Gras
-affair. Cf. Annates au harreau motlerne, I813, III, 34·
+affair. Cf. Annates au harreau motterne, I813, III, 34·
 
 1 The gentle way in punishment
 
@@ -11706,7 +11706,7 @@ houses of detention that families might use.
 8 Cf. Thorsten Sellin, Pioneering in Penology, 1944, which gives an
 exhaustive study of the Rasphuis and the Spinhuis of Amsterdam. One
 may leave to one side another 'model', often cited in the eighteenth
-century. This is the one proposed by Mabillon in the Rljlexions sur les
+century. This is the one proposed by Mabillon in the Réflexions sur les
 prisons des ordres religieux, republished in 1 845. It seems that this work
 was exhumed in the nineteenth century at a time when the Catholics
 were disputing with the Protestants the place they had taken up in the
@@ -11838,7 +11838,7 @@ I2 On this importance of geometry, see J. de Beausobre: 'The science of
 war is essentially geometrical. . . The arrangement of a battalion and
 a squadron on a whole front and at so much height is alone the effect
 of an as yet unknown, but profound geometry' (Beausobre, 307).
-I3 journal pour !'instruction elimentaire, April I 8 16. Cf. Tronchot, who
+I3 journal pour !'instruction élémentaire, April I 8 16. Cf. Tronchot, who
 has calculated that pupils must have been given over 200 commands a
 day (without counting exceptional orders); for the morning alone
 twenty-six commands communicated by the voice, twenty-three by
@@ -11864,7 +11864,7 @@ organization of schools; for a long time 'prefects' were, independently
 of the teachers, entrusted with the moral responsibility for small groups
 of pupils. After 1762, above all, one sees the appearance of a new
 type of supervision, which was more administrative and more integrated into the hierarchy; supervisors, maitres de quartier, maitres
-suhalternes. Cf. Dupont-Ferrier, 254 and 476.
+sous-alternes. Cf. Dupont-Ferrier, 254 and 476.
 
 3 Panopticism
 
@@ -11965,7 +11965,7 @@ Cherry Hill were organized from 182.0.
 J I 8
 
 8 Abbe Petigny, Allocution adressee aux prisonniers, a !'occasion de
-!'inauguration des hdtiiTUnts cellulaires de Ia prison de Versailles. Cf.,
+!'inauguration des hdutiments cellulaires de Ia prison de Versailles. Cf.,
 a few years later, in The Count of Monte Cristo, a very clearly Christological version of resurrection after incarceration; in this case prison
 teaches not docility to the law, but the power, acquired through a
 secret knowledge, to dispense justice beyond the injustice of the
@@ -11983,11 +11983,11 @@ are occupied and that of prisoners who wish to remain idle. The first
 will be better fed and have more comfortable beds than the second.'
 Melun and Clairvaux were very soon organized into great workshops.
 10 Bonneville, 1 846, 6. Bonneville proposed measures of 'preparatory
-liberty', but also of 'affiictive additions' or an extension of imprisonment if it was shown that 'the penal prescription, fixed approximately
+liberty', but also of 'afflictive additions' or an extension of imprisonment if it was shown that 'the penal prescription, fixed approximately
 according to the probable degree of the prisoner's obduracy was not
 en<;>ugh to produce the effect expected of it'. This extension was not to
 exceed one eighth of the original penalty; preparatory liberty could
-begin after three quarters of the sentence had beeri served (Traite des
+begin after three quarters of the sentence had been served (Traite des
 diverses institutions compllmentaires, 25 Iff).
 
 1 1 In Ga1_ette des tribunaux. Cf. also Marquet-Wasselot, 1 832, 74-5.
@@ -12187,7 +12187,7 @@ the journal des concierges.
 24 Cf. L'Atelier, June 1 844, petition to the Chambre de Paris that
 prisoners should be made to do 'unhealthy and dangerous work'; in
 April 1 845, the newspapers quoted a case in Brittany where a large
-number of military convicts died of fever while working on canalbuilding. Why were the prisoners not working with mercury or whitelead in November 1 845? . . . Cf. also the Democratie politique of the
+number of military convicts died of fever while working on canal building. Why were the prisoners not working with mercury or white lead in November 1 845? . . . Cf. also the Democratie politique of the
 years 1 844-5.
 
 25 In L'Atelier, of November 1 843, there was an attack against the
@@ -12198,7 +12198,7 @@ there was too much emphasis on the fatal character of a proclivity to
 crime. In La Ruche populaire similar attacks on the theatre are to be
 found.
 
-26 Cf. In La Ruche populaire (December I 839) Vin'rard replied to an
+26 Cf. In La Ruche populaire (December I 839) Vinard replied to an
 article by Balzac published in Le Siecle. Balzac had said that a charge
 of theft was to be made with prudence and discretion when it concerned
 a rich man whose slightest dishonesty immediately became known:
@@ -12206,7 +12206,7 @@ a rich man whose slightest dishonesty immediately became known:
 elevated rank in society, one does not find a thousand solutions, a
 thousand means to hush up some unfortunate affair.'
 
-27 In La Fratemite, March I 847, there is a discussion of the Drouillard
+27 In La Fraternite, March I 847, there is a discussion of the Drouillard
 affair and reference is made to thefts in the naval administration at
 Rochefort. In June I 847, there was an article on the Boulmy trial and
 on the Cubiere-Pellaprat affair; and, in July-August I 847, on the
@@ -12249,11 +12249,11 @@ Vouglans, 1767, 108 and 1780, J, or Rousseaud de Ia Combe, 1-2.
 Aguet, J. P., Les Greves sous la monarchie de Juillet, 1 954.
 Agulhon, M., La view sociale en Provence, 1970.
 Almanach populaire de la France, L', 1 839.
-Amhoise, Projet de reglement pour l'acierie d', Archives nationales, f. u,
+Amhoise, Projet de reglement pour aciérie d', Archives nationales, f. u,
 
 1301.
 
-Anchel, R., Crimes et chdtiments au X VIJJe siecle, 1 933·
+Anchel, R., Crimes et châtiments au X XVIIe siecle, 1 933·
 Annates du harreau moderne, III, 1 823.
 Archives nationales, MM 658, 30 March 1758 and MM 666, 1 5 September
 
@@ -12268,19 +12268,19 @@ Atelier, L', October 1 840; March 1 842; October 1 842; November 1 843;
 June 1 844; March 1 845.
 
 Aylies, S., Du systeme penitentiaire, 1 837.
-Ayrault, P., L'Ordre, formaliti et instruction judiciaire.
+Ayrault, P., L'Ordre, formalités et instruction judiciaire.
 
 Baltard, L., Architectonographie des prisons, 1 829.
 Barbe-Marbois, F. de, Rapport sur l' etat des prisons du Calvados, de l' Eure,
 
-!a Manche et la Seine lnfirieure, 1 823.
+!a Manche et la Seine inférieure, 1 823.
 Barbier, E.-J.-F., Journal, IV, ed. 1 847-56.
 Barnave, A., 'Discours a
 XXVII, 6 July 1791.
 
 Ia Constituante', Archives parlementaires,
 
-Batencourt, J. de, Instruction mithodique pour l' ecole paroissiale, 1 669.
+Batencourt, J. de, Instruction méthodique pour l' ecole paroissiale, 1 669.
 Beaumont, E. de and Tocqueville, A. de, Note sur le systeme penitentiaire,
 
 I 8J I .
@@ -12299,18 +12299,18 @@ Histoire de Ia guerre, I74I.
 
 Bentham, J., Works, ed. Bowring, IV, I 843·
 Berce, Y.-M., Croquants et nu-pieds, I974·
-Berenger, A., Rapport a l'Acadlmie des sciences morales, June 1836.
+Berenger, A., Rapport a Académie des sciences morales, June 1836.
 Bergasse, N., Rapport a Ia Constituante. sur le pouvoir judiciaire, I789.
-Bernard, Samuel, Rapport du 30 octohre z 8 z 6 a Ia societe de I' enseignement
+Bernard, Samuel, Rapport du 30 octobre z 8 z 6 a Ia societe de I' enseignement
 
 mutuel.
 
-Bexon, S., Code de surete puhlique, part 2, 1 807.
+Bexon, S., Code de surete publique, part 2, 1 807.
 Bigot Preameneu, F., Rapport au conseil general de Ia societe des prisons, I 8 19.
 Blackstone, W., Commentaries on the Laws of England, vol. 4, 1766-9.
 Blouet, Abel, Projet de prisons cellulaires, I843·
-Bonneville, A., De Ia recidive, 1 844.
-Des liherations preparatoires, I846.
+Bonneville, A., De Ia récidive, 1 844.
+Des libérations préparatoires, I846.
 Des institutions compllmentaires du systeme penitencier, 1847.
 Boucher d' Argis, A., Ohservations sur les lois criminelles, 178 1 .
 
@@ -12322,18 +12322,18 @@ Bradford, W., An inquiry how far the punishment of death is necessary in
 Pennsylvania, 1793·
 
 Brantome, Memoires. La vie des hommes illustres, II, ed. 1722.
-Brissot, J. P., Th.eorie des lois criminelles, I, 178 1 .
+Brissot, J. P., Th.théorie des lois criminelles, I, 178 1 .
 Bruneau, A., Ohservations e t maximes sur les matieres criminelles, 17I 5 .
-Bulletin de Ia societl d' histoire du protestantisme, XXV.
-Bure, E., De Ia misere des classes lahorieuses en Angleterre et en France, II,
+Bulletin de Ia société d' histoire du protestantisme, XXV.
+Bure, E., De Ia misere des classes laborieuses en Angleterre et en France, II,
 
 1840.
 
-Buxton, Thomas Fowell, Parliamentary Dehate, 18 19, XXXIX.
+Buxton, Thomas Débat, Parliamentary Débat, 18 19, XXXIX.
 
 Canguilhem, G., Le Normal et le Pathologique, ed. 1966.
 Canler, P. L. A., Memoires, ed. 1968.
-Cariou, P., Les Idealitls casuistiques (unpublished thesis).
+Cariou, P., Les Idéalités casuistiques (unpublished thesis).
 Chabroud, C., Archives parlementaires, XXVI.
 Chassaigne, M., La Lieutenance generate de police, 19o6.
 Chassanee, B. de, Consuetudo Burgundi, I p8.
@@ -12350,49 +12350,49 @@ Cournol, G., Consitlirations J'interlt puhlic sur le droit J' exploiter les mine
 
 1790, Arch. nat. A XIII14•
 
-, Crime et criminalitl en France sous !'Ancien Regime, 1971 (various authors).
+, Crime et criminalité en France sous !'Ancien Regime, 1971 (various authors).
 
 Daisy, Le royaume de France, 1745.
-Damhoudere, J. de, Pratique juJiciaire es causes civiles, 1 572.
+Damhoudere, J. de, Pratique judiciaire es causes civiles, 1 572.
 Danjou, E., Des prisons, 1811.
 Dauphin, V., Recherches sur l'industrie textile en Anjou, 1913.
-Dautricourt, P., La Criminalite et Ia repression au Parlement de Flantlre,
+Dautricourt, P., La Criminalité et Ia repression au Parlement de Flandre,
 
 172 1- 1790, 19Il·
 
 Decazes, E., 'Rapport au roi sur les prisons', Le Moniteur, I I April 1819.
 Delamare, N., Traite de police, 1705.
-Deleuze, Gilles and Guattari, Felix, Anti-OeJipe, 1972..
+Deleuze, Gilles and Guattari, Felix, Anti-Oeuvre, 1972..
 Demia, C., Reglement pour les ecoles de Ia ville de Lyon, 1716.
 Depots de Ia Guerre, 3689.
 Des Essarts, T. N., Dictionnaire universe! de police, 1787.
 Desjardin, A., Les Cahiers des Etats generaux et Ia justice criminelle, 1883.
-Ducatel, Instruction pour Ia construction des maisons d'arrlt, 1841.
-Ducpetiaux, E., De Ia rlforme penitentiaire, III, 1837·
+Ducatel, Instruction pour Ia construction des maisons d'arrêt, 1841.
+Ducpetiaux, E., De Ia réforme penitentiaire, III, 1837·
 
 Des colonies agricoles, 1 8 5 1 .
 De Ia condition physique et morale des jeunes ouvriers, II, 1854.
-Du systeme de l'emprisonnement ceUulaire, 1857.
+Du systeme de l'emprisonnement cellulaire, 1857.
 
 Dufau, 'Discours a Ia Constituante', Arch. pari., XXVI.
-Dufriche de Valaze, C. E., Des lois plnales, 1784.
-Duhamel, L., Les Executions capitales a Avignon au XVIIJe siecle, 1890.
-Dupaty, C., M lmoire justijicatif pour les trois hommes condamnes a Ia roue,
+Dufriche de Valaze, C. E., Des lois plénales, 1784.
+Duhamel, L., Les Executions capitales a Avignon au XVIIe siecle, 1890.
+Dupaty, C., M mémoire justificatif pour les trois hommes condamnés a Ia roue,
 
 1786.
 
 Lettres sur Ia procedure criminelle, 1788.
 
-Dupont-Ferrier, Du college de Clermont au lycee Louis-le-GranJ, I.
+Dupont-Ferrier, Du college de Clermont au lycée Louis-le-Grand, I.
 Duport, A., 'Discours a Ia Constituante', 2.2. December 1789, Arch. pari.,
 
 X and XXI.
 
-Duras, L., article appearing in Le Progressifand quoted by La Phalange,
+Duras, L., article appearing in Le Progressif quoted by La Phalange,
 
 1 December r838.
 
-Durkheim, E., 'Deux lois de I' evolution penale', Annee sociologique IV,
+Durkheim, E., 'Deux lois de I' evolution penale', Année sociologique IV,
 
 1899-1900.
 
@@ -12410,7 +12410,7 @@ Festy, 0., Les Delits ruraux et leur repression sous Ia Revolution et le
 
 Consulat, I956.
 
-Fielding, Henry, The Causes of the late increase in Rohhers, I7S I, in Worlcs,
+Fielding, Henry, The Causes of the late increase in Robbers, I7S I, in Works,
 
 X, ed. I784.
 
@@ -12422,7 +12422,7 @@ I845; March I847; July-August I 847·
 
 Fregier, H. A., Les Classes dangereuses, I84o.
 Fresnel, R., Considerations sur les maisons de refuge, I 82.9.
-F unck-Brentano, F., Catalogue des manuscrits de Ia hihliotkeque de I' Arsenal,
+F Funck-Brentano, F., Catalogue des manuscrits de Ia bibliothèque de I' Arsenal,
 
 IX.
 
@@ -12435,20 +12435,20 @@ Gar_ette d'Amsterdam, 1 April, 1757·
 Gar_ette des trihunaux, 3 December 1 82.9; 30 August 1832.; 10 April 1 836;
 6 June 1 836; 2.0 July 1 836; 6 April 1837; IS June I837; 2.3 July I 837;
 9 August I837; I9 July I839; August I 84o.
-Gerspach, E., La Manufocture des Gohelins, I892..
+Gerspach, E., La Manufacture des Gohelins, I892..
 Goubert, P., and Denis, M., Les Fran;ais ont Ia parole, I964.
 Grellet-Wammy, Manuel des prisons, II, I 8J9·
 Gregory, G. de, Projet de Code penal universal, I8J2..
-Grosrenaud, F., La Corporation ouvriere a Besa11fon, 1907·
-Guerry, F. and Deleule, D., Le Corps productif, I973·
-Guibert, J. A. de, 'Discours preliminaire', Essai general de tactique, I,
+Grosrenaud, F., La Corporation ouvrière a Besa11fon, 1907·
+Guerry, F. and Deleule, D., Le Corps préliminaire, I973·
+Guibert, J. A. de, 'Discours préliminaire', Essai general de tactique, I,
 
 I772.
 
 Hanway, J., The Defects of Police, I775·
 Hardy, S. P., Mes loisirs, B.N. MS. 668o-87, 1778.
 Harou-Romain, N. P., Project de penitencier, I 84o.
-Helot, R., La Bihliotkeque hleue en Normandie,' I92.8.
+Helot, R., La Bibliothèque bleue en Normandie,' I92.8.
 Hibbert, C., The Roots of Evil, 1966.
 Hobsbawm, E. J., Bandits, I969.
 Houze de l'Aulnay, A., Des logements ouvriers a Lille, I863.
@@ -12456,25 +12456,25 @@ Humanitaire, L', August I84I.
 
 Instruction par !'exercise de l'infanterie, I4 May I754·
 
-Instruction sur le serYice des reglements de CaYalerie dans les camps, 29 June
+Instruction sur le service des reglements de Cavalerie dans les camps, 29 June
 
 1753·
 
-Joly de Maizeroy, P., TMorie de Ia guerre, 1777.
+Joly de Maizeroy, P., Théorie de Ia guerre, 1777.
 Jousse, D., Traite de Ia justice criminelle, 1771.
-Jucquiot, J., Le Club franyais de Ia medaille, 4th term, 1 970.
+Jucquiot, J., Le Club français de Ia médaille, 4th term, 1 970.
 Juillard, M., Brigandage et contrebande en haute AuYergne au XVIJJe
 
 siecle, 1937·
 
-Julius, N. H., Leyons sur les prisons, I, 1831 (Fr. trans.).
+Julius, N. H., Leçons sur les prisons, I, 1831 (Fr. trans.).
 
 Kantorowitz, E., The King's Two Bodies, 1959·
-Kropotkin, P., Memoirs of a ReYolutionist, ed. 1906.
+Kropotkin, P., Memoirs of a Révolutionist, ed. 1906.
 
 Lacenaire, Memoires, ed. 1 968.
 Lacheze, 'Discours a Ia Constituante', 3 June 179 1 , Arch. par!., XXVI.
-Lacretelle, P. L. de, Discours sur les prijugis des peines infamantes, 1784.
+Lacretelle, P. L. de, Discours sur les préjugés des peines infamantes, 1784.
 La Metherie, C. de, Journal de physique, XXX, 1787.
 La Rochefoucauld-Liancourt, G. de, Des prisons de Philadelphie, 1 796.
 La Salle, J.-B. de, Conduite des ecoles chretiennes, B.N. MS. I 1759·
@@ -12482,9 +12482,9 @@ La Salle, J.-B. de, Conduite des ecoles chretiennes, B.N. MS. I 1759·
 Trait/ sur les obligations des freres des ecoles chretiennes, ed. 1783.
 
 Laulau, R., L' Ecole militaire de Paris, 1 950.
-Lauvergne, H., Les Forfats, 1 841.
+Lauvergne, H., Les Forfaits, 1 841.
 Lawrence, J., A History of Capital Punishment, 1 932.
-Leon, A., La RiYolution franfaise et !'education technique, 1968.
+Leon, A., La Révolution française et !'education technique, 1968.
 Le Peletier de Saint-Fargeau, Arch. par!., XXVI, 3 June 179 1 .
 Le Roy-Ladurie, E., Contrepoint, 1 973·
 
@@ -12493,18 +12493,18 @@ Le Trosne, G., Memoires sur les Yagabonds, 1764.
 
 Vues sur Ia justice criminelle, 1777.
 
-Levy, J. P., La Hierarchie des preuYes dans le droit saYant du Moyen Age,
+Levy, J. P., La Hiérarchie des preuves dans le droit savant du Moyen Age,
 
 1 939·
 
 Linguet, S., Necessite d' une riforme dans !' administration de Ia justice, 1764.
 Locre, La Legislation de Ia France, XXIX�
 Loisel, G., Histoire des menageries, II, 1912.
-Loyseau, C., Cinq liYres du droit des offices, ed. 16IJ.
+Loyseau, C., Cinq livres du droit des offices, ed. 16IJ.
 Lucas, c., De Ia reforme des prisons, 18J6.
 
-Mably, G. de, De Ia legislation, OeuYres completes, IX, 1789.
-Mandrou, R., De Ia culture populaire aux XVIJe et XVIJJe siecles, 1 964.
+Mably, G. de, De Ia legislation, Œuvres completes, IX, 1789.
+Mandrou, R., De Ia culture populaire aux XVIIe et XVIJJe siecles, 1 964.
 Marat, J.-P., Plan de legislation criminelle, 1780.
 Marchegay, P., ArchiYes d'Anjou, II, 1 850.
 
@@ -12557,18 +12557,18 @@ Oppenheim, Reglement proYisoire pour Ia fahrique de M.S., I 809, in Hay em,
 J., Memoires et documents pour reYenir a l'histoire du commerce, 191 1 .
 'Ordonnace du x er janvier 1766, pour regler !'exercise de l'infanterie'.
 
-Parfouru, P., Memoires de Ia societe archeologique d'llle-et- Vilaine, XXV,
+Parfouru, P., Memoires de Ia societe archeologique Île-et- Vilaine, XXV,
 
 1896.
 
 Pastoret, C. E. de, Des lois penales, 1790.
 PauYre Jacques, 1st year, no. 3·
-Perrot, Michele, Delinquance et systeme penitenriaire de France au XJXe
+Perrot, Michele, Délinquance et systeme pénitentiaire de France au XIXe
 
 siecle (unpublished).
 
 Petion de Villeneuve, J., 'Discours a Ia Constituante', Arch. par!., XXVI.
-Petrovitch, P., Crime et crimina/ire en France XVll6-XVlll6 siecles, I971.
+Petrovitch, P., Crime et crimina/ire en France XVII6-XVIII6 siecles, I971.
 
 JJ I
 
@@ -12576,12 +12576,12 @@ Phalange, La, I August I 836; IO August I836; IO January I837; I
 
 December I838; I 5 August I 84o; 2 October I 84o.
 
-Pictet de Rochemont, C., Journal de Geneve, 5 January I788.
-Pieces originates et procedures du proces fait a Rohert-Fran;ois Damiens,
+Pictet de Rochemont, C., Journal de Genève, 5 January I788.
+Pieces originates et procedures du proces fait a Robert-Fran;ois Damiens,
 
 III, I757·
 
-Poullain du Pare, A. M., Princij:es du droit fran;ais selon les coutumes de
+Poullain du Pare, A. M., Principes:es du droit fran;ais selon les coutumes de
 
 Bretagne, XI, I767-7I .
 
@@ -12590,7 +12590,7 @@ Praissac, Les Discours militaires, I623.
 Radzinovitz, L., The English Criminal Law, II, I956.
 Real, A., Arch. pari., 2e serie, LXXII, I December I83I·
 Real, G. A., Motifs du Code d'instruction criminelle, I8o8.
-Registre des dlliherations du hureau de l'Hotel-Dieu.
+Registre des délibérations du hureau de Hôtel-Dieu.
 'Reglement de I743 pour l'infanterie prussienne'; Arsenal, MS. 4076.
 Remusat, C. F. M. de, Arch. pari., LXXII, I December I 8J I.
 Revue de Paris, 7 June I836.
@@ -12599,15 +12599,15 @@ Risi, P., Ohservations sur les matieres de jurisprudence criminelle, I768.
 Rochemonteix, C. de, Un college au XVII6 siecle, III, I 889.
 Rossi, P., Traitl de droit penal, III, I829.
 Rousseau, J.-J., Social Contract, ed. I9I3 (Eng. trans.).
-Rousseaud de Ia Combe, G., Traitl des matieres crz"minelles, I 74I.
+Rousseaud de Ia Combe, G., Traitl des matieres crz"criminelles, I 74I.
 Ruche populaire, La, December I 839; August I84o; November I842.
 Rusche, G. and Kirchheimer, 0., Punishment and Social Structures, I939·
 Rush, B., An Enquiry into the Effects of Puhlic Punishments upon Criminals
 
 and upon Society, I787.
 
-Saint-Edme (E. Bourg), Dictionnaire de plnalitl, IV, I825.
-Saint-Hilaire, E. Geoffroy, Notions synthltiques et historiques de philosophie
+Saint-Edme (E. Bourg), Dictionnaire de plénalité, IV, I825.
+Saint-Hilaire, E. Geoffroy, Notions synthétiques et historiques de philosophie
 
 naturelle, I8J8.
 
@@ -12615,8 +12615,8 @@ naturelle, I8J8.
 
 Manufactures III.
 
-Saxe, Marechal de, Les Reveries, I756.
-Seigneux de Correvon, G., Essai sur !'usage, l'ahus et les inconvlnients de
+Saxe, Maréchal de, Les Reveries, I756.
+Seigneux de Correvon, G., Essai sur !'usage, l'usage et les inconvénients de
 
 Ia torture, I768.
 
@@ -12628,10 +12628,10 @@ Servan, J. M., Discours sur I' administration de Ia justice criminelle, I767.
 Snyders, G., La Pedagogie en France aux XVII6 et XVII/6 siecles, I965.
 
 Soulatges, J. A., Traite des crimes, I, 1762..
-Stoobant, L., in Annales de Ia Sociite d'histoire de Gand, III, 1 898.
+Stoobant, L., in Annales de Ia Société d'histoire de Gand, III, 1 898.
 Swedish Discipline, The, London, 1 6p (anon.).
 
-Target, G., L' Esprit des cahiers presentes a�x Etats generaux, 1789.
+Target, G., L' Esprit des cahiers présentes a�x Etats generaux, 1789.
 Tatou, R. (ed.), L'Enseignement et Ia diffusion des sciences au XV/ll6,
 
 1964.
@@ -12656,7 +12656,7 @@ Charite, 1 847.
 
 Vattel, E. de, Le Droit des gens, 1768.
 Vaux, Roberts, Notices, 1 82.6.
-Vermeil, F. M., Essai sur les riformes a faire dans notre legislation criminelle,
+Vermeil, F. M., Essai sur les racontee a faire dans notre legislation criminelle,
 
 1781.
 
@@ -12691,7 +12691,7 @@ THE B I RTH OF THE C L I N I C
 
 An Archaeology of Medical Perception
 
-In The Birth of the Clznic, Foucault shows how our definition of pure
+In The Birth of the Clinic, Foucault shows how our definition of pure
 
 science is shaped by social and cultural attitudes.
 

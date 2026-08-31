@@ -301,7 +301,7 @@ Soviet. Its members can stoutly uphold the interests of their constituents
 (including those who voted against them), or they can be in hock to the
 vested interests that financed their election campaigns.
 
-In August 2011, as Colonel Gaddafi's regime in Libya was falling apart, a
+In August 2011, as Colonel Gaddafi regime in Libya was falling apart, a
 BBC correspondent in Benghazi spotted some remarkable graffiti on a wall.
 On the left side of the wall there was a classically straightforward
 revolutionary message: 'The tyrant should fall, he's a monster.' Direct and
@@ -323,7 +323,7 @@ life and
 years ago, dedicated
 redistributing income. The welfare state is not part of democracy as the
 ancient Athenians conceived of it. In bee terms, the welfare state seems to
-create an ever increasing number of dependent drones whom the workerbees have to support. It also employs a great many bees simply to transfer
+create an ever increasing number of dependent drones whom the worker bees have to support. It also employs a great many bees simply to transfer
 resources from the workers to the drones. And it seeks to finance itself by
 accumulating claims on future bees, in the form of public debt. In Chapter
 1, I will consider this and other distributional aspects of democracy. In
@@ -488,11 +488,11 @@ political consequences.
 
 Explaining the Great Divergence
 
-'Nature . . . is a thynge of great myghte and efficacye,' wrote the English
+'Nature . . . is a thing of great might and efficacy,' wrote the English
 humanist Richard Taverner in his Garden of Wysdome, 'but surely
-institution or bringynge up, is moche mightier, whiche is hable to amende,
-reforme & strengthen a croked and evyll nature, and turn the same into a
-good nature.'1 Taverner's words sum up what is fast becoming a compelling
+institution or bringing up, is moche mightier, whiche is able to amende,
+reforme & strengthen a crooked and evil nature, and turn the same into a
+good nature.'1 Taverner words sum up what is fast becoming a compelling
 consensus: that institutions – in the broadest sense of the term – determine
 modern historical outcomes, more than natural forces like the weather,
 geography or even the incidence of disease.
@@ -505,7 +505,7 @@ Why, after around 1500, did Western civilization  – as found in the
 quarrelsome petty states of Western Eurasia and their colonies of settlement
 in the New World – fare so much better than other civilizations? From the
 1500s until the late 1970s, there was an astonishing divergence in global
-living standards, as Westerners became far richer than, well, Resterners. As
+living standards, as Westerners became far richer than, well, Westerners. As
 recently as 300 years ago, the average Chinese was probably still a bit
 better off than the average North American. By 1978, the average American
 was at least twenty-two times richer than the average Chinese (see .1).2 History's great divergence was not just economic. It was also a
@@ -649,7 +649,7 @@ The imperial context also reveals the difference between the institutional
 argument and the older cultural interpretation  – first formulated by Max
 Weber, later revived by David Landes – that there was some link between
 Protestantism and the 'spirit of capitalism'. Unlike the Nazi in Hanns
-Johst's play Schlageter, I do not reach for my revolver when I hear the word
+Johst play Schlageter, I do not reach for my revolver when I hear the word
 culture, but I do issue a polite health warning. It is very tempting to
 attribute historical agency to an amalgam of ideas and norms  – Greek
 philosophy, the Hebrew Commandments, Roman law, Christ's ethics, the
@@ -882,9 +882,9 @@ innovation in productivity-enhancing technologies, especially in textile
 production.20 But the institutions provided the indispensable framework for
 all this. Here is Mandeville's version:
 
-A Spacious Hive well stock'd with Bees,
+A Spacious Hive well stocked with Bees,
 That lived in Luxury and Ease;
-And yet as fam'd for Laws and Arms,
+And yet as famed for Laws and Arms,
 As yielding large and early Swarms;
 Was counted the great Nursery
 
@@ -894,7 +894,7 @@ More Fickleness, or less Content.
 They were not Slaves to Tyranny,
 Nor ruled by wild Democracy;
 But Kings, that could not wrong, because
-Their Power was circumscrib'd by Laws.
+Their Power was circumscribed by Laws.
 
 improved
 
@@ -1160,7 +1160,7 @@ fateful repeal in 1999.
 'Reagan-era legislative changes essentially ended New Deal restrictions
 on mortgage lending,' the Princeton economist Paul Krugman has written.
 'It was only after the Reagan deregulation that thrift gradually disappeared
-from the American way of life . . .' It was 'also mainly thanks to Reaganera deregulation' that the financial system 'took on too much risk with too
+from the American way of life . . .' It was 'also mainly thanks to Reagan era deregulation' that the financial system 'took on too much risk with too
 little capital'.1 In another of his newspaper columns, Krugman looked back
 fondly to a 'long period of stability after World War II'. This was 'based on
 a combination of deposit insurance, which eliminated the threat of bank
@@ -1265,7 +1265,7 @@ the very same can be said of our crisis, too.
 
 A Regulated Crisis
 
-The financial crisis that began in 2007 had its origins precisely in overcomplex regulation. A serious history of the crisis would need to have at
+The financial crisis that began in 2007 had its origins precisely in overly complex regulation. A serious history of the crisis would need to have at
 least five chapters on its perverse consequences:
 
 First, the executives of large publicly owned banks were strongly
@@ -1713,7 +1713,7 @@ only salvation in a root-and-branch structural reform of our financial
 system: 'narrow banking' of some sort, if not the replacement of banks
 altogether.33 I can see the intellectual appeal of such arguments. In theory,
 perhaps it would be much better if big banks were chopped up, leverage
-ratios were drastically reduced and the interconnections between deposittakers and risk-takers were reduced.34 But, like Bagehot, I take the world as
+ratios were drastically reduced and the interconnections between deposit takers and risk-takers were reduced.34 But, like Bagehot, I take the world as
 I find it, and I do not expect to see in my lifetime a wholesale abandonment
 of the current model of 'too big to fail' institutions backstopped by the
 central bank and, if necessary, by the public purse. Our task, like Bagehot's,
@@ -2051,7 +2051,7 @@ business;14*
 the time it takes to evict a non-paying tenant and to collect a debt after
 a cheque has bounced;15
 
-5. regulate their labour markets less and therefore have higher labourforce participation and lower unemployment rates than civil law
+5. regulate their labour markets less and therefore have higher labor force participation and lower unemployment rates than civil law
 countries;16
 
 6. have more extensive mandatory disclosure requirements, which again
@@ -2205,7 +2205,7 @@ notorious as speculative railway-share promoters, judges were publicly
 accused of favouritism and the Parliamentary Bar ran a nice little racket,
 effectively selling statutory approval for new railway lines.29
 
-What are we to make of this? Does history essentially refute the legalorigins thesis that the common law trumps all other systems? Not quite. For
+What are we to make of this? Does history essentially refute the legal origins thesis that the common law trumps all other systems? Not quite. For
 despite the evident shortcomings of the English legal system in the
 industrial age, there remains compelling evidence that it could and did
 adapt to the changes of the time, perhaps even in ways that facilitated the
@@ -2443,7 +2443,7 @@ which countries in Africa are ranked highly in terms of:
 5. transparency, accountability and corruption in the public sector.
 
 The countries that appear in the top twenty developing economies in four or
-more of these categories are Burkino Faso, Ghana, Malawi and Rwanda.
+more of these categories are Burkina Faso, Ghana, Malawi and Rwanda.
 
 Another approach I have taken is to look at the IFC's Doing Business
 reports since 2006 to see which developing countries have seen the biggest
@@ -2805,7 +2805,7 @@ according to the National Council of Voluntary Organizations, just '8 per
 cent of the population [accounts] for almost half of all volunteer hours'.17
 Charitable donations show a similar trend. Although the average donation
 has gone up, the percentage of households giving to charity has fallen since
-1978 and more than a third of donations now come from the over-sixtyfives, compared with less than a quarter some thirty years ago. (In the same
+1978 and more than a third of donations now come from the over-sixty-fives, compared with less than a quarter some thirty years ago. (In the same
 period, the elderly have gone from 14 per cent to 17 per cent of the
 population.)18 The final publications of the Citizenship Survey for England
 made for truly dismal reading.19 In 2009–10:
@@ -3038,7 +3038,7 @@ from paying effective teachers more money, or extending the school day to
 give weaker pupils extra tuition.30 There are no such inhibitions about
 private education elsewhere. In Sweden companies like Kunskapsskolan
 ('The Knowledge School') are educating tens of thousands of pupils. In
-Brazil, private school chains like Objetivo, COC and Pitágoras are teaching
+Brazil, private school chains like Objetivo, COC and PitáPitágoras are teaching
 literally hundreds of thousands of students. Perhaps the most remarkable
 case, however, is India. There, as James Tooley has shown, the best hope of
 a decent education in the slums of cities like Hyderabad comes from private
@@ -3395,7 +3395,7 @@ By their very nature, the unknown unknowns are impossible to
 anticipate. But what of the unknown knowns – the insights that history has
 to offer, which most people choose to ignore? Asked in late 2011 to name
 'the key risks that could derail growth in fast-growth markets over the next
-three years', nearly a thousand global business executives identified assetprice bubbles, political corruption, inequality of income and failure to
+three years', nearly a thousand global business executives identified asset price bubbles, political corruption, inequality of income and failure to
 tackle inflation as the four biggest.10 By 2014, these fears may seem
 misplaced. From an historian's point of view, the real risks in the non-
 Western world today are of revolution and war. These are precisely the
@@ -3661,9 +3661,9 @@ Power, Prosperity, and Poverty (New York, 2012). For a full discussion, see Chap
 
 Chapter 1: The Human Hive
 
-1. Richard Taverner, The Garden of Wysdome Conteynynge Pleasaunt Floures, that is to say, Propre
-and Quycke Sayinges of Princes, Philosophers and other Sortes of Me[n]. Drawe[n] Forth of
-Good Aucthours (London, 1539), p. 6.
+1. Richard Taverner, The Garden of Wysdome Containing Pleasant Flowers, that is to say, Propre
+and Quick Sayings of Princes, Philosophers and other Sortes of Me[n]. Drawn[n] Forth of
+Good Authors (London, 1539), p. 6.
 
 2. Data from Angus Maddison, 'Statistics on World Population, GDP and Per Capita GDP, 1–2008
 
@@ -3880,7 +3880,7 @@ Striving for the Rule of Law in China.
 in C. Ménard and M. Shirley (eds.), Handbook of New Institutional Economics (Dordrecht, 2005)
 , pp. 727–86.
 
-11. Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer and Robert W. Vichny, 'Legal
+11. Rafael La Porta, Florencio Lopez-de-Silanes, Andrei Shleifer and Robert W. Vishny, 'Legal
 
 Determinants of External Finance', Journal of Finance, 52, 3 (July 1997), pp. 1131–50.
 
@@ -3903,7 +3903,7 @@ pp. 1339–82.
 
 Laws?', Journal of Finance, 61, 1 (February 2006), pp. 1–32.
 
-18. Simeon Djankov, Oliver Hart, Caralee McLiesh and Andrei Shleifer, 'Debt Enforcement around
+18. Simeon Djankov, Oliver Hart, McLiesh McLiesh and Andrei Shleifer, 'Debt Enforcement around
 
 the World', Journal of Political Economy, 116, 6 (2008), pp. 1105–49.
 
@@ -4100,7 +4100,7 @@ Voluntary Association Membership in Comparative Perspective', American Sociologi
 Three Decades of Household Giving to Charity, 1978–2008', Centre for Market and Public
 Organisation, University of Bristol (February 2011).
 
-19. Robert Rutherfoord, Community Action in England: A Report on the 2009–10 Citizenship Survey
+19. Robert Rutherford, Community Action in England: A Report on the 2009–10 Citizenship Survey
 (December 2011); idem, Community Spirit in England: A Report on the 2009–10 Citizenship
 Survey (December 2011).
 
@@ -4162,7 +4162,7 @@ Richard Lynn and Tatu Vanhanen, IQ and the Wealth of Nations (Westport, CT, 2002
 
 4. Calculated
 
-from Emmanuel Saez's file TabFig2010.xls, figure A1, available at
+from Emmanuel Saez file TabFig2010.xls, figure A1, available at
 
 http://emlab.berkeley.edu/users/saez/.
 

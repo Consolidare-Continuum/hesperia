@@ -3100,7 +3100,7 @@ sported	special	ridges	on	its	rim	for	easy	reading	by	electronic	vending	machine
 tough	to	counterfeit.
 
 But	 the	 designers	 and	 bureaucrats	 were	 obviously	 so	 excited	 by	 their	 creation	 that	 they
-ignored	 or	 refused	 to	 accept	 the	 new	 coin's	 similarity	 to	 the	 hundreds	 of	 millions	 of	 silvercolored,	 nickel-based	 half-franc	 coins	 in	 circulation	 [whose]	 size	 and	 weight	 were	 perilously
+ignored	 or	 refused	 to	 accept	 the	 new	 coin's	 similarity	 to	 the	 hundreds	 of	 millions	 of	 silver-colored,	 nickel-based	 half-franc	 coins	 in	 circulation	 [whose]	 size	 and	 weight	 were	 perilously
 similar.	(Stanley	Meisler.	Copyright	©	1986,	Los	Angeles	Times.	Reprinted	with	permission.)
 
 The	 confusions	 probably	 occurred	 because	 the	 users	 of	 coins	 had	 already
@@ -3308,7 +3308,7 @@ and	he	had	as	much	forgotten	it	as	if	he	had	never	heard	it	mentioned.
 
 Kasim	never	got	out.	The	thieves	 returned,	 cut	 off	 Kasim's	 head,	and	quartered	 his	body.
 
-(From	Colum's	1953	edition	of	The	Arabian	Nights.)
+(From	Colum	1953	edition	of	The	Arabian	Nights.)
 
 Most	of	us	will	not	get	our	head	cut	off	if	we	fail	to	remember	a	secret	code,
 but	it	can	still	be	very	hard	to	recall	the	code.	It	is	one	thing	to	have	to	memorize
@@ -3564,7 +3564,7 @@ such	 as	 seconds	 or	 individual	 sounds	 or	 letters.	 Retention	 is	 affected
 time	and	the	number	of	items.	The	number	of	items	is	more	important	than	time,
 with	 each	 new	 item	 decreasing	 the	 likelihood	 of	 remembering	 all	 of	 the
 preceding	items.	The	capacity	is	items	because	people	can	remember	roughly	the
-same	number	of	digits	and	words,	and	almost	the	same	number	of	simple	threeto	five-word	phrases.	How	can	this	be?	I	suspect	that	STM	holds	something	akin
+same	number	of	digits	and	words,	and	almost	the	same	number	of	simple	three-to	five-word	phrases.	How	can	this	be?	I	suspect	that	STM	holds	something	akin
 to	a	pointer	to	an	already	encoded	item	in	long-term	memory,	which	means	the
 memory	capacity	is	the	number	of	pointers	it	can	keep.	This	would	account	for
 the	fact	that	the	length	or	complexity	of	the	item	has	little	impact—simply	the
@@ -4208,7 +4208,7 @@ something	like	this:
 
 "Pampas	something."
 
-"Yes,	Pampas	Chewy.	Um,	Churry,	um,"
+"Yes,	Pampas	Chewy.	Um,	Churrascaria,	um,"
 
 "Churrascaria.	Pampas	Churrascaria."
 
@@ -5437,7 +5437,7 @@ those	 taps.	How	many	 had	 trouble	 using	 them?	Polite,	restrained	tittering	 
 the	audience.	How	many	tried	to	turn	the	handle?	A	large	show	of	hands.	How
 many	 had	 to	 seek	 help?	 A	 few	 honest	 folks	 raised	 their	 hands.	 Afterward,	 one
 woman	came	up	to	me	and	said	that	she	had	given	up	and	walked	the	halls	until
-she	found	someone	who	could	explain	the	taps	to	her.	A	simple	sink,	a	simplelooking	faucet.	But	it	looks	as	if	it	should	be	turned,	not	pushed.	If	you	want	the
+she	found	someone	who	could	explain	the	taps	to	her.	A	simple	sink,	a	simple-looking	faucet.	But	it	looks	as	if	it	should	be	turned,	not	pushed.	If	you	want	the
 faucet	to	be	pushed,	make	it	look	as	if	it	should	be	pushed.	(This,	of	course,	is
 similar	 to	 the	 problem	 I	 had	 emptying	 the	 water	 from	 the	 sink	 in	 my	 hotel,
 described	in	Chapter	1.)
@@ -5506,7 +5506,7 @@ right	 one	 clockwise.	 Although	 rotation	 direction	 is	 inconsistent,	 pullin
 pushing	is	consistent,	which	is	how	people	conceptualize	their	actions.
 
 Alas,	 sometimes	 clever	 people	 are	 too	 clever	 for	 our	 good.	 Some	 wellmeaning	plumbing	designers	have	decided	that	consistency	should	be	ignored	in
-favor	 of	 their	 own,	 private	 brand	 of	 psychology.	 The	 human	 body	 has	 mirrorimage	 symmetry,	 say	 these	 pseudo-psychologists.	 So	 if	 the	 left	 hand	 moves
+favor	 of	 their	 own,	 private	 brand	 of	 psychology.	 The	 human	 body	 has	 mirror-image	 symmetry,	 say	 these	 pseudo-psychologists.	 So	 if	 the	 left	 hand	 moves
 clockwise,	why,	the	right	hand	should	move	counterclockwise.	Watch	out,	your
 plumber	or	architect	may	install	a	bathroom	fixture	whose	clockwise	rotation	has
 a	different	result	with	the	hot	water	than	with	the	cold.
@@ -5864,7 +5864,7 @@ problems.	 We	 design	 equipment	 that	 requires	 people	 to	 be	 fully	 alert	 
 attentive	 for	 hours,	 or	 to	 remember	 archaic,	 confusing	 procedures	 even	 if	 they
 are	only	used	infrequently,	sometimes	only	once	in	a	lifetime.	We	put	people	in
 boring	 environments	 with	 nothing	 to	 do	 for	 hours	 on	 end,	 until	 suddenly	 they
-must	 respond	 quickly	 and	 accurately.	 Or	 we	 subject	 them	 to	 complex,	 highworkload	environments,	where	they	are	continually	interrupted	while	having	to
+must	 respond	 quickly	 and	 accurately.	 Or	 we	 subject	 them	 to	 complex,	 high-workload	environments,	where	they	are	continually	interrupted	while	having	to
 do	multiple	tasks	simultaneously.	Then	we	wonder	why	there	is	failure.
 
 Even	 worse	is	 that	when	I	talk	to	 the	designers	 and	administrators	of	 these
@@ -6318,7 +6318,7 @@ Errors	caused	by	memory	failures	are	common.	Consider	these	examples:
 • Making	copies	of	a	document,	walking	off	with	the	copy,	but	leaving	the	original	inside	the	machine.
 
 • Forgetting	a	child.	This	error	has	numerous	examples,	such	as	leaving	a	child	behind	at	a	rest	stop
-during	a	car	trip,	or	in	the	dressing	room	of	a	department	store,	or	a	new	mother	forgetting	her	onemonth-old	and	having	to	go	to	the	police	for	help	in	finding	the	baby.
+during	a	car	trip,	or	in	the	dressing	room	of	a	department	store,	or	a	new	mother	forgetting	her	one-month-old	and	having	to	go	to	the	police	for	help	in	finding	the	baby.
 
 • Losing	 a	 pen	 because	 it	 was	 taken	 out	 to	 write	 something,	 then	 put	 down	 while	 doing	 some	 other
 task.	The	pen	is	forgotten	in	the	activities	of	putting	away	a	checkbook,	picking	up	goods,	talking	to
@@ -6504,7 +6504,7 @@ rule-	or	knowledge-based	itself,	can	lead	to	further	problems	as	the	action	cycl
 
 Example	 1:	 In	 2013,	 at	 the	 Kiss	 nightclub	 in	 Santa	 Maria,	 Brazil,
 pyrotechnics	 used	 by	 the	 band	 ignited	 a	 fire	 that	 killed	 over	 230	 people.
-The	 tragedy	 illustrates	 several	 mistakes.	 The	 band	 made	 a	 knowledgebased	 mistake	 when	 they	 used	 outdoor	 flares,	 which	 ignited	 the	 ceiling's
+The	 tragedy	 illustrates	 several	 mistakes.	 The	 band	 made	 a	 knowledgebased	 mistake	 when	 they	 used	 outdoor	 flares,	 which	 ignited	 the	 ceiling
 acoustic	tiles.	The	band	thought	the	flares	were	safe.	Many	people	rushed
 into	the	rest	rooms,	mistakenly	thinking	they	were	exits:	they	died.	Early
 reports	 suggested	 that	 the	 guards,	 unaware	 of	 the	 fire,	 at	 first	 mistakenly
@@ -6529,7 +6529,7 @@ unexpected	object	in	the	road	on	a	wet,	rainy	day.	The	driver	applies	full
 force	 to	 the	 brakes	 but	 the	 car	 skids,	 triggering	 the	 anti-lock	 brakes	 to
 rapidly	turn	the	brakes	on	and	off,	as	they	are	designed	to	do.	The	driver,
 feeling	the	vibrations,	believes	that	it	indicates	malfunction	and	therefore
-lifts	his	foot	off	the	brake	pedal.	In	fact,	the	vibration	is	a	signal	that	antilock	brakes	are	working	properly.	The	driver's	misevaluation	leads	to	the
+lifts	his	foot	off	the	brake	pedal.	In	fact,	the	vibration	is	a	signal	that	antilock	brakes	are	working	properly.	The	driver's	mis-evaluation	leads	to	the
 wrong	behavior.
 
 Rule-based	mistakes	are	difficult	to	avoid	and	then	difficult	to	detect.	Once
@@ -6652,7 +6652,7 @@ to	forgetting	the	evaluation	of	the	current	state	of	the	environment.	These	lead
 mistakes,	 not	 slips,	 because	 the	 goals	 and	 plans	 become	 wrong.	 Forgetting
 earlier	evaluations	often	means	remaking	the	decision,	sometimes	erroneously.
 
-The	 design	 cures	 for	 memory-lapse	 mistakes	 are	 the	 same	 as	 for	 memorylapse	slips:	ensure	that	all	the	relevant	information	is	continuously	available.	The
+The	 design	 cures	 for	 memory-lapse	 mistakes	 are	 the	 same	 as	 for	 memory-lapse	slips:	ensure	that	all	the	relevant	information	is	continuously	available.	The
 goals,	 plans,	 and	 current	 evaluation	 of	 the	 system	 are	 of	 particular	 importance
 and	should	be	continually	available.	Far	too	many	designs	eliminate	all	signs	of
 these	items	once	they	have	been	made	or	acted	upon.	Once	again,	the	designer
@@ -6762,7 +6762,7 @@ reported,	 "may	 have	 predisposed	 the	 crew	 to	 hurry."	 The	 accident	 occur
 despite	the	first	officer's	attempt	to	warn	the	captain,	who	was	flying	the	airplane
 (the	 captain	 and	 first	 officer—sometimes	 called	 the	 copilot—usually	 alternate
 flying	roles	on	different	legs	of	a	trip).	The	NTSB	report	quotes	the	flight	deck
-recorder's	 documenting	 that	 "although	 the	 first	 officer	 expressed	 concern	 that
+recorder	 documenting	 that	 "although	 the	 first	 officer	 expressed	 concern	 that
 something	'was	not	right'	to	the	captain	four	times	during	the	takeoff,	the	captain
 took	no	action	to	reject	the	takeoff."	NTSB	summarized	the	causes	this	way:
 
@@ -6877,7 +6877,7 @@ determine	how	it	occurred	and	change	things	so	that	it	will	not	happen	again.
 
 CASE	STUDY:	JIDOKA—HOW	TOYOTA	HANDLES	ERROR
 
-The	 Toyota	 automobile	 company	 has	 developed	 an	 extremely	 efficient	 errorreduction	 process	 for	 manufacturing,	 widely	 known	 as	 the	 Toyota	 Production
+The	 Toyota	 automobile	 company	 has	 developed	 an	 extremely	 efficient	 error-reduction	 process	 for	 manufacturing,	 widely	 known	 as	 the	 Toyota	 Production
 System.	 Among	 its	 many	 key	 principles	 is	 a	 philosophy	 called	 Jidoka,	 which
 Toyota	 says	 is	 "roughly	 translated	 as	 'automation	 with	 a	 human	 touch.'"	 If	 a
 worker	notices	something	wrong,	the	worker	is	supposed	to	report	it,	sometimes
@@ -8221,7 +8221,7 @@ have	 arbitrary,	 incomprehensible	 requirements,	 they	 are	 quite	 willing	 to
 things	that	appear	to	be	essential	to	the	activity.	Does	this	violate	the	principles
 of	human-centered	design?	Not	at	all:	consider	it	an	enhancement	of	HCD.	After
 all,	 the	 activities	 are	 done	 by	 and	 for	 people.	 Activity-centered	 approaches	 are
-human-centered	 approaches,	 far	 better	 suited	 for	 large,	 nonhomogeneous
+human-centered	 approaches,	 far	 better	 suited	 for	 large,	 non-homogeneous
 populations.
 
 Take	another	look	at	the	automobile,	basically	identical	all	across	the	world.
@@ -8369,7 +8369,7 @@ some	iterative	testing	with	rapidly	deployed	prototypes	has	been	done,	while	sti
 keeping	 tight	 control	 over	 schedule,	 budget,	 and	 quality.	 It	 may	 appear
 impossible	 to	 prototype	 some	 large	 projects	 (for	 example,	 large	 transportation
 systems),	 but	 even	 there	 a	 lot	 can	 be	 done.	 The	 prototypes	 might	 be	 scaled
-objects,	 constructed	 by	 model	 makers	 or	 3-D	 printing	 methods.	 Even	 wellrendered	drawings	and	videos	of	cartoons	or	simple	animation	sketches	can	be
+objects,	 constructed	 by	 model	 makers	 or	 3-D	 printing	 methods.	 Even	 well-rendered	drawings	and	videos	of	cartoons	or	simple	animation	sketches	can	be
 useful.	Virtual	reality	computer	aids	allow	people	to	envision	themselves	using
 the	 final	 product,	 and	 in	 the	 case	 of	 a	 building,	 to	 envision	 living	 or	 working
 within	it.	All	of	these	methods	can	provide	rapid	feedback	before	much	time	or
@@ -11482,7 +11482,7 @@ Kempton,	W.	(1986).	Two	theories	of	home	heat	control.	Cognitive	Science,	10,	75
 
 Kumar,	V.	(2013).	101	design	methods:	A	structured	approach	for	driving	innovation	in	your	organization.
 
-Hoboken,	NJ:	Wiley.	http://www.101designmethods.com/
+Hoboken,	NJ:	Wiley.	http://www.101design methods.com/
 
 Lee,	 J.	 D.,	 &	 Kirlik,	 A.	 (2013).	 The	 Oxford	 handbook	 of	 cognitive	 engineering.	 New	 York:	 Oxford
 

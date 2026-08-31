@@ -774,7 +774,7 @@ fully rational agents who are wholly self- interested.10 This is
 supposed to be the realistic conception of democratic legitimacy. This model presupposes that people have reliable access
 to their interests. But, we shall see, propaganda is characteristically part of the mechanism by which people become deceived
 about how best to realize their goals, and hence deceived from
-seeing what is in their own best interests.11 Propaganda shortcircuits "economic" rationality.
+seeing what is in their own best interests.11 Propaganda short-circuits "economic" rationality.
 
 There are more plausible cousins of the economic theory
 of democracy. The economic theory involves the assumption that people know what is in their interests. One might
@@ -1516,7 +1516,7 @@ get." The problem Rousseau seeks to answer is how, in civil
 society, humans can remain free, despite losing their natural
 liberty.10 Rousseau's solution is to motivate a distinct kind of
 liberty. Natural liberty, for Rousseau, is more often than not
-mere "motivation by sheer apatite." Genuine liberty is, for
+mere "motivation by sheer appetite." Genuine liberty is, for
 Rousseau, different than this; it is what he calls civil liberty. By
 being a citizen in a sovereign power, one gains civil liberty. It
 is "obedience to self- imposed law," of the sort formed by deliberation in citizens' assemblies, which is genuine freedom.
@@ -1614,7 +1614,7 @@ In W.E.B. Du Bois's paper "Criteria of Negro Art," published in
 Bois calls "propaganda." By "propaganda," Du Bois means emotional appeals to win the respect, empathy, and understanding
 of whites. Du Bois clearly uses "propaganda" in a neutral sense,
 rather than a pejorative sense, and calls for propaganda to be
-used as a weapon for Black liberation. Libratory propaganda
+used as a weapon for Black liberation. Liberatory propaganda
 of this kind does not aim at the truth. But it nevertheless
 seems acceptable, and even at certain moments necessary, as
 a method of realizing those ideals in states that follow liberal
@@ -1623,7 +1623,7 @@ lies not just in describing its nature and efficacy. An account
 of propaganda must also explain when it undermines liberal
 democratic ideals and when it supports them.
 
-In English, the word "propaganda" has acquired a pejorative connation. It lacks that pejorative connotation in the writings of American authors in the early twentieth century. There
+In English, the word "propaganda" has acquired a pejorative connotation. It lacks that pejorative connotation in the writings of American authors in the early twentieth century. There
 are no doubt historical reasons for this. One can imagine that
 the English word "propaganda" and some of its translations
 could have acquired a pejorative connotation from the undemocratic effects of the latter. As I will discuss, there might be
@@ -3882,7 +3882,7 @@ positive propaganda of people who believe white blood divine, infallible and hol
 similar right of propaganda to those who believe Black blood
 human, lovable and inspired with new ideals for the world."
 Later in the essay, Du Bois expands on the desired effect of
-art used as propaganda: "[U]ntil the art of the black folk compells recognition they will not be rated as human. And when
+art used as propaganda: "[U]ntil the art of the black folk compels recognition they will not be rated as human. And when
 through art they compell recognition then let the world discover if it will that their art is as new as it is old and as old as
 new." Here, Du Bois uses "propaganda" to denote appeals to
 emotion, of the sort evoked by art, in the service of the message that Blacks deserve equal respect as humans and citizens.
@@ -4724,7 +4724,7 @@ heard that the president is about to give a speech, is simply
 added to the common ground. Challenges to (5) are challenges
 to the at- issue content, but not to the not- at- issue content that
 the speaker heard the at- issue content. This raises the possibility
-that one can communicate a noneasily challenged meaning by
+that one can communicate a non-easily challenged meaning by
 attaching it to an expression as not- at- issue content.
 
 Here is a final example of not- at- issue content, involving
@@ -4853,7 +4853,7 @@ for a group. It is rather that words have direct not- at- issue emotional effect
 According to the expressive model, one kind of paradigmatic
 propaganda in a liberal democracy would have a normal atissue content that seems reasonable, and would also have a
 not- at- issue effect that would decrease empathy for a group.
-Since decreasing empathy for a group runs counter to reasonability, its not- at- issue effects would be unreasonable.
+Since decreasing empathy for a group runs counter to reasonableness, its not- at- issue effects would be unreasonable.
 
 The division in the theory of meaning between expressivist
 theories and content theories is central in twentieth- century
@@ -4865,7 +4865,7 @@ the kind of linguistic behavior that shows that our interpretation of the releva
 For example, the "Frege- Geach Problem" is that declarative
 sentences can be embedded in more complex constructions.
 For example, "If you make a lot of money, then you ought to
-give some money to solve social injustice" is a perfectly wellformed sentence of English. Yet the mechanisms required to
+give some money to solve social injustice" is a perfectly well-formed sentence of English. Yet the mechanisms required to
 explain the process by which the meaning of one sentence
 contributes to the meanings of larger sentences containing it,
 the so- called problem of compositionality, all employ models
@@ -5145,7 +5145,7 @@ flawed ideology.
 
 It is by now clear that the topic of slurs is extremely important in understanding the mechanism by which genocide
 occurs. David Livingstone Smith reports a Japanese veteran of
-the Rape of Nanjing, one of history's most indescribably brutal massacres, as describing the Chinese as "chancorro," meaning like bugs or animals.24 In her paper "Genocidal Language
+the Rape of Nanjing, one of history's most indescribably brutal massacres, as describing the Chinese as "chankoro," meaning like bugs or animals.24 In her paper "Genocidal Language
 Games," published in 2012, the philosopher Lynne Tirrell describes in detail how "[t]he use of derogatory terms played a
 
 significant role in laying the social groundwork for the 1994
@@ -5395,7 +5395,7 @@ law bring our attention to the social meaning of laws. Social
 meaning does not need to take the form of truth- evaluable
 contents. The social meaning can take the form of a command,
 an instruction to prefer certain situations above other situations. We have already explained how to model formally social
-meanings that are nontruth conditional in this way.
+meanings that are non-truth conditional in this way.
 
 Institutions and laws have social meaning. Words too have
 social meanings. As Michael Walzer writes, "[T]he words prostitution and bribery, like simony, describe the sale and purchase
@@ -5694,7 +5694,7 @@ also reveals the pervasiveness of the use of social meaning in
 deliberation. In describing the debate about federalism, they
 write, "In Printz, Justice Scalia characterizes Congress as having 'dragooned' state officials and as having reduced the states
 to '[p]uppets of a ventriloquist Congress,' which hardly seems
-consistent with the '[p]reseveration of the States as independent political entities.' "48 In a debate about whether or not
+consistent with the '[p]preservation of the States as independent political entities.' "48 In a debate about whether or not
 the states were being unfairly subordinated, Justice Scalia employed expressions with a social meaning that conveys "degradation, subordination, and domination," thereby attempting to bias deliberation that is intended precisely to establish
 whether or not improper degradation and subordination are
 in fact occurring.
@@ -5970,7 +5970,7 @@ reason, the measure of a democracy can be taken by the proportion of participant
 the procedures exemplify those ideals (and hence act on that
 supposition).
 
-However, the Deweyian conception of norm guidance as
+However, the Deweyan conception of norm guidance as
 faith is too problematic to be adopted. The problem is that
 faith in democratic ideals leads us to blindness about their violations. To simply assume that policies based on appeal to bias
 and special interest were democratically legitimate risks overlooking too many concrete instances of injustice. This is simply too large a risk to take.
@@ -7029,7 +7029,7 @@ closely related to the Greek logos than to the Latin ratio. . . .
 At any rate, Negro- African speech does not mold the object
 into rigid categories and concepts without touching it; it
 polishes things and restores their original color, with their
-texture, sound and perfume; it perforates them with its luminous rays to reach the essential surreality in its innate humidity— it would be more accurate to speak of subreality.
+texture, sound and perfume; it perforates them with its luminous rays to reach the essential surreality in its innate humidity— it would be more accurate to speak of sub-reality.
 
 European reasoning is analytical, discursive by utilization;
 Negro- African reasoning is intuitive by participation.33
@@ -7201,7 +7201,7 @@ formation of even perceptual beliefs.
 
 As we have seen, there are stronger and weaker forms of
 the thesis that bias affects perceptual belief. According to the
-strongest form, defended in Siegel's book The Rationality of
+strongest form, defended in Siegel book The Rationality of
 Perception, bias affects the perceptual content of our experiences themselves. We literally have "biased experiences."40 According to one weaker form of the thesis, bias affects what we
 attend to in our visual field, and hence what information we
 receive from perception. According to another, bias affects the
@@ -7607,7 +7607,7 @@ Kahan and his colleagues presented 202 experimental subjects with a three- and- 
 a building, after testing them for their cultural and political
 worldviews.16 The subjects were asked to imagine themselves
 as members of a jury, deciding whether the police had violated
-the protestor's constitutional right to free speech in intervening. Half the subjects were told that the film was of protesters
+the protesters constitutional right to free speech in intervening. Half the subjects were told that the film was of protesters
 outside an abortion clinic protesting legalized abortion, and
 the other half were told that the film was of protestors outside a military recruitment center objecting to the military's
 ban on openly gay and lesbian members of the military. Kahan
@@ -7679,9 +7679,9 @@ governors have nothing to support them but opinion. It is
 therefore, on opinion only that government is founded; and
 this maxim extends to the most despotic and most military
 governments, as well as to the most free and most popular.
-The soldan of egypt, or the emperor of rome, might drive
+The sultan of egypt, or the emperor of rome, might drive
 his harmless subjects, like brute beasts, against their sentiments and inclination: But he must, at least, have led his
-mamalukes, or prætorian bands, like men, by their opinion.
+mamlukes, or prætorian bands, like men, by their opinion.
 
 The puzzle Hume here raises is as follows. Why are subjects
 whose interests are not furthered by the agenda of the elite
@@ -7689,7 +7689,7 @@ nevertheless guided by the opinions the elite wish them to
 have? Max Weber later writes:
 
 Every highly privileged group develops the myth of its natural, especially its blood, superiority. Under conditions of
-stable distribution of power and, consequently, of an estatist order, that myth is accepted by the negatively privileged
+stable distribution of power and, consequently, of an statist order, that myth is accepted by the negatively privileged
 group.22
 
 It is natural to think that the elite maintain power by promulgating the flawed ideology that their interests are the interests
@@ -7797,7 +7797,7 @@ training in leadership offered to prefects, there lay a central
 core of Christian faith."27 Christian education was given the
 same attention in terms of the curriculum as physics.28 When
 Laurence Campbell became headmaster after the legendary
-Carey Francis retired in 1962, he wrote in the Headmaster's
+Carey Francis retired in 1962, he wrote in the Headmaster
 Notes to New Members of Staff:
 
 From the first Alliance has set out to be a Christian family
@@ -8077,7 +8077,7 @@ to exceptions in the language of emergency.45
 
 At the time, Dan Rather was one of the most respected news
 anchors in the United States. His attitude was not exceptional.
-Bill Moyers's documentary Buying the War contains clips of
+Bill Moyers documentary Buying the War contains clips of
 Oprah Winfrey showing clear war propaganda about the Iraqi
 people's wish to be freed by the United States, and then replying to a respectful and deferential audience member's expression of befuddlement, "We're not trying to propagandize,
 show you propaganda. We're just showing you what is." She
@@ -8184,7 +8184,7 @@ by increasingly insistent demands from the learner that the
 experiment be stopped because of the growing discomfort
 from him. However, in clear terms the experimenter orders
 the teacher to continue with the procedure in disregard of
-the learner's protests. . . . The experimenter's authority operates not in a free field, but against ever- mounting counterveiling pressure from the person being punished. . . .
+the learner's protests. . . . The experimenter's authority operates not in a free field, but against ever- mounting countervailing pressure from the person being punished. . . .
 
 For the purpose of delivering shock, a simulated shock
 generator is used, with 30 clearly marked voltage levels that
@@ -8215,7 +8215,7 @@ that their actions were wrong. The fake subject in the electric
 chair complained repeatedly of pain, and noted the presence of
 a dangerous heart condition. But by a large majority, the real
 subjects nevertheless persisted in applying the electrical shocks.
-They did so because of their uncritical acceptance of the scientist in charge's claims of the moral acceptability of their actions, despite clear evidence to the contrary. Milgram's work
+They did so because of their uncritical acceptance of the scientist in charge claims of the moral acceptability of their actions, despite clear evidence to the contrary. Milgram's work
 thereby addresses perhaps the most puzzling aspect of the thesis that negatively privileged groups generally tend to accept
 the ideology of the highly privileged group. Milgram's work
 supports the view that "uncritical acceptance" of the claims of
@@ -8322,7 +8322,7 @@ They possess, not the practical authority of law, whether
 slave law or apartheid law. They possess, in the first instance, a perceived epistemic authority, given the endorsement of the ruling Nazi party, whose imprimatur enables
 them to masquerade as expert knowledge of a Jewish menace. To say that Nazi propaganda has "perceived epistemic
 authority" amounts to saying it has the credibility component of epistemic authority, in this domain or jurisdiction.
-But this in turn enables its urgings and recommendations
+But this in turn enables its urging and recommendations
 to be practically authoritative, for those in its jurisdiction
 who see it in these terms.
 
@@ -8395,7 +8395,7 @@ has to proofread his paper twice before he knows that there
 are no typos. The median answer for (Typo- High) was that
 John has to proofread his paper five times before he knows
 that there are no typos. Mayseless and Kruglanski already provided strong evidence from social psychology that we expect
-that people facing a high- stakes decision must gather more evidence in order to act on a belief than if that decision were lowstakes.56 If knowledge is the norm of action, it is unsurprising
+that people facing a high- stakes decision must gather more evidence in order to act on a belief than if that decision were low-stakes.56 If knowledge is the norm of action, it is unsurprising
 that we expect that those facing a high- stakes decision must
 gather more evidence in order to know something that is the
 basis for their decision.
@@ -8979,7 +8979,7 @@ knowledge comes from a recent New York Times piece, "Is the
 Johns Hopkins neuroscientist John Krakauer. H. M. was a patient who suffered a temporal medial lobe lesion that caused
 him to forget very rapidly every piece of information he
 learned. In a groundbreaking experiment published in 1962,
-the psychologist Brenda Milner had H. M. perform a mirrordrawing task. The task required H. M. to trace the outline of
+the psychologist Brenda Milner had H. M. perform a mirror-drawing task. The task required H. M. to trace the outline of
 a star with a pencil, using a mirror to guide him, with vision
 of his arm obscured. Over the course of three days, H. M. improved his performance of this task, even though he had no
 explicit memory of having encountered it on previous days.
@@ -9708,7 +9708,7 @@ discussions.
 
 My law school colleague Dan Kahan has read and commented on two complete drafts of the book. As in the case
 of Darwall, his intellectual influence on the book is obvious.
-Another Yale colleague to whom I owe a large debt is Christopher Lebron. Chris has been simply invaluable in my transition to social and political philosophy. While coparenting
+Another Yale colleague to whom I owe a large debt is Christopher Lebron. Chris has been simply invaluable in my transition to social and political philosophy. While co-parenting
 with our similarly aged sons, I always ran my latest ideas by
 Chris. I had to stop adding footnotes to our discussions, because his contributions to the everyday construction of my
 arguments were simply too numerous. Dan Greco is every
@@ -9752,7 +9752,7 @@ and commented in detail upon many early versions of the first
 few chapters, and provided invaluable guidance at the initial
 stages of the project. Kristie Dotson and Kathryn Pogin both
 went through multiple drafts of chapters with a fine- tooth
-comb and were always available for sometimes multihour
+comb and were always available for sometimes multi-hour
 consultations. Dotson has just been extraordinarily generous
 with her time. Her work, as is clear, has made a large impact on
 my own, particularly on the two chapters on ideology. I have
@@ -10096,7 +10096,7 @@ demagoguery to be behind David Hume's description of press freedom
 as an "evil," in his concluding comment in 1.2 in Of the First Principles of
 Government: "It must however be allowed, that the unbounded liberty
 of the press, though it be difficult, perhaps impossible, to propose a
-suitable remedy for it, is one of the evils, attending those mixt forms of
+suitable remedy for it, is one of the evils, attending those mixed forms of
 government."
 
 3. There are some democracies that legislate this issue. In India,
@@ -10396,7 +10396,7 @@ NOTES TO CHAPTER 3
 the project he defends in his book, which is to show that there is a
 kind of persuasive rhetoric that "engages our capacity for practical
 judgment." Garsten, Saving Persuasion, p. 174. Garsten is defending, for
-example, anecdotal reasons as legitimate contributions to public reason. Garston's defense is that this way of representing one's reasons
+example, anecdotal reasons as legitimate contributions to public reason. Garston defense is that this way of representing one's reasons
 is a constitutive part of what one might think of as bounded rationality, rationality given human limitations. Anecdotes and narratives
 can be reasons for creatures that "have a way of deciding what to do
 in particular situations that cannot be expressed in a set of rules." Ibid.,
@@ -10579,9 +10579,9 @@ on a 100 point scale. . . . A message about welfare that is not implicitly
 racial reduces the power of racial predispositions by nearly 50 percent."
 Ibid., p. 199.
 
-32. http://www.nahj.org/nahjnews/articles/2006/March/immigra
+32. http://www.nahj.org/nahjnews/articles/2006/March/immigration
 
-tioncoverage.shtml.
+toncoverage.shtml.
 
 33. http://www.courts.ca.gov/opinions/documents/S202512.PDF.
 34. In Jennifer Saul's, Lying, Misleading, and What Is Said, she argues
@@ -10711,7 +10711,7 @@ have at least some resistance to counterevidence. Peter Railton argues in
 forthcoming work that what in part explains what Fricker calls the "reasonable life expectancy" (p. 52) is in an affective attachment that makes
 one's commitment always somewhat disproportional to the evidence.
 
-20. This quotation is from Ta- Nehisi Coates's article in The Atlantic
+20. This quotation is from Ta- Nehisi Coates article in The Atlantic
 
 from June 2014, "The Case for Reparations."
 
@@ -11204,7 +11204,7 @@ Cicero. On Duties. Translated by Andrew Peabody. Boston: Little, Brown,
 
 1887.
 
-Coates, Ta- nahesi. "The Case for Reparations." Atlantic, June 2014.
+Coates, Ta- Ta-Nehisi. "The Case for Reparations." Atlantic, June 2014.
 Cohen, Joshua, and Joel Rogers. "Power and Reason." In Fung and
 
 Wright, Deepening Democracy.
@@ -11400,7 +11400,7 @@ Klemperer, Victor. I Will Bear Witness: A Diary of the Nazi Years, 1933–
 
 1941. New York: Random House, 1998.
 
-———. Language of the Third Reich: LTI, Linguii Tertii Imperii. Translated by Martin Brady. London: Continuum, 2006. First published
+———. Language of the Third Reich: LTI, Lingua Tertii Imperii. Translated by Martin Brady. London: Continuum, 2006. First published
 in German in 1947.
 
 Kliebard, Herbert M. Schooled to Work: Vocationalism and the American
@@ -11644,7 +11644,7 @@ Smith, David Livingstone. Less Than Human: Why We Demean, Enslave,
 
 and Exterminate Others. New York: St. Martin's, 2011.
 
-Sobieraj, Sarah. Soundbitten: The Perils of Media- Centered Political Activism. New York: New York University Press, 2011.
+Sobieraj, Sarah. Soundbites: The Perils of Media- Centered Political Activism. New York: New York University Press, 2011.
 
 Sosa, Ernest. "How Must Knowledge Be Modally Related to What Is
 

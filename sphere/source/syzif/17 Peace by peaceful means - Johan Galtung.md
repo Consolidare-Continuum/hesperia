@@ -229,13 +229,13 @@ liberators - including the present author.
 
 I would like to express my deep gratitude to the many students at the universities of
 Alicante; Bern; Burg Schlaining (European Peace University); Cairo; City University of
-New York; Duke; Firenze; FLACSO Santiago/Mexico; Freie Universitiit Berlin; Gujarat
+New York; Duke; Firenze; FLACSO Santiago/Mexico; Freie Universität Berlin; Gujarat
 Vidyapith; Hawai'i; ICU Tokyo; Inter-University Centre, Dubrovnik; Oslo; Princeton;
 Queensland; Saarland; Sichuan; Troms",; Witten/Herdecke and the Peace Studies Around
 the World; for countless active, critical and constructive dialogues. And to the Right
 Livelihood Award Foundation, for support at a crucial moment.
 
-Deep thanks to Dieter Fischer, Susan H",ivik, Hajo Schmidt, and HAkan Wiberg, and
+Deep thanks to Dieter Fischer, Susan H",Hivik, Hajo Schmidt, and HAkan Wiberg, and
 to my critic Peter Lawler (A Question of Values: lohan Galtung's Peace Research). There
 are answers in my writings to what he says; but the issues are perennial.
 
@@ -521,7 +521,7 @@ still be violence around, some still organized collectively as wars. But it will
 
 What upholds war? Many factors, three of them being patriarchy (rule by the male gender of the human species), the state system with its monopoly on violence, and the
 super-state or superpower system with the ultimate monopoly of the hegemons. Males
-more than females tend toward violence; and tqose who possess arms tend to think and
+more than females tend toward violence; and those who possess arms tend to think and
 act according to the old adage that to the person with a hammer the world looks like a
 nail. Incidentally, this is not necessarily so because such a person is violent, but because
 he has the use of military power as both profession and monopoly and simply wants to
@@ -531,7 +531,7 @@ To fight patriarchy means fighting patriarchal cultures and structures and arriv
 a more equitable power-sharing between the genders. The danger is that, in the process of
 the struggle, women may take on some of the male values they are fighting.
 
-The struggle against the tendency of states to seek recourse to milirary power goes by
+The struggle against the tendency of states to seek recourse to military power goes by
 way of alternatives that are more compelling. And the struggle against hegemonic tendencies in the world society of societies goes by way of democratization of that society,
 '
 creating alliances of non-hegemonic countries within or across their 'spheres of interest',
@@ -546,7 +546,7 @@ INTRO DUCTION
 
 them are positive, like the challenge derived from taking on complex problems for which
 there are no immediate, routine solutions. And some of them are negative, like ecological
-degradation, not to mention human degradation. They are not reflected in economic theory, or at most as side- and after-tho\lghts. Economists focus on quantities and prices of
+degradation, not to mention human degradation. They are not reflected in economic theory, or at most as side- and after-tho\thoughts. Economists focus on quantities and prices of
 products. goods, and services offered on the market without reflecting whether they
 might also be bads and disservices. Such variables are referred to as internalities, internal
 to the paradigm. One example is 'terms of exchange', the quantity of one product needed
@@ -590,7 +590,7 @@ to see killing as legitimate under some conditions. That brings us to culture. t
 legitimizer of violence, but also of peace. Where do we find the key carriers of violence?
 The easy answer would be 'religion and ideology', since people are known to kill in the
 name of either. However, not all religions or ideologies are violent; some are even outspoken in their advocacy of nonviolence. Or, to use the formulation preferred here:
-religions and ideologies can come in hard and sofivarieties, the harder varieties tending
+religions and ideologies can come in hard and soft varieties, the harder varieties tending
 to focus on some abstract, transcending goal and the softer ones on empathy, even compassion. Examples of the former would be the triumph of a transcendent God, for
 
 INTRODUCTION
@@ -630,12 +630,12 @@ Table I gives some ideas that might be useful. A world where each place is a cen
 no place a periphery. A less dramatic time concept; ups and downs are normal, but they
 should be kept within bounds. The world can only be understood in a reasonably holistic and global manner. Partnership with nature, with humans and nature serving each
 other, providing for each other's basic needs. Equality and justice within and among
-societies. The enhancement of all life as the end, and as the means. Words, words, wordsbut important all the same.
+societies. The enhancement of all life as the end, and as the means. Words, words, words but important all the same.
 
 8 Who Are the Carriers of Peace Strategies?
 
 In principle, the answer is everyone. But in practice there are problems in having the state
-system as carrier. One reitlon has been mentioned above: the tendency to transform the
+system as carrier. One relation has been mentioned above: the tendency to transform the
 system, or at least the image of it, so that the means at one's disposal become relevant or
 at least appear to be relevant, and we end up with sticks, meaning violence, rewards, and
 negotiating elites.
@@ -710,7 +710,7 @@ PEACE THEORY
 
 Peace Studies:
 
-an Epi stemological Basi s
+an Epi epistemological Basi s
 
 1 . 1 A Point o f Departure: Peace b y Peaceful Means
 
@@ -750,7 +750,7 @@ stamp. Science is public.
 A suitable point of departure is the distinction between three branches of peace studies. I
 
 Empirical peace studies, based on empiricism: the systematic comparison of theories
-with empirical reality (data), revising the theories if they do not agrep. with the datadata being stronger than theory.
+with empirical reality (data), revising the theories if they do not agree. with the data data being stronger than theory.
 
 to
 
@@ -781,7 +781,7 @@ adjusting the latter to the former to get consonance between data and theory.
 
 Much can be learned from this, particularly about the past. But the (positivist) assumption that what held in the past also holds in the future is a dramatic assumption,
 presupposing that social phenomena have time homogeneity, with no major changes, continuous or discontinuous (ruptures) through time. Continuous changes can be predicted
-through extrapolation, particularly if they are monotonic, with never-waxing or neverwaning trends. Discontinuous changes are more problematic. Could people in the Roman
+through extrapolation, particularly if they are monotonic, with never-waxing or never waning trends. Discontinuous changes are more problematic. Could people in the Roman
 Empire have understood the 'Middle Ages', manorial or feudal phases; could medieval
 people understand the 'Modern Period'; indeed, do we understand 'Post-Modernity'?
 Futures transcending past experiences, available through empirical studies, are unknown
@@ -961,7 +961,7 @@ The core value. peace. has to be well. but not too well. defined.
 If the value of peace is the guiding light for peace studies, for the empirical, critical, and
 constructive branches, then this term must be defined. Much work has to be done to
 
-PART I : PEAC E T H EORY
+PART I : PEACE E T H EORY
 
 make the term 'peace' precise enough, with specifications, with indicators, so that a given
 'situation' (the corresponding medical term is 'case') can be classified and understood in
@@ -1091,7 +1091,7 @@ Take peace vs. violence. Of course these two words can be defined as each other'
 insight by pointing to the violence in peace (for instance, by being too passive) and the
 peace in violence (for instance, by being active). There is the presence of yin in yang and
 of yang in yin; of yang in the yin in the yang and yin in the yang in the yin, and so on, ad
-inf Furthermore - a more Hindu/Buddhistl1ainist point: the both/and and the neither/nor possibilities should always be considered. The strict Aristotelian tertium non
+inf Furthermore - a more Hindu/Buddhist1Buddhist point: the both/and and the neither/nor possibilities should always be considered. The strict Aristotelian tertium non
 datur is a poor guide in constructing reality, except as a logical game. The man/woman
 distinction is useful, but limits our awareness of the broad spectrum of actual, not to
 mention potential, gender reality.
@@ -1105,7 +1105,7 @@ seeing peace/violence in the light of woman/man).
 The dichotomy as such is a dead thing: there is no process. The Manichean dichotomy,
 so frequent in occidental thought, does have life because one is good, the other evil and
 there is struggle between the two, with no outcome guaranteed in advance. There is a gradient. Ideally the good will prevail, but the evil forces may prove too strong; in either case,
-dichotomy ends up as monotomy (very close to monotony, some kind of men tal 10 botomy). No doubt peace studies, like health studies, is based on a steep gradient between
+dichotomy ends up as monotony (very close to monotony, some kind of men tal 10 botomy). No doubt peace studies, like health studies, is based on a steep gradient between
 violence and peace, disease and health; yet it should be open to the yin/yang nature of
 these contradictions.
 
@@ -1122,7 +1122,7 @@ process has no final state, no ultimate triumph of good over evil (or vice versa
 
 1 7
 
-simplistic occidental thought facilitates action, intervening in the tJood/evil struggle, but at
+simplistic occidental thought facilitates action, intervening in the good/evil struggle, but at
 the risk of making major mistakes.
 
 Journalists are always asking: 'Will there ultimately be peace in the world?' This q4estion is subconsciously inspired by the Manichean dichotomy between violence (or more
@@ -1158,7 +1158,7 @@ More precisely, the hypothesis calls for an equilibrium, a harmony between the d
 relationship. However, unless watched and protected, that equilibrium is not stable but
 could be reversed. Thus, the prediction would be a long-term world tendency for South
 to dominate North after some period of equilibrium. and for East to dominate West.
-History rides on waves, into the future. To each actio a reactlo.
+History rides on waves, into the future. To each actio a reaction.
 
 But in that case, the world Southeast, meaning particularly the Buddhist-Confucian
 countries (China and Japan, Korea and Viet Nam) are riding on a double wave. We
@@ -1177,12 +1177,12 @@ the diagonals in a fourfold table because there are two, usually different, proc
 East-West conflict as two separate phenomena, forgetting the inner contradictions in all
 categories, their transient nature, forgetting the Northwest-Southeast conflict, and forgetting how one conflict or diagonal can impact on the other, would have been impossible
 under the more subtle Daoist logic. Northeast and Southwest also become interesting categories, including in their relation to each other. But here there would be two tidal waves
-in opposite directiol's, with Northeast waning as North and waxing as East (and
+in opposite directions, with Northeast waning as North and waxing as East (and
 Southwest waxing as South and waning as West); partly canceling each other.
 
 Recent geopolitics would seem to confirm such perspectives, making a complete mock­
 
-ery of EastlWest and North/South dichotomies.
+ery of East/West and North/South dichotomies.
 
 Theory-thesis No. 2
 
@@ -1253,7 +1253,7 @@ coupling between the phenomena; but some hypotheses are offered in Table 1 . 1 .
 First, the main diagonal of same mode phenomena, starting with two sets of events produced in two parts or 'corners' of the system. As they mirror, topologically, human
 action in general and speech in particular, both of which are discontinuous phenomena,
 
-PEACE STUPIES: EPISTEMOLOGICAL BASIS
+PEACE STUDIES: EPISTEMOLOGICAL BASIS
 
 1 9
 
@@ -1268,7 +1268,7 @@ measured in human time.
 
 With phenomena proceeding in different modes everything becomes more lively. Events
 may impact greatly on processes and permanents. Launched at the right moment, they
-may be pro-cycli.cal and counter-cyclical, accelerating or decelerating processes. And
+may be pro-cyclical.cal and counter-cyclical, accelerating or decelerating processes. And
 they may impact even more on permanents - like the proverbial Inuit giving an iceberg
 perched in unstable equilibrium a little push into the ocean.
 
@@ -1409,7 +1409,7 @@ the world), commentary (what do others say about it, also the Talmudic tradition
 for a viable and attainable future); education (bringing more people into peace studies and
 research); action (the translation of all of this into peace-relevant praxis).'
 
-What has been called the Saxonic style puts the emphasis on data; both the Teutonic
+What has been called the Saxon style puts the emphasis on data; both the Teutonic
 and Gallic styles put the emphasis on theory and on paradigms; the Nipponic style on
 commentary, a pastime also engaged in by the others (additionally, Judaic, Islamic, Indic
 and Sinic intellectual styles are being explored). All engage in education, probably
@@ -1446,7 +1446,7 @@ It is deductive. And sensible.
 And finally, some comments on relative emphasis. The paradigms of peace research
 are of utmost importance. Concretely, this means the never-ending exploration of the
 term 'peace', checking the discourses surrounding 'peace' for over- and under-emphasis,
-and particularly for cubjugation of discourses. We must draw upon all meanings of
+and particularly for subjugation of discourses. We must draw upon all meanings of
 'peace' in all corners of history and geography, using fully the transnational nature of
 peace studies.
 
@@ -1478,7 +1478,7 @@ I . See lohan Galtung, Methodology and Ideology (Copenhagen: Ejlers, 1977), ch. 
 State being only one organization inside the country with no monopoly on 'foreign affairs' in the age
 of the TNCs for Capital, and the INGOs or IPOs (international people's organizations) for Civil
 Society. Human beings are certainly also organized in nations, and nations relate, like Serbs and
-Croats in ex-Yugoslavia. A possible nlime for that discipline might be 'inter-nation' relations, avoiding the word 'ethnic', as it is mainly used about the nations of other peoples (like 'tribe').
+Croats in ex-Yugoslavia. A possible name for that discipline might be 'inter-nation' relations, avoiding the word 'ethnic', as it is mainly used about the nations of other peoples (like 'tribe').
 'International relations' sounds like all countries have become nation-states when in fact only about
 20 (of 200) may be said to fall in the category of being un i-national. Why not use the term 'world
 studies' to cover all of this, like 'social studies' and 'human studies'?
@@ -1510,7 +1510,7 @@ Essays in Peace Research, vol. VI (Copenhagen: Ejlers, 1 988), ch. 14.
 
 Peace Studies: Some B asic Paradigms
 
-2.1 Tbe Diagnosis-Prognosis-Tberapy Triangle Again
+2.1 Tbe Diagnosis-Prognosis-Therapy Triangle Again
 
 This language is obviously drawn from medical science, an applied science that took
 some centuries to get from the Scylla of under-recognition to the Charybdis of overrecognition. Peace studies has much to learn from all three stages. The non-recognition
@@ -1616,7 +1616,7 @@ healing, hitting that bottom line.
 Ultimately, aging makes us all hit that line.
 
 There are a number of weaknesses in this thinking: There is a classificatory system, D,
-for illnesses, but no classificatory system for wellnesses. Why health in the singular but
+for illnesses, but no classificatory system for wellness. Why health in the singular but
 disease also in the plural? Why is it that a person can suffer from several diseases, but not
 enjoy several healths? Why this asymmetry, just like for war and peace?
 
@@ -1624,7 +1624,7 @@ Like all correct classifications the fourfold division
 
 into
 
-iIlness-wellness,
+illness-wellness,
 
 acceptable-unacceptable aims at being exhaustive and mutually exclusive. The problem is
 that there can be illness in wellness (a sense of superiority? carelessness? insensitivity to the
@@ -1683,7 +1683,7 @@ underlying the epistemologies explored. How is the basic problem of peace action
 when and where, from whom and to whom will also have to be parts of the general theory of peace action, which is what we are talking about. For that, we need maps of the
 social reality in which violence and peace can unfold.
 
-2.2 How Could Peace Researchen Do Peace Work (Therapy)?
+2.2 How Could Peace Researcher Do Peace Work (Therapy)?
 
 Let us first ask: where would peace researchers act to promote peace? Of the many
 answers, some of them, using a very simple map of society, may serve as a first approximation. Later on more complete maps will be given.
@@ -1725,7 +1725,7 @@ Kurfiirsten etwas in den Ohren zufliistern, whether the initiative is taken by t
 the researchers. Dialogue should be the goal, but elites tend to seek advice that can be
 accommodated within their own paradigms, not advice they might identify with the
 opposition or with opposed countries. They will generally see researchers as producers of
-premises, not of conclusions, and as servants, n'ot as dialogue partners.
+premises, not of conclusions, and as servants, not as dialogue partners.
 
 If we now can assume that elite conclusions will lie within 'peace by peaceful means'
 there is no problem, as long as the public nature of peace knowledge is kept in mind. If
@@ -2310,7 +2310,7 @@ Cultural Peace
 
 Structural violence and peace are here divided into the violent or peaceful exercise of
 economic and political power, and six basic courses have been added, altogether fourteen
-c�>urses. In a shorter version the yin and the yang sides, the problems and the remedies,
+c�>courses. In a shorter version the yin and the yang sides, the problems and the remedies,
 may be combined into one course, and we get seven courses. Or only the first four
 courses - as an ultra-short introduction.
 
@@ -2408,7 +2408,7 @@ One problem with the systematics, and Paradigm I, given in section 2.3 above, is
 
 Table 2.3 A Synopsis of Paradigm I: the /2-Factor Discourse
 
-Pers'on
+Person
 
 Intra (inner dialectic)
 
@@ -2497,7 +2497,7 @@ discourses. With (ve:-tical) structural violence splitting into two types - econ
 peace and violence, an irreducible, minimum discourse extracted from Paradigm I would
 have to include human nature (N) and culture (C). But how about P, S, and W - the person, social and world spaces? We certainly need the inner person relative to other persons,
 from P. But we could combine S and W under the broad heading 'structure'. Time, T, is
-brought in via the indispj:nsable DPT triangle; therapy being a diagnosis-based effort to
+brought in via the indispj:indispensable DPT triangle; therapy being a diagnosis-based effort to
 turn a prognosis toward peace.
 
 With these four factors - body, mind, structure, culture - we have not abandoned
@@ -2550,7 +2550,7 @@ social context, the structure.
 
 And here the objection is obvious: the mind can influence the micro-culture in and
 around the person (some minds even the macro-culture); the culture may reflect what is
-already embedded in the strqcture (e.g., due to conquest). And it is well known that the
+already embedded in the structure (e.g., due to conquest). And it is well known that the
 body can defy commands from mind and structure, the internalized and institutionalized
 norms. In short, there are causal arrows in all twelve directions, now to be explored.
 
@@ -2618,7 +2618,7 @@ exploring the male side of the equation.s
 
 WOMAN : MAN = PEACE : VIOLENCE?
 
-3.2 Direct Violence: an Essentially Male Phenomenoq
+3.2 Direct Violence: an Essentially Male Phenomenon
 
 To say that 95% of direct violence is committed by men is probably an understatement.
 This does not mean that women may not participate in criminal, even violent gangs, support warfare etc.: only that the directly violent acts are committed by men.
@@ -2717,7 +2717,7 @@ reported to have erections, as are hangmen and their 'clients'. All mainly male 
 
 3 As these are neurological neighbors, repressing one may trigger off the other Given their
 common neurological basis, sexuality (S) and violence (V) might be like communicating
-vessels: S+V=K (conftant) as opposed to the preceding thesis: S triggers V; V triggers S
+vessels: S+V=K (constant) as opposed to the preceding thesis: S triggers V; V triggers S
 in an escalating spiral.
 
 Wilhelm Reich 19 explored the repression of sexuality in Nazi Germany and the use of
@@ -2731,7 +2731,7 @@ triggering mechanism at a higher level.
 Sigmund Freud20 linked socially unacceptable sexuality and violence to creativity (C)
 in an S+C = K formula, in which repressed energy emerged as creativity through
 processes of sublimation. One such insight need not stand in the way of the other. We
-should note that Reich and Freud were observing quite ditTerent social classes with
+should note that Reich and Freud were observing quite different social classes with
 S+V+C=K, with C blocked for the lower, and V for the higher, classes.
 
 4 The testosterone curve for men coincides with military age
@@ -2879,13 +2879,13 @@ socialization pattern similar to that for women. From the point of view of reduc
 raising both to some in-between positions, but rather by raising boys like girls and making fathers more similar to mothers in this extremely important psycho-physiological
 area. There should be considerable gains to be made in violence reduction, with the
 caveat that the topology of the physiological space would remain relatively similar, possibly with a higher threshold. Some of this must also apply to females, since female
-orgasm and anger are not that different, even if they are less single-peaked and violentY •
+orgasm and anger are not that different, even if they are less single-peaked and violently •
 Third, there is the possibility of prolonging the mother-son relation by women undertaking the task of humanizing males, on a one-to-one, many-to-one, one-to-many or
 many-to-many basis. Polygyny might be embraced with enthusiasm by males, noting its
 institutionalization in Islam, with four as the classical maximum.33 This might lead to new
 patterns in male-female relations, some of them more similar to the relations women have
 among themselves. This might break down the pattern of women having more close
-womanfriends than men have menfriends, men's closest friends also being women, but
+womanfriends than men have men friends, men's closest friends also being women, but
 then, perhaps, their mistresses rather than their wives.34 Drawback: the burden falls on
 women.
 
@@ -2932,14 +2932,14 @@ at the stronger interpretation, beyond the '50%' and equal opportunity positions
 3. A pattern of direct violence that has become firmly institutionalized, like vendetta, gang warfare or female infanticide, could be referred to as 'ritualized', or 'institutionalized' violence. That
 type of violence tends to be accepted socially as part of 'human nature' or social reality. To get rape
 out of this category requires consciousness-building, mobilization and confrontation: and this is
-exactly what is being done, particularly by US feminists, hammering at internalization and institutionalization to expose rape as direct violence, even as war between the genders. Kate Millett's
+exactly what is being done, particularly by US feminists, hammering at internalization and institutionalization to expose rape as direct violence, even as war between the genders. Kate Millett
 Sexual Politics (New York: Ballantine, 1 969) finds its place alongside Karl Marx's Das Kapital.
 
 4. I have found Marilyn French, Beyond Power: On Women. Men and Morals (London: Jonathan
 
 Cape, 1 985) particularly useful.
 
-5. In Norway the work by Oystein Gullv!\g Holter, building on Harriet Holter's work on gender
+5. In Norway the work by Øystein Gullvåg!\g Holter, building on Harriet Holter's work on gender
 
 roles, is very promising.
 
@@ -2964,14 +2964,14 @@ violence together with their lovers was found in the German RAF, the Italian Bri
 Japanese sekigun. See also Robin Morgan, The Demon Lover: On the Sexuality of Terrorism (New
 York: Norton, 1 989) about exactly this syndrome.
 
-1 0. But the indirect contribution of women as Mittiiterinnen should be emphasized. See, for
+1 0. But the indirect contribution of women as Mitarbeiterinnen should be emphasized. See, for
 instance, Tordis Batscheider, Susanne Lang & lise Petry, 'Kriegerische Manner - Friedliche Frauen?',
 Friedensforschung Aktuell, no. 24, Winter 1 990. What is so shocking about the famous paintings by
 the 1 7th-century Florentine painter Artemisia Gentileschi is that she portrays the violent act itself
 with women killing men brutally, and dispassionately.
 
 II. Thus, Konrad Lorenz seems to have been a conservative extremist as described by one of his
-former assistants, Norbert Bischof, Gescheiter als aile die Affen (Hamburg: Rasch und Rohring,
+former assistants, Norbert Bischof, Gescheiter als alle die Affen (Hamburg: Rasch und Rohring,
 1 990). Lorenz always talked about 'Mensch' when 'Mann' would have been appropriate. Or were the
 two identical for him?
 
@@ -2994,11 +2994,11 @@ contact) with exploration, penetration, perhaps also violence.
 
 1 8. The Marquis de Sade (sadism) became particularly notorious not only through his flagrant
 maltreatment of a young prostitute, Rose Keller, but also through his legitimation of the sex-violence
-linkage through his writings, with such titles as Les crimes de J'amour. The Austrian novelist Leopold
+linkage through his writings, with such titles as Les crimes de L'amour. The Austrian novelist Leopold
 von Sacher-Masoch was also a man (masochism).
 
 19. Reich was more class-conscious than Freud; this important dimension is missing in Freud, as
-if society were horizontal. See his Massenpsychologie des Faschismus (Kaln: Kiepenheuer & Witsch,
+if society were horizontal. See his Massenpsychologie des Faschismus (Köln: Kiepenheuer & Witsch,
 1 97 1). The goals of the leaders are linked to the unconscious wishes of the masses.
 
 20. The theory of sublimation can be understood as a general theory about the displacement of
@@ -3544,7 +3544,7 @@ Conclusion: more democracies, more belligerence, given the last five factors. Th
 (OECD) and innermost (G7) core will probably even break the rule of not attacking
 democracies, should their power and privilege become challenged by less powerful and/or
 more recent democracies. And this may happen, as when Chile elected Communism
-( 1 973)1 and Algeria IsIam ( 1 992).8
+( 1 973)1 and Algeria Islam ( 1 992).8
 
 I . In no way should the skeptical tenor of this section be interpreted as an argument against
 democracy. It does not follow from 'democracies are not necessarily peaceful' that 'non-democracies
@@ -3595,7 +3595,7 @@ Yemen. Altogether 38 countries participated directly in the coalition forces; 4 
 (Soviet Union, Germany, Israel, Japan); 2 were neutral (Iran and Lebanon); 7 were supportive of
 the aggressor (Iraq): Algeria, Jordan, Libya, Mauritania, Sudan, Tunisia, Yemen. By any definition
 of democracy there is a clear correlation between supporting the coalition and being a democracy.
-The outcome was a liberated Kuwait and 3 10,000 Iraquis killed (lPPNW).
+The outcome was a liberated Kuwait and 3 10,000 Iraqis killed (lPPNW).
 
 From that some people will draw the conclusion that democracies are peace-loving, and willing
 
@@ -3698,7 +3698,7 @@ body, mind, and spirit is in practice. A prolonged negative relation loaded with
 in addition to the standard structural and cultural violence of patriarchal society, may
 become too destructive.
 
-But dissociative peace is at most an answer to the problem of negative peace, a violencefree system. By positive peace we mean a cooperative system beyond 'passive peaceful
+But dissociative peace is at most an answer to the problem of negative peace, a violence-free system. By positive peace we mean a cooperative system beyond 'passive peaceful
 coexistence', one that can bring forth positively synergistic fruits of the harmony. In a set
 of states this leads to a continuum from total separation, dissociation, to total association,
 union. For a human couple, total union - of body, mind, and spirit - is found in peak experiences of bliss related to sexual union, with all kinds of states of partial fulfillment in
@@ -3713,7 +3713,7 @@ association).
 
 Dissociative state systems: anarchy/hierarchy Each state is looking out for itself, with no
 built-in associative links. This does not mean a Hobbesian bellum omnium contra omnes,
-except under special .iocial and cultural conditions. Mutual isolation to the point of
+except under special .social and cultural conditions. Mutual isolation to the point of
 irrelevance is not only conceivable - it was also empirically the dominant condition
 throughout most of human history. But today we are so many, so densely settled, and
 with such a dense network of transportation and communication that there is no way of
@@ -3783,7 +3783,7 @@ resources, different inputs, otherwise mutual benefits would be limited. In natu
 resilience.
 
 Fourth, homology. They have to find each other, locking in with each other, so to
-speak. Since we are now evidently moving from coUeagues/neighbors to friendship relations in the couple metaphor, there have to be shared interests at the same time as there
+speak. Since we are now evidently moving from colleagues/neighbors to friendship relations in the couple metaphor, there have to be shared interests at the same time as there
 has to be diversity. For states to cooperate, each part of State A must find its 'opposite
 number' in State B; and this is easily done because states today are built according to the
 same basic model (tripartite division of power, with the executive part divided roughly the
@@ -3803,7 +3803,7 @@ enforcement. Norms have to be followed, by and large; otherwise association does
 work. Best would be compliance coming out of inner conviction, in other words internalization. At the personal level this means having a good or bad conscience. But
 countries, meaning territories with states in the center and a uni- or multi-national population, may be too self-righteous to develop a collective bad conscience except under
 extreme circumstances (Germany after World War II?). However, they can, and in fact
-often do, feel coUectively good about themselves - unfortunately often for reasons not
+often do, feel collectively good about themselves - unfortunately often for reasons not
 shared by others. Then there is the possibility of reward (positive institutionalized compliance), making cooperation pay,
 instead of focusing on punishment for
 non-compliance. This means positive sanctions, as when trade really is for mutual benefit.
@@ -4100,7 +4100,7 @@ associative solution is based on some general social 'glue' keeping parts togeth
 dissociative solution has no glue at all. If we refer to this 'something' that keeps countries
 together in a state system as God, then this translates into monotheistic, polytheistic,
 pantheistic, and atheistic structures, respectively. And the general thesis is obvious: 'Tell
-me your religion and I'II tell you the peace order you believe in.' Monotheists will tend to
+me your religion and I'LL tell you the peace order you believe in.' Monotheists will tend to
 go in for world government (of the unitary or federal varieties); polytheists will celebrate
 multi-centered confederations; pantheists will, like Gandhi, look for the 'oceanic circles'
 keeping it all together; and atheists will be non-believers, 'realists', keeping the states, the
@@ -4169,7 +4169,7 @@ then the construction seems to have had Titoist dictatorship as a condition for 
 the Ottomans, the Habsburg occupation/annexation, the Croatian dictatorship under Pavelic).
 
 1 2. And, before that the (almost complete) breakdown of the British Empire and the French colonial system to more con federal-type systems, the Commonwealth of Nations, and the Communaute
-Franr,:aise, can also be seen as reactions against the heavy vertical structural violence associated with
+Française,:aise, can also be seen as reactions against the heavy vertical structural violence associated with
 federations.
 
 1 3. The UN action in Somalia that started in late 1 992 as a humanitarian action and gradually
@@ -4190,7 +4190,7 @@ PART II
 
 CONFLICT THEORY
 
-Conflict Formati ons
+Conflict Formations ons
 
 1 . 1 ConOict a s Creator and ConOict a s Destroyer
 
@@ -4299,7 +4299,7 @@ ASSUMPTIONS
 
 C, CONTRADICTION
 
-This triangle can be used to trace and identify flows in all six directions, starting anywhere. Thus, a contradiction may be experienced as a lrustration, where a goal is being
+This triangle can be used to trace and identify flows in all six directions, starting anywhere. Thus, a contradiction may be experienced as a frustration, where a goal is being
 blocked by something, leading to aggressiveness as an attitude and to aggression as
 behavior I according to a famous and fruitful hypothesis,2 useful as long as it is not taken
 as an iron-clad law. Aggressive behavior may be incompatible with the other party's concept of happiness (unless we are talking of a sa do-masochist combination), leading to a
@@ -4367,7 +4367,7 @@ attitudes/assumptions prepared
 behavioral patterns prepared
 attitudes/assumptions/behavior prepared
 contradiction is there and nothing else
-the subconscious leveifully prepared
+the subconscious levelly prepared
 ritualistic conflict behavior
 a fully articulated conflict
 
@@ -4421,7 +4421,7 @@ adequately composed A,B,C triangle. The party simply behaves, something is movin
 including the special case of standstill. Interest focuses on A and C, starting with A: the
 inner person, the attitudes and assumptions. The personality.
 
-The subdivision of t'te personality into cognitions, volitions, and emotions is useful. Of
+The subdivision of the personality into cognitions, volitions, and emotions is useful. Of
 course the intellectual maps, the wants, drives etc. and feelings are strongly related to each
 other. In an actor conflict, the actor is a subject, conscious of what is (cognition), what
 s/he wants (volition) and for that reason ought to be, and how s/he feels (emotion), e.g.,
@@ -4434,7 +4434,7 @@ H owever, under A we have also included 'assumptions'; these we can now interpre
 pre-cognitions, pre-volitions and pre-emotions in the deeper layers of the personality,
 between the conscious and the unconscious, not easily available for recall. Professional
 help may be needed. One approach, as Freud told us, is to use dreams, debris from the filing process of cognitions/volitions/emotions in personality files prepared in the
-pre-emotions/pre-voLtions/pre-cognition, to understand how these deeper layers are
+pre-emotions/pre-volitions/pre-cognition, to understand how these deeper layers are
 organized.
 
 Then, the C corner, the contradiction between goal-states. To lift C up in the daylight,
@@ -4500,7 +4500,7 @@ lies in what happens later.
 
 Let us now turn to what is here called structural or indirect conflict with neither A nor
 C present in the consciousness, but embedded in the subconscious. Prying it loose from
-that subcon�ciousness may be painful, even almost impossible. There is a contradiction,
+that subconscious�ciousness may be painful, even almost impossible. There is a contradiction,
 but no awareness of it. There is not even awareness of a goal, in other words no volition,
 and consequently no open feelings, because there is no awareness of any is/ought coincidence or not. There is not even false consciousness, since there is no consciousness at all.
 What do we have then, with what right do we talk about a conflict at all?
@@ -4541,7 +4541,7 @@ incompatibility, and opt for one or the other. A consistent preference for id wi
 person who is highly sensual, a consistent preference for super-ego will define a person
 who is highly ethereal. Other word-pairs are somatic!spiritual, materialist/idealist, epicurean/platonic, or Sorokin's 'sensate/ideational'. Then Sorokin goes on to define the
 integrated combination of the two, referring to it as 'idealistic' and the non-integrated
-combination as eclectic!amalgam/congerie. Freud refers to the integrated synthesis as the
+combination as eclectic!amalgam/congeries. Freud refers to the integrated synthesis as the
 emergence of a strong ego, embedded in the personality as a patterned cognition/volition/emotion syndrome, capable of producing and reproducing behavior that gives both
 their due in a reasonable balance. A non-integrated mix of id and super-ego with a very
 weak ego is also conceivable, however; but all of this belongs to transformation theory.
@@ -4636,7 +4636,7 @@ of the frustration-aggression (or destruction) hypothesis, and the equally impor
 
 An actor, unconscious of what is happening to him/her in the structure of the person,
 social, or world system, may have a frustration image as a passing stage before an image
-of a fully fledged conflict einerges - like working-class frustration at never realizing middle-class goals, or the frustration of women at not being in control of their own life
+of a fully fledged conflict eineres - like working-class frustration at never realizing middle-class goals, or the frustration of women at not being in control of their own life
 situation. Later on the actor may see clearly that something very concrete stands in the
 way - class society, patriarchy - with very concrete actors on the other side. The frustration phase becomes like a crust of ice on a frosty day as the consciousness passes from the
 cold waters underneath into the clear air above.
@@ -4748,7 +4748,7 @@ add, in nature, in culture, and over time). The time has now come to emphasize t
 are certainly not necessarily incompatible and actors are not necessarily in dilemmas or
 disputes or more or less complex combinations of them.
 
-Let us refer to any goal-seeking system simply as aformation. It is not merely a set or
+Let us refer to any goal-seeking system simply as formation. It is not merely a set or
 listing of actors and goals; there is a structure (e.g., an interaction structure) in the systems referred to above. There is interdependence. A formation can then be harmonious or
 symbiotic (meaning co-life-enhancing) to the extent that attaining one goal-state is correlated with attaining another. A harmonious marriage has this characteristic, the sukha
 of one going together with the sukha of the other. But if the sukha of one goes together
@@ -4775,7 +4775,7 @@ introduced by Freire is used exactly the same way here. We could also have used 
 'consciousness', such as 'consciousness-formation' (in German: Bewusstmachung). This term, however, is not easily negated in English (in German Unbewusstmachung would be possible). However,
 Freire's use of conscience rather than consciousness points to volition and emotion, not only to cognition.
 
-4. A convenient assumption for us humans would be that the spirit is the differentia specijica that
+4. A convenient assumption for us humans would be that the spirit is the differentia specifica that
 distinguishes us from plants and animals. Maybe. Never having been a dolphin myself, I would prefer an agnostic position.
 
 5. The whole theory of cosmology, the deep culture of a civilization, is designed to deal with
@@ -4796,7 +4796,7 @@ Region-World.
 
 8. According to The Concise Columbia Encyclopedia (New York: Columbia University Press,
 1 983, p. 492) wrongly attributed to Louis XV (ruling 1 7 1 4-1 774). But whoever said it at the time,
-aJter me. the flood was not a bad prediction. The French Revolution struck 1 5 years after his death
+after me. the flood was not a bad prediction. The French Revolution struck 1 5 years after his death
 as one of those big intra-time (kairos) contradictions that had enormous inter-time (khronos) implications.
 
 Conflict Life-Cycles
@@ -4863,7 +4863,7 @@ different points of departure for conflict theory and conflict praxis. The first
 itself epistemologically to Occidental atomism, nomothetic (generalizing) conflictology,
 with deductive theory-formation, possibly based on a typology of actors. The second
 image lends itself to the dialectics of Oriental holism with ideographic conflictology,
-there being one conne:ted humankind, or life-kind.
+there being one connected:ted humankind, or life-kind.
 
 2.2 Christian and Buddhist Time and Conflict Cosmology
 
@@ -4948,7 +4948,7 @@ acts, deeds. If this is the general way of viewing the human condition, then it 
 PART I I : CONFLICT T HEORY
 
 bracketing them in time and space. To label one part of this holon guilty and the other
-non-guilty makes no more sense than to label the right hand guilty and the left hand nonguilty in a crime of two-handed strangulation. As merit and demerit is shared, its
+non-guilty makes no more sense than to label the right hand guilty and the left hand non-guilty in a crime of two-handed strangulation. As merit and demerit is shared, its
 distribution on individuals becomes a metaphysical question. Any merit is (partly) due to
 inspiration from my brothers and sisters (significant Others) anyhow; so is any demerit,
 because they should have prevented me from straying.
@@ -4972,7 +4972,7 @@ cruel in its insistence that this highly finite life determines eternal afterlif
 too gentle in giving us unlimited time to improve our karma. Along both dimensions inbetween positions could be designed, and an eclectic compromise might be preferable.
 
 But we are not free to design our civilizations; they are given. The fact is that these two
-perspectives on conflict life-cycles exist: one as an infinite number of finite conflict lifecycles between being born in a state of original sin and redemption through a divine act
+perspectives on conflict life-cycles exist: one as an infinite number of finite conflict life-cycles between being born in a state of original sin and redemption through a divine act
 of grace, and the other as a finite number of infinite life-cycles, starting nowhere and anywhere, with ups and downs, ultimately ending in the ever-flowing ocean of eternity.
 
 2.3 Secular Versions of Christian and Buddhist Perspectives
@@ -5017,7 +5017,7 @@ emphasis on some type of reconciliation. But rather than the search for causes b
 into oneself, meditating on the wrong done, and then a patient dialogue with the offended
 Other, this process is perhaps also increasingly left to a third party - in Japan often to the
 proverbial police in the police 'box'. The task of verbalization, and the search for diagnosis, prognosis and therapy, is left to others who then become conflict processors. Lay
-or professional, there is less self-reliance and as a consequence less maturation in the conflict parties themselves, nor improvement of the karma that is theirs, only a smoothening
+or professional, there is less self-reliance and as a consequence less maturation in the conflict parties themselves, nor improvement of the karma that is theirs, only a smoothing
 of the relations between them. The goal is outer (B), not inner (A) change. The metaphysical, spiritual underpinning of Buddhist conflict processes is waning.
 
 The basic conceptual structure may still remain at the deeper level, as less of a tendency
@@ -5046,7 +5046,7 @@ media coming closer to reporting accurately, not 'patriotically'). By contrast, 
 
 PART I I : CONFLICT TH EORY
 
-War the USAIBush were convinced of their own righteousness and the guilt of
+War the USA/Bush were convinced of their own righteousness and the guilt of
 Iraq/Saddam. As the possibly most Christian country in the world, the USA would be
 expected to conceive of both wars as beginning with 'sins': transgressions on the other
 side. Whether this is really believed at the top level of decision-making matters less, as
@@ -5058,7 +5058,7 @@ As a background to the comparison, let us take a brief glance at two recent case
 made to fit the Western script, USA-Japan and USA-Germany in World War II. There
 were transgressions defining the beginning: Pearl Harbor 7 December 1 94 1 , and the
 attack on Poland I September 1 939. There were acts defining the end: the capitulation
-signed in Rheims, etTective 8 May 1 945, and in Tokyo Bay on 2 September 1 945. With evil
+signed in Rheims, effective 8 May 1 945, and in Tokyo Bay on 2 September 1 945. With evil
 acts so well defined, identifying the authors of those evil acts was an easy matter.
 
 Verticality was imposed on the situation not only through capitulation and surrender
@@ -5119,7 +5119,7 @@ would have ensued. The book could be closed. The temptation must have been enorm
 Let us then introduce a Buddhist perspective on the Gulf conflict. In that perspective,
 2 August 1990 and 1 7 January 1 99 1 are still there, so are the twelve Security Council resolutions in general and 678 ('with all necessary means') in particular. But the conflict
 formation now extends sidewards, backwards, and forwards, relating to other actors and
-parties, to past history and future consequences: a much more complex view than the simplicity of in ternaiiona I law applied (correctly) to the I raqi transgression. That backward
+parties, to past history and future consequences: a much more complex view than the simplicity of in international I law applied (correctly) to the I raqi transgression. That backward
 perspective has also been used by Germany (Versailles as act of aggression) and Japan
 (Western economic sanctions as acts of aggression), but in an exculpatory, not holistic
 manner, picking what served their own guilt-budget.
@@ -5148,7 +5148,7 @@ a transformation to federation. But some separation and autonomy may facilitate 
 approaches, with the center of the federation as ultimate decision-maker. However, that decisionmaking will often be quite vertical, meaning that it could also be an exercise in structural violence.
 Consequently, confederation, with a very weak center, might be a transformation away from structural conflict, meaning to a higher level. Needless to say, this is a delicate balance.
 
-5. See Raimundo Panikkar, 'La notion des droits de I'homme, est-elle un concept occidental?',
+5. See Raimundo Panikkar, 'La notion des droits de L'homme, est-elle un concept occidental?',
 
 Diogenes, no. 1 20, 1 982, pp. 87-1 1 5.
 
@@ -5160,13 +5160,13 @@ Judeo-Christian-Islamic commandments - would also define stealing, adultery, lyi
 intoxicating substances as violence. In the approach of the present book they certainly fall under the
 definition of violence as anything that harms and hurts, particularly when basic needs are insulted
 (the use of intoxicating substances hurting/harming the Self to start with). In all cases we would be
-talking about direct violence, as acts of omission (failure to tell the truth) and/or acts of comission
+talking about direct violence, as acts of omission (failure to tell the truth) and/or acts of commission
 (lying).
 
 7. Resurrection of the flesh, not only the soul (the tomb of Christ was empty).
 8. Plus fa change, plus c'est la meme chose and the famous philosophy in Giuseppe Tomasi di
 Lampedusa's II Gattopardo (Milan: Feltrinelli Editore): we change so that everything remains the
-same (,Perche tutto resti com'e', p. 29; una di quelle battaglie combattute affinche tutto rimanga come
+same (,Perche tutto resti com'e', p. 29; una di quelle battaglie combattute affinché tutto rimanga come
 e, p. 3 1 ).
 
 Maybe it is not by chance that both come from Latin countries? Wise, and somewhat cynical?
@@ -5214,7 +5214,7 @@ as a 'scrap of paper'. Why?
 
 First, the signatories may be dishonest. Second, even if they are honest, where are the
 other actors, the people all over? Third, even if they also accept, where are the sustaining
-forces, producing the less conflictuous formation, not just reproducing the old? A less
+forces, producing the less conflictual formation, not just reproducing the old? A less
 contradictory formation (C) is good, but it has to be supported by the right attitudes and
 assumptions (A); otherwise the prognosis will be that the wrong behavior (B) will resume
 and hitch on to whatever residual or new conflict material (read: contradictions) may be
@@ -5406,7 +5406,7 @@ been simplified through reductionism down to the polarized (2, 1) formula: East 
 
 CONFLICT TRANSFORMATIONS
 
-UnionlWTO), West (USINATO) over freedom/fascism, depending on who was speaking.
+Union/WTO), West (USINATO) over freedom/fascism, depending on who was speaking.
 To loosen up this type of propaganda speech was a major task, and would probably have
 been impossible in the coldest years, before Stalin died, and around the attacks on
 Hungary and Czechoslovakia. Two methods:
@@ -5448,7 +5448,7 @@ interests in a structural conflict into consciously held values and to transform
 Consequently, all four have to be overcome in order to be able to approach, creatively, the
 basic issues of repression and exploitation. How then to do this?
 
-Let us first note, in passing, that benevolent actiop from above. blunting repression and
+Let us first note, in passing, that benevolent action from above. blunting repression and
 exploitation, may be necessary but not sufficient. A more benevolent structure with the
 four characteristics intact is still violent. Given those four new forms of repression,
 exploitation may reappear, for instance as run by a vast welfare state bureaucracy rather
@@ -5464,7 +5464,7 @@ Struggle, to overcome repression and/or exploitation. The question is how that s
 according to the general formula of 'peace by peaceful means'. The genius of a Gandhi
 consisted exactly in presenting an alternative to the stark choice between submissiveness
 (to repression and exploitation) or a violent struggle to overcome them. Such a struggle
-would at best incur terrible losses on either side, lead to demands for revenge, sow longlasting hatred, introducing new contradictions by the use of violence; at worst, in addition
+would at best incur terrible losses on either side, lead to demands for revenge, sow long-lasting hatred, introducing new contradictions by the use of violence; at worst, in addition
 to all of this, might be lost. The Herr also has resource power, carrots and sticks for
 reward and punishment, in addition to the structural power built into his position up
 there, at the top.
@@ -5485,7 +5485,7 @@ purpose is to build autonomy and the capacity for self-reliance and autonomy in 
 below. In doing so they become less repressible and exploitable, making it even more evident that those on top cannot prevail. Empowerment, in short.
 
 Recoupling. Decoupling cannot be the goal in the longer run. In the longer run the goal
-is a horizontal structure, with human rights instea� of repression, equity instead of
+is a horizontal structure, with human rights instead� of repression, equity instead of
 exploitation, autonomy instead of penetration, integration instead of segmentation, solidarity instead of fragmentation, participation instead of marginalization. Words,
 word-pairs. They can only become reality by being enacted. Decoupling serves to build
 these positive structures from below, recoupling to build new, more encompassing, less
@@ -5506,7 +5506,7 @@ cultures than their own, giving them a broader competence, including for choice 
 the family situation, as opposed to certain selected, segmented glimpses? Moreover, the
 mechanisms of bonding children to their parents very often pit siblings against each
 other in a struggle for attention, love, and material goods. And parents often carry out
-their deliberations in IJarental caucus rather than in plenary sessions.
+their deliberations in Parental caucus rather than in plenary sessions.
 
 The puberty revolt can be individual, collective with other siblings, or collective with
 other adolescents. At the very least, there is exchange of information. Individual consciousness is built through confrontation, banging of doors being an audible and defiant
@@ -5573,7 +5573,7 @@ points indicated are good candidates as temporary equilibrium points in the sens
 acceptability and sustainability may be obtained, but with the warning that no resolution can be forever, hence 'transformation'. There will usually be conflict residues in the
 A, B, or C corners of the conflict triangle and these residues will then hitch on to conflict formations in the neighborhood, including molecules of which the atoms are parts.
 
-. 1 Basic Diagramfor Elementary Conflict Transformation
+. 1 Basic Diagram for Elementary Conflict Transformation
 
 A2 G2
 
@@ -5617,7 +5617,7 @@ goals. Key word: moderation.
 
 horizon. Key words: apathy, perseverance.
 
-CONFLICT TRANSFO RMATIONS
+CONFLICT TRANSFO TRANSFORMATIONS
 
 These three outcomes are symmetric, usually brought about by some cooperative steering of the goal-attainment process, through inner dialogues (for dilemmas) and/or outer
 ones (for disputes). Located on the main diagonal of the basic diagram, all three are
@@ -5666,7 +5666,7 @@ virtue of being there before the Israelis came.
 Clearly, a Two-State solution (e.g., as proposed by the Palestine National Council in its
 resolution of 1 5 November 1 988) is a compromise, bringing up the obvious point that a
 compromise is not necessarily 50-50, but may be 70-30, 90-10, but not 1 00-0. And
-withdrawal would be both parties giving up their claims, ceding the territory to third parties (historically, the Roman Empire, the Seljulc Turks, the Ottomans, the League of
+withdrawal would be both parties giving up their claims, ceding the territory to third parties (historically, the Roman Empire, the Seljuk Turks, the Ottomans, the League of
 Nations/the British, the United Nations/the British are examples).
 
 What would be the concrete interpretation of transcendence? Obviously not two cases
@@ -5767,7 +5767,7 @@ sense of polarization lurks just around the corner, with the danger of escalatio
 wake. Yet polarization is so tempting, down to two blocs in the social system of persons,
 groups, societies, regions etc. (with all positive links within and all negative links
 between), two blocs inside the person-system of values, inclinations, images (again with
-all positive links within and all negative links between), and with the images in the personsystem offriend and enemy mapping the surrounding social system.
+all positive links within and all negative links between), and with the images in the personsystem of friend and enemy mapping the surrounding social system.
 
 As mentioned, reductionism exaggerates the conflict between, while underestimating
 the conflicts within. The concrete implication is that whatever transformation toward
@@ -5783,7 +5783,7 @@ mind this is the natural/normal approach.
 
 The position taken here, however, is that complex conflict formations are sui generis, of
 their own kind, and should be treated as such. The seven approaches developed above,
-based on the three approacltes from c=O, the two additional from c= l , and then fission
+based on the three approaches from c=O, the two additional from c= l , and then fission
 and fusion, are equally meaningful for complex conflicts, only often more difficult (or so
 
 PART I I : CONFLICT TH EORY
@@ -5795,7 +5795,7 @@ Kosovo/a between Serbs and Albanian Muslims.
 These are simplistic transformations anyhow, with low levels of both acceptability and
 sustainability, for all the reasons mentioned above. Transcendence, in the form of new
 types of confederations, or a Confederation of Southeast Europe, will work better at
-higher levels of compiexity with more possibilities of broadening and deepening. The
+higher levels of complexity with more possibilities of broadening and deepening. The
 basic point would be training to enable thinking in terms of three, four actors with two,
 three goals each, and not regressing to lower levels. 19
 
@@ -5863,7 +5863,7 @@ gently, towards higher levels of transformation, possibly through intervention.
 
 I . 'The yang having reached its climax retreats in favor of the yin; the yin having reached its climax retreats in favor of the yang' (Wang Ch'ung). This is a statement about the part(ie)s in a
 contradiction; the assumption being that they do not find the (elusive) point of harmony. It should
-be noted that Daoism also sutTers, in this formulation, from the Western tendency to see contradictions as something involving two parties; of course more general formulas can be imagined.
+be noted that Daoism also suffers, in this formulation, from the Western tendency to see contradictions as something involving two parties; of course more general formulas can be imagined.
 
 2. This felicitous term comes from lames S. Coleman.
 3. These excellent terms with corresponding perspectives were introduced into peace studies by
@@ -5878,14 +5878,14 @@ National Interest and World Politics', pp. 361-380 in Peace Problems: Some Case 
 Peace Research, vol. V (Copenhagen: Ejlers, 1980), ch. 13.
 
 6. See, for instance, Michael W. Weithmann, 'Zwischen Orient und Okzident: Die Geschichte der
-Konfliktregion lugoslawien', p. 56 in Rudolf H . Dittel, Ex-Jugoslawien: Versuch einer
+Konfliktregion Jugoslawien', p. 56 in Rudolf H . Dittel, Ex-Jugoslawien: Versuch einer
 BestandsauJnahme (Konigsbrunn: Mundi Reales, 1 993).
 
 7. For instance on the author of these lines, one more victim of lesJichocrates in that country.
 8. The intifada ('shaking otT') is in the West mainly associated with throwing stones, which, even
 if the intention might not always be to hit, is clearly violent, at least as body language. So are the
 words accompanying the throwing. But the intifada is so much more: general strike, closed shops, i
-general attitude-behavioral syndrome expressing very well the volonte generale of the Palestinian
+general attitude-behavioral syndrome expressing very well the volonté generale of the Palestinian
 people. See lohan Galtung, 'Intifadah: The Palestinian Struggle for Liberation', pp. 6 1 -72 in
 Nonviolence and Israel/Palestine (Honolulu, HI: University of Hawai'i Press, 1989).
 
@@ -5920,7 +5920,7 @@ much time to adjust to p :ace and conflict studies, like 'peaces' in the plural,
 wars and conflicts).
 
 14. See Part I, Chapter 5 for more details.
-1 5 . Of course, if this hecomes a habit it may lead to separation in a deeper sense, and to divorce,
+1 5 . Of course, if this becomes a habit it may lead to separation in a deeper sense, and to divorce,
 the final disintegration of the couple. The assumption, then, would be that in post-modern society
 having/taking vacation together is a substitute for working together (as nomads, on the farm) in earlier formations.
 
@@ -5944,7 +5944,7 @@ Synchronicity. and Human Destiny (New York: Delta, 1 973) .
 
 . � .
 
-Conflict Interventi ons
+Conflict Interventions ons
 
 4.1 Conflict Intervention as Communication: Eleven Approaches
 
@@ -5952,7 +5952,7 @@ Let us start by assuming a contlict formation involving m actors and n goals, th
 level is high. The contlict is consuming more and more of the resources thrown into it
 (perhaps even more than the value of the goals); it is even consuming the actors themselves. The problem is no longer who wins most, but who loses least. Contlict reality is
 already bad: the prognosis is worse. The actors are unable to stop the process and reverse
-it. The material and non-material suffering the actors intlict on things, themselves, and
+it. The material and non-material suffering the actors inflict on things, themselves, and
 others is intolerable, also to outsiders. The case for outside intervention, solicited or
 unsolicited, is strong. Yugoslavia 1 991-199? comes to mind. The Why is clear. But exactly
 What is to be done? Who does it? How? When? Where? For whose benefit, at whose
@@ -6011,7 +6011,7 @@ better is simply outside parties, coming from the outside yet joining the confli
 A first question would be what their goals are. To get the challenge? To gain experience? A Nobel Peace Prize, or some other prize? To show who is the ultimate conflict
 manager? To make use of the conflict to market conflict resources, 'sticks' (military
 means) for general intimidation, or 'carrots' (humanitarian aid, technical assistance) to
-generate a demand in the wake of the supply? All of this in order to reinforce a hegemonial system, the position of the hegemon and the system of hegemony in general, on
+generate a demand in the wake of the supply? All of this in order to reinforce a hegemonic system, the position of the hegemon and the system of hegemony in general, on
 behalf of other hegemons?
 
 Or, just to serve? Just to do, neither seen, nor heard? Discreet, in ways to be described
@@ -6043,7 +6043,7 @@ Type 3: Outside parties provide an empathetic ear. Now they are present, but the
 minimal. The parties may be unable to keep a dialogue going, even unable to be alone
 with each other in the same room. Outsiders provide the social and communicative
 glue. The parties have difficulties emptying the room because the outsiders are there,
-and they cannot stop talking because outsiders fill the empty time between their statements, if only with an encouraging 'uhum?', not to mention the classical 'would you
+and they cannot stop talking because outsiders fill the empty time between their statements, if only with an encouraging 'uhm?', not to mention the classical 'would you
 care to elaborate that point?"
 
 C. Symmetric, dialogical communication with outside parties2
@@ -6052,7 +6052,7 @@ Type 5: Like type 4, but adding conflict prognosis.
 Type 6: Like type 5, but adding conflict therapy.
 
 D. Asymmetric, imposed communication from outside parties
-Type 7: Mediation. At this point outside parties listen to the D,P,T as seen by all participants and then communicate what they see as the solution, on a take-it-or-Ieave-it
+Type 7: Mediation. At this point outside parties listen to the D,P,T as seen by all participants and then communicate what they see as the solution, on a take-it-or-Leave-it
 basis.3
 
 CONFLICT INTERVENTIONS
@@ -6077,15 +6077,15 @@ with carrots and/or sticks:
 
 .the soft conflict dictator: if you do as I say, you will be rewarded (in cash, technical
 assistance, MFN status, etc.);
-the hard conflict dictator: if you don't do as I say, you will be punishe" 'with all necessary means' in the military sense.
+the hard conflict dictator: if you don't do as I say, you will be punished" 'with all necessary means' in the military sense.
 
 We have deliberately used the term 'type', not 'step', as there is no assumption of any
 'progress' from lower to higher numbers, nor of any time order in the sense of starting at
 any point and then adding others. A process can start at any point. Type 6, for instance.
 does not presuppose Type 5 (although some arguments will be made for that particular
 order). The difference is that the agenda of Type 6 is richer. Start anywhere, stay there,
-jump to others, combine, leave the process, at any point, in principle. However, thero Ilre
-weighty arguments for and against certain types, with the additional rider that 'it depepds
+jump to others, combine, leave the process, at any point, in principle. However, there There
+weighty arguments for and against certain types, with the additional rider that 'it depends
 on the circumstances'.
 
 4.2 Four Correlates of the Conflict Intervention Approaches
@@ -6094,9 +6094,9 @@ As we proceed from Type 0 to Type 1 0 we are accompanied by a number of importan
 variables, all highly relevant for the outcome; all relating one way or the other to the communicative relationship.
 
 1. Increasing appropriation of the challenge derived from solving the conflict by outside parties Obviously, in Types 0-2 the inside parties monopolize that challenge; in Types 3-6
-the challenge is shared, with an increasing proportion going to the increasingly active outside parties; in Types 7-10 the outside parties monopolize that chaIJenge.
+the challenge is shared, with an increasing proportion going to the increasingly active outside parties; in Types 7-10 the outside parties monopolize that challenge.
 
-Once again: if a conflict is 'good' because the contradiction can serve as aforce motrice
+Once again: if a conflict is 'good' because the contradiction can serve as force motrice
 for creative change in the person, social, and world systems, then that positive aspect is
 increasingly 'stolen' on the way from 0 to 10.
 
@@ -6176,7 +6176,7 @@ general in medias res inclination, this would make us focus on Types 3-6. Before
 that, as a contrast and to explore fundamental aspects of conflict transformation, let us
 have a closer look at Types 0-2.
 
-4.3 Types 0-2: Autonomous ConfUct Transformation
+4.3 Types 0-2: Autonomous Conflict Transformation
 
 When are parties ready for autonomous conflict transformation? What are the preconditions? .
 
@@ -6185,7 +6185,7 @@ going to end. There will be some more or less explicit ideas of what the outcome
 like; maybe unclear even to themselves, and still more difficult to communicate to other
 parties, lest they make use of it in the struggle.
 
-There is the 'win-lose' dimension, short term, long term; depending on how they manage the B level. Obviously, short-term 'win' and long-term 'lose' makes for w,lIingness to
+There is the 'win-lose' dimension, short term, long term; depending on how they manage the B level. Obviously, short-term 'win' and long-term 'lose' makes for w,willingness to
 enter into dialogue; the opposite profile does not.
 
 But then there is another dimension: diverging versus converging prognoses in the set of
@@ -6285,9 +6285,9 @@ forcing, the images to complete each other.
 But we are not engaged in a social science project with a time dimension, collecting
 data for a project on oral history. Transformation may be a question of life or death, the
 extremes of creation and destruction. The whole group, the original conflict formation
-with outsiders, the facilitators, have somehow to end up in the opposite corner, futureand praxis-oriented rather than past and diagnosis-oriented. Not in the sense that a linear or curvilinear one-way trajectory must be traced in Table 4. 1 from the upper left to the
+with outsiders, the facilitators, have somehow to end up in the opposite corner, future praxis-oriented rather than past and diagnosis-oriented. Not in the sense that a linear or curvilinear one-way trajectory must be traced in Table 4. 1 from the upper left to the
 lower right corner. Jumps, sidewards, backwards, whatever, can and should be made, and
-simultan.eous work on all six combinations. But the general thrust will be as described,
+simultan.simultaneous work on all six combinations. But the general thrust will be as described,
 and this means that there are two hurdles to overcome: too much focus on the past, and
 on the analysis.
 
@@ -6311,12 +6311,12 @@ of them to higher authorities: God, or at least the priest; Justice, or at least
 
 Between the past and the future lies an icy crust: the present, a narrow band in time,
 cutting out history and future. The attitude may be referred to as a presentism9 that
-impedes diagnosis, substituting for it some kind of Uournalistic) snapshot description of
+impedes diagnosis, substituting for it some kind of Journalistic) snapshot description of
 what is going on right now, blind to roots in the past. What come out are prescriptions,
 not therapy sensitive to positive and negative side-effects in the future. And the future is
 .like the past: it lasts for a long time.
 
-On the other hand, pastism andfuturism are not much better. Digging for roots in the
+On the other hand, pastism and futurism are not much better. Digging for roots in the
 past will increase understanding, which is indispensable. But this may lead to the fallacy
 of tout comprendre, c'est tout pardonner, morally, and to the search for solutions in the
 past, or extrapolating from the past. Evidently something basic was wrong with that past,
@@ -6334,7 +6334,7 @@ memory, not only persons, but also social systems (artifacts, such as monuments)
 world systems (borders, national days). The past will always be with us, particularly the
 unprocessed past; inside us, around us, everywhere. How to overcome the time barrier?
 The proposal is to stick to analysis and simply invite the participants to make prognoses on the basis of their diagnoses. The analytical frame of mind, guided by data and
-challengeable extrapolations from the past, can be kept. The point is to enter futureiandia, together. Once there, so much more can be done, always in an open dialogue with
+challengeable extrapolations from the past, can be kept. The point is to enter futurelandia, together. Once there, so much more can be done, always in an open dialogue with
 the facilitators participating like the rest, with knowledge and opinions, not holding
 back. Not too much diagnosis - that may come later.
 
@@ -6435,7 +6435,7 @@ set-up might learn.
 
 Can the conflict dictator be moved to play such games? Only if his will is resisted
 through tactics like non-cooperation and civil disobedience. Only if the whole conflict formation makes a united stand - like Serbs, Croats, and Muslims uniting to fight a
-UNINATO intervention force out to impose a Security Council resolution - will the
+UN NATO intervention force out to impose a Security Council resolution - will the
 conflict dictator sooner or later have to resort to lower number types of intervention. Or
 withdraw.
 
@@ -6525,7 +6525,7 @@ completely, not to mention the shadows in the future.
 1 0. Rapists, or sexually aroused males in general, will tend to claim this. Rightly, or wrongly?
 I I . Among the many texts in this field the reader may find Roger Fisher and William Ury, Getting
 to Yes (Boston, MA: Houghton Miffiin, 1 982); John W. Burton, Resolving Deep-Rooted Conflict
-(Lanham, MD: University Press of America, 1 987), and E. Victoria Shook, Ho 'oponopono
+(Lanham, MD: University Press of America, 1 987), and E. Victoria Shook, Ho 'ho'oponopono
 (Honolulu, HI: University of Hawai'i Press, 1 985) useful. I have serious reservations about Fisher's
 book, and they all relate to the subtitle, 'Negotiating Agreement Without Giving In'. A non-yielding attitude cannot be a good basis. On the other hand, the basic point is, of course, to seek a
 transcendence whereby no party to the conflict has to give in. Burton's book contains 56 very useful rules, particularly about third parties, sponsors, panels. And Shook's book serves as an
@@ -6657,11 +6657,11 @@ Now, why does Gandhi have this puritan approach to conflict resolution? Basicall
 because resolving the conflict is only one element of the desired outcome of a conflict.
 At least equally desirable is the impact the conflict is to have on both parties to the conflict. A conflict resolved, but leaving the parties unchanged, even worse, is no success.
 The criterion of conflict transformation is threefold: a new social structure as conflict resolution in the conventional sense, and a higher level of self-purification in all actors,
-both in the satyagraha-group and in the adversaries. Not only C-oriented, but A- and Boriented!
+both in the satyagraha-group and in the adversaries. Not only C-oriented, but A- and B-oriented!
 
 The latter means, as interpreted here: a higher level of self-reliance in all parties, and
 this is where the destruction of a structure of exploitation liberates the exploiter. He was
-dependent on his exploitative practices - through the struggle he wiJI also learn to become
+dependent on his exploitative practices - through the struggle he will also learn to become
 self-reliant. The same applies to the other two components: struggle is instrumental to the
 growth of fearlessness in either party, as it is instrumental, when properly conducted, to
 the strengthening of ties of unity. Only in the light of a broader set of criteria of success
@@ -6798,7 +6798,7 @@ the second half of this century.2
 
 I Gandhi's swaraj campaign for Indian independence from 1 920.3
 2 The liberation of arrested Jews in Berlin, February 1 943.
-3 Martin Luther King Jr's campaign in the US South from 1 956.
+3 Martin Luther King Jr campaign in the US South from 1 956.
 4 The anti-Viet Nam War movement, inside and outside Viet Nam.
 5 The Buenos Aires Plaza de Mayo mothers against the military.
 6 The 'People's Power' movement in the Philippines, 1 986.
@@ -6810,14 +6810,14 @@ PART I I : CONFLICT T H EORY
 7 The Children's Power movement in South Africa, from 1 986.
 8 The intifada movement in Occupied Palestine, from 1 987.
 9 The democracy movement in Beijing, spring 1 989.
-10 The So[idarnosclDDR movements which ended the Cold War.
+10 The So[Solidarnosc movements which ended the Cold War.
 
 Of course, no case is ever totally clear and pure. But in these cases major direct violence
 was averted, and major structural violence was averted or reduced. Other factors were also
 at work; but if instead of using nonviolence, the threatened, exploited and/or repressed had
-engaged in major violr�nce, not only would that have invited major counter-violence, but
+engaged in major violence�nce, not only would that have invited major counter-violence, but
 the oppressive conditions would probably have remained unchanged. This we cannot
-know, since we cannot run history over again. But it certainly seems highly p[ausible.4
+know, since we cannot run history over again. But it certainly seems highly p[plausible.4
 
 To write the history of this violent century, and to explore its politics without also
 exploring its nonviolence, is to malign the century even further. Such negligence reveals
@@ -6986,7 +6986,7 @@ applicable to capitalist society.
 World As seen by the Occident, and by all those who have taken on the view of the
 Occident as theirs, the world has a Center in the Occident, a Periphery accepting the
 Occident, even submitting to it, and then an Evil sphere, neither submitting nor accepting. To the extent that nonviolence is directed against the direct or indirect power of the
-Center of this construction - cases ( 1 ), (3), (4), (5), (6), (7), (8) above - ponviolence may
+Center of this construction - cases ( 1 ), (3), (4), (5), (6), (7), (8) above - nonviolence may
 well be preferable to a situation where the same people do the same kind of thing with
 violence - but it remains subversive. Any moral, even pragmatic superiority, may cancel
 out against the defiance and refusal to submit; and the better it works the more danger­
@@ -7157,8 +7157,8 @@ other issues.
 
 The theory above predicts the success and visibility of Gandhi: a high status, charismatic
 leader, in a culture with ahimsa as an element, and trained in the common-law tradition.
-Pitted against Gandhi was the object of his struggle, admired by the West: British imperialism. He had to pay one minor price: no Nobel Peace PrizeY This theory also predicts
-Martin Luther King, lr's success for the same reason; by then, however, the Nobel Peace
+Pitted against Gandhi was the object of his struggle, admired by the West: British imperialism. He had to pay one minor price: no Nobel Peace Prize This theory also predicts
+Martin Luther King, lr success for the same reason; by then, however, the Nobel Peace
 Prize Committee was up to its task.
 
 From this exercise we may derive two basic conclusions. First, we need a theory of the
@@ -7220,7 +7220,7 @@ divestment, and the positive example of Zimbabwe.
 
 1 25
 
-8 The action repertory of the intifada movement included throwlnlJ stones, but one argu­
+8 The action repertory of the intifada movement included throwing stones, but one argu­
 
 ment might be that by regional standards this is almost nonviolent.
 
@@ -7236,7 +7236,7 @@ violent, but possibly staged (e.g. as a way of getting rid of Gorbachev, who by 
 had dismantled the Soviet Empire, but not given in to Western economic demands). The
 coup was amateurish and half-hearted.
 
-5. The deeper that commitment is rooted in basic values, secular or religious, the more likely thaC
+5. The deeper that commitment is rooted in basic values, secular or religious, the more likely that
 nonviolent activists will not be provoked into violence, or switch to violence simply because 'nonviolence did not work', treating nonviolence as one tactic among many; and the more likely - and
 that is perhaps even more important - that Other will believe that there is a commitment beyond tactic, in other words that the group will not capitulate.
 
@@ -8275,7 +8275,7 @@ Processing
 Expansion
 
 Maximize
-cullllre
+culture
 over nature
 (C/N)
 
@@ -8332,7 +8332,7 @@ In this scheme the logic of the Blue (Smithian, capitalist) system rests on 24 f
 several toes for most). Horizontal readings are better for a total understanding of the system; vertical readings better for more
 limited economic understanding. The
 'individualism' expresses itself as ownership because of the underlying assumption of
-dominio from Roman law. Both factors and relations of production can be owned, controlled.9 That ownership applies to all factors. Slavery - the ownership of human labor
+dominium from Roman law. Both factors and relations of production can be owned, controlled.9 That ownership applies to all factors. Slavery - the ownership of human labor
 and marketing (at a lactor market) of slaves - is entirely within the logic of the Blue
 school. Abolition is an anomaly, and was, indeed, very strongly resisted. Anti-slavery
 campaigns can also be explained in terms of Blue logic by looking further down the column of factors for another key variable: factor (including labor) mobility. With a labor
@@ -8387,7 +8387,7 @@ actors (individuals, firms, countries).16
 transactions, economic cycles spanning ever-larger territories (soon to become extra-terrestrial), and with ever-expanding and increasingly differentiated economic organizations.
 One mechanism is factor mobility and then factor equilibration upwards to arrive at a
 balanced mix of inputs; no excesses, no deficits. 17 Expansion, with no built-in stop sign.
-Finally, 'Nature', including humans when exposed to boring, degrading, dirty, dangerous work. The great loser, deplet�d and polJuted in an economic process that has become
+Finally, 'Nature', including humans when exposed to boring, degrading, dirty, dangerous work. The great loser, depleted�d and polluted in an economic process that has become
 a goal in itself.
 
 1 44
@@ -8585,7 +8585,7 @@ no official alternative for consumers. Like the God of religion, this secular Go
 omnipresent (the party); omniscient ('scientific socialism'), omnipotent (the powers of the
 state, /'etat gendarme, in ex-Soviet Union the KGB and the Army), and benevolent (/'bat
 providence covers the idea perfectly). Certainly one-way communication of propaganda.
-3 First priority: productionfor basic needs. There should be afloor level in basic-needs
+3 First priority: production for basic needs. There should be a floor level in basic-needs
 fulfillment, with some efforts to establish a ceiling (number of houses, for instance). The
 Red production profile should be higher on food, clothing and housing, facilities for
 health and education; and offer more products for collective consumption (the car:bus
@@ -8605,7 +8605,7 @@ higher goa\.22 Many workers interpret the Red system as being soft on workers, d
 
 llART I l l : D EV E LOPM ENT THEORY
 
-are not for sale. Worh'rs cannot sell their labor power to whomever they want, nor can
+are not for sale. Workers cannot sell their labor power to whomever they want, nor can
 land be sold. A manager has a fixed salary. Basic needs products are inexpensive, although
 scarcity may make for long waiting lines. Low level monetization limits the finance economy, making it a biased and diminished monetary image of the real economy.z>
 
@@ -8859,7 +8859,7 @@ seeking to build symbiosis.
 2.6 The Yellow School: Blue and Red
 
 What we have in mind here is the economic system currently attracting most attention in the
-world: the economic practiceJ3 of Japan and other countries in East Asia, China, and the
+world: the economic practice3 of Japan and other countries in East Asia, China, and the
 mini-Japans/Chinas: South Korea, Taiwan, Hong Kong, and Singapore.34The reader is now
 invited to a simpler exercise: putting Blue and Red, Tables 2. 1 and 2.2, on top of each other.
 The Yellow School differs from the Pink in not having the Green element of localism
@@ -8935,7 +8935,7 @@ national markets
 
 1 50
 
-PART I I I : D EV E LOPMENT T H EORY
+PART I I I : D EV E DEVELOPMENT T H EORY
 
 The Eclectic, pantheistic/polytheistic, school includes the main diagonal of the diagram -
 Green-Pink-Yellow. The Blue and the Red, trusting in one god only (market or plan), are
@@ -8956,7 +8956,7 @@ Yellow
 
 Eclectic
 
-Individualisml
+Individualism
 collectivism
 
 Indivi-
@@ -8965,7 +8965,7 @@ Individualism
 
 dualism
 
-Collecti-
+Collectivism-
 Vlsm
 
 Bothl
@@ -8976,7 +8976,7 @@ Collectivism
 Bothl
 and
 
-Verticalityl
+Verticality
 
 horizontality
 
@@ -9124,11 +9124,11 @@ I S. See R. H. Coase, 'The Problem of Social Cost', Journal of Law and Economics
 more sophisticated engineers will demand the right to research, design, and develop more sophisticated products; the market makes more sophisticated marketing possible, demanding more
 sophisticated salespeople, etc. And so we get causal arrows in all six possible directions, a web of
 variables spiraling itself upwards in sophistication or downwards in si�p�ification. An example: why
-was the Volkswagen 'Beetle', the Kafer, suddenly discontinued? Because the engineers demanded
+was the Volkswagen 'Beetle', the Käfer, suddenly discontinued? Because the engineers demanded
 new, challenging tasks (private communication from one of them).
 
 17. To a given quantity of some factor(s) corresponds a certain quantity of other factors to obtain
-equilibrium for production. Theoretically one might equilibrate downwards, getting rid of any factor in excess. When that factor is labor the word for excess is ' redundance' and the result is
+equilibrium for production. Theoretically one might equilibrate downwards, getting rid of any factor in excess. When that factor is labor the word for excess is ' redundancy' and the result is
 unemployment. Nature, capital, technology, and management are not destroyed; interestingly, and
 scarcely by chance, labor is the factor used to balance the accounts downwards in case of disequilibrium. But the general tendency would be to equilibrate upwards, expansion being a sign of
 success.
@@ -9579,7 +9579,7 @@ Marginalization
 
 (Space) Marginalization
 
-Fragmentatioll
+Fragmentation
 
 Segmentation
 Penetration
@@ -9712,7 +9712,7 @@ The positive column in Table 3.3 is one answer. There is a simple logic behind t
 Person space the four needs categories (but adding explicitly health to well-being, and
 challenge to identity); for Social space the five factors defining structural peace/development have been used, but adding dynamism and social justice; for World space exactly the
 same has been done since this is also a social space, only at a higher level of complexity;
-for Historyffime sustainability or reproducibility; and for Culture, pluralism as opposed
+for History/time sustainability or reproducibility; and for Culture, pluralism as opposed
 to world monoculture as a cause and consequence of the Blue system. 20
 
 1 60
@@ -9805,7 +9805,7 @@ causes and inputs.
 More particularly, there are cultural dispositions to be taken very seriously - some
 applauded, some not. This is shown in tabular form in Table 3.5.
 
-Table 3.5 Externalities v.. Positive/Negative; InputlOutput
+Table 3.5 Externalities v.. Positive/Negative; Input/Output
 
 Positive
 
@@ -9833,7 +9833,7 @@ Thesis No. 4
 The lower the number of internalities, the higher the freedom of the economic actor, as
 there are fewer variables to take into account. Correspondingly, the lower the number of
 internalities, the easier the construction of contradiction-free, even mathematized economic
-theories based on a low number of variables, a low number ofaxioms and possibly with high
+theories based on a low number of variables, a low number of axioms and possibly with high
 explanatory power.22
 In both cases, designating a variable as an externality serves to exonerate the economic
 practitioner and theoretician, entitling them not to take it into consideration. Evidently,
@@ -10064,7 +10064,7 @@ Blue, Red, Green, etc., as important as growth for mainstream economics: exploit
 
 There is (weak) exploitation or inequity in an economic cycle when the totality of the
 positive and negative effects of internalities and externalities as a result of economic
-activity are unequally distributed Ifnot, there is equity.
+activity are unequally distributed If not, there is equity.
 
 The definition is cycle-oriented, not only based on 'A exploits B',30 but also highlighting the exploitation of nature. Exploitation is to be cheated. Then comes strong
 exploitation: strong exploitation in addition destroys reproduction capacity.
@@ -10097,7 +10097,7 @@ may come and go, the problems remain.
 
 Thesis No. 13
 
-Externalities cannot and should not be monetized: first, because this is impossible/meaningless; second, to ,iiscourage cost-benefit analysis across externalities, searching for
+Externalities cannot and should not be monetized: first, because this is impossible/meaningless; second, to ,discourage cost-benefit analysis across externalities, searching for
 trade-offs among entities that are sui generis; third, not to lower the motivation to
 search for real solutions.
 
@@ -10123,7 +10123,7 @@ ethical universe and has to be dealt with separately and seriously, not monetize
 Thesis No. 15
 
 The same externalities can and should be compared across actors and across time.
-Comparability acnss actors and across time should not be assumed a priori, but be
+Comparability across actors and across time should not be assumed a priori, but be
 seen as an hypothesis to be tested in practice and in dialogues.
 
 We have to know how an externality develops over time for the same actor, and be able
@@ -10178,7 +10178,7 @@ Territorial actors
 
 Non-territorial actors
 
-Househojds, farms
+Households, farms
 Communities
 States
 Super-states
@@ -10261,7 +10261,7 @@ change the status quo, just as those who benefit most, Producers and Distributor
 motivated to maintain, even reinforce it. The line-up is relatively well crystallized today:
 Producers and Distributors on the one hand against Nature and Consumers on the
 other, the former alliance much better organized. The position of the (super-)State, in
-between or siding with one or the other is important, but not cruciaps
+between or siding with one or the other is important, but not crucial
 
 More original is sharing the positive externalities. That brilliant Danish invention
 Lego (and the Swedish furniture corporation IKEA or any firm marketing 'do it yourself'
@@ -10328,7 +10328,7 @@ Take the example of apple imports to country J from A or C. A grows apples bio-o
 expensive, but poison-free; in addition the soil on which they grow may be enriched in the
 process. C grows apples in the traditional capital-intensive way, with artificial fertilizer
 and pesticides, poisoning the apples and degrading the soil. J, by importing from A, helps
-develop A in the process; J, by importing from C helps C grow economically but also dedevelops C. The ethically conscious choice is obvious: paying somewhat more for these
+develop A in the process; J, by importing from C helps C grow economically but also de-develops C. The ethically conscious choice is obvious: paying somewhat more for these
 effects to take place, potentially making J and A each other's inner sector with countless
 cooperative endeavors following. with positive externalities. The basic point is how the
 externality catalogues can inspire new cycles of production, distribution, and consumption,
@@ -10563,7 +10563,7 @@ course others do not let them 'enter - a calculus' or 'influence - decisions'. T
 on effects ('outputs') and not on causes ('inputs'). An externality can be both.
 
 1 0. In that case, some consensus might perhaps gravitate around the omnipresent textbook by Paul
-Samuelson, Economics (New York: McGraw-Hili, 1 3th edition, 1 989; with W. D. Nordhaus). At the
+Samuelson, Economics (New York: McGraw-Hill, 1 3th edition, 1 989; with W. D. Nordhaus). At the
 end of the book there is a useful 'glossary of terms'. Under 'exploitation': nothing, not even mining,
 sea-bed. Under 'equity': equity capital. Under 'externalities': the usual definition in terms of costs
 and benefits not paid for (hinting at monetization), and the statement that 'private costs and benefits do not equal social costs and benefits' (hinting at quantification for comparison; mentioning
@@ -10577,7 +10577,7 @@ Green schools.
 
 12. Thus, insurance companies might use 'remaining earning capacity' as a price tag on human life,
 in other words highly dependent on age, gender, race, and class. A major problem is whether this has
-some implication for the al1ocation of airplanes at different ages to different routes, those carrying
+some implication for the al1allocation of airplanes at different ages to different routes, those carrying
 a predominance of young, male, white business executives, as against those carrying a heavy load of
 old, female, colored employees.
 
@@ -10627,21 +10627,21 @@ being universally valid at all time, beyond space and time, being context-free. 
 deeper roots if the cultural soil is already compatible, or has been made compatible, for instance
 through colonialism.
 
-2 1 . The stocklflow discourse brings in another perspective on externalities: does the flow deplete
+2 1 . The stockflow discourse brings in another perspective on externalities: does the flow deplete
 or replenish stock/capital? The bottom row for negative externalities in Table 3.4 poses the questions
 for nature, human, social, world, time and cultural capital. More precisely, if depletion/pollution
 exceeds what nature can handle, then the capital is depleted. If misery, monotony, and alienation,
 including the simple form of loneliness, exceed what the person can handle, then the capital of vital
 strength, love, and creativity of that person is eroded. With too much verticality and individual
 mobility, with people moving out of sight of each other, substituting machine messages, the structural capital of that society is eroded, through destructuration. For the world, poorly structured as
-it is, basically anarchic/fr.udal, there is not that much capital to deplete, but nationalism certainly
+it is, basically anarchic/fr.feudal, there is not that much capital to deplete, but nationalism certainly
 erodes whatever exists. Taken together, the result is degradation over time, with, for instance, increasing direct and structural violence. Atomism and materialism alone do not provide adequate culture
 to exit from these major problems; they have to be tempered by holism and spirituality (to constitute
 idealism). In other words, the cultural capital is also being eroded, particularly by economics. In
 addition to de.structuration there is also deculturation.
 
 22. If the number of axioms is n, and the number of theorems deduced is N, then one measure of
-explanatory power is \-n/ N; the higher the lower n and the higher N. This must have been very important also as a mnemotecl:nic device, before printing was developed. All people needed to remember
+explanatory power is \-n/ N; the higher the lower n and the higher N. This must have been very important also as a mnemonic:nic device, before printing was developed. All people needed to remember
 
 1 75
 
@@ -10680,7 +10680,7 @@ add up to 24.9% (with Singapore from Southeast Asia 27.2%, more than a quarter o
 trade). An East Asian Common Market of the (Mahayana) Buddhist-Confucian countries Japan,
 China (with Hong Kong and Taiwan), (united) Korea and Viet Nam would already today be the
 largest trade partner in the world, and the USA with Canada (and Mexico, NAFTA) No. 2. Even the
-EU, unless a major expansion of membership takes place, would then become No. 3, as an indication of world dynamism. (From GATT Secretariat, in Neue Ziircher Zeitung, 29 March 1993).
+EU, unless a major expansion of membership takes place, would then become No. 3, as an indication of world dynamism. (From GATT Secretariat, in Neue Zürcher Zeitung, 29 March 1993).
 
 29. See Table 3.5 above. Only few cultures incorporate all four elements - hard work, savings,
 
@@ -10740,7 +10740,7 @@ compensated.
 
 4 1 . In that sense, 70 years of communism prepared them for capitalism. What they are now expe­
 
-riencing is Blue externalities on top of the old Red ones.
+experiencing is Blue externalities on top of the old Red ones.
 
 Ten Theses on Eclectic
 Development Theory
@@ -10926,7 +10926,7 @@ nature (N) some form, in other words culture (C), always aiming at higher C/N ra
 Export integrated circuits and silicon chips, not to mention computers, etc., never raw
 metals, not to mention potato chips.7 But this requires cooperation between researchers
 and technicians (for high C/N) and workers for good quality of the products at reasonable prices (high Q/P). Management-worker relations have to be good within the
-companies; and state�apital cooperation would bring in all the resources of the society
+companies; and state�capital cooperation would bring in all the resources of the society
 for the export drive - not for all possible products, but for niches of pride and quality.
 Those are all the basic features of the Yellow economy.
 
@@ -10957,7 +10957,7 @@ wasteland.
 
 But the First World is also maldeveloped. Heavy world trade participation creates
 dependency on the world level and vulnerability to its conjunctures, also where basicneeds products are concerned. National production profiles become increasingly
-one-sided, if not mono-crop perhaps mono-product. And local-level production for locallevel consumption gets squeezed out in the competition.
+one-sided, if not mono-crop perhaps mono-product. And local-level production for local-level consumption gets squeezed out in the competition.
 
 The consequences are obvious. Basic-needs deficits are translated into basic interests at
 the national level, and may lead to military action. 1 1 In other countries basic-needs
@@ -11054,7 +11054,7 @@ link between economic cause and ecological consequence can be acted upon when so
 
 In human space, this goes beyond improving health and education levels. Giving
 some challenge to everybody was the strength of Western entrepreneurialism as long as
-it was sufficiently dcl:entralized. But Blue tends to centralize, potentially as much as Red,
+it was sufficiently dcl:decentralized. But Blue tends to centralize, potentially as much as Red,
 with Yellow combining the processes. Hence, for development in nature and human
 spaces, Green and Pink elements are indispensable. Then, the distinction between jobs
 to make money and work for self-realization. Work is intrinsically creative; whenever it
@@ -11193,7 +11193,7 @@ approaches as peace studies, environment studies, future studies, and women's st
 all of them relatively recent, and all of them also reactions against the fragmentation of
 the study of the human condition into a multitude of specialties and disciplines - also disciplining the disciples.
 
-However, practice has become sadly ditTeren�. Instead of holism, there has been a
+However, practice has become sadly differen�. Instead of holism, there has been a
 focus on only the economic aspects of only the Social space of human existence; instead
 of dynamism in an endogenous sense, there has been a focus on the capacity to emulate
 certain societies held to be 'developed'. This remarkably tenacious approach ignores
@@ -11213,7 +11213,7 @@ And only recently has Time become dressed up in sustainability garb. As to Cultu
 
 cultures good for economic growth are by definition good for development.
 
-We are left with a 'theory' of development incapable of foreseeing the ecological imbalances, incapable of taking into account the modernization diseases that atTect the human
+We are left with a 'theory' of development incapable of foreseeing the ecological imbalances, incapable of taking into account the modernization diseases that affect the human
 body (cardiovascular diseases and malignant tumors), the mind (mental disorders) and
 spirit (a general sense of meaninglessness); incapable of handling problems of gross social
 and world maldevelopment (like patriarchy, bureaucratization, militarization, and other
@@ -11271,7 +11271,7 @@ calamities of various kinds). The whole cosmic eco-cycle has the cosmo-, atmo-,
 hydro-, litho-, and biosphere as its basis, with the homosphere as a highly expendable
 coda, and the cosmosphere as accommodating context.
 
-3 Perhaps our insight into nature is better than our insight into ourselves. There is a distance between o.lrselves and the rest of nature which facilitates abstract and
+3 Perhaps our insight into nature is better than our insight into ourselves. There is a distance between o.ourselves and the rest of nature which facilitates abstract and
 generalizing intellectualism. A priori we might assume even more insight into the
 other three spaces since we are in them, of them, and by them. But precisely for that
 reason it may be more difficult to achieve the distance necessary to arrive at some
@@ -11301,7 +11301,7 @@ exchange cycles, then after some time some kind of sustainable balance should be
 result.
 
 This is plausible, also because it is so easily seen how a system in nature space might
-co1\apse: through lack of diversity (the abiotalbiota needed are simply not available any
+co1\apse: through lack of diversity (the abiota needed are simply not available any
 longer), or through malfunctioning of the symbiotic mechanisms. The former is seen in
 monocultural agriculture, which has to be maintained artificially by supplying diversity
 (for balance) through (artificial?) fertilizers and (toxic) pesticides. And the second is seen
@@ -11323,13 +11323,13 @@ reflection, in other words of self-reflection, and in turn reflection on this se
 philosophy.
 
 It is this complexity that constitutes the personality. Here it is not necessary to have any
-clear view of where to draw the line between the mind and the spirit, or whether the personality also jncludes aspects of the body in a purely somatic sense. The argument could
+clear view of where to draw the line between the mind and the spirit, or whether the personality also includes aspects of the body in a purely somatic sense. The argument could
 also be made that the latter is part of nature space.
 
 In social space a distinction has been made between the micro, meso, and macro levels.
 Micro is the sma1\ group surrounding any individual, usua1\y based on kinship and/or
 friendship - in other words, primary relations; meso would be the local level of secondary
-relations usua1\y based on values and/or interests in a social sen'se; and macro would be
+relations usua1\y based on values and/or interests in a social sense; and macro would be
 the national level, and tertiary relations; classifications of people in gender and generations, races and classes, nations and inhabitants (of territorial units).
 
 Finally, there is world space, of interacting social spaces of all kinds. Much attention is
@@ -12113,7 +12113,7 @@ examples of cultural violence from each domain. The logic of the scheme is simpl
 legitimize direct or structural violence.
 
 I Religion
-In all religions there is somewhere the sacred, das HeiJige; let us call it 'god'.
+In all religions there is somewhere the sacred, das Heilige; let us call it 'god'.
 A basic distinction can be made between a transcendental God outside us and an immanent god inside us, maybe also inside all life. 19 The Judaism of the Torah, founded almost
 4,000 years ago, envisaged God as a male deity residing outside planet Earth. A catastrophic idea; a clear case of transcendentalism as a metaphor from which many
 consequences follow, taken over by the other Semitic or Occidental religions, Christianity
@@ -12136,10 +12136,10 @@ most in His image, Ie: ving it to Satan to take the others, as indicated in Tabl
 would give us a double dichotomy with God, the Chosen Ones (by God), the Unchosen
 Ones (by God, chosen by Satan) and Satan; the chosen heading for salvation and closeness to God in Heaven, the unchosen for damnation and closeness to Satan in Hell.
 However, Heaven anti Hell can also be reproduced on earth, as a foretaste or indication
-of the afterlife. Miserylluxury can be seen as preparations for Hell/Heaven - and social
+of the afterlife. Misery can be seen as preparations for Hell/Heaven - and social
 class as the finger of God.
 
-Table 1 .2 The Chosen awl the UncllOsen
+Table 1 .2 The Chosen awl the Unclosen
 
 God chooses
 
@@ -12267,7 +12267,7 @@ PART IV: CIVI LIZATION TH EORY
 
 belief, including denying power and privilege for the meritorious and a strict border
 between human life and other forms of life. In short, residual chosen ness will stay on for
-a while as speciesism, 'c1assism', and 'meritism', regardless of the status of God and
+a while as speciesism, 'c1classism', and 'meritism', regardless of the status of God and
 Satan.
 
 The ideology of nationalism, rooted in the figure of Chosen People and justified
@@ -12333,7 +12333,7 @@ deep culture, the deeper layers of that bottom stratum in the violence triangle.
 Union as the successor to the European Community of 1 967.26 How does Europe understand itself? The story tied to the 'Europa' of Greek mythology is not very helpful. The
 understanding of Europe as the negation of the non-European environment carries us
 much further. And that environment at the time of the transition from the Middle Ages
-to the Modern Period was the gigantic Ottoman Empire to the east and the south, reaching the walls of Vienna ( 1 683), conquering Syria and Egypt ( 1 5 1 7), vassaJizing
+to the Modern Period was the gigantic Ottoman Empire to the east and the south, reaching the walls of Vienna ( 1 683), conquering Syria and Egypt ( 1 5 1 7), vassalizing
 Tripolitania, Tunisia, and Algeria afterwards, leaving only the Sultanate of Fez and
 Morocco with the small Spanish Habsburg enclaves, two of them still there. The only non­
 Oriental (meaning Arab, Muslim) environment was Russia, poor, vast in space and time.
@@ -12348,7 +12348,7 @@ European colleagues could only approximate by sneaking out at night to violate p
 girls. So did Muslims not constrained by Christian monogamy. In France a school of
 painting emerged in the 1 9th century representing oriental despotism in a setting of sex
 and/or violence. Henri Regnault's Execution Without Process and Eugene Delacroix's The
-Death of Sardanapal are good examples. Hegel, copied by Marx, also saw oriental despotism and oriental (or Asian) mode of production as negative, homogeneous, stagnant.
+Death of Sardanapalus are good examples. Hegel, copied by Marx, also saw oriental despotism and oriental (or Asian) mode of production as negative, homogeneous, stagnant.
 
 It belongs to this syndrome that the non-Arab part of the semicircle around Europe,
 Russia, also had to be seen in terms of oriental despotism. That 'despotism' could fit the
@@ -12376,7 +12376,7 @@ this doctrine in the form of today's vertical division of labor in the world are
 most people to see. Structural violence everywhere: among countries and within countries.28
 
 Thus, the doctrine or' comparative advantages serves as a justification for a rough division of the world in terms of the degree of processing which countries impart to their
-export products. Sinc:! this is roughly proportionate to the amount of challenge they •
+export products. Since:! this is roughly proportionate to the amount of challenge they •
 receive in the production process, the principle of comparative advantages sentences
 countries to stay where the production-factor profile has landed them, for geographical
 and historical reasons. Of course, there is no law, legal or empirical, to the effect that
@@ -12405,7 +12405,7 @@ visioning a less violent potential reality.
 7 Cosmology We return to the problem of the transition from cultural violence to violent culture. As mentioned in section 1. 1 above, such global judgements could be arrived
 at by identifying an extensive and diverse number of cultural aspects, in religious and ideological thought, in language and art, in empirical and formal science; all of them serving
 to justify violence. However, there is also another approach: to explore the substratum of
-the culture for its 'deep cuIture(s)', of which there may be severaPI We would be looking
+the culture for its 'deep culture(s)', of which there may be several We would be looking
 at the roots of the roots, so to speak: the cultural genetic code that generates cultural elements and reproduces itself through them. That this becomes very speCUlative is not so
 problematic; it is in the nature of science to postulate deeper layers, spelling out implications, testing the hard core of the theory around the ragged edges.
 
@@ -12505,12 +12505,12 @@ learn, so much to take, to receive. Perhaps we shall also in due time have some 
 I . 'Cultural violence' follows in the footsteps of the concept of 'structural violence'; see my
 'Violence, Peace and Peace Research', Journal of Peace Research, vol. 6, no. 3, 1 969, pp. 167- 1 9 1 . For
 a more recent and very constructive critique and etTort to develop the idea further, see Michael Roth,
-'Strukturelle und personale Gewalt: Probleme der Operationalisierung des GewaltbegritTs von lohan
+'Strukturelle und personale Gewalt: Probleme der Operationalisierung des Gewaltbegriffs von lohan
 Galtung', HSFK Forschungsbericht, no. I , April, 1988. A similar concept is introduced in Hans
 Saner, 'Personale, strukturelle und symbolische Gewalt', pp. 73-95 in Hoffnung und Gewalt. Zur
 Ferne des Friedens (Basel: Lenos & Z. Verlag, 1 982).
 
-2. There have been many etTorts to create the 'new man' (and woman?). In the West each new
+2. There have been many efforts to create the 'new man' (and woman?). In the West each new
 
 branch of Christianity is an effort, so is humanism, so is socialism. But any inculcation in others of
 any single culture is in itself an act of direct violence (meaning intended by the actor), usual1y
@@ -12523,11 +12523,11 @@ probably imply exposure to multiple cultures and then a dialogue, as argued belo
 Christianity nor humanism is good at this; in fact, we still do not know how to do it. It should be
 noted that to impose a culture on somebody, whether done directly or structural1y, is not what is
 meant here by cultural violence. Cultural aspects legitimizing that imposition, however, for instance
-because the culture is 'higher' (monotheisic, modern, scientific, etc.), would be violence built into
+because the culture is 'higher' (monotheistic, modern, scientific, etc.), would be violence built into
 that culture, in other words, cultural violence. 'Empirical or potential legitimation of violence' is the
 key to cultural violence.
 
-3. We then schematical1y divide control mechanisms into internal and external, positivI! and
+3. We then schematically1y divide control mechanisms into internal and external, positivI! and
 negative: identifying 'internal, both positive and negative' as good and bad conscIence respectively;
 'external positive' as reward and 'external negative' as punishment. 'Internalization' is conscience
 deeply rooted in the person system, 'institutionalization' is punishment/reward deeply rooted in the
@@ -12537,7 +12537,7 @@ social science theory construction.
 
 4. On this, see also Johan Galtung, 'The Basic Needs Approach', pp. 55-125 in Katrin Lederer,
 David Antal & Johan Galtung, eds, Human Needs: a Contribution to the Current Debate (Cambridge,
-MA: Oelgeschlliger, Gunn & Hain; Konigstein: Anton Hain, 1980).
+MA: Oelgeschläger, Gunn & Hain; Konigstein: Anton Hain, 1980).
 
 5. For an attempt to compare the three systems (not just Hitlerism and Stalinism, which
 became very common under glasnost revisionism), see my Hitlerism, Stalinism. Reaganism. Three
@@ -12546,7 +12546,7 @@ forthcoming).
 
 6. There are strong similarities built around Shinto themes of chosenness. For an analysis, see
 Saburo Ienaga, The Pacific War: 1931-1945 (New York: Random House, 1978), particularly p. 1 54
-for the concept'of hakko ichiu (the eight corners of the worl(j under one root).
+for the concept hakko ichiu (the eight corners of the worl(j under one root).
 
 7. The easy approach is to dump all 'side-effects' at the doorsteps of some other disciplines,
 demanding that they shall clean them up conceptually, theoretically, and in practice - as economists
@@ -12599,7 +12599,7 @@ military to buy students with scholarships and to give classes filled with milit
 
 19. Another theological distinction of equal importance is whether we are born with original sin
 (as some Christians would claim), original blessing (as others would claim), both (a Hindu-Buddhist
-karmaist position?) or neither (an atheist position). The combination transcendental God/original
+karma position?) or neither (an atheist position). The combination transcendental God/original
 sin has tremendous implications for controlling people, as Luther understood well.
 
 20. For more details, see Johan Galtung: 'The "Middle East" Conflict', ch. 3, pp. 37-57 in my
@@ -12607,7 +12607,7 @@ Solving Conflicts: a Peace Research Perspective (Honolulu, HI: University of Haw
 see also my Nonviolence and Israeli Palestine (Honolulu, HI: University of Hawai'i Press, 1989). For
 an excellent study of the theme of chosen ness, see Weber, 'The Promise of the Land'.
 
-2 1 . See Ekkehart Krippendorff, Staat und Krieg. Das historische Logik politischer Unvernunft
+2 1 . See Ekkehart Krippendorff, Staat und Krieg. Das historische Logik political Unvernunft
 
 (Frankfurt a.M.: Suhrkamp, 1 985).
 
@@ -12742,7 +12742,7 @@ This gives us a total of seven dimensions,9 which will be used to characterize s
 problem once the choice of units (the civilizations) and the variables (the spaces) has been
 made, is to decide on the values for these variables, the concrete ways of characterizing
 civilization C in terms of its stand taken on space S.IO The content of Table 2. 1 is the outcome of considerable trial and error. I I Diagrams have sometimes been found more
-expressive than words (even if they have to be spel1ed out in the text with words).
+expressive than words (even if they have to be spelled1ed out in the text with words).
 
 This Table can be read vertically as an effort to catch the essence, meaning the cosmology, of any one of the six civilizations; or horizontally, to compare civilizations in any
 one space. Comparing two columns should yield some insight into similarities and differences between two civilizations. And comparing two rows could lead to some insight
@@ -13009,7 +13009,7 @@ Contradiction
 
 2 1 4
 
-PART I V : CIVI LIZATI O N THEORY
+PART I V : CIVI CIVILIZATION O N THEORY
 
 macro-culture, specifications are possible, meaningful, even necessary (Chapter 4). And
 finally we ask: what to do about it, is there any therapy for pathological cosmologies
@@ -13091,7 +13091,7 @@ Axiom, eluding us, from which the rest can be deduced. For all seven spaces the 
 would be an adequate geometry. IS
 
 Occident II cosmology This is conceived of as the latent or recessive Occident in the contemporary West, and as the manifest or dominant Occident in the medieval period, from
-when the Western Roman Empire started its downward slope till the manoriaUfeudal system yielded to the city-states, later to become nation-states and world-states, empires. 19 But
+when the Western Roman Empire started its downward slope till the manorial/feudal system yielded to the city-states, later to become nation-states and world-states, empires. 19 But
 it is still present, in the deeper recesses of the Occident, carried by nature more than
 humans, by women more than men, by the young and the old more than the middle-aged.20
 As this is a departure from Occident I, which in turn became a departure from
@@ -13265,7 +13265,7 @@ Sinic cosmology Further East we enter the sophistication of the san fa, in the C
 version of the Daoism-Confucianism-Buddhism combination. Each one of them left its
 imprint on Sinic cosmology, leading to a very sophisticated world-view, probably a major
 reason why China has lasted so long, even more so than frequently invaded India.
-Daoism takes the Bu�dhic focus on a holistic-dialectic-contradictory Episteme even further, building on the ancient yin/yang perspective on reality. The focus on holon is kept,
+Daoism takes the Bu�Buddhic focus on a holistic-dialectic-contradictory Episteme even further, building on the ancient yin/yang perspective on reality. The focus on holon is kept,
 but made even more dynamic under Daoism. Thus, a major work published under Mao
 Zedong's name was On Contradiction, building on the Chinese tradition even if it is not
 referred to specifically - not necessarily because it is neglected but more because it is simply taken for granted, as 'normal and natural'.
@@ -13300,7 +13300,7 @@ The construction of the Transpersonal flows from the three teachings, combining 
 rejecting from this rich pluralism, giving rise to many highly particularistic belief systems.
 But the overarching belief system is that eclecticism itself. How radical this is can best be
 understood by trying to imagine the Occident as being based on Judaism, Christianity,
-and Islam, inviting every individual and colIectivity to construct its · own combination.
+and Islam, inviting every individual and collectivity to construct its · own combination.
 Perhaps this is the key to the difference between Occident and Orient: Occident is the
 Land of either/or, Orient the Land of both/and.
 
@@ -13331,7 +13331,7 @@ and pluralistic ways.
 
 State Shintoism constructed, after the Meiji Revolution (or Restoration as it is commonly referred to, giving an impression of continuity) a World with Japan at the center.
 Surrounding Japan were Japan-similar countries, meaning particularly the Mahayana
-Buddhist/Confucian countries Viet Nam, China and Korea, key countries in the dai-toii construction, the Greater East Asia Co-prosperity Spherei of the Pacific War of
+Buddhist/Confucian countries Viet Nam, China and Korea, key countries in the dai-toii construction, the Greater East Asia Co-prosperity Sphere of the Pacific War of
 193 1-45.30 And outside that we find something reminiscent of the Barbaria in Sinic cosmology: Resourcia. Whereas the Chinese might disregard Barbaria, except as a potential
 threat, this third part of reality, also unbounded, is to the Japanese one vast Resource, a
 
@@ -13377,7 +13377,7 @@ ranges in space and time; not only P in S. The term 'civilization' carries no co
 low or good and bad relative to anything.
 
 2. They will be spelt out, to some extent, in my forthcoming A Theory of Civilizations.
-3. Indic, Buddhic, Sinie, and Nipponic are terms imitating Toynbee's terminology, found useful
+3. Indic, Buddhic, Sinic, and Nipponic are terms imitating Toynbee's terminology, found useful
 because they are all ideal types in Weber's sense. Thus, there is much of Nipponic cosmology in
 Japan, but also, for instance, an overlayer of Occident I. Hence, the six cosmologies to be explored
 are theoretical constructs relating to concrete space-time regions, but not identical with them.
@@ -13388,7 +13388,7 @@ easily known and recognized are the Buddha in the East and the Christ in the Wes
 are familiar to aU, and the fruits of Their lives and words have conditioned the thinking and civilizations of both hemispheres' (p. 1 0; I am indebted to Cliff Goalstone for alerting me to this
 fascinating author). Of course, for Islam Mohammed would be the Avatar and for Judaism there are
 many, being multi-prophetic as opposed to the mono-prophetism of Christianity (Orthodox,
-Catholic or Protestant) and Islam (Suni or Shia). And it matters whether Buddhism - Southern
+Catholic or Protestant) and Islam (Sunni or Shia). And it matters whether Buddhism - Southern
 (Hinayana, Theravada), Eastern (Mahayana), or Northern (Lamaist) - comes alone or amalgamated
 with other world-views.
 
@@ -13396,7 +13396,7 @@ with other world-views.
 
 inition in cultural rather than geographical terms.
 
-SIX COSMOLOGI ES
+SIX COSMOLOGIES ES
 
 6. Thus, there is Occident in the Orient (like the Philippines, Indonesia and the overlayer of
 Occident I) and there is Orient in the Occident (like the medieval period, say, +250 - + 1250 in
@@ -13410,7 +13410,7 @@ past, sedimented in layers in our mind, mirrored all around us at least in histo
 
 8. The reader will recognize the spaces from Part I I : Development Theory, the difference being
 that the term 'Self' has been preferred to 'Human', or 'Person', to emphasize that the focus is more
-on the inner person. Other analysts use some of these categories, Ilnd add others, for instance
+on the inner person. Other analysts use some of these categories, And add others, for instance
 Florence R. Kluckhohn & Fred L. Strodtbeck, Variations in Value Orientations (Evanston, IL: Row,
 Peterson, 1 96 1 ). The logic behind the present scheme is inspired by Kant (space, time, and knowledge, space is here called World, and knowledge is called Episteme), and the rather obvious context
 of any human being: Nature, other persons (here called Society) and god (here called the
@@ -13673,7 +13673,7 @@ groups as defined by class, race, culture (nation, including language, religion,
 and territorial location. International or external peace is the absence of external wars;
 inter-country, inter-state, or inter-nation (meaning inter-cultural). Social or internal
 peace is the absence of internal wars; with class, race, national, or territorial groups challenging central governance, or such groups challenging each other. As central governance
-came late in human history, so did wars among and against governments. Hellce, wars are
+came late in human history, so did wars among and against governments. Hence, wars are
 in fact avoidable, and peace is in principle achievable.
 
 The Latin pax is related to pact, as in pacta sunt servanda, 'treaties must be observed'.
@@ -13731,7 +13731,7 @@ all of them to come true. Here we have a very holistic meta-concept across perso
 social organization.
 
 Coming full circle, we then return to the narrow pax, well institutionalized and internalized in the Occident. Missing in that concept is attention to structural violence, inner
-peace, nonviolence, alld harmony between the spheres of the human condition. But the
+peace, nonviolence, all harmony between the spheres of the human condition. But the
 concept of peace is open, like freedom and j ustice, with no culture having any monopoly
 on its definition. All of them are aspects of a more universal concept of peace not yet
 defined. As if there once was a universal peace concept and humankind was one, and then
@@ -13758,7 +13758,7 @@ second concept, correspondingly, gives rise to a system of treaties and alliance
 Evil, centered on the major Western power, for the time being the United States (with its
 NATO, TlAP, SEATO, CENTO, ANZUS, AMPO, and so on). All of them tie the
 Periphery to the Center, in an alliance against such Evils as 'international communism',
-'terrorism' or 'Muslim fanatics'. A reflection of this was found in the'system built around
+'terrorism' or 'Muslim fanatics'. A reflection of this was found in the system built around
 what was once the major power in the Eastern part of the Occident: the Soviet Union and
 the Warsaw Treaty Organization, against 'fascism' and 'imperialism', the Evil in their
 world construction.
@@ -13803,7 +13803,7 @@ despite all the work done to deter Evil, that is only taken as one more proof th
 a dangerous world, not that Evil was provoked. And in that world, balance comes to
 mean 'superiority', which, when pursued by both parties, closes the circle of conflict
 and arms race. To object that the 'peace through strength' theory is simplistic misses the
-point: it should be simplistic. Obviously, warfare is compatible with the biblical fourclasses society, with God on top, then humankind divided into two parts, men and
+point: it should be simplistic. Obviously, warfare is compatible with the biblical four classes society, with God on top, then humankind divided into two parts, men and
 women, and nature at the bottom. To possess overwhelming force and intelligence is a
 manifestation of omnipresence, omnipotence, and omniscience: godly characteristics and
 not only for Occidental gods. But how can warfare be compatible with benevolence or the
@@ -13844,14 +13844,14 @@ Much more is at stake: the whole military approach is an almost perfect articula
 cosmological assumptions, and for that reason rooted in Occidental ism itself. Preparation
 for war, and war itself, fit only too well into the general code. A change in attitude is very
 
-I M P L ICATIONS
+I M P L IMPLICATIONS
 
 unlikely to occur unless the cosmology itself is not only challenged but to some extent
 altered. In the last 2,500 years of Western history that probably happened only twice: during the transitions from the Roman Empire (in the West) to the Medieval Period, and
 from the Medieval to the Modern Period. 1 3
 
 Unfortunately, the same applies to the Occidental theory and practice o f development.
-Development = economic growth is not one random choice by Homo occidentaJis among
+Development = economic growth is not one random choice by Homo occidentalis among
 many development concepts. It is truth, in the sense of being normal and natural, compatible with Occidental cosmology, and for that reason not a subject of serious debate.
 The development discourse is already defined by the cosmology, largely within the economic growth approach, and for peace within the balance of power approach.
 
@@ -13892,7 +13892,7 @@ material life, comfort; and if not eternal afterlife, at least longevity and goo
 Material standards of living play very much the same role for development as freedom in
 connection with the pursuit of peace: the overriding goal that justifies the negative sideeffects, such as eco-crisis, misery, repression, and war.
 
-It can be argued that freedomls and comfort/health are things specific which people
+It can be argued that freedoms and comfort/health are things specific which people
 pursue, not something abstract like peace and development. But that is at the individual
 level. At the national level, security and growth become goals in their own right as collective conditions for satisfying individual needs for freedom and well-being as
 understood in the Occident. 16 Peace and development are system characteristics, not
@@ -13956,7 +13956,7 @@ Occident II: the world is divided into many parts, each a center in its own righ
 
 centric world.
 
-Indic civilization: the world is seen as one big unit, inspired by the fundamental unity-ofhumans doctrine, although this doctrine has been better comprehended in India
+Indic civilization: the world is seen as one big unit, inspired by the fundamental unity-of humans doctrine, although this doctrine has been better comprehended in India
 than anywhere else.
 
 Buddhic civilization: there is a basic unity-of-humans assumption, but also a multi-centric
@@ -14096,7 +14096,7 @@ to the rest of the world (Nos [6], [7], [8] and [9] in Table 3.2). Is Occident I
 of imagining egalitarian relations to others?
 
 [2] Multi-centric - Multi-centric Here we are dealing with a quite different geopolitical
-logic. IdealJy speaking, each one of the centers can regard alJ others as parts of a multicentric world, and carry on, inspired by a doctrine of 'live and let live'. In practice,
+logic. Ideally speaking, each one of the centers can regard alJ others as parts of a multicentric world, and carry on, inspired by a doctrine of 'live and let live'. In practice,
 however, there was warfare in the medieval period, although much of it was ritualistic.
 Towards the end of that period expansionism set in, but then, it may be argued, they were
 already entering Occident I civilization. Similarly, there have been Buddhist kingdoms
@@ -14230,7 +14230,7 @@ We are here dealing with an asymmetric relation. Occident I wants to penetrate a
 expand; and all the Chinese (and the Viet Namese) did was to behave according to the old
 French adage:
 
-eet animal est tres mechant;
+eet animal est tres méchant;
 quand on l'attaque. if se defend.
 
 The Chinese do not expand outside their traditional domain - which unfortunately seems
@@ -14360,7 +14360,7 @@ more clear when more cosmology dimensions are included (see Chapter 5).
 
 ,.
 
-PART I V: C I V I L I ZATI O N TH EORY
+PART I V: C I V I L I ZATION O N TH EORY
 
 3.4 Conclusion: What Can We Do About It?
 
@@ -14373,7 +14373,7 @@ are entirely legitimate questions, crucial to peace studies.
 The candidates for removal would certainly be Occident I and Nipponic. But leaving
 aside moral and practical considerations, there is a major problem. Removal may have as
 a consequence that the remaining three civilizations (actually there are five, since three
-were combined into one group) might acquire some of the characteristics of the nowremoved expansionists. Indic might become like Occident I and Sinic like Nipponic.
+were combined into one group) might acquire some of the characteristics of the now removed expansionists. Indic might become like Occident I and Sinic like Nipponic.
 There may be a group dynamic at work here, with civilizations playing roles relative to
 each other, to the point of filling empty role-slots. The world is a system (not only a set)
 of civilizations in interaction, where the attitudes and behavior of one actor may be
@@ -14447,7 +14447,7 @@ understanding of what conflict is about and more experience with how to transfor
 not understand in time the early warnings, symptoms, of a more serious disease.
 
 6. This idea is developed further in Johan Galtung, 'Social Cosmology and the Concept of
-Peace', part II ofch. I S, pp. 4 1 5-436 in Essays in Peace Research, vol. V (Copenhagen: Ejlers, 1980.
+Peace', part II of ch. I S, pp. 4 1 5-436 in Essays in Peace Research, vol. V (Copenhagen: Ejlers, 1980.
 7. See Chad Alger, 'The United Nations in a Historical Perspective: What We have Learned
 
 about Peace Building', (Tokyo: UNU, 1 985).
@@ -14498,7 +14498,7 @@ respectively.
 
 and Communism (London: Macmillan, 1 972), esp. chs 8 & 9.
 
-1 9. This is actually a typical example ofeconomism trying to come to grips with such major, complex externalities as peace and development by conceiving of them in terms of decreasing arms
+1 9. This is actually a typical example of economism trying to come to grips with such major, complex externalities as peace and development by conceiving of them in terms of decreasing arms
 budgets and increasing technical assistance budgets. See Part Ill, Chapter 3 on externalities in general.
 
 20. This certainly does violence to a diversity too rich to accommodate within the present scheme,
@@ -14557,7 +14557,7 @@ as soon as it started. More than 30 years later, both sides sat down to determin
 control, LAC, marking actual troop deployment, as a first step to agree on a border (Global Times,30
 July 1 994).
 
-30. Not exactly this idea, but the potential for renewed violence must have been a basic consideration inspiring the Japanese historian Saburo lenaga to write his book The Pacific War 1931-1945
+30. Not exactly this idea, but the potential for renewed violence must have been a basic consideration inspiring the Japanese historian Saburo Ienaga to write his book The Pacific War 1931-1945
 (New York: Random House, 1978), very useful in this context (see particularly pp. 1 35-1 39, 1 54-155,
 1 88-1 89, 200-201).
 
@@ -14655,7 +14655,7 @@ a struggle of everybody against everybody to secure a position in a vertical hie
 varying numbers of layers, more or less pyramidal, more or less broad at the bottom, and
 more or less permeable.
 
-4.2 Homo bitlerensis = Homo teutonicus in extremis
+4.2 Homo hitlerensis = Homo teutonicus in extremis
 
 Nazism carried this a considerable step further. The principle of 'verticality' expressed
 itself between individuals as social Darwinism, the survival of the fittest, in a jungle less
@@ -14848,7 +14848,7 @@ can be said about Homo stalinensis?
 
 4.4 Homo stalinensis = Homo russicus/sovieticus in extremis
 
-Stalinism is an extrewe version of what has been said in the preceding section. Maybe
+Stalinism is an extreme version of what has been said in the preceding section. Maybe
 Stalin can be said to have taken the idea of Russia as the chosen people, and the Soviet
 Union, one of Russia's creations, as the chosen country, still one step further. Not chosen
 by God, of course; but by History as the first country to enter Socialism. Socialism in one
@@ -14965,7 +14965,7 @@ that we now turn.
 4.6 Homo reaganensis = Homo americanus in extremis
 
 The same analytical framework will be used for Reaganism as has been used above to
-analyze HitIerism and Stalinism as macro-cultures. Reagan is not seen as 'a realist' who
+analyze Hitlerism and Stalinism as macro-cultures. Reagan is not seen as 'a realist' who
 just wanted to look 'credible' and 'determined', but as an ideologist of major significance
 because of the strong American fundamentalist, Christian element. Hence, the cosmology
 will be run backwards, starting with the Transpersonal, asking about Reagan's relationship to God, the Guiding Light, and Reagan as the Great Communicator.
@@ -14990,7 +14990,7 @@ being more similar.
 
 The Jews and the state of Israel are on the side of the fundamentalist God of the
 
-SPECI FICATIONS
+SPECI SPECIFICATIONS
 
 United States. The Muslims, usually referred to as 'Muslim fanatics', 'fundamentalists' or
 'terrorists', and the Muslim countries in general and particularly Iraq and Iran, are certainly not (although they were 'heroic freedom fighters' only some miles away, in
@@ -15265,7 +15265,7 @@ unipolarity
 Viet Nam syndrome
 Tehran hostages
 
-Crac'le of
+Cradle of
 
 civilization
 
@@ -15345,7 +15345,7 @@ Inner divisions
 
 mies lurking anywhere, out to hit again.
 
-• Myths of past andfuture glories, near or distant, but real.
+• Myths of past and future glories, near or distant, but real.
 
 Others would focus on other factors. But these three, rooted in religion and concrete
 history, are bound to be crucial, as concrete expressions of the seven basic cosmology
@@ -15381,7 +15381,7 @@ predestined decline and fall. 12
 
 People suffering from the CMT-complex will have two standard non-contradictory
 explanations why transcendental will is not fulfilled and the glory not ushered in: 'equal
-but opposed forces are at work', 13 and 'the Chosen People Qavj: strayed away from the
+but opposed forces are at work', 13 and 'the Chosen People Qavm: strayed away from the
 transcendental will', no longer having that backing. 14 If transcendental will is to rule others, then returning to the path of righteousness will lead to even more trauma; the vicious
 circle which hegemons (and Israel) have built for themselves. IS
 
@@ -15440,7 +15440,7 @@ situation.26
 Something in this sheds some light on how to explain Nazi Germany. Hitler alone and
 his possible 'madness' fail to explain why he attracted so many followers. Explanations in
 terms of the German people alone disregard the need for a competent executive, the
-people being incapable of long-term self-management of megalo-paranoia. Mass phenomena like the hysterical crowd or mob are short-term phenomenaY Far from being
+people being incapable of long-term self-management of megalo-paranoia. Mass phenomena like the hysterical crowd or mob are short-term phenomena Far from being
 socially incompetent, Hitler was rather pleasant in private company regardless of how
 ruthless he was politically. His basic traits were really believing what he said, and pushing
 a sickening ideology with relentless energy.28 In the end he developed psychosomatic symptoms, as would anybody under that stress. He saw himself as chosen, his own past richly
@@ -15448,7 +15448,7 @@ endowed both with trauma and myths of glory. In other words, his psycho-characte
 isomorphic to the point of identity with the socio-character of the German people. That
 point is missed by saying that the Germans were authoritarians in search of a leader, and
 that he was an authority in search of a people to rule. Rather, they recognized themselves
-in each other, 'you and I , we are of the same kind', specijicae of the same genus. Perfect fit.
+in each other, 'you and I , we are of the same kind', speciﬁcae of the same genus. Perfect fit.
 In the periphery of that system, the Germanic Neuordnung, a mini-Hitler took shape:
 the Norwegian Vidkun Quisling. He had the personal CMT-complex well installed in his
 personality, and made a call for status as forer, Norwegian for Fuhrer. Unlike Hitler he
@@ -15469,7 +15469,7 @@ patient, like a non-crying baby, is 'good'. Lobotomy and ataraxia induce that st
 with killing, banishment, and institutionalization the patient is rendered powerless. and
 punished. Apathy-inducing approaches are seen as more humane.3o
 
-All of this should then be contrasted with the psycho-therapeutical approaches. Unlike
+All of this should then be contrasted with the psycho-therapeutic approaches. Unlike
 the other two here we are only at the beginning of something; one century after Freud
 opened the individual subconscious notwithstanding. Schools are proliferating, a good
 sign of pluralism. They see mental disorder as more or less reversible. Some approaches
@@ -15493,7 +15493,7 @@ The crisis is the sin. Pre-programming means at some stage having strayed away f
 God, even having given oneSelf to Satan, or, still more basic: original sin. The competent
 Other is Jesus Christ, and the acceptance of entering into a relation with Him is a necessary condition for union with God, i.e. salvation/purification.33 Catholic Christianity
 would add the Church as a necessary condition for entering the relation with the Supreme
-Healer: extra ecc/esiam, nulla salus. The forces behind the acts of sin must be seen through
+Healer: extra ecc/ecclesiam, nulla salus. The forces behind the acts of sin must be seen through
 confession and then exorcised through repentance, expiation, and submission, asking for
 forgiveness, accepting new guidance, being reborn in Christ. Catharsis. If not: the apocalypsis of eternal damnation.
 
@@ -15581,7 +15581,7 @@ anti-intellectualism, seeing intellectuals as people seeing themselves as chosen
 deviance being mental ('eggheads'), and the ghetto being the campus.4S Leaving the
 Holocaust illustration aside, banishment, even institutionalization, is used defining the
 marginalized as pariah nations, isolating them through diplomatic and economic sanctions (against socialist countries, South Africa, Nicaragua, Cuba, I ran-Libya-Syria,
-Iraq, Israel, Seroia; all with blossoming CMT-complexes). They are then supposed to
+Iraq, Israel, Syria; all with blossoming CMT-complexes). They are then supposed to
 contemplate the conditions for readmission. There has been change in five of them.46
 
 How about kicking upstairs? This is exactly what the Western countries are doing
@@ -15705,14 +15705,14 @@ If they do, then a new cause is sure to be found, propagated with the same missi
 zeal, legitimized by reference to myths and trauma, including the more recent traumas.
 Then, the formula of 'struggle', to become independent of what was before. Quick or
 slow, violent or nonviolent; the slow and nonviolent being the preference of the peace
-researcher exploring conditions for peace by peaceful means. 55 KiUing, exiling, imprisoning or otherwise marginalizing aU those who might carry the seeds of the old order
+researcher exploring conditions for peace by peaceful means. 55 Killing, exiling, imprisoning or otherwise marginalizing aU those who might carry the seeds of the old order
 deep down in their subconscious as was done by Nazi Germany (and a micro-fraction of
 that, but with the same structure, by zionist Israel) is enacting megalo-paranoia, not to
 engage in transformation. Only through deep transformation can the inner coherence of
 a new cosmology be achieved, leading to self-reliance, autonomy, meaning independence
 of any outside healer, sufficiently equipped with a self-healing process, as when democracy is firmly rooted. An example might be Germany, where democracy fifty years after
 Nazism seems firmly rooted if high political participation and the pluralism of the parties, with a real choice among more than two alternatives are valid criteria. But then the
-test will also be whether there stiU are expansionist and domineering tendencies in the
+test will also be whether there still are expansionist and domineering tendencies in the
 German nation, and here the way West Germans are treating their own nation in the former DDR, with fuU-scale economic, cultural, and political penetration, makes one
 wonder.
 
@@ -15761,7 +15761,7 @@ more imaginative when trying to legitimize bellicist intentions.
 
 5. In order to be closer to contemporary geopolitics.
 6. Nature, Person, Society, World (Space), Time, Transpersonal, and Episteme are more 'philosophical' categories, thee of them from Kant; chosenness, traumas, and myths are more
-psycho-political. Obviol sly, chosen ness is related to the transpersonal in the sense of relating the
+psycho-political. Obviously sly, chosen ness is related to the transpersonal in the sense of relating the
 chosen persons and societies directly to the transpersonal whereas traumas and myths root a culture
 
 and its carriers, the nation, in concrete points in space and time, the where and the when of that
@@ -15775,7 +15775,7 @@ this mean for a German Jew abducted by the SS? Time has come to suffer?
 
 9. Like Israel (Leo Baeck, 1 96 1 p. 67: 'All Israel is the messenger of the Lord, the "servant of
 God", who is to guard religion for all lands and from whom the light shall radiate to all nations', or
-simply Numbers 23:9 or Exodus 34:24), the USA (John Winthrop's, and Ronald Reagan's 'City
+simply Numbers 23:9 or Exodus 34:24), the USA (John Winthrop, and Ronald Reagan's 'City
 Upon a Hill'), Nazi Germany.
 
 1 0. In my own experience in the Middle East these are the three major Palestinian interpretations.
@@ -15787,7 +15787,7 @@ In addition, Palestinians prefer to be their own light.
 
 coming demise.
 
-1 3. As a consequenoo Satan has to be strong, like God possibly with many apparitions, but unified.
+1 3. As a consequences Satan has to be strong, like God possibly with many apparitions, but unified.
 
 The only countervailing force that can effectively balance monotheism is monosatanism.
 
@@ -16517,7 +16517,7 @@ boycott. 56, 1 3 3
 brahmin-kshatriya-vaishya-shudrapariah, 2 1 6
 Braudel, Fernand. 1 8
 Bretton Woods institutions, 4
-broadening-<ieepening, 1 1 5--1 17
+broadening-<deepening, 1 1 5--1 17
 Buddhism, 2. 8 1 . 82
 Buddhist-Confucian countries
 (China-Japan-Korea-Viet
@@ -16563,7 +16563,7 @@ Barbarians, 2 1 3. 219, 234,
 235-237
 
 bellicist-pacifist, 49, 58 n I
-bellum omnium mntra omnes, 32.
+bellum omnium mantra omnes, 32.
 
 in peace concepts, 227
 
@@ -16748,7 +16748,7 @@ Buddhic-Sinic-Nipponic,
 pathological, 253-264
 reserve. 2 1 5
 social, 8 1
-specitications, 241 -252
+specifications, 241 -252
 
 therapies, 253-264
 time. 8 1
@@ -16774,7 +16774,7 @@ in religion, 201-203
 culture,
 
 centrifugal-centripetal, 39
-Daaism, 16, 1 7
+Daoism, 16, 1 7
 deep, 8 0 n5, 1 1 9, 1 24, 2 1 0 n32,
 
 2 1 1 . 252
@@ -16804,7 +16804,7 @@ elementary actor connict,
 
 95-99
 
-tission-fusion, 1 1 0, 1 1 4-1 1 7
+fission-fusion, 1 1 0, 1 1 4-1 1 7
 frustrations, 95
 Gandhian version, 1 14-1 1 7
 horizontal, I I I
@@ -16864,7 +16864,7 @@ as misery-abolition, 1 28
 nature-centered, 1 29, 1 37 n l 2
 nature-human-social-world, 1 46
 needs-centered 1 28, 1 30
-renexive, reciprocal, 1 30
+reflexive, reciprocal, 1 30
 and structural impediments, 1 35
 theory, 1 29
 
@@ -16923,7 +16923,7 @@ comparative advantages. 1 80.
 
 Copenhagen Conference 1995,
 
-cost-benetit analysis, 1 83
+cost-benefit analysis, 1 83
 Daoist-Confucian-Buddhist
 
 East Asia, 1 78
@@ -17031,7 +17031,7 @@ empiricism-criticismconstructivism, I I , 1 84 n I
 
 empowerment, 94
 endorphins, 48 n29
-End:ustand, 89
+End:Ende, 89
 enhancement, of life, 7
 entropy, 272
 episteme, 1 23, 1 3 3
@@ -17059,7 +17059,7 @@ African-Caribbean-Pacific
 (ACP). 222 n l
 i n tripartite Europe, 234
 
-evenement-conjoncture-la longue
+événement-conjoncture-la longue
 
 duree, 1 9
 
@@ -17132,7 +17132,7 @@ Freudian, 37, 79, 1 20
 Frieden. der ewige. 227
 friend-enemy gradient. 218
 frustration,hypotheses, 77
-Fuhrer. Fuhrerprin:ip, 243
+Fuhrer. Fuhrerprinzip:ip, 243
 fundamentalism, 1 30
 fundamentum divisionis, 29, 1 03
 
@@ -17181,15 +17181,15 @@ hard work-savings-greed­
 inconsiderateness, 1 3 1 , 1 32,
 1 6 1
 
-harljans, 209 n34
-l1awaiians, 54
+Hawaiians, 209 n34
+l1Hawaiians, 54
 health, 1 . 26
 Hegel. Georg Friedrich, 19, 1 73
 
 n7
 
-l1eintz, peter, 263 n23
-l1elsinki Process, 8. 28
+l1Leintz, peter, 263 n23
+l1Helsinki Process, 8. 28
 Herrenvolk- Untertanen, 24 1 . 243
 
 Herr-Knecht, 94
@@ -17259,7 +17259,7 @@ in extremis = homo
 reaganensis, 248-25 1
 
 Korean War. 86
-knowledge-imaginationn l , 69 n9, 255
+knowledge-imagination l , 69 n9, 255
 
 manifest-latent dialectic, 70. 7 1 ,
 
@@ -17371,7 +17371,7 @@ internalization­
 
 n 3 1 , 229
 legal systems, 123
-Lenin, Vladimir lIyich, 1 1 7, 1 52
+Lenin, Vladimir Ilyich, 1 1 7, 1 52
 
 n 2 1
 
@@ -17394,7 +17394,7 @@ institutionalization, 209 n3
 
 international law, 2 1 , 33. 221
 
-Oaoist-Buddhist, 1 53 n37
+Daoist-Buddhist, 1 53 n37
 state, 1 3 1
 
 international nongovernmental
@@ -17478,7 +17478,7 @@ political discourse. 1 56
 
 male-female, 39, 40-48
 
-nature-self-society-world-timeculture. 3. 30-33, 78. 1 32.
+nature-self-society-world-time-culture. 3. 30-33, 78. 1 32.
 1 55, 1 62, 1 70, 2 1 2, 221 n l O,
 
 Nazi Germany, 42, 43
@@ -17530,7 +17530,7 @@ religion (Judaism-Christianity­
 Islam). 7. 54. 8 1 . 120. 202.
 2 1 1 . 228
 
-delicit, 56
+delict, 56
 definitions, 9
 and development. 223-230
 education, 266
@@ -17608,8 +17608,8 @@ patriarchy. 5. 33. 76. 77. 1 33. 1 67.
 
 1 70. 1 72. 268
 pattern recognition. 19
-pax ecciesia. 69 n 14
-pax-eirene-shalomlsala'am-shntiahimsa-ho p'inglp'ing
+pax ecclesia. 69 n 14
+pax-eirene-shalom/sala'am-shantihimsa-ho p'inglp'ing
 ho-heiwalwahei. 226-227
 pax omnium cum omnibus. 32
 peace,
@@ -17838,8 +17838,8 @@ terms o f exchange, 146
 territorial-non territorial, 30
 terrorism, 4 1 , 9 1 , 1 30, 242
 
-brigale rosse, 47 n9
-ROle Arme Fraklion (RAF), 47
+brigade rosse, 47 n9
+ROle Armee Fraktion (RAF), 47
 
 n9
 state, 4 1
@@ -17933,7 +17933,7 @@ peace-keeping forces, 3, 5
 Peoples' Assembly (UNPA), 4,
 
 Weber, Max, 68, 1 32, 265
-Wiberg, Hflkan, 1 1 2 n3
+Wiberg, Håkan, 1 1 2 n3
 well-ness, 8, n I
 women's organizations, 1 36
 World Bank, 4

@@ -414,7 +414,7 @@ rich, powerful, and influential, and everything that can be
 exchanged, and used as an object for compensating others.19
 These are exclusively the precious articles, talismans, emblems,
 mats, and sacred idols, sometimes even the traditions, cults,
-and magic rituals. Here we link up with that notion of propertyas-talisman, which we are sure is general throughout the
+and magic rituals. Here we link up with that notion of property as-talisman, which we are sure is general throughout the
 Malaysian and Polynesian world, and even throughout the Pacific
 as a whole.20
 
@@ -573,7 +573,7 @@ commonality.39 Also, one gives because one is compelled to do
 so, because the recipient possesses some kind of right of property
 over anything that belongs to the donor.40 This ownership is
 expressed and conceived of as a spiritual bond. Thus in Australia
-the son-in-law who owes all the spoils of the hunt to his parentsin-law may not eat anything in their presence for fear that their
+the son-in-law who owes all the spoils of the hunt to his parents-in-law-law may not eat anything in their presence for fear that their
 mere breath will poison what he consumes.41 We have seen earlier
 the rights of this kind that the taonga nephew on the female side
 possesses in Samoa, which are exactly comparable to those of the
@@ -1430,7 +1430,7 @@ tribes, even richer and more committed to trade than the
 Polynesians, is therefore very different from normal. These peoples
 possess an extra domestic economy and a very developed system
 of exchange that throbs with life more intensely and more
-precipitantly perhaps than the one that our peasants or the fishing
+precipitously perhaps than the one that our peasants or the fishing
 villages along our coasts were familiar with maybe not even a
 hundred years ago. They have an extensive economic life, going
 beyond the confines of the islands and their dialects, which
@@ -1459,7 +1459,7 @@ there was always something given in the shape of an honorarium
 for borrowing, and which was returned when the loan was
 repaid.'117 These men have no conception of either selling or
 borrowing, but nevertheless carry out juridical and economic
-operatons that fulfil the same functions.
+operations that fulfil the same functions.
 
 Likewise the notion of barter is no more natural for the
 
@@ -1570,7 +1570,7 @@ chiefs, at 'copper sales', at initiations, at Shamon ceremonies,
 and at funeral ceremonies—the latter being more developed in
 Haïda and Tlingit lands. All are performed during a series of
 potlatches that are prolonged indefinitely. There are potlatches
-everywere, in response to other potlatches. As in Melanesia it is a
+everywhere, in response to other potlatches. As in Melanesia it is a
 constant 'give and take'.
 
 The potlatch itself, so typical a phenomenon, and at the same
@@ -1861,7 +1861,7 @@ the chief who has refused to give another potlatch, another
 'festival of fat'.190 But in principle every gift is always accepted
 and even praised.191 One must voice one's appreciation of the
 food that has been prepared for one.192 But, by accepting it
-one knows that one is committing onself.193 A gift is received
+one knows that one is committing oneself.193 A gift is received
 'with a burden attached'.194 One does more than derive benefit
 from a thing or a festival: one has accepted a challenge, and
 has been able to do so because of being certain to be able to
@@ -1949,7 +1949,7 @@ things belonging to the family,212 the various talismans,
 emblazoned copper objects, blankets made of skins, or cloth
 bedecked with emblems. This latter type of object is passed on
 as solemnly as women hand over at marriage the 'privileges' to
-their sons-in-law,213 and names and ranks to children and sonsin-law. It is even incorrect to speak in their case of transfer. They
+their sons-in-law,213 and names and ranks to children and sons-in-law-law. It is even incorrect to speak in their case of transfer. They
 are loans rather than sales or true abandonment of possession.
 Among the Kwakiutl a certain number of objects, although they
 appear at the potlatch, cannot be disposed of. In reality these
@@ -2154,7 +2154,7 @@ PERSONAL LAW AND REAL LAW (VERY
 ANCIENT ROMAN LAW)
 
 A comparison between these archaic laws and Roman law that
-predates the era, somewhat earier than before it really becomes
+predates the era, somewhat earlier than before it really becomes
 historical,3 and Germanic law at the time when it does likewise,4
 throws light on both types of law. In particular, it allows us to pose
 
@@ -2442,7 +2442,7 @@ difference that exists between rites, laws, and interests. It
 was they who, after a veritable, great, and admirable
 revolution, went beyond all the outmoded morality, and this
 economy of the gift. It was too dependent on chance, was
-ove rexpensive and too sumptuous, burdened with
+ove expensive and too sumptuous, burdened with
 consideration for people, incompatible with the development
 of the market, commerce, and production, and, all in all, at
 that time was anti-economic.
@@ -2643,7 +2643,7 @@ thus identifying himself, 'in one single soul, with them'.82
 When he enters the stable, calling the cows by sacred names,83
 he adds 'the cow is my mother, the bull is my father', etc. He
 will repeat the above formula during the act of giving. There
-comes the solemn moment of transferral. After singing the
+comes the solemn moment of transfer. After singing the
 praises of cows the recipient says:
 
 Those which you are, those I am, become this day of your essence.
@@ -3333,7 +3333,7 @@ Even pure destruction of wealth does not signify that
 complete detachment that one might believe to be found in it.
 Even these acts of greatness are not without egoism. The purely
 sumptuary form of consumption (which is almost always
-exaggerated and often purely destr uctive), in which
+exaggerated and often purely destructive uctive), in which
 considerable amounts of goods that have taken a long time to
 amass are suddenly given away or even destroyed, particularly
 in the case of the potlatch,35 give such institutions the

@@ -2117,7 +2117,7 @@ The success of a particular model is tied to its ability to capture the
 behavior of the real world. Suppose we begin with real-world state S.
 The model transforms this state into s= E(S) and then predicts that
 we will find ourselves in state f (s) in the next time period. In the real
-world, state Sbecomes state F (S) in the next time period. Thus, the
+world, state Becomes state F (S) in the next time period. Thus, the
 model "coincides" with the real world if f (E(S)) = E(F (S)), that is,
 if we end up at the same model state regardless of whether we (1) first
 transform the initial real-world state into its equivalence class and then
@@ -2178,7 +2178,7 @@ of scientific creative destruction.
 
 3.3 Modeling Complex Systems
 
-The proceding principles of modeling are key to developing a scientific
+The preceding principles of modeling are key to developing a scientific
 understanding of a system, whether it is simple or complex. One view
 of modeling complex systems, which (at least implicitly) is held by many
 
@@ -2946,7 +2946,7 @@ Thus, whether the proposition that countries on a map can always be
 distinguished through the use of only four colors (the so-called Four-
 Color Map problem) is proved by the exhaustive enumeration of all
 possibilities through the use of a computer program (which has been
-done) or through an elegant (or even nonelegant) axiomatic proof (which
+done) or through an elegant (or even non-elegant) axiomatic proof (which
 has not been done) matters little if all you care about is the basic
 proposition.
 
@@ -3068,7 +3068,7 @@ there is still a high premium on good theory—just not on the tools used to
 develop the theory. Theory must result in insight and withstand testing.
 Thus, if a theorist decides that some new force governing the interaction
 between two bodies is likely to be "a lot like gravity," she may model it
-by claiming that it is approximately like 1/dr , whered is distance and r
+by claiming that it is approximately like 1/dr , where d is distance and r
 is an unknown parameter. As long as the resulting equation holds up to
 experimentation, this is a perfectly acceptable theory notwithstanding its
 lack of a direct, first-principle justification.
@@ -3214,7 +3214,7 @@ While clearly all the information is there, we may not be able to imagine
 what the completed window looks like just from reading about each piece
 and its location. We may need to "assemble" the window in some form
 before any kind of image can emerge. We might get a good idea of the
-window by using a crude line drawing, or perhaps a more elaborate fullcolor diagram will be required. The level of necessary detail will be linked
+window by using a crude line drawing, or perhaps a more elaborate full-color diagram will be required. The level of necessary detail will be linked
 to some inherent characteristics of the actual image. In some cases, the
 easiest way to "know" the window is to assemble the entire thing piece
 by piece.
@@ -3376,7 +3376,7 @@ The instructions to "make a coffee mug" are likely to lead to a set of
 very similar objects, whereas the request to "make an object suitable for
 drinking a liquid" could result in a host of possibilities. Useful models
 arise when we impose just enough instructions to get objects of interest,
-but not so many as to preimpose a solution.
+but not so many as to pre-impose a solution.
 
 5.3.2 Computations Lack Discipline
 
@@ -3406,7 +3406,7 @@ techniques is such that, even with self-imposed constraints (dictated
 by quality modeling considerations), new classes of models better able
 to explain key phenomena will emerge. The flexibility and creativity
 embodied in computer models often seduce practitioners to continually
-add features to their work—a practice that must be moderated if goodquality models are to be maintained.
+add features to their work—a practice that must be moderated if good-quality models are to be maintained.
 
 The inherent flexibility of computational models can also make them
 hard to understand and verify. Mathematical models surmount this
@@ -3602,7 +3602,7 @@ sales.
 
 This all seems wonderful and powerful. However, if we looked at
 actual data to test our model, we would see that things are a bit murkier.
-The best that we might hope for would be a small cloud in pricequantity space centered on our point estimate. If so, we could consider
+The best that we might hope for would be a small cloud in price-quantity space centered on our point estimate. If so, we could consider
 the difference between what actually happened and what we predicted as
 noise—as random shocks that we did not include in our model. If, on the
 other hand, the cloud of data lies far from our point prediction, then we
@@ -3774,7 +3774,7 @@ Why Agent-Based Objects?
 
 Water which is too pure has no fish.
 
-—Ts'ai Ken T'an
+—Ts'ai Ken T'an Ken T'an
 
 Scientific laws have conventionally been constructed in terms
 of a particular set of mathematical functions and constructs,
@@ -4671,7 +4671,7 @@ clever strategic thinking.
 More generally, in a reasonable class of games we can construct a
 best-response correspondence, BR(X), that maps the actions of the other
 agents, X, to a best action. Such a correspondence provides a fixed
-rule—if my opponents do X, then I should do BR(X). Thus, fixedrule-following agents may arise from hyperrational strategic thinking.4
+rule—if my opponents do X, then I should do BR(X). Thus, fixed-rule-following agents may arise from hyperrational strategic thinking.4
 Indeed, if we allow agents to have arbitrary beliefs over what others
 might be doing, then it becomes possible for almost any behavior,
 including fixed rules, to be recast as optimal given some set of beliefs.5
@@ -6436,7 +6436,7 @@ Situation
 7 (111)
 λ
 Wolfram
-Li-Packarda
+Li-Packard
 
 Rule
 
@@ -7259,7 +7259,7 @@ method would be to impose some kind of institutional structure from the
 top down that restricts access to the beach. This could be in the form
 of a market (you need to buy a ticket to get on the beach) or some
 other allocative arrangement like, say, allowing admission based on
-some immutable characteristic like the parity of the beach goer's license
+some immutable characteristic like the parity of the beach goer license
 plate.
 
 Alternatively, we could consider decentralized solutions that emerge
@@ -7291,7 +7291,7 @@ base their actions on various predictive models of the world, and then
 the aggregation of these predictions drives the system. These predictive
 models require individuals to make decisions based on recognizable
 patterns that form in the world. Presumably, individuals will tend to
-latch on to those models that preform better, that is, that result in
+latch on to those models that perform better, that is, that result in
 behavior that leads to superior outcomes. Of course, there is an infinity
 of patterns one could look for in the world, and each of these can
 be associated with various decisions. For example, if the beach was
@@ -8026,7 +8026,7 @@ packs that have members doing the identical actions,
 have the agents coordinating on action 1. This probability also represents
 the chance that any pack that begins with its agents doing opposite
 actions will find the first coordinated pack to its right coordinating on
-action 1. Therefore, in equilibrium the proportion of packs coordinat-
+action 1. Therefore, in equilibrium the proportion of packs coordinate-
 1−2 p+2 p2 . This proportion equals
 ing on action 1 will be given by
 the conformity because all of the remaining packs are locked into
@@ -8263,7 +8263,7 @@ share seven, two share six, and two share five neighbors, implying an
 overlap of 6.5. In the Grid network, four connections share six neighbors
 and four share four neighbors producing an overlap of 5.0.
 
-As overlap increases there is more pressure to segregate, since liketypes beget like-types given the greater connectivity among the set of
+As overlap increases there is more pressure to segregate, since like-types beget like-types given the greater connectivity among the set of
 agents. This also implies that we will see more tipping, as once a
 relocation forces one person to move, it is likely to cause the remaining
 neighbors to relocate.
@@ -8528,7 +8528,7 @@ Configuration
 3 3 2 4 2 3 3
 3 3 3 2 3 3 3
 
-resulting waves move outward until they bounce off of the pool's edges.
+resulting waves move outward until they bounce off of the pool edges.
 Once stability is achieved in the system, we see that the sites resemble
 the initial configuration with the loss of only a single grain of sand in the
 middle position.12
@@ -8547,7 +8547,7 @@ Consider a one-dimensional sand pile with N sites, where each site can
 contain at most one grain of sand (therefore, T = 2). If a site acquires
 two grains of sand, it topples and sends one grain into each of its nearest
 neighbors (thus, k = 1). This minimalist sand pile not only displays many
-of the key behavioral features common in the more complicated selforganized critical systems, but it is also mathematically tractable.
+of the key behavioral features common in the more complicated self-organized critical systems, but it is also mathematically tractable.
 
 To begin the analysis, note that the system will not experience any
 toppling as long as its sites have either zero or one grain of sand each.
@@ -9407,7 +9407,7 @@ convenient way to summarize this scenario is by arraying the payoffs in a
 matrix with the choice of row and column being assigned to the actions
 of the "row" and "column" agent. Table 10.1 shows a sample payoff
 matrix where, for example, if the row agent chooses action Ar and the
-column agent picks Bc, then the agents will find themselves in the upperright corner of the matrix. In this corner, the row agent receives a payoff
+column agent picks Bc, then the agents will find themselves in the upper right corner of the matrix. In this corner, the row agent receives a payoff
 of 4 and the column agent receives a payoff of 1.
 
 The payoffs shown in Table 10.1 define the well-known Prisoner's
@@ -9544,7 +9544,7 @@ however, they achieve mutual cooperation and do quite well.
 10.3.2 Results
 
 Our analysis using evolving agents suggests that the majority of the
-games in the taxonomy have very predictable outcomes. Of the seventyeight games, in 59 percent agents concentrated more than 99 percent of
+games in the taxonomy have very predictable outcomes. Of the seventy-eight games, in 59 percent agents concentrated more than 99 percent of
 their moves on a single outcome by the end of the evolution. A review
 of these games suggests that not only are they "boring" to our agents,
 but as it turns out they have not been all that interesting to social
@@ -10025,7 +10025,7 @@ those agents that say nothing. By detecting "self" in such a way, the agent
 can improve its performance even in nasty worlds.
 
 While we see the emergence of communication in this model, note that
-the agents are preequipped with the ability to send, receive, and process
+the agents are pre-equipped with the ability to send, receive, and process
 tokens. Thus we might want to investigate the question of how even
 this more primitive ability to communicate could arise. One hypothesis
 is that actions, such as the raising of an open hand to signal that "I hold
@@ -11002,7 +11002,7 @@ Spassky, the tic-tac-toe match of the century").
 
 The strategic space between tic-tac-toe and chess is an interesting one.
 On one hand, both games are isomorphic and, in a very real sense, trivial
-to play. On the other hand, while this statement has some meaning for tictac-toe (at least for adults), it seems rather empty for chess. Although we
+to play. On the other hand, while this statement has some meaning for tic-tac-toe (at least for adults), it seems rather empty for chess. Although we
 could assume the existence of a chess god, through which chess becomes
 a trivial game using backward induction, such an approach yields little
 insight into how chess is really played by humans. While toward the
@@ -11061,7 +11061,7 @@ the futility of our tools, actual firms do continue to operate in such
 contexts, so there must be some mechanisms, albeit imperfect ones, that
 come into play and allow firms to survive. Similarly, the world of politics
 is not fully captured by either two-person or large population games.
-While we do see two candidates squaring off in an electorial battle, this
+While we do see two candidates squaring off in an electoral battle, this
 is typically the exception rather than the rule. A United States senator
 interacts with ninety-nine other senators. To be effective, senators must
 navigate a vast strategic landscape that involves voting, amendments,
@@ -11308,7 +11308,7 @@ and the clocks stopped long ago.
 Do not seek to follow in the footsteps of the wise. Seek what
 they sought.
 
-—Matsoo Basho
+—Matsuo Basho
 
 Here we have explored models that from simple beginnings result
 in systems imbued with scientific beauty and mystery. The precise and
@@ -11350,7 +11350,7 @@ approximate what has come before, but instead are thrust into new
 realms of experience.
 
 The interest in between has long been known. For example, in economics we have lovely, compact models of firms behaving as monopolies,
-duoplies, and perfect competitors, but once we are in the realm of a few
+duopoly, and perfect competitors, but once we are in the realm of a few
 firms, modeling and prediction become difficult; in physics we can solve
 mathematically the two- and ∞-body problem, but no clean solutions
 exist for the intermediate cases. It is as if much of modern science counts
@@ -11464,7 +11464,7 @@ journey seems sound, and great advances lack detailed maps.
 
 Time: 12:47pm
 
-appendixa.tex
+appendix.tex
 
 A P P E N D I X A
 
@@ -11694,7 +11694,7 @@ Unusual Properties?
 
 What does it take for a complex system to undertake productive behavior? Previously we discussed the concept of the edge of chaos, whereby
 systems poised at the "Goldilocks point" can perform computation
-because the system is neither too static nor too chaotic. While metaphoriis there a more exact statement of such a proposition?
+because the system is neither too static nor too chaotic. While metaphorically there a more exact statement of such a proposition?
 cally rich,
 
 236 Appendix A
@@ -11985,7 +11985,7 @@ to result in good predictions about the world.
 242 Appendix A
 
 Knowing more about adaptation would also help us refine our predictions in other contexts. For example, even though first-price, open-outcry
-auctions lead to the identical theoretical outcome as second-price, sealedbid auctions, social systems may employ the former more than the latter
+auctions lead to the identical theoretical outcome as second-price, sealed-bid auctions, social systems may employ the former more than the latter
 because agents may have a far easier time adapting good strategies in
 such an environment ("bid a little higher if you can still make money"
 versus "if you reveal your true value and you have the second highest bid,
@@ -12105,7 +12105,7 @@ Time:
 
 02:34pm
 
-appendixb.tex
+appendix.tex
 
 A P P E N D I X B
 
@@ -12582,7 +12582,7 @@ University Press.
 Arthur, W. Brian. 1994. "Inductive Reasoning and Bounded Rationality." American Economic Review Papers and Proceedings 84:406–11.
 
 Arthur, W. Brian, John H. Holland, Blake LeBaron, Richard G. Palmer, and
-Paul J. Tayler. 1997. "Asset Pricing under Endogenous Expectations in an
+Paul J. Taylor. 1997. "Asset Pricing under Endogenous Expectations in an
 Artificial Stock Market." In The Economy as an Evolving Complex System II,
 edited by W. Brian Arthur, Steven Durlauf, and David Lane, 15–44 Redwood
 City, Calif.: Addison-Wesley.
@@ -12643,7 +12643,7 @@ Epstein, Joshua M., and Robert Axtell. 1996. Growing Artificial Societies.
 Cambridge, Mass.: MIT Press.
 
 Fischer, Shira H. 2004. "Bee Cool." Science Now 624:3.
-Frette, Vidar, Kim Christensen, Anders Malthe-Sorenssen, Jens Feder, Rorstein
+Frette, Vidar, Kim Christensen, Anders Malthe-Sorensen, Jens Feder, Rorstein
 Jossang, and Paul Meakin. 1996. "Avalanche Dynamics in a Pile of Rice."
 Nature 379:49–52.
 

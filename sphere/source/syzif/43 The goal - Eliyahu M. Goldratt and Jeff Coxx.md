@@ -59,7 +59,7 @@ Other North River Press Books by
 
  This book is an attempt to show that we can postulate a very small number of assumptions and utilize them to explain a very large spectrum of industrial phenomena. You the reader can judge whether or not the logic of the book's derivation from its assumptions to the phenomena we see daily in our plants is so flawless that you call it common sense. Incidentally, common sense is not so common and is the highest praise we give to a chain of logical conclusions. If you do, you basically have taken science from the ivory tower of academia and put it where it belongs, within the reach of every one of us and made it applicable to what we see around us.
 
- What I have attempted to show with this book is that no exceptional brain power is needed to construct a new science or to expand on an existing one. What is needed is just the courage to face inconsistencies and to avoid running away from them just because "that's the way it was always done''. I dared to interweave into the book a family life struggle, which I assume is quite familiar to any manager who is to some extent obsessed with his work. This was not done just to make the book more popular, but to highlight the fact that we tend to disqualify many phenomena of nature as irrelevent as far as science is concerned.
+ What I have attempted to show with this book is that no exceptional brain power is needed to construct a new science or to expand on an existing one. What is needed is just the courage to face inconsistencies and to avoid running away from them just because "that's the way it was always done''. I dared to interweave into the book a family life struggle, which I assume is quite familiar to any manager who is to some extent obsessed with his work. This was not done just to make the book more popular, but to highlight the fact that we tend to disqualify many phenomena of nature as irrelevant as far as science is concerned.
 
  I have also attempted to show in the book the meaning of education. I sincerely believe that the only way we can learn is through our deductive process. Presenting us with final conclusions is not a way that we learn. At best it is a way that we are trained. That's why I tried to deliver the message contained in the book in the Socratic way. Jonah, in spite of his knowledge of the solutions, provoked Alex to derive them by supplying the question marks instead of the exclamation marks. I believe that because of this method, you the reader will deduce the answers well before Alex Rogo succeeds in doing so. If you find the book entertaining maybe you will agree with me that this is the way to educate, this is the way we should attempt to write our textbooks. Our textbooks should not present us with a series of end results but rather a plot that enables the reader to go through the deduction process himself. If I succeed by this book to change somewhat your perception of science and education, this is my true reward.
 
@@ -89,7 +89,7 @@ Other North River Press Books by
 
  I come through the gate this morning at 7:30 and I can see it from across the lot: the crimson Mercedes. It's parked beside the plant, next to the offices. And it's in my space. Who else would do that except Bill Peach? Never mind that the whole lot is practically empty at that hour. Never mind that there are spaces marked "Visitor.'' No, Bill's got to park in the space with my title on it. Bill likes to make subtle statements. So, okay, he's the division vice-president, and I'm just a mere plant manager. I guess he can park his damn Mercedes wherever he wants.
 
- I put my Mazdanext to it (in the space marked "Controller''). A glance at the license as I walk around it assures me it has to be Bill's car because the plate says "NUMBER 1.'' And, as we all know, that's absolutely correct in terms of who Bill always looks out for. He wants his shot at CEO. But so do I. Too bad that I may never get the chance now.
+ I put my Mazda to it (in the space marked "Controller''). A glance at the license as I walk around it assures me it has to be Bill's car because the plate says "NUMBER 1.'' And, as we all know, that's absolutely correct in terms of who Bill always looks out for. He wants his shot at CEO. But so do I. Too bad that I may never get the chance now.
 
  Anyway, I'm walking up to the office doors. Already the adrenalin is pumping. I'm wondering what the hell Bill is doing here. I've lost any hope of getting any work done this morning. I usually go in early to catch up on all the stuff I'm too busy to do during the day, because I can really get a lot done before the phone rings and the meetings start, before the fires break out. But not today.
 
@@ -373,7 +373,7 @@ Other North River Press Books by
 
  She's starting to cry.
 
- "Fine! Go ahead and leave! I'll just be here by myself,'' she crys. "Like every night.''
+ "Fine! Go ahead and leave! I'll just be here by myself,'' she cries. "Like every night.''
 
  "Aw, Julie.''
 
@@ -449,7 +449,7 @@ Other North River Press Books by
 
  For the first time all day, Donovan smiles. Way off in the distance, the truck shifts gears.
 
- We take Donovan's car because it's closer. The first two places we try are closed. So then I tell Donovan just to follow my directions. We cross the river at 16th Street and drive down Bessemer into South Flat until we get to the mill. Then I tell Donovan to hang a right and we snake our way through the side streets. The houses back in there are built wall to wall, no yards, no grass, no trees. The streets are narrow and everyone parks in the streets, so it makes for some tedious maneuvering. But finally we pull up in front of Sednikk's Bar and Grill.
+ We take Donovan's car because it's closer. The first two places we try are closed. So then I tell Donovan just to follow my directions. We cross the river at 16th Street and drive down Bessemer into South Flat until we get to the mill. Then I tell Donovan to hang a right and we snake our way through the side streets. The houses back in there are built wall to wall, no yards, no grass, no trees. The streets are narrow and everyone parks in the streets, so it makes for some tedious maneuvering. But finally we pull up in front of Sednick's Bar and Grill.
 
  Donovan takes a look at the place and says, "You sure this is where we want to be?''
 
@@ -473,7 +473,7 @@ Other North River Press Books by
 
  Maxine says, "These two are on Joe.''
 
- She points to Joe Sednikk who stands behind the bar. Donovan and I wave out thanks to him.
+ She points to Joe Sednick who stands behind the bar. Donovan and I wave out thanks to him.
 
  Donovan raises his glass, and says, "Here's to getting 41427 out the door.''
 
@@ -497,7 +497,7 @@ Other North River Press Books by
 
  "I just saw what had to be done, put everybody to work on it, and the hell with the rules,'' he says.
 
- "Bob, do you know what our efficiencies would look like if we ran the plant like that every day?'' I ask. "We can't just dedicate the entire plant to one order at a time. The economies of scale would disappear. Our costs would go—well, they'd be even worse than they are now. We can't run the plant just by the seatof-the-pants.''
+ "Bob, do you know what our efficiencies would look like if we ran the plant like that every day?'' I ask. "We can't just dedicate the entire plant to one order at a time. The economies of scale would disappear. Our costs would go—well, they'd be even worse than they are now. We can't run the plant just by the seat-of-the-pants.''
 
  Donovan becomes quiet. Finally he says, "Maybe I learned too many of the wrong things back when I was an expeditor.''
 
@@ -619,7 +619,7 @@ Other North River Press Books by
 
  "Listen, Al, if anybody asks you, you didn't hear any of this from me,'' says Nat.
 
- And he's gone. I find myself standing alone in the corridor on the fifteenth floor. I don't even remember having gotten on the elevator, but here I am. I vaguely recall Nat talking to me on the way up, saying something about everybody putting out their resum´es.
+ And he's gone. I find myself standing alone in the corridor on the fifteenth floor. I don't even remember having gotten on the elevator, but here I am. I vaguely recall Nat talking to me on the way up, saying something about everybody putting out their resumes´es.
 
  I look around, feel stupid, wonder where I'm supposed to be now, and then I remember the meeting. I head down the hall where I see some others going into a conference room.
 
@@ -989,9 +989,9 @@ Other North River Press Books by
 
  I pull out a six of Bud.
 
- Twenty-threedollars and sixty-two cents and I'm out of there.
+ Twenty-three dollars and sixty-two cents and I'm out of there.
 
- Just before the plant, on the opposite side of the highway, there is a gravel road leading up a low hillside. It's an access road to a substation about half a mile away. So on impulse, I turn the wheel sharply. TheMazdagoes bouncing off the highway onto the gravel and only a fast hand saves my pizza from the floor. We raise some dust getting to the top.
+ Just before the plant, on the opposite side of the highway, there is a gravel road leading up a low hillside. It's an access road to a substation about half a mile away. So on impulse, I turn the wheel sharply. Mazda goes bouncing off the highway onto the gravel and only a fast hand saves my pizza from the floor. We raise some dust getting to the top.
 
  I park the car, unbutton my shirt, take off my tie and coat to save them from the inevitable, and open up my goodies.
 
@@ -1015,7 +1015,7 @@ Other North River Press Books by
 
  I have to laugh. I almost choke.
 
- Yeah, right. Some of the brilliant idiots in Purchasing sure do act as if that's the goal. They're out there renting warehouses to store all the crap they're buying so cost-effectively. What is it we have now? A thirty-two-month supply of copper wire? A sevenmonth inventory of stainless steel sheet? All kinds of stuff. They've got millions and millions tied up in what they've bought —and at terrific prices.
+ Yeah, right. Some of the brilliant idiots in Purchasing sure do act as if that's the goal. They're out there renting warehouses to store all the crap they're buying so cost-effectively. What is it we have now? A thirty-two-month supply of copper wire? A seven-month inventory of stainless steel sheet? All kinds of stuff. They've got millions and millions tied up in what they've bought —and at terrific prices.
 
  No, put it that way, and economical purchasing is definitely not the goal of this plant.
 
@@ -1151,7 +1151,7 @@ Other North River Press Books by
 
  As I mentioned earlier, Lou is the plant controller. He's a
 
- paunchy, older man who is about two years away from retirement. In the best accountants' tradition, he wears horn-rimmed bifocal glasses. Even though he dresses in expensive suits, somehow he always seems to look a little frumpled. He came here from corporate about twenty years ago. His hair is snow white. I think his reason for living is to go to the CPA conventions and bust loose. Most of the time, he's very mild-mannered—until you try to put something over on him. Then he turns into Godzilla.
+ paunchy, older man who is about two years away from retirement. In the best accountants' tradition, he wears horn-rimmed bifocal glasses. Even though he dresses in expensive suits, somehow he always seems to look a little rumpled. He came here from corporate about twenty years ago. His hair is snow white. I think his reason for living is to go to the CPA conventions and bust loose. Most of the time, he's very mild-mannered—until you try to put something over on him. Then he turns into Godzilla.
 
  "Hi,'' he says from the door.
 
@@ -1875,7 +1875,7 @@ Other North River Press Books by
 
  Okay, but efficiencies have gone up because of the robots. So maybe that's been our salvation. When efficiencies go up, the cost-per-part has to come down.
 
- But did the cost really come down? How could the cost-perpart go down if operational expense went up?
+ But did the cost really come down? How could the cost-per part go down if operational expense went up?
 
  By the time I make it to the plant, it's one o'clock, and I still haven't thought of a satisfactory answer. I'm still thinking about it as I walk through the office doors. The first thing I do is stop by Lou's office.
 
@@ -1933,7 +1933,7 @@ Other North River Press Books by
 
  "Okay, let's get Stacey in on this.''
 
- Stacey Potazenik manages inventory control for the plant. Lou makes a call and pulls her out of another meeting.
+ Stacey Potaznik manages inventory control for the plant. Lou makes a call and pulls her out of another meeting.
 
  Stacey is a woman in her early 40's. She's tall, thin, and brisk in her manner. Her hair is black with strands of gray and she wears big, round glasses. She is always dressed in jackets and skirts; never have I seen her in a blouse with any kind of lace, ribbon or frill. I know almost nothing about her personal life. She wears a ring, but she's never mentioned a husband. She rarely mentions anything about her life outside the plant. I do know she works hard.
 
@@ -2865,7 +2865,7 @@ Other North River Press Books by
 
  Yet... why can't we all just walk at the same pace as Ron and stay together?
 
- I'm watching the line when something up ahead catches my eye. I see Davey slow down for a few seconds. He's adjusting his packstraps. In front of him, Ron continues onward, oblivious. A gap of ten... fifteen... twenty feet opens up. Which means the entire line has grown by 20 feet.
+ I'm watching the line when something up ahead catches my eye. I see Davey slow down for a few seconds. He's adjusting his pack straps. In front of him, Ron continues onward, oblivious. A gap of ten... fifteen... twenty feet opens up. Which means the entire line has grown by 20 feet.
 
  That's when I begin to understand what's happening.
 
@@ -3677,7 +3677,7 @@ Other North River Press Books by
 
  "Yeah, she's out of town for a few days,'' I tell her. "Fran, you've got a couple of kids. How do you manage to hold a job and take care of them?''
 
- She laughs. "Well, 'tain't easy. On the other hand, I don't work the long hours you do. If I were you, I'd get some help until she gets back.''
+ She laughs. "Well, ''tain't easy. On the other hand, I don't work the long hours you do. If I were you, I'd get some help until she gets back.''
 
  When she leaves, I pick up the phone again.
 
@@ -4261,7 +4261,7 @@ Other North River Press Books by
 
  "No,'' he says. "Absolutely not. The bottlenecks stay bottlenecks. What we must do is find enough capacity for the bottlenecks to become more equal to demand.''
 
- "Where're we going to find it?'' asks Bob. "You mean it's just layin' around out there?''
+ "Where're we going to find it?'' asks Bob. "You mean it's just laying' around out there?''
 
  "In effect, yes,'' says Jonah. "If you are like most manufacturers, you will have capacity that is hidden from you because some of your thinking is incorrect. And I suggest that first of all we go into your plant and see for ourselves exactly how you are managing your two bottlenecks.''
 
@@ -4635,7 +4635,7 @@ Other North River Press Books by
 
  Then Lou smiles.
 
- "Nevertheless,'' he says, "I have to admit it was quite an eyeopener to look at the situation from that perspective.''
+ "Nevertheless,'' he says, "I have to admit it was quite an eye-opener to look at the situation from that perspective.''
 
  "I agree,'' I say. "What about the rest of you?''
 
@@ -5103,7 +5103,7 @@ Other North River Press Books by
 
  "Listen...I know we've taken a step in the right direction,'' I explain. "But we have to accelerate the progress. It's good that we got twelve shipments out last week. But we're still having some customer orders become past due. It's not as many, I'll grant you, but we still have to do better. We really shouldn't have any late orders.''
 
- Everyone walks away from thecomputerand joins me around the table. Bob Donovan starts telling me how they're planning some refinements on what we've already done.
+ Everyone walks away from the computer and joins me around the table. Bob Donovan starts telling me how they're planning some refinements on what we've already done.
 
  I say, "Bob, those are fine, but they're minor. How are we coming on the other suggestions Jonah made?''
 
@@ -5207,7 +5207,7 @@ Other North River Press Books by
 
  "It did before we left,'' says Bob. "Let's find out.''
 
- The maintenance man connects the power cable to an outlet on a nearby steel column. Bob reaches for the power switch and hits the ON button. For a second, nothing happens. Then we hear the slow, gathering whirr from somewhere in the guts of the old machine. Poofs of dust blow out of the antique fan housing. Bob turns to me with a dumb grin on his big face.
+ The maintenance man connects the power cable to an outlet on a nearby steel column. Bob reaches for the power switch and hits the ON button. For a second, nothing happens. Then we hear the slow, gathering whirr from somewhere in the guts of the old machine. Puffs of dust blow out of the antique fan housing. Bob turns to me with a dumb grin on his big face.
 
  "Guess we're in business,'' he says.
 
@@ -5281,7 +5281,7 @@ Other North River Press Books by
 
  "Two-and-a-half hours after they could have come out, they hadn't been unloaded?'' I ask.
 
- "That's right,'' says Ralph. "So I found Sammy, the secondshift foreman down there, and asked him what was going on. He told me he was short-handed that night, and they'd get to it later. He said it didn't hurt the parts to stay in the furnace. While I was there, he shut off the burners, but I found out later that the parts didn't come out until about eight o'clock. I didn't mean to start trouble, but I'd thought if we recorded the actual times per heat, we'd at least have some realistic figures to use for estimating. You see, I asked some of the hourly people down there and they told me those kinds of delays happen a lot in heat-treat.''
+ "That's right,'' says Ralph. "So I found Sammy, the second shift foreman down there, and asked him what was going on. He told me he was short-handed that night, and they'd get to it later. He said it didn't hurt the parts to stay in the furnace. While I was there, he shut off the burners, but I found out later that the parts didn't come out until about eight o'clock. I didn't mean to start trouble, but I'd thought if we recorded the actual times per heat, we'd at least have some realistic figures to use for estimating. You see, I asked some of the hourly people down there and they told me those kinds of delays happen a lot in heat-treat.''
 
  "No kidding,'' I say. "Ralph...I want you to take all the measurements down there that you need. Don't worry about Ted. And do the same thing on the NCX-10.''
 
@@ -5449,7 +5449,7 @@ Other North River Press Books by
 
  More bottles are opened—there is a case of this stuff—and when all the cups are filled, Bob lifts his own.
 
- "Here's to a new plant record in shipments of product,'' he says. "Lou went through the records for us and discovered that until now the best this place has ever done in a month was thirtyone orders shipped at value of about two million dollars. This month we topped that. We shipped fifty-seven customer orders with a value of . . . well, in round numbers, we'll call it a cool three million.''
+ "Here's to a new plant record in shipments of product,'' he says. "Lou went through the records for us and discovered that until now the best this place has ever done in a month was thirty-one orders shipped at value of about two million dollars. This month we topped that. We shipped fifty-seven customer orders with a value of . . . well, in round numbers, we'll call it a cool three million.''
 
  "Not only did we ship more product,'' says Stacey, "but, having just calculated our inventory levels, I am pleased to report that between last month and now, we've had a twelve percent net decline in work-in-process inventory.''
 
@@ -5533,7 +5533,7 @@ Other North River Press Books by
 
  Then as we're shaking hands, I for some reason step backwards, trip over the doorstep and lose all my balance.
 
- "Woops!''
+ "Whoops!''
 
  The next thing I know Stacey and I are sprawled on the floor together. Fortunately—or maybe not as it turns out—Stacey thinks this is colossally funny. She's laughing so hard, tears start to roll down her cheeks. And so I start laughing too. Both of us are rolling on the floor with laughter—when the lights come on.
 
@@ -6081,7 +6081,7 @@ Other North River Press Books by
 
  "All right, look,'' I say finally. "If we don't go ahead with a system to withhold inventory and release it according to the bottlenecks, we'll be missing a major opportunity to improve performance and save the plant. And I'm not about to stand by and let that happen just to maintain a standard that obviously has more impact on middle management politics than it does on the bottom line. I say we go ahead with this. And if efficiencies drop, let them.''
 
- After those brave words, so reminiscent of Admiral Farragut and his Damn-the-Torpedoes speech, the others are a little mistyeyed.
+ After those brave words, so reminiscent of Admiral Farragut and his Damn-the-Torpedoes speech, the others are a little misty-eyed.
 
  "And, ah, Bob,'' I tell Donovan, "if there is a lot of idle time out there, don't hassle anybody—just make damn sure it doesn't show up in the efficiency reports next month, okay?''
 
@@ -6089,7 +6089,7 @@ Other North River Press Books by
 
  "...Let me say in conclusion that had it not been for the increase in revenue generated last month by the Bearington plant and its products, the UniWare Division's losses would have continued for the seventh consecutive month. All of the other manufacturing operations in the division reported only marginal gains in performance or sustained losses. Despite the improvement at Bearington and the fact that as a result the division recorded its first operating profit of this year, we have a long way to go before we are back on solid financial footing.''
 
- Having said that, Ethan Frost gets the nod from Bill Peach and sits down. I'm sitting halfway down a long table where all the plant managers are gathered. On Peach's right is Hilton Smyth, who happens to be glowering at me in the aftermath of Frost's tribute to my plant. I relax in my chair and for a moment allow myself to contemplate the view through the broad plateglass window, a sunny city on an early summer day.
+ Having said that, Ethan Frost gets the nod from Bill Peach and sits down. I'm sitting halfway down a long table where all the plant managers are gathered. On Peach's right is Hilton Smyth, who happens to be glowering at me in the aftermath of Frost's tribute to my plant. I relax in my chair and for a moment allow myself to contemplate the view through the broad plate glass window, a sunny city on an early summer day.
 
  May has ended. Aside from the problem with the shortages of non-bottleneck parts, which have now gone away, it's been an excellent month. We're now timing the release of all materials according to a new system Ralph Nakamura developed, which is keyed to the speed of the bottlenecks. He's got a data terminal now at both of the bottlenecks, so as inventory is processed, the latest information can be fed directly into the plant data base. With the new system we're beginning to see excellent results.
 
@@ -6281,7 +6281,7 @@ Other North River Press Books by
 
  On the way back to the Barnett house, we're as silent as two icebergs in January, the two of us drifting together. I look at one side of the street; Julie looks at the opposite. When we walk through the door, Mrs. Barnett invites me to stay for dinner, but I say I've got to be going. I say goodbye to the kids, give Julie a wave and leave.
 
- I'm getting into the Mazdawhen I hear her come running after me.
+ I'm getting into the Mazda I hear her come running after me.
 
  "Will I see you again on Saturday?'' she asks.
 
@@ -6481,7 +6481,7 @@ Other North River Press Books by
 
  "My point,'' I tell him, "is that we've really turned the plant around. Here, look at this.''
 
- From my breifcase, I take the latest list of customer orders. Among other things, it shows the due dates promised, along with the dates when Ralph expected shipment, and the dates the products were actually shipped.
+ From my briefcase, I take the latest list of customer orders. Among other things, it shows the due dates promised, along with the dates when Ralph expected shipment, and the dates the products were actually shipped.
 
  "You see,'' I tell Jons as he studies the list on the glass top of his table, "we can predict to within twenty-four hours one way or the other when an order will leave the plant.''
 
@@ -6543,7 +6543,7 @@ Other North River Press Books by
 
  That's because a really terrific thing has happened. Before we reduced batch sizes, it wasn't uncommon for a work center to be forced idle because it didn't have anything to process—even though we were wading through excess inventory. It was usually because the idle work center had to wait for the one preceding it to finish a large batch of some item. Unless told otherwise by an expeditor, the materials handlers would wait until an entire batch was completed before moving it. In fact, that's still the case. But now that the batches are smaller, the parts are ready to be moved to the next work station sooner than they were before.
 
- What we had been doing many times was turning a nonbottleneck into a temporary bottleneck. This was forcing other work centers downstream from it to be idle, which reflected poorly on efficiencies. Now, even though we've recognized that non-bottlenecks have to be idle periodically, there is actually less idle time than before. Since we cut batch sizes, work is flowing through the plant more smoothly than ever. And it's weird, but the idle time we do have is less noticeable. It's spread out in shorter segments. Instead of people hanging around with nothing to do for a couple of hours, now they'll have maybe a few tento twenty-minute waits through the day for the same volume of work. From everybody's standpoint, that's much better.
+ What we had been doing many times was turning a nonbottleneck into a temporary bottleneck. This was forcing other work centers downstream from it to be idle, which reflected poorly on efficiencies. Now, even though we've recognized that non-bottlenecks have to be idle periodically, there is actually less idle time than before. Since we cut batch sizes, work is flowing through the plant more smoothly than ever. And it's weird, but the idle time we do have is less noticeable. It's spread out in shorter segments. Instead of people hanging around with nothing to do for a couple of hours, now they'll have maybe a few ten to twenty-minute waits through the day for the same volume of work. From everybody's standpoint, that's much better.
 
  Still more good news is that inventories are at their lowest ever in the plant. It's almost shocking to walk out into the plant now. Those stacks and piles of parts and sub-assemblies have shrunk to half their former size. It's as if a fleet of trucks had come and hauled everything away. Which is, in fact, about what happened. We've shipped the excess inventory as finished product. Of course, the notable part of the story is that we haven't filled the plant back up again by dumping new work-in-process on the floor. The only work-in-process out there now is for current demand.
 
@@ -6835,7 +6835,7 @@ Other North River Press Books by
 
  "What's up, Bob?'' I ask.
 
- "Hilton Symth,'' he says. "He was here in the plant today.'' "He was here?'' I ask. "Why?''
+ "Hilton Smyth,'' he says. "He was here in the plant today.'' "He was here?'' I ask. "Why?''
 
  Bob shakes his head and says, "Remember the videotape about robots that was in the works a couple of months ago?'' "That was killed,'' I say.
 
@@ -7011,7 +7011,7 @@ Other North River Press Books by
 
  "What was that all about?'' asks one.
 
- "Beats me,'' says the other. "Guess we musta done somthin' right.''
+ "Beats me,'' says the other. "Guess we musta done somethin' right.''
 
  On the eve of the plant performance review, with presentation rehearsed and ten copies of our report in hand, and with nothing more to do except imagine what could go wrong, I call Julie.
 
@@ -7023,7 +7023,7 @@ Other North River Press Books by
 
  Well, win or lose, I know I did my best.
 
- When I get to Julie's parents' house, Sharon and Dave run up to the car. After getting out of my suit and into some "offduty'' clothes, I spend about an hour throwing a frisbee to the two kids. When they've exhausted me, Julie has the idea the two of us should go out to dinner. I get the feeling she wants to talk to me. I clean up a little and off we go. As we're driving along, we pass the park.
+ When I get to Julie's parents' house, Sharon and Dave run up to the car. After getting out of my suit and into some "off-duty'' clothes, I spend about an hour throwing a frisbee to the two kids. When they've exhausted me, Julie has the idea the two of us should go out to dinner. I get the feeling she wants to talk to me. I clean up a little and off we go. As we're driving along, we pass the park.
 
  "Al, why don't we stop for awhile,'' says Julie.
 
@@ -7671,7 +7671,7 @@ Other North River Press Books by
 
  That makes me think for a while, but I still can't see the connection. "What do you mean?''
 
- "Maybe I'm wrong, but you gave me the impression that you're not too sure that Lou'll be able to come up with a good, new measurement system.''
+ "Maybe I'm wrong, but you gave me the impression that you're not too sure that Lou will be able to come up with a good, new measurement system.''
 
  "That's right,'' I smile.
 
@@ -7777,7 +7777,7 @@ Other North River Press Books by
 
  "Yes, an impressive, in-depth survey,'' I say sarcastically. We all sit silently, absorbing the bitter lesson we've just taught ourselves.
 
- "You know,'' I say after a while, "It's much worse than just wasting time producing useless, pompous reports. This overconcern about the 'proper way to arrange things' manifests itself in other harmful ways.''
+ "You know,'' I say after a while, "It's much worse than just wasting time producing useless, pompous reports. This over-concern about the 'proper way to arrange things' manifests itself in other harmful ways.''
 
  "What do you mean?'' Lou asks me.
 
@@ -8233,7 +8233,7 @@ Other North River Press Books by
 
  "So?''
 
- "The largest queues,'' Stacey goes on, "are in front of the bottlenecks, but there the tags are irrelevant. The other place where we have relatively high queues is in front of the capacity constraint resources. These resources supply some parts to the bottlenecks, red-tag parts, but they work on many more greentag parts, parts that go to assembly not through the bottlenecks. Today they do the red-tag parts first. This naturally delays the arrival of the green parts to assembly. We catch it when it is pretty late, when holes are already evident in the assembly buffer. Then, and only then, we go and change the priorities at those work centers. Basically, we restore the importance of the green parts.''
+ "The largest queues,'' Stacey goes on, "are in front of the bottlenecks, but there the tags are irrelevant. The other place where we have relatively high queues is in front of the capacity constraint resources. These resources supply some parts to the bottlenecks, red-tag parts, but they work on many more green-tag parts, parts that go to assembly not through the bottlenecks. Today they do the red-tag parts first. This naturally delays the arrival of the green parts to assembly. We catch it when it is pretty late, when holes are already evident in the assembly buffer. Then, and only then, we go and change the priorities at those work centers. Basically, we restore the importance of the green parts.''
 
  "So what you're telling us,'' Bob cannot contain his surprise, "is that if you just eliminate the tags, it will be much better?''
 
@@ -8279,7 +8279,7 @@ Other North River Press Books by
 
  It's Stacey's turn to be puzzled. "Why shouldn't we get rid of the finished products as fast as possible?'' she asks.
 
- "Never mind,'' I impatiently say. "Lou can, and should, explain it to all of you later. Right now we should correct our fivestep process. Now we all know to what extent Ralph was right, something is definitely missing.''
+ "Never mind,'' I impatiently say. "Lou can, and should, explain it to all of you later. Right now we should correct our five-step process. Now we all know to what extent Ralph was right, something is definitely missing.''
 
  "Can I correct it?'' Stacey says sheepishly, and goes to the board.
 
@@ -8477,7 +8477,7 @@ Other North River Press Books by
 
  In astonishment he asks, "Are you serious?''
 
- "Dead serious. And by the way, I can start to deliver immediately. I have whatever's needed for the first shipment in stock.''
+ "Dead serious. And by the way, I can start to deliver immediately. I have whatever is needed for the first shipment in stock.''
 
  "I guess it's your neck,'' he sighs. "What the heck, in any event you will have full responsibility very shortly. If I don't hear from you, I'll fax him tomorrow. Consider it a done deal.''
 
@@ -8769,7 +8769,7 @@ Other North River Press Books by
 
  "Why?'' Ralph doesn't get it, and neither do I.
 
- "Because the time to overcome a problem upstream did not change, we haven't faced any major catastrophies lately. So if the stock was sufficient to protect the bottlenecks before, it must be sufficient now as well. No Ralph, it's not a matter of insufficient stocks, it's simply new wandering bottlenecks.''
+ "Because the time to overcome a problem upstream did not change, we haven't faced any major catastrophes lately. So if the stock was sufficient to protect the bottlenecks before, it must be sufficient now as well. No Ralph, it's not a matter of insufficient stocks, it's simply new wandering bottlenecks.''
 
  "I guess you're right.''
 

@@ -4,7 +4,7 @@ E i c h m a n n i n J e r u s a l e m
 
 A R ep or t on the B a n a l i t y oj Evi l
 
-PENGUI N T WENTI ETH- CENTURY CLASSICS
+PENGUIN N T TWENTI ETH- CENTURY CLASSICS
 
 EIC H M A N N IN JER U SA LE M
 
@@ -24,7 +24,7 @@ a Guggenheim Fellowship in 1952 and won the annual Arts and
 Letters Grant of the National Institut? of Arts and Letters in 1954.
 Hannah Arendt's books include The Origins ofTotalitarianism,
 Crisis in the Republic, Men in Dark Times, Between Past and
-Future: Eight Excercizes in Political Thought, and Eichmann in
+Future: Eight Exercises in Political Thought, and Eichmann in
 Jerusalem: A Report on the Banality o f Evil. She also edited two
 volumes of Karl Jasper's The Great Philosophers. Hannah Arendt
 died in December 1975.
@@ -34,7 +34,7 @@ by mail (while supplies last), please call (800) 778-6425
 or E-mail reading@penguinputnam.com.
 To access Great Books Foundation Discussion Guides
 online, visit our Web site at www.penguinputnam.com
-or the fo'undation Web site at www.greatbooks.org.
+or the foundation Web site at www.greatbooks.org.
 
 HANNAH ARENDT
 
@@ -56,7 +56,7 @@ Penguin Books Ltd, 27 Wrights Lane, London W8 5TZ, England
 Penguin Books Australia Ltd, Ringwood, Victoria, Australia
 Penguin Books Canada Ltd, 10 Alcom Avenue,
 Toronto, Ontario, Canada M4V 3B2
-Penguin Books (N.Z.) Ltd, 182-190 WairauRoad,
+Penguin Books (N.Z.) Ltd, 182-190 Wairau Road,
 Auckland 10, New Zealand
 
 Penguin Books Ltd, Registered Offices:
@@ -84,7 +84,7 @@ Eichmann in Jerusalem.
 Bibliography: p. 299.
 Includes index.
 ISBN 0 14 01.8765 0
-l._ Eichmann, Adolf, 1906-1962. 2. Jews in Euiope—Persecutions.
+l._ Eichmann, Adolf, 1906-1962. 2. Jews in Europe—Persecutions.
 I. Title.
 [DD247.E5A7] 1976 364.1'38'0924 76-54831
 
@@ -92,7 +92,7 @@ Printed in the United States of America
 Set in Times Roman
 
 Except in the United States of America; this book is sold subject to the condition that it shall not, by way o f trade or otherwise, be lent, re-sold, hired out, or
-otherwise circulated without the publisher's prior consent in any form of binding or cover other than that in which it is published and without a similar condition including this condition being imposed on the subsequent puichaser.
+otherwise circulated without the publisher's prior consent in any form of binding or cover other than that in which it is published and without a similar condition including this condition being imposed on the subsequent purchaser.
 
 Note to the Reader
 
@@ -113,16 +113,16 @@ superseded by completely reliable information. Thus the total
 num ber of Jewish victims of the Final Solution is a guess—
 between four and a half and six million— that has never been
 verified, and the same is true of the totals for each of the countries
-conceraed. Some new material, especially on Holland, came to
+concerned. Some new material, especially on Holland, came to
 light after the publication of this book, but none of it was important for the event as a whole.
 
 Most of the additions are also of a technical nature, clarifying
 a particular point, introducing new facts, or, in some instances,
-quotations from different sources. These new gources have been
+quotations from different sources. These new sources have been
 added to the Bibliography and are discussed in the new PostScript,
 which deals with the controversy that followed the original publication. Apart from the PostScript, the only non-technical addition
 concems the German anti-Hitler conspiracy of July 20, 1944,
-which I had mentioned only incidpntally in the original Version.
+which I had mentioned only incidentally in the original Version.
 The character of the book as a whole is completely unaltered.
 
 Thanks are due to Richard and Clara Winston for their help
@@ -318,7 +318,7 @@ his mouth must have become subject long before this trial started.
 On trial are his deeds, not the sufferings of the Jews, not the
 German people or mankind, not even anti-Semitism and racism.
 And Justice, though perhaps an "abstraction" for those of Mr.
-Ben-Gurion's tum of mind, proves to be a much stemer master
+Ben-Gurion's tum of mind, proves to be a much sterner master
 than the Prime Minister with all his power. The latter's rule, as
 Mr. H ausner is not slow in demonstrating, is permissive; it
 permits the prosecutor to give press-conferences and interviews
@@ -429,7 +429,7 @@ to their custody. And this, adds the author— no less proud of
 such strict legality than Mr. Hausner of his willingness to
 prosecute murder even when
 the victims were non-Jews—
-"despite the fact that to send the children back to matemal
+"despite the fact that to send the children back to maternal
 custody and care would be committing them to waging an
 unequal struggle against the hostile elements in the Diaspora." )
 But in this audience there were hardly any young people, and it
@@ -515,7 +515,7 @@ Israelis who have grown up since the holocaust" were in danger
 of losing their ties with the Jewish people and, by implication,
 with their own history. "It is necessary that our youth remember
 what happened to the Jewish people. We want them to know
-the most tragic facts in our history." FinaJly, one of the motives
+the most tragic facts in our history." Finally, one of the motives
 in bringing Eichmann to trial was "to ferret out other Nazis—
 for example, the connection between
 the Nazis and some
@@ -533,7 +533,7 @@ what anti-Semitism may lead to." Equally superfluous was the
 lesson to the Jews in the Diaspora, who hardly needed the great
 catastrophe in which one-third of their people perished to be
 convinced of the world's hostility. N ot only has their conviction
-of the etemal and ubiquitous nature of anti-Semitism been the
+of the eternal and ubiquitous nature of anti-Semitism been the
 most potent ideological factor in the Zionist movement since the
 Dreyfus Affair; it was also the cause of the otherwise inexplicable
 readiness of the German Jewish community to negotiate with
@@ -556,7 +556,7 @@ between the Jewish organizations and the Nazi bureaucracy
 made it so much easier for the Jewish functionaries to cross the
 abyss between helping Jews to escape and helping the Nazis to
 deport them .) It was this conviction which produced the dangerous inability of the Jews to distinguish between friend and
-to underfoe; and German Jews were not the only ones
+to underfoot; and German Jews were not the only ones
 estimate
 that
 all Gentiles were alike. If Prime Minister Ben-Gurion, to all
@@ -667,7 +667,7 @@ years ago helped to murder millions of Jews, is a decent human
 being." (There was no mention of decent Arabs.) The German
 Federal Republic, although it has not yet recognized the State
 of Israel— presumably out of fear that the A rab countries might
-recognize U lbricht's Germany— has paid seven hundred and
+recognize U Ulbricht's Germany— has paid seven hundred and
 thirty-seven million dollars in reparation to Israel during the
 last ten years; these payments will soon come to an end, and
 Israel is now trying to negotiate a long-term loan from West
@@ -680,7 +680,7 @@ succeeded in imposing certain restraints on the cultural-exchange
 1 4
 
 program with West Germany, this certainly was neither foreseen
-nor hoped for by Ben-Gurion. It is more notewo'rthy that he had
+nor hoped for by Ben-Gurion. It is more noteworthy that he had
 not foreseen, or did not care to mention, that Eichmann's capture would trigger the first serious effort made by Germany to
 bring to trial at least those who were directly implicated in
 murder. The Central Agency for the Investigation of Nazi
@@ -688,7 +688,7 @@ Crimes, belatedly founded by the West German state in 1958 and
 headed by Prosecutor Erwin Schüle, had run into all kinds of
 difficulties, caused partly by the unwillingness of German witnesses to cooperate and partly by the unwillingness of the local
 courts to prosecute on the basis of the material sent them
-from the Central Agency. Not that the trial in Jersusalem produced any important new evidence of the kind needed for the
+from the Central Agency. Not that the trial in Jerusalem produced any important new evidence of the kind needed for the
 discovery of Eichmann's associates; but the news of Eichmann's
 sensational capture and of the impending trial had sufficient impact to persuade the local courts to use Mr. Schüle's findings, and
 to overcome
@@ -829,7 +829,7 @@ existed no extradition treaty between Israel and Germany is not
 valid; that meant only that Israel could not have been forced to
 extradite. Fritz Bauer, Attorney General of Hessen, saw the
 point and applied to the federal government in Bonn to start
-extradition proceedings. B ut Mr. Bauer's feelings in this matter were the feelings of a German Jew, and they were not shaied
+extradition proceedings. B ut Mr. Bauer's feelings in this matter were the feelings of a German Jew, and they were not shared
 by German public opinion; his application was not only refused
 by Bonn, it was hardly noticed and remained totally unsupported. Another argument against extradition, offered by the
 observers the West German govemment sent to Jerusalem, was
@@ -917,15 +917,15 @@ that is in the dock at this historic trial, and not the Nazi
 regime alone, but anti-Semitism throughout history." This was
 the tone set by Ben-Gurion and faithfully followed by Mr.
 Hausner, who began his opening address (which lasted through
-three sessions) with Pharaoh in Egvpt and Haman's decree "to
+three sessions) with Pharaoh in Egypt and Haman's decree "to
 destroy, to slay, and to cause them to perish." He then proceeded to quote Ezekiel: "And when I [the Lord] passed by thee,
 and saw thee polluted in thine own blood, I said unto thee: In
 thy blood, live," explaining that these words must be understood
 as "the imperative that has confronted this nation ever since its
-first appeaiance on the stage of history." It was bad history and
+first appearance on the stage of history." It was bad history and
 cheap rhetoric; worse, it was clearly at cross-purposes with putting Eichmann on trial, suggesting that perhaps he was only an
 innocent executor of some mysteriously foreordained destiny, or,
-for that matter, even of anti-Semitism, which perhaps was necessary to blaze the trail of "the bloodstained road trave]ed by
+for that matter, even of anti-Semitism, which perhaps was necessary to blaze the trail of "the bloodstained road traveled]ed by
 this people" to fulfill its destiny. A few sessions later, when
 Professor Salo W. Baron of Columbia University had testified
 to the more recent history of Eastem European Jewry, Dr.
@@ -937,7 +937,7 @@ human being?" Is not there perhaps something like "the spirit of
 2 0
 
 history, which brings history forward . . . without the influence
-of men?" Is not Mr. Hausner basicaUy in agreement with "the
+of men?" Is not Mr. Hausner basically in agreement with "the
 school of historical law"— an allusion to Hegel— and has he not
 shown that what "the leaders do will not always lead to the
 aim and destination they wanted? . . . Here the intention was
@@ -1002,7 +1002,7 @@ to the gallows if you lose." (Thus Goebbels had declared in
 1943: "We will go down in history as the greatest statesmen of
 all times or as their greatest criminals." ) Outside Israel (at a
 meeting of the Catholic Academy in Bavaria, devoted to what
-the Rheinischer M erkur called "the ticklish problem" of the
+the Rheinischer M Merkur called "the ticklish problem" of the
 "possibilities and limits in the coping with historical and political
 guilt through criminal proceedings" ), Servatius went a Step
 farther, and declared that "the only legitimate criminal problem
@@ -1011,7 +1011,7 @@ Israeli captors, which so far has not been done"— a Statement,
 incidentally, that is somewhat difficult to reconcile with his
 repeated and widely publicized utterances in Israel, in which he
 called the conduct of the trial "a great spiritual achievement,"
-comparing it favorably with theNuremberg Trials.
+comparing it favorably with the Nuremberg Trials.
 
 Eichmann's own attitude was different. First of all, the indictment for murder was wrong: "With the killing of Jews I had
 nothing to do. I never killed a Jew, or a non-Jew, for that matter
@@ -1093,7 +1093,7 @@ required
 Solution in Serbia started about six months later, when women
 and children were rounded up and disposed of in mobile gas
 vans. During cross-examination, Eichmann, as usual, chose the
-most complicäted and least likely explanation: Rademacher had
+most complicatedäted and least likely explanation: Rademacher had
 needed the support of the Head Office for Reich Security, Eichmann's outfit, for his own stand on the matter in the Foreign
 Office, and therefore had forged the document. (Rademacher
 himself explained the incident much more reasonably at his
@@ -1131,7 +1131,7 @@ The A ccu sed
 
 2 5
 
-then contioued, quite
+then continued, quite
 
 Even under considerable pressure from his lawyer, he did not
 change this position. In a discussion of Himmler's offer in 1944
@@ -1145,10 +1145,10 @@ been fine, except that it was not Eichmann who "launched" i t
 But he
 explained this morning," and they were as follows: Himmler
 had sent his own man to Budapest to deal with matters of Jewish
-incidentally, had become a fiourishing
+incidentally, had become a flourishing
 emigration.
-bnsiness: fo r enormous amounts of money, Jews could buy their
-way out. Eichmann, however, did not meation this.) It was the
+business: fo r enormous amounts of money, Jews could buy their
+way out. Eichmann, however, did not mentioned this.) It was the
 fact that "here matters of emigration were dealt with by a man
 who did not belong to the Police Force" that made him indignant, "because I had to help and to implement deportation, and
 matters of emigration, on which I considered myself an expert,
@@ -1248,9 +1248,9 @@ entered life on earth in the aspect of a human being." (The
 manuscript has not been released by the Israeli authorities.
 H arry Mulisch succeeded in studying this autobiography "for
 half an hour," and the German-Jewish weekly Der Aufbau was
-able to pubJish short excerpts from
+able to publish short excerpts from
 to his
-religious beiiefs, which had not changed since the Nazi period
+religious beliefs, which had not changed since the Nazi period
 (in Jerusalem Eichmann declared himself to be a Gottgläubiger,
 the Nazi term for those who had broken with Christianity, and
 he refused to take his oath on the B ible), this event was to be
@@ -1272,10 +1272,10 @@ relationship between the Bearer of Meaning and the bearer of
 Orders, and proceeded to a consideration of the other possible
 cause of his existence, his parents: "They would hardly have
 been so overjoyed at the arrival of their first-bom had they been
-able to watch how in the hour of my biith the Nora of misforin
+able to watch how in the hour of my birth the Nora of misfortune
 
 tune, to spite the Nom of good fortune, was already spinning
-threads of grief and sorrow into my Life. But a kind, impenetrable veil kept my parents frorr, seeing into the future."
+threads of grief and sorrow into my Life. But a kind, impenetrable veil kept my parents from, seeing into the future."
 
 for
 
@@ -1285,23 +1285,23 @@ The misfortune started soon enough; it started in school. Eichmann's father,
 the Tramways and
 Electricity Company in Solingen and after 1913 an official of
 the same Corporation in Austria, in Linz, had five children, four
-sons and a daughter, of whom only Adolf, the eldest, it seemsr
+sons and a daughter, of whom only Adolf, the eldest, it seemed
 was unable to finish high school, or even to graduate from the
 vocational school for engineering into which he was then put.
 Throughout his life, Eichmann deceived people about his early
 "misfortunes" by hiding behind the more honorable financial
 misfortunes of his father. Tn Israel, however, during his first
-sessions with Captain Avner Less, the poiiee examiner who
+sessions with Captain Avner Less, the police examiner who
 was to spend approximately 35 days with him and who produced
 3,564 typewritten pages from 76 recorder tapes, he was in an
-cbullient mood, full of enthusiasm about this unique opportunity
+ebullient mood, full of enthusiasm about this unique opportunity
 "to pour forth everything . . . I know" and, by the same token,
 to advance to the rank of the most cooperative defendant ever.
 (His enthusiasm was soon dampened,
 though never quite
 extinguished, when he was confronted with concrete questions
 based on irrefutable documents.) The best proof of his initial
-boundless confidence, obviously wasted on Captain Lcss (who
+boundless confidence, obviously wasted on Captain Less (who
 said to Harry Mulisch: "I was Mr. Eichmann's father confessor" ), was that for the first time in his life he admitted his
 early disasters, although he must have been aware of the fact
 that he thus contradicted himself on several important entries
@@ -1392,17 +1392,17 @@ not think anything of it." Had Eichmann been a bit less prim or
 the police examination (which refrained from cross-examination,
 presumably to remain assured of his Cooperation) less discreet,
 his "lack of prejudice" might have shown itself in still another
-aspecL It seems that in Vienna, where he was so extraordinarily
+aspect It seems that in Vienna, where he was so extraordinarily
 successful in arranging the "forced emigration" of Jews, he had a
 Jewish mistress, an "old flame" from Linz. Rassenschande,
 sexual intercourse with Jews, was probably the greatest crime a
-member of the S.S. could commrETand though during the war
+member of the S.S. could command though during the war
 the raping of Jewish girls became a favorite pastime at the
 front, it was by no means common for a Higher S.S. officer to
 have an affair with a Jewish woman. Thus, Eichmann's repeated
 violent denunciations of Julius Streicher,
 insane and
-obscene editor of Der Stürmer, and of his pomographic antithe
+obscene editor of Der Stürmer, and of his pornographic antithesis
 
 The A ccu sed
 
@@ -1412,7 +1412,7 @@ P arty luminaries.
 
 T he five and a half years with the Vacuum Oil Company
 must have been among the happier ones in Eichmann's life. He
-made a good living during a time of severe uneniployment, and
+made a good living during a time of severe unemployment, and
 he was still living with his parents, except when he was out on
 the road. The date when this idyll came to an end— Pentecost,
 1933— was among the few he always remembered. Actually,
@@ -1431,7 +1431,7 @@ blowing out must have happened in 1932 in Salzburg, and from
 his own account it is clear that he cannot have been very
 surprised when he was fired, though one need not believe his
 saying that he had been "very happy" about his dismissal.
-For whatever reasons, the year 1932 marked a turaing point
+For whatever reasons, the year 1932 marked a turning point
 of his life. It was in April of this year that he joined the
 National Socialist Party and entered the S.S., upon an invitation
 of Ernst Kaltenbrunner, a young lawyer in Linz who later
@@ -1468,7 +1468,7 @@ uninterested in politics, had enrolled him in the Young M en's
 the
 Christian Association, from which he
 German youth movement, the Wandervogel. Düring his four
-unsuccessful years in high school, he had joined the Jungfrontkäm pf everband, the youth section of the German-Austrian organzation of war veterans, which, though violently pro-German and
+unsuccessful years in high school, he had joined the Jungfrontkäm pf everband, the youth section of the German-Austrian organization of war veterans, which, though violently pro-German and
 anti-republican, was
 the Austrian govemment.
 When Kaltenbrunner suggested that he enter the S.S., he was
@@ -1595,7 +1595,7 @@ punishment drill, which he performed with great obstinacy, in
 the wrathful spirit of "Serves my father right if my hands freeze,
 why doesn't he buy me gloves." But apart from such rather
 dubious pleasures, to which he owed his first promotion, he had
-a terrible time: "The humdrum of military S ervice, that was
+a terrible time: "The humdrum of military S Service, that was
 something I couldn't stand, day after day always the same, over
 and over again the same." Thus bored to distraction, he heard
 that the Security Service of the Reichsführer S.S. (Himmler's
@@ -1607,7 +1607,7 @@ I I I : An Expert on the Jewish Question
 In 1934, when Eichmann applied successfully for a job, the
 S.D. was a relatively new apparatus in the S.S., founded two
 years earlier by Heinrich Himmler to serve as the Intelligence
-servtce of the Party and now headed by Reinhardt Heydrich, a
+service of the Party and now headed by Reinhardt Heydrich, a
 former Navy Intelligence officer, who was to become, as Gerald
 Reitlinger put it, "the real engineer of the Final Solution"
 (The Final Solution, 1961). Its initial task had been to spy on
@@ -1708,7 +1708,7 @@ entertainment industry, including radio, the theater, the opera,
 and concerts) and, in general, their removal from public offices.
 But private business remained almost untouched until 1938, and
 even the legal and medical professions were only gradually
-abolished, althoueh Jewish students were excluded from most
+abolished, although Jewish students were excluded from most
 universities and were nowhere permitted to graduate. Emigration of Jews in these years proceeded in a not unduly accelerated
 and generally orderly fashion, and the currency restrictions that
 made it difficult, but not impossible, for Jews to take their
@@ -1762,8 +1762,8 @@ Germany shortly before the outbreak of the war, gave only the
 barest glimpse into the true state of affairs during the first five
 years of the Nazi regime. The Nuremberg Laws had deprived
 the Jews of their political but not of their civil rights; they were
-no longer citizens {Reichsbürger), but they remained members of
-the German state ( Staatsangehörige). Even if they emigrated, they
+no longer citizens {Reichsbürgerürger), but they remained members of
+the German state ( StaatsangehörigeöStaatsangehörige). Even if they emigrated, they
 were not automatically stateless. Sexual
 intercourse between
 Jews and Germans, and the contraction of mixed marriages,
@@ -1822,7 +1822,7 @@ but not wholly devoid of truth— oddly recalls this fool's paradise. The first 
 certain von Mildenstein, who shortly thereafter got himself
 transferred to Albert Speer's Organisation Todt, where he was
 in charge of highway construction (he was what Eichmann pretended to be, an engineer by profession), required him to read
-Theodor HerzFs Der Judenstaat, the famous Zionist classic,
+Theodor Herzl's Der Judenstaat, the famous Zionist classic,
 which converted Eichmann promptly and forever to Zionism. This
 seems to have been the lirst serious book he ever read and it made
 a lasting impression on him. From then on, as he repeated over
@@ -1843,7 +1843,7 @@ among his S.S. comrades, giving lectures and writing pamphlets.
 He then acquired a smattering of Hebrew, which enabled him
 to read haltingly a Yiddish newspaper— not a very difficult
 accomplishment, since Yiddish, basically an old German dialect
-written in Hebrew letters, can be understood by any Germanspeaking person who has mastered a few dozen Hebrew words.
+written in Hebrew letters, can be understood by any German-speaking person who has mastered a few dozen Hebrew words.
 He even read one more book, Adolf Böhm's History of Zionism
 (during the trial he kept confusing it with Herzl's Judenstaat),
 and this was perhaps a considerable achievement for a man who,
@@ -1865,7 +1865,7 @@ unlike the Assimilationists, whom he always despised, and
 unlike Orthodox Jews, who bored him, were "idealists," like
 him. An "idealist," according to Eichmann's notions, was not
 merely a man who believed in an "idea" or someone who did
-though these qualincations were
+though these qualifications were
 not steal or accept bribes,
 
 4 2
@@ -2062,7 +2062,7 @@ the Jewish community to the prospective emigrants at a considerable profit— on
 marks when its market value was 4.20 marks. It was chiefly
 in this way that the community acquired not only the money
 necessary for poor Jews and people without accounts abroad,
-but also the funds it needed for its own hugely expanded activithis deal without
+but also the funds it needed for its own hugely expanded activities deal without
 ties. Eichmann did not make possible
 encountering considerable Opposition from the German financial
 authorities, the Ministry and the Treasury, which, after all, could
@@ -2085,7 +2085,7 @@ turned out, that he had once slapped the face of Dr. Josef
 Löwenherz, head of the Vienna Jewish community, who later
 became one of his favorite Jews. (He had apologized in front
 of his staff at the time, but this incident kept bothering him.)
-To claim the death of five miJIion Jews, the approximate total
+To claim the death of five million Jews, the approximate total
 of losses suffered from the combined efforts of all Nazi offices
 and authorities, was preposterous, as he knew very well, but he
 had kept repeating the damning sentence ad nauseam to everyone who would listen, even twelve years later in Ärgentina,
@@ -2096,7 +2096,7 @@ known Eichmann in Hungary, testified that in his opinion Eichmann was boasting. 
 who heard him utter his absurd claim.) It was sheer boasting
 when he pretended he had "invented" the ghetto system or had
 "given birth to the idea" of shipping all European Jews to Madagascar. The Theresienstadt ghetto, of which Eichmann claimed
-"patemity," was established years after the ghetto system had
+"paternity," was established years after the ghetto system had
 been introduced into the Eastem occupied territories, and setting
 up a special ghetto for certain privileged categories was, like
 the ghetto system, the "idea" of Heydrich. The Madagascar plan
@@ -2143,7 +2143,7 @@ and approved by Eichmann, constitutes a veritable gold mine
 for a psychologist— provided he is wise enough to understand
 that the horrible can be not only ludicrous but outright funny.
 Some of the comedy cannot be conveyed in English, because it
-lies in Eichmarin's heroic fight with the German language, which
+lies in Eichmann's heroic fight with the German language, which
 invariably defeats him. It is funny when he speaks, passim, of
 "winged words" (geflügelte Worte, a German colloquialism for
 famous quotes from the classics) when he means stock phrases,
@@ -2168,10 +2168,10 @@ An E xpert on the Jew ish Q uestion
 clergyman hopes for in those to whose souls he ministers? Eichm ann's best opportunity to show this positive side of his
 character in Jerusalem came when the young police officer in
 Charge of his mental and psychological well-being handed him
-Lolita for relaxation. After two days Eichmann returaed it,
+Lolita for relaxation. After two days Eichmann returned it,
 visibly indignant; "Quite an unwholesome book"— "Das ist aber
 ein sehr unerfreuliches Buch"— he told his guard.) To be sure,
-the judges were right when they fmally told the accused that all
+the judges were right when they finally told the accused that all
 he had said was "empty talk"— except that they thought the emptiness was feigned, and that the accused wished to cover up other
 thoughts which, though hideous, were not empty. This supposition seems refuted by the striking consistency with which
 Eichmann, despite his rather bad memory, repeated word for
@@ -2188,7 +2188,7 @@ connected with an inability to think, namely, to think from the
 standpoint of somebody eise. No communication was possible
 with him, not because he lied but because he was surrounded
 by the most reliable of all safeguards against the words and
-thepresence of others, and hence against reality as such.
+the presence of others, and hence against reality as such.
 
 Thus, confronted for eight months with the reality of being
 examined by a Jewish policeman, Eichmann did not have the
@@ -2198,7 +2198,7 @@ grade in the S.S., that this was not his fault. He had done
 everything, even asked to be sent to active military duty— " O ff
 the Standartenführer
 to
-[colonelcy] will come quicker." In court, on the contrary, he prctended he had asked to be transferred because he wanted to
+[colonelcy] will come quicker." In court, on the contrary, he pretended he had asked to be transferred because he wanted to
 escape his murderous duties. He did not insist much on this.
 though, and, strangely, he was not confronted with his utterances
 to Captain Less, whom he also told that he had hoped to be
@@ -2220,7 +2220,7 @@ some German town; again, nothing doing. What makes these
 pages of the examination so funny is that all this was told in
 the tone of someone who was sure of finding "normal, human55
 sympathy for a hard-luck story. "Whatever I prepared and
-ptenned, everything went wrong, my personal affairs as well
+planned, everything went wrong, my personal affairs as well
 as my years-long efforts to obtain land and soil for the Jews. I
 don't know, everything was as if under an evi] spell; whatever
 I desired and wanted and planned to do, fate prevented it
@@ -2299,12 +2299,12 @@ shot.
 
 Is this a textbook case of bad faith, of lying self-deception combined with outrageous stupidity? Or is it simply the case of the
 
-etemally unrepentant criminal (Dostoevski once mentions in his
+eternally unrepentant criminal (Dostoevski once mentions in his
 diaries that in Siberia, among scores of murderers, rapists, and
 burglars, he never met a single man who would adm it that he had
 done wrong) who cannot afford to face reality because his crime
 has become part and parcel of it? Yet Eichmann's case is different from that of the ordinary criminal, who can shield himself
-effectively agairist the reality of a non-criminal world only within
+effectively against the reality of a non-criminal world only within
 the narrow limits of his gang. Eichmann needed only to recall
 the past in order to feel assured that he was not lying and that he
 was not deceiving himself, for he and the world he lived in had
@@ -2312,7 +2312,7 @@ once been in perfect harmony. A nd that German society of eighty
 million people had been shielded against reality and factuality by
 lies, and
 exactly the same means, the same self-deception,
-stupidity that had now become ingrained in Eichmann's mentality. These lies changed from year to year, and they frequently contradicted each other; morcoever, they were not necessarily the
+stupidity that had now become ingrained in Eichmann's mentality. These lies changed from year to year, and they frequently contradicted each other; moreover, they were not necessarily the
 same for the various branches of the Party hierarchy or the
 people at large. But the practice of self-deception had become
 so common, almost a moral prerequisite for survival, that even
@@ -2542,7 +2542,7 @@ bad, or if the defense had helped him. For "it is indisputable
 that during the first stages of their Jewish policy the National
 Socialists thought it proper to adopt a pro-Zionist attitude"
 (Hans Lam m ), and it was during these first stages that Eichmann learned his lessons about Jews. He was by no means alone
-in taking this "pro-Zionism" seriously; the German Jews themselves thought it would be suflficient to undo "assimilation"
+in taking this "pro-Zionism" seriously; the German Jews themselves thought it would be sufficient to undo "assimilation"
 through a new process of "dissimilation," and flocked into the
 
 The F irst Solution: E xpulsion
@@ -2563,7 +2563,7 @@ slogan of these years, coined by Robert Weltsch, editor-in-chief
 of the Jüdische Rundschau, expressed the general emotional
 atmosphere. The polemical point of the slogan, formulated as a
 response to Boycott Day, April 1, 1933— more than six years
-before the Nazis actually forced the Jews to wear a badge, a sbcpointed yellow star on a white ground— was directed against the
+before the Nazis actually forced the Jews to wear a badge, a subpointed yellow star on a white ground— was directed against the
 "assimilationists" and all those people who refused to be reconciled to the new "revolutionary development," those who "were
 always behind the times" {die ewig Gestrigen). The slogan was
 recalled at the trial, with a good deal of emotion, by witnesses
@@ -2576,7 +2576,7 @@ But quite apart from all slogans and ideological quarrels, it
 was in those years a fact of everyday life that only Zionists
 had any chance of negotiating with the German authorities, for
 the simple reason that their chief Jewish adversary, the Central
-Association of German Citizens of Jewish Faith, to which ninetyfive per cent of organized Jews in Germany then belonged,
+Association of German Citizens of Jewish Faith, to which ninety-five per cent of organized Jews in Germany then belonged,
 specified in its bylaws that its chief task was the "fight against
 anti-Semitism"; it had suddenly become by definition an organization "hostile to the State," and would indeed have been persecuted— which it was not— if it had ever dared to do what it
 was supposed to do. Düring its first few years, H itler's rise
@@ -2590,7 +2590,7 @@ with the Nazi authorities; the Zionists too believed that "dis­
 the emigration
 
 to Palestine of
-similation," combined with
+assimilation," combined with
 Jewish youngsters and, they hoped, Jewish capitalists, could be a
 "mutually fair solution." A t the time, many German officials
 held this opinion, and this kind of talk seems to have been
@@ -2628,7 +2628,7 @@ in order to enlist help for the illegal immigration of Jews into
 British-ruled Palestine, and both the Gestapo and the S.S. were
 helpful. They negotiated with Eichmann in Vienna, and they
 reported that he was "polite," "not the shouting type," and that
-he even provided them with fanns and facilities for setting up
+he even provided them with fans and facilities for setting up
 vocational training camps for prospective immigrants. ("On one
 occasion, he expelled a group of nuns from a convent to pro-
 
@@ -2649,7 +2649,7 @@ not their job." They wanted to select "suitable material," and
 their chief enemy, prior to the extermination program, was not
 those who made life impossible for Jews in the old countries,
 Germany or Austria, but those who barred access to the new
-homeland; that enemy was defmitely Britain, not Germany. Indeed, they were in a position to deal with the Nazi authorities
+homeland; that enemy was definitely Britain, not Germany. Indeed, they were in a position to deal with the Nazi authorities
 on a footing amounting to equality, which native Jews were not,
 since they enjoyed the protection of the mandatory power; they
 were probably among the first Jews to talk openly about mutual
@@ -2692,7 +2692,7 @@ sent "on an espionage mission," which no doubt was true, but
 this did not contradict the story Eichmann had told the police.
 (Practically nothing came of the enterprise. Eichmann, together
 with a joumalist from his office, a certain Herbert Hagen, had
-just enough time to dim b Mount C annel in Haifa before the
+just enough time to dim b Mount C channel in Haifa before the
 British authorities deported both of them to Egypt and denied
 them entry permits for Palestine; according to Eichmann, "the
 man from the Haganah"— the Jewish military organization
@@ -2707,11 +2707,11 @@ moods and the catch phrases he made up to go with them; the
 trip to Egypt had been in 1937, prior to his activity in Vienna,
 and from Vienna he remembered no more than the general
 atmosphere and how "elated" he had feit. In view of his
-astoundmg virtuosity in never discarding a mood and its catch
-phrase once and for all when they became incorapatible with
+astounding virtuosity in never discarding a mood and its catch
+phrase once and for all when they became incompatible with
 a new era, which required different moods and different "elating"
 phrases— a virtuosity that he demonstrated over and over during
-the police exammation—-one is tempted to believe in his sincerity
+the police examination—-one is tempted to believe in his sincerity
 
 T he F irst Solution: E xpulsion
 
@@ -2762,7 +2762,7 @@ in Auschwitz
 remark: "Storfer never
 Storfer
 betrayed Judaism, not with a single word, not Storfer." ) A th ird
-Jew, finally, whom Eichmann n e v e r failed to ree all in conneo
+Jew, finally, whom Eichmann n e v e r failed to ree all in connection
 tio n w ith h is prewar activities was Dr. Paul Eppstein, in Charge
 of emigration in Berlin during the last years of the Reichsvereinigung— a Nazi-appointed Jewish central organization,
 not to be confused with the authentically Jewish Reichsvertretung, which was dissolved in July, 1939. Dr. Eppstein was
@@ -2789,9 +2789,9 @@ the Situation"; his behavior was "quite correct"— "he used to
 address me as 'Mister' and to offer me a seat." But in February, 1939, all this had changed. Eichmann had summoned the
 leaders of German Jewry to Vienna to explain. to them his
 new methods of "forced emigration." And there he was, sitting
-in a large room on the ground fioor of the Rothschild Palais,
+in a large room on the ground floor of the Rothschild Palais,
 recognizable, of course, but completely changed: "I immediately
-told my friends that I did not know whetlier I was meeting the
+told my friends that I did not know whether I was meeting the
 same man. So terrible was the change. . . . Here I met a man
 who comported himself as a master of life and death. He
 received us with insolence and rudeness. He did not let us
@@ -2806,7 +2806,7 @@ The First Solution: Expulsion
 
 a post with executive powers. But the trial showed that here, too,
 he had "relapses," and that the matter could never have been as
-simple as that. There was the witness who testified to an interin March, 1945, when
+simple as that. There was the witness who testified to an interim March, 1945, when
 view with him at Theresienstadt
 Eichmann again showed himself
 in
@@ -2872,7 +2872,7 @@ into Czechoslovakia and
 erected a German protectorate over Bohemia and Moravia.
 Eichmann was immediately appointed to Set up another emigration center for Jews in Prague. "In the beginning I was not
 too happy to leave Vienna, for if you have installed such an
-office and if you see everything running smoothjy and in good
+office and if you see everything running smoothly and in good
 order, you don't like to give it up." And indeed, Prague was
 somewhat disappointing, although the system was the same as in
 Vienna, for "The functionaries of the Czech Jewish organizations
@@ -2882,8 +2882,8 @@ was simply copied and carried to Prague. Thus the whole thing
 got started automatically." But the Prague center was much
 smaller, and " 1 regret to say there were no people of the caliber
 and the energy of a Dr. Löwenherz." But these, as it were,
-personal reasons for discontent were minor compared to mounting difiiculties of another, enurely objective nature. Hundreds of
-thousands of Jews had Ieft tbeir homelands in a matter of a
+personal reasons for discontent were minor compared to mounting difficulties of another, entirely objective nature. Hundreds of
+thousands of Jews had Left tbeir homelands in a matter of a
 few years. and millions waited behind them, for the Polish and
 Rumanian govemments left no doubt in their official proclamations that they, too, wished to be rid of their Jews. They could
 not understand why the world should get
@@ -2954,7 +2954,7 @@ regardless of whether or not they were Party members, and this
 meant that in the space of a day a m ost important part of the
 old civil services was incorporated into the most radical section
 of the Nazi hierarchy. No one, as far as I know, protested, or
-resigned his job. (TTiough Himmler, the head and founder of
+resigned his job. (Though Himmler, the head and founder of
 the S.S., had since 1936 been Chief of the German Police as
 well, the two apparatuses had remained separate until now.)
 The R.S.H.A., moreover, was only one of twelve Head Offices
@@ -3045,7 +3045,7 @@ Einsatzgruppen also
 Eichmann. Technically and organizationally, Eichmann's position
 was not very high; his post tum ed out to be such an important
 one only because the Jewish question, for purely ideological
-reasons, acquired a greater impurtance with every day and week
+reasons, acquired a greater importance with every day and week
 and month of the war, until, in the years of defeat— from 1943
 
 them. The commanders of
@@ -3056,7 +3056,7 @@ to do with
 
 rank
 
-The S econ d Solution: C oncentration
+The S econ d Solution: C concentration
 
 7 I
 
@@ -3070,8 +3070,8 @@ disregard all the other offices, the picture is absurdly complicated, since we h
 Higher S.S. and Police Leader Corps the Commanders and the
 Inspectors of the Security Police and the Security Service. Each
 of these groups belonged in a different chain of command that
-ultimately reached Himmler, but they were equal with respcct
-to each other and no one belonging to one group owed obeaience to a superior officer of another group. The prosecution, it
+ultimately reached Himmler, but they were equal with respect
+to each other and no one belonging to one group owed obedience to a superior officer of another group. The prosecution, it
 must be admitted, was in a most difficult position in finding its
 way through this labyrinth of parallel institutions, which it had
 to do each time it wanted to pin some specific responsibility on
@@ -3081,7 +3081,7 @@ would be much easier, since Raul Hilberg in his The Destruction
 of the European Jews has succeeded in presenting the first clear
 description of this incredibly complicated machinery of destruction.)
 
-Furthermore, it must be rcmembered that all these organs,
+Furthermore, it must be remembered that all these organs,
 wielding enormous power, were in fierce competition with one
 another— which was no help to their victims, since their ambition
 was always the same: to kill as many Jews as possible. This
@@ -3093,7 +3093,7 @@ the memoirs of Rudolf Höss, Commander of Auschwitz, in which
 Eichmann is accused of certain things that he claimed he never
 did and was in no position to do. He admitted easily enough that
 Höss had no personal reasons for saddling him with acts of
-which he was innoccnt, since their relations had been quite
+which he was innocent, since their relations had been quite
 friendly; but he insisted, in vain, that Höss wanted to exculpate
 his own outfit, the Head Office for Administration and Economy,
 and to put all the blame on the R.S.H.A. Something of the
@@ -3187,9 +3187,9 @@ to call him, was in his opinion a very fine man, educated, full
 of reason, and "free of hatred and chauvinism of any kind"—
 in Vienna, he used to shake hands with the Jewish functionaries.
 A year and a half later, in the spring of 1941, this educated
-gentleraan was appointed Commander of Einsatzgruppe A, and
+gentleman was appointed Commander of Einsatzgruppe A, and
 managed to kill by shooting, in little more than a year (he
-himself was killed in aclion in 1942), two hundred and fifty
+himself was killed in action in 1942), two hundred and fifty
 thousand Jews— as he proudly reported to Himmler himself,
 although the chief of the Einsatzgruppen, which were police
 units, was the head of the Security Police and the S.D,, that is,
@@ -3200,12 +3200,12 @@ Polish territories, Eichmann and Dr. Stahlecker began to think
 of influence in the E ast What they needed was "an area as
 large as possible in Poland, to be carved off for the erection
 of an autonomous Jewish state in the form of a protectorate.
-. . . This could be the solution." And oflthey went, on their
+. . . This could be the solution." And off they went, on their
 own initiative, without Orders from anybody, to reconnoiter.
 They went to the Radom District, on the San River, not far
-from the Russian bordcr, and they "saw a huge territory, villages, market places, small towns," and "we said to ourselves:
+from the Russian border, and they "saw a huge territory, villages, market places, small towns," and "we said to ourselves:
 that is what we need and why should one not resettle Poles
-for a change, since people are being resetded everywhere"; this
+for a change, since people are being resettled everywhere"; this
 will be "the solution o f the Jewish question"— firm soil under
 their feet— at least for some time.
 
@@ -3213,7 +3213,7 @@ it— that
 
 their project
 
-filted very well
+fitted very well
 
 Everything seemed to go very well at first. They went to
 Heydrich, and Heydrich agreed and told them to go ahead.
@@ -3223,7 +3223,7 @@ Heydrich's over-all plan at this stage for the solution of the
 Jewish question. On September 21, 1939, he had called a
 meeting of the "heads of departments" of the R.S.H.A. and
 the Einsatzgruppen (operating already in Poland), at which
-general directives for the immediate future had been givcn:
+general directives for the immediate future had been given:
 concentration of Jews in ghettos, establishment of Councils of
 Jewish Eiders, and the deportation of all Jews to the General
 Government area. Eichmann had attended this meeting setting
@@ -3285,7 +3285,7 @@ M artin Luther, who was in Charge of Jewish affairs in the
 Wilhelmstrasse, only the police "possessed the experiences and
 the technical facilities to execute an evacuation of Jews en masse
 and to guarantee the supervision of the evacuees." The "Jewish
-State" was to have a police goveraor under the jurisdiction of
+State" was to have a police governor under the jurisdiction of
 Himmler. The project itself had an odd history. Eichmann,
 confusing Madagascar with Uganda,. always claimed to having
 dreamed "a dream once dreamed by the Jewish protagonist of
@@ -3293,7 +3293,7 @@ the Jewish State idea, Theodor Herzl," but it is true that his
 dream had been dreamed before— first by the Polish govemment, which in 1937 went to much trouble to look into the
 idea, only to find that it would be quite impossible to ship its
 own nearly three million Jews there without killing them, and,
-somewbat later, by the French Foreign Minister Georges Bonnet,
+somewhat later, by the French Foreign Minister Georges Bonnet,
 who had the more modest plan of shipping France's foreign
 Jews, numbering about two hundred thousand, to the French
 colony. He even consulted his German opposite number,
@@ -3326,7 +3326,7 @@ notion that nothing less than complete evacuation from Europe
 would do— no special legislation, no "d is s im ila tio n n o ghettos
 would suffice. When, a year later, the Madagascar project was
 declared to have become "obsolete," everybody was psychologically, or rather, logically, prepared for the next step: since there
-existed no territory to which one could "evacuate," the onJy
+existed no territory to which one could "evacuate," the only
 "solution" was extermination.
 
 N ot that Eichmann,
@@ -3439,7 +3439,7 @@ secretary of State, Karl Hermann Frank, a former Sudeten
 leader who soon after Heydrich's death was to succeed him as
 Reichsprotektor. Frank, in Eichmann's opinion, was a low type,
 a Jew-hater of the "Streicher kind" who "didn't know a thing
-about political solutions," one of those people who, "autocralically
+about political solutions," one of those people who, "autocratically
 and, let me say, in the drunkenness of their power simply gave
 the conference was
 Orders and commands." But otherwise
@@ -3453,7 +3453,7 @@ teeth more quickly than he later might have liked " So Heydrich
 himself said: "There is the mess, and what are we going to
 do now?" Whereupon Eichmann said: "There exists only one
 possibility, if you cannot retreat from your announcement. Give
-enough room into which to transfer the Jews of the Protectorate, who now live dispersed." (A Jewish homeland, a gathering-in of the exiles in the Diaspoxa.) And then, unfortunately,
+enough room into which to transfer the Jews of the Protectorate, who now live dispersed." (A Jewish homeland, a gathering-in of the exiles in the Diaspora.) And then, unfortunately,
 Frank— the Jew-hater of the Streicher kind— made a concrete
 proposal, and that was that the room be provided at Theresienstadt. Whereupon Heydrich, perhaps also in the drunkenness of
 his power, simply ordered the immediate evacuation of the native
@@ -3466,12 +3466,12 @@ camp for a certain percentage of the ninety thousand Jews in
 Bohemia and Moravia. (For about fifty thousand Czech Jews,
 Theresienstadt indeed became a transfer camp on the way to
 Auschwitz, while an estimated twenty thousand more reached the
-same destinaüon directly.) We know from better sources them
+same destinationüon directly.) We know from better sources them
 Eichmann's faulty memory that Theresienstadt, from the beginning, was designed by Heydrich to serve as a special ghetto for
 certain privileged categories of Jews, chiefly, but not exclusively,
 from Germany—Jewish functionaries, prominent people, war
 veterans with high decorations, invalids, the Jewish partners of
-mixed mairiages, and German Jews over sixty-five years of age
+mixed marriages, and German Jews over sixty-five years of age
 
 The Second Solution: C on centration
 
@@ -3535,7 +3535,7 @@ and deport Jews had became routine business; what stuck in his
 mind was bowling, being the guest of a Minister, and hearing
 of the attack on Heydrich. And it was characteristic of his kind
 of memory that he could absolutely not recall the year in which
-this memorablc day feil, on which "the hangman" was shot by
+this memorable day feil, on which "the hangman" was shot by
 Czech patriots.
 
 Had his memory served him better, he would never have told
@@ -3548,7 +3548,7 @@ already been informed of the Führer's order for the Final Solution. To make a c
 promised to do so for Bohemia and Moravia could mean only
 concentration and deportation to points from which Jews could
 easily be shipped to the killing centers. That Theresienstadt
-actually came to serve another puipose, that of a showplace
+actually came to serve another purpose, that of a showplace
 for the outside world— it was the only ghetto or camp to which
 representatives of the International Red Cross were admitted—
 was another matter, one of which Eichmann at that moment was
@@ -3568,7 +3568,7 @@ the desired final solution
 . . . for
 [Endlösung] of the Jewish question." At the time Heydrich received these instructions, he had already been— as he was to
 explain to the High Command of the Army in a letter dated
-November 6, 1941— "entrusted for years with the task of preparing the final solution of the Jewish problem" (R eitlinger), and
+November 6, 1941— "entrusted for years with the task of preparing the final solution of the Jewish problem" (R Reitlinger), and
 since the beginning of the war with Russia, he had been in Charge
 of the mass killings by the Einsatzgruppen in the East.
 
@@ -3578,7 +3578,7 @@ the
 
 Heydrich opened his interview with Eichmann with "a little
 speech about emigration" (which had practically ceased, though
-H immlers formal order prohibiting all Jewish emigration except
+H Himmler's formal order prohibiting all Jewish emigration except
 in special cases, to be passed upon by him personally, was not
 issued until a few months later), and then said: "The Führer has
 ordered the physical extermination of the Jews." A fter which,
@@ -3598,7 +3598,7 @@ all interest; I was, so to speak, blown o u t And then he told me:
 S.S. and Police Leaders in the General Govemment] in Lublin,
 the Reichsführer [Himmler] has already given him the necessary
 Orders, have a look at what he has accomplished in the meantime. I think he uses the Russian tank trenches for the liquidation of the Jews.' I still remember that, for H l never forget it no
-matter how long I live, those sentences he said during that interview, which was already at an end." Actually— as Eichmapn still
+matter how long I live, those sentences he said during that interview, which was already at an end." Actually— as Eichmann still
 remembered in Argentina but had forgotten in Jerusalem, much
 to his disadvantage, since it had bearing on the question of his
 own authority in the actual killing process— Heydrich had said
@@ -3650,7 +3650,7 @@ names of "resettlement" (Umsiedlung) and "labor in the East"
 {Arbeitseinsatz im O sten), the point of these latter names being
 that Jews were indeed often temporarily resettled in ghettos and
 that a certain percentage of them were temporarily used for
-labor. Under special circumstances, slight changes in the language rules became necessaiy. Thus, for instance, a high official
+labor. Under special circumstances, slight changes in the language rules became necessary. Thus, for instance, a high official
 in the Foreign Office once proposed that in all correspondence
 with the Vatican the killing of Jews be called the "radical solution"; this was ingenious, because the Catholic puppet govemment of Slovakia, with which the Vatican had intervened, had not
 been, in the view of the Nazis, "radical enough" in its anti-Jewish
@@ -3764,7 +3764,7 @@ were hurled into the ditch, and I can still see a civilian extracting
 the teeth with tooth pliers. And then I was off— jumped into my
 car and did not open my mouth any more. After that time, I
 could sit for hours beside my driver without exchanging a word
-with him. There I got enough. I was finisbed. I only remember that
+with him. There I got enough. I was finished. I only remember that
 a physician in white overalls told me to look through a hole into
 the truck while they were still in it. I refused to do that. I could
 not. I had to disappear."
@@ -3773,7 +3773,7 @@ Very soon after that, he was to see something more horrible.
 This happened when he was sent to Minsk, in White Russia, again
 by Müller, who told him: "In Minsk, they are killing Jews by
 shooting. I want you to report on how it is being done." So he
-went, and at first it s#emed as though he would be lucky, for by
+went, and at first it s#seemed as though he would be lucky, for by
 the time he arrived, as it happened, "the affair had almost been
 finished," which pleased him very much. "There were only a few
 young marksmen who took aim at the skulls of dead people in a
@@ -3784,7 +3784,7 @@ notion of stopping at Lwow; this seemed a good idea, for Lwow
 (or Lemberg) had been an Austrian city, and when he arrived
 there he "saw the first friendly picture after the horrors. That was
 the railway Station built in honor of the sixtieth year of Franz
-Josefs reign"— a period Eichmann had always "adored," since he
+Josef's reign"— a period Eichmann had always "adored," since he
 had heard so many nice things about it in his parents' home, and
 had also been told how the relatives of his stepmother (we are
 made to understand that he meant the Jewish ones) had enjoyed
@@ -3823,7 +3823,7 @@ clocks, installations; it was a perfect imitation. "I kept myself
 back, as far as I could, I did not draw near to see all that. Still,
 I saw how a column of naked Jews filed into a large hall to
 be gassed. There they were killed, as I was told, by something
-called cyanic acid."
+called cyanide acid."
 
 The fact is that Eichmann did not see much. It is true, he repeatedly visited Auschwitz, the largest and most famous of the
 death camps, but Auschwitz, covering an area of eighteen square
@@ -3861,7 +3861,7 @@ case, oi what Eichmann had done— though not of everything the
 prosecution wished he had done— were never in dispute; they
 had been established long before the trial started, and had
 been confessed to by him over and over again. There was more
-than enough, as he occasionaUy pointed out, to hang him. (" Don't
+than enough, as he occasionally pointed out, to hang him. (" Don't
 you have enough on me?" he objected, when the police examiner
 tried to ascribe to him powers he never possessed.) But since
 he had been employed in transportation and not in killing, the
@@ -3891,7 +3891,7 @@ from the danger of immediate death"? And, second, could he
 plead extenuating circumstances, as Section 11 of the same law
 enumerated them: had he done "his best to reduce the gravity
 of the consequences of the offense" or "to avert consequences
-more serious than those which resulted"? CJearly, Sections 10 and
+more serious than those which resulted"? Clearly, Sections 10 and
 11 of the Nazis and Nazi Collaborators (Punishment) Law of
 1950 had been drawn up with Jewish "collaborators" in mind.
 Jewish Sonderkommandos (special units) had everywhere been
@@ -3920,11 +3920,11 @@ classical "difficult position" of a soldier who may "be liable to be
 
 9 2
 
-shot by a court-martia! if he disobeys an order, and to be hanged
+shot by a court-martial! if he disobeys an order, and to be hanged
 by a judge and jury if he obeys it" —-as Dicey once put it in his
-faxnous Law of the Constitution— if only because as a member
+famous Law of the Constitution— if only because as a member
 of the S.S. he had never been subj*ct to a müitary court but could
-only have been brought before a Poiice and S.S. Tribunal. In his
+only have been brought before a Police and S.S. Tribunal. In his
 last Statement to the court, Eichmann admitted that he could
 have backed out on one pretext or another, and that others had
 done so. He had always thought such a Step was "inadmissible,"
@@ -3934,31 +3934,31 @@ postwar notion of open disobedience was a fairy tale: "Under
 the circumstances such behavior was impossible. Nobody acted
 that way." It was " unthinkable." Had he been made commander
 of a death camp, like his good friend Höss, he would have
-had to commit suicide, since he was incapabie of killing. (Höss»
+had to commit suicide, since he was incapable of killing. (Höss»
 incidentally, had committed a m urder in his youth. H e had
 assassinated a certain Walter Kadow, the man who had betrayed
 Leo Schlageter— a nationalist terrorist in the Rhineland whom
-the Nazis later made ioto a national hero— to the French Occupation authorities, and a German court had p u t him in jail for
+the Nazis later made into a national hero— to the French Occupation authorities, and a German court had p u t him in jail for
 five years. In Auschwitz, of course, Höss did not have to kill.)
 But it was very unlikely that Eichmann would have been offered
 this kind of a job, since those who issued the Orders "knew full
-well the Iimits to which a person can be driven " No, he had not
+well the Limits to which a person can be driven " No, he had not
 been in "danger of immediate death," and since he claimed with
 great pride that he had always "done his duty," obeyed all Orders
 as his oath demanded, he had, of course, always done his best
 to aggravate "the consequences of the offense," rather than to
 reduce them. The only "extenuating circumstance" he cited was
 that he had tried to "avoid unnecessary hardships as much as
-possible" in canying out his work, and, quite apart from the
-question of whether this was true, and also apart from the facl
-that if it was, it would hardly have been enough to constitut«
+possible" in carrying out his work, and, quite apart from the
+question of whether this was true, and also apart from the fact
+that if it was, it would hardly have been enough to constitute«
 extenuating circumstances in this particular case, the claim waf
-not valid, because "to avoid unnecessary hardships" was amonj
-the Standard directives he hacl been given.
+not valid, because "to avoid unnecessary hardships" was among
+the Standard directives he had been given.
 
 Hence, after the tape-recorder had addressed the court, th
 death sentence was a foregone conclusion, even legally, excep
-for the pössibility that the punishment might be mitigated fc
+for the pöpossibility that the punishment might be mitigated fc
 
 The Final Solution: K illin g
 
@@ -4014,7 +4014,7 @@ or Minsk, where they would have immediately been shot by the
 Einsatzgruppen, he directed the transport to the ghetto of Lödz,
 where he knew that no preparations for extermination had yet
 been made— if only because the man in Charge of the ghetto, a
-certain Regierungspräsident Uebelhör, had found ways and
+certain Regierungspräsidentäsident Uebelhör, had found ways and
 means of deriving considerable profit from "his" Jews. (Lodz, in
 fact, was the first ghetto to be established and the last to be
 liquidated; those of its inmates who did not succumb to disease
@@ -4022,7 +4022,7 @@ or starvation survived until the summer of 1944.) This decision
 was to get Eichmann into considerable trouble. The ghetto was
 overcrowded, and Mr. Uebelhör was in no mood to receive
 newcomers- and in no position to acCommodate them. He was
-angry enough to complain to Himmler that Eichmann had deceived him and his men with "horsetradins; tricks learned from the
+angry enough to complain to Himmler that Eichmann had deceived him and his men with "horsetrading; tricks learned from the
 Gypsies." Himmler, as well as Heydrich, protected Eichmann
 and the incident was soon forgiven and forgotten.
 
@@ -4079,18 +4079,18 @@ quicker means. This, at any rate, would be more agreeable than
 9 6
 
 to let them die of starvation." In an accompanying letter,
-addressed to "D ear Comradc E ichm ann/' the wrher admitted
+addressed to "D ear Comrade E ichm ann/' the writer admitted
 that "these things sound sometimes fantastic, but they are quite
 feasible." The admission shows that the much more "fantastic"
 order of the Führer was not yet known to the writer, but the
-letter also shows to what extcnt this order was in the air.. Eichmann never mentioned this letter and probably had not been
+letter also shows to what extent this order was in the air.. Eichmann never mentioned this letter and probably had not been
 in the least shocked by it. For this proposal concemed only
 native Jews, not Jews from the Reich or any of the Western
 countries. His conscience rebelled not at the idea of murder
-but at the idea of German Jews being muidered. ("I never
+but at the idea of German Jews being murdered. ("I never
 denied that 1 knew that the Einsatzgruppen had Orders to kill,
 but I did not know that Jews from the Reich evacuated to the
-East were subject to the same treatmeut. That is what I did not
+East were subject to the same treatment. That is what I did not
 know.") It was the same with the conscience of a certain Wilhelm Kube, an old Party member and Generalkontmissar in
 Occupied Russia, who was outraged when German Jews with
 the Iron Cross arrived in Minsk for "special treatment." Since
@@ -4103,7 +4103,7 @@ own cultural milieu are certainly something eise than the native
 animalized hordes." This sort of conscience. which, if it rebelled
 at all, rebelled at murder of people "from our own cultural
 milieu/' has survived the Hitler regime; among Germans today,
-there exists a stubbom "misinfonnation" to the effect that "only"
+there exists a stubbom "misinformation" to the effect that "only"
 Ostjuden, Eastern European Jews, were massacred.
 
 Nor is this way of thinking that distinguishes between the
@@ -4111,10 +4111,10 @@ murder of "primitive" and of "cultured" people a monopoly of
 the German people. Harry Mulisch relates how, in connection
 with the testimony given by Professor Salo W. Baron about the
 cultural and spiritual achievements of the Jewish people, the
-following questions suddenly occuned to him: "Would the death
+following questions suddenly occurred to him: "Would the death
 of the Jews have been less of an evil if they were a people
 without a culturc, such as the Gypsies who were also exterminated? Is Eichmann on trial as a destroyer of human beings or
-as an annihilator of culture? Is a minderer of hum an beings
+as an annihilator of culture? Is a murderer of hum an beings
 
 T h e Final Solution: K illin g
 
@@ -4159,14 +4159,14 @@ importance solely through
 which finally led to the 20th of July. (It is of course quite
 inadmissible to measure the strength of the German resistance
 by the number of those who p a s se d through the concentration
-camps. Before the outbreak of the war, the rnmates belonged
+camps. Before the outbreak of the war, the inmates belonged
 in a great number of categories, many of which had nothing
 
 its
 
 whatsoever to do with resistance of any kind: there were the
 wholly "innocent" ones, such as the Jews; the "asocials," such as
-confiimed criminals and homosexuals; Nazis who had been
+confirmed criminals and homosexuals; Nazis who had been
 found guilty of something or other: etc. During the war the
 camps were populated by resistance fighters fr o m all over o c c ü -
 pied Europe.)
@@ -4176,10 +4176,10 @@ had held high office in the Third Reich. What had sparked
 their Opposition had been not
 the Jewish question but the
 fact that Hitler was preparing war, and the endless conflicts
-and crises of conscience under which they iaborcd hingcd almost
+and crises of conscience under which they labored hinged almost
 exclusively on the problem of high treason and the violation of
 their loyalty oath to Hitler. Moreover, they found themselves
-on the hom s of a dilemraa which was indeed insoluble: in the
+on the hom s of a dilemma which was indeed insoluble: in the
 days of Hitler's successes
 they feit they could do nothing
 because the people would not widerstand» and in tbe years of
@@ -4187,18 +4187,18 @@ Genna/i defeats they feared nothing more than another "stabin-the-back" legend. 
 it would be possible to prevent chaos and to ward off the
 danger of civil war. And the solution was that the Allies must
 be "reasonable" and grant a "moratorium" until Order was
-restored— and with it, of course, the Geiman A nny's ability to
-off er resistance. They possessed the most prec'ise knowledge of
+restored— and with it, of course, the Geiman A Army's ability to
+off er resistance. They possessed the most precise knowledge of
 what was going on in the East, but there is hardly any doubt
 that not one of them would have dared even to think that the
 best thing that could have happened to Germany under the
-circumstances would have been open rebelÜon and cKil war*
+circumstances would have been open rebelÜon and civil war*
 The active resistance in Germany came chiefly from the Right,
 but in view of the past record of the German Social Democrats, it may be doubted that the Situation would have been
 very different if the Left had played a larger part among the
 conspirators. The question is academic in any case, for no
 "organized socialist resistance^ existed in Germany during the
-war years— as the German historian, Gerhard Ritter, has rightty
+war years— as the German historian, Gerhard Ritter, has rightly
 pointed out.
 
 In actual fact, the Situation was just as simple as it was
@@ -4221,18 +4221,18 @@ plan o r intention of revolt, Finally there was the group of those
 who later became known as the conspirators, but they had never
 been able to come to an agreement on any thing, not even on
 the question of conspiracy. Their leader was Carl Friedrich
-Goerdeler, foimer mayor of Leipzig, who had seived three years
+Goerdeler, former mayor of Leipzig, who had served three years
 under the Nazis as price-controüer but had resigned rather early
 — in 1936, He advocated the establishment o f a constitutional
 monarchy, and Wilhelm Leuschner, a representative of the Left,
 a former
 leader and Socialist, assured him of
-"mass suppoit"; in the Kreisau circle, under the influence of
-Helmuth von Mohke, there were occasional complaints raised
+"mass support"; in the Kreisau circle, under the influence of
+Helmuth von Moke, there were occasional complaints raised
 that the rule of law was "now trampled under foot," but the
 chief concern of this circle was the reconciliation of the two
 Christian churches and their "sacred mission in the secular
-state," combined with an outspoken stand in favor of federalism. (On the political bankruptey of the resistance movement as
+state," combined with an outspoken stand in favor of federalism. (On the political bankruptcy of the resistance movement as
 a whole since 1933 there is a well-documented, impartial study,
 the doctoral dissertation of George K. Romoser, soon to be
 published.)
@@ -4240,24 +4240,24 @@ published.)
 trade-union
 
 As Lhe war went on and defeat became more certain, political
-differences should have m attersd less and political action become
-more urgent, but Gerhard Ritter scems right here too: "Without
+differences should have m mattered less and political action become
+more urgent, but Gerhard Ritter seems right here too: "Without
 the determination of [Count Klaus von] Stauffenberg, the resistance movement would have bogged down in more or less helpless inactivity." What united these men was that they saw in
-Hitler a 4iswindler," a "dilettante," who "sacrificed whole
+Hitler a 4Schwindler," a "dilettante," who "sacrificed whole
 aimies against the counsel of his experts," a "m adm an1* and a
 "demon,^ " the incamation of all evil," which in the German
 context meant something both more and less than when they
 caüed him a "criminal and a fool," which they occasionally
 did. But to hold such opinions about Hitler at this late date
-"in no way precluded membership in the S.S. or the Paity, or
+"in no way precluded membership in the S.S. or the Party, or
 the holding of a govemment post>T [Fritz Hesse], hence it did
 
 1 0 0
 
 not exclude from the circle of the conspirators quite a number
 of men who themselves were deeply implicated in the crimes of
-the regime— as for instance Count Helldorf, then Police Cominissioner of Berlin, who would have become Chief of the German Police if the coup d'etat had been successful (according to
-one of Goerdeler's lists of prospective tninisters); or Arthur
+the regime— as for instance Count Helldorf, then Police Commissioner of Berlin, who would have become Chief of the German Police if the coup d'etat had been successful (according to
+one of Goerdeler's lists of prospective ministers); or Arthur
 Nebe o f the R.S.H.A., former commander of one of the mobile
 killing units in the East! Tn the summer of 1943, when the
 Himmler-directed extermination program had reached its climax, Goerdeler was considering Himmler and Goebbels as
@@ -4267,22 +4267,22 @@ ally"— though Goebbels did not— and was fully informed of
 their plans; he acted against the conspirators only after their
 failure.) I am quoting from the draft of a letter by Goerdeler
 to Field Marshai von Kluge; but these stränge alliances cannot
-be explained away by "tactical considerations" necessary vis-ütvis the Army commanders, for it was, on the contrary, Kluge
+be explained away by "tactical considerations" necessary vis-üvis-à-vis the Army commanders, for it was, on the contrary, Kluge
 those
 and Rommel who had given "special Orders
-two moasters [Himmler and Göring] should be liquidated"
+two masters [Himmler and Göring] should be liquidated"
 [Ritter]—quite apart from the fact that Goerdeler's biographer,
-Ritter, insists that the above-quoted letter "represenls the most
+Ritter, insists that the above-quoted letter "represents the most
 passionate expression of his hatred against the Hitler regime."
 N o doubt these men who opposed Hitler, however belatedly,
 paid with their lives and suffered a most terrible death; the
-couiage of many of them was admirable, but it was not inspired
+courage of many of them was admirable, but it was not inspired
 by moral indignation or by what they knew other people had
 been made to suffer; they were motivated almost exclusively by
 their conviction of the coming defeat and m in of Germany.
 This is not to deny that some of them, such as Count York
-von Wartenburg, may have been roused to politicaJ O p p osition
-initially by "the revolting agitatlon against the Jews in November, 1938''
+von Wartenburg, may have been roused to political O p p osition
+initially by "the revolting agitation against the Jews in November, 1938''
 the
 synagogues went up in flames and the whole population seemed
 in the grip of some fear: houses of God had been set on fire,
@@ -4312,7 +4312,7 @@ difficult," that it was a "blot on Germany's good name" and
 was undermining the morale of the Army. "What on earth have
 they made of the proud army of the Wars of Liberation
 [against Napoleon in 1814] and of Wilhelm I [in the Franco-
-Pmssian War of 1870]," Goerdeler cried when he heard the
+Prussian War of 1870]," Goerdeler cried when he heard the
 report of an S.S. man who "nonchalantly related that it 'wasn't
 exactly pretty to spray with machine-gun fire ditches crammed
 with thousands of Jews and then to throw earth on the bodies
@@ -4343,9 +4343,9 @@ about the "obstinacy," the "incompetence and lack of moderation" of the Hitler r
 
 crucial point, "the most unscrupulous act" of the regime, was
 that the Nazis wanted to hold "the leaders of the armed forces
-rcsponsible" for the calamities of the coming defeat; to which
+responsible" for the calamities of the coming defeat; to which
 Beck added that crimes had been committed "which are a blot
-on the honor of the German nation and a de flicment of the
+on the honor of the German nation and a de defilement of the
 good reputation it had gained in the eyes of the world." And
 what would be the next Step after Hitler had been liquidated?
 The Gennan Army would go on fighting "until an honorable
@@ -4353,14 +4353,14 @@ conclusion of the war has been assured"— which meant the
 annexation of Alsace-Lorraine, Austria, and the Sudetenland.
 There is indeed every reason to agree with the bitter judgment
 on these men by the German novelist Friedrich P. Reck-
-Malleczeweu, who was killed in a concentration camp on the
+Malleczewen, who was killed in a concentration camp on the
 eve of the collapse and did not participate in the anti-Hitler
 conspiracy. In his almost totally unknown "Diary of a Man in
 Despair," [Tagebuch eines Verzweifelten, 1947], Reck-Malleczewen wrote, after he had heaid of the failure of the attempt on
-H itk r's Üfe, which of course he regretted: "A littJe late, gentlemen, you who made this archdestroyer of Germany and ran
-after him, as long as everytliing seemed to be going well; you
+H itk r's Üfe, which of course he regretted: "A little late, gentlemen, you who made this archdestroyer of Germany and ran
+after him, as long as everything seemed to be going well; you
 who . . . without hesitation swore every oath demanded of
-you and reduced yourselves to the despicabie flunkies of this
+you and reduced yourselves to the despicable flunkies of this
 criminal who is guilty of the murder of hundreds of thousands,
 burdened with the lamentations and the curse of the whole
 the
@@ -4394,14 +4394,14 @@ called giving them "some firm ground under their feet." ) For
 this purpose, Goerdeler claimed an "independent state in a
 colonial country"— Canada or South America— a sort of
 Madagascar, of which he certainly had heard. Still, he made
-some concessions; not all Jews would be expeUed. Quite in Jine
+some concessions; not all Jews would be expelled. Quite in Line
 with the early stages of the Nazi regime and the privileged
 categories which were then current, he was prepared "net to
 those Jews who could produce
 deny German citizenship to
 evidence of special military sacrifice for Germany or who
-belong^d to familics with
-iraditions." Weil,
+belong^d to families with
+traditions." Weil,
 whatever Goerdeler's "permanent solution of the Jewish question" might have meant,
 it was not exactly "original"— as
 Professor Ritter, even in 1954 full of admiration for his hero,
@@ -4411,7 +4411,7 @@ ranks of the Party and even the S.S.
 
 long-established
 
-In the letter to Field M arshai von Kluge, quoted above,
+In the letter to Field M marshal von Kluge, quoted above,
 Goerdeler once appealed to Kluge's "voice of conscience." But
 all he meant was that even a general must understand that
 "to continue the war with no chance for victory was an obvious
@@ -4424,15 +4424,15 @@ the entire truth. For there were individuals in Germany who
 from the very beginning of the regime and without ever wavering were opposed to Hitler; no one knows how many there
 were of them— perhaps a hundred thousand, perhaps many
 more, perhaps many fewer— for their voices were never heard.
-They could be found everywhcre, in all strata of society, among
+They could be found everywhere, in all strata of society, among
 the simple people as well as among the educated, in all parties,
 perhaps even in the ranks of the N.S.D.A.P. Very few of them
-were known publicly, as were the aforementioned Reck-Mallec-
+were known publicly, as were the aforementioned Reck-Mallek-
 
 1 0 4
 
 zewen or the philosopher Karl Jaspers. Some of them were truly
-and deeply pious, like an artisan of whom I know, who preferred having his independent existence destroved and becoming
+and deeply pious, like an artisan of whom I know, who preferred having his independent existence destroyed and becoming
 a simple worker in a factory to taking upon himself the "little
 formality" of entering the Nazi Party. A few still took an oath
 seriously and preferred, for example, to renounce an academic
@@ -4440,7 +4440,7 @@ career rather than swear by Hitler's name. A more numerous
 group were the workers, especially in Berlin, and Socialist
 intellectuals who tried to aid the Jews they knew, There were
 finally, the two peasant boys whose story is related in Günther
-Weisenbo'm's Der lautlose Aufstand (1953), who were drafted
+Weisenbaum's Der lautlose Aufstand (1953), who were drafted
 into the S.S. at the end of the war and refused to sign; they
 were sentenced to death, and on the day of their execution
 they wrote in their last letter to their families: "We two would
@@ -4452,9 +4452,9 @@ right from wrong had remained intact, and they never suffered
 a "crisis of conscience." There may also have been such persons
 among the members of the resistance, but they were hardly
 more numerous in the ranks of the conspirators than among the
-people at large. They were neither heroes nor sajnts, and they
+people at large. They were neither heroes nor saints, and they
 remained completely silent. Only on one occasion, in a single
-desperate gestureu did this wholiy isolated and mute element
+desperate gesture did this wholly isolated and mute element
 manifest itself publicly: this was when the Schölls, two students
 at Munich University, brother and sister, under the influence
 of their teacher K urt Huber distributed the famous leaflets in
@@ -4523,7 +4523,7 @@ tuming these instincts around, as it were, in directing them
 toward the seif. So that instead of saying: What horrible things
 I did to people!, the murderers would be able to say: What
 horrible things I had to watch in the pursuance of my duties,
-how hcaviJy the task weighed upon my shoulders!
+how heavily the task weighed upon my shoulders!
 
 O
 
@@ -4538,7 +4538,7 @@ again on the "different personal attitude" toward death when
 "dead people were seen everywhere," and when everyone
 looked forward to his own death with indifference: "We did
 not care if we died today or only tomorrow, and there were
-times when we cursed the momm* that found us still alive."
+times when we cursed the moment* that found us still alive."
 Especially effective in this atmosphere of violent death was the
 fact that the Final Solution, in its later stages, was not carried
 out by shooting, hence through violence, but in the gas factories,
@@ -4574,12 +4574,12 @@ units, of which there existed just four, each of battalion size,
 with a total of no more than three thousand men, needed and
 got the close cooperation of the Armed Forces; indeed, relations
 between them were usually "excellent" and in some instances
-"affectionate" (herdich). The generals showed a "surprisingly
+"affectionate" (herdlich). The generals showed a "surprisingly
 good attitude toward the Jews"; not only did they hand their
 Jews over to the Einsatzgruppen, they often lent their own men,
 ordinary soldiers, to assist in the massacres. The total number
 of their Jewish victims is estimated by Hilberg to have reached
-almost a millien and a half, but this was not the result of the
+almost a million and a half, but this was not the result of the
 Führer's order for the physical extermination of the whole
 Jewish people. It was the result of an earlier order, which
 Hitler gave to Himmler in March, 1941, to prepare the S.S.
@@ -4625,7 +4625,7 @@ regarded as "a medical matter." ) The idea itself was considerably older. As ear
 Medical Leader G erhard Wagner that "if war came, he would
 take up and carry out this question of euthanasia, because it
 was easier to do so in wartime." The decree was immediately
-earried out in respect to the meotally sick, and between December, 1939, and August, 1941, about fifty thousand Germans
+carried out in respect to the mentally sick, and between December, 1939, and August, 1941, about fifty thousand Germans
 were killed with carbon-monoxide gas in institutions where the
 death rooms were disguised exactly as
 in
@@ -4633,7 +4633,7 @@ Auschwitz— as shower rooms and bathrooms. The program was
 a flop. It was impossible to keep the gassing a secret from the
 surrounding German population; there were protests on all sides
 from people who presumably had not yet attained the "objective"
-insight into the nature of medicme and tlie task of a physician.
+insight into the nature of medicine and tlie task of a physician.
 The gassing in the East— or, to use the language of the Nazis,
 "the humane way" of killing "by granting people a mercy
 death"— began on almost the very day when the gassing in
@@ -4647,8 +4647,8 @@ they later were
 
 None of the various "language rules," carefully contrived to
 deceive and to Camouflage, had a more decisive effect on the
-mentality of the killers than this first war dccree of Hitler, in
-which the word for "murder" was repiaced by the phrase "to
+mentality of the killers than this first war decree of Hitler, in
+which the word for "murder" was replaced by the phrase "to
 grant a mercy death." Eichmann, asked by the police examiner
 if the directive to avoid "unnecessary hardships" was not a bit
 ironic, in view of the fact that the destination of these people
@@ -4699,7 +4699,7 @@ program switched to the gassing of Jews, though some of the killing centers were
 were surrounded by German populations. The protests, however,
 occurred ai the beginning of the war; quite apart from the effects
 of "education in euthanasia," the attitude toward a "painless
-death through gassing" very Iikely changed in the course of the
+death through gassing" very Likely changed in the course of the
 war. This sort of thing is difficult to prove; there are no documents to support it, because of tbe secrecy of the whole enterprise, and none of the war criminals ever mentioned it, not
 even the defendants in the Doctors' Trial at Nuremberg, who
 were full of quotations from the international literature on the
@@ -4707,8 +4707,8 @@ subject. Perhaps they had forgotten the climate of public opinion
 in which they killed, perhaps they never cared to know it,
 since they feit, wrongly, tbat their "objective and scientific"
 attitude was far more advanced than the opinions held by ordinary people. However, a few truly priceless stories, to be found
-in the war diaries of trustwoithy men who were fully aware
-of the fact that their own shockeä reaction was no longer shared
+in the war diaries of trustworthy men who were fully aware
+of the fact that their own shockedä reaction was no longer shared
 by their neighbors, have survived the moral debacle of a whole
 nation.
 
@@ -4724,7 +4724,7 @@ case the war should have an unhappy end." And the writer adds:
 mirage, I saw her with my own eyes: a yellow-skinned female
 pushing forty, with insane eyes. . . . And what happened?
 Did these Bavarian peasants at least put her into the local
-lake to cool off her enthusiastic readmess for death? They did
+lake to cool off her enthusiastic readiness for death? They did
 nothing of the sort. They went home, shaking their heads."
 
 My next story is even more to the point, since it concems
@@ -4733,18 +4733,18 @@ Party member. It happened in Königsberg, in East Pnissia,
 an altogether different corner of Germany, in January, 1945, a
 few days before the Russians destroyed the city, occupied its
 ruins, and annexed the whole province. The story is told by
-Count Hans von Lchnsdorff, in his Ostpreussisches Tagebuch
+Count Hans von Löchnsdorff, in his Ostpreussisches Tagebuch
 
 The F inal Solution: K illin g
 
 1 1 1
 
 (1961). He had remained in the city as a physician to take
-care of wounded soldiers who could not be evacuatcd; he was
-called to one of the huge Centers for refugees from the coimtryside, which was already occupied by the Red A nny. There he
+care of wounded soldiers who could not be evacuated; he was
+called to one of the huge Centers for refugees from the countryside, which was already occupied by the Red A nny. There he
 was accosted by a woman who showed him a varicose vein
 she had had for years but wanted to have treated now, because
-she had time. "I try to cxplain that it is more important for
+she had time. "I try to explain that it is more important for
 her to get away from Königsberg and to leave the treatment
 for some later time. Where do you want to go? I ask her, She
 does not know, but she knows that they will all be brought into
@@ -4765,7 +4765,7 @@ My report on Eichmann's conscience has thus far followed evidence which he himse
 of the matter, the tuming point came not four weeks but four
 months later, in January, 1942, during the Conference of the
 Staatssekretäre (Undersecretaries of State), as the Nazis used to
-call it, or the Wannsee Conference, as it now is usuaJly called,
+call it, or the Wannsee Conference, as it now is usually called,
 because Heydrich had invited the gentlemen to a house in that
 suburb of Berlin. As the formal name of the conference indicates,
 the meeting had become necessary because the Final Solution, if
@@ -4776,7 +4776,7 @@ Civil Service. The Ministers themselves, nine years after Hitler's rise to power
 those who in the initial stages of the regime had merely "coordinated" themselves, smoothly enough, had been replaced. Yet
 most of them were not completely trusted, since few among
 them owed their careers entirely to the Nazis, as did Heydrich
-or Himmler; ancj those who did, like Joachim von Ribbentrop,
+or Himmler; and those who did, like Joachim von Ribbentrop,
 head of the Foreign Office, a former Champagne salesman, were
 likely to be nonentities. The problem was much more acute,
 however, with respect to the higher career men in the Civil Service, directly under the Ministers, for these men, the backbone
@@ -4831,19 +4831,19 @@ position of those present. H e had sent out the invitations and
 had prepared some statistical material (full of incredible errors)
 for Heydrich's introductory Speech— eleven mülion Jews had to
 be killed, an undertaking of some magnitude— and later he was
-to prepare the minutes. ln short, he actcd as secretary of the
+to prepare the minutes. ln short, he acted as secretary of the
 meeting. This was why he was permitted. after the dignitaries
 had left, to sit down near the fireplace with his chief Müller and
 Heydrich, "and that was the first time I saw Heydrich smoke
 and drink." They did not "talk shop, but enjoyed some rest
-after long hours of work," be'mg greatly satisfied and, especially
+after long hours of work," being greatly satisfied and, especially
 Heydrich, in very high spirits.
 
 There was another reason that made the day of this conference unforgettable for Eichmann. Although he had been doing
-his best right along to help with the Final Solution, he had stiil
-harborcd some doubts about "such a bloody solution through
+his best right along to help with the Final Solution, he had still
+harbored some doubts about "such a bloody solution through
 violence " and these doubts had now been dispelled. "Here now,
-during this conferencc, the most prominent people had spoken,
+during this conference, the most prominent people had spoken,
 the Popes of the Third Reich." Now he could see with his own
 eyes and hear with his own ears that not only Hitler, not only
 Heydrich or the "sphinx" Müller, not just the S.S. or the Party,
@@ -4860,7 +4860,7 @@ expert in " forced evacuation," as he had been an expert in
 register, were forced to wear the yellow badge for easy identification, were assembled and deported, the various shipments
 beins directed to one or another of the extermination centers in
 the East, depending on their relative capacity at the moment;
-when a trainload of Jews arrived at a center, the slrong among
+when a trainload of Jews arrived at a center, the strong among
 them were selected for work, often operating the extermination
 machinery, all others were
 immediately killed. There were
@@ -4868,7 +4868,7 @@ hitches, but they were minor. The Foreign Office was in contact
 with the authorities in those foreign countries that were either
 occupied or allied with the Nazis, to put pressure on them to
 
-The Wannsee Conference, or Pontius Pilale
+The Wannsee Conference, or Pontius Pilate
 
 1 1 5
 
@@ -4885,7 +4885,7 @@ was in fact not quite so simple.) The legal experts drew up
 the necessary legislation for making the victims stateless, which
 was important on two counts: it made it impossible for any
 country to inquire into their fate, and it enabled the state in
-which they were resident to confiscate their property. The Minto
+which they were resident to confiscate their property. The Ministry
 istry of Finance and the Reichsbank prepared facilities
 receive the huge loot from all over Europe, down to watches
 and gold teeth, all of which was sorted out in the Reichsbank
@@ -4893,20 +4893,20 @@ and then sent to the Prussian State Mint. The Ministry of
 Transport provided the necessary railroad cars, usually freight
 cars, even in times of great scarcity of rolling stock, and they
 saw to it that the schedule of the deportation trains did not
-confiict with other tixnetables. The Jewish Councils of Eiders
+confiict with other timetables. The Jewish Councils of Eiders
 were informed by Eichmann or his men of how many Jews
 were needcd to fill each train, and they made out the list of
-deportees. The Jews registered, filJed out innumerable forrds,
+deportees. The Jews registered, filled out innumerable forms,
 answered pages and pages of questionnaires regarding their property so that it could be seized the more easily; they then assembled at the collection points and boarded the trains. The few
 who tried to hide or to escape were rounded up by a special Jewish police force. As far as Eichmann could see, no one
 protested, no one refused to cooperate. "Immerzu fahren hier
 die Leute zu ihrem eigenen Begräbnis" (Day in day out the
-people here leave for their own funeral), as a Jewish observei
+people here leave for their own funeral), as a Jewish observer
 put it in Berlin in 1943.
 
 Mere compliance would never have been enough either to smooth
 out all the enormous difficulties of an O peration that was soon
-to cover the whoie of Nazi-occupied and Nazi-allied Europe
+to cover the whole of Nazi-occupied and Nazi-allied Europe
 or to soothe the consciences of the operators, who, after all, h a d
 been brought up on the commandment "Thou shalt not kill,"
 and who knew the v e r se from the Bible, "Thou hast murdered
@@ -4917,31 +4917,31 @@ the "death whirl" that descended upon Germany after
 
 1 1 6
 
-Eichrnann in Jerusalem
+Eichmann in Jerusalem
 
 immense losses at Stalingrad— the Saturation bombing of Germ an cities, his stock excuse for killing civilians and still the
-stock excuse offered in Geimany for the massacres— making an
-eveiyday experience of sights difierent from the atrocities reported
+stock excuse offered in Germany for the massacres— making an
+everyday experience of sights different from the atrocities reported
 at Jerusalem but no less horrible, might have contributed to
 the easing, or, rather, to the extinguishing, of conscience, had
 any conscience been left when it occurred, but according to
 th e evidence such was not the case. The extermination machinery had been planned and perfected in all its details long before
 the horror of war struck Germany herseif, and its intricate
-bureaucracy function»d with the same unwavering preciskm in
+bureaucracy function»d with the same unwavering precision in
 the years of easy victory as in those last years of predictable
-defeat Defections from the ranJks of the ruling elite and notably
-from among the Higher S.S. officers hardly occurred at the beginning, when people might sdli have had a conscience; they made
-themselves feit only when it had become obvious that Germaay
+defeat Defections from the ranks of the ruling elite and notably
+from among the Higher S.S. officers hardly occurred at the beginning, when people might still have had a conscience; they made
+themselves feit only when it had become obvious that Germany
 was going to lose the war. Moreover, such defections were
 never serious enough to throw the machinery out of gear; they
-consistwd of individual acts not of mercy b ut of com iption,
+consisted of individual acts not of mercy b ut of com corruption,
 and they were inspired not by conscience but by the desire
 to salt some money or some connections away for the dark
 days to come. Himmler's order ia the fall of 1944 to halt the
 extermination and to dismantle the installations at the death
 factories sprang from his absurd but sincere conviction that the
-Alliad powers would know how to appreciate this obliging gesture; he told a rather incredulous Eichmann that on the strength
-o f it he would he able to negotiate a Huberiusburger-Frieden
+Allied powers would know how to appreciate this obliging gesture; he told a rather incredulous Eichmann that on the strength
+o f it he would he able to negotiate a Hubertusburg-Frieden
 — an allusion to the Peace Treaty of Hubertusburg that concluded the Seven Years' War of Frederick II of Prussia in 1763
 and enabled Prussia to retain Silesia, althougb she had lost the
 war.
@@ -4951,23 +4951,23 @@ his own conscience was the simple fact that he could see no one,
 no one at all, who actually was against the Final Solution. He did
 encounter one exception, however, which he mentioned several
 times, and which must have made a deep impression on him.
-This happened in Hungaiy when he was negotiating with Dr.
+This happened in Hungary when he was negotiating with Dr.
 Kästner over Himmler's offer to release one million Jews in
 exchange for ten thousand trucks. Kästner, apparently embold-
 
-T h e Wanns-ee C onference, or Pontius P ilote
+T h e Wanns-ee C onference, or Pontius P Pilate
 
 1 i 7
 
 ened by the new turn of aüairs, had asked Eichmann to stop
-"the death mills at Auschwit2," and Eichmann had answered
-that he would do it "wiih the greatest pleasure" (herzlich gern)
+"the death mills at Auschwitz2," and Eichmann had answered
+that he would do it "with the greatest pleasure" (herzlich gern)
 but that, alas, it was outside his competence and outside the
 competence of his superiors— as indeed it was. Of course, he
 did not expect the Jews to share the general enthusiasm over
 their destruction, but he did expect more than compliance, he
 expected— and received, to a truly extraordinary degr#e— their
-cooperation. This was "of course the very com erstone" of
+cooperation. This was "of course the very com cornerstone" of
 everything he did, as it had been the very comerstone of his
 activities in Vienna. Without Jewish help in administrative and
 police work— the final rounding up of Jews in Berlin was, as
@@ -4975,25 +4975,25 @@ I have mentioned, done entirely by Jewish police— there would
 have been either complete chaos or an impossibly severe drain
 on German manpower. ("There can be no doubt that, without
 the cooperation of the victims, it would hardly have been possible for a few thousand people, most of whom, moreover,
-workftd m offices, to üquidate many hundreds of thousands of
+worked m offices, to üliquidate many hundreds of thousands of
 other people. . . . Over the whole way to their deaths the
 Polish Jews got to sec hardly more than a handful of Germans." Thus R* Pendorf in the publication mentioned above.
 To an even greater extent this applies to those Jews who were
-transpofted to Poland to find their deaths there.) Hence, the
+transported to Poland to find their deaths there.) Hence, the
 establishing of Quisling govemments in occupied territories was
 always accompanied by the organization of a central Jewish
-office, and, as we shall see later, whers the Nazis did not
-succeed in setting up a puppet govecnment, they aJso failed to
+office, and, as we shall see later, where the Nazis did not
+succeed in setting up a puppet government, they also failed to
 enlist the cooperation of the Jews. But whereas the members
-of the Quisling govemments were usually taken from the O pposition paities, the membeis of the Jewish Councils were as a rule
+of the Quisling govemments were usually taken from the O opposition parties, the members of the Jewish Councils were as a rule
 the locally recognized Jewish Ieaders, to whom th e Nazis gave
-enormous powere— until they, too, were deported, to Theresienstadt or Bergen-Belsen, if they happened to be from Central or
+enormous power— until they, too, were deported, to Theresienstadt or Bergen-Belsen, if they happened to be from Central or
 Western Europe, to Auschwitz if they were from an Eastem
 European Community.
 
 To a Jew this role of the Jewish Ieaders in the destruction
 of their own people is undoubtedly the darkest chapter of the
-whole dark story. It had been known about befare, but it has
+whole dark story. It had been known about before, but it has
 now been exposed for the ßrst time in all its pathetic and
 
 1 1 8
@@ -5010,7 +5010,7 @@ apartments, to supply police forces to help seize Jews and
 get them on trains, until, as a !ast gesture, they handed over
 the assets of the Jewish community in good order for final confiscation. They distributed the Yellow Star badges, and sometimes, as in Warsaw, "the sale of the armbands became a
 regulär business; there were ordinary armbands of cloth and
-fancy plastic armbands which were washable." In the Naziinspired, but not Nazi-dictated, manifestoes they issued, we still
+fancy plastic armbands which were washable." In the Nazi-inspired, but not Nazi-dictated, manifestoes they issued, we still
 can sense how they enjoyed their new power— "The Central
 Jewish Council has been granted the right of absolute disposal
 over all Jewish spiritual and material wealth and over all Jewish
@@ -5028,7 +5028,7 @@ principles" were needed "as the guiding force of the weak
 human hand which puts down on paper the name of the
 unknown person and with this decides his life or death." And
 whom did these "holy principles" single out for salvation?
-Those "who had worked all their lives for the zibur [community]"— i.e.,
+Those "who had worked all their lives for the tzibur [community]"— i.e.,
 the "most prominent
 Jews," as Kästner says in his report.
 
@@ -5091,7 +5091,7 @@ prosecution's case would have been weakened if it had been
 forced to admit that the naming of individuals who were sent
 to their doom had been, with few exceptions, the job of the
 Jewish administration. And the Deputy State Attorney, Mr.
-Ya'akov Baror, who handled the inteivention from the bench,
+Ya'akov Baror, who handled the intervention from the bench,
 in a way indicated this when he said: "I am trying to bring
 out those things which somehow refer to the accused without
 damaging the picture in its entirety." The picture would indeed
@@ -5117,16 +5117,16 @@ in Theresienstadt. This would have done more to demonstrate
 the
 the atmosphere
 than all
-unpleasant and often do'.vnright offensive
+unpleasant and often do'.downright offensive
 talk about oaths,
-loyalty, and the vinucs of unquestioning obedience.
+loyalty, and the virtues of unquestioning obedience.
 
 in which Eichmann- worked
 
 in
 
 The testimony of Mrs. Charlotte Salzberger on Theresienstadt,
-from which I quoted above, perraitted us to cast at least aglance into this neglected corner of what the prosecution kept
+from which I quoted above, permitted us to cast at least a glance into this neglected corner of what the prosecution kept
 calling the "general picture." The presiding judge did not like
 the term and he did not like the picture. He told the Attorney
 General several times that "we are not drawing pictures here,"
@@ -5139,7 +5139,7 @@ that there is "an indictment and this indictment is the framework for our trial,
 trial, according to the indictment," and that "the prosecution
 must adjust to what the court lays down"— admirable admonitions for criminal proceedings, none of which was heeded The
 prosecution did worse than not heed them, it simply refused
-if the court became too insistto guide its witnesses— or,
+if the court became too insistent guide its witnesses— or,
 ent, it asked a few haphazard questions, very casually— with
 the result that the witnesses behaved as though
 they were
@@ -5157,10 +5157,10 @@ had no connection whatever with the crimes of the accused.
 The testimony of these people would have contributed something to the trial if they had told of the activities of the
 Jewish Councils, which had played such a great and disastrous
 role in their own heroic efforts. Of course, there was some
-mentiön of this— witnesses s p e a k in g of " S.S. men and their
+mentionön of this— witnesses s p e a k in g of " S.S. men and their
 helpers" pointed out that they counted among the latter the
 "ghetto police which was also an instrument in the hands of
-the Nazi murderers" as well as "the Judeitrat"— but they were
+the Nazi murderers" as well as "the Judenrat"— but they were
 only too glad not to "elaborate" on this side of their story,
 and they shifted the discussion to the role of real traitors, of
 whom
@@ -5175,24 +5175,24 @@ always quite sure of the point she wished to make. Legally,
 
 12 2
 
-the testimony of these witncsses was immaterial—-Mr. Hausner
-did not mention one of them in his last plaiäoyer— except
+the testimony of these witnesses was immaterial—-Mr. Hausner
+did not mention one of them in his last pleaäoyer— except
 insofar as it constituted proof of close contacts between Jewish
 the Polish and Russian underground fighters,
 partisans and
 which, apart from contradicting other testimony (ltWe had the
 whole population against us" ), could have been useful to the
-defense, since it offered much better justification for the W holesale slaughter of civilians than Eichmann's repeated claim that
+defense, since it offered much better justification for the W wholesale slaughter of civilians than Eichmann's repeated claim that
 "Weizmann had declared war on Gennany in 1939." (This
 was sheer nonsense. All that Chaim Weizmann had said, at the
 close of the last prewar Zionist Congress, was that the war
 o f the Western democracies "is our war, their struggle is our
-struggle/' The tragedy, as Hausner rightly pointed out, was precisely that the Jews were not rccognized by the Nazis as belJigerents, for if they had been they would have survived,
+struggle/' The tragedy, as Hausner rightly pointed out, was precisely that the Jews were not recognized by the Nazis as belligerents, for if they had been they would have survived,
 in
-prisoner-of-war or civilian intemment camps.) Had Dr. Servatius
+prisoner-of-war or civilian internment camps.) Had Dr. Servatius
 made this point, the prosecution would have been forced to
-admit how pitifully small these resistancc groups had been, how
-incredibly weak and essentially haimless— and, moreover, how
+admit how pitifully small these resistance groups had been, how
+incredibly weak and essentially harmless— and, moreover, how
 little they had represented the Jewish population, who at one
 point even took arms against them.
 
@@ -5204,11 +5204,11 @@ from Zionists, as though, of all Jews, only the Zionists knew
 that if you could not save your life it might still be worth while
 to save your honor, as Mr. Zuckerman put it; that the worst
 that could happen to the human person under such circumstances was to be and to remain "innocent," as became clear
-from the tenor and drift of Mrs. Zuckerman's testimony. However, these "p o liticar intentions misfired, for the witnesses were
+from the tenor and drift of Mrs. Zuckerman's testimony. However, these "p o political intentions misfired, for the witnesses were
 truthful and told the court that all Jewish organizations and
 parties had played their role in the resistance, so the true distinction was not between Zionists and non-Zionists but. between
 organized and unorganized people, and, even more important,
-between the young and the middle-agcd. To be sure, those who
+between the young and the middle-aged. To be sure, those who
 resisted were a minority, a tiny minority, but under the circum-
 
 The W annsee C on ference, o r P ontius Pilate
@@ -5243,7 +5243,7 @@ anyhow, it could only have been the selection of the worst. (This
 was especially true in Poland, where the Nazis had exterminated
 a large proportion of the Jewish intelligentsia at the same time
 that they killed Polish intellectuals and members of the professions— in marked contrast, incidentally, to their policy in Western Europe, where they tended to save prominent Jews in order
-to exchange them for German civilian intemees or prisoners of
+to exchange them for German civilian internees or prisoners of
 war; Bergen-Belsen was originally a camp for "exchange Jews." )
 The moral problem lay in the amount of truth there was in
 Eichmann's description of Jewish cooperation, even under the
@@ -5256,7 +5256,7 @@ a dictatorial decision. The functionaries with whom we were in
 constant contact— well, they had to be treated with kid gloves.
 They were not ordered around, for the simple reason that if the
 chief officials had been told what to do in the form of: you
-must, you have to, that woujd not have helped matters any. If
+must, you have to, that would not have helped matters any. If
 
 1 2 4
 
@@ -5283,7 +5283,7 @@ Where could they have fled?"— but he himself fled, to Rumania, because he was 
 could we have done? W hat could we have done?" And the only
 response to this came from the presiding judge: "I do not think
 this is an answer to the question"— a question raised by the
-gallery but not by the courttwice mentioned by
+gallery but not by the court mentioned by
 
 The matter of cooperation was
 
@@ -5317,8 +5317,8 @@ no govemment, and no army, that, ln the hour of their greatest
 need,
 them
 among the AUies (the Jewish Agency for Palestine, under Dr.
-Weizmann's presidency, was at best a miserable substitute), no
-caches of weapons, no youth with railitary training. But the
+Weizmann presidency, was at best a miserable substitute), no
+caches of weapons, no youth with military training. But the
 whole truth was that there existed Jewish community organizations and Jewish party and weif are organizations on both the
 local and the international leveL Wherever Jews lived, there were
 recognized Jewish leaders, and this leadership, almost without
@@ -5344,14 +5344,14 @@ meant also the Jewish Council— and went underground survived; again forty to f
 Theresienstadt returned to Holland.)
 
 I have dwelt on this chapter of the story, which the Jerusalem
-trial failed to put before the eyes of the world in its true dimenthe
+trial failed to put before the eyes of the world in its true dimensions
 sions, because
 totality of the moral collapse the Nazis caused in respectable
 European society— not only in Germany but in almost all coun­
 
 the most striking
 
-it öfters
+it öoffers
 
 insight
 
@@ -5361,7 +5361,7 @@ into
 
 in
 
-tries, not only among the pers#cutors but also among the victims. Eichmann, in contrast to other elements
+tries, not only among the pers#persecutors but also among the victims. Eichmann, in contrast to other elements
 the Nazi
 movement, had always been overawed by "good society," and the
 politeness he often showed to German-speaking Jewish functionaries was to a large extent the result of his recognition
@@ -5370,7 +5370,7 @@ He was not at all, as one witness called him, a "Landsknechtn a tu r" a mercenar
 there aren't no Ten Commandments an' a man can raise a
 thirst. What he fervently believed in up to the end was success, the chief Standard of "good society" as he knew it, Typical
 was his last word on the subject of Hitler— whom he and his
-comxade Sassen had agreed to "shirr out" of their story; Hitler,
+comrade Sassen had agreed to "shirr out" of their story; Hitler,
 he said, "may have been wrong all down the line, but one
 thing is beyond dispute: the man was able to work his way up
 from lance corporal in the German A rm y to Führer of a people
@@ -5388,7 +5388,7 @@ prosecution to prove that this was not so, that there were voices
 he could have listened to, and that, anyhow, he had done his
 work with a zeal far beyond the call of duty. Which tum ed out
 to be true enough, except that, stränge as it may appear, his
-murderous zeal was not altogether unconnected with the arabiguity in the voices of those who at one time or another tried
+murderous zeal was not altogether unconnected with the ambiguity in the voices of those who at one time or another tried
 to restrain him. We need mention here only in passing the socalled "inner emigration" in Germany— those people who frequent] y had held positions, even high ones, in the Tbird Reich
 and who, after the end of the war, told themselves and the
 world at large that they had always been "inwardly opposed"
@@ -5399,7 +5399,7 @@ T he W annsee C onference, o r P ontius P ilate
 
 1 2 7
 
-secrel-ridden atmosphere of the Hitler regime was better kept
+secret-ridden atmosphere of the Hitler regime was better kept
 than such "inward Opposition." This was almost a matter of
 course under the conditions of Nazi terror; as a rather wellknown "inner emigrant," who certainly believed in his own
 sincerity, once told me, they had to appear "outwardly" even
@@ -5414,7 +5414,7 @@ participation in public life" was indeed the only criterion by
 individual guilt, as O tto
 which one might have measured
 Kirchheimer recently remarked in his Political Justice (1961).
-If the term was to rnake any sense, the "inner emigrant" could
+If the term was to make any sense, the "inner emigrant" could
 only be one who lived "as though outcast among his own p e o p le
 amidst blindly believing masses," as Professor Hermann Jahrreiss pointed out in his "Statement for All Defense Attorneys"
 indeed
@@ -5424,7 +5424,7 @@ that there were Germans who lived for twelve years in this
 "outer cold," but their number was insignificant, even among the
 members of the resistance. In recent years, the slogan of the
 "inner emigration" (the term itself has a definitely equivocal
-flavor, as it can mean either an eitnigration into the inward
+flavor, as it can mean either an emigration into the inward
 regions of one's soul or a way of conducting oneself as though he
 were an emigrant) has become a sort of a joke. The sinister
 Dr. Otto Bradfisch, former member of one of the Einsatzgruppen,
@@ -5453,26 +5453,26 @@ civi] servant in this category
 trial, it may be worth while to look into his mitigating activities.
 Dr. Globke had been employed in the Prussian Ministry of the
 Interior before H itlers rise to power, and had shown there a
-rather prenmtuie interest in the Jewish question. H e fonnulated the first of the directives in which "proof of Aryan descent" was demanded, in this case of persons who applied for
+rather premature interest in the Jewish question. H e formulated the first of the directives in which "proof of Aryan descent" was demanded, in this case of persons who applied for
 permission to change their names. This circular letter of December, 1932— issued at a time when Hitler's rise to power was
 not yet a certainty, but a strong probability— oddly anticipated
 the "top secret decrees," that is, the typically totalitarian rule by
 means of laws that are not brought to the attention of the
-public, which the H itler regime introduced much later, in norifyjng the redpients that "these directives are not for publication." Dr. Globke, as I have mentioned, kept his interest in
-names, and since it is true th at his Commentaiy on the Nuremberg Laws of 1935 was considerably harsher than the earlier
+public, which the H itler regime introduced much later, in notifying the recipients that "these directives are not for publication." Dr. Globke, as I have mentioned, kept his interest in
+names, and since it is true th at his Commentary on the Nuremberg Laws of 1935 was considerably harsher than the earlier
 interpretation of Rassenschande by the Ministry of the Interior's
 expert on Jewish affairs, Dr. Bernhard Lösener, an old member
 of the Party, one could even accuse him of havmg made things
 worse than they were under "real Nazis." But even if we were
-to grant him all his good intendons, it is hard indeed to see
+to grant him all his good intentions, it is hard indeed to see
 what he could have done under the circumstances to make
 things better than they would otherwise have been. Recently,
 however, a German newspaper, after much searching, came up
 with an answer to this puzzling question. They found a document, duly signed by Dr. Globke, which decreed that Czech
-brides of German soldiers had to fumish photographs of themselves in bathing suits in order to obtain a marriage Iicense.
+brides of German soldiers had to fumish photographs of themselves in bathing suits in order to obtain a marriage License.
 Aod Dr. Globke explained: "With this confidential ordinance a
-three-year-old scandal was some what rmtigated"; for until his
-In terv en tio n , Czech brides had to fumish snapshots that showed
+three-year-old scandal was some what mitigated"; for until his
+In intervention en tio n , Czech brides had to fumish snapshots that showed
 them stark naked.
 
 T h e W annsee C onference, or P o n tiu s P ilate
@@ -5485,7 +5485,7 @@ met as one of the eager members of the Wannsee Conference.
 Stuckart's attenuation activities concerned half-Jews, whom he
 proposed to sterilize. (The Nuremberg court, in possession of
 the minutes of the Wannsee Conference, may not have believed
-that he had known nothing of the extennination program, but
+that he had known nothing of the extermination program, but
 it sentenced him to time served on account of ill health. A
 German denazification court fined him five hundred marks and
 declared him a "nominal member of the Party"— a Mitläufer—
@@ -5503,9 +5503,9 @@ from the United States, the only non-Jewish) witness for the
 prosecution. (German witnesses for the defense were excluded
 from the outset, since they would have exposed themselves to
 arrest and prosecution in Israel under the same law as that
-under which Eichmann was tricd.) Propst Grüber had belonged
+under which Eichmann was tried.) Propst Grüber had belonged
 to the numerically small and politically irrelevant group of persons who were opposed to Hitler on principle, and not out of
-nationalst considerations, and whose stand on the Jewish question had been without equivocation. H e promised to be a
+nationalist considerations, and whose stand on the Jewish question had been without equivocation. H e promised to be a
 splendid witness, since Eichmann had negotiated with him several times, and his mere appearance in the courtroom created
 a kind of sensation. Unfortunately, his testimony was vague;
 he did not remember, after so many years, when be had spoken
@@ -5516,7 +5516,7 @@ Christian friends how dangerous the S ituation was and to urge
 
 13 0
 
-that more opportunities for emigration be provided. (The negotiatioos must have taken place prior to the implementing of the
+that more opportunities for emigration be provided. (The negotiations must have taken place prior to the implementing of the
 Final Solution, which coincided with Himmler's decree forbidding all emigration; they probably occurred before the invasion
 of Russia.) He got his unleavened bread, and he got safely to
 Switzerland and back again. His troubles started later, when the
@@ -5556,7 +5556,7 @@ T he W annsee C on feren ce, or P ontius P ila te
 
 "bicycle rider" Charge was contradicted by evidence which
 showed Eichmann to have been rather decent toward h is subordinates. Any way, these were interpretations and conclusions that
-would nonnally have been stricken from any court record—
+would normally have been stricken from any court record—
 though ln Jerusalem they even found their way into the judgment. Without them Propst G rüber's testimony could have
 strengthened the case for the defense, for Eichmann had never
 given Grüber a direct answer, he had always td d him to come
@@ -5564,7 +5564,7 @@ back, as he had to ask for further instructions, M ore important,
 Dr. Servatius for once took the initiative and asked the witness
 a highly pertinent question: "Did you try to influence him?
 Did you, as a clergyman, try to appeal to his feelings, preach
-to him, and teil him that his conduct was contraiy to morality?"
+to him, and teil him that his conduct was contrary to morality?"
 Of course, the very courageous Propst had done nothing of the
 soit, and his answers now were highly embarrassing. He said
 that "deeds are more effective than words," and that "words
@@ -5576,17 +5576,17 @@ duty of a clergyman to test the "uselessness of words."
 Even more pertinent than Dr. Servatius' question was what
 Eichmann said about this episode in his last Statement: "Nobody," he repeated, "came to me and reproached me for anything in the performance of my duties. Not even Pastor Grüber
 Claims to have done so." Hc then added: "He came to me
-and sougbt aUeviation of suffering, but did not actually object
+and sought aUeviation of suffering, but did not actually object
 to the very performance of my duties as such." From Propst
 it appeared that he sought not so
 Grüber's own testimony,
-much "aUeviation of suffering" as exemptions from it, in accordance with weü-estabJished categories recognized earlier by the
+much "aUeviation of suffering" as exemptions from it, in accordance with weü-established categories recognized earlier by the
 Nazis. The categories had been accepted without protest by
 German Jewry from the very beginning. And the acceptance of
 privileged categories— German Jews as against Polish Jews, war
 veterans and decorated Jews as against ordinary Jews, families
 whose ancestors were German-born as against recently naturalized citizens, etc.— had been the beginning of the moral collapse of respectable Jewish society. (In view of the fact that
-today such matters are often treated as thougfa there existed
+today such matters are often treated as though there existed
 a law of human nature compelling everybody to Jose his dignity
 
 1 3 2
@@ -5596,13 +5596,13 @@ to say, the Nazis
 in the face of disaster, we may recall the attitude of the
 French Jewish war veterans who were offered
 the same
-Privileges by their govemment, and replied: "We soleronly declare that we renounce any exceptional benefits we may derive
+Privileges by their govemment, and replied: "We solemnly declare that we renounce any exceptional benefits we may derive
 from our status as ex-servicemen" [American Jewish Yearbook,
 1945].) Needless
 themselves never took
 these distinctions seriously, for them a Jew was a Jew, but
 the categories played a certain role up to the very end, since
-they helped put to rest a certain uneas iness among the German
+they helped put to rest a certain uneasiness uneasiness among the German
 population: only Polish Jews were deported, only people who
 had shirked military Service, and so on. For those who did
 not want to close their eyes it must have been clear from the
@@ -5610,7 +5610,7 @@ beginning that it "was a general practice to allow certain exceptions in order t
 more easily" (in the words of Louis de Jong in an illuminating
 article on "Jews and Non-Jews ln Nazi-Occupied Holland" ).
 What was morally so disastrous in the acceptance of these privileged categories was that everyone who demanded to have an
-"exception" made in his case implicitiy recognized the rule, but
+"exception" made in his case implicitly recognized the rule, but
 this point, apparently, was never grasped by these "good men,"
 Jewish and Gentile, who busied themselves about all those
 treatment could be
@@ -5636,7 +5636,7 @@ The W annsee C on feren ce, or Pontius Pilate
 
 13 3
 
-at least, that by being asked to make exceptions, and by occasionally granting them, and thus eaming gratitude, they had
+at least, that by being asked to make exceptions, and by occasionally granting them, and thus earning gratitude, they had
 convinced their opponents of the lawfulness of what they were
 doing.
 
@@ -5647,8 +5647,8 @@ explicitly stated during the Wannsee Conference» the establishment of Theresien
 prompted by the great number of such interventions from all
 sides. Theresienstadt later became a showplace for visitors from
 abroad and served to deceive the outside world, but this was
-not its original raison d'Stre. The horrible thinning-out process
-that iegularly occurred in this "paradise"— "distinguished from
+not its original raison raison d'être. The horrible thinning-out process
+that regularly occurred in this "paradise"— "distinguished from
 other camps as day is from night," as Eichmann right] y remarked— was necessary because there was never enough room to
 provide for all who were privileged, and we know from a
 directive issued by Ernst Kaltenbrunner, head of the R.S.H.A.,
@@ -5664,7 +5664,7 @@ Jew is first-rate"
 (H ilberg). H itler himself is said to have
 known three hundred and forty "first-rate Jews," whom he had
 either altogether assimilated to the status of Germans or granted
-the Privileges of half-Jews. Thonsands of half-Jews had been
+the Privileges of half-Jews. Thousands of half-Jews had been
 exempted from aU restrictions, which might explain Heydrich's
 role in the S.S. and Generalfeldmarschall E rhard Milch's role in
 Göring's Air Force, for it was generally known that Heydrich
@@ -5672,7 +5672,7 @@ and Milch were half-Jews. (Among the major war criminals,
 only two repented Ln the face of death: Heydrich, during the
 nine days it took him to die from the wounds inflicted by
 Czech patriots, and Hans Frank in his death cell at Nuremberg. It
-is an uncomfortable fact, for it is dißicult not to suspect that what
+is an uncomfortable fact, for it is dißdifficult not to suspect that what
 Heydrich at least repented of was not murder but that he had
 
 13 4
@@ -5680,7 +5680,7 @@ Heydrich at least repented of was not murder but that he had
 betrayed his own people.) If interventions on behalf of "prominent" Jews came from "prominent" people, they often were
 quite successful. Thus Sven Hedin, one of Hitler's most ardent
 admirers, intervened for a well-known geographer, a Professor
-PhiJippsohn of Bonn, who was " living under undignified conditions at Theresienstadt"; in a Ietter to Hitler, Hedin tbreatened
+PhiJippsohn of Bonn, who was " living under undignified conditions at Theresienstadt"; in a Ietter to Hitler, Hedin threatened
 to Gennany would be dependent upon
 that "his attitude
 Philippsohn's fate," whereupon (according to H. G. Adler's
@@ -5689,7 +5689,7 @@ book on Theresienstadt) Mr. Pbilippsobn was promptly provided with better quarte
 In Germany today, this notion of "prominent" Jews has not
 yet been forgotten. While the veterans and other privileged
 groups are no longer mentioned, the fate of <<famous" Jews
-is still depiored at the expense of alJ others. There are more
+is still deplored at the expense of alJ others. There are more
 than a few people, especially among the cultural elite, who still
 publicly regret the fact that Germany sent Einstein packing,
 without realizing
@@ -5708,8 +5708,8 @@ over and over again; he not only obeyed Orders, he also obeyed
 the law. Eichmann had a muddled inkling that this could be an
 important distinction, but neither the defense nor tbe judges
 ever took him up on it. The well-wom coins of "superior Orders"
-versus "acts of state" were handei back and forth; they had
-govemed the whole discussion of
+versus "acts of state" were handed back and forth; they had
+governed the whole discussion of
 these matters during the
 Nuremberg Trials, for no other reason than that they gave the
 judged
@@ -5720,7 +5720,7 @@ last man in the courtroom to be expected to challenge these
 notions and to strike out on his own. Since, in addition to performing what he conceived to be the duties of a law-abiding
 citizen, he had also acted upon orders— always so careful to be
 "covered"— he became completely muddled, and ended by
-stressing altemately the virtues and the vices of blind obedience,
+stressing alternately the virtues and the vices of blind obedience,
 or the "obedience of corps es," Kadavergehorsam, as he himself
 called it.
 
@@ -5728,7 +5728,7 @@ the altogether unprecedented could be
 
 The first indication of Eichmann's vague notion that there
 was more involved in this whole business than the question of
-the soldier's canym g out Orders that are clearly criminal in
+the soldier's canny g out Orders that are clearly criminal in
 nature and intent appeared during the police examination, when
 he suddenly declared with great emphasis that he had lived his
 whole life according to Kant's moral precepts, and especially
@@ -5747,15 +5747,15 @@ my will must always be such that it can become the principle of
 general laws" (which is not the case with theft or minder, for
 instance, because the thief or the murderer cannot conceivably
 wish to live under a legal system that would give others the right
-to rob or murder him ). Upon further questioniug, he added that
+to rob or murder him ). Upon further questioning, he added that
 he had read K ant's Critique of Practical Reason. He then proceeded to explain that from the moment he was charged with
 carrying out the Final Solution he had ceased to live according
 to Kantian principles, that he had known it, and that he had
 consoled himself with the thougbt that he no longer "was master
-of his own deeds," that he was uoable "to change anything."
+of his own deeds," that he was unable "to change anything."
 What he failed to point out in court was that in this "period of
 crimes legalized by the state," as he himself now called it, he
-had not simply dismissed the Kantian fonnula as no longer
+had not simply dismissed the Kantian formula as no longer
 applicable, he had distorted it to read: Act as if the principle of
 your actions were tbe same as that of the legislator or of the law
 of the land— or, in Hans Frank's formulation of "the categorical
@@ -5771,7 +5771,7 @@ with what he himself called the version of Kant "for the household use of the li
 of Kant's spirit is the demand that a man do more than obey
 the law, that he go beyond the mere call of obedience and
 
-D u tie s o f a L a w -A bidin g C itizen
+D u tie s o f a L a w -A abiding g C itizen
 
 13 7
 
@@ -5826,7 +5826,7 @@ allegedly shouted at him, "If up to now you have been busy
 liquid ating Jews, you will from now on, since I order it, take
 good care of Jews, act as their nursemaid. I remind you that it
 was I— and neither Gruppenführer Müller nor you— who founded
-the R.S.H.A, in 1933; I am the one who gives Orders herel"
+the R.S.H.A, in 1933; I am the one who gives Orders here"
 Sole witness to substantiate these words was the very dubious
 Mr. Kurt Becher; Eichmann denied that Himmler had shouted
 at him, but he did not deny that such an interview had taken
@@ -5841,15 +5841,15 @@ have been a shattering experience for Eichmann.
 Eichmann's last crisis of conscience began with his missions
 to Hungary in March, 1944, when the Red Army was moving
 through the Carpathian Mountains toward the Hungarian border.
-Hungary had joined the war on Hitier's side in 1941, for no
+Hungary had joined the war on Hitler's side in 1941, for no
 other reason than to receive some additional territory from her
 neighbors, Slovakia, Rumania, and Yugoslavia. The Hungarian
 govemment had been outspokenly anti-Semitic even before that,
 and now it began to deport all stateless Jews from the newly
 acquired territories. (In nearly all countries, anti-Jewish action
-started with stateless persons.) This was quite O utside the Final
+started with stateless persons.) This was quite O outside the Final
 Solution, and, as a matter of fact. didn't fit in with the elaborate
-pjans
+plans
 in preparation under which Europe would be
 "combed from West to East," so that Hungary had a rather low
 priority in the order of operations. The stateless Jews had been
@@ -5897,9 +5897,9 @@ ready to include the Hungarian Jews" ; it would be too costly
 one category, and hence "without making any progress in the
 solution of the Jewish problem in Hungary." Now, in 1944,
 Hungary was "ready," because on the nineteenth of M arch two
-divisions of the German Army had occupied the countiy. With
+divisions of the German Army had occupied the country. With
 them had arrived the new Reich Plenipotentiary, S.S. Standartenführer Dr. Edmund Veesenmayer, Himmler's agent in the
-Foreign Office, and S.S. Obergruppenführer Otto Winkelmaim,
+Foreign Office, and S.S. Obergruppenführer Otto Winkelmann,
 a member of the Higher S.S. and Police Leader Corps and
 therefore under the direct command of Himmler. The third S.S.
 official to arrive in the country was Eichmann, th e expert on
@@ -5918,7 +5918,7 @@ to be massacred"
 
 the Jews
 
-Eichmann's assignment was clear, His whole ofiSce was
+Eichmann's assignment was clear, His whole office was
 moved to Budapest (in terms of his career, this was a "gliding
 down" ), to enable him to see to it that all "necessary steps"
 were taken. H e had no foreboding of what was to happen; his
@@ -5927,7 +5927,7 @@ Hungarians, which he would have been unable to cope with,
 because he lacked manpower and also lacked knowledge of
 local conditions. These fears proved quite unfounded. The
 Hungarian gendarmerie was more than eager to do all that was
-necessary, and the new State Secretaiy in Charge of Political
+necessary, and the new State Secretary in Charge of Political
 (Jewish) Affairs in the Hungarian Ministry of the Interior,
 Läszlo Endre, was a man "well versed in the Jewish problem,"
 and became an intimate friend, with whom Eichmann could
@@ -5990,7 +5990,7 @@ account, the reason Becher joined the S.S. was that "from 1932
 to the present day h e had been actively engaged in horseback
 riding." Thirty years ago, this was a sport engaged in only by
 Europe's upper classes. In 1934, bis instructor had persuaded
-him to enter the S.S. cavaliy regiment, which at that moment
+him to enter the S.S. cavalry regiment, which at that moment
 was the very thing for a man to do if he wished to join the
 "movement" and at the same time maintain a proper regard for
 his social Standing. (A possible reason Becher in his testimony
@@ -6017,9 +6017,9 @@ return, to give the owners free passage out of the country, plus
 a sizable amount of money in foreign currency. His most
 important transaction was with the M anfred Weiss Steel combine,
 a mammoth enterprise, with thirty thousand workers, which
-produced everything from aivplanes, trucks, and bicycles to
+produced everything from airplanes, trucks, and bicycles to
 tinned goods, pins, and needles. The result was that forty-five
-members of the Weiss famiiy emigrated to Portugal while Mr.
+members of the Weiss family emigrated to Portugal while Mr.
 Becher became head of their business. When Eichmann heard
 of this Schweinerei, he was outraged; the deal threatened to
 compromise his good relations with
@@ -6054,9 +6054,9 @@ D u ties o f a L a w -A b id in g C itizen
 almost unlimited possibilities for making money. The one thing
 that stood in his way was the narrow-mindedness of subordinate
 creatures like Eichmann, who took their jobs seriously. Obersturmbannführer Becher's projects soon led him to cooperate
-closely in the rescue eSorts of Dr. Rudolf Kästner. (It was to
+closely in the rescue efforts of Dr. Rudolf Kästner. (It was to
 Kastner's testimony on his behalf that Becher later, at Nuremberg, owed his freedom. Being an old Zionist, Kästner had
-moved to Israel after the war, where he held a high positionuntil a joumalist published a story about his collaboration with
+moved to Israel after the war, where he held a high position until a joumalist published a story about his collaboration with
 the S.S.— whereupon Kästner sued him for libel. His testimony
 at Nuremberg weighed heavily against him, and when the case
 came before the Jerusalem District Court, Judge Halevi, one of
@@ -6091,7 +6091,7 @@ old "radical" Orders, which still reached Eichmann through
 in the
 Müller and Kaltenbrunner, his
 
-immediatee superiors
+immediate superiors
 
 R.S.H.A. In Eichmann's view, people like Becher were corrupt,
 but corruption could not very well have caused his crisis of
@@ -6127,7 +6127,7 @@ for power that was going on all around him. When the exchange
 project met with its predictable failure, it was already common
 knowledge
 that Himmler, despite his constant vacillations,
-chiefly due to his justified physiciil fear of Hitler, had decided
+chiefly due to his justified physical fear of Hitler, had decided
 to put an end to the whole Final Solution-—regardless of business, regardless of military necessity, and without anything to
 show for it except the illusions he had concocted about his
 future role as the bringer of peace to Germany. It was at this
@@ -6140,7 +6140,7 @@ D u ties o f a L aw -A biding C itizen
 consisting of those who were stupid enough to believe that a
 murderer who could prove he had not killed as many people as
 he could have killed would have a marvelous alibi, and those
-who were clever enough to foresee a retura to "normal conditions," when money and good connections would again be of
+who were clever enough to foresee a return to "normal conditions," when money and good connections would again be of
 param ount importance.
 
 it
@@ -6192,7 +6192,7 @@ end began carefully preparing an alibi for himself at the expense
 of Eichmann, to which he then treated the court at Nuremberg,
 where he was a witness for the prosecution; it did him no good,
 for he was extradited
-to Czechostovakia, prosecuted and
+to Czechoslovakia, prosecuted and
 executed in Prague, where he had no connections and where
 money was of no help to h im ). Other witnesses claimed that it
 was Rolf Günther, one of Eichmann's men, who planned this,
@@ -6210,7 +6210,7 @@ was only whether this was indeed proof of his fanaticism, his
 boundless hatred of Jews, and whether he had lied to the police
 and committed perjury in court when he claimed he had always
 obeyed Orders. No other explanation ever occurred to the judges,
-who tried so hard to understand the accused, and trealed him
+who tried so hard to understand the accused, and treated him
 with a consideration and an authentic, shining humanity such
 as he had probably never encountered before in his whole life.
 (Dr. Wechtenbruch told reporters that Eichmann had "great
@@ -6220,7 +6220,7 @@ need for authority. Whatever its basis, the confidence was apparent throughout t
 judgment caused Eichmann such great "disappointment"; he
 had mistaken humanity for softness.) That they never did come
 to understand him may b e proof of the "goodness" of the three
-men, of their untroubJed and slightly old-fashioned faith in the
+men, of their untroubled and slightly old-fashioned faith in the
 moral foundations of their profession. For the sad and very
 uncomfortable truth of the matter probably was that it was not
 his fanaticism but his very conscience that prompted Eichmann
@@ -6232,7 +6232,7 @@ D u ties o f a L aw -A b id in g C itizen
 1 4 7
 
 for a short time three years before. Eichmann knew
-Himmler's orders ran directly counter to the Fiibrer's order. For
+Himmler's orders ran directly counter to the Führer's order. For
 this, he neeäed to know no factual details, though such details
 would have backed him up: as the prosecution underlin#d in the
 proceedings before
@@ -6264,7 +6264,7 @@ transferred from the desk concerned with "Jewish Affairs" to the
 utterly insignificant one concemed with the "Fight Against the
 Churches," of which, moreover, he knew nothing. The rapidity
 of his decline during the last months of the war is a most telling
-sign of the extent to which H itler was right when he declaxed,
+sign of the extent to which H itler was right when he declared,
 in his Berlin bunker, in April, 1945, that the S.S. were no longer
 reliable.
 
@@ -6292,7 +6292,7 @@ positive law— and sometimes the law that supposedly speaks in
 all men's hearts with an identical voice. Practically speaking,
 however, Orders to be disobeyed must be "manifestly unlawful"
 and unlawfulness must "fly like a black flag above [them] as a
-waraing reading: 'Prohibited!' "— as the judgment pointed out.
+warning reading: 'Prohibited!' "— as the judgment pointed out.
 And in a criminal regime this "black flag" with its "waming
 sign" flies as "manifestly" above what normally is a lawful
 order— for instance, not to kill innocent people just because
@@ -6309,7 +6309,7 @@ D u ties o f a L aw -A b id in g C itizen
 
 14 9
 
-Himmler was now giving "crimmal" Orders that determined his
+Himmler was now giving "criminal" Orders that determined his
 actions. But the personal element undoubtedly involved was not
 fanaticism, it was his genuine, "boundless and immoderate
 admiration for Hitler" (as one of the defense witnesses called
@@ -6321,7 +6321,7 @@ Reich when Germany was already in rums. Both motives came
 into play once more during the last days of the war, when he
 was in Berlin and saw with violent In d ig n a tio n how everybody
 around him was sensibly enough getting himself fixed up with
-forged papers before the arrival of the Russians or the Amencans. A few weeks later, Eichmann, t o o , began to travel under
+forged papers before the arrival of the Russians or the Americans. A few weeks later, Eichmann, t o o , began to travel under
 an assumed name, but by then Hitler was dead, and the "law
 of the land" was no longer in existence, and he, as he pointed
 out, was no longer bound by his oath. For the oath taken by the
@@ -6341,14 +6341,14 @@ it was not an order but a law which had turned them all into
 criminals. The distinction between an order and the Führer's
 word was that the latter's validity was not limited in time and
 space, which is the outstanding characteristic of the former.
-This is also the true reasoa why the Führer's order for the Final
+This is also the true reason why the Führer's order for the Final
 Solution was followed by a huge shower of regulations and
 directives, all drafted by expert lawyers and legal advisers, not
 in contrast to ordinary
 this order,
 by mere administrators;
 orders, was treated as a law. Needless to add, the resulting legal
-paraphemalia, far from being a mere Symptom of German
+paraphernalia, far from being a mere Symptom of German
 
 1 50
 
@@ -6377,7 +6377,7 @@ Austria, and the Protectorate
 
 Between the Wannsee Conference
 in January, 1942, when
-Eichmann feit like Pontius Pilate and washed his hands in iiinocence, and Himmler's Orders in the summer and fall of 1944,
+Eichmann feit like Pontius Pilate and washed his hands in innocence, and Himmler's Orders in the summer and fall of 1944,
 when behind H itler's back
 the Final Solution was abandoned as though the massacres had been nothing but a regrettable mistake, Eichmann was troubled by no questions of conscience. His thoughts were entirely taken up with the staggering
 job of organization and administration in the midst not only of a
@@ -6397,7 +6397,7 @@ who for reasons of prestige preferred to work through the
 Higher S.S. and Police Leaders. T here were, furthermore, the
 Army commanders in the Eastem occupied territories, who liked
 to solve problems "on the spot," which m eant shooting; the
-military men in Western countries were, on the other hand, always reluctant to cooperate and to lend their tioops for the
+military men in Western countries were, on the other hand, always reluctant to cooperate and to lend their troops for the
 
 15 2
 
@@ -6417,7 +6417,7 @@ a key position in the whole process, because his office organized
 the means of transportation. According to Dr. Rudolf Mildner,
 Gestapo head in U pper Silesia (where Auschwitz was located)
 and later chief of the Security Police in Denmark, who testified for the prosecution at Nuremberg, orders for deportations
-were given by Himmler in writing to KaJtenbrunner, head of the
+were given by Himmler in writing to Kaltenbrunner, head of the
 R.S.H.A., who notified Müller, head of the Gestapo, or Section IV
 of R.S.H.A., who in turn transmitted the Orders orally to bis
 referent in IV-B-4— that is, to Eichmann. Himmler also issued
@@ -6431,7 +6431,7 @@ inspector of the concentration and extermination camps, who
 in turn passed them along to the commanders of the camps.
 The prosecution ignored these documents from the Nuremberg
 Trials, since they contradicted its theory of the extraordinary
-power held by Eichmann; the defense mentioned Mildner's
+power held by Eichmann; the defense mentioned Mildner
 affidavits, but not to much purpose. Eichmann himself, after
 "C onsu lting Poliakoff and Reitlinger," produced seventeen multicolored charts, which contributed little to a better understanding
 of the intricate bureaucratic machinery of the Third Reich,
@@ -6457,8 +6457,8 @@ could or should be transported from any given area, and it
 was through his office that the ultimate destination of the shipm ent was cleared, though that destination was not determined by
 him. But the difficulty in synchronizing departures and arrivals,
 the endless worry over wrangling enough rolling stock from the
-raiJroad authorities and the Ministry of Transport, over fixing
-timetables and directing trains to centers with sufificient "absorptive capacity," over having enough Jews on hand at the proper
+railroad authorities and the Ministry of Transport, over fixing
+timetables and directing trains to centers with sufficient "absorptive capacity," over having enough Jews on hand at the proper
 time so that no trains would be "wasted," over enlisting the help
 of the authorities in occupied or allied countries to carry out
 arrests, over following the rules and directives with respect to
@@ -6492,15 +6492,15 @@ become so numerous th at in Central and Western Europe they
 were feit to be the rule. Hence, the confidence that the people
 would eventually survive no longer held great significance for
 large sections of the Jewish communities; they could no more
-imagine Jewish life outside the framework of European civilization than they could have picturcd to themselves a Europe
+imagine Jewish life outside the framework of European civilization than they could have pictured to themselves a Europe
 that was judenrein.
 
 The end of the world, though carried through with remarkable
-monotony, took almost as many different shapes and appearances as there existed countries in Europe. This will corae as no
+monotony, took almost as many different shapes and appearances as there existed countries in Europe. This will come as no
 surprise to the historian familiar with the development of E uropean nations and with the rise of the nation-state system, but
 it came as a great surprise to the Nazis, who were genuinely
 convinced that anti-Semitism could become the common denominator that would unite all Europe. This was a huge and costly
-error. It quickly türned out that in practice, though perhaps
+error. It quickly tüturned out that in practice, though perhaps
 not in theory, there existed great differences among anti-Semites
 in the various countries. What was even more annoying, though
 it might easily have been predicted, was that the German
@@ -6526,13 +6526,13 @@ D eportation s fro m the Reich
 
 15 5
 
-vvhiie Poles of German origin ( Volksdeutsche) were shipped
+white Poles of German origin ( Volksdeutsche) were shipped
 westward ''back into the Reich." Himmler, in his capacity as
 Reich Commissioner for the Strengthening of German Folkdom,
-had entrustcd Heydrich with this "emigration and evacuation,"
+had entrusted Heydrich with this "emigration and evacuation,"
 and in January, 1940, Eichmann's first official department in the
 R.S.H.A., Bureau IV-D-4, was set up. Though this position
-proved administratively to be the sfepping-stone to his later job
+proved administratively to be the stepping-stone to his later job
 in Bureau 1V-B-4, Eichmann's work here was no more than a
 kind of apprenticeship, the transition between his old job of
 making people emigrate and his future task of deporting them.
@@ -6546,9 +6546,9 @@ text that "their apartments were urgently required for reasons
 connected with the war economy." They were taken, under
 unusually atrocious conditions, to the Lublin area of Poland. The
 second deportation took place in the fall of the same year: all
-the Jews in Baden and the Saarpfalz— about seventy-five hundred men, women, and chiJdren— were shipped, as I mentioned
+the Jews in Baden and the Saarpfalz— about seventy-five hundred men, women, and children— were shipped, as I mentioned
 earlier, to Unoccupied France, which was at that moment quite
-a trick, since nothing in the Franco-German Annistice agreement stipulated that Vichy France could become a dumping
+a trick, since nothing in the Franco-German Armistice agreement stipulated that Vichy France could become a dumping
 ground for Jews. Eichmann had to accompany the train himself
 in order to convince the French stationmaster at the border that
 this was a German "müitary transport."
@@ -6559,9 +6559,9 @@ their nationality the moment they were deported
 the
 Reich, and instead of the many forms Jews eventually had to fill
 out in arranging for the confiscation of their property, the Stettin
-Jews simply signcd a general waiver, covering everything they
+Jews simply signed a general waiver, covering everything they
 owned. Clearly, it was not the administrative apparatus that these
-first operations were supposed to te st The objective seeras to
+first operations were supposed to te st The objective seemed to
 have been a test of general politica] conditions— whether Jews
 could be made to walk to their doom on their own feet,
 
@@ -6577,7 +6577,7 @@ from Baden, how a foreign govemment would react to being
 suddenly presented with thousands of Jewish "refugees." As far
 as the Nazis could see, everything tum ed out very satisfactorily.
 In Germany, there were a number of interventions for "special
-cases"— for the poet AJSred Mombert, for instance, a member
+cases"— for the poet Alfred Mombert, for instance, a member
 of the Stefan. George circle, who was permitted to depart to
 Switzerland— but the population at large obviously could not
 have cared less. (It was probably at this moment that Heydrich
@@ -6586,7 +6586,7 @@ agreement, to establish Theresienstadt and Bergen-Belsen.) In
 France, something even better happened: the Vichy govemment
 put all seventy-five hundred Jews from Baden in the notorious
 concentration camp at Guts, at the foot of the Pyrenees, which
-had originaliy been bullt for the Spanish Republican A im y and
+had originally been built for the Spanish Republican A im y and
 had been used since M ay of 1940 for the so-called "räfugies
 provenant d A l l e m a g n e the large majority of whom were, of
 course, Jewish. (When the Final Solution was put into effect
@@ -6659,7 +6659,7 @@ nation and the State." This kind of confiscation had been customary in the case 
 camps, and though Jews did not belong in this category— all
 concentration camps in Germany and Austria had become judenrein by the fall of 1942— it took only one more regulation, issued
 in March, 1942, to establish that all deported Jews were *'hostile
-to the nation and the State." The Nazis took their ovra legislation
+to the nation and the State." The Nazis took their vorra legislation
 quite seriously, and though they talked among themselves of
 "the Theresienstadt ghetto" or "the ghetto for old people,"
 Theresienstadt was officially classified as a concentration camp,
@@ -6688,7 +6688,7 @@ court followed the definitions of "criminal organizations" established at Nuremb
 the Security Police were ever mentioned, although their active involvement in the implementation of the Final Solution had by
 this time been amply substantiated. But even if all the police
 units had been added to the four organizations recognized as
-"criminal"— the leadership corps of the Nazi Party, the Gestapp,
+"criminal"— the leadership corps of the Nazi Party, the Gestapo,
 the S.D., and the S.S.— the Nuremberg distinctions would have
 remained inadequate and inapplicable to the reality of the Third
 Reich. For the truth of the matter is that there existed not a single organization or public institution in Germany, at least during
@@ -6719,15 +6719,15 @@ trial. It was in reference to these people that Eichmann was
 accused of having shown inordinate zeal lest a single Jew escape
 him. This zeal he shared, as Reitlinger says, with the "professional bureaucrats of the Foreign Office, [to whom] the flight of
 a few Jews from torture and slow death was a matter of the
-gravest concera," and whom he had to consult on all such cases.
-As far as Eichmann was concemed, the sixnplest and most logical
+gravest concern," and whom he had to consult on all such cases.
+As far as Eichmann was concemed, the simplest and most logical
 solution was to deport all Jews regardless of their nationality.
 According to the directives of the Wannsee Conference, which
-was held in the Iieyday of Hitler's victories, the Final Solution
+was held in the Heyday of Hitler's victories, the Final Solution
 was to be applied to all European Jews, whose number was estimated at eleven million, and such things as nationality or the
 rights of allied or neutral countries with respect to their citizens
 were not even mentioned. But since Germany, even in the brightest days of the war. depended upon local good will and cooperation everywhere, these little formalities could not be sneezed a t
-It was the task of the experienced diplomats of the Foreign Service to find ways out of this particular "forest of dijfficulties," and
+It was the task of the experienced diplomats of the Foreign Service to find ways out of this particular "forest of difficulties," and
 the most ingenious of these consisted in the use of foreign Jews
 in German territory to test the general atmosphere in their home
 countries. The method by which this was done, though simple,
@@ -6770,7 +6770,7 @@ H ow easy it was to set the conscience of the Jews' neighbors at
 rest is best illustrated by the official explanation of the deportations given in a circular issued by the Party Chancellery in the fall
 of 1942: "It is the nature of things that these, in some respects,
 very difficult problems can be solved in the interests of the
-permanent security of our people only with ruthless loughness"
+permanent security of our people only with ruthless ruthlessness"
 — rücksichtsloser Härte (my italics).
 
 X : Deportations from Western Europe—France,
@@ -6780,7 +6780,7 @@ Belgium, Holland, Denmark, Italy
 "Ruthless toughness," a quality held in the highest esteem by
 the rulers of the Third Reich, is frequently characterized in
 postwar Germany.. which has developed a veritable genius for
-U n d ersta tem en t with respect to her Nazi past, as being ungut—
+U n d ersta tem en t with respect to her Nazi past, as being ungood—
 lacking goodness— as though nothing had been wrong with those
 endowed with this quality but a deplorable failure to act
 according to the exacting Standards of Christian charity. In any
@@ -6803,11 +6803,11 @@ introduced, on its own initiative, a great deal of anti-Jewish
 legislation; it had even established a special Department for
 Jewish Affairs, headed first by Xavier Vallant and somewhat
 
-D eportaiion s from W estern E u rope
+D Deportations s from W estern E u rope
 
 16 3
 
-later by Darquier de PelJepoix, both wefl-known anti-Semites.
+later by Darquier de PelJepoix, both well-known anti-Semites.
 As a concession to the French brand of anti-Semitism, which
 was intimately connected with a strong, generally chauvinistic
 xenophobia in alt strata of the population, the O peration was to
@@ -6828,13 +6828,13 @@ evacuated from the Occupied Zone and from Vichy France with
 all speed. This w as a considerable undertaking, which needcd
 not only the agreement of the Vichy govemment but the active
 help of the French police, who were to do the work done in
-Germany by the Order Police. A t first, there were no difliculties
+Germany by the Order Police. A t first, there were no difficulties
 whatever, since, as Pierre Laval, Premier under Marshai Petain,
 pointed out, "these foreign Jews had always been a problem in
 France," so that the "French govemment was glad that a change
 in the German attitude toward them gave France an opportunity to get rid of them." It must be added that Laval and
 Petain thought in terms of these Jews' being resettled in the East;
-they did not yet know what "resettiement" meant.
+they did not yet know what "resettlement" meant.
 
 Two incidents, in particular, attracted the attention of the
 Jerusalem court, both of which occurred in the summer of 1942,
@@ -6854,7 +6854,7 @@ the efficiency of his apparatus— and that he would "have to
 consider whether France should not be dropped altogether as
 if such an incident was
 far as evacuation was concemed"
-repeated. In Jerusalem, this thjreat was taken very seriously, as
+repeated. In Jerusalem, this threat was taken very seriously, as
 proof of Eichmann's power; if he wished, he could "drop
 France.1' Actually, it was one of Eichmann's ridiculous boasts,
 proof of his "driving power" but hardly "evidence of . . . his
@@ -6866,13 +6866,13 @@ stories told at Jerusalem. This was the story of four thousand
 children, separated from their parents who were already on their
 way to Auschwitz. The children had been left behind at the
 French collection point, the concentration camp at Drancy, and
-on July 10 Eichmarm's French representative, Hauptsturmfübrer Theodor Dannecker, phoned him to ask what was to be
+on July 10 Eichmann's French representative, Hauptsturmfübrer Theodor Dannecker, phoned him to ask what was to be
 done with them. Eichmann took ten days to decide; then he
 called Dannecker back to teil him that "as soon as transports
 could again be dispatched to the General Govemment area
 [of Poland], transports of children could roll." Dr. Servatius
 pointed out that the whole incident actually demonstrated that
-the "persons afiected were determined neither by the accused
+the "persons affected were determined neither by the accused
 nor by any members of his Office." But what, unfortunately, no
 one mentioned was that Dannecker had informed Eichmann
 that Laval himself had proposed that children under sixteen be
@@ -6893,35 +6893,35 @@ D ep o rta tio n s fro m W estern E urope
 
 16 5
 
-matters. This caused a complete tumabout; the French were
+matters. This caused a complete turnabout; the French were
 adamant in their refusal to hand over their own Jews to the
 Germans, And Himmler, upon being informed of the Situation
 — not by Eichmann or his men, incidentally, but by one of
-the Higher S.S. and Police Leaders— knmediately gave in and
+the Higher S.S. and Police Leaders— immediately gave in and
 promised to spare French Jews. But now it was too late. The
 first rumors about "resettlement" had reached France, and while
 French anti-Semites, and non-anti-Semites too, would have liked
 to see foreign Jews settle somewhere eise, not even the anti-
-Semites wished to become aecomplices in mass murder. Hence,
-the French now refused to take a Step they had eagerly coqtemplated only a short time before, that is, to revoke naturalizations granted to Jews after 1927 (or after 1933), which would
-have made about fifty thousand more Jews eligible for deportation. They also started making such endiess difficulties with
+Semites wished to become accomplices in mass murder. Hence,
+the French now refused to take a Step they had eagerly contemplated only a short time before, that is, to revoke naturalizations granted to Jews after 1927 (or after 1933), which would
+have made about fifty thousand more Jews eligible for deportation. They also started making such endless difficulties with
 regard to the deportation of stateless and other foreign Jews
-that all the ambitious plans for the evacuadon of Jews from
+that all the ambitious plans for the evacuation of Jews from
 France did indeed have to be "dropped." Tens of thousands of
 stateless persons went into hiding, while thousands more fled
-to the Italian-occupied Fiench zone, the Cote d'Azur, where
-Jews were safe, whatevei their origin or nationality, In the
+to the Italian-occupied French zone, the Cote d'Azur, where
+Jews were safe, whatever their origin or nationality, In the
 summer of 1943, when Germany was declared judenrein and
 the AUies had just landed in Sicily, no more than fifty-two
 thousand Jews, certainly less than twenty per cent of the total,
 had been deported. and of these no more than six thousand
 possessed French nationality. Not even Jewish prisoners of war
-in the German intemraent camps for the French Army were
+in the German internment camps for the French Army were
 two
 singled out for "special
 months before the Allies landed in France, there were still two
 hundred and fifty thousand Jews in the country, and they all
-sujrvived the war, The Nazis, it turaed out, possessed neither
+survived the war, The Nazis, it turned out, possessed neither
 the manpower nor the will power to remain "tough" when they
 met detennined Opposition. The truth of the matter was, as we
 shall see, that even the members of the Gestapo and the S.S.
@@ -6940,21 +6940,21 @@ been rather low, probably because of the high figure set for
 France. No more than ten thousand Jews from Belgium and
 fifteen thousand from Holland were to be seized and deported
 in the immediate future. In both cases the figures were later
-the difficuliies
+the difficulties
 significantly enlarged, probably because of
 encountered in the French operation. The S itu ation of B e l g iu m
 was peculiar in some respects. The country was ruled exclusively
 by German military authorities, and the police, as a Belgian
-govemment report subraitted to the court pointed out, "did not
+govemment report submitted to the court pointed out, "did not
 have the same influence upon the other German administration
-services that they enjoyed in other pJaces." (Belgium's governor,
+services that they enjoyed in other places." (Belgium's governor,
 General Alexander von Falkenhausen, was later implicated in
 the July, 1944, conspiracy against Hitler.) Native collaborators
 were of importance only in Flanders; the Fascist movement
-among the French-speaking Walloons. headed by DegreHe, had
+among the French-speaking Walloons. headed by Degrelle, had
 little influence. The Belgian police did not cooperate with the
 Germans, and the Belgian railway men could not even be
-trusted to leave deportauon trains alone. They contrived to leave
+trusted to leave deportation trains alone. They contrived to leave
 doors unlocked or to arrange ambushes, so that Jews could
 escape. Most peculiar was the composition of the Jewish population. Before the outbreak of war, there were ninety thousand
 Jews, of whom about thirty thousand were German Jewish
@@ -6968,13 +6968,13 @@ among native Jews. With this "lack of understanding" on all
 sides, it is not surprising that very few Belgian Jews were
 deported. But recently naturalized and stateless Jews— of Czech,
 Polish, Russian, and German origin, many of whom had only
-recently arrived-—were easily recognizable and rnost difficult to
+recently arrived-—were easily recognizable and most difficult to
 hide in the small, completely industrialized country. By the end
 of 1942, fifteen thousand had been shipped to Auschwitz, and by
 the fall of 1944, when the Allies liberated the country, a total
 of twenty-five thousand had been killed. Eichmann had his
 usual "adviser" in Belgium, but the adviser seems not to have
-been very active in these operations. They were cairied out,
+been very active in these operations. They were carried out,
 
 D ep o rta tio n s fro m W estern E u rope
 
@@ -6986,9 +6986,9 @@ from the Foreign Office.
 the deportations from
 As in practically all other countries,
 H o l l a n d started with stateless Jews, who in this instance consisted almost entirely of refugees from Germany, whom the
-prewar Dutch govemment had officially declared to be "undesira b le " There were about thirty-five thousand foreign Jews altogether in a total Jewish population of a hundred and forty
+prewar Dutch govemment had officially declared to be "undesirable b le " There were about thirty-five thousand foreign Jews altogether in a total Jewish population of a hundred and forty
 thousand. Unlike Belgium, Holland was placed under a civil
-administration, and, unlike France, the country had no eovernment of its own, since the cabinet, together with the royal family,
+administration, and, unlike France, the country had no government of its own, since the cabinet, together with the royal family,
 had fied to London. The small nation was utterly at the mercy
 of the Germans and of the S.S. Eichmann's "adviser" in Holland
 was a certain Willi Zopf (recently arrested in Germany, while
@@ -6996,7 +6996,7 @@ the much more efficient adviser in France, Mr. Dannecker, is
 still at large) but he apparently had very little to say and could
 hardly do more than keep the Berlin office posted. Deportations and everything connected with them were handled by the
 lawyer Erich Rajakowitsch, Eichmann's former legal adviser in
-Vienna and Prague, who was admitted to the S.S. upon Eichto Holland by
+Vienna and Prague, who was admitted to the S.S. upon Eichmann Holland by
 mann's recommendation. He had been sent
 Heydrich in April, 1941, and was directly responsible not to
 the R.S.H.A. in Berlin but to the local head of the Security
@@ -7005,13 +7005,13 @@ under the command of the Higher S.S. and Police Leader
 Obergruppenführer Hans Rauter and his assistant in Jewish
 affairs, Ferdinand aus der Fünten. (Rauter and F ünten were
 condemned to death by a Dutch court; Rauter was executed and
-Fünten's sentence, allegedly after special intervention from Adenauer, was commuted to life imprisonment. Harsten, too, was
+FüFünten sentence, allegedly after special intervention from Adenauer, was commuted to life imprisonment. Harsten, too, was
 brought to trial in Holland, sentenced to twelve years' imprisonment, and released in 1957, whereupon he entered the civil
 Service of the Bavarian state govemment. The Dutch authorities
 are considering proceedings against Rajakowitsch, who seems
 to live in either Switzerland or Italy. All these details have
 become known in the last year through the public ation of Dutch
-documents and the report by E. Jacob, D utch correspondent
+documents and the report by E. Jacob, D Dutch correspondent
 for the Basler Nationalzeitimg, a Swiss newspaper.) The prose-
 
 16 8
@@ -7066,7 +7066,7 @@ in Holland
 
 in the streets no
 
-the widespread hostiJity
+the widespread hostility
 
 their way around the country, and the problem posed by the
 Dutch population was by no means an easy one. Holland had
@@ -7096,13 +7096,13 @@ Jews. This m ade it relatively easy for the Nazis to form their
 Jewish Council, the Joodsche Raad, which remained for a long
 time under the impression th at only German and other foreign
 Jews would be victims of the deportations, and it also enabled
-the S.S. to enlist, in addition to Dutch police units, the belp
-of a Jewish police force. The result was a catastrophe unparalleled in any Western country; it can be compaied only with
+the S.S. to enlist, in addition to Dutch police units, the help
+of a Jewish police force. The result was a catastrophe unparalleled in any Western country; it can be compared only with
 the extinction, under vastly different and, from the beginning,
 completely desperate conditions, of Polish Jewry. Although, in
 contrast with Poland, the attitude of the Dutch people permitted
 a large num ber of Jews to go into hiding— twenty to twentyfive thousand, a very high figure for such a small country— yet
-an unusuaily large number of Jews living underground, at least
+an unusually large number of Jews living underground, at least
 
 17 0
 
@@ -7124,7 +7124,7 @@ L /
 its
 
 At the Wannsee Conference, M artin Luther, of the Foreign
-Office, wanvjd of sreat difficulties in the Scandinavian countries,
+Office, wanvjd of great difficulties in the Scandinavian countries,
 notably in Norway and Denmark. (Sweden was never occupied,
 and Finland, though in the war on the side of the Axis, was
 the one country the Nazis hardly ever even approached on the
@@ -7141,7 +7141,7 @@ along with Norway, had been invaded by tlie German Army
 in April, 1940. There existed no Fascist or Nazi movement in
 Denmark worth mentioning, and therefore no collaborators. In
 N o r w a y , however, the Germans had been able to find enthusiastic supporters; indeed, Vidkun Quisling, leader of the pro-Nazi
-and anti-Semitic Nonvegian party, gave his name to what later
+and anti-Semitic Norwegian party, gave his name to what later
 became known as a "quisling govemment." The bulk of Norway's
 seventeen hundred Jews were stateless, refugees from Germany;
 they were seized and intemed in a few lightning operations in
@@ -7155,10 +7155,10 @@ D eportation s fr o m W estern E u rope
 
 17 1
 
-immediately offered asylum, and sometiraes even Swedish
+immediately offered asylum, and sometimes even Swedish
 nationality, to all who were persecuted, Ernst von Weizsäcker,
 Undersecretary of State of the Foreign Office, who received
-the proposal, refuscd to discuss it, but the offer helped nevertheless. It is always relatively easy to get out of a country illegally,
+the proposal, refused to discuss it, but the offer helped nevertheless. It is always relatively easy to get out of a country illegally,
 whereas it is nearly impossible to enter the place of refuge
 without permission and to dodge the immigration authorities.
 Hence, about nine hundred people, slightly more than half of
@@ -7183,14 +7183,14 @@ Denmark, Sweden, Italy, and Bulgaria proved to be nearly
 immune to anü-Semitism, but of the three that were in the
 German sphere of infiuence, only the Danes dared speak out
 on the subject to their German masters. Italy and Bulgaria
-sabotaged German orders and indulged in a cornplicated game
-of double-dealing and double-crossin^, saving their Jews by a
+sabotaged German orders and indulged in a complicated game
+of double-dealing and double-crossing^, saving their Jews by a
 tour de force of sheer ingenuity, but chey never contested the
 policy as such. That was totally different from what the Danes
 did. When the Germans approached them rather cautiously about
 introducing the yellow badge, they were simply told that the
 King would be the first to wear it, and the Danish govemment
-officials were careful to point out that anti-Jewish measurcs of
+officials were careful to point out that anti-Jewish measures of
 any sort would cause their own immediate resignation. It was
 decisive in this whole matter that the Germans did not even
 succeed in introducing the vitally important distinction between
@@ -7241,17 +7241,17 @@ D eportation s from W estern E u rope
 17 3
 
 commander, refuse to put troops at the disposal of the Reich
-plenipotentiary, Dr. W erner Best; the special S.S. units (Einsatzkommandos) eraployed in Denmark very frequently objected
+plenipotentiary, Dr. W erner Best; the special S.S. units (Einsatzkommandos) employed in Denmark very frequently objected
 to "the measures they were ordered to carry out by the central
 agencies"— according to Best's testimony at Nuremberg. And
 Best himself, an old Gestapo man and fonner legal adviser to
 Heydrich, author of a then famous book on the police, who
 had worked for the military govemment in Paris to the entire
 satisfaction of his superiors, could no longer be trusted, although
-it is doubtful that Berlin ever leamed the extern of his uureliability. Still, it was clear from the beginning that things were not
+it is doubtful that Berlin ever leamed the extern of his unreliability. Still, it was clear from the beginning that things were not
 going well, and Eichmann's office sent one of its best men to
 Denmark— Rolf Günther, whom no one had ever accused of
-not possessing the rsquired "ruthless toughness." Günther made
+not possessing the required "ruthless toughness." Günther made
 no impression on his colleagues in Copenhagen, and now von
 Hannecken refused even to issue a decree requiring all Jews to
 report for work.
@@ -7266,16 +7266,16 @@ troops stationed in Denmark could be relied on to help, police
 units arrived from Germany for a door-to-door search. At the
 last moment, Best told them that they were not pennitted to
 break into apartments, because the Danish police might then
-interfere, and they were not supposed to fight it out witb the
+interfere, and they were not supposed to fight it out with the
 Danes. Hence they could seize only those Jews who voluntarily
 opened their doors. They found exactly 477 people, out of a
-total of more than 7,800, at home and wilJing to let them in.
+total of more than 7,800, at home and willing to let them in.
 A few days before the date of doom, a German shipping agent,
-Georg F. Duckwkz, having probably been tipped off by Best
+Georg F. Duckwitz, having probably been tipped off by Best
 himself, had revealed the whole plan to Danish government
 officials, who, in tum , had hurriedly informed the heads of the
 Jewish community. They, in marked contrast to Jewish leaders in
-other countries, had then communicatcd the news openly in the
+other countries, had then communicated the news openly in the
 synagogues on the occasion of the New Y ear services. H ie Jews
 had just time enough to leave their apartments and go into hiding,
 
@@ -7289,7 +7289,7 @@ They might have remained in hiding until the end of the
 war if the Danes had not been blessed with Sweden as a
 neighbor. It seemed reasonable to ship the Jews to Sweden,
 and this was done with the help of the Danish fishing fleet.
-T he cost of transportaiion for people without means— about a
+T he cost of transportation for people without means— about a
 hundred dollars per person— was paid largely by wealthy Danish
 citizens, and that was perhaps the most astounding feat of all,
 since this was a time when Jews were paying for their own
@@ -7308,7 +7308,7 @@ Sweden. The Swedes received 5,919 refugees, of whom at least
 were non-Jews married to Jews. (Almost half the Danish Jews
 seem to have remained in the country and survived the war in
 hiding.) The non-Danish Jews were better off than ever before,
-they all received pennission to work. The few hundred Jews
+they all received permission to work. The few hundred Jews
 whom the German police had been able to arrest were shipped
 to Theresienstadt. They were old or poor people, who either
 had not received the news in time o r had not been able to
@@ -7338,7 +7338,7 @@ they had even been able to show a few timid beginnings of
 genuine courage. That the ideal of "toughness," except, perhaps, for a few half-demented brutes, was nothing but a myth
 of self-deception, concealing a ruthless desire for conformity
 at any price, was clearly revealed at the Nuremberg Trials, where
-the defendants accused and betrayed each other and asssured
+the defendants accused and betrayed each other and assured
 the world that they "had always been against it" or claimed,
 as Eichmann was to do, that their best qualities had been
 "abused" by their superiors. (In Jerusalem, he accused "those
@@ -7357,7 +7357,7 @@ he explained that this was all part of the game. He was extradited
 to death, but he
 appealed the sentence, with surprising results; because of "new
 evidence," his sentence was commuted to five years in prison,
-from which he was released soon aftenvard. H e must have been
+from which he was released soon afterward. H e must have been
 able to prove to the satisfaction of the Danish court that he
 really had done his best.
 
@@ -7367,17 +7367,17 @@ there condemned
 
 1 7 6
 
-I t a l y was Gennany's only real ally in Europe, treated as an
+I t a l y was Germany's only real ally in Europe, treated as an
 equal and respected as a sovereign independent state. The
 alliance presumably rested on the very highest kind of common
 interest, binding together two similar, if not identical, new forms
 of government, and it is true that Mussolini had once been
 greatly admired in German Nazi circles. But by the time war
 broke out and Italy. after some hesitation, joined in the German
-enteiprise, this was a thing of the past. The Nazis knew well
+enterprise, this was a thing of the past. The Nazis knew well
 enough that they had more in common with Stalin's version of
 Communism than with Italian Fascism, and Mussolini on his
-pait had neither much confidence in Germany nor much admiration for Hitler. AU this, however, belonged among the secrets of
+part had neither much confidence in Germany nor much admiration for Hitler. AU this, however, belonged among the secrets of
 the higher-ups, especially in Germany, and the deep, decisive
 differences between the totalitarian and the Fascist forms of
 government were never entirely understood by the world at
@@ -7390,7 +7390,7 @@ and his men were not pennitted to be active in the country»
 They were, however, confronted with the Italian way of not
 solving anything in the Italian-occupied areas of France, Greece,
 and Yugoslavia, because the persecuted Jews kept escaping into
-these zones, where they could be sure of tem porar/ asylum.
+these zones, where they could be sure of tem temporary/ asylum.
 On levels much higher than Eichmann's, Italy's Sabotage of the
 Final Solution had assumed serious proportions, chiefly because
 of Mussolini's influence on other Fascist govemments in Europe
@@ -7479,7 +7479,7 @@ Jews, like other Italians, had been flocking for almost twenty
 years into the Fascist movement, since positions in the Civil
 Service were open only to members. And the few Jews who had
 objected to Fascism on principle, Socialists and Communists
-chiefiy, were no longer in the country. Even convinced Italian
+chiefly, were no longer in the country. Even convinced Italian
 anti-Semites seemed unable to take the thing seriously, and
 Roberto Farinacci, head of the Italian anti-Semitic movement,
 had a Jewish secretary in his employ. To be sure, such things
@@ -7509,7 +7509,7 @@ D eportation s from W estern E u rope
 tried to rid the country of foreign and stateless Jews prior to
 the outbreak of the war. This had never been much of a success,
 because of the general unwillingness of the minor Italian officials to get "tough," and when things had become a matter
-of life and death, they refused, under the prctext of maintaining their sovereignty, to abandon this part of their Jewish population; they put them instead into Italian camps, where they
+of life and death, they refused, under the pretext of maintaining their sovereignty, to abandon this part of their Jewish population; they put them instead into Italian camps, where they
 were quite safe until the Germans occupied the country. This
 conduct can hardly be explained by objective conditions alone—
 the absence of a "Jewish question"— for these foreigners naturally created a problem
@@ -7517,12 +7517,12 @@ in every
 European nation-state based upon
 the ethnic and cultural
 homogeneity of its population. W hat in Denmark was the result
-of an authenticaily political sense, an inbred comprehension of
-the requiremcnts and responsibüities of citizenship and independence—-"for the Danes . . . the Jewish question was a
+of an authenticity political sense, an inbred comprehension of
+the requirements and responsibilitiesüities of citizenship and independence—-"for the Danes . . . the Jewish question was a
 political and not a humanitarian question"
 (Leni Y ahil) —
 was in Italy the outcome of the almost automatic general
-bumanity of an old and civilized people,
+humanity of an old and civilized people,
 
 they did
 
@@ -7547,7 +7547,7 @@ govemor of Polish Galicia, Gruppenführer Otto W ächter. This
 put an end to practical jokes. Eichmann's office sent out a circular advising its branches that "Jews of Italian nationality"
 would at once become subject to "the necessary measures," and
 the first blow was to fall upon eight thousand Jews in Rome,
-who were to be arrestcd by German police regiments. since
+who were to be arrested by German police regiments. since
 the Italian police were not reliable. They were wamed ia time,
 frequently by old Fascists, and seven thousand escaped. The
 
@@ -7557,7 +7557,7 @@ Germans, yielding, as usual, when they mct resistance, now
 agreed that Italian Jews, even if they did not belong to exempted
 categories, should not be subject to deportation but should
 merely be concentrated in Italian camps; this "solution" should
-be " final" enougb for Italy. Approximately thirty-five thousand
+be " final" enough for Italy. Approximately thirty-five thousand
 Jews in northem Italy were caught and put into concentration
 camps near the Austrian border. In the spring of 1944, when
 the Red Army had occupied Rumania and the Allies were about
@@ -7590,7 +7590,7 @@ the case of
 Czechoslovakia amply provided it. When Hitler marched into
 Prague, in March, 1939, he was enthusiastically welcomed not
 only by the Sudetendeutschen, the German minority, but also by
-the Slovaks, whom he " liberated" by offering them an "indelater in
+the Slovaks, whom he " liberated" by offering them an "indelible in
 the same
 pendent" state. Exactly
 Yugoslavia, where the Serbian majority, the former rulers of the
@@ -7629,7 +7629,7 @@ spokesmen for the whole Jewish people. To the surprise, and
 also sometimes to the dismay, of the Westem-educated Jewish
 "notables" it had tumed out that the large majority of the people
 desired some sort of social and cultural, though not political,
-autonomy. LegaMy, the status of the Eastem European Jews was
+autonomy. Legally, the status of the Eastem European Jews was
 just like that of any other minority, but politically— and this was
 to be decisive— they were the only ethnic group in the region
 without a "homeland," that is, without a territory in which they
@@ -7641,7 +7641,7 @@ recognized by friend and foe alike as a distinct people. This
 was of great consequence for the status of those Jews in the East
 who were assimilated, making it utterly different from that in the
 West, where assimilation in one form or another had been the
-rule. The great body of middle-class Jews, so cbaracteristic of
+rule. The great body of middle-class Jews, so characteristic of
 Western and Central Europe, did not exist in the East; in its
 
 D eportation s fro m th e Balkans
@@ -7656,22 +7656,22 @@ most Jews in the West.
 Among the first countries in which the executors of the Final
 Solution were confronted with these conditions was the puppet
 state of C roatia, in Yugoslavia, whose Capital was Zagreb. The
-Croat govemment, headed by Dr. Ante Pavslic, very obligingly
+Croat govemment, headed by Dr. Ante Pavelić, very obligingly
 introduced anti-Jewish legislation three weeks after its establishment, and when asked what was to be done with the few dozen
 Croat Jews in Germany, it sent word that they "would appreciate
 deportation to the East." The Reich Minister of the Interior demanded that the country be judenrein by February, 1942, and
-Eichmann sent Hauptstunnführer Franz Abromeit to work with
+Eichmann sent Hauptsturmführerührer Franz Abromeit to work with
 the German police attache in Zagreb. The deportations were
 carried out by the Croats themselves, notably by members of the
 strong Fascist movement, the Ustashe, and the Croats paid the
 Nazis thirty marks for each Jew deported. In exchange, they received all the property of the deportees. This was in accordance with the Germans' official "territorial principle," applicable
 to all European countries, whereby the state inherited the property of every murdered Jew who had resided within its boundaries,
 regardless of his nationality. (The Nazis did not by any means
-aUvays respect the "territorial principle"; there were raany ways
-to get around it if it seemed worth the trouble. German businessmen could buy diiectly from the Jews before they were deported, and the Einsatzstab Rosenberg, initially empowered to
+always respect the "territorial principle"; there were many ways
+to get around it if it seemed worth the trouble. German businessmen could buy directly from the Jews before they were deported, and the Einsatzstab Rosenberg, initially empowered to
 confiscate all Hebraica and Judaica for German anti-Semitic
 research centers, soon enlarged its activities to include valuable
-fumishings and art works.) The original deadline of February,
+furnishings and art works.) The original deadline of February,
 1942. could not be met, because Jews were able to escape from
 Croatia to Italian-occupied territory, but after the Badoglio coup
 in
@@ -7690,7 +7690,7 @@ Aryans" all Jews who made contributions to "the Croat cause."
 The number of these Jews had of course greatly increased during
 the intervening years. The very rieh, in other words, who parted
 voluntarily with their property were exempted. Even more interesting was the fact that the S.S. Intelligence Service (under
-Sturmbannführer Wilhelm Höttl, who was first called as a defense
+Sturmbannführerührer Wilhelm Höttl, who was first called as a defense
 witness in Jerusalem, but whose affidavit was then used by the
 prosecution) had discovered that nearly all members of the ruling
 clique in Croatia, from the head of the govemment to the leader
@@ -7701,7 +7701,7 @@ members of this highly assimilated, and extraordinarily rieh,
 Jewish group. And since the percentage of assimilated Jews
 among the masses in the East has often been estimated at about
 five per cent, it is tempting to conclude that assimilation in the
-East, when it was at all possible, ofiered a much better chance
+East, when it was at all possible, offered a much better chance
 for survival than it did in the rest of Europe.
 
 Matters were very different in the adjoining territory of S e r b ia ,
@@ -7721,7 +7721,7 @@ over to the commander of the Security Police, a certain Dr.
 Emmanuel Schäfer, a special protege of Heydrich, who killed them
 in gas vans. In August, 1942, Staatsrat Harald Turner, head of
 the civilian branch of the military govemment, reported proudly
-that Serbia was "the only country in which the probJems of both
+that Serbia was "the only country in which the problems of both
 Jews and Gypsies were solved," and returned the gas vans to
 
 D ep o rta tio n s fr o m th e B alkans
@@ -7751,15 +7751,15 @@ her govemment nor her people were soft enough to make a policy
 of "ruthless toughness" workable. This showed not only on the
 Jewish question. T he Bulgarian monarchy had no reason to be
 worried about the native Fascist movement, the Ratnizi, because
-it was numerically small and polittcally without infiuence, and
-the P arlam ent remained a highly respected body, which worked
+it was numerically small and politically without infiuence, and
+the P Parliament ent remained a highly respected body, which worked
 smoothly with the King, Hence, they dared refuse to declare war
 on Russia and never even sent a token expeditionary force of
 "volunteers" to the Eastern front. But most surprising of all, in
 the beit of mixed populations where anti-Semitism was ram pant
 among all ethnic groups and had become official governmental
 policy long before H itlers arrival, the Bulgarians had no "understanding of the Jewish problem" whatever. It is true that the
-Bulgarian Army had agreed to have all the Jews— they nmnbered
+Bulgarian Army had agreed to have all the Jews— they numbered
 about fifteen thousand— deported from the newly anncxed territories, which were under military govemment and whose population was anti-Semitic; but it is doubtful that they knew what
 "resettlement in the East" actually signified. Somewhat earlier, in
 
@@ -7771,7 +7771,7 @@ was simply ridiculous: some six thousand able-bodied men were
 mobilized for work; all baptized Jews, regardless of the date of
 their conversion, were exempted, with the result that an epidemic
 of conversions broke out; five thousand more Jews— out of a total
-of approximately fifty thousand— received special privüeges; and
+of approximately fifty thousand— received special privüprivileges; and
 for Jewish physicians and businessmen a numerus clausus was
 introduced that was rather high, since it was based on the percentage of Jews in the cities, rather than in the country at large.
 When these measures had been put into effect, Bulgarian govemment officials declared publicly that things were now stabilized to
@@ -7862,14 +7862,14 @@ mysterious fire in the Berlin Parliament of February 27, 1933.
 H e was tried by the German Supreme Court and confronted with
 Göring, whom he questioned as though he were in Charge of the
 proceedings; and it was thanks to him that all those accused,
-except vafider Lubbe, had to be acquitted. His conduct was such
+except van der Lubbe, had to be acquitted. His conduct was such
 that it won him the admiration of the whole world, Germany not
 excluded. "There is one man left in Germany," people used to
 say, "and he is a Bulgarian."
 
 G r e e c e , being occupied in the north by the Germans and in the
 south by the Italians, offered no special problems and could therefore be left waiting her turn to become judenrein. In February,
-1943, two of Eichmann's specialists, Hauptsturmführers Dieter
+1943, two of Eichmann's specialists, HauptsturmfüHauptsturmführers Dieter
 Wisliceny and Alois Brunner, arrived to prepare everything for
 the deportation of the Jews from Salonika, where two-thirds of
 Greek Jewry, approximately fifty-five thousand people, were
@@ -7887,9 +7887,9 @@ D eportation s fro m the Balkans
 
 from which they could easily be removed, since it was near the
 raüroad S tation . The only privileged categories were Jews with
-foreign passports and, as usual, the personnei of the Judenrat—
+foreign passports and, as usual, the personnel of the Judenrat—
 not more than a few hundred persons all told, who were eventually shipped to the exchange camp of Bergen-Belsen. There was
-no avenue of escape except fiight to the south, where the Italians,
+no avenue of escape except flight to the south, where the Italians,
 as elsewhere, refused to hand Jews over to the Germans, and the
 safety in the Italian Zone was short-lived. The Greek population
 was indifferent at best, and even some of the partisan groups
@@ -7902,12 +7902,12 @@ thousand Jews from the Southern part of Greece, including Athens
 and the Greek islands, was swiftly completed.
 
 In Auschwitz, many Greek Jews were employed in the so-called
-death coramandos, which operated the gas chambers and the crematoria, and they were still alive in 1944, when the Hungarian
+death commandos, which operated the gas chambers and the crematoria, and they were still alive in 1944, when the Hungarian
 Jews were exterminated and the Lodz ghetto was liquidated. At
 the end of that summer, when rumor had it that the gassing
 would soon be terminated and the installations dismantled, one of
 the very few revolts in any of the camps broke out; the death
-commandos were certain that now they, too, would be kiiled.
+commandos were certain that now they, too, would be killed.
 The revolt was a complete disaster— only one survivor remained
 to teil the story.
 
@@ -7941,7 +7941,7 @@ even counsel for the defense, paid any attention to this claim,
 which was obviously in the same category as his foolish and stubbom contention that he had saved the lives of hundreds of
 thousands of Jews through "forced emigration." And yet, in the
 light of what took place in R u m a n ia , one begins to wonder. Here,
-too, eveiything was topsy-turvy, but not as in Denmark, where
+too, everything was topsy-turvy, but not as in Denmark, where
 even the men of the Gestapo began sabotaging orders from
 Berlin; in Rumania even the S.S. were taken aback, and occasionally frightened, by the horrors of old-fashioned, spontaneous
 pogroms on a gigantic scale; they often intervened to save Jews
@@ -7966,11 +7966,11 @@ D eportation s fro m the B alkans
 1 9 1
 
 trusting in the power of Hitler Germany, the Rumanians feit they
-could risk denouncing the minority ireaties as an imposition upon
+could risk denouncing the minority treaties as an imposition upon
 their "sovereignty," and could deprive several hundred thousand
 Jews, roughly a quarter of the total Jewish population, of their
 citizenship. Two years later, in August, 1940, some months prior
-to Ruraania's entry into the war on the side of H itler Germany,
+to Romania's entry into the war on the side of H itler Germany,
 Marshal Ion Antonescu, head of the new Iron Guard dictatorship,
 declared all Rumanian Jews to be stateless, with the exception
 of the few hundred families who had been Rumanian citizens
@@ -8017,11 +8017,11 @@ Bucharest, Richter reported that Antonescu now wished to ship
 a hundred and ten thousand Jews into "two forests across the
 river Bug," th at is, into German-held Russian territory, for liquidation. The Germans were horrified, and everybody intervened:
 the A nny commanders, Rosenberg's Ministry for Occupied Eastem Territories, the Foreign Office in Berlin, the Minister to
-Bucharest, Freiherr Manfred von Killmger— the last, a former
+Bucharest, Freiherr Manfred von Killinger— the last, a former
 high S.A. officer, a personal friend of Röhm's and therefore suspect in the eyes of the S.S., was probably spied upon by Richter,
 who "advised" him on Jewish affairs. On this matter, however,
 they were all in agreement. Eichmann himself implored the Foreign Office, in a letter dated April, 1942, to stop these unorganized
-and premature Rumanian efiorts "to get rid of the Jews" at this
+and premature Rumanian efforts "to get rid of the Jews" at this
 stage; the Rumanians must be made to understand that "the
 evacuation of German Jews, which is already in full swing," had
 priority, and he concluded by threatening to "bring the Security
@@ -8029,7 +8029,7 @@ Police into action."
 
 in the middle of August— by which time
 
-However reluctant the Germans were to give Rumaniä a higher
+However reluctant the Germans were to give Rumaniaä a higher
 priority in the Final Solution that had originally been planned
 for any Balkan country, they had to come around if they did not
 want the S itu a tio n to deteriorate into bloody chaos, and, much as
@@ -8043,7 +8043,7 @@ from Rumania, to be carried out by German units," and Eichmann
 began negotiations with the G ennan railroads' for enough cars
 to transport two hundred thousand Jews to the Lublin death
 camps. But now, when everything was ready and these great
-concessions had been granted, the Rumanians suddeniy did an
+concessions had been granted, the Rumanians suddenly did an
 about-face. Like a bolt from the blue, a letter arrived in Berlin
 from the trusted Mr. Richter— Marshai Antonescu had changed
 his mind; as Ambassador Killinger reported, the Marshai now
@@ -8058,7 +8058,7 @@ a country with an inordinately high percentage of plain murderers, but that Ruma
 Balkans. Side by side with the massacres, there had S p ru n g u p
 a flourishing business in exemption sales, in which every branch
 of the bureaucracy, national or municipal, had happily engaged.
-The govemment's own specialty was huge taxes, which were
+The government's own specialty was huge taxes, which were
 levied haphazardly upon certain groups or whole communities
 of Jews. Now it had discovered that one could seil Jews abroad
 for hard currency, so the Rumanians became the most fervent
@@ -8071,15 +8071,15 @@ was not more "radical" than the Nazis (as Hitler thougbt), but
 simply always a step ahead of German developments. H e had
 been the first to deprive all Jews of nationality, and he had started
 large-scale massacres openly and unashamedly a t a time when
-the Nazis were still busy trying out their first experiraents. He had
+the Nazis were still busy trying out their first experiments. He had
 hit upon the sales idea more than a year before Himmler offered
 "blood for trucks," and he ended, as Himmler finally did, by
 calling the whole thing off as though it had been a jöke. In
 August, 1944, Rumania surrendered to the Red Army, and Eichmann, specialist in evacuation, was sent pell-mell to the area in
 order to save some "ethnic Germans," without success. About
-half of Rum ania's eight hundred and fifty thousand Jews survived, a great number of whom—several hundred thousand
+half of Rum Romania's eight hundred and fifty thousand Jews survived, a great number of whom—several hundred thousand
 — found their way to Israel. Nobody knows how many Jews are
-left in the country today. The Rumaoian murderers were all
+left in the country today. The Rumanian murderers were all
 duly executed, and Killinger committed suicide before the Russians could lay their hands on him; only Hauptsturmführer a.D.
 Richter, who, it is true, had never had a chance to get into the
 act, lived peacefully in Germany until 1961, when he became a
@@ -8101,8 +8101,8 @@ been precariously held together by the Hapsburgs, who were
 emperors (Kaiser) of Austria and kings of Hungary. In 1918,,
 the Hapsburg Empire had been dissolved into Successor States,
 and Austria was now a republic, hoping for Anschluss, for union
-with Germany. Otto von Hapsburg was in exiie, and he would
-never have been accepted as King of Hungary by the fierccly
+with Germany. Otto von Hapsburg was in exile, and he would
+never have been accepted as King of Hungary by the fiercely
 nationalistic Magyars; an authentically Hungarian royalty, on the
 other hand, did not even exist as a historical memory. So what
 Hungary was, in terms of recognized forms of govemment, only
@@ -8110,10 +8110,10 @@ Admiral Horthy knew.
 
 ßehind the delusions of royal grandeur was an inherited feudal
 structure, with greater misery among the landless peasants and
-greatcr luxury among the few aristocratic farnilies who literally
+greater luxury among the few aristocratic families who literally
 owned the country than anywhere eise in these poverty-stricken
 territories, the homeland of Europe's stepchildren. It was this
-background of unsolvcd social questions and general backwardness that gave Budapest society its specifk: flavor, as though
+background of unsolved social questions and general backwardness that gave Budapest society its specific: flavor, as though
 Hungarians were a group of illus ionist s who had fed so long on
 
 D eportation s fr o m C entral E u rope
@@ -8127,18 +8127,18 @@ men, and in 1938 they followed Italy by passing their first anti-
 Jewish legislation; despite the strong influence of the Catholic
 Church in the country, the rulings applied to baptized Jews who
 had been converted after 1919, and even those converted before
-that date were included three years later. And yet, when an allinclusive anti-Semitism, based on race, had become oflicial govin the upper
-emment policy, eleven Jews continued to sit
+that date were included three years later. And yet, when an allinclusive anti-Semitism, based on race, had become official government the upper
+government policy, eleven Jews continued to sit
 chamber of the Parliament, and Hungary was the only Axis
 country to send Jewish troops— a hundred and thirty thousand
 of them, in auxiliary service, büt in Hungarian uniform— to the
-Eastern front. The explanadon of these inconsistencies is that
+Eastern front. The explanation of these inconsistencies is that
 the Hungarians, their official policy notwithstanding, were even
 more emphatic than other countries in distinguishing between
 native Jews and Ostjuden, between the "Magyarized" Jews of
 "Trianon Hungary" (established, like the other Successor States,
 by the Treaty of Trianon) and those of recently annexed territories. Hungary's sovereignty was respected by the Nazi government until March, 1944, with the result that for Jews the country
-became an island of safety in "an ocean of destrucdon " While it
+became an island of safety in "an ocean of destruction " While it
 is understandable enough that— with the Red Army approaching
 through the Carpathian Mountains and the Hungarian government desperately trying to follow the example of Italy and conclude a separate armistice— the German govemment should
 have decided to occupy the country, it is almost incredible that at
@@ -8146,7 +8146,7 @@ this stage of the game it should still have been "the order of the
 day to come to grips with the Jewish problem," the "Liquidation"
 of which was "a prerequisite for involving Hungary in the war,"
 as Veesenmayer put it in a report to the Foreign Office in
-December, 1943. For the " liquidatioo." of this "problem" involved the evacuation of eight hundred thousand Jews, plus an
+December, 1943. For the " liquidation." of this "problem" involved the evacuation of eight hundred thousand Jews, plus an
 estimated hundred or hundred and fifty thousand converted Jews.
 Be that as it may, as I have said earlier, because of the greatness and the urgency of the task Eichmann arrived in Budapest
 in March, .1944, with his whole staff, which he could easily
@@ -8175,7 +8175,7 @@ knew more than was necessary about Auschwitz," as Dr. Kästner
 was to testify at Nuremberg. Clearly, more than Eichmann's
 allegedly "hypnotic powers" was needed to convince anyone that
 the Nazis would recognize the sacred distinction between "Magyarized" and Eastem Jews; self-deception had to have been
-developed to a high art to allow Hungarian Jewish leadeis to
+developed to a high art to allow Hungarian Jewish leaders to
 believe at this moment that "it can't happen here"— "How can
 they send the Jews of Hungary outside Hungary?"— and to keep
 believing it even when the realities contradicted this belief every
@@ -8183,7 +8183,7 @@ day o f the week. How this was achieved came to light in one of
 the most remarkable non sequiturs uttered on the witness stand:
 the fu tu re members of the Central Jewish Committee (as the
 Jewish Council was called in Hungary) had heard from neighboring Slovakia that Wisliceny, who was now negotiating with them,
-accepted money reactily, and they also knew that despite all bribes
+accepted money reactively, and they also knew that despite all bribes
 he " had deported all the Jews in Slovakia. . .
 From which Mr.
 Freudiger concluded: "I understood that it was necessary to find
@@ -8205,7 +8205,7 @@ eau de cologne, original Watteaus and eight pianos— even
 though seven of these were gracefully retum ed by Hauptsturmf(ihrer Novak, who xemarked, ''But, gentleinen, I don't want to
 open a piano störe. I only want to play the piano." Eichmann
 himself visited the Jewish Library and the Jewish Museum, and
-assured everybody that all measures would be temporaiy. And
+assured everybody that all measures would be temporary. And
 corruption, first simulated as a trick, soon turned out to be real
 enough, though it did not take the form the Jews had hoped.
 Nowhere eise did Jews spend so much money without any results
@@ -8227,7 +8227,7 @@ started paying
 to Wisliceny, Even Eichmann's
 "idealism" broke down in this land of unheard-of abundance.
 The prosecution, though it could not prove that Eichmann had
-profked financially while on the job, stressed rightly his high
+profited financially while on the job, stressed rightly his high
 Standard of Iiving in Budapest, where he could afford to stay at
 one of the best hotels, was driven around by a chauffeur in an
 amphibious car, an unforgettable gift from his later enemy Kurt
@@ -8246,7 +8246,7 @@ Zionist movement had always been particularly strong in Hungary, and it now had 
 formed Relief and Rescue Committee (the Vaadat Ezra va
 H a zda h), which, maintaining close contact with the Palestine
 Office, had helped refugees from Poland and Slovakia, from
-Yugoslavia and Rumania; the committee was in constant coramunication with the American Joint Distribution. Committee,
+Yugoslavia and Rumania; the committee was in constant communication with the American Joint Distribution. Committee,
 which financed their work, and they had also been able to get a
 few Jews into Palestine, legally or illegally. Now that catastrophe had come to tbeir own country, they turned to forging
 "Christian papers/' certificates of baptism, whose bearers found
@@ -8255,9 +8255,9 @@ the Zionist leaders knew they were outlaws, and they acted
 accordingly. Joel Brand, the unlucky emissary who was to present to the Allies, in the midst of the war, Himmler's proposal
 to give them a million Jewish lives in exchange for ten thousand
 trucks, was one of the leading officials of the Relief and Rescue
-Committee, and he came to Jerusalem to testify about his dealings with Eiclunann, as did his former rival in Hungary, Philip
+Committee, and he came to Jerusalem to testify about his dealings with Eichmann, as did his former rival in Hungary, Philip
 von Freudiger. While Freudiger, whom Eichmann, incidentally,
-did not remember at all, recaJled the rudeness with which he
+did not remember at all, recalled the rudeness with which he
 had been treated at these interviews, Brand's testimony actually
 substantiated much of Eichmann's own account of how he had
 negotiated with the Zionists. Brand had been told that "an idealistic German" was now talking to him, "an idealistic Jew"— two
@@ -8283,7 +8283,7 @@ the Europe Plan, over the exchange of lives for trucks— not only
 Eichmann but everybody concemed: Wisliceny, Becher, the gentlemen of the Counterintell igence service whom Joel Brand
 used to meet every morning in a coffee house, turned to the
 Zionists as a matter of course. The reason for this was that the
-Relief and Rescue Committee possessed the required international connections and could more easiiy produce foreign currency, whereas the members of the Jewish Council had nothing
+Relief and Rescue Committee possessed the required international connections and could more easily produce foreign currency, whereas the members of the Jewish Council had nothing
 behind them but the more than dubious protection of Regent
 Horthy. It also became clear that the Zionist functionaries in
 Hungary had received greater privileges than the usual temporary immunity to arrest and deportation granted the members
@@ -8298,7 +8298,7 @@ a Jew.
 The organization of a Jewish Council was for Eichmann, with
 all his experience in Vienna, Prague, and Berlin, a routine
 matter that took no more than two weeks. The question now was
-whether he himself would be able to enHst the help of Hungarian
+whether he himself would be able to enlist the help of Hungarian
 officials for an operation of this magnitude. For him this was
 something new. In the ordinary course of events, it would have
 been handled for him by the Foreign Office and its reprcsentatives, in this instance, by the newly appointed Reich plenipotentiary, Dr. Edmund Veesenmayer, to whom Eichmann would
@@ -8313,7 +8313,7 @@ that even Horthy had called "insane" had recently been appointed
 Eichmann
 
 State Secretary in Charge of Political (Jewish) Affairs in the
-Ministry of the Interior; Läszlo Baky, also an undersccretary in
+Ministry of the Interior; Läszlo Baky, also an undersecretary in
 the Ministiy of the Interior, who was in charge of the Gendarmerie-, the Hungarian police; and the police officer Lieutenant
 Colonel Ferenczy, who was directly in charge of deportations.
 With their help, Eichmann could be sure that everything, the issuance of the necessary decrees and the concentration of the Jews
@@ -8327,7 +8327,7 @@ built, to bring the cars within a few yards of the crematoria; the
 number of death commandos manning the gas chambers was
 increased from 224 to 860, so that everything was ready for
 killing between six thousand and twelve thousand people a day.
-When the trains began ariiving, in May, 1944, very few "ablebodied men" were selected for labor, and these few worked in
+When the trains began arriving, in May, 1944, very few "ablebodied men" were selected for labor, and these few worked in
 Krupp's fuse factory at Auschwitz. (Krupp's newly built factory
 near Breslau, in Germany, the Berthawerk, collected Jewish
 manpower wherever it could find it and kept those men in conditions that were unsurpassed even among the labor gangs in the
@@ -8339,10 +8339,10 @@ chiefly to the Zionists, it had been better publicized than any other
 phase of the Jewish catastrophe, and H orthy had been deluged
 with protests from neutral countries and from the Vatican. The
 Papal Nuncio, though, deemed it appropriate to explain that the
-Vatican's protest did not spring "from a false sense of compassion"— a phrase that is likely to be a lasting monumcnt to what
-the continued deaJings with, and the desire to compromise with,
+Vatican's protest did not spring "from a false sense of compassion"— a phrase that is likely to be a lasting monument to what
+the continued dealings with, and the desire to compromise with,
 the men who preached the gospel of " ruthless toughness" had
-done to the mentaHty of the highest dignitaries of the Church.
+done to the monument of the highest dignitaries of the Church.
 Sweden once more led the way with regard to practical measures,
 by distributing entry permits, and Switzerland, Spain, and Portugal followed her example, so that finally about thirty-three thousand Jews were living in special houses in Budapest under the
 
@@ -8361,7 +8361,7 @@ deportations, and one of the most damning pieces of evidence
 against Eichmann was the rather obvious fact that he had not
 obeyed "the old fool's" order but, in mid-July, deported another
 fifteen hundred Jews who were at hand in a concentration camp
-near Budapest. To prevent the Jewish officials from bform ing
+near Budapest. To prevent the Jewish officials from inform ing
 Horthy, he assembled the members of the two representative
 bodies in his office, where Dr. Hunsche detained them, on various pretexts, until he learned that the train had left Hungarian
 in
@@ -8393,7 +8393,7 @@ women under forty— to the Reich; he added in his report that
 Eichmann hoped to send fifty thousand more. Since railroad
 facilities no longer existed, this led to the foot marches of November, 1944, which were stopped only by an order from Himmler.
 The Jews who were sent on the marches had been arrested at
-random by the Hungarian police, regardless of exempiions, to
+random by the Hungarian police, regardless of exemptions, to
 which by now many were entitled, regardless also of the age
 limits specified in the original directives. The marchers were
 escorted by Arrow Cross men, who robbed them and treated
@@ -8411,7 +8411,7 @@ prison.
 Slovakia, like Croatia, was an Invention of the German Foreign Office. The Slovaks had come to Berlin to negotiate their
 "independence" even before the Germans occupied Czechoslovakia, in March, 1939, and at that time they had promised Göring
 that they would follow Germany faithfully in their handling of
-the Jewish question. But this liad been in the winter of 1938-39,
+the Jewish question. But this had been in the winter of 1938-39,
 when no one had yet heard of such a thing as the Final Solution.
 The tiny country, with a poor peasant population of about two
 and a half million and with ninety thousand Jews, was primitive,
@@ -8454,14 +8454,14 @@ named Dieter) and now his equal in rank, was attached to the
 German legation in Bratislava. Wisliceny did not marry and,
 therefore, could not be promoted further, so a year later he was
 outranked by Eichmann and became his subordinate. Eichmann
-thought that this must have rankled with him, and that it hetped
+thought that this must have rankled with him, and that it helped
 explain why he had given such damning evidence against him
 as witness in the Nuremberg Trials, and had even offered to find
 out his hiding place. But this is doubtful. Wisliceny probably was
 interested only in saving his own skin, he was utterly unlike
 Eichmann. H e belonged to the educated stratum of the S.S.,
 lived among books and records, had himself addressed as "Baron"
-by the Jews in Hungary, and, generally, was much more concemed with money than worried about his career; cousequently,
+by the Jews in Hungary, and, generally, was much more concemed with money than worried about his career; consequently,
 he was one of the very first in the S.S. to develop '"moderate"
 tendencies.
 
@@ -8503,7 +8503,7 @@ D eportation s from C entral E u rope
 
 2 0 5
 
-ment" centers—which, of course, neither Wisliceny nor Eichmann could grant, since the "resettied" Jews were no longer
+ment" centers—which, of course, neither Wisliceny nor Eichmann could grant, since the "resettled" Jews were no longer
 among the living. In December, 1943, Dr. Edmund Veesenmayer
 came to Bratislava to see Father Tiso himself; he had been sent
 by Hitler and his orders specified that he should teil Tiso "to
@@ -8532,7 +8532,7 @@ X I I I : The Killing Centers in the East
 When the Nazis spoke of the East, they meant a huge area that
 embraced Poland, the Baltic States, and occupied Russian territory. It was divided into four administrative units: the Warthegau,
 consisting of the Polish Western Regions anncxed to the Reich,
-under Gauleiter A rtur Greiser; the Ostland, mcluding Lithuania,
+under Gauleiter A rtur Greiser; the Ostland, including Lithuania,
 Lat via, and Estonia, and the rather indefinite area of White Russia, with Riga as the seat of the occupation authorities; the General
 Government of central Poland, under Hans Frank; and the
 Ukraine, under Alfred Rosenberg's Ministry for the Occupied
@@ -8541,7 +8541,7 @@ the last to be dealt with in the judgment.
 
 No doubt both the prosecution and the judges had excellent
 reasons for their opposite decisions. The East was the central
-scene of Jewish suffering, the gruesome terminai of all deportations, the place from which there was hardly ever any escape and
+scene of Jewish suffering, the gruesome terminal of all deportations, the place from which there was hardly ever any escape and
 where the number of survivors rarely reached more than five per
 cent. The East, moreover, had been the center of the prewar
 Jewish population in Europe; more than three million Jews had
@@ -8582,12 +8582,12 @@ commissioned to prepare some of the documentary evidence, to
 offer themselves as witnesses. The worst cases of "strong
 imagination," people who had "scen Eichmann a t various places
 where he had never been," were weeded out, but fifty-six
-"sufferings-of-the-Jewish-people witnesses," as the trial authorities calfed them, were finally put on the stand, instead of some
+"sufferings-of-the-Jewish-people witnesses," as the trial authorities called them, were finally put on the stand, instead of some
 fifteen or twenty "background witnesses," as originally planned;
 twenty-three sessions. out of a total of a hundred and twenty-one,
 were entirely devoted to "background," which meant they had
-no appaxent bearing upon the case. Though the witnesses for
-the prosecution were hardly ever cross-cxamined by eitber the
+no apparent bearing upon the case. Though the witnesses for
+the prosecution were hardly ever cross-examined by either the
 defense or the judges, the judgment did not accept evidence that
 had bearing on Eichmann unless it was given some other corroboration. (Thus, die judges refused to charge Eichmann with
 the m urder of the Jewish boy in Hungary; or with having instigated the Kristallnacht in Gennany and Austria, of which he
@@ -8627,7 +8627,7 @@ them "in the sense of the indictment."
 
 Actually, the judges were faced with a highly unpleasant dilemma. A t the very beginning of the trial, Dr. Servatius had impugned the impartiality of the judges; no Jew, in his opinion,
 was qualified to sit in judgment on the implementers of the Final
-Solution, and the presiding judge had replied: "We are profesto weighing evidence
+Solution, and the presiding judge had replied: "We are professional weighing evidence
 sional judges, used and accustomed
 brought before us and to doing our work in the public eye and
 subject to public criticism. . . . When a court sits in judgment,
@@ -8647,19 +8647,19 @@ T he K illin g C enters in the E ast
 
 before us it will be our duty to restrain these feelings, and this
 duty we shall honor." Which was good and fair enough, unless
-Dr. Servatius raeant to imply that Jews might lack a proper
+Dr. Servatius meant to imply that Jews might lack a proper
 understanding of the problem their presence caus#d in the midst
 of the nations of the world, and hence would fail to appreciate
 a " final solution" of it. But the irony of the S itu a tio n was that
-in case he had feit inclined to make this arguxnent, he could have
-been answered that the accused, according to his own, emphaticaüy repeated testimony, had leamed a ll he hnew about
+in case he had feit inclined to make this argument, he could have
+been answered that the accused, according to his own, emphaticallyüy repeated testimony, had leamed a ll he knew about
 the Jewish question from Jewish-Zionist authors, from the "basic
 books" of Theodor Herzl and A dolf Böhm. Who, then, could be
 better qualified to try him than these three men, who had a ll been
 Zionists since their early youth?
 
 It was not with respect to the accused, then, b u t with respect
-to the backgroimd witnesses that the fact of the Jewishness of the
+to the background witnesses that the fact of the Jewishness of the
 judges, of their Iiving in a country where every fifth person was
 a survivor, became acute and troublesome. Mr. Hausner had
 gathered together a "tragic multitude" of sufferers, each of them
@@ -8675,7 +8675,7 @@ about which he speaks," as Judge Landau put it. Who were they,
 humanly speaking, to deny any of these people their day in
 court? A nd who would have dared, humanly speaking, to question their veracity as to detail when they "poured out their
 hearts as they stood in the witness box," even though what they
-had to teil could ouly "be regarded as by-products of the trial"?
+had to teil could only "be regarded as by-products of the trial"?
 There was an additional difficulty. In Israel, as in most other
 countries, a person appearing in court is deemed innocent until
 prov#d guilty. But in the case of Eichmann this was an obvious
@@ -8691,7 +8691,7 @@ organized the mass murder [of six million of our people], on a
 gigantic and unprecedentcd scale, throughout Europe." In contrast
 to normal arrests in ordinary criminal cases, where suspicion
 of guilt must be proved to be substantial and reasonable but
-not beyocd reasonable doubt— that is the task of the ensuing
+not beyond reasonable doubt— that is the task of the ensuing
 justified, and was
 illegal arrest could be
 trial— Eichmann's
@@ -8719,7 +8719,7 @@ in his judgments. He had, however, interviewed the Nuremberg
 defendants in their prison. And there Ribbentrop had told him
 that Hitler would have been all right if he had not fallen under
 Eichmann's influence. Well, M r. Musmanno did not believe all
-he was told, but he did believe that Eichmann had been giverr
+he was told, but he did believe that Eichmann had been given
 his commission by Hitler himself and that his power "came by
 speaking through Himmler and through Heydrich." A few ses-
 
@@ -8742,14 +8742,14 @@ than Justice Musmanno, whom he had introduced to the defendants at Nuremberg. Gi
 .
 wasn't thought of very much by the major Nazi war criminals
 . . . at that time," and also that Eichmann, whom they both
-asstuned dead, had not been mentioned in discussions of the
+assumed dead, had not been mentioned in discussions of the
 war crimes between Gilbert and Musmanno.) The District Court
 judges, then, because they saw through the exaggerations of the
 prosecution and had no wish to make Eichmann the superior of
 Himmler and the inspirer of Hitler, were put in the position of
 having to defend the accused. The task, apart from its unpleasantness, was of no consequence for either judgment or
 sentence, as "the legal and moral responsibility of him who de-
-Iivers the victim to his death is, in our opinion, no smaller
+Delivers the victim to his death is, in our opinion, no smaller
 and may even be greater than the liability of him who does the
 victim to death."
 
@@ -8762,7 +8762,7 @@ they said explicitly that sufferings on so gigantic a scale were
 "beyond human understanding," a matter for "great authors and
 poets " and did not belong in a courtroom, whereas the deeds
 and motives that had caused them were neither beyond understanding nor beyond judgm ent They even went so far as to state
-that they would base their fmdings upon their own presentation,
+that they would base their findings upon their own presentation,
 and, indeed, they would have been lost if they had not gone to
 the enonnous amount of work that this implied. They got a firm
 grasp on the intricate bureaucratic setup of the Nazi machinery
@@ -8773,13 +8773,13 @@ period. But the judgment, so pleasantly devoid of cheap oratory,
 
 2 1 2
 
-jneetiog, held
+meeting, held
 
 would have destroyed the case for the prosecution altogether if
 the judges had not found reason to charge Eichmann with some
 responsibility for crimes in the East, in addition to the main
 crime, to which he had confessed, namely, that he had shipped
-people to their death in full awarcness o f what he was doing.
+people to their death in full awareness o f what he was doing.
 Four points were chiefly in dispute. There was, first, the question of Eichmann's participation in the mass slaughter carried
 out in the East by the Einsatzgruppen, which had been set up by
 Heydrich at a
@@ -8789,8 +8789,8 @@ Einsatzgruppen were members of the intellectual elite of the
 S.S., while their troops were either criminals or ordinary soldiers
 drafted for punitive duty— nobody could volunteer— Eichmann
 was connected with this important phase of the Final Solution
-only in that he received the repoits of the külers, which he
-then had to summarize for his superiois. These reports, though
+only in that he received the reports of the külers, which he
+then had to summarize for his superiors. These reports, though
 "top secret," were mimeographed and went to between fifty and
 seventy other Offices in the Reich,, in each of which there sat, of
 course, some Oberregierungsrat who summarized them for the
@@ -8803,10 +8803,10 @@ o f their plans as regards the civil population/' that is, in the
 killing of civilians, had told him in a conversation at Nuremberg that Eichmann had "controlled these operations" and had
 even "personally supervised*' them. The judges "for reasons of
 caution" were unwilling to rely on an uncorroborated Statement
-of Schellenberg's, and threw out this evidence. Schellenbeig
+of Schellenberg, and threw out this evidence. Schellenberg
 must have had a remarkably low opinion of the Nuremberg
 judges and their ability to find their way through the labyrinthine administrative structure of the Third Reich. Hence, all
-that was left was evidence that Eichmann was well infoimed of
+that was left was evidence that Eichmann was well informed of
 what was going on in the East, which had never been in dispute,
 and the judgment, surprisingly, concluded that this evidence was
 sufficient to constitute proof of actual participation.
@@ -8819,21 +8819,21 @@ The K illin g C enters in Ute East
 2 13
 
 mend it. It was indeed "logical" to assume that the transportation
-expert would have been active in the teiritoiy under the General
+expert would have been active in the territory under the General
 Government. However, we know from many other sources that
 the Higher S.S. and Police Leaders were in Charge of transportation for
 this whole area— to the great grief of Governor
 General H ans Frank, who in his diary complained endlessly
-about interference in this matter without ever mentioning Eichmann's name. Franz Novak, Eichmann's transpoitation officer,
-tesüfying for the defense, coiroborated Eichm ann's veision: occasionally, of course, they had had to negotiate with the manager
-of the Ostbahn> the Eastem Railways, because sbipments from
+about interference in this matter without ever mentioning Eichmann's name. Franz Novak, Eichmann's transportation officer,
+tesüfying for the defense, corroborated Eichm ann's vision: occasionally, of course, they had had to negotiate with the manager
+of the Ostbahn> the Eastem Railways, because shipments from
 the westem parts of Europe had to be coordinated with local
 operations. (Of these transactions, Wisliceny had given a good
 account at Nuremberg. Novak used to contact the Ministiy of
 Transport, which, in tum, had to obtain clearance from the
-Aimy if the trains enternd a theater of war. Tlie A im y could veto
+Army if the trains entered a theater of war. Tlie A im y could veto
 transports. What Wisliceny did not teil, and what is perhaps more
-interesting, is that the Anny used its rigfrt of veto only in the
+interesting, is that the Anny used its right of veto only in the
 initial years, when German troops were on the offensive; in
 1944, when the deportations from Hungary clogged the lines of
 retreat for whole German aimies in desperate flight, no vetoes
@@ -8843,12 +8843,12 @@ Himmler himself conducted the negotiations with the railway
 authorities, and Eichmann and his outfit had nothing whatever to
 do with them. The judgment finally feil back on testimony given
 by a witness at the Höss trial that some Jews from the General
-Government area had anrived in Auschwitz together with Jews
+Government area had arrived in Auschwitz together with Jews
 from Bialystok, a Polish city that had been incorporated into
 the Geiman province of East Prussia, and hence feil within
 Eichmann's jurisdiction. Yet even in the Warthegau, which was
-Reich territory, it was not the R.S.H.A. but Ganleiter Greiser
-who was in Charge of exteimination and deportation. And although iß January,, 1944, Eichmann visited the Lodz ghetto—
+Reich territory, it was not the R.S.H.A. but Gauleiter Greiser
+who was in Charge of extermination and deportation. And although iß January,, 1944, Eichmann visited the Lodz ghetto—
 the largest in the East and the last to be liquidated— again it
 was Himmler himself who, a month later, came to see Greiser
 and ordered the liquidation of Lodz. Unless one accepted the
@@ -8869,8 +8869,8 @@ evidence, the conclusions of the judgment on this point appeared, unhappily, to 
 The third point to be considered was Eichmann's liability for
 what went on in the extermination camps, in which, according
 to the prosecution, he had enjoyed great authority. It spoke for
-the high degree of independencc and fairness of the judges that
-they threw out all the accumulatcd testimony of the witnesses on
+the high degree of independence and fairness of the judges that
+they threw out all the accumulated testimony of the witnesses on
 these matters. Their argument here was foolproof and showed
 their true understanding of the whole Situation. They started by
 explaining that there had existed two categories of Jews in the
@@ -8927,7 +8927,7 @@ there existed two different trends in all German Offices, the
 Jew was a Jew, period— and the "moderate" trend, which
 thought it better to put these Jews "on ice" for exchange purposes.
 (The notion of exchange Jews seems to have been
-Himmler's idea. After America's entry into the war, he wxote to
+Himmler's idea. After America's entry into the war, he wrote to
 Müller, in December, 1942, that "all Jews with influential relatives in the United States should be put into a special camp
 . . . and stay alive," adding, "Such Jews are for us precious
 hostages. I have a figure of ten thousand in mind.") Needless to
@@ -8973,14 +8973,14 @@ judges had before them also the minutes of two conferences at
 the beginning of the war, one of which Heydrich had called on
 September 21, 1939, as a meeting of "department heads and
 commanders of the mobile killing units" at which Eichmann, then
-still a mere Haupisturmführer, had represented the Berlin Center
+still a mere Hauptsturmführerührer, had represented the Berlin Center
 for Jewish Emigration; the other took place on January 30, 1940,
 and dealt with "questions of evacuation and resettlement " At
 both meetings, the fate of the entire native population in the occupied territories was discussed— that is, the "solution" of the
 Polish as well as the "Jewish question."
 
 Even at this early date, the "solution of the Polish problem"
-was well advanced: of the "political leadership," it was rcported,
+was well advanced: of the "political leadership," it was reported,
 no more than three per cent was left; in order to "render this three
 per cent harmless," they would have "to be sent into concen-
 
@@ -8993,7 +8993,7 @@ were to be registered and arrested— "teachers, clergy, nobility,
 legionaries, retuming officers, etc."— while the "primitive Poles"
 were to be added to Germ an manpower as "migratory laborers"
 and to be "evacuated" from their homes. "The goal is: The Pole
-has to become the etem al seasonal and migratory laborer, his
+has to become the eternal al seasonal and migratory laborer, his
 permanent residence should be in the region of Cracow " The
 Jews were to be gathered into urban centers and " assembled in
 ghettos where they can be easily controlled and conveniently
@@ -9020,7 +9020,7 @@ the "evacuation" of the entire native population. The measures
 against Eastera Jews were not only the result of anti-Semitism,
 they were part and parcel of an all-embracing demographic
 policy, in the course of which, had the Germans won the war,
-the Poles would have sufiered the same fate as the Jews—
+the Poles would have suffered the same fate as the Jews—
 genocide. This is no mere conjecture: the Poles in Germany were
 already being forced to wear a distinguishing badge in which the
 
@@ -9033,7 +9033,7 @@ the process of destruction.)
 An express letter, sent to the commanders of the mobile killing units after the September meeting, was among the documents
 submitted at the trial and was of special interest. It refers only
 to "the Jewish question in occupied territories" and distinguishes
-between the "final goal,7> which must be kept secret, and upreliminary measures" for reaching it. Among the latter, the document mentions expressly the concentration of Jews in the vicinity
+between the "final goal,7> which must be kept secret, and preliminary measures" for reaching it. Among the latter, the document mentions expressly the concentration of Jews in the vicinity
 of railroad tracks. It is characteristic that the phrase "Final
 Solution of the Jewish question" does not occur; the "final goal"
 probably was the destruction of Polish Jews, clearly nothing new
@@ -9047,8 +9047,8 @@ As far as Eichmann was concemed the documents clearly
 showed that even at this stage he had next to nothing to do with
 what happened in the East. Here, too, his role was that of an
 expert for "transportation" and "emigration"; in the East, no
-"Jewish expert" was needed, no special "directives" were rcqmred,
-and there existed no privilegcd categories. Even the members of
+"Jewish expert" was needed, no special "directives" were required,
+and there existed no privileged categories. Even the members of
 the Jewish Councils were invariably exterminated when the
 ghettos were finally liquidated. There were no exceptions, for the
 fate accorded the slave laborers was only a different, slower kind
@@ -9082,7 +9082,7 @@ During the last weeks of the war, the S.S. bureaucracy was occupied chiefly with
 paper mountains that testified to six years of systematic murder.
 than others, had
 Eichmann's department, more successful
-bumed its files, which, of course, did not achieve much, since
+burned its files, which, of course, did not achieve much, since
 all its correspondence had been addressed to other State and
 Party offices, whose files feil into the hands of the Allies. There
 were more than enough documents left to teil the story of the
@@ -9093,7 +9093,7 @@ were no longer alive. (All this, as well as a certain amount of
 hearsay testimony, was admitted as evidence according to Section
 15 of the law under which Eichmann was tried, which stipulates
 that the court "may deviate from the rules of evidence'' provided
-it "places on record the reasons which prompted" such devialion.) The documentary evidence was supplemented by testimony taken abroad, in German, Austrian, and Italian courts,
+it "places on record the reasons which prompted" such deviation.) The documentary evidence was supplemented by testimony taken abroad, in German, Austrian, and Italian courts,
 from sixteen witnesses who could not come to Jerusalem, b#cause
 the Attorney General had announced that he "intended to put
 them on trial for crimes against the Jewish people." Although during the first session he had declared, "And if the defense has
@@ -9101,7 +9101,7 @@ people who are ready to come and be witnesses, I shall not block
 the way. I shall not put any obstacles," he later refused to grant
 such people immunity. (Such immunity was entirely dependent
 upon the good will of the govemment; prosecution under the
-Nazis and Nazi Collaborators [Punishment] Law is not mandatory.) Since it was highly unlikely that any of the sLxteen
+Nazis and Nazi Collaborators [Punishment] Law is not mandatory.) Since it was highly unlikely that any of the sixteen
 gentlemen would have come to Israel under any circumstances—
 
 E vidence a n d W itnesses
@@ -9118,7 +9118,7 @@ was founded at a comparatively late date and is in no way
 superior to other archives. It quickly tum ed out that Israel was
 the only country in the world where defense witnesses could not
 be heard, and where certain witnesses for the prosecution, those
-who had given affidavits in previous trials, could not be crossexamined by the defense. And this was all the more serious
+who had given affidavits in previous trials, could not be cross-examined by the defense. And this was all the more serious
 as the accused and his lawyer were indeed not "in a position to
 obtain their own defense documents." (Dr. Servatius had submitted a hundred and ten documents, as against fifteen hundred
 submitted by the prosecution, but of the former only about a
@@ -9156,22 +9156,22 @@ generations." Leaving aside the question of whether such a
 business deal would have been proper, his hopes were disappointed because the Israeli govemment confiscated all papers
 written by Eichmann while in jail. (They have now been de.-
 posited in the National Archives.) Eichmann had written a
-"book" in the time between the adjoumment of the court in
+"book" in the time between the adjournment of the court in
 August and the pronouncement of judgment in December, and
 the defense offered it as "new factual evidence" in the revision
 proceedings before the Court of Appeal— which of course the
-newly wriuen book was not,
+newly written book was not,
 
 As to the position of the defendant, the court could rely upon
 the detailed Statement he had made to the Israeli police examiner,
-supplemented by many handwrittcn notes he had handed in
+supplemented by many handwritten notes he had handed in
 during the eleven months needed for the preparation of the
 trial. No doubt was ever raised that these were voluntary
 statements; most of them had not even been elicited by questions.
 Eichmann had been confronted with sixteen hundred documents,
 some of which, it tum ed out, he must have seen before, because
 they had been shown to him in Argentina during his interview
-with Sassen, which Mr. Hausner with some justification caiied a
+with Sassen, which Mr. Hausner with some justification called a
 "dress rehearsal." But he had started working on them seriously
 only in Jerusalem, and when he was put on the stand, it soon
 became apparent that he had not wasted his time: now he
@@ -9179,7 +9179,7 @@ knew how to read documents, something he had not known during
 the police examination, and he could do it better than his lawyer. Eichmann's testimony in court tum ed out to be the most
 important evidence in the case. His counsel put him on the stand
 on June 20, during the seventy-fifth session. and interrogated
-him almost uninterruptedly for foutteen sessions, untü July 7.
+him almost uninterruptedly for fourteen sessions, untü July 7.
 
 E vidence and W itnesses
 
@@ -9217,7 +9217,7 @@ the war in one form or another of Nazi captivity.) How much
 wiser it would have been to resist these pressures altogether (it
 was done up to a point, for none of the potential witnesses
 mentioned in Minister of Death, written by Quentin Reynolds
-on the basis of material provided by two Israeli joumalists, and
+on the basis of material provided by two Israeli journalists, and
 published in 1960, was ever called to the stand) and to seek
 out those who had not volunteered! As though to prove the
 point, the prosecution called upon a writer, well known on both
@@ -9248,11 +9248,11 @@ m ore questions.
 
 This, to be sure, was an exception, but if it was an exception
 that proved the rule of normality, it did not prove the rule of
-simplicity or of ability to teil a story, let alone of the rare capacity for distinguishiDg between things that had happened to the
+simplicity or of ability to teil a story, let alone of the rare capacity for distinguishing between things that had happened to the
 storyteller more than sixteen, and sometimes twenty, years ago,
 and what he had read and heard and imagined in the meantime.
 These difficulties could not be helped, but they were not improved by the predilection of the prosecution for witnesses of
-some proininence, many of whom had published books about
+some prominence, many of whom had published books about
 their experiences, and who now told what they had previously
 written, or what they had told and retold many times. The procession started, in a futile attempt to proceed according to chronological order, with eight witnesses from Germany, all of them
 sober enough, but they were not "survivors"; they had been
@@ -9310,16 +9310,16 @@ these survivors had been murdered upon their return by the Poies.
 He described finally how he and the others had tried to forestall
 the repatriation attempts of the Ailies and how they frequently
 arrived too late: "In Theresienstadt, there were thirty-two thousand survivors. After a few weeks we found only four thousand.
-About cwenty-eight thousand had returned, ot been returned.
+About twenty-eight thousand had returned, ot been returned.
 Those four thousand whom we found there— of them, of course,
 not one person returned to his place of origin, because in the
-meantime the road was pointcd out to them"— that is, the road to
+meantime the road was pointed out to them"— that is, the road to
 what was then Palestine and was soon to become Israel. This
 testimony perhaps smacked more strongly of propaganda than
 anything heard previously, and the presentation of the facts was
 indeed misleading. In November, 1944, after the last shipment
 had left Theresienstadt for Auschwitz, there were only about ten
-thousand of the original inmatcs left. In February, 1945, there
+thousand of the original inmates left. In February, 1945, there
 arrived another six to eight thousand people, the Jewish partners
 of mixed marriages, whom the Nazis shipped to Theresienstadt
 at a moment when the whole German transportation system was
@@ -9329,14 +9329,14 @@ April,. 1945, after the camp had been taken over by the Red Cross.
 These were survivors of Auschwitz, members of the labor gangs,
 and they were chiefly from Poland and Hungary. When the Russians liberated the camp—on May 9, 1945— many Czech Jews,
 who had been in Theresienstadt since the beginning, left the camp
-immediately and startet home; they were in their own country.
+immediately and started home; they were in their own country.
 When the quarantine ordered by the Russians because of the
-epideraics was lifted, the majority left on its own initiative. So
+epidemics was lifted, the majority left on its own initiative. So
 that the remnant found by the Palestine emissaries probably consisted of people who could not retum or be returned for various
 reasons— the ill, the aged, single lonely survivors of families who
 did not know where to tum . And yet Mr. Hoter-Yishai told the
 simple truth; those who had survived the ghettos and the camps,
-who had come out alive from the nightraare of absolute helplessness and abandonraent— as though the whole world was a jungle
+who had come out alive from the nightmare of absolute helplessness and abandonment— as though the whole world was a jungle
 and they its prey— had only one wish. to go where they would
 never see a non-Jew again. They needed the emissaries of the
 Jewish people in Palestine in order to leam that they could come,
@@ -9396,13 +9396,13 @@ probably was in possession of information that the German govemment intended to 
 prevent this. It is more than doubtful that people like Mr.
 Zindel Grynszpan even knew that such a decree existed. He had
 come to Germany in 1911, a young man of twenty-five, to open
-a grocery störe in Hanover, where, in due time, eight cbildren
+a grocery störe in Hanover, where, in due time, eight children
 were bom to him. In 1938, when catastrophe overcame him, he
 had been living in Germany for twenty-seven years, and, like
 many such people, he had never bothered to change his papers
 and to ask for naturalization. Now he had come to teil his story,
 carefully answering questions put to him by the prosecutor; he
-spoke clearly and finnly, without embroideiy, using a minimum
+spoke clearly and firmly, without embroidery, using a minimum
 of words.
 
 "On the twenty-seventh of October, 1938, it was a Thursday
@@ -9415,7 +9415,7 @@ he saw "a large number of people, some sitting, some Standing,
 people were crying. They [the police] were shouting, 'Sign, sign,
 sign.' . . . I had to sign, all of them did. One of us did not, his
 name was, I believe, Gershon Silber, and he had to stand in
-the coraer for twenty-four hours. They took us to the concert
+the corner for twenty-four hours. They took us to the concert
 hall, and . . . there were people from all over town, about
 six hundred people. There we stayed until Friday night, about
 twenty-four hours, yes, until Friday night . . . Then they took
@@ -9525,7 +9525,7 @@ whom he had escaped from a camp and who had helped him,
 and who was later executed because of the help he had given
 to Jews. One witness claimed that the Polish underground had
 supplied many Jews with weapons and had saved thousands of
-Jewish chiidren by placing them with Polish families. The risks
+Jewish children by placing them with Polish families. The risks
 were prohibitive; there was the story of an entire Polish family
 who had been executed in the most brutal manner because they
 had adopted a six-year-old Jewish girl. But this mention of
@@ -9543,17 +9543,17 @@ man named Anton Schmidt. And in those two minutes, which
 were like a sudden burst of light in the midst of impenetrable,
 unfathomable darkness, a single thought stood out clearly, inefutably, beyond question— how utterly different everything would
 be today in this courtroom, in Israel, in Germany, in all of Europe,
-and perhaps in all coiintries of the world, if only more such stories
+and perhaps in all countries of the world, if only more such stories
 could have been told.
 
-Tliere are, of course, explanations of this devastating shortage,
+There are, of course, explanations of this devastating shortage,
 and they have been repeated many times. I shall give the gist
 of them in the words of one of the few subjectively sincere memoirs of the war published in Germany. Peter Bamm, a German
 Army physician who served at the Russian front, teils in Die
 
 2 3 2
 
-Unsichtbare Flagge (1952) of the kiiling of Jews in Sevastopol.
+Unsichtbare Flagge (1952) of the killing of Jews in Sevastopol.
 They were collected by "the others," as he calls the S.S. mobile
 killing units, to distinguish them from ordinary soldiers, whose
 decency the book extols, and were put into a sealed-off part of
@@ -9562,13 +9562,13 @@ where Bamm's own unit was quartered. They were then made
 to board a mobile gas van, in which they died after a few minutes, whereupon the driver transported the corpses outside the
 city and unloaded them into tank ditches. "We knew this. We did
 nothing. Anyone who had seriously protested or done anything
-against the killing unit would have beeil arrested within twentyfour hours and would have disappeared. It belongs among the
+against the killing unit would have been arrested within twentyfour hours and would have disappeared. It belongs among the
 refinements of totalitarian govemments in our Century that they
 don't permit their opponents to die a great, dramatic martyr's
 death for their convictions. A good many of us might have
 accepted such a death. The totalitarian state lets its opponents
 disappear in silent anonymity. It is certain that anyone who had
-dared to suffer death rather ihan silently tolerate the crime
+dared to suffer death rather than silently tolerate the crime
 would have sacrificed his life in vain. This is not to say that
 such a sacrifice would have been morally meaningless. It would
 only have been practically useless. None of us had a conviction
@@ -9577,14 +9577,14 @@ practically useless sacrifice for the sake of a higher moral meaning." Needless 
 he calls a "higher moral meaning "
 
 But the hollowness of respectability— for decency under such
-circumstances is no more than respcctabiliiy— was not what became apparent in the example aßorded by Sergeant Anton
+circumstances is no more than respectability— was not what became apparent in the example aßorded by Sergeant Anton
 Schmidt. Rather it was the fatal flaw in the argument itself, which
 at first sounds so hopelessly plausible. It is true that totalitarian
 domination tried to establish these holes öf oblivion into which
 all deeds, good and evil would disappear» but just as the Nazis'
 feverish attempts, from June, 1942, on, to erase all traces of the
-massacres— through cremation, through buming in open pits,
-through the use of explosives and flame-throwers and boneto failure, so all efTortscrushing macliinery— were doomed
+massacres— through cremation, through burning in open pits,
+through the use of explosives and flame-throwers and burning failure, so all efTortscrushing machinery— were doomed
 to let their opponents "disappear in silent anonymity" were in
 vain. The holes of oblivion do not exist. Nothing human is that
 
@@ -9599,7 +9599,7 @@ least, not in the Iong run. It would be of great practical usefulness
 for Germany today, not merely for her prestige abroad but for
 her sadly confused inner condition, if there were more such
 stories to be told. F o r the lesson of such stories is simple and
-within everybody's grasp. PoliticalJy speaking, it is that under
+within everybody's grasp. Politically speaking, it is that under
 conditions of terror most people will comply but some people
 will not, just as the lesson of the countries to which the Final
 Solution was proposed is that "it could happen" in most places
@@ -9613,7 +9613,7 @@ Eichmann spent the last months of the war cooling his heels in
 Berlin, with nothing to do, cut by the other department heads in
 the R.S.H.A., who had lunch together every day in the building
 where he had Ins office but did not once ask him to join them.
-H e kept himself busy with his defense instalJations., so as to be
+H e kept himself busy with his defense installations., so as to be
 ready for "the last battle" for Berlin, and, as his only official
 duty, paid occasional visits to Theresienstadt, where he showed
 Red Cross delegates around. To them, of all people, he
@@ -9622,22 +9622,22 @@ regard to the Jews, which included an avowed determination to
 time," concentration camps after ''the English
 have, "next
 model." In April, 1945, Eichmann had the last of his rare
-interviews with Himmler, who ordercd him to select "a hundred
+interviews with Himmler, who ordered him to select "a hundred
 to" two hundred prominent Jews in Theresienstadt," transport
 them to Austria, and install them in hotels, so that Himmler
-could use them as "hostages" in his forthcoming ncgotiations
+could use them as "hostages" in his forthcoming negotiations
 with Eisenhower. The absurdity of this commission seems not
 to have dawned upon Eichmann; he went, "with grief in my
 heart, as I had to desert my defense installations," but he never
 reached Theresienstadt, because all the roads were blocked by
-the approaching Russian annies, Instead, he ended up at Alt-
+the approaching Russian armies, Instead, he ended up at Alt-
 Aussee,
 taken refuge.
 Kaltenbrunner had no interest in Himmler's "prominent Jews,"
 and told Eichmann to organize a commando for partisan warfare in the Austrian mountains. Eichmann responded with the
-greatest cnthusiasm: "This was again something worth doing, a
+greatest enthusiasm: "This was again something worth doing, a
 task I enjoyed." But just as he had collected some hundred more
-or less unfit men, most of whcm had never seen a rifle, and had
+or less unfit men, most of whom had never seen a rifle, and had
 taken possession of an arsenal of abandoned weapons of all
 sorts, he received the latest Himmler order: wNo fire is to be
 
@@ -9661,7 +9661,7 @@ only a few days, and filled no more than 315 of the 3,564 pages
 copied off the tape-recorder. H e would like to have gone on, and
 he obviously did teil the rest of the story to the police, but the
 trial authorities, for various reasons, had decided not to admit
-any testimony covering the time after the cJose of the war.
+any testimony covering the time after the close of the war.
 However, from affidavits given at Nuremberg, and, more important, from a much discussed indiscretion on the part of a former
 Israeli civil servant, Moshe Pearlman, whose book The Capture
 of A dolf Eichmann appeared in London four weeks before the
@@ -9671,7 +9671,7 @@ the trial. (M r. Pearlman's own version was that since he had
 retired from govemment service three weeks before Eichmann
 was kidnaped, he had written the book as a "private individual," which is not very convincing, because the Israeli police
 must have known of the impending capture several months
-before his retirement.) The book caused some cmbarrassment
+before his retirement.) The book caused some embarrassment
 in Israel, not only because Mr. Pearlman had been able to
 divulge
 infonnation about important prosecution documents
@@ -9690,14 +9690,14 @@ never returned to Germany from Argentina, he had never been
 
 to any other Latin American country, he had played no role in
 postwar Nazi activities or organizations. A t the end of the war,
-he had tried to speak once more with Kaltenbruimer, who was
+he had tried to speak once more with Kaltenbrunner, who was
 still in Alt~Aussee, playing solitaire, but his former chief was
 in no mood to receive him, since "for this man he saw no
 chances any m ore/' (Kaltenbrunner's own chances were not so
 very good either, he was hanged at Nuremberg.) Almost
 immediately
 thereafter, Eichmann was caught by American
-soldiers and put in a camp for S.S. men, whcre numerous
+soldiers and put in a camp for S.S. men, where numerous
 interrogations failed to uncover his identity, although it was
 known to some of his fellow-prisoners. H e was cautious and did
 not write to his family, but let them believe he was dead; his
@@ -9706,12 +9706,12 @@ discovered that the only "eyewitness" to her husband's death
 was her brother-in-law. She had been left penniless, but Eichmann's family in Linz supported her and the three children.
 
 In November, 1945, the trials of the major war criminals
-opened in Nuremberg, and Eichmaxm's name began to appear
+opened in Nuremberg, and Eichmann's name began to appear
 with uncomfortable regularity. In January, 1946, Wisliceny
 appeared as a witness for the prosecution and gave his damning
 evidence, whereupon Eichmann decided that he had better disappear. H e escaped from the camp, with the help o f . the
 inmates, and went to the Lüneburger Heide, a heath about
-fifty miies south of Hamburg, where the brother of one of his
+fifty miles south of Hamburg, where the brother of one of his
 fellow-prisoners provided him with work as a lumberjack. H e
 stayed there, under the name of Otto Heninger, for four years,
 and he was probably bored to death. Early in 1950, he succeeded
@@ -9722,7 +9722,7 @@ identity, equipped him with a refugee passport in the name of
 Richard Kleinem and sent him on to Buenos Aires. He arrived
 in mid-July and, without any difficulty, obtained identification
 papers and a work permit as Ricardo Klement, Catholic, a
-bachelor, stateless, aged thirty-seven— sevcn years less than his
+bachelor, stateless, aged thirty-seven— seven years less than his
 real age.
 
 He was still cautious, but he now wrote to his wife in his own
@@ -9746,7 +9746,7 @@ the summer of 1952 he had his wife and children join him.
 (Mrs. Eichmann obtained a Gennan passport in Zürich, Switzerland, though she was a resident of Austria at the time, and
 under her real name, as a "divorcee" from a certain Eichmann,
 How this- came about has remained a mystery, and the file conthe German
-taining her applicatiou has disappeared from
+taining her application has disappeared from
 consulate in Zürich.) Upon her arrival in Argentina, Eichmann
 got his first steady job, in the Mercedes-Benz factory in Suarez,
 a suburb of Buenos Aires, first as a mechanic and later as a
@@ -9787,7 +9787,7 @@ admitted his identity. In 1955, this finally led to the interview
 with the Dutch Journalist Willem S. Sassen, a form er member
 of the Armed S.S. who had exchanged his Dutch nationality
 for a German passport during the war and had later been condemned to death in absentia in Belgium as a war crim inal
-Eichmann made copious notes for the interview, which was taperecorded and then rewritten by Sassen, with considerable embeliishments; the notes in Eichmann's own handwriting were discovered and they were admitted as evidence at his trial, though
+Eichmann made copious notes for the interview, which was taperecorded and then rewritten by Sassen, with considerable embellishments; the notes in Eichmann's own handwriting were discovered and they were admitted as evidence at his trial, though
 the S tatem en t as a whole was not. Sassen's Version appeared in
 abbreviated form first in the G ennan illustrated magazine Der
 Stern, in July, 1960, and then, in November and December, as
@@ -9800,8 +9800,8 @@ many efforts to break out of his anonymity, and it is rather
 Strange that it took the Israeli Secret Services several years—
 until August, 1959— to learn that Adolf Eichmann was living in
 Argentina under the n a m e of Ricardo Klement. Israel has never
-divuiged the source of her Information, and today at least half
-a dozen persons claim they found Eichmann, while "weliinformed circles" in Europe insist th a t it was the Russian Intelligence service th a t spilled the news. However that may h a v e
+divulged the source of her Information, and today at least half
+a dozen persons claim they found Eichmann, while "well-informed circles" in Europe insist th a t it was the Russian Intelligence service th a t spilled the news. However that may h a v e
 been, the puzzle is not how it was possible to discover Eichmann's hideout but, rather, how it was possible not to discover
 it earlier— provided, of course, that the Israelis had indeed
 pursued this search through the years. Which, in view of the
@@ -9813,8 +9813,8 @@ Ben-Gurion himself, who on May 23, 1960, announced to
 that Eichmann had been
 Israel's wildly cheering Knesset
 "found by the Israeli Secret Service." D r. Servatius, who tried
-strenuously and unsuccessfuily both before the District Court
-and before the Court of Appeal to call Zvi Tohar, chief piiot of
+strenuously and unsuccessfully both before the District Court
+and before the Court of Appeal to call Zvi Tohar, chief pilot of
 the El-Al plane that flew Eichmann out of the country, and Yad
 Shimoni, an official of the air line in Argentina, as witnesses,
 
@@ -9822,10 +9822,10 @@ Judgm ent, A p p e a l, an d E xecution
 
 2 3 9
 
-the A ttorney General
+the A Attorney General
 mentioned Ben-Gurion's Statement;
 countered by saying that the Prime Minister had "admitted no
-more than that Eichmann was jound out by the Secret Service/'
+more than that Eichmann was found out by the Secret Service/'
 not that he also had been kidnaped by govemment agents. Well,
 in actual fact, it seems that it was the other way round: Secret
 Service men had not ''found" him but only picked him up, after
@@ -9836,7 +9836,7 @@ was being shadowed: "I told you that months ago, I believe,
 when I was asked if I had known that I was found out5 and I
 could give you then precise reasons [that is, in the part of the
 police examination that was not released to the press]. , . , I
-leamed that people in my ncighborhood had made inquiries
+leamed that people in my neighborhood had made inquiries
 about real-estate purchases and so on and so forth for the establishment of a factory for sewing machines— a thing that was
 quite impossible, since there existed neither electricity nor water
 in that area. Furthermore, 1 was informed that these people
@@ -9850,7 +9850,7 @@ There was more proof than was revealed in Jerusalem of his
 willingness to go to Israel and stand trial. Counsel for the
 defense, of course, had to stress the fact that, after all, the
 accused had been kidnaped and "brought to Israel in conflict
-with international law," because this cnabled the defense to
+with international law," because this enabled the defense to
 challenge the right of the court to prosecute him, and though
 neither the prosecution nor the judges ever admitted that the kidnaping had been an "act of state," they did not deny it either.
 They argued that the breach of international law concemed
@@ -9864,9 +9864,9 @@ it did not m atter whether these Israelis were govemment agents
 
 2 4 0
 
-or private citlzens. What neither the defense nor the court mentioned was that Argentina would not have waived her rights so
+or private citizens. What neither the defense nor the court mentioned was that Argentina would not have waived her rights so
 obligingly had Eichmann been an Argentine Citizen. He had
-Iived there under an assumed name. thereby denying himself the
+Lived there under an assumed name. thereby denying himself the
 right to govemment protection, at least as Ricardo Klement
 (born on May 23, 1913, at Bolzano— in Southern Tyrol— as
 his Argentine identity card stated), although he had declared
@@ -9876,7 +9876,7 @@ in fact offered
 anyhow, since Argentina. although she has
 asylum to many known N a/j criminals. had signed an International Convention declaring that the perpetrators of crimes
 against humanity "will not be deemed to be political criminals."
-AU this did not make Eichmann stateless, it did not legaJIy
+AU this did not make Eichmann stateless, it did not legally
 deprive him of his German nationality, but it gave the West
 German republic a welcome pretext for withholding the customary protection due its citizens abroad. In other words., and
 despite pages and pages of legal argument, based on so many
@@ -9902,7 +9902,7 @@ than a minute, bundled into a waiting car, which took him to a
 previously rented house in a remote suburb of Buenos Aires. No
 drugs, no ropes. no handcuffs were used, and Eichmann
 immediately recognized that this was professional work, as no
-minecessary violence had been applied; he was not hurt. Asked
+unnecessary violence had been applied; he was not hurt. Asked
 who he was, he instantly said: "Ich bin Adolf E i c h m a n n and,
 
 Judgm ent, A p p ea l, an d E xecution
@@ -9946,7 +9946,7 @@ during which the prosecution did submit it as evidence, but
 without attaching much importance to it, than for Israel's first
 explanatory official note to the Argentine govemment, to which
 it was duly attached. Servatius, who asked Eichmann about the
-letter in court, did not merition the peculiarity of the date,
+letter in court, did not mention the peculiarity of the date,
 and Eichmann could not very well mention it himself since, upon
 
 2 4 2
@@ -9954,7 +9954,7 @@ and Eichmann could not very well mention it himself since, upon
 being asked a leading question by his lawyer, he confirmed,
 though somewhat reluctantly, that he had given the Statement
 under duress, while tied to the b;d in the Buenos Aires suburb.
-The prosecutor, who may have known better, did not crossexamine him on this point; clearly, the less said about this matter the better.) Mrs. Eichmann had notified the Argentine police
+The prosecutor, who may have known better, did not cross-examine him on this point; clearly, the less said about this matter the better.) Mrs. Eichmann had notified the Argentine police
 of her husband's disappearance, - but without revealing his
 identity, so no check of railway stations, highways, and airfields was made. The Israelis were lucky, they would never
 have been able to spirit Eichmann out of the country ten days
@@ -10014,7 +10014,7 @@ to admit a foreign counselor, and on July 14, 1960, six weeks
 after the police examination had started, with Eichm ann's
 explicit consent, he was informed that there were three possible
 counselors among whom he might choose, in arranging his
-defense— Dr. Robert Servatius, who was recommendcd by his
+defense— Dr. Robert Servatius, who was recommended by his
 family (Servatius had offered his services in a long-distance call
 to Eichmann's stepbrother in L inz), another German lawyer
 now residing in Chile, and an American law firm in New York,
@@ -10026,15 +10026,15 @@ to retain Dr. Servatius, since he seemed to be an acquaintance
 of his stepbrother and, also, had defended other war criminals,
 and he insisted on signing the necessary papers immediately.
 Half an hour later, it occurred to him that the trial could assume
-"global dhnensions," that it might become a "monster process,"
+"global dimensions," that it might become a "monster process,"
 that there were several attomeys for the prosecution, and that
-Servatius alone would hardiy be able "to digest all the material."
+Servatius alone would hardly be able "to digest all the material."
 H e was reminded that Servatius, in a letter asking for power of
 
-attomey, had said that he "would lead a group of attomeys"
+attorney, had said that he "would lead a group of attomeys"
 (he never did), and the police officer added, "It must be
 assumed that Dr. Servatius won't appear alone. That would be
-a physical irapossibility." But Dr. Servatius, as it turned out,
+a physical impossibility." But Dr. Servatius, as it turned out,
 appeared quite alone most of the time. The result of all this
 was that Eichmann became the chief assistant to his own defense
 counsel, and, quite apart from writing books "for future generations," worked very hard throughout the triaL
@@ -10060,7 +10060,7 @@ the killing of millions of Jews";
 "millions of Jews under conditions which were likely to lead to
 their physical destruction" ; (3) by "causing serious bodily and
 mental harm " to them; and (4 ) by "directing that births be
-banned and pregnancies intermpted among Jewish women" in
+banned and pregnancies interrupted among Jewish women" in
 Theresienstadt. But they acquitted him of any such charges
 bearing on the period prior to August, 1941, when he was
 informed of the Führer's order; in his earlier activities, in Berlin,
@@ -10098,14 +10098,14 @@ judgment held that "it has not been proved before us that the
 to
 accused knew that the Gypsies were being transported
 destruction"— which meant that no genocide charge except the
-"crime against the Jewish people" was brought. This was difficult to understand, for, apart from the fact that the extermmation of Gypsies was common knowledge, Eichmann had admitted
+"crime against the Jewish people" was brought. This was difficult to understand, for, apart from the fact that the extermination of Gypsies was common knowledge, Eichmann had admitted
 during the police examination that he knew of it: he had
 remembered vaguely that this had been an order from Himmler,
 that no "directives" had existed for Gypsies as they existed for
 Jews, and that there had been no "research" done on the
 "Gypsy problem"— "origins, customs, habits, O rgan ization
 . -
-foJklore . . . economy." His department had been commissioned to undertake the "evacuation" of thirty thousand Gypsies
+folklore . . . economy." His department had been commissioned to undertake the "evacuation" of thirty thousand Gypsies
 from Reich territory, and he could not remember the details
 very well, because there had been no Intervention from any
 side; but
@@ -10114,7 +10114,7 @@ exterminated he had never doubted. H e was guilty of their
 extermination in exactly the same way he was guilty of tbe
 extermination of the Jews. Count 12 concemed the deportation
 of ninety-three children from Lidice, the Czech village whose
-inhabitants had been massacred after the assassination of Heydrich; he was, however, rightJy acquitted of the murder of these
+inhabitants had been massacred after the assassination of Heydrich; he was, however, rightly acquitted of the murder of these
 
 that Gypsies, like Jews, were shipped off
 
@@ -10161,7 +10161,7 @@ to others and of one who enabled or aided others in [the
 criminal] act." But "in such an enormous and complicated crime
 as the one we are now considering, wherein many people
 participated, on various levels and in various modes of activity
-— the pianners, the organizers, and those executing the deeds,
+— the planners, the organizers, and those executing the deeds,
 according to their various ranks— there is not much point in
 using the ordinary concepts of counseling and soliciting to commit a crime. F or these crimes were committed en masse, not
 
@@ -10224,7 +10224,7 @@ death sentence was pronounced.
 
 Three months later, on March 22, 1962, review proceedings
 were opened before the Court of Appeal, Israel's Supreme Court,
-before five judges presided over by Itzhak OJshan. Mr. Hausner
+before five judges presided over by Itzhak Oshkan. Mr. Hausner
 appeared again, with four assistants, for the prosecution, and
 Dr. Servatius, with none, for the defense. Counsel for the defense
 repeated all the old arguments against the competence of the
@@ -10242,7 +10242,7 @@ hodgepodge, full of errors (in one instance, the defense oßered
 as new evidence the French translation of a document that had
 already been submitted by the prosecution, in two other cases
 it had simply misread the documents, and so o n ), its carelessness contrasted vividly with the rather carcful introduction
-of certatn remarks that were bound to be offensive to the court:
+of certain remarks that were bound to be offensive to the court:
 gassing was again a "medical matter"; a Jewish court had no
 right to sit in judgment over the fate of the children from Lidice,
 since they were not Jewish; Israeli legal procedure ran counter
@@ -10260,27 +10260,27 @@ unfair, the judgment unjust.
 
 The proceedings before the Court of Appeal lasted only a
 week, after which the court adjoumed for two months. On May
-29, 1962, the second judgment was read— somewhat Jess voluminous than the first, but still fifty-one siögle-spaced legalsized pages. It ostensibly confinned the District Court on all
+29, 1962, the second judgment was read— somewhat Jess voluminous than the first, but still fifty-one siögle-spaced legal-sized pages. It ostensibly confinned the District Court on all
 points, and to make this confirmation the judges would not
 have needed two months and fifty-one pages. T he judgment of
 the Court of Appeal was actually a revision of the judgment of
 the lower court, although it did not say so. In conspicuous contrast to the original judgment, it was now found that "the
 appellant had received no 'superior O rders' at all. H e was
 his own superior, and he gave all Orders in matters that concemed Jewish affairs"; he had, moreover, "eclipsed in importance all his superiors, including Müller." And, in reply to the
-obvious argament of the defense that the Jews would have been
+obvious argument of the defense that the Jews would have been
 the judges now
 no better off had Eichmann never existed,
 stated that "the idea of the Final Solution would never have
-assumed the infernal forms of the fiayed skin and tortured flesh
+assumed the infernal forms of the flayed skin and tortured flesh
 of millions of Jews without the fanatical zeal and the unquenchable blood thirst of the appellant and his accomplices." Israel's
 Supreme Court had not only accepted the arguments of the
 prosecution, it had adopted its very language.
 
 The same day, May 29, Itzhak Ben-Zvi, President of Israel,
 received Eichmann's plea for merey, four handwritten pages,
-made "upon instrucüons of my counsel," togethei with letters
+made "upon instrucüons of my counsel," together with letters
 from his wife and his family in Linz. The President also received
-hundreds of letters and telegrams from all over the world, pleadthe
+hundreds of letters and telegrams from all over the world, pleading
 ing for clemency; outstanding among the senders were
 Central Conference of American Rabbis, the representative body
 of Reform Judaism in this country, and a group of professors
@@ -10379,7 +10379,7 @@ philosopher to go on public record on the subject of Eichmann's
 execution (shortly before the trial started, Karl Jaspers had
 given a radio interview in Basel, later pubüshed in Der Monat,
 in which he argued the case for an international tribunal); it
-was disappoinling to find him dodgrng, on the highest possible
+was disappointing to find him dodging, on the highest possible
 level, the very problem Eichmann and his deeds had posed.
 
 Least of all was heard from those who were against the death
@@ -10395,7 +10395,7 @@ He refused the help of the Protestant minister, the Reverend
 William Hull, who offered to read the Bible with him: he had
 only two more hours to live, and therefore no "time to waste."
 He walked the fifty yards from lüs cell to the execution chamber
-calm and erect, with his hanas bound behind him. When the
+calm and erect, with his hands bound behind him. When the
 guards tied his ankles and knees, he asked them to loosen the
 bonds so that he could stand straight. "I don't need that," he
 said when the black hood was offered him. H e was in complete
@@ -10460,23 +10460,23 @@ kinds. First, there were those objections that had been raised
 against the Nuremberg Trials and were now repeated: Eichmann
 was tried under a retroactive law and appeared in the court of
 the Victors. Second, there were those objections that applied only
-to the Jeiusalem couit, in that they questioned eit her its competence as such or its failure to take into account the act of
-kidnaping. And, finally, and most impoitant, there were objections to the charge itself, that Eichmann had committed enntes
+to the Jerusalem couit, in that they questioned eit her its competence as such or its failure to take into account the act of
+kidnaping. And, finally, and most impoitant, there were objections to the charge itself, that Eichmann had committed crimes
 " against the Jewish people," instead of "against humanity," and
 hence to the Jaw under which he was tried; and this objection
 led to the logical conclusion that the only proper court to try
-these crimes was an international tribunah
+these crimes was an international tribunal
 
 The court's reply to the first set of objections was simple: the
 Nuremberg Trials were cited in Jerusalem as valid precedent,
 and, acting under municipal law, the judges could hardly have
 done otherwise, since
-the Nazis and Nazi Coliaborators
-(Funishment) Law of 1950 was itself based on this precedent
-" This particular legisfation," the judgment pointed out, "is totally
+the Nazis and Nazi Collaborators
+(Punishment) Law of 1950 was itself based on this precedent
+" This particular legislation," the judgment pointed out, "is totally
 different from any other legislation usual in criminal codes," and
 the reason for its difference lies in the nature of the crimes it
-deals with. Its retroactivity, one may add, violates only fbrmally, not substantiaily,
+deals with. Its retroactivity, one may add, violates only formally, not substantially,
 the principle nullum crimen, nulla
 poena sine lege, since this applies meaningfully only to acts
 known to the legislator; if a crime unknown before, such as
@@ -10486,7 +10486,7 @@ this new law was the Charter (the L o n d o n Agreement of 1945),
 in the case of Israel, it was the Law of 1950. The question is
 not whether these laws were retroactive, which, o f course; they
 had to be, but whether they were adequate, that is, whether
-they applied only to crimes previously unknown. This prerequi-
+they applied only to crimes previously unknown. This prerequisite-
 
 2 5 5
 
@@ -10496,25 +10496,25 @@ Military Tribunal at Nuremberg, and it may be for this reason
 that the discussion of these matters has remained somewhat
 confused.
 
-The Charter accorded jurisdiction over three soits of crimes:
+The Charter accorded jurisdiction over three sorts of crimes:
 "crimes against peace," which the Tribunal called the "supreme
-international crim e . . , in that it contains within itself the accumulated evil of the whole"; "war crimes"; and ilcrimes against
+international crim e . . , in that it contains within itself the accumulated evil of the whole"; "war crimes"; and crimes against
 humanity." Of these, only the last, the crime against humanity,
 was new and unprecedented. Aggressive warf are is at least as old
-as recorded history, and while it bad been denounced as "criminaP' many times before, it had never been recognized as such
+as recorded history, and while it bad been denounced as "criminal' many times before, it had never been recognized as such
 io aoy formal sense. (None of the current justifications of the
 Nuremberg court's jurisdiction over this matter has much to
-commend it. It is true that Wilhelm II had beeen cited before
-a tribunal of the AIJied powers after the First WorJd War, but
+commend it. It is true that Wilhelm II had been cited before
+a tribunal of the Allied powers after the First WorJd War, but
 the crime the former German Kaiser had been charged with
-was not "war but breach of treaties— and specifically, the violation of Belgiuin's neutrality. It is also true that the Briand-
+was not "war but breach of treaties— and specifically, the violation of Belgium's neutrality. It is also true that the Briand-
 Kellogg pact of August, 1928, had ruled out war as an
 instrument of national policy, but the pact contained neither a
 criterion of aggression nor a mention of sanctions—quite apart
 from the fact that the security system that the pact was meant
 to bring about had collapsed prior to the outbreak of w a r)
 Moreover, one of the judging countries, namely, Soviet Russia,
-was open to the tu-quoque argument. Hadn't the Russians attackid Finland and divided Poland in 1939 with complete
+was open to the tu-quoque argument. Hadn't the Russians attacked Finland and divided Poland in 1939 with complete
 impunity? "War crimes,** on the otber hand, surely no more
 unprecedented than the ''crimes against peace,' * were covered
 by international law. The Hague and Geneva Conventions had
@@ -10523,8 +10523,8 @@ consisted chiefly of ill-treatment of prisoners and of warlike acts
 against civilian populations. No new law with retroactive force
 was needed here, and the main difficulty at Nuremberg lay in
 the indisputable fact that here, again, the tu-quoque argument
-appJied: Russia, which had never signed the Hague Convention
-(Italy, incidentaHy, had not ratified it either), was more than
+applied: Russia, which had never signed the Hague Convention
+(Italy, incidentally, had not ratified it either), was more than
 suspected of mistreatment of prisoners, and, according to recent
 
 2 5 6
@@ -10541,10 +10541,10 @@ the Hague
 Convention. And while the bombing of German cities had been
 provoked by the enemy, by the bombing of London and
 Coventry and Rotterdam, the same cannot be said of the use
-of an entirely new and overwhelmingiy powerful weapon, whose
-existence could have been announced and demonsiratöd in many
+of an entirely new and overwhelmingly powerful weapon, whose
+existence could have been announced and demonstratedöd in many
 other ways. To be sure, the most obvious reason that the violations of the Hague Convention committed by the Allies were
-never even diseussed in legal terms was that the International
+never even discussed in legal terms was that the International
 Military Tribunals were international in name only, that they
 were in fact the courts of the victors, and the authority of their
 judgment, doubtful in any case, was not enhanced when the
@@ -10569,9 +10569,9 @@ be demonstrated.
 
 This factor of gratuitous brutality was a valid criterion for
 determining what, under the circumstances, constituted a war
-crime. It was not vaiid for, but was unfortunately introduced
+crime. It was not valid for, but was unfortunately introduced
 
-E pilogue
+E epilogue
 
 2 5 7
 
@@ -10579,17 +10579,17 @@ into the fumbling definitions of, the only entirely new crime,
 the "crime against humanity," which the Charter (in Article
 6-c) defined as an "inhuman act"— as though this crime, too,
 were a matter of criminal excess in the pursuit of war and
-victory. However, it was by no means this sort of weJl-known
+victory. However, it was by no means this sort of well-known
 offense that had prompted the Allies to dec]are, in the words of
 Churchill, that "punishment of war crürünals [was] one of the
 principal war aims" but, on the contrary, reports of unheard-of
 atrocities, the blotting out of whole peoples, the "clearance" of
 whole regions of their native population, that is, not only crimes
 that "no conception of müitary necessity could sustain" but
-crimes that were in fact independent of the war and that anoounced a policy of systematic murder to be continued in time
+crimes that were in fact independent of the war and that announced a policy of systematic murder to be continued in time
 of peace. This crime was indeed not covered by international
 or municipal law, and, moreover, it was the only crime to which
-the tu-quoqm argument did not apply. And yet there was no
+the tu-tu-quoque argument did not apply. And yet there was no
 other crime in the face of which the Nuremberg judges feit so
 uncomfortable, and which they left in a more tantalizing state of
 ambiguity. It is perfectly true that— in the words of the French
@@ -10597,7 +10597,7 @@ judge at Nuremberg, Donnedieu de Vabres, to whom we owe
 one of the best analyses of the trial (Le Proces de Nuremberg,
 1947)— "the category of crimes against humanity which the
 Charter had let enter by a very small door evaporated by virtue
-of the TribunaTs j u d g m e n t T h e judges, however, were as little
+of the Tribunal's j u d g m e n t T h e judges, however, were as little
 consistent as the Charter itsejf, for although they preferred to
 convict, as Kirchheimer says, "on the war crime charge, which
 embraced all the traditional common crimes, while underemphasizing as much as possible the charges of crimes against
@@ -10647,7 +10647,7 @@ Nuremberg had been established for war criminals whose crimes
 could not be localized, all others were delivered to the countries
 where they had committed their crimes. Only the "major war
 criminals" had acted without territorial limitations, and Eichmann certainly was not one of them. (This— and not, as was
-frequently maintained, his disappeaxance— was the reason he
+frequently maintained, his disappearance— was the reason he
 was not accused at Nuremberg; M artin Bormann, for instance,
 was accused, tried, and condemned to death in absentia.) If
 Eichmann's activities had spread all over occupied Europe, this
@@ -10657,11 +10657,11 @@ Eichmann's activities had spread all over occupied Europe, this
 was so not because he was so important that territorial limits
 did not apply to him but because it was in the nature of his
 task, the collection and deportation of all Jews, that he and
-his men had to roam the continent. It was the territorial dispersion of the Jews that made the crime against them an "international" conccrn in the limited, legal sense of the Nuremberg
+his men had to roam the continent. It was the territorial dispersion of the Jews that made the crime against them an "international" concern in the limited, legal sense of the Nuremberg
 Charter. Once the Jews had a territory of their own, the State in
 Israel, they obviously had as much right to sit in judgment on
 the crimes committed against their people as the Poles had to
-judge crimes committed in Poland. All objections raised agaiast
+judge crimes committed in Poland. All objections raised against
 the Jerusalem trial od the ground of the principle of territorial
 jurisdiction were legalistic in the extreme, and although the
 court spent a number of sessions discussing all these objections,
@@ -10679,14 +10679,14 @@ Equally unfounded, I think, was the even more frequent
 argument against the possible partiality of Jewish judges— that
 they, especially if they were citizens of a Jewish State, were
 judging in their own cause. It is difficult to see how the Jewish
-judges djffered in this respect from their colleagues in any of
-the other Successor trials, where Polish judges pronouaced sentence for crimes against the Polish people, or Czech judges sat
+judges differed in this respect from their colleagues in any of
+the other Successor trials, where Polish judges pronounced sentence for crimes against the Polish people, or Czech judges sat
 in judgment on what had happened in Prague and in Bratislava.
 (Mr. Hausner, in the last of his articles in the Saturday Evening
 Post, unwittingly added new fuel to this argument: he said that
 the prosecution realized at once that Eichmann could not be
 defended by an Israeli lawyer, because there would be a confüct between "professional duties" and "national emotions." Weil,
-this confiict constituted the gist of all the objections to Jewisb
+this confiict constituted the gist of all the objections to Jewish
 judges, and Mr. Hausner's argument in their favor, that a judge
 may bäte the crime and yet be fair to the criminal, applies to
 the defense counsel as well: the lawyer who defends a murderer
@@ -10699,10 +10699,10 @@ to charge an Israeli citizen with the defense of Eichmann.)
 Finally, the argument that no Jewish State had existed at the
 time when the crime was committed is surely so formalistic, so
 out of tune with reality and with all demands that justice must
-be done, that we may safely leave it to the learaed debates
+be done, that we may safely leave it to the learned debates
 of the experts. In the interest of justice (as distinguished from
 the concem with certain procedures which, important in its own
-right, can never be perroitted to ovem ile justice, the law's chief
+right, can never be permitted to ovem ile justice, the law's chief
 concern), the court, to justify its competence, would have
 needed to invoke neither the principle of passive personality—
 that the victims were Jews and that only Israel was entitled to
@@ -10733,7 +10733,7 @@ be heard. Thus it falls to me to be their mouthpiece and to
 deliver the heinous accusation in their name." With such rhetoric
 the prosecution gave substance to the chief argument against
 the trial, that it was established not in order to satisfy the
-demands of justice but to still the victims' desire for and, perthat under certain circumstances "the
+demands of justice but to still the victims' desire for and, perhaps under certain circumstances "the
 
 2 6 1
 
@@ -10781,7 +10781,7 @@ acknowledging obedience to no flag whatsoever" (H. Zeisel,
 
 2 6 2
 
-Britanrüca Book of the Year, 1962), is, by definition, in business
+Britannicaüca Book of the Year, 1962), is, by definition, in business
 entirely for himself; he is an outlaw because he has chosen to
 put himself outside all organized communities, and it is for this
 reason that he has become "the enemy of all alike." Surely, no
@@ -10831,7 +10831,7 @@ and laws. Such relationships become spatially manifest insofar
 as they themselves constitute the space wherein the different
 members of a group relate to and have intercourse with each
 other. No State of Israel would ever have come into being if
-the Jewish people had not created and maintained its own specific in-between space throughout the long centurics of dispcrsion,
+the Jewish people had not created and maintained its own specific in-between space throughout the long centuries of dispersion,
 that is, prior to the seizure of its old territory. The court,
 however, never rose to the ch allenge of the unprecedentcd, not
 even in regard to the unprecedented nature of the origins of
@@ -10861,7 +10861,7 @@ that only Eichmann's de facto statelessness enabled Israel to
 get away with kidnaping him, and it is understandable that
 despite the innumerable precedents cited in Jerusalem to justify
 the act of kidnaping, the only relevant one, the capture of
-BerthoM Jakob, a Leftist German Jewish Journalist, in Switzerland by Gestapo agents in 1935, was never mentioned. (None
+Berthold Jakob, a Leftist German Jewish Journalist, in Switzerland by Gestapo agents in 1935, was never mentioned. (None
 of the other precedents applied, because they invariably con-
 
 Eichmann
@@ -10869,27 +10869,27 @@ Eichmann
 cem ed a fugitive from justice who was brought back not only
 to the place of his crimes but to a court that had issued, or
 could have issued, a valid warrant of arrest—conditions that
-Israel could not have fulfüled.) ln this instance, Israel had indeed
-violated the territorial piinciple, whose great significance lies ic
+Israel could not have fulfilledüled.) ln this instance, Israel had indeed
+violated the territorial principle, whose great significance lies ic
 the fact that the earth is inhabited by many peoples and that
-these peoples are mied by many different laws, so that every
-extension of one territoiy's law beyond the borders and limitations of its validity wiU bring it into immediate conßict with
-the law of another tenitoiy.
+these peoples are bound by many different laws, so that every
+extension of one territory law beyond the borders and limitations of its validity wiU bring it into immediate conßict with
+the law of another territory.
 
 This, unhappily, was the only almost unprecedented feature
 in the whole Eichmann trial, and certainly it was the least entitled ever to become a valid precedent. (What are we going to
-say if tomorrow it occurs to some Afirican state to send its
+say if tomorrow it occurs to some African state to send its
 agents into Mississippi and to kidnap one of the leaders of the
 segregationist movement there? And what are we going to reply
 if a court in Ghana or the Congo quotes the Eichmann case
 as a precedent?) Its justification was the unprecedentedness of
 the crime and the coming into existence of a Jewish State.
 There were, moreover, impoitant mitigating circumstances in
-that there hardly existed a tiue alternative if one indeed wished
+that there hardly existed a true alternative if one indeed wished
 to bring Eichmann to justice. Argentina had an impressive record
 for not extraditing Nazi criminals; even if there had been an
 extradition treaty between Israel and Argentina, an extradition
-request would almost ceitainly not have been honored. Nor
+request would almost certainly not have been honored. Nor
 would it have helped to hand Eichmann over to the Argentine
 police for extradition to West Germany; for the Bonn govemment had earlier sought extradition from Argentina of such
 weU-known Nazi criminals as Karl Klingenfuss and Dr. Josef
@@ -10897,28 +10897,28 @@ Mengele (the latter »mplicated m the most horrifying medical
 experiments at Auschwitz and in Charge of the "selection") withou t any success. In the case of Eichmann, such a request would
 have been doubly hopeless, since, according to Argentine law,
 all offenses connected with the last war had fallen under the
-sistute of limitation fifteen years after the end of the war* so
+statute of limitation fifteen years after the end of the war* so
 that after May 7, 1960, Eichmann could not have been legally
-extradited anyway. In shoit, the realm of legality offered no
+extradited anyway. In short, the realm of legality offered no
 alternative to kidnaping.
 
 Those who are convinced that justice, and nothing eise, is the
 
-Eptfogue
+Epilogue
 
 2 6 5
 
 end of law will be inclined to condone the kidnaping act, though
 not because of precedents but, on the contrary,. as a desperate,
-unprecedented and no-piec*dent-setting act, necessitated by the
+unprecedented and no-precedent*dent-setting act, necessitated by the
 unsatisfactory condition of international law. In this perspective,
 there existed but one real alternative to what Israel had done:
 instead of capturing Eichmann and flying him to Israel, the
 Israeli agents could have killed him right then and there, in the
-streets of Buenos Aires. This couise cf action was frequently
+streets of Buenos Aires. This course cf action was frequently
 mentioned in the debates on the case and, somewhat oddly,
-was rccommended most fervently by those who were most
-shocked by the kidnaping. The notion was not without meiit,
+was recommended most fervently by those who were most
+shocked by the kidnaping. The notion was not without merit,
 because the facts of the case were beyond dispute, but those
 who proposed it forgot that he who takes the law into his own
 hands will render a sei-vice to justice only if he is willing to
@@ -10927,7 +10927,7 @@ operate and his act can, at least posthumously, be validated.
 Two precedents in the recent past come immediately to mind.
 There was the case of Shalom Schwartzbard, who in Paris on
 May 25, 1926, shot and killed Simon Petlyura, former hetman
-of the Ukrainian armies and responsible for the pogroms duiing
+of the Ukrainian armies and responsible for the pogroms during
 the Russian civil war that claimed about a hundred thousand
 victims between 1917 and 1920. And there was the case of
 the Armenian Tehürian, who, in 1921, in the middle of Berlin,
@@ -10937,11 +10937,11 @@ hundred thousand) of the Armenian population in Turkey was
 massacred. The point is that neither of these assassins was satisfied with killing "his" criminal, but that both immediately gave
 themselves up to the police and insisted on being tried Each
 used his trial to show the world through court procedure what
-crimes against his people had been committed and gone unpunished. In the Schwaitzbard trial, especially, methods very similar
+crimes against his people had been committed and gone unpunished. In the Schwartzbard trial, especially, methods very similar
 to those in the Eichmann trial were used. There was the same
 stress on extensive documentation of the crimes, but that time
 it was prepared for the defense (by the Comite des Delegations
-Juives, under the chaiimanship of the late Dr. Leo Motzkin,
+Juives, under the chairmanship of the late Dr. Leo Motzkin,
 which needed a year and a half to collect the material and then
 published it in Les Pogromes en Ukraine sous les gouvernements
 ukrainiehs 1917-1920, 1927), just as that time it was the ac-
@@ -10996,13 +10996,13 @@ unpunished. His sense of justice would have been satisfied. And
 when we read the letter he addressed from his prison in Paris
 to his brothers and sisters in Odessa— "Faites savoir dans les
 villes et dans les villages de Balta, Proskou.ro, Tzcherkass,
-Ouman, Jitomir . . . , portez-y le message edifiant: la colere
-juive a tiri sa vengeance! Le sang de Vassassin Peilioura, qui a
+Ouman, Jitomir . . . , portez-y le message edifying: la colère
+juive a tiré sa vengeance! Le sang de Vassassin Peilioura, qui a
 jailli dans la ville mondiale, ä Paris, . . . rappellera le crime
-. commis envers le pauvre et abandonne peuple
-fdroce
+. commis envers le pauvre et abandonné peuple
+féroce
 juif"— vte recognize immediately not, perhaps, the language that
-Mr. Hausner actualJy spoke during* the trial (Shalom Schwartzbard's language was infinitely more dignified and more moving)
+Mr. Hausner actually spoke during* the trial (Shalom Schwartzbard's language was infinitely more dignified and more moving)
 but certainly the sentiments and the state of mind of Jews all
 over the world to which it was bound to appeal.
 
@@ -11040,7 +11040,7 @@ minority. According to international law, it was the privilege of
 the sovereign German nation to declare to be a national minority
 whatever part of its population it saw fit, as long as its minority
 laws conformed to the rights and guarantees established by internationally recognized minority treaties and agreements. International Jewish organizations therefore promptly tried to obtain for
-this newest minority the same rights and guarantees that minorities in Eastem and Southeastem Europe had been granted at
+this newest minority the same rights and guarantees that minorities in Eastem and Southeastern Europe had been granted at
 Geneva. But even though this protection was not granted, the
 Nuremberg Laws were generally recognized by other nations as
 part of German law, so that it was impossible for a German
@@ -11088,7 +11088,7 @@ that genocide, not being covered by an Israeli law, could not
 properly enter into its considerations.) Among the numerous and
 highly qualified voices that raised objections to the court in
 Jerusalem and were in favor of an international tribunal, only
-one, that of Karl Jaspers, stated clearly and unequivocalJy— in a
+one, that of Karl Jaspers, stated clearly and unequivocally— in a
 radio interview held before the trial began and later published
 in Der Monat— that "the crime against the Jews was also a crime
 against mankind," and that "consequently the verdict can be
@@ -11119,7 +11119,7 @@ have had recourse to the United Nations and demonstrated,
 with all the evidence at hand, that the need for an international
 criminal court was imperative, in view of these new crimes committed against mankind as a whole. It would then have been in
 Israel's power to make trouble, to "create a wholesome disturbance," by asking again and again just what it should do with
-this man whom it was holding prisoner; constaöt repetition
+this man whom it was holding prisoner; constantöt repetition
 would have impressed on worldwide public opinion the need for
 a permanent international criminal court. Only by creating, in
 this way, an "embarrassing Situation" of concem to the representatives of all nations would it be possible to prevent '"mankind
@@ -11171,7 +11171,7 @@ not need to appeal to others for protection and justice, or fall
 back upon the compromised phraseology of the rights of man—
 rights which, as no one knew better than they, were claimed
 only by people who were too weak to defend their "rights of
-Englislimen" and to enforce their own laws. (The very fact that
+Englishmen" and to enforce their own laws. (The very fact that
 Israel had her own law under which such a trial could be held
 had been called, long before the Eichmann trial, an expression
 of "a revolutionary transformation that has taken place in the
@@ -11194,7 +11194,7 @@ Collaborators (Punishment) Law of 1950 is wrong, it is in contradiction to what 
 And this would indeed have been quite true. For just as a murderer is prosecuted because he has violated the law of the community, and not because he has deprived the Smith family of its
 husband, father, and breadwinner, so these modern, state-employed mass murderers must be prosecuted because they violated
 the order of mankind, and not because they killed millions of
-people. Nothing is more pemicious to an understanding of these
+people. Nothing is more pernicious to an understanding of these
 new crimes, or stands more in the way of the emergence of an
 international penal code that could take care of them, than the
 common illusion that the crime of murder and the crime of
@@ -11227,12 +11227,12 @@ commission of crimes. On the contrary, whatever the punishment, once a specific 
 reappearance is more likely than its initial emergence could
 ever have been. The particular reasons that speak for the possibility of a repetition of the crimes committed by the Nazis are
 even more plausible. The frightening coincidence of the modern
-population expbsion with the discovery of technical devices that,
-through automatlon, will make large sections of the population
+population expansion with the discovery of technical devices that,
+through automation, will make large sections of the population
 "superfluous" even in terms of labor, and that, through nuclear
 energy, make it possible to deal with this twofold threat by the
 use of instruments beside which H itler's gassing installations look
-like an evil child's fumbliag toys, should be enough to make us
+like an evil child's fumbling toys, should be enough to make us
 tremble.
 
 It is essentially for this reason: that the unprecedented, once
@@ -11285,7 +11285,7 @@ criminal who commits this crime.
 As to the first of these, justice was more seriously impaired in
 Jerusalem than it was at Nuremberg, because the court did not
 admit witnesses for the defense. In terms of the traditional requirements for fair and due proccss of law, this was the most serious
-flaw in the Jerusalem proceedirtgs. Moreover, while judgment in
+flaw in the Jerusalem proceedings. Moreover, while judgment in
 the court of the victors was perhaps inevitable at the close of the
 war (to Justice Jackson's argument in Nuremberg: "Either the
 victors must judge the vanquished or we must leave the defeated
@@ -11319,14 +11319,14 @@ could not be explained by any utilitarian purpose; Jews had been
 murdered all over Europe, not only in the East, and their annihilation was not due to any desire to gain territory that "could be used
 for colonization by Germans." It was the great advantage of a trial
 centered on the crime against the Jewish people that not only did
-the diSerence between war crimes, such as shooting of partisans
+the difference between war crimes, such as shooting of partisans
 and killing of hostages, and "inhuman acts," such as "expulsion
 and Annihilation" of native populations to permit colonization
 by an invader, emerge with sufficient clarity to become part of
 a future international penal code, but also that the difference
 between "inhuman acts"
 (which were undertaken for some
-lmown, though criminal, purpose, such as expansion through
+known, though criminal, purpose, such as expansion through
 colonization) and the "crime against humanity," whose intent
 and purpose were unprecedented, was clarified. At no point,
 however, either in the proceedings or in the judgment, did the
@@ -11338,7 +11338,7 @@ Gypsies— might be more than a crime against the Jewish or the
 Polish or the Gypsy people, that the international order, and mankind in its entirety, might have been grievously hurt and endangered,
 
 Closely connected with this failure was the conspicuous helplessness the judges experienced when they were confronted with
-the task they could least escape, the task of understandmg the
+the task they could least escape, the task of understanding the
 criminal whom they had come to judge. Clearly, it was not
 enough that they did not follow the prosecution in its obviously
 mistaken description of the accused as a "perverted sadist," nor
@@ -11348,8 +11348,8 @@ which Mr. Hausner wanted to try the most abnormal monster
 the worid had ever seen and, at the same time, try in him
 "many like him/* even the "whole Nazi movement and anti-
 Semitism at large." They knew, of course, that it would have
-been very comfortmg indeed to believe that Eichmann was a
-monster, even though if he had been IsraePs case against him
+been very comforting indeed to believe that Eichmann was a
+monster, even though if he had been Israel's case against him
 would have collapsed or, at the very least, lost all interest
 Surely, one can hardly call upon the whole worid and gather
 correspondents from the four comers of the earth in order to display Bluebeard in the dock. The trouble with Eichmann was precisely that so many were like him, and that the many were
@@ -11377,14 +11377,14 @@ proved no more than recognition that the law of mass murder,
 because of its novelty, was not yet accepted by other nations; or,
 in the language of the Nazis, that they had lost their fight to
 "liberate" mankind from the "rule of subhumans," especially
-from the domination of the Eiders of Zion; or, in ordinaiy language, it proved no more than the admission of defeat. Would
+from the domination of the Eiders of Zion; or, in ordinary language, it proved no more than the admission of defeat. Would
 any one of them have suffered from a guilty conscience if they had
 won?
 
 Foremost among the larger issues at stäke in the Eichmann
 trial was the assumption current in all modern legal systems
 that intent to do wrong is necessary for the commission of a
-crime, On nothing, perhaps, has civilized jurisprudence prided itseif more than on this taking into account of the subjektive
+crime, On nothing, perhaps, has civilized jurisprudence prided itself more than on this taking into account of the subjective
 factor. Where this intent is absent, where, for whatever reasons,
 even reasons of moral insanity, the ability to distinguish between
 right and wrong is impaired, we feel no crime has been committed. We refuse, and consider as barbaric, the propositions
@@ -11392,7 +11392,7 @@ right and wrong is impaired, we feel no crime has been committed. We refuse, and
 out fo r vengeance; that evil violates a natural harmony which
 only retribution can restore; that a wronged collectivity owes a
 duty to the moral order to punish the criminal" (Yosal R ogat).
-And yet I think it is imdeniable that it was precisely on the
+And yet I think it is undeniable that it was precisely on the
 ground of these long-forgotten propositions that Eichmann was
 brought to justice to begin with, and that they were, in fact, the
 supreme justification for the death penalty. Because he had been
@@ -11426,7 +11426,7 @@ fire from Heaven because all the people in them had become
 equally guilty. This, incidentally, has nothing to do with the
 to which
 newfangled notion of 'collective guilt,' according
-people suppösedly are guilty of, or feel guilty about, things done
+people suppösupposedly are guilty of, or feel guilty about, things done
 in their name but not by them— things in which they did not participate and frotn which they did not profit. In other words, guilt
 and innocence before the law are of an objective nature, and even
 if eighty million Germans had done as you did, this would not
@@ -11502,16 +11502,16 @@ material" made available by the prosecution.
 3) T he sixteen sworn affidavits by witnesses originally called
 by the defense, althougb part of their testimony was subsequently
 used by the prosecution. These witnesses were: Erich von dem
-Bach-Zclewski, Richard Baer, Kurt Becher, Horst Grell, Dr.
+Bach-Zelewski, Richard Baer, Kurt Becher, Horst Grell, Dr.
 Wilhelm Höttl, Walter Huppenkothen, Hans Jüttner, Herbert
 Kappler, Hermann Krumey, Franz Novak, Alfred Josef Slawik,
 Dr. Max Merten, Professor Alfred Six, Dr. Eberhard von
 Thadden, Dr. Edmund Veesenmayer, Otto Winkelmann.
-4) Finaily, I also had at my disposai a manuscript of seventy
-typewritten pages written by Eichmann himself. Tt was subnütted as evidence by the prosecution and accepted by the court,
+4) Finally, I also had at my disposal a manuscript of seventy
+typewritten pages written by Eichmann himself. Tt was submittedütted as evidence by the prosecution and accepted by the court,
 but not made available to the press. Its heading reads
 in
-translaüon: "Re: M y comments on the m atter of 'Jewish questions and measures of the National Socialist Government of
+translationüon: "Re: M y comments on the m atter of 'Jewish questions and measures of the National Socialist Government of
 the German Reich with regard to solution of this m atter during
 the years 1933 to 1945.' " This manuscript contains notes made
 by Eichmann in Argentina in preparation for the Sassen interview (see Bibliography).
@@ -11541,7 +11541,7 @@ role of the Jewish Councils in the Final Solution; Strafsache
 German translation), who is almost the only writer on the subject
 to put the person of the defendant at the center of his report
 and whose evaluation of Eichmann coincides with my own on
-some essential points; and finally the exceUent, recently published portraits of leading Nazis by T. C. Fest in his Das
+some essential points; and finally the excellent, recently published portraits of leading Nazis by T. C. Fest in his Das
 Gesicht des Dritten 'Reiches; Fest is very knowledgeable and
 his judgments are on a remarkably high leve!.
 
@@ -11550,14 +11550,14 @@ compared with those attendant on the writing of a historical
 monograph. In either case, the nature of the work requires a
 deliberate distinction between the use of primary and secondary
 material. Primary sources only may be used in the treatment
-of the special subject— in this case the trial itself— while secondary material is drawn upon for everytbing that constitutes the
+of the special subject— in this case the trial itself— while secondary material is drawn upon for everything that constitutes the
 historical background. Thus, even the documents I have quoted
 were with very few exceptions presented in evidence at the
 trial (in which case they constituted my primary sources) or
 are drawn from author itative books dealing with the period in
 question. As can be seen from the text, I have used Gerald
 Reitlinger's The Final Solution, and I have relied even more
-on Raul Hilberg's The Destruciion of the European Jews, which
+on Raul Hilberg's The Destruction of the European Jews, which
 appeared after the trial and constitutes the most exhaustive and
 the most soundly documented account of the Third R eich t Jewish
 
@@ -11577,7 +11577,7 @@ M cCarthy)— was carried from America to England and then
 to Europe, where the book was not yet even available. And this
 was possible because the clamor centered on the "image" of a
 book which was never written, and touched upon subjects that
-often had not oniy not been mentioned by me but had never
+often had not only not been mentioned by me but had never
 occurred to me before.
 
 interests, have
@@ -11592,7 +11592,7 @@ they are
 of
 their
 inspired by well-defined
-efifect, however, if they happen to touch upon an
+effect, however, if they happen to touch upon an
 issue of
 authentic concem, is no longer subject to their control and
 may easily produce consequences they never foresaw or intended.
@@ -11604,7 +11604,7 @@ this great catastrophe in the heart of Europe either, and had
 also been unable to come to terms with it. Moreover— and this
 was perhaps even less expected— general moral questions, with
 all their intricacies and modern complexities, which I would
-never have suspected would haunt mcn's minds today and weigh
+never have suspected would haunt men's minds today and weigh
 heavily on their hearts, stood suddenly in the foreground of
 public concem.
 
@@ -11618,7 +11618,7 @@ taken its place in history textbooks and in this country has
 been espoused chiefly by the psychologist Bruno Bettelheim—
 against the furious protest of official American Judaism) has
 been repeatedly dragged in to explain behavior which was not
-at all confmed to the Jewish people and which therefore cannot
+at all confined to the Jewish people and which therefore cannot
 be explained by specifically Jewish factors. The suggestions
 
 2 8 4
@@ -11676,7 +11676,7 @@ As is frequently the case in discussions that are conducted
 with a great show of emotion, the down-to-earth interests of
 certain groups, whose excitement is entirely concemed with
 factual matters and who therefore try to distort the facts, become
-quickly and inextricably involved with the untrammeled inspirations of mtellectuals who, on the contrary, are not in the least
+quickly and inextricably involved with the untrammeled inspirations of intellectuals who, on the contrary, are not in the least
 interested in facts but treat them merely as a springboard for
 "ideas." But even in these sham battles, there could often be
 detected a certain seriousness, a degree of authentic concem,
@@ -11698,7 +11698,7 @@ it, finally and least of all, a
 theoretical treatise on the nature of evil. The focus of every
 trial is upon the person of the defendant, a man of flesh and
 blood with an individual history, with an always unique set of
-qualities, peculiarities, behavior pattems, and circumstances.
+qualities, peculiarities, behavior patterns, and circumstances.
 All the things that go beyond that, such as the history of the
 Jewish people in the dispersion, and of anti-Semitism, or the
 
@@ -11754,9 +11754,9 @@ the authority of him who was hurt by the offence so that the
 failure to punish may not cause his degradation."
 
 There is of course no doubt that the defendant and the
-nature of his acts as weli as the trial itself raise problems of a
+nature of his acts as well as the trial itself raise problems of a
 general nature which go far beyond the matters considered
-in Jerusalem. I have attempted to go into some of these problems in the Epilogue, which ceases to be simple repordng. I
+in Jerusalem. I have attempted to go into some of these problems in the Epilogue, which ceases to be simple reporting. I
 would not have been surprised if people had found my treatment inadequate, and I would have welcomed a discussion of
 the general significance of the entire body of facts, which could
 have been all the more meaningful the more directly it referred
@@ -11812,10 +11812,10 @@ the English deliberately rejected such procedures as a means
 of maintaining their rule over India. The phrase has the virtue
 of dispelling the prejudice that such monstrous acts can be
 committed only against a foreign nation or a different race. There
-is the well-hnown fact that Hitler began his mass murders by
+is the well-known fact that Hitler began his mass murders by
 granting "mercy deaths" to the "incurably ill," and that he
 intended to wind up his extermination program by doing away
-with "genetically damaged" Germans (heart and lung patiem s).
+with "genetically damaged" Germans (heart and lung patient s).
 But quite aside from that, it is apparent that this sort of killing
 can be directed against any given group, that is, that the principle of selection is dependent only upon circumstantial factors.
 It is quite conceivable that in the automated economy of a not-
@@ -11839,7 +11839,7 @@ a crime could be committed only by a giant bureaucracy
 using the resources of govemment. But insofar as it remains
 a crime— and that, of course, is the premise for a trial—-all
 the cogs in the machinery, no matter how insignificant, are in
-court forthwith transformed back into perpctrators, that is to
+court forthwith transformed back into perpetrators, that is to
 say, into human beings. If the defendant excuses himself on
 the ground that he acted not as a man but as a mere functionary whose functions could just as easily have been carried
 out by anyone eise, it is as if a criminal pointed to the statistics
@@ -11856,7 +11856,7 @@ the nile of Nobody, which is what the political form known as
 bureau-cracy truly is. Only one must realize clearly that the
 administration of justice can consider these factors only to the
 extent that they are circumstances of the crime— just as, in a
-case of theft, the economic plight of the thicf is taken into
+case of theft, the economic plight of the thief is taken into
 account without excusing the theft, Iet alone wiping it off the
 slate. True, we have become very much accustomed by modern
 
@@ -11938,7 +11938,7 @@ imposed by reality, in this case the impending defeat. H ere the
 question arises: what is the nature of the sovereignty of such
 an entity? Has it not violated the parity (par in parem non
 habet jurisdictionem) which international law accords it? Does
-the "par in parem" signify no more than the paraphem alia of
+the "par in parem" signify no more than the paraphernalia alia of
 sovereignty? Or does it also imply a substantive equality or
 likeness? Can we apply the same principle that is applied to a
 
@@ -11964,17 +11964,17 @@ which, it appeared, they were unaware. Unfortunately, on closer
 examination the comparison appears to be defective on two
 accounts. First of all, we m ust again consider that the relationship of exception and rule, which is of prime importance for
 recognizing the criminality of an order executed by a subordinate, was reversed in the case of Eichmann's actions. Thus, on
-the basis of this argument one could actually defend Eichmann's faiiure to obey certain of Himmler's Orders, or his obeying them with hesitancy: they were manifest exceptions to the
+the basis of this argument one could actually defend Eichmann's failure to obey certain of Himmler's Orders, or his obeying them with hesitancy: they were manifest exceptions to the
 prevailing rule. The
 to be especially
 judgment found
-incriminating to the defendant, which was certainly very understandable but not very consistcnt. This can easily be seen from
+incriminating to the defendant, which was certainly very understandable but not very consistent. This can easily be seen from
 the pertinent findings of Israeli military courts, which were
 cited in support by the judges. They ran as follows: the order
 to be disobeyed must be "manifestly unlawful"; unlawfulness
 "should fly like a black flag above [it], as a waming reading,
 'Prohibited.' " In other words, the order, to be recognized by the
-soldier as "manifestly unlawful," must violate by its unusuaJness
+soldier as "manifestly unlawful," must violate by its unusualness
 the canons of the legal system to which he is accustomed. And
 Israeli jurisprudence in diese matters coincides completely with
 that of other countries. No doubt in formulating these articles
@@ -12041,13 +12041,13 @@ inadequacy of the prevailing legal system and of current juridical concepts to d
 closely into the matter we will observe without much difficulty that the judges in all these trials really passed judgment solely on the basis of the monstrous deeds. In other
 words, they judged freely, as it were, and did not really lean
 on the Standards and legal precedents with which they more or
-lfss convinclngly sought to justify their decisions. That was
+less convincingly sought to justify their decisions. That was
 already evident in Nuremberg, where the judges on the one
 hand declared that the "crime against peace" was the gravest of
 all the crimes they had to deal with, since it included all the
 other crimes, but on the other hand actually
 imposed the
-death penalty only on those defendants who had partidpated in
+death penalty only on those defendants who had participated in
 the new crime of administrative massacre— supposedly a less
 grave offense than conspiracy against peace. It would indeed be
 tempting to pursue these and similar inconsistencies in a field
@@ -12084,7 +12084,7 @@ able to teil right from wrong went really only by their own
 judgments, and they did so freely; there were no rules to be
 abided by, under which the particular cases with which they
 were confronted could be subsumed. They had to decide each
-instance as it arose, because no rules existed for the iinprecedented
+instance as it arose, because no rules existed for the unprecedented
 
 social behavior and
 
@@ -12135,12 +12135,12 @@ the purview of the God of Justice.
 This slip of the tongue, as it were, is no accident Justice,
 but not mercy, is a matter of judgment, and about nothing
 does public opinion everywhere seem to be in happier agreement than that no one has the right to judge somebody eise.
-What public opinion pennits us to judge and even to condemn are trends, or whole groups of people— the larger the
+What public opinion permits us to judge and even to condemn are trends, or whole groups of people— the larger the
 better— in short, something so general that distinctions can no
 longer be made, names no longer be named. Needless to add,
 this taboo applies doubly when the deeds or words of famous
 
-* Q uoted from the m inister A u rel v. Jüchen in an anthology o f critical
+* Q quoted from the m inister A u rel v. Jüchen in an anthology o f critical
 
 reviews o f H o ch h u th 's play—Summa Iniuria, Rowobl V erlag, p. 195.
 
@@ -12175,12 +12175,12 @@ equally absurd assertion of a kind of collective innocence of
 the Jewish people. All these cliches have in common that they
 make judgment superfluous and that to utter them is devoid of
 all risk. And although we can understand the reluctance of
-those immediately aSected by the disaster— Germans and Jews
+those immediately affected by the disaster— Germans and Jews
 — to examine too closely the conduct of groups and persons
 that seemed to be or shouid have been unimpaired by the
 totality of the moral collapse— that is, the conduct of the Christian
 churches, the Jewish leadership, the men of the anti-Hitler conspiracy of July 20, 1944— this understandable disinclination is
-insufBcient to explain the reluctance evident everywhere to make
+insufficient to explain the reluctance evident everywhere to make
 judgments in terms of individual moral responsibility.
 
 Many people today would agree that there is no such thing
@@ -12204,16 +12204,16 @@ political responsibility
 its
 predecessor and every nation for the deeds and misdeeds of the
 the
-pasi When Napoleon, seizing power
+past When Napoleon, seizing power
 Revolution, said: I shall assume the responsibility for everything France ever did from Saint Louis to the Committee of
 Public Safety, he was only stating somewhat emphatically one
 of the basic facts of all political life. It means hardly more,
 generally speaking, than that every generation, by virtue of
-being bom into a historicai continuum, is burdened by the sins
+being bom into a historical continuum, is burdened by the sins
 of the fathers as it is. blessed with the deeds of the ancestors.
-But this kind of responsibility is not what we are taJking about
-here; it is not personal, and only in a metaphoricai sense can
-one say he jeels guilty for what not he but his father or his
+But this kind of responsibility is not what we are talking about
+here; it is not personal, and only in a metaphorical sense can
+one say he feels guilty for what not he but his father or his
 people have done. (Morally speaking, it is hardly less wrong
 to feel guilty without having done something specific than it
 is to feel free of all guilt if one is actually guilty of something.)
@@ -12237,7 +12237,7 @@ fulfilling the demands of justice.
 Bibliography
 
 Adler, H . G., Theresienstadt 1941-1945, Tübingen, 1955
-----------, Die verheimlichte W ahrheit Theresienstädter D oku­
+----------, Die verheimlichte W Wahrheit Theresienstädterädter D oku­
 
 mente, Tübingen, 1958
 
@@ -12255,19 +12255,19 @@ D uke Law Journal, 1961
 
 Bamm, Peter, Die unsichtbare Flagge, Munich, 1952
 Barkai, Meyer, The Fighting Ghettos, New York, 1962
-Baumann, Jürgen, "Gedanken zum Eichmann-UrteÜ" in Juris­
+Baumann, Jürgen, "Gedanken zum Eichmann-UrteilÜ" in Juris­
 
 tenzeitung, 1963, Nr. 4.
 
-Benton, Wilboum E., and Grimm, Georg, eds., Nuremberg:
+Benton, Wilhelm E., and Grimm, Georg, eds., Nuremberg:
 
 German Views of the War Trials, Dallas, 1955
 
-Bertelsen, Aage, October '43, New York, 1954. (A bout Denm ark)
+Bertelsen, Aage, October '43, New York, 1954. (A bout Denmark ark)
 
 Bondy, Francois, "Karl Jaspers zum Eichmann-Prozess," Der
 
-M onat, May, 1961
+M Monat, May, 1961
 
 Buchheim, Hans, "Die SS in der Verfassung des Dritten Reichs,"
 Viertelfahrshefte für Zeitgeschichte, Aprü, 1955
@@ -12651,7 +12651,7 @@ Boris III, King o f Bulgaria, 185, 187
 B orm ann, M artin, 158, 231, 258
 Boycott D ay (A p ril 1, 1933), 59
 Brack, Viktor, 84, 108
-Bradlisch, O tto, 15, 127
+Bradley, O tto, 15, 127
 Brand, Joel, 197, 198, 199
 Brandt, K arl, 70
 Brandt, Willy, 58
@@ -12662,11 +12662,11 @@ Bratislava, 81, 82, 144, 203, 204,
 Brauchitsch, W alter von, 212
 
 Breslau, 200
-Briand-K eliogg pact, 255
+Briand-K Kellogg pact, 255
 B runner, A lois, 177, 188, 195, 205
 Buber, M artin, 249, 251-52
 Bucharest, 191, 192
-Buchenw ald, 11, 12
+Buchenwald ald, 11, 12
 Budapest, 25, 26-30, 118, 124, 138,
 
 140,
@@ -12691,10 +12691,10 @@ B ureau IV , R.S.H .A ., 31, 70, 73,
 
 B ureau 0 6 , see Israeli police
 
-C airo, 13, 62
+C Cairo, 13, 62
 C anada, 103
 C arm el, M ount, 62
-C atholic A cadem y in Bavaria, 22
+C atholic A Academy y in Bavaria, 22
 C enter fo r E m igration o f A ustrian
 
 Jews (in V ien n a), 44-48
@@ -12707,17 +12707,17 @@ C entral C onference o f A m erican
 
 Rabbis, 249
 
-C entral Jew ish C ouncil (o f Budap e st), 118, 196, 197, 198, 199
+C entral Jew ish C Council (o f Budap e st), 118, 196, 197, 198, 199
 C haim I, see Rum kowski, Chaim
 Chelmno, 15, 87, 109, 225
 C hristian X , K ing o f D enm ark, 171,
 
-Churchill, W inston, 257
-C iano, G aleazzo, 178
+Churchill, W Winston, 257
+C iano, G Galeazzo, 178
 C ohn, Benno, 39
 Com m unists, 38, 70, 95, 97, 177
 C onvention for the P rotection o f
-H um an Rights and F undam ental
+H um an Rights and F fundamental ental
 Freedom s, 250
 
 C öte d'A zur, 165, 177
@@ -12729,11 +12729,11 @@ C roatia, 142, 182, 183-84, 205
 Czechoslovakia, 29, 66, 75, 79-82,
 128, 145, 154, 181, 202, 226, 259
 
-Czem iakow , A dam , 119
+Czemiakow Czemiakow , A dam , 119
 
-D achau, 34, 130
-D aluege, K urt, 68
-D annecker, T heodor, 164, 167, 186,
+D Dachau, 34, 130
+D Daluege, K urt, 68
+D Dannecker, T Theodor, 164, 167, 186,
 
 187, 196
 D anzig, 217
@@ -12830,7 +12830,7 @@ Ezekiel, 19
 
 F alkenhausen, A lexander von, 166
 F arb en , I. G " 79
-F arinacci, R oberto, 178
+F arinacci, R Roberto, 178
 Fellenz, M artin, 16
 Ferenczy, Lieutenant Colonel, 200
 Fest, T. C., 282
@@ -12845,9 +12845,9 @@ F rance, Nazi-occupied, 99, 132, 142,
 
 F rance, p re-W o rld W ar II, 76, 172
 F rance, W orld W ar II, sce France,
-Italian-occupied; F rance, N azioccupied: and Vichy France
+Italian-occupied; F rance, N Nazi-occupied: and Vichy France
 
-F ranco, Francisco, 176
+F Franco, Francisco, 176
 Franco-P russian W ar, 101
 F ran k, H ans, 9, 73, 75, 133*34, 136,
 
@@ -12856,12 +12856,12 @@ F ran k, H ans, 9, 73, 75, 133*34, 136,
 213, 216
 
 F ran k , K arl H erm ann, 80
-F ränkel, W oifgang Im m erw ahr, 16
+F ränkel, W Wolfgang Im m erw ahr, 16
 Frankfurter Rundschau, 18
 F ra n z Joseph, E m peror o f A ustria,
 
-Freem asonry, 32, 37, 70
-F reudiger, Philip von, see Freudiger,
+Freem Masonry, 32, 37, 70
+F Freudiger, Philip von, see Freudiger,
 
 Pinchas
 
@@ -12869,14 +12869,14 @@ Freudiger, Pinchas, 124, 125, 196,
 
 197,
 
-F ritsch, W erner von, 217
-Fiinten, F erdinand aus der, 167
+F Fritsch, W erner von, 217
+Fünten, F Ferdinand aus der, 167
 
-G eneral G overnm ent of P oland, see
+G eneral G Government ent of P oland, see
 
 Poland, Nazi
 
-G eneva C onvention, 255, 268
+G Geneva C onvention, 255, 268
 G enocide C onvention (U.N.), 262
 George, Stefan, 156
 G erm an Army and H igh C om m and,
@@ -12887,16 +12887,16 @@ G erm an M inistry
 
 fo r Occupied
 
-E astem Territories, 192, 206
+E Eastern Territories, 192, 206
 
-G erm an M inistry o f F inance, 46,
+G erm an M inistry o f F Finance, 46,
 
 G erm an M inistry of th e Interior,
 
 72, 113, 128, 159, 183
 
 G erm an M inistry o f Justice, 158
-G erm an M inistry o f T ransport, 115,
+G erm an M inistry o f T Transport, 115,
 
 153,
 
@@ -12913,9 +12913,9 @@ G erm any, N azi,
 
 the
 names oj ihe various arms and
-functionaries o f the German goveminent and organ izations and
+functionaries o f the German government and organ izations and
 leaders o f the Nazi Party (G erm an A rm y; G eim an Foreign
-Ofiice; G estapo; H itler, A dolf;
+Office; G estapo; H itler, A dolf;
 H im m ler, H einrich; N azi P arty;
 S.S.; etc.)
 
@@ -12938,25 +12938,25 @@ G estapo, 36, 60, 66, 68, 70, 97, 152,
 
 165, 173, 190, 206, 227-28,
 
-G ilbert, G ustave M ., 211
-G illon, Philip, 7
-G lickm an C orporation, 5
-G lobke, H ans, 19, 72, 113, 128-29,
+G ilbert, G Gustave M ., 211
+G Gillon, Philip, 7
+G Glickman an C Corporation, 5
+G Globke, H ans, 19, 72, 113, 128-29,
 
-G lobocnik, Odilo, 84, 86-87, 89,
+G Globocnik, Odilo, 84, 86-87, 89,
 
 107-08, 179
 
 G lücks, R ichard, 86, 152, 200
-G oebbels, Joseph P au l, 22, 52, 180,
+G Goebbels, Joseph P au l, 22, 52, 180,
 
-G oerdeler, C arl F riedrich, 99, 100,
+G Goerdeler, C arl F Friedrich, 99, 100,
 
 101,
 
 102-03, 104
 
-G oldm ann, N ahum , 271
+G Goldmann ann, N Nahum , 271
 G oring, H erm ann WiJbelm, 44, 65,
 
 23-24. S3, 84, 97, 98, 100,
@@ -12993,10 +12993,10 @@ G reece, 176, 185, 188, 190, 195,
 225, 258
 
 G reiser, A rtur, 127, 206, 213
-G rell, H orst, 47, 281
-G rotius, 287
-G ruber, H einrich, 129, 131, 133
-G rynszpan, H erschel, 227-28
+G Grell, H Horst, 47, 281
+G Grotius, 287
+G Gruber, H einrich, 129, 131, 133
+G rynszpan, H Herschel, 227-28
 G rynszpan, Zindel, 227, 228-30
 
 G ünther, R olf, 69, 107, 146, 173,
@@ -13007,20 +13007,20 @@ Gypsies, 23, 94, 96, 106, 158, 184,
 188, 217, 2 4 4 , 245, 276
 
 H a'avarah, 60
-H aganah, 62
+H Haganah, 62
 H agen, H erbert, 62
 H ague, T he, 153, 167
 H ague C onvention, 255, 256
-H aifa, 62
-H alevi, Benjamin, 42, 69, 124, 143,
+H Haifa, 62
+H Halevi, Benjamin, 42, 69, 124, 143,
 223, 230; see also D istrict C o u rt
 o f Jerusalem
 
 H am an, 19
 H am sun, K nut, 154
-H annecken, G eneral von, 172-73
-H apsburg, O tto von, 194
-H arsten. W ilhelm, 167
+H Hannecken, G eneral von, 172-73
+H Hapsburg, O tto von, 194
+H Harsten. W ilhelm, 167
 H ausner, G ideon, 3, 4, 5, 7, 8, 18,
 19, 20, 26, 57, 94-95, 97, 120,
 121, 122, 124-25, 153, 209, 211,
@@ -13031,23 +13031,23 @@ H ead Office fo r R eich Security (of
 
 th e S.S.), see R.S.H .A .
 
-H ebrew U niversity in Jerusalem , 249
+H Hebrew U niversity in Jerusalem , 249
 H edin, Sven, 134, 154
-H egel, 20
-H elldorf, C ount, 100
-"H eninger, O tto," (pseud. o f [Otto]
+H Hegel, 20
+H Helldorf, C ount, 100
+"H Heninger, O tto," (pseud. o f [Otto]
 
 A dolf Eichm ann), 236
 
-H erzl, Theodor, 4 0 , 41, 57, 76, 209
+H Herzl, Theodor, 4 0 , 41, 57, 76, 209
 Hesse, F ritz, 99
-H eydrich, R einhardt, 36. 44, 45. 47,
+H Heydrich, R Reinhardt, 36. 44, 45. 47,
 58, 65-66, 68, 69, 70, 72, 74-75,
 77. 79-80, 81, 82. 83-84, 94, 95,
 105-06, 107, 112, 113, 114, 133-
 34, 138, 155, 156, 167, 173, 178,
 184, 204, 207, 210, 212, 216, 218
-and Police L eader
+and Police L Leader
 Corps, 15, 16, 68, 70, 71, 84, 105,
 139, 141, 151, 165, 167, 168, 213
 H ilberg, Raul, 23, 71, 79, 107, 118,
@@ -13066,7 +13066,7 @@ H im m ler, H einrich, 13, 15, 25, 35,
 172, 193, 197, 198, 2 0 2 .2 1 0 ,2 1 1 ,
 213*14, 215, 216, 217, 231, 234-
 35, 291, 292
-H iroshim a, 256
+H Hiroshima a, 256
 
 3 0 7
 
@@ -13085,7 +13085,7 @@ Conspiracy
 
 160, 161, 176, 182, 191, 193,
 
-H linka G uard, 202
+H Hlinka G uard, 202
 H ochbutb, Rolf, 295, 297
 H olland, see N etherlands, the
 H orthy, N ikolaus von, 139, 140, 147,
@@ -13295,7 +13295,7 @@ L ublin, 79, 84, 86, 87, 89, 107, 155,
 170, 179, 192
 
 Ludin, H ans E lard, 204
-Lunenbuxger H eide, 236
+Lunenburger H eide, 236
 L uther, M artin, 23, 76, 151, 170
 Luxem bourg, 225
 Lw6w, 88-89
@@ -13308,30 +13308,30 @@ M adagascar project, 33, 47, 76-78,
 
 103, 157
 
-M agyars, 194
-M ajdanek, 109, 225
+M Magyars, 194
+M Majdanek, 109, 225
 M apai P arty, 9
-M arseilles, 177
-M atteotti, G iacom o, 291
-M aunz, Theodor, 24
-M authausen, 12
+M Marseilles, 177
+M Matteotti, G iacom o, 291
+M Maunz, Theodor, 24
+M Mauthausen, 12
 Mein Kampf, 33
 M engele, Josef, 264
 M enthon, Frangois de, 257
-M ercedes-Benz factory (in A rgen­
+M Mercedes-Benz factory (in A rgen­
 
 tina), 237
 
-M erten, M ax, 188-90, 281
-M eyer, F ran z, 64
-M ilch, Erhard* 133, 178
-M ildenstein, von (S.S. officer), 40
-M ildner, Rudolf, 152
-M insk, 12, 15, 88, 89, 94, 95, 96
+M Merten, M ax, 188-90, 281
+M Meyer, F ran z, 64
+M Milch, Erhard* 133, 178
+M Mildenstein, von (S.S. officer), 40
+M Mildner, Rudolf, 152
+M Minsk, 12, 15, 88, 89, 94, 95, 96
 M ogilev, 15
-M oltke, H elm uth von, 99
+M Moltke, H elm uth von, 99
 M om bert, A lfred, 156
-M onaco, 177
+M Monaco, 177
 Monat, Der, 252, 269
 M oravia, 66, 79, 80, 82, 95, 154
 M otzkin, L.eo, 265-66
@@ -13453,20 +13453,20 @@ P oland, pre-W orld W ar II, 37, 43,
 76, 155
 Poliakov, Leon, 152, 221
 P ortugal, 142, 200
-P oznan, 217, 229
+P Poznan, 217, 229
 Prague, 44, 66, 67, 73, 79, 81, 95,
 146, 167, 181, 199, 224, 244, 259
 
 Quisling, V idkun, 117, 170
 
-R adem acher, F ranz, 22-23, 24
+R Radom acher, F ranz, 22-23, 24
 R äder, E rich, 217
-R adom D istrict (of Poland), 74
-Rajakow itsch, E rich, 44-45, 7 5 , 167,
+R Radom D istrict (of Poland), 74
+Rajakowitsch Rajakowitsch, E rich, 44-45, 7 5 , 167,
 
-R ath, E rnst vom , 227-28
-R atnizi, the, 185
-R auter, H ans, 167
+R ath, E Ernst vom , 227-28
+R Ratnizi, the, 185
+R Rauter, H ans, 167
 Raveh, Y itzhak, 124, 136; see also
 
 D istrict C ourt o f Jerusalem
@@ -13481,7 +13481,7 @@ R ed C ross, International, 82, 85,
 
 146, 226
 
-R eich C enter for Jewisli E m igration
+R eich C enter for Jewish E m igration
 
 (in Berlin), 65, 67, 74
 
@@ -13510,24 +13510,24 @@ Reynolds, Q uentin, 223
 Rheinischer Merkur, 17, 22, 58
 Rhincland, 37, 92, 94
 Joachim
-R ibbentrop,
+R Ribbentrop,
 
 von,
 
 76,
 
 104-05, 112, 151, 210
-R ichter, G ustav, 14, 192-93
+R Richter, G Gustav, 14, 192-93
 Riga, 12, 94, 95, 206
 R itter, G erhard, 98, 99, 100, 103
-R oatta, G eneral, 177
+R Roatta, G eneral, 177
 R ogat, Y osal, 271, 277
 R ohm , E rn st, 15, 40, 192
 Rom an Em pire, 153-54, 178, 271
 Rom e. 176, 179, 180
 R om m el, Erw in, 100
-Rom oser, G eorge K ., 99
-Roosevelt, F ranklin D ., 201
+Rom Rogatz, G eorge K ., 99
+Roosevelt, F Franklin D ., 201
 Rosen, Pinhas, 263, 269, 272
 
 Rosenberg, A lfred, 183, 193, 206
@@ -13560,12 +13560,12 @@ Russia, W hite, see W hite Russia
 
 S.A. (Sturm Abteilung), 38, 40, 97,
 
-S aarpfalz, the, 130, 155
-Sabri, H ussain Zulficar, 20
+S Saarpfalz, the, 130, 155
+Sabri, H Hussain Zulficar, 20
 Sachsenhausen, 130
 St. G erm ain, T reaty of, 182
 Salonika, 168, 188, 190
-Salzberger, C harlotte, 120
+Salzberger, C Charlotte, 120
 Salzburg, 31
 Sassen, W illem S., 22, 48, 54, 57,
 
@@ -13582,9 +13582,9 @@ Schmidt, A nton, 230, 231, 232
 Schm itt, C arl, 145
 Schule. Erw in, 14
 Schutzstaffeln, see S.S.
-Schw artzbard, Shalom , 265-67
+Schw Schwartzbard, Shalom , 265-67
 S.D. {Sicherheitsdienst, or Security
-Service o f the R eichsführer S.S.),
+Service o f the R Reichsführerührer S.S.),
 the, 35, 36, 68, 74, 79, 85, 159,
 187, 246 .
 
@@ -13606,8 +13606,8 @@ Sevastopol, 232
 Shimoni, Y ad, 238
 Siberia, 52
 Sicherheitsdienst, see S.D.
-Siem ens-Schuckart W erke, 79
-Silber, G ershon, 228
+Siem ens-Schuckart W Werke, 79
+Silber, G Gershon, 228
 Six, A lfred, 281
 Slawik, A lfred Joseph, 281
 Slovakia, 81, 82, 85, 138, 139, 142,
@@ -13618,7 +13618,7 @@ Slutsk, 15
 Smolensk, 256
 Smolevichi, 15
 Sobibor, 109, 170
-Sodom and G om orrah, 278
+Sodom and G om Gomorrah, 278
 Sofia, 186, 187
 Sofia, the Chief R abbi of, 187
 Solingen, 27
@@ -13672,7 +13672,7 @@ Stone, Julius, 258
 
 Storey, R obert G ., 254
 Storfer, Bertold, 50-52
-Storm T roopers, see S.A.
+Storm T Troopers, see S.A.
 Strauss, F ranz-Josef, 58
 Streicher, Julius, 30-31, 39, 69, 80,
 
@@ -13701,14 +13701,14 @@ Switzerland, 30, 85, 129-30, 143,
 
 167, 172, 177, 200, 237, 263
 
-S2alasi, Ferenc, 201
+S2Salasi, Ferenc, 201
 Sztojai, D om e, 176
 
-T alaat Bey, 265
-Taylor, T elford, 261
+T Talaat Bey, 265
+Taylor, T Telford, 261
 Tehlirian (A rm enian assassin), 265,
 
-Thadden, E berhard von, 151, 281
+Thadden, E Eberhard von, 151, 281
 Theresienstadt, 47, 60, 64, 65, 80-
 81, 82, 85. 117, 119-20, 123, 125,
 133, 134, 145, 146, 156. 158, 159,
@@ -13717,25 +13717,25 @@ Theresienstadt, 47, 60, 64, 65, 80-
 Thierack, O tto, 157-58
 Tiso, Josef, 202, 205
 T o h ar, Zvi, 238
-Torres, H enri, 266
-T ram w ays and E lectricity C om pany,
+Torres, H Henri, 266
+T ram w ays and E Electricity C om pany,
 
 28 29
 
-T reblinka, 15, 87, 89, 109, 187, 225
+T Treblinka, 15, 87, 89, 109, 187, 225
 Trianon, T reaty of, 182, 195
-Tuka, V ojtek, 204
-T urner, H arald , 23, 184, 185
+Tuka, V Vojtek, 204
+T Turner, H arald , 23, 184, 185
 Twenty-five Points, 43
 
-U ebelhör, R egierungspräsident, 94
+U Uebelhörör, R Regierungspräsidentäsident, 94
 Uganda, 76
 U kraine, 154, 206, 265
 U lbricht, W alter, 13
 U nit 1005, 207-08
 U nited N ations, 262, 270, 271
 U nited States, 98-99, 215
-U pper A ustrian E lektrobau C om ­
+U pper A ustrian E Elektrobau C om ­
 
 pany, 29
 
@@ -13745,17 +13745,17 @@ U tashe, the, 183, 184
 3 1 2
 
 Vaadat Ezra va Ilazalah, 198
-Vabres, D onncdieu de. 257, 274
-V acuum O il Com oany, 28-29, 30,
+Vabres, D Donncdieu de. 257, 274
+V acuum O il Com Company, 28-29, 30,
 
 31,
 
 33, 34
 
-V allant. X avier. 162
+V Vallant. X Xavier. 162
 V atican. the, 85, 187, 196, 200, 204
 139-40,
-V ecscnm ayer, E dm und,
+V vecscnmayer ayer, E dm und,
 141, 147, 195, 199, 201-02, 205,
 281,
 
@@ -13764,7 +13764,7 @@ V ichy France, 130, 155, 162*65,
 
 167, 169, 172, 176
 
-V ienna, 30. 34, 42. 43, 46, 56, 60,
+V Vienna, 30. 34, 42. 43, 46, 56, 60,
 63, 65, 73, 74, 75, 85, 117, 120,
 137, 167, 196, 199, 200, 244
 
@@ -13775,16 +13775,16 @@ see that part of the name following the eie ment
 
 W ächter, Otto, 179
 W ade, E. C. S., 93
-W agner, G erhard, 108
+W Wagner, G erhard, 108
 W alloons, 166
 Wandervogel, 32
-W annsec Conference, 53, 112, 129,
+W Wannsec Conference, 53, 112, 129,
 133, 137, 151, 159, 160, 170, 216
 W arsaw, 12, 15, 73, 107, 118, 119,
 
 121, 213, 215
 
-W artenburg. York von, 100
+W Wartenburg. York von, 100
 W arthegau,
 154,
 
@@ -13792,17 +13792,17 @@ W arthegau,
 
 tbc, 87, 95-96, 127,
 
-W cchtenbruch, D ieter, 145, 146
+W Wcchtenbruch, D ieter, 145, 146
 W eim ar Republic, 38, 43, 185
-W eisenbom , G ünther, 104
+W Weisenbom , G ünther, 104
 Weiss (of the A ustrian V acuum Oil
 
 Com pany). 29-30
 
 Weiss, M anfred, steel com bine, 142
-W eizm ann, Chaim , 122, 125, 248
-W eizsäcker, Ernst von, 171
-W eltsch, Robert, 59, 297
+W Weizsäcker ann, Chaim , 122, 125, 248
+W Weizsäckeräcker, Ernst von, 171
+W Weltsch, Robert, 59, 297
 
 W est G erm any, 13-14, 15, 16, 17,
 24, 34, 58, 128, 162, 248, 250,

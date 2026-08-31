@@ -1,4 +1,4 @@
-This	series,	now	edited	by	Gwen	Adshead,	takes	the	currently	crystallising	field
+This	series,	now	edited	by	Gwen	Adshead,	takes	the	currently	crystallizing	field
 of	 Forensic	 Psychotherapy	 as	 its	 focal	 point,	 offering	 a	 forum	 for	 the
 presentation	 of	 theoretical	 and	 clinical	 issues.	 It	 will	 also	 embrace	 such
 influential	 neighbouring	 disciplines	 as	 language,	 law,	 literature,	 criminology,
@@ -35,7 +35,7 @@ CHAPTER	5	Shame:	The	Emotions	and	Morality	of	Violence	103
 
 P	A	K	T	I	I	I
 
-THE	EPIIEMIOLOGY	OF	VIOLENCE
+THE	EPIDEMIOLOGY	OF	VIOLENCE
 
 CHAPTER	6	The	Symbolism	of	Punishment	139
 
@@ -114,7 +114,7 @@ uninterrupted	across	the	continent	from	the	Rocky	Mountains	to	the	Alleghenies.
 Its	 boundless	 sandy	 floor	 was	 now	 covered	 by	 grass,	 not	 water,	 and	 they	 were
 adrift	in	the	middle	of	that	sea	of	grass	until	they	spotted	the	first	sign	of	human
 life-a	thin	spiral	of	smoke	drifting	tentatively	toward	the	empty	heavens	from	the
-ranchhouse,	like	a	signal	of	distress	sent	up	without	much	hope	of	rescue.	A	wisp
+ranch house,	like	a	signal	of	distress	sent	up	without	much	hope	of	rescue.	A	wisp
 of	 smoke	 curling	 like	 a	 question	 mark	 into	 the	 void	 where	 the	 only	 surprise
 would	be	getting	an	answer	back,	as	if	marooned,	shipwrecked	sailors	had	tossed
 a	 message	 in	 a	 bottle	 into	 the	 ocean	 without	 really	 expecting	 anyone	 to	 find	 it
@@ -137,7 +137,7 @@ his	 fists-a	 war	 against	 man	 and	 God	 so	 all-absorbing	 that	 it	 had	 sim
 occurred	 to	 him	 yet	 to	 take	 a	 wife	 and	 start	 a	 family.	 But	 when	 the	 halfbreed
 arrived,	he	remembered	what	he	had	forgotten,	and	whenever	he	did	make	up	his
 mind	to	do	something	he	was	too	impatient	to	wait	any	longer	than	it	took	to	get
-the	thing	done.	So	the	next	morning	the	furtrapper	and	his	squaw	went	on	their
+the	thing	done.	So	the	next	morning	the	fur trapper	and	his	squaw	went	on	their
 way	 over	 the	 opposite	 horizon	 leaving	 their	 daughter	 behind	 to	 be	 the	 Irish
 rancher's	wife	and	bear	his	children-no	family,	no	friends,	no	tribe-and	over	the
 years	they	had	a	child	every	year.	But	one-a	five-year-old	son-was	her	favorite,
@@ -157,7 +157,7 @@ parties,	even	sending	one	of	them	to	fetch	his	only	relative,	a	doctor	who	lived
 the	 nearest	 town	 three	 counties	 away.	 When	 the	 son	 was	 found,	 he	 was	 at	 the
 bottom	of	a	well,	so	they	thought	at	first	he	had	fallen	in	and	drowned.	But	the
 rancher's	relative	the	doctor	saw	at	once	that	the	youngster	had	been	dead	before
-he	arrived	at	the	bottom	of	the	well,	there	being	 no	water	in	his	lungs.	A	halfeaten	pie	in	the	kitchen	was	full	of	rat	poison,	as	was	the	dead	son's	body	when
+he	arrived	at	the	bottom	of	the	well,	there	being	 no	water	in	his	lungs.	A	half-eaten	pie	in	the	kitchen	was	full	of	rat	poison,	as	was	the	dead	son's	body	when
 they	thought	to	examine	that,	too.	So	had	the	halfbreed	poisoned	her	own	son?
 But	 before	 a	 sheriff	 could	 be	 summoned	 to	 question	 her,	 she	 too	 disappearedvanished	as	completely	as	her	son	had,	as	her	own	parents	had	when	they	left	her
 alone	on	the	ranch,	and	were	never	seen	or	heard	from	again.	It	is	not	known	to
@@ -266,7 +266,7 @@ such	painful	questions	that	we	still	read	such	ancient	sources	as	the	Book	of	jo
 which	deals	 with	 the	 undeniable	 fact	 that	 life	 is	 inherently,	 inescapably,	 unfair.
 Job	teaches	that	it	is	not	only	futile	to	expect	life	to	be	just	or	fair,	it	is	absurd
 and	meaningless	even	to	think	about	it	in	that	way.	The	rain	falls	on	the	just	and
-the	unjust	alike;	bad	things-terrible	thingshappen	to	good	people.	The	language
+the	unjust	alike;	bad	things-terrible	things happen	to	good	people.	The	language
 and	lessons	of	pathos	have	their	place	in	our	lives.
 
 And	 some	 people	 are	 victims	 of	 violence	 purely	 by	 accident,	 or	 because	 of
@@ -344,7 +344,7 @@ irrational	and	ultimately	self-destructive.	We	cannot	prevent	this	violence,	eit
 until	we	can	recognize	what	those	motives	are.	Psychoanalytically,	all	behavior,
 
 including	 violent	 behavior,	 whether	 it	 is	 labeled	 as	 "bad"	 or	 "mad,"	 is
-psychologically	meaningful.	 But	 until	 it	 is	 understood,	 it	 cannot	 be	 preventedthat	 is,	 brought	 under	 individual	 and	 societal	 self-control.	 The	 psychological
+psychologically	meaningful.	 But	 until	 it	 is	 understood,	 it	 cannot	 be	 prevented; that	 is,	 brought	 under	 individual	 and	 societal	 self-control.	 The	 psychological
 understanding	 of	 violence	 requires	 recognizing	 how	 much	 method	 there	 is	 in
 violent	 madness,	 and	 how	 much	 psychopathology	 there	 is	 in	 the	 violence	 of
 everyday	 life.	 But	 such	 a	 psychological	 understanding	 requires	 that	 we	 see
@@ -454,7 +454,7 @@ From	 time	 to	 time,	 Bishop	 Beecher,	 the	 Episcopal	 bishop	 for	 several	 w
 states,	would	come	riding	in	on	his	horse	over	the	prairies	to	confirm	the	faithful
 in	this	small	but	devoted	congregation.	Grandmother	knew	Bishop	Beecher	well.
 A	 man	of	strong	 character,	 he	 would	 later	 become	 the	 model	 for	 the	 bishop	 in
-Willa	Cather's	Death	Comes	for	the	Archbishop.
+Willa	Cather	Death	Comes	for	the	Archbishop.
 
 Church	or	no	church,	and	regardless	of	what	was	taught	on	Sundays,	violence
 had	been	so	pervasive	a	part	of	the	atmosphere	in	which	my	father	grew	up	that
@@ -646,7 +646,7 @@ those	whom	they	feel	have	punished	them,	unjustly.	In	other	words,	the	motives
 and	goals	 that	 underlie	 crime	 are	 the	 same	 as	 those	 that	 underlie	 punishmentnamely,	 the	 pursuit	 of	 what	 the	 violent	 person	 considers	 "justice."	 What	 is
 conventionally	called	"crime"	is	the	kind	of	violence	that	the	legal	system	calls
 illegal,	and	"punishment"	is	the	kind	that	it	calls	legal.	But	the	motives	and	the
-goals	that	underlie	both	are	identicalthey	both	aim	to	attain	justice	or	revenge	for
+goals	that	underlie	both	are	identical; they	both	aim	to	attain	justice	or	revenge	for
 past	injuries	and	injustices.	Crime	and	punishment	are	conventionally	spoken	of
 as	if	they	were	 opposites,	 yet	 both	 are	 committed	 in	 the	 name	 of	 morality	 and
 justice,	and	both	use	violence	as	the	means	by	which	to	attain	those	ends.	So	not
@@ -689,7 +689,7 @@ collective	 myths	 of	 family	 life,	 I	 wondered	 at	 first	 if	 the	 unfortuna
 referred	 to	 as	 the	 "halfbreed"	 was	 not	 another	 Medea;	 like	 the	 latter,	 the
 "halfbreed,"	 too,	 was	 seen	 as	 a	 "barbarian"	 by	 the	 (none	 too	 civilized)	 people
 among	whom	she	had	come	to	live,	and	was	isolated	from	her	parental	home	and
-her	 native	 culture.	 Did	 the	 "halfbreed's"	 murderous	 act,	 in	 analogy	 to	 Medea's,
+her	 native	 culture.	 Did	 the	 "half-breed's"	 murderous	 act,	 in	 analogy	 to	 Medea's,
 express	and	discharge	in	a	final,	fatal	catharsis	her	hopeless,	impotent	rage	at	her
 son's	father,	by	displacing	that	fury	onto	their	son,	hurting	the	father	in	the	only
 place	where	he	too	might	be	vulnerable	beneath	his	mask	of	machismo,	and	thus
@@ -912,7 +912,7 @@ humanity	they	no	longer	share	with	others.
 I	 have	 written	 this	 book	 to	 offer	 myself	 as	 your	 guide	 on	 a	 journey	 into	the
 universe	of	violence.	To	do	justice	to	so	vast	a	topic	requires	a	discussion	large
 enough	to	encompass	its	epic,	mythic	dimensions.	When	we	talk	about	violence,
-we	are	talking	about	hell.	This	is	the	world	of	the	Inferno,	Golgotha,	King	Learof	Auschwitz	and	Armenia,	Andersonville	and	Attica,	the	"Middle	Passage"	and
+we	are	talking	about	hell.	This	is	the	world	of	the	Inferno,	Golgotha,	King	Lear of	Auschwitz	and	Armenia,	Andersonville	and	Attica,	the	"Middle	Passage"	and
 Wounded	 Knee.	 This	 is	 the	 world	 of	 individual	 atrocities	 so	 disturbing	 to
 contemplate	that	I	have	to	ask	myself:	How	can	I	expect	you	to	accompany	me
 into	this	terrible	place?	And	yet	I	know	that	we	have	to	be	willing	to	look	horror
@@ -950,7 +950,7 @@ survivors	 of	 victims,	 as	 family	 members	 of	 some	 one	 who	 has	 committed
 violent	act	(against	himself	or	another),	or	as	those	who	have	felt	compelled	to
 commit	serious	violence	themselves,	whether	legally	or	illegally,	in	wartime	or
 in	 peace.	 For	 those	 of	 us	 to	 whom	 this	 applies-and	 of	 course	 all	 of	 us	 are
-vulnerable	to	violencewe	have	an	obligation	not	to	trivialize	this	subject,	not	to
+vulnerable	to	violence; we	have	an	obligation	not	to	trivialize	this	subject,	not	to
 distance	ourselves	from	it,	and	not	to	withdraw	from	it.	For	while	we	may	wish
 to	avoid	violence,	it	does	not	always	avoid	us.
 
@@ -1059,7 +1059,7 @@ career	 government	 bureaucrat	 (although	 he	 never	 got	 much	 beyond	 the	 lo
 levels	 of	 the	 civil-service	 hierarchy).	 On	 the	 surface,	 Ralph	 W.	 appears
 conventional,	passive,	unassertive,	and	unambitious.
 
-One	summer	afternoon,	Ralph	W.	raped	and	murdered	a	fourteenyear-old	girl
+One	summer	afternoon,	Ralph	W.	raped	and	murdered	a	fourteen-year-old	girl
 who	sang	in	the	church	choir,	then	buried	her	body	in	his	backyard.	Following
 the	murder,	before	the	girl's	body	was	discovered,	Ralph	W.	joined	a	large	group
 of	his	fellow	townspeople,	pretending	to	help	them	find	the	missing	teenager.	No
@@ -1123,7 +1123,7 @@ the	 lack	 of	 feelings.	 The	 most	 violent	 men	 already	 feel	 numb	 and	 dea
 time	they	begin	killing.
 
 In	order	to	understand	the	psychology	of	violence,	we	need	to	turn	 many	 of
-our	most	basic	assumptions	about	human	behavior	upside	down	and	inside	outassumptions	that	are	perfectly	valid	when	applied	to	normal,	nonviolent	people
+our	most	basic	assumptions	about	human	behavior	upside	down	and	inside	out; assumptions	that	are	perfectly	valid	when	applied	to	normal,	nonviolent	people
 and	 totally	 misleading	 when	 applied	 to	 the	 violent.	 For	 example,	 for	 healthy
 people,	 life	 is	 life	 and	 death	 is	 death,	 and	 the	 difference	 between	 them	 is
 generally	 understood.	 Death	 does	 not	 exist	 while	 life	 continues,	 it	 does	 not
@@ -1154,7 +1154,7 @@ corroborates	the	perspective	on	violence	I	have	been	discussing.
 In	 this	 grim	 document,	 Starkweather	 comments	 on	 his	 mother's	 reaction	 to
 hearing	her	son	being	sentenced	to	death.	He	comments:	"When	she	cried	at	the
 court	house	.	.	.	she	was	crying	for	something	already	dead.	.	.	 .	I	was	already
-dead,	 or	 the	 same	 as	 dead	 .	 .	 .	 nobody	 ever	 gets	 back	 hisself	 again."6
+dead,	 or	 the	 same	 as	 dead	 .	 .	 .	 nobody	 ever	 gets	 back	 himself	 again."6
 Starkweather	was	not	 referring	to	the	 fact	 that	 he	 was	 soon	 to	 be	 executed;	 he
 meant	 that	 he	 had	 "died"	 long	 before	 he	 ever	 murdered	 anyone:	 The	 people	 I
 murdered	had	murdered	me.	They	murdered	me	slow	like.	I	was	better	to	them.	I
@@ -1264,7 +1264,7 @@ distress	that	many	decide	to	end	their	own	bodily	lives	as	well	as	those	of	othe
 Like	the	dead	souls	in	the	Book	of	Job	(26:5-7),	these	men	live	in	a	universe	of
 violence	and	despair:
 
-The	death	of	the	self-which	is	what	we	are	talking	about	herebrings	with	it	a
+The	death	of	the	self-which	is	what	we	are	talking	about	here brings	with	it	a
 sense	of	the	intolerability	of	existence-one's	own	and	everyone	else's.	Murder	is
 an	attempt	not	just	to	rescue	one's	self-for	many,	it	is	already	too	late	for	that;	the
 self	has	already	died-but	to	bring	one's	dead	self	back	to	life.	When	that	does	not
@@ -1281,7 +1281,7 @@ sex,	and	race,	in	this	country	and	elsewhere.
 The	fact	that	so	many	men	killed	themselves	in	Massachusetts	prisons	in	the
 1970s	caused	the	prison	mental	health	service	which	I	directed	for	ten	years	to
 come	into	being.	In	the	early	1980s,	Judge	W.	Arthur	Garrity	of	the	U.S.	District
-Court-in	 response	 to	 a	 class	 action	 suit	 brought	 on	 behalf	 of	 prison	 inmatesordered	 the	 Department	 of	 Correction	 to	 allow	 mental	 health	 professionals	 to
+Court-in	 response	 to	 a	 class	 action	 suit	 brought	 on	 behalf	 of	 prison	 inmates; ordered	 the	 Department	 of	 Correction	 to	 allow	 mental	 health	 professionals	 to
 establish	 psychiatric	 clinics	 and	 emergency	 rooms	 in	 the	 prisons,	 to	 guarantee
 that	inmates	would	not	be	denied	access	to	psychiatric	care	simply	because	they
 were	incarcerated.	The	misery	of	this	group	is	so	constant,	and	their	attempts	to
@@ -1451,7 +1451,7 @@ namely,	mortification,	which	means	both	humiliation	and	causing	death.
 
 It	is	also	true,	of	course,	that	actions	that	do	not	directly	cause	physical	injury
 or	 death	 can	 constitute	 the	 kind	 of	 psychological	 torture	 that	 can	 destroy	 a
-human	personality	in	ways	that	are	likely	to	lead	to	violent	behavior	in	later	lifesuch	as	locking	a	child	in	a	closet,	verbally	threatening	him	or	her	with	death	or
+human	personality	in	ways	that	are	likely	to	lead	to	violent	behavior	in	later	life; such	as	locking	a	child	in	a	closet,	verbally	threatening	him	or	her	with	death	or
 mutilation,	ridiculing	and	taunting	the	child,	and	so	on.	Such	actions	constitute	a
 form	 of	 psychological	 violence	 which,	 even	 in	 the	 absence	 of	 physical	 injury,
 can	kill	 the	 self.	 Thus,	 people	 do	 not	 need	 to	 have	 been	 physically	 attacked	 in
@@ -1549,7 +1549,7 @@ up	our	world,	cannot	enjoy	being	with	them,	except	to	the	degree	that	we	love
 them.	So	the	person	who	cannot	love	cannot	have	any	feelings-pain	or	joy.2
 
 But	a	joyless	life	is	a	synonym	for	hell.	A	man	who	does	not	love	and	cannot
-love,	 is,	 in	 effect,	 condemned	 to	 hell.'	 His	 entire	 environment,	 from	 whichwithout	love-he	is	cut	off,	is	without	enjoyment	for	him,	and	thus	the	world	he
+love,	 is,	 in	 effect,	 condemned	 to	 hell.'	 His	 entire	 environment,	 from	 which, without	love-he	is	cut	off,	is	without	enjoyment	for	him,	and	thus	the	world	he
 "lives"	in	is	a	source	of	emptiness	and	emotional	suffocation	for	him.	Both	the
 world	 and	 the	 self	 are	 experienced	 and	 perceived	 emotionally	 as	 being	 dead,
 inanimate,	without	a	soul-without	feelings.
@@ -1651,7 +1651,7 @@ temptation	one	must
 
 -PRIMO	LEVI
 
-IN	 MY	 EFFORT	 TO	 UNDERSTANDTHE	 PSYCHOLOGY	 OF	 VIOLENT
+IN	 MY	 EFFORT	 TO	 UNDERSTAND THE	 PSYCHOLOGY	 OF	 VIOLENT
 MEN,	 I	 OFTEN	 find	 myself	 turning	 to	 mythic	 and	 tragic	 literature.	 Only	 the
 Greek	tragedies	and	those	of	Shakespeare,	the	horrors	described	in	Thucydides
 and	the	Bible,	map	with	fidelity	the	universe	of	human	violence	that	I	have	seen
@@ -1742,7 +1742,7 @@ utter	absence	of	remorse	or	guilt	and	his	feeling	not	only	of	total	innocence	bu
 of	 wounded	 innocence	 (despite	 the	 fact	 that	 he	 did	 not	 deny	 that	 he	 had
 committed	the	acts	of	which	he	was	found	guilty);	his	feeling	that	other	people
 were	treating	him	unfairly	and	picking	on	him	and	always	had;	his	attribution	to
-others	of	all	responsibility	for	his	problems;	his	feelling	that	all	the	justification
+others	of	all	responsibility	for	his	problems;	his	feeling	that	all	the	justification
 he	needed	for	his	crime	was	that	"I	didn't	like	the	way	she	was	looking	at	me"
 and	 "I	 didn't	 want	 her	 talking	 about	 me";	 his	 extreme	 sensitivity	 to	 insult;	 his
 boasting	 and	 grandiosity;	 his	 assumption	 that	 he	 was	 entitled	 to	 have	 special
@@ -2146,10 +2146,10 @@ Furthermore,	 Gloucester	 has	 added	 shame	 to	 shame	 by	 feeling	 ashamed	 of
 
 Edmund;	that	is,	ashamed	of	having	fathered	a	bastard.	When	Kent	sees	Edmund
 with	 Gloucester	 and	 says,	 "Is	 not	 this	 your	 son,	 my	 lord?"	 Gloucester	 replies,
-"His	 breeding,	 sir,	 hath	 been	 at	 my	 charge.	 I	 have	 so	 often	 blushd	 [i.e.,	 felt
+"His	 breeding,	 sir,	 hath	 been	 at	 my	 charge.	 I	 have	 so	 often	 blushed	 [i.e.,	 felt
 ashamed]	to	acknowledge	him,	that	now	I	am	braid	to	it"	(I.i.8-11).	Speaking	of
 Edmund's	 bastardy,	 he	 says,	 "Do	 you	 smell	 a	 fault?"	 and	 adds	 "yet	 .	 .	 .	 the
-whoreson	 must	 be	 acknowledg'd"	 All	 this	 he	 says	 in	 front	 of	 Edmund-at	 the
+whoreson	 must	 be	 acknowledged"	 All	 this	 he	 says	 in	 front	 of	 Edmund-at	 the
 eventual	cost	of	his	eyes.
 
 And	 tongues	 are	 just	 as	 important.	 Men	 who	 feel	 sufficiently	 shamed	 by
@@ -2179,7 +2179,7 @@ movements	and	actions	of	animals	(including	humans)	serve	as	a	kind	of	protolang
 Darwin	limited	himself	to	explicating	relatively	simple	behavior	patterns	such	as
 
 facial	 expressions,	 and	 nonvolitional	 physiological/emotional	 reactions	 such	 as
-blushing.	 But	 a	 generation	 later,	 Sir	 Julian	 Huxley"	 borrowed	 the	 term	 ritualwhich	previously	referred	to	the	rules	of	religious	behavior-to	describe	the	more
+blushing.	 But	 a	 generation	 later,	 Sir	 Julian	 Huxley"	 borrowed	 the	 term	 ritual which	previously	referred	to	the	rules	of	religious	behavior-to	describe	the	more
 complex	 behavior	 patterns	 of	 animals	 which	 had	 lost	 their	 original	 primarily
 physiological	 function	 (locomotion,	 copulation,	 nutrition,	 etc.)	 by	 becoming
 purely	symbolic	ceremonies,	taking	on	the	new	function	of	communication.
@@ -2210,7 +2210,7 @@ Illustrations	 of	 the	 symbolic,	 expressive,	 and	 communicative	 function	 of
 violent	 behavior	 could	 be	 multiplied	 endlessly	 with	 examples	 from	 throughout
 the	 animal	 kingdom.	 But	 my	 point	 here	 is	 simply	 to	 remind	 the	 reader	 that
 behavior	 can	 be	 just	 as	 symbolic	 as	 words;	 that	 like	 words,	 bodily	 behavior
-communicates	meanings,	often	of	astonishing	specificity,	about	matters	of	lifeand-death	 importance,	 which	 can	 be	 understood	 quite	 clearly,	 consistently,	 and
+communicates	meanings,	often	of	astonishing	specificity,	about	matters	of	life-and-death	 importance,	 which	 can	 be	 understood	 quite	 clearly,	 consistently,	 and
 
 reliably	 by	 those	 to	 whom	 the	 behavioral	 signs	 and	 signals	 are	 directed.	 Long
 before	words	and	language	were	invented,	symbolic	behavior	patterns	served	the
@@ -2250,7 +2250,7 @@ murderer	is	that	he	must	commit	this	act	or	lose	everything-his	mind,	his	sanity
 
 himself.	It	is	an	attempt	to	hold	off	paranoid	delusions;	the	riddling,	tormented
 feeling	that	one	is	being	spied	on,	watched,	hexed	by	an	evil	eye,	gossiped	about,
-ridiculed,	and	accused	of	possessing	character	traits	that	shamedriven	men	find
+ridiculed,	and	accused	of	possessing	character	traits	that	shame-driven	men	find
 intolerably	 shameful,	 such	 as	 weakness,	 cowardice,	 impotence,	 homosexuality,
 sexual	inadequacy,	and	so	on.
 
@@ -2315,7 +2315,7 @@ considered	 so	 important	 that	 it	 is	 reinforced	 by	 constant	 repetition	 [
 theatrical	exaggeration]	so	as	to	avoid	misunderstanding.	.	.	.20
 
 The	 "theatrical	 exaggeration"-the	 sheer	 extremity	 and	 bizarreness	 of	 the
-murder	committed	by	Ross	L.	and	the	behavior	associated	with	itcould	hardly	be
+murder	committed	by	Ross	L.	and	the	behavior	associated	with	it could	hardly	be
 more	 pronounced.	 And	 the	 murderer	 was	 certainly	 engaged	 in	 "repetition"	 as
 well:	 destroying	 the	 eyes	 of	 his	 sacrificial	 victim	 was	 not	 enough;	 he	 had	 to
 destroy	her	tongue	as	well,	in	order	to	communicate	his	point	so	clearly	that	no
@@ -2337,7 +2337,7 @@ If	 his	 behavior
 
 THE	CASE	OF	DENNIS	X.
 
-At	the	age	of	nineteen,	Drnnis	X.	developed	"delusions	of	grandeur,"	and	came
+At	the	age	of	nineteen,	Dennis	X.	developed	"delusions	of	grandeur,"	and	came
 to	believe	that	he	was	God.	Over	the	next	thirteen	years,	whenever	he	was	not	in
 a	mental	hospital,	he	would	get	high	on	mari	juana,	LSD,	or	alcohol,	have	sexual
 escapades	 (usually	 with	 other	 males)	 about	 which	 he	 felt	 great	 shame	 and
@@ -2652,7 +2652,7 @@ Ages	 and	 the	 scientific	 thinking	 that	 was	 just	 beginning	 to	 be	 applie
 world	of	his	time.	One	of	his	characters,	a	physician,	"explains"	why	morphine
 makes	 people	 sleepy	 by	 attributing	 that	 property	 to	 its	 "dormative	 principle."
 "Dormative"	 (or	 soporific)	 merely	 means	 sleep-inducing;	 obviously,	 this	 is	 not
-an	explanation,	it	is	a	tautology-morphine	makes	you	sleepy	because	it	is	sleepinducing.	 But	 we	 already	 know	 that	 morphine	 induces	 sleep;	 what	 we	 don't
+an	explanation,	it	is	a	tautology-morphine	makes	you	sleepy	because	it	is	sleep-inducing.	 But	 we	 already	 know	 that	 morphine	 induces	 sleep;	 what	 we	 don't
 know	is	why	morphine	makes	people	sleepy.
 
 In	 the	 same	 way,	 to	 say	 that	 the	 cause	 of	 a	 murder	 was	 the	 fact	 that	 the
@@ -2680,7 +2680,7 @@ people	 get	 lung	 cancer	 even	 though	 they	 have	 never	 smoked,	 and	 that	 
 people	 smoke	 and	 never	 get	 lung	 cancer;	 and	 yet	 no	 one	 (except	 perhaps	 the
 tobacco	industry)	really	doubts	that	smoking	is	a	"cause,"	in	a	scientifically	valid
 and	practically	important	sense,	of	lung	cancer:	neither	necessary	nor	sufficient,
-but	 a	 cause.	 Nor	 does	 anyone	 "explain"	 the	 nonsmoker's	 lung	 cancer	 with	 the
+but	 a	 cause.	 Nor	 does	 anyone	 "explain"	 the	 nonsmokers	 lung	 cancer	 with	 the
 statement	 that	 he	 must	 therefore	 be	 "sinful."	 No	 theory	 can	 explain	 everything
 about	the	phenomenon	it	is	explaining	(and	fortunately,	as	this	example	shows,	it
 does	 not	 have	 to	 be	 able	 to,	 in	 order	 to	 generate	 life-saving	 methods	 of
@@ -2757,11 +2757,11 @@ To	imagine	that	violence	is	"rational"	and	dictated	by	"self-interest"	can	only
 blind	 us	 to	 the	 reality	 of	 those	 forms	 of	 violence	 that	 have	 been	 most
 horrendously	 destructive	 of	 human	 life	 around	 the	 world	 in	 this	 century-the
 violence	of	Hitler,	Stalin,	Pol	Pot,	Idi	Amin,	Khomeini,	Saddam	Hussein;	of	the
-kamikaze	pilots,	the	BaaderMeinhof	gang,	the	Red	Brigades;	of	Beirut,	Belfast,
+kamikaze	pilots,	the	Baader-Meinhof	gang,	the	Red	Brigades;	of	Beirut,	Belfast,
 Bogota,	and	Bosnia;	and	of	the	endless	legion	of	mass	murderers	and	assassins,
 both	"public"	and	"private,"	who	are	as	ready	to	be	killed	as	to	kill-whose	rage	is
 so	 passionate	 and	 so	 blinding	 that	 it	 has	 caused	 the	 subjective	 distinction
-between	 killing	 and	 being	 killed	 to	 be	 all	 but	 obliterated	 and	 mean	 ingless.	 As
+between	 killing	 and	 being	 killed	 to	 be	 all	 but	 obliterated	 and	 mean	 meaningless.	 As
 
 Dostoevsky5	 put	 it	 with	 uncanny	 prophetic	 power	 even	 before	 the	 terrible
 century	through	which	we	have	just	lived	proved	him	right:
@@ -2846,7 +2846,7 @@ Violence,	 then,	 can	 be	 seen	 as	 a	 symptom	 of	 individual	 or	 group
 psychopathology,	 whether	 it	 is	 an	 individual	 case	 (murder,	 suicide)	 or	 an
 epidemic	(war,	genocide).	This	is	true	even	if	we	 make	the	distinction,	as	J.	P.
 Scott6	and	other	students	of	animal	behavior	have	done,	between	aggressive	or
-offensive	violence-initiated	by	the	aggressorand	the	defensive	type-warding	off
+offensive	violence-initiated	by	the	aggressor and	the	defensive	type-warding	off
 an	 attack.	 Defensive	 violence	 can	 be	 seen	 as	 the	 effect	 of	 the	 aggressor's
 violence.	 Defense-even	 defensive	 violence-can	 be	 a	 necessary	 (though	 it	 is	 not
 always	a	sufficient)	component	of	health.	It	can	be	adaptive-acting	in	the	service
@@ -2878,7 +2878,7 @@ the	defender	as	well	as	the	aggressor,	it	is	clear	that	defensive	violence	can	n
 longer	 be	 healthy	 or	 adaptive	 enough	 to	 solve	 the	 problem.	 The	 only	 solution
 now	 is	 to	 apply	 the	 established	 principles	 of	 public	 health	 and	 preventive
 medicine	 to	 this	 type	 of	 pathology	 by	 learning	 how	 to	 achieve	 primary
-prevention	 of	 violencethat	 is,	 to	 prevent	 those	 social	 and	 psychological
+prevention	 of	 violence that	 is,	 to	 prevent	 those	 social	 and	 psychological
 conditions	 that	 cause	 aggressive	 violence	 in	 the	 first	 place-so	 that	 defensive
 violence	(secondary	prevention)	is	not	necessary.
 
@@ -2979,7 +2979,7 @@ understood.
 is	 an	 understandable	 response
 
 I	think	the	tragic	feeling	is	evoked	in	us	when	we	are	in	the	presence	of	a
-character	who	is	ready	to	lay	down	his	life,	if	need	be,	to	secure	one	thinghis	sense	of	personal	dignity.
+character	who	is	ready	to	lay	down	his	life,	if	need	be,	to	secure	one	thing his	sense	of	personal	dignity.
 
 MAN
 
@@ -3020,7 +3020,7 @@ interests	it	serves	to	keep	the	water	supply	contaminated.
 
 I	will	then	raise	the	question:	Granted	that	the	pathogen	that	causes	violence
 exerts	 its	 destructive	 effects	 at	 the	 level	 of	 individual	 psychology	 (just	 as	 any
-microbe	 exerts	 its	 effects	 at	 the	 level	 of	 the	 organismthe	 individual	 body);	 and
+microbe	 exerts	 its	 effects	 at	 the	 level	 of	 the	 organism the	 individual	 body);	 and
 granted	that	the	spread	of	this	pathogen	might	best	be	stopped	by	cleaning	up	the
 water	 supply	 and	 the	 sewer	 system	 (that	 is,	 by	 reforming	 our	 social	 and
 economic	system	and	our	criminal	justice	and	penal	system);	isn't	it	still	possible
@@ -3088,8 +3088,8 @@ full	height	and	replied	with	calm	assurance,	with	perfect	coherence	and	even	 a
 kind	 of	 eloquence:	 "Pride.	 Dignity.	 Self-esteem."	 And	 then	 he	 went	 on	 to	 say,
 again	 more	 clearly	 than	 before:	 "And	 I'll	 kill	 every	 mother-fucker	 in	 that	 cell
 block	if	I	have	to	in	order	to	get	it!	My	life	ain't	worth	nothin'	if	I	take	somebody
-disrespectin'	 me	 and	 callin'	 me	 punk	 asshole	 faggot	 and	 goin'	 'Ha!	 Ha!'	 at	 me.
-Life	ain't	worth	livin'	if	there	ain't	nothin'	worth	dyin'	for.	If	you	ain't	got	pride,
+disrespecting'	 me	 and	 callin'	 me	 punk	 asshole	 faggot	 and	 goin'	 'Ha!	 Ha!'	 at	 me.
+Life	ain't	worth	livin'	if	there	ain't	nothin'	worth	dying'	for.	If	you	ain't	got	pride,
 you	got	nothin'.	That's	all	you	got!	I've	already	got	my	pride."	He	explained	that
 the	other	prisoner	was	"tryin'	to	take	that	away	from	me.	I'm	not	a	total	idiot.	I'm
 not	a	coward.	There	ain't	nothin'	I	can	do	except	snuff	him.	I'll	throw	gasoline	on
@@ -3253,7 +3253,7 @@ feel	ashamed.	Often	violent	men	will	hide	this	secret	behind	a	defensive	mask	of
 bravado,	 arrogance,	 "machismo,"	 selfsatisfaction,	 insouciance,	 or	 studied
 indifference.	 Many	 violent	 men	 would	 rather	 die	 than	 let	 you	 know	 what	 is
 distressing	them,	or	even	that	anything	is	distressing	them.	Behind	the	mask	of
-"cool"	 or	 selfassurance	 that	 many	 violent	 men	 clamp	 onto	 their	 faces-with	 a
+"cool"	 or	 self-assurance	 that	 many	 violent	 men	 clamp	 onto	 their	 faces-with	 a
 desperation	 born	 of	 the	 certain	 knowledge	 that	 they	 would	 "lose	 face"	 if	 they
 
 ever	let	it	slip-is	a	person	who	feels	vulnerable	not	just	to	"loss	of	face"	but	to
@@ -3412,7 +3412,7 @@ but	 neither	 his	 overall	 appearance	 nor	 his	 social	 success	 with	 women	 
 suddenly	rendered	"perfect."
 
 But	perhaps	the	most	surprising	clue	as	to	how	shame-driven	he	was-and	how
-related	 that	 shame	 was	 to	 Randolph	 W.'s	 violencecame	 at	 the	 very	 end	 of	 his
+related	 that	 shame	 was	 to	 Randolph	 W.'s	 violence came	 at	 the	 very	 end	 of	 his
 year	 of	 therapy.	 For	 him,	 as	 for	 many	 men	 socialized	 into	 the	 sex	 roles	 of	 our
 culture,	 dependency	 is	 very	 shameful	 and	 incompatible	 with	 the	 image	 of	 the
 sexually	 adequate	 male.	 At	 that	 point	 he	 seemed	 to	 trust	 me	 well	 enough	 to
@@ -3440,7 +3440,7 @@ How	can	we	make	sense	of	Mr.	W.'s	story?	Obviously,	behind	Randolph	W.'s
 "macho"	disguise	there	 was	a	man	who	felt	inadequate	and	 not	very	manly;	in
 fact,	he	seems	to	have	felt	more	like	a	big	baby	in	virtually	every	way-sexually,
 educationally,	 and	 vocationally.	 Lacking	 competence,	 skill,	 knowledge,	 and
-training	 in	 every	 sphere,	 he	 feltand	 actually	 was-incapable	 of	 taking	 care	 of
+training	 in	 every	 sphere,	 he	 felt and	 actually	 was-incapable	 of	 taking	 care	 of
 himself.	While	limited	by	his	illiteracy,	he	still	could	have	joined	the	millions	of
 other	illiterate	Americans	who	work	at	low-income,	low-prestige	jobs	as	manual
 laborers	of	one	sort	or	another,	but	that	was	far	from	manageable	for	him.	His
@@ -4083,7 +4083,7 @@ inferences.
 
 So	 I	 think	 it	 would	 be	 useful	 to	 examine	 the	 symbolism	 of	 violence	 in	 a
 different	context,	where	the	symbolic	meaning	of	violence	is	fully	conscious	and
-articulated	by	those	who	"commit"	it.	I	have	in	mind	the	violence	of	punishmentor,	as	Karl	Menninger	called	it,	the	crime	of	punishment'-that	form	of	violence
+articulated	by	those	who	"commit"	it.	I	have	in	mind	the	violence	of	punishment or,	as	Karl	Menninger	called	it,	the	crime	of	punishment'-that	form	of	violence
 sanctioned	by	courts	of	law	and	other	legal	authorities	throughout	the	centuries.
 Certainly,	 from	 the	 standpoint	 of	 life	 and	 death,	 capital	 punishment	 is	 just	 as
 deadly	a	form	of	violence	as	murder-a	man	is	just	as	dead	if	he	is	killed	by	the
@@ -4216,7 +4216,7 @@ the	population	did	not	cleanse	itself	from	the	crime.	Sociomagical	and	religious
 notions
 
 Throughout	the	centuries,	the	penalty	for	rape	has	been	to	 destroy	the	organ
-that	"commited"	that	crime.	In	the	American	South,	for	ex	ample,	"it	goes	almost
+that	"committed"	that	crime.	In	the	American	South,	for	ex	ample,	"it	goes	almost
 without	saying	that	the	penalty	for	a	slave	who	 dared	lust	 after	white	women's
 flesh	was	castration."	Until	the	Civil	War,	this	was	the	official	law	of	the	slave
 code,	 not	 simply	 the	 standard	 atrocity	 committed	 by	 lynch	 mobs,	 as	 it	 later
@@ -4255,7 +4255,7 @@ body	to	the	soul,	from	dead	bodies	to	dead	souls,	from	the	maiming	of	bodies	to
 the	maiming	of	human	souls.	How	has	this	shift	been	brought	about?
 
 As	 punishment	 was	 gradually	 transposed	 from	 the	 physical	 to	 the	 mental
-plane,	it	has	become	even	more	symbolic,	or	symbolic	at	a	more	"rarefied"	levelbut	the	same	messages	are	communicated	in	no	less	actual	and	powerful	a	way.
+plane,	it	has	become	even	more	symbolic,	or	symbolic	at	a	more	"rarefied"	level but	the	same	messages	are	communicated	in	no	less	actual	and	powerful	a	way.
 As	Michel	Foucault	put	it:
 
 If	the	penalty	in	its	most	severe	forms	no	longer	addresses	itself	to	the	body,
@@ -4315,7 +4315,7 @@ were	like	men	'buried	alive;	to	be	dug	out	in	the	slow	round	of	years;	and	in	th
 meantime	dead	to	everything	but	torturing	anxieties	and	horrible
 
 What	effects	did	this	system	have	on	those	who	were	subjected	to	it?	Where
-the	full	experiment	was	tried,	with	the	system	of	total	roundthe-clock	isolation
+the	full	experiment	was	tried,	with	the	system	of	total	round-the-clock	isolation
 added	to	the	enforced	blindfolding,	soundlessness,	and	muteness	(in	New	York,
 from	1821	to	1823),
 
@@ -4651,7 +4651,7 @@ prisons	resemble	hell	as	much	as	they	do	not	just	because	of	the	character	of	th
 people	who	tend	to	occupy	them,	but	also	because	throughout	history	(and	with
 few	exceptions)	the	societies	that	construct	prisons	have	specifically	 wanted	to
 make	the	prisons	resemble	hell,	as	much	as	possible,	from	their	architecture	to
-the	 relationships	 between	 the	 various	 groups	 of	 people	 involved	 in	 themespecially	the	inmates,	the	correctional	staff,	and	the	judges	who	sentence	people
+the	 relationships	 between	 the	 various	 groups	 of	 people	 involved	 in	 the specially	the	inmates,	the	correctional	staff,	and	the	judges	who	sentence	people
 to	them.
 
 For	 example,	 Samuel	 Edgerton"	 has	 pointed	 out
@@ -4873,7 +4873,7 @@ old	white	man	(or	boy)	who	appeared	even	younger	than	his	stated	age,	who	was
 visibly	trembling	and	appeared	nearly	frightened	to	death.	What	he	described	to
 me	 was	 a	pattern	 of	repeated	gang	rapes	to	which	 he	had	been	subjected	since
 first	arriving	in	prison.	He	was	sent	to	prison	for	a	relatively	minor,	nonviolent
-offense.	After	he	was	convicted	in	court,	he	had	first	been	sent	to	the	mediumsecurity	 prison	 to	 which	 all	 of	 the	 younger	 prisoners	 convicted	 of	 nonviolent
+offense.	After	he	was	convicted	in	court,	he	had	first	been	sent	to	the	medium security	 prison	 to	 which	 all	 of	 the	 younger	 prisoners	 convicted	 of	 nonviolent
 crimes	are	initially	sent	for	a	brief	"diagnostic"	evaluation,	on	the	basis	of	which
 they	 are	 assigned	 or	 "classified"	 to	 whatever	 long-term	 prison	 setting	 the
 authorities	deem	suitable	for	that	particular	individual;	soon	after	arriving	there,
@@ -5095,7 +5095,7 @@ examples:	 when	 the	 Texas	 Department	 of	 Correction	 became	 the	 subject	 o
 investigation,	 hearings,	 and	 a	 trial,	 the	 federal	 judge	 in	 the	 case,	 William	 W.
 Justice,	 determined	 as	 a	 "finding	 of	 fact"	 that	 the	 brutalization	 of	 inmates	 by
 other	 inmates,	 including	 forced	 coercive	 sexual	 assault	 (rape,	 by	 any	 other
-name),	was	a	"routine"	fcature	of	that	penal
+name),	was	a	"routine"	feature	of	that	penal
 
 Another	 court-ordered	 investigation	 of	 conditions	 of	 one	 Florida	 prison	 in
 
@@ -5116,7 +5116,7 @@ than	600	per	year)	in	the	Prince	George	County	Detention	Center	alone.
 In	1968,	mass	rapes	were	admitted	to	be	"routine	occurrences	at	Cook	County
 Jail,"	in	Chicago,	by	officials	of	the	jail	themselves.	Dr.	Anthony	M.	Scacco,	Jr.,
 a	 criminologist	 formerly	 with	 the	 Connecticut	 Department	 of	 Correction,
-reported	that	rape	and	other	sexual	violence	was	rampant	in	juvenile	and	youngadult	 institutions	 in	 that	 state.	 Dr.	 Frank	 L.	 Rundle,	 of	 the	 California	 Training
+reported	that	rape	and	other	sexual	violence	was	rampant	in	juvenile	and	young adult	 institutions	 in	 that	 state.	 Dr.	 Frank	 L.	 Rundle,	 of	 the	 California	 Training
 Facility	at	Soledad,	concluded	that	rape	and	other	sexual	violence	is	universal	in
 the	nation's	prisons:	"I	think	that	that	same	picture	is	true	of	any	prison.	It's	not
 just	Angola	or	San	Quentin	or	Soledad.	It	is	a	feature	of	prison	life	everywhere."
@@ -5214,7 +5214,7 @@ citizen.	 He	 is	 married	 with	 a	 family,	 no	 previous	 criminal	 record,	 an
 former	Georgia	legislator	and	businessman	who	found	himself	the	victim	of
 a	 jail	 situation.	 William	 Laite	 was	 indicted	 and	 convicted	 in	 Texas	 of
 perjury	 relating	 to	 a	 contract	 he	 had	 with	 the	 Federal	 Administration
-Housing	 Authority.	 He	 was	 sentenced	 to	 the	 Terrant	 County	 Jail	 in	 Fort
+Housing	 Authority.	 He	 was	 sentenced	 to	 the	 Tarrant	 County	 Jail	 in	 Fort
 Worth,	 Texas.	 The	 moment	 he	 entered	 the	 tank,	 or	 day	 room,	 he	 was
 approached	 by	 five	 men.	 The	 first	 comment	 from	 one	 of	 them	 was,	 I
 wonder	if	he	has	any	guts.	We'll	find	 out	tonight,	won't	we?	Reckon	what
@@ -5271,7 +5271,7 @@ doing.
 
 Wilbert	Rideau	has	commented	that	"few	female	rape	victims	in	society	must
 repay	 their	 rapist	 for	 the	 violence	 he	 inflicted	 upon	 them	 by	 devoting	 their
-existence	to	servicing	his	every	need	for	years	afterbut	rape	victims	in	the	world
+existence	to	servicing	his	every	need	for	years	after but	rape	victims	in	the	world
 of	prison	must."29	While	that	may	be	true	for	some	female	victims	of	rape,	one
 can	readily	think	of	at	least	two	situations	in	which	that	is	not	the	case-and	here	I
 am	thinking	of	battered	wives	trapped	in	a	vicious	cycle	of	domestic	assault,	and
@@ -5527,7 +5527,7 @@ mystification,	 as	 being	 the	 ultimate	 source	 of	 most	 crime	 and	 violence
 distracting	 attention	 from	 the	 fact	 that	 the	 ultimate	 source	 of	 most	 crime	 and
 violence	is	actually	the	upper	class-or	rather,	the	class	system.
 
-Thus,	it	is	not	surprising	at	all-indeed,	it	is	only	to	be	expectedthat	those	who
+Thus,	it	is	not	surprising	at	all-indeed,	it	is	only	to	be	expected that	those	who
 identify	 with	 the	 interests	 of	 the	 ruling	 class	 would	 be	 likely	 to	 pursue	 those
 policies	that	lead	to	an	increase	in	the	rate	of	what	is	legally	defined	as	crime	and
 violence.	Such	policies	include	the	following:
@@ -6056,13 +6056,13 @@ into	 believing	 that	 the	 black	 people	 are	 "inferior"-and	 white	 people
 "superior'.	.	.	.33
 
 I	don't	see	how	.	.	.	a	black	woman	with	any	race	pride	could	walk	down	the
-street	with	any	black	man	wearing	a	conkthe	emblem	of	his	shame	that	he	is
+street	with	any	black	man	wearing	a	conk the	emblem	of	his	shame	that	he	is
 black.	To	my	own	shame,	when	I	say	all	of	this	I'm	talking	first	of	all	about
 myself.	.	.	.34
 
 On	the	other	hand,	because	his	self-analysis	had	been	so	unsparing,	he	could
 also	assert	with	confidence	his	diagnosis	that	"if	you	study	closely	any	conked	.	.
-.	 Negro,	 .	 .	 .	 his	 hair	 lye-cooked	 to	 be	 'whitelooking'	 fairly	 shouts	 to	 everyone
+.	 Negro,	 .	 .	 .	 his	 hair	 lye-cooked	 to	 be	 'white looking'	 fairly	 shouts	 to	 everyone
 who	looks	at	his	head,	'I'm	ashamed	to	be	a
 
 At	 the	 end	 of	 his	 life,	 following	 his	 pilgrimage	 to	 Mecca,	 Malcolm
@@ -6194,7 +6194,7 @@ In	 recent	 years,	 one	 of	 Lorenz's	 fellow	 ethologists,	 N.	 Tinbergen,	 who
 probably	 done	 more	 than	 anyone	 to	 clarify	 the	 concept	 of	 instinct,'	 has
 concluded	that	that	term	is	"used	in	too	many	different	senses	to	be	of	further	use
 in	 the	 present	 stage	 of	 the	 behavioral	 sciences."2	 Tinbergen,	 in	 fact,	 has
-recommended	 that	 the	 term	 "instinct"	 be	 replaced	 by	 the	 notion	 of	 a	 "fixedaction	 pattern,"	 to	 reflect	 the	 specificity	 and	 rigidity	 of	 the	 innate,	 unlearned,
+recommended	 that	 the	 term	 "instinct"	 be	 replaced	 by	 the	 notion	 of	 a	 "fixed action	 pattern,"	 to	 reflect	 the	 specificity	 and	 rigidity	 of	 the	 innate,	 unlearned,
 preprogrammed	behaviors	that	can	be	observed	in	many	animal	species	(unlike
 the	 high	 degree	 of	 plasticity	 and	 flexibility	 characteristic	 of	 human	 behavior).
 Even	 in	 animals,	 suggests	 Tinbergen,	 such	 behavior	 occurs	 only	 when	 it	 is
@@ -6240,13 +6240,13 @@ and	willing	to	take	the	necessary	steps	to	do	so.
 
 A	 second	 reason	 this	 concept	 is	 dangerous	 is	 that	 it	 leads	 us	 to	 believe	that
 violent	impulses	need	to	be	discharged	periodically	or	they	will	build	up	to	the
-point	 where	 they	 explode	 spontaneously	 and	 uncon	 trollably.	 One	 corollary	 of
+point	 where	 they	 explode	 spontaneously	 and	 uncon	 uncontrollably.	 One	 corollary	 of
 these	notions	is	the	idea	that	one	way	to	prevent	violence	is	to	expose	people	to
 aggressive	 (but	 nonlethal)	 alternatives	 to	 criminal	 or	 military	 violence,	 such	 as
 violent	 sports,	 competitive	 economic	 arrangements,	 and	 so	 on,	 to	 provide	 an
 "outlet"	for	men's	"innate	violent	 drives,"	on	the	mistaken	assumption	that	that
 will	 diminish	 the	 incidence	 and	 destructiveness	 of	 crime	 and	 war.	 The
-anthropologist	 R.	 G.	 Sipes'	 decided	 to	 test	 this	 "hostility-catharsis,	 drivedischarge"	 model	 of	 violence	 empirically,	 which	 he	 did	 by	 comparing	 the
+anthropologist	 R.	 G.	 Sipes'	 decided	 to	 test	 this	 "hostility-catharsis,	 drive discharge"	 model	 of	 violence	 empirically,	 which	 he	 did	 by	 comparing	 the
 practice	of	athletics	in	ten	pacific,	nonviolent	cultures	and	ten	highly	belligerent,
 warlike	 ones.	 He	 found	 that	 the	 societies	 that	 played	 the	 most	 combative,
 physically	violent	games	also	engaged	in	the	most	warfare,	 concluding	that	 far
@@ -6567,7 +6567,7 @@ another	chart	plotting	the	average	rate	of	committing	murder,	as	they	each	vary
 with	age	over	the	life	cycle,	the	two	charts	are	astonishingly	similar:	relatively
 low	amounts	of	each	before	puberty,	then	a	sudden	dramatic	increase	in	each	at
 puberty,	 with	 the	 levels	 of	 both	 remaining	 high	 throughout	 adolescence	 and
-young	adulthood,	then	di	minishing	gradually	but	steadily	together	from	middle
+young	adulthood,	then	di	diminishing	gradually	but	steadily	together	from	middle
 age	onwards.	It	strains	the	imagination	to	believe	that	this	similarity	is	simply	a
 coincidence,	 given	 the	 wide	 variety	 of	 collateral	 data	 that	 indicates	 that
 androgens	 stimulate	 aggressiveness.	 The	 opposite	 appears	 to	 be	 true	 of	 female
@@ -6838,10 +6838,10 @@ quote	the	phrase	that	was	so	central	to	the	identity	of	the	murderer	I	analyzed	
 Chapter	Three).	Women	are	honored	for	inactivity	or	passivity,	for	not	engaging
 
 in	forbidden	activities.	They	are	shamed	or	dishonored	if	they	are	active	where
-they	 should	 not	 besexually	 or	 in	 realms	 that	 are	 forbidden	 (professional
+they	 should	 not	 be sexually	 or	 in	 realms	 that	 are	 forbidden	 (professional
 ambition,	aggres	siveness,	competitiveness	and	success;	or	violent	activity,	such
 as	warfare	or	other	forms	of	murder).	Lady	Macbeth,	for	example,	realized	that
-to	commit	murder	she	would	have	to	be	"unsex'd,"	i.e.,	freed	from	the	restraints
+to	commit	murder	she	would	have	to	be	"unsexed,"	i.e.,	freed	from	the	restraints
 on	violence	that	were	imposed	on	her	by	virtue	of	her	belonging	to	 the	female
 sex;	and	even	then,	she	was	unable	to	commit	murder	herself,	but	had	to	shame
 her	husband	into	committing	murder	for	her,	so	that	she	could	only	participate	in
@@ -6852,7 +6852,7 @@ king).
 Further	 evidence	 that	 men	 are	 violence	 objects	 and	 women,	 sex	 objects,	can
 be	found	by	examining	the	kinds	of	crimes	that	are	committed	against	each	sex.
 Men	 constitute,	 on	 the	 average,	 75	 percent	 or	 more	 of	 the	 victims	 of	 lethal
-physical	violence	in	the	United	Stateshomicide,	suicide,	so-called	unintentional
+physical	violence	in	the	United	United States homicide,	suicide,	so-called	unintentional
 injuries	 (from	 working	 in	 hazardous	 occupations,	 engaging	 in	 violent	 athletic
 contests,	 and	 participating	 in	 other	 high-risk	 activities),	 deaths	 in	 military
 combat,	 and	 so	 on.	 And	 throughout	 the	 world,	 men	 die	 from	 all	 these	 same
@@ -6904,7 +6904,7 @@ than	was	ever	possible	before	civilization	was	invented;	and	the	many	forms	of
 art	 that	 could	 not	 and	 did	 not	 exist	 except	 under	 conditions	 of	 civilization	 are
 among	 the	 main	 things	 that	 make	 life	 worth	 living.	 But	 the	 paradox	 is	 that
 civilization	has	also	increased	both	the	level	of	human	violence,	and	the	scale	of
-the	 human	 potential	 for	 violence,	 far	 beyond	 anything	 that	 any	 precivilized
+the	 human	 potential	 for	 violence,	 far	 beyond	 anything	 that	 any	 pre-civilized
 human	culture	had	done.	In	the	past,	the	primary	threat	to	human	survival	was
 nature,	now	it	is	culture.	Human	suffering	before	civilization	was	mainly	pathos;
 
@@ -7125,7 +7125,7 @@ only	a	lifetime	ago.	I	have	seen	their	pictures	in	a	history	painting	on	the	lan
 of	the	great	pillared	mansion,	Arbor	Lodge,	celebrating	their	signing	away	their
 land	 to	 us.	 But	 we	 made	 them	 do	 it!	 It	 was	 'Sign	 or	 die!'-and	 die	 they	 did,
 whether	 they	 signed	 or	 not.	 So	 we	 stole	 their	 land	 and	 murdered	 them.	 How
-strangethey	say	 to	me	in	church	'Thou	shalt	not	kill	or	steal,'	but	that	does	not
+strange they	say	 to	me	in	church	'Thou	shalt	not	kill	or	steal,'	but	that	does	not
 stop	 us	 from	 owning,	 farming,	 even	 loving	 this	 beautiful	 land	 that	 they	 loved
 too,	so	much	that	they	refused	to	let	anyone	own	it,	lest	they	rape	it;	and	which
 we	 got	by	 stealing	 and	killing.	So	we	fertilized	it	with	their	blood	and	bones,"
@@ -7160,12 +7160,12 @@ the	people	they	had	displaced,	whose	survivors	were	now	herded	like	cattle	onto
 reservations,	or	enslaved,	or	simply	all	killed?	 And	just	as	 he	 invaded	 the	East
 for	Lebensraum,	so	my	ancestors	invaded	the	West	for	Lebensraum.	And	just	as
 he	 enslaved	 millions,	 so	 my	 ancestors	 enslaved	 millions.	 And	 just	 as	 he	 killed
-whole	 races	 of	 people,	 so	 my	 ancestors	 exterminated	 entire	 tribes	 of	 Indiansevery	man,	woman,	and	child.	The	only	good	injun	is	a	dead	injun,'	goes	the	old
+whole	 races	 of	 people,	 so	 my	 ancestors	 exterminated	 entire	 tribes	 of	 Indians	man,	woman,	and	child.	The	only	good	injun	is	a	dead	injun,'	goes	the	old
 motto	of	the	West.	So	the	authentic	voice	of	genocide	runs	like	a	bloody	thread
 throughout	the	whole	tapestry	of	our	history,	just	as	much	as	it	does	through	our
 enemies',	the	Germans	and	the	Japs.	And	here	I	am,	finding	arrowheads	beneath
 a	tree	on	my	father's	farm,	just	as	some	German	child	a	hundred	years	from	now
-would	find	a	Star	of	David	in	the	same	location	in	the	plains	of	eastern	Europeand	with	the	same	significance	and
+would	find	a	Star	of	David	in	the	same	location	in	the	plains	of	eastern	Europe	with	the	same	significance	and
 
 When	I	first	realized	that	I,	and	all	other	Americans,	were	living	on	and	enjoying
 land	that	we	had	stolen	from	other	people,	by	the	simple	expedient	of	killing	any
@@ -7238,7 +7238,7 @@ they	 went	 about	 killing	 earlier	 generations	 of	 native	 Americans,	 or	 In
 order	to	have	a	piece	of	land	to	live	on.
 
 History	 is	 a	 tragedy,	 not	 a	 morality	 play;	 American	 history,	 which	 like	 all
-history	is	largely	a	story	of	violence,2	is	a	tragedy,	not	a	morality	play.	It	cannotexcept	 at	 the	 cost	 of	 a	 moral	 oversimplification	 which	 itself	 does	 violence	 to
+history	is	largely	a	story	of	violence,2	is	a	tragedy,	not	a	morality	play.	It	cannot except	 at	 the	 cost	 of	 a	 moral	 oversimplification	 which	 itself	 does	 violence	 to
 reality-be	reduced	to	a	tale	of	good	Indians	versus	bad	cowboys	(or	vice	versa),
 or	 of	 good	 Indians	 and	 bad	 Puritans	 (or	 vice	 versa),	 or	 of	 good	 cops	 and	 bad
 robbers	 (or	 vice	 versa).	 Violence	 is	 a	 tragedy,	 in	 which	 everyone	 involved	 is
@@ -7259,7 +7259,7 @@ often	manage	to	save	and	invest	their	considerable	earnings	as	conscientiously	a
 did	the	Brahmins'	own	ancestors.	The	fact	is	that	the	ancestors	of	the	latter	group
 made	 the	 fortunes	 on	 which	 their	 descendants	 are	 now	 living	 (comfortably
 enough	 that	 they	 do	 not	 need	 to	 deal	 drugs)	 by	 means	 of	 the	 seventeenth-	 and
-eighteenth-century	equivalents	of	drug-dealing,	such	as	slave-trafficking,	opiumsmuggling,	 rum-running,	 and	 killing.	 If	 they	 had	 not	 engaged	 in	 it,	 their
+eighteenth-century	equivalents	of	drug-dealing,	such	as	slave-trafficking,	opium smuggling,	 rum-running,	 and	 killing.	 If	 they	 had	 not	 engaged	 in	 it,	 their
 descendants	would	certainly	not	be	wealthy	enough	to	have	the	moral	luxury	of
 denouncing	the	"criminality"	of	the	young	African-American,	Latino,	and	Asian-
 American	men	who	are	busy	accumulating	their	own	fortunes	in	equivalent	ways
@@ -7311,7 +7311,7 @@ distressed	and	 hurt	 by	 this,	 stricken	 and	 humiliated.	 As	 he	 saw	 it,	 h
 abandonment	 and	 aloneness,	 of	 feeling	 that	 everyone	 wanted	 to	 discard	 her,	 to
 make	her	simply	disappear,	was	only	exacerbated	when	she	was	visited	by	two
 of	 his	 father's	 fellow	 clergymen,	 who	 told	 her	 that	 her	 husband's	 behavior	 was
-God's	 will	 and	 even	 that	 his	 love	 for	 someone	 else	 might	 be	 considered	 holyafter	 all,	 God	 commanded	 us	 to	 love	 one	 another-so	 she	 should	 be	 a	 good
+God's	 will	 and	 even	 that	 his	 love	 for	 someone	 else	 might	 be	 considered	 holy after	 all,	 God	 commanded	 us	 to	 love	 one	 another-so	 she	 should	 be	 a	 good
 Christian	and	accept	his	need	to	begin	a	new	life	without	her.	Eventually,	as	it
 happened,	higher	authorities	in	the	church	took	a	more	serious	view	of	the	matter
 and	 barred	 Matthew's	 father	 from	 serving	 as	 a	 clergyman.	 Nevertheless,	 he
@@ -7357,7 +7357,7 @@ examiner's	 judgment,	 this	 patient's	 potential	 for	 suicide	 is	 moderate,	 
 potential	for	physical	violence	is	not	significant."
 
 In	 the	 light	 of	 what	 I	 have	 said	 earlier	 in	 this	 book,	 that	 psychological
-assessment-that	 his	 shame	 over	 failing	 was	 overwhelming	 to	 himcan	 now	 be
+assessment-that	 his	 shame	 over	 failing	 was	 overwhelming	 to	 him can	 now	 be
 recognized	as	a	red	flag	warning	us	that	his	potential	for	physical	violence	was
 
 highly	 significant.	 If	 the	 solid,	 undifferentiated	 black	 nuclei	 in	 cells	 under	 the
@@ -7516,14 +7516,14 @@ dress	and	simple	flat	shoes,	the	second	wife	wearing	sunglasses	and	an	elegant
 print	dress	with	a	smart	straw	hat,	a	matching	handbag,	and	tastefully	designed
 shoes.	 And	 then	 the	 town:	 teachers	 and	 former	 classmates	 who	 had	 known
 Matthew	in	high	school	until	a	year	or	two	before;	members	of	the	dead	man's
-former	 parish,	 some	 weeping;	 po	 licemen	 who	 would	 be	 called	 as	 witnesses,
+former	 parish,	 some	 weeping;	 po	 policemen	 who	 would	 be	 called	 as	 witnesses,
 journalists	who	were	taking	it	all	down,	friends	of	the	families,	shopkeepers	and
 store	 clerks	 who	 knew	 them	 all;	 and,	 entering	 one	 by	 one,	 when	 their	 names
 were	called,	a	"pool"	of	more	than	forty	candidates	for	the	jury,	drawn	at	random
 from	the	entire	township,	but	none	of	them	strangers	to	anyone	in	the	room.	In
 fact,	most	of	the	prospective	jurors	had	to	be	eliminated,	because	they	knew	the
 defendant	 and	 his	 family	 too	 well.	 Eventually,	 however,	 they	 selected	 a	 group
-that	the	judge	and	lawyers	agreed	could	be	as	objective	as	human	beings	can	beand	the	trial	proceeded.
+that	the	judge	and	lawyers	agreed	could	be	as	objective	as	human	beings	can	be and	the	trial	proceeded.
 
 I	had	been	accepted	by	the	prosecuting	attorney,	the	defense	attorney,	and	the
 judge	as	the	person	who	would	try	to	help	them	decide	what	Matthew's	mental
@@ -7550,7 +7550,7 @@ whose	 honor	 and	 integrity	 he	 was	 standing	 up	 for;	 and	 for	 the	 commun
 large,	whose	trust	in	each	other	had	been	shaken	by	Matthew's	father's	behavior.
 
 But	 of	 course	 this	 formulation	 of	 the	 killing-which	 derives	 directly	 from
-Matthew's	 comments	 about	 the	 meaning	 of	 his	 father's	 behavior	 and	 his	 ownconstitutes	a	role	reversal;	Matthew	sacrifices	the	Father,	and	his	father	becomes
+Matthew's	 comments	 about	 the	 meaning	 of	 his	 father's	 behavior	 and	 his	 own constitutes	a	role	reversal;	Matthew	sacrifices	the	Father,	and	his	father	becomes
 the	sacrificed	Son.	This	fact	is	the	crucial	key	in	unlocking	the	mystery,	which	is
 simultaneously,	equally,	psychological,	moral,	legal,	and	religious:	Why	did	this
 son	feel	that	he	needed	to	kill	this	father	at	this	time-and	not	just	needed	to,	but
@@ -7616,7 +7616,7 @@ been	 committed	 following	 a	 suicide	 attempt.	 So	 there	 was	 method	 in	 hi
 
 Let	me	reflect	for	a	moment	about	the	implications	of	understanding	Matthew
 and	his	parricidal	behavior	in	this	way.	The	law	allows	three	possible	responses
-to	someone	in	Matthew's	position:	bad	(guilty),	notbad	(innocent:	he	did	not	do
+to	someone	in	Matthew's	position:	bad	(guilty),	not bad	(innocent:	he	did	not	do
 it,	or	doing	it	was	justifiable),	or	mad	(not	guilty	by	reason	of	insanity).	These
 choices	 may	 be	 adequate	 for	 the	 court's	 purpose,	 insofar	 as	 it	 is	 a	 purely	 legal
 one.	 But	 if	 we	 are	 approaching	 violence	 as	 a	 problem	 in	 public	 health	 and
@@ -7685,7 +7685,7 @@ can	you	see	the	heart	of	darkness	at	the	center	of	the	psychology	of	civilizatio
 
 I	 have	 detailed	 this	 at	 such	 length	 because	 it	 would	 be	 terrible	 for	 us	 not	 to
 listen	to	Matthew,	for	at	least	three	reasons.	The	first	was	because	he	had	already
-said,	as	clearly	as	he	could,	that	the	main	reason	he	killed	his	father	when	he	didthe	immediate	precipitant,	or	proximate	cause,	of	his	decision	to	take	his	father's
+said,	as	clearly	as	he	could,	that	the	main	reason	he	killed	his	father	when	he	did the	immediate	precipitant,	or	proximate	cause,	of	his	decision	to	take	his	father's
 shotgun	 out	 of	 the	 gun	 closet	 and	 shoot	 him	 when	 he	 returned-was	 precisely
 because	his	father	had	not	been	willing	to	listen	to	him,	to	hear	out	what	he	had
 to	say.	So	we	would	only	be	repeating	his	exposure	to	the	very	pathogen	that	had
@@ -7724,13 +7724,13 @@ unhappiness	 anyone	 could	 understand,	 who	 could	 now	 be	 reincluded	 in	 th
 human	 race,	 even	 if	 he	 did	 have	 to	 stay	 in	 a	 mental	 hospital	 for	 the	 indefinite
 future.	But	Matthew's	siblings	spoke	in	even	more	personal	terms;	they	said	that
 what	 I	 had	 explained	 in	 the	 courtroom	 had	 enabled	 them	 to	 understand	 their
-brother	for	the	first	time-not	just	since	the	murder,	but	even	before	the	murderand	to	see	what	he	had	been	going	through.	Matthew	himself	simply	said	that	he
+brother	for	the	first	time-not	just	since	the	murder,	but	even	before	the	murder and	to	see	what	he	had	been	going	through.	Matthew	himself	simply	said	that	he
 was	 grateful	 that	 I	 had	 enabled	 all	 those	 other	 people-his	 siblings	 and	 the
 community	at	large-to	grasp	why	he	had	felt	he	had	to	do	what	he	did.
 
 Much	is	written	about	"community	psychiatry,"	by	people	interested	in	social
 and	 preventive	 psychiatry.	 This	 trial	 exemplified	 for	 me	 how	 central	 a	 role
-nonpsychiatric	 institutions,	 such	 as	 the	 criminal	 justice	 system,	 can	 play	 in
+non psychiatric	 institutions,	 such	 as	 the	 criminal	 justice	 system,	 can	 play	 in
 accomplishing	 tasks	 that	 help	 a	 whole	 population	 recover	 from	 its	 collectively
 experienced	 trauma,	 and	 to	 find	 nonpathological	 and	 nondestructive	 ways	 to
 cope	 with	 it.	 Not	 all	 trials	 perform	 that	 function;	 some,	 in	 fact,	 may	 only
@@ -7917,7 +7917,7 @@ had	talked	about	my	leaving	the	hospital	and	also	about	his	future,	his	eventual
 leaving	as	well.	Perhaps	my	leaving	underscored	his	realization	that	he	would,	in
 a	 deep	 sense,	 never	 be	 able	 to	 leave	 behind	 what	 he	 had	 done.	 Perhaps	 in	 the
 end,	 despite	 all	 the	 others	 who	 were	 there	 for	 him,	 my	 leaving	 reawakened	 in
-him	the	feelings	of	abandonment	he	had	felt	when	he	felt	left	by	his	real	fatherexcept	this	time,	having	already	killed	his	father,	he	hanged	himself.
+him	the	feelings	of	abandonment	he	had	felt	when	he	felt	left	by	his	real	father except	this	time,	having	already	killed	his	father,	he	hanged	himself.
 
 One	 final	 irony	 in	 this	 tragedy	 is	 that	 I	 had	 resigned	 in	 part	 because	 I	 had
 come	 to	 feel	 that	 I	 was	 neglecting	 my	 own	 three	 sons	 by	 exhausting	 myself
@@ -7982,7 +7982,7 @@ Office),	 the	 Sourcebook	 of	 Criminal	 Justice	 Statistics,	 and	 the	 B.J.S.	
 entitled	Capital	Punishment	(published	annually	since	1973).
 
 Lewis	F.	Richardson,	Statistics	of	Deadly	Quarrels,	ed.	Quincy	Wright	and	C.
-C.	 Lienau	 (London,	 1960),	 is	 a	 compendium	 of	 statistics	 about	 wars	 and	 warrelated	deaths,	1820-1949.	Cf.	also	The	Twentieth	Century	Book	of	the	Dead,	by
+C.	 Lienau	 (London,	 1960),	 is	 a	 compendium	 of	 statistics	 about	 wars	 and	 war related	deaths,	1820-1949.	Cf.	also	The	Twentieth	Century	Book	of	the	Dead,	by
 Gil	Elliot	(New	York:	C.	Scribner,	1972),	and	David	Singer	and	Melvin	Small,
 The	 Wages	 of	 War,	 1816-1965:	 A	 Statistical	 Handbook	 (New	 York:	 Wiley,
 1972),	for	summaries	of	the	sex-ratios	of	the	war-related	fatalities	during	the	first
@@ -7994,12 +7994,12 @@ working	 conditions,	 violent	 child	 abuse,	 "unintentional"	 injuries	 caused	
 recklessness	and	risk-taking	bravado,	etc.)	in	every	nation,	every	year,	and	every
 age	 group,	 for	 which	 statistics	 are	 available.	 The	 only	 major	 exception	 to	 this
 pattern	is	the	apparent	excess	of	girls	among	the	victims	of	infanticide	in	certain
-developing	 nations	 in	 Asia,	 especially	 India	 and	 China,	 and	 in	 some	 huntingand-gathering	cultures.
+developing	 nations	 in	 Asia,	 especially	 India	 and	 China,	 and	 in	 some	 hunting and-gathering	cultures.
 
 3.	George	Steiner,	The	Death	of	Tragedy	(1961:	New	York:	Oxford	Univ.	Press,
 1980),	 pp.	 8,	 4	 and	 8;	 emphases	 added.	 This	 can	 be	 compared	 with
 Wittgenstein's	 comment,	 You	 get	 tragedy	 where	 the	 tree,	 instead	 of	 bending,
-breaks."	 [Die	 Tragodie	 besteht	 darin,	 dass	 sich	 der	 Baum	 nicht	 biegt,	 sondern
+breaks."	 [Die	 Tragödie	 besteht	 darin,	 dass	 sich	 der	 Baum	 nicht	 biegt,	 sondern
 bricht.]	 (Ludwig	 Wittgenstein,	 Culture	 and	 Value,	 Chicago:	 University	 of
 Chicago	Press,	1984,	pp.	I-1e;	the	remark	is	from	unpublished	manuscripts	dated
 1929).
@@ -8132,7 +8132,7 @@ them,	 and	 fear	 of	 them,	 instead);	 and	 guilt	 (the	 presence	 of	 self-hat
 inhibits	self-love,	and	stimulates	fear	and	condemnation	of	one's	own	hostile	and
 destructive	impulses	and	wishes).	Among	the	clinical	and	behavioral	syndromes
 caused	 by	 shame	 are	 paranoia,	 narcissism,	 sociopathy,	 selfishness,	 sadism,	 and
-revenge;	 whereas	 guilt	 causes,	 among	 other	 things,	 depression,	 penance,	 selfpunishment,	self-sacrifice,	martyrdom,	and	masochism.
+revenge;	 whereas	 guilt	 causes,	 among	 other	 things,	 depression,	 penance,	 self-punishment,	self-sacrifice,	martyrdom,	and	masochism.
 
 Chapter	3	(pp.	57-85)
 
@@ -8320,7 +8320,7 @@ the	priest's	devotion	to	society.
 .	.	.	to	attempt	to	stomp	someone	[to	death,	or	to	"kick	your	eyes	out	of	your
 head"]	specifically	seeks	to	leave	the	normal	universe	of	routine	behavior,	with
 its	 multiple,	 morally	 inconsequential	 motives,	 and	 to	 enter	 a	 battlefield,	 where
-the	stakes	are	incomparably	higherwhere	Good	and	Evil	fight	for	a	final	victory
+the	stakes	are	incomparably	higher	Good	and	Evil	fight	for	a	final	victory
 with	a	passion	that	understands	the	nature	of	the	stakes.
 
 .	.	.	although	impassioned	homicides	are	extreme	attacks	on	perhaps	the	most
@@ -8370,7 +8370,7 @@ hero,	 has	 been	 summoned	 to	 treat	 Geronte's	 daughter,	 who	 has	 become	 m
 me	what	it	comes	from.	Sganarelle.	Nothing	easier:	it	comes	from	the	fact	that
 she	has	lost	her	speech.	Geronte.	Very	good;	but	the	reason,	please,	why	she	has
 lost	 her	 speech.	 Sganarelle.	 All	 our	 best	 authors	 will	 tell	 you	 that	 it's	 the
-stoppage	 of	 the	 action	 of	 her	 tongue."	 In	 Molicre,	 The	 Misanthrope	 and	 Other
+stoppage	 of	 the	 action	 of	 her	 tongue."	 In	 Moliere,	 The	 Misanthrope	 and	 Other
 Plays.	Translated	Donald	M.	Frame	(New	York:	New	American	Library,	1968),
 p.	112.
 
@@ -9017,7 +9017,7 @@ Americans	 over	 the	 past	 five	 centuries,	 although	 many	 others	 may	 well	
 killed,	enslaved,	and	raped	roughly	as	many	people.
 
 I	HAVE	BEEN	WRITING	PHIS	ROOK	ALL	MY	LIFE,	AND	MANY	PEOPLE
-HAVE	 CON	 1'RII3UFLD10	 my	 thinking,	 more	 than	 I	 could	 possibly	 name	 or
+HAVE	 CON	 1'RII3CONTRIBUTED10	 my	 thinking,	 more	 than	 I	 could	 possibly	 name	 or
 thank	in	this	short	space.	The	early	development	of	my	ideas	about	the	emotions
 of	 shame,	 pride,	 guilt,	 and	 innocence	 was	 greatly	 facilitated	 by	 the	 insightful
 comments	and	wide	learning	of	several	inspiring	teachers,	mentors,	and	advisers
@@ -9057,7 +9057,7 @@ eighteenth	 annual	 Esther	 Schour	 Zetland	 Lecture	 on	 the	 subject	 of	 viol
 I	 am	 thankful	 also	 to	 the	 Institute	 of	 Criminology	 and	 Clare	 Hall,	 of	 the
 University	 of	 Cambridge,	 England,	 for	 giving	 me	 the	 opportunity	 to	 write	 this
 book	 as	 a	 Visiting	 Fellow,	 from	 1993	 to	 1994.	 1	 especially	 want	 to	 thank	 Dr.
-Adrian	 Grounds	 for	 his	 intellectual	 colleagueship	 and	 personal	 friendship,	 and
+Adrian	 Grounds	 for	 his	 intellectual	 collegiality	 and	 personal	 friendship,	 and
 his	 generosity	 in	 making	 it	 possible	 for	 me	 to	 gain	 access	 to	 the	 full	 range	 of
 British	institutions	in	which	I	was	interested.	The	acting	director	of	the	Institute
 of	 Criminology,	 David	 Farrington,	 and	 Lorraine	 Gelsthorpe	 were	 also	 very

@@ -189,7 +189,7 @@ probably knew more about my Skunk Works projects than my own wife and children.
 Even though we were the preeminent research and development operation in the free world, few
 Americans heard of the Skunk Works, although their eyes would light with recognition at some of our
 inventions: the P-80, America's first jet fighter; the F-104 Starfighter, our first supersonic jet attack
-plane; the U-2 spy plane; the incredible SR-71 Blackbird, the world's first three-times-the-speed-ofsound surveillance airplane; and the F-117A stealth tactical fighter that many Americans saw on CNN
+plane; the U-2 spy plane; the incredible SR-71 Blackbird, the world's first three-times-the-speed-of sound surveillance airplane; and the F-117A stealth tactical fighter that many Americans saw on CNN
 scoring precision bomb strikes over Baghdad during Operation Desert Storm.
 
 These airplanes, and other Skunk Works projects that were unpublicized, shared a common thread:
@@ -224,7 +224,7 @@ not going to work.
 
 Kelly's motto was "Be quick, be quiet, be on time." For many of us, he was the only boss we had
 ever known, and my first day seated behind his huge desk in the big three-hundred-square-foot corner
-office where Kelly had commanded every aspect of our daily operations, I felt like a three-and-halffoot-tall impostor, even though my kingdom was a windowless two-story headquarters building
+office where Kelly had commanded every aspect of our daily operations, I felt like a three-and-half foot-tall impostor, even though my kingdom was a windowless two-story headquarters building
 housing three hundred engineers, supervisors, and administrators, who operated behind thick,
 eavesdrop-proof walls under guard and severe security restrictions in an atmosphere about as cheery
 as a bomb shelter. The unmarked building was adjacent to a pair of enormous production hangars,
@@ -543,7 +543,7 @@ nearly as well as my own, and I also knew that he would not be thrilled about st
 thought the days of manned attack airplanes were definitely numbered. "Goddam it, Ben, the future
 belongs to missiles. Bombers are as obsolete as the damned stagecoach."
 
-I argued back, "Kelly, the reason they call them missiles, instead of hittles, is that they miss much
+I argued back, "Kelly, the reason they call them missiles, instead of hurdles, is that they miss much
 
 more than they hit." But Kelly just shook his head.
 
@@ -610,7 +610,7 @@ for the same money they can invest in new missiles."
 In part, I think, Kelly was trying to be protective. He didn't want me to risk an embarrassing
 failure my first turn at bat, pursuing a high-risk project with little apparent long-range potential. I
 would be spending close to a million dollars of our own development money on this project, and if
-Kelly was right, I'd wind up with nothing to show for it. Still, I never waivered from believing that
+Kelly was right, I'd wind up with nothing to show for it. Still, I never wavered from believing that
 stealth could create the biggest Skunk Works bonanza ever. It was a risk well worth taking, proving a
 technology that could dominate military aviation in the 1980s even more than the U-2 spy plane had
 impacted the 1950s. At that point the Russians had no satellites or long-range airplanes that could
@@ -856,7 +856,7 @@ me in a fit of pique: "Well," he snorted, "since you're so damned clever, build 
 pole." I thought, Oh, sure. Build a tower that's ten decibels lower than the model. Lots of luck.
 In the end we had to team up with Northrop to pay for the poles, because the Air Force
 
-wasn't about to foot the bill. It cost around half a million dollars. And I designed a doublewedge pylon which they tested on a 50,000-watt megatron, state of the art in transmitters, that
+wasn't about to foot the bill. It cost around half a million dollars. And I designed a double wedge pylon which they tested on a 50,000-watt megatron, state of the art in transmitters, that
 could pick up an object the size of an ant from a mile away. On that radar the pole was about
 the size of a bumblebee. John Cashen, who was Northrop's stealth engineer, was in the
 control room when they fired up the radar. And I overheard their program manager whisper to
@@ -1125,7 +1125,7 @@ to do to keep the system on track and stable without the pilot even being aware 
 a triumph of computer technology. Without it, we could not even taxi straight.
 
 In July 1976, we began building the first of two Have Blue prototypes in Building 82, one of our
-big assembly hangars, the size of three football fields. We had our ownunique method for building an
+big assembly hangars, the size of three football fields. We had our own unique method for building an
 airplane. Our organizational chart consisted of an engineering branch, a manufacturing branch, an
 inspection and quality assurance branch, and a flight testing branch. Engineering designed and
 developed the Have Blue aircraft and turned it over to the shop to build. Our engineers were expected
@@ -1300,7 +1300,7 @@ Have Blue in mid-November, nearly three weeks before the flight test target date
 
 You had the cream of the crop in management delivering the goods for you." The airplane was loaded
 onto a C-5 cargo plane at two in the morning and roared away to our remote test site, leaving behind
-several complaints to the FAA from irate citizens whose sleep was disturbed by this violation of latenight takeoffs from the Burbank Airport. Frankly, it was such a relief to get Have Blue out of
+several complaints to the FAA from irate citizens whose sleep was disturbed by this violation of late night takeoffs from the Burbank Airport. Frankly, it was such a relief to get Have Blue out of
 assembly that I would have gladly paid a fine.
 
 The plane was now in the hands of our flight test crews, who would spend the next couple of
@@ -1364,7 +1364,7 @@ preoccupied with last-minute preflight checks. Kelly Johnson is standing at my s
 stoic. He's still skeptical about whether or not this prototype will prove way too draggy to get
 off the ground. But Kelly brought along a case of champagne on the Jetstar from Burbank to
 celebrate after Park's flight. Over the years at the Skunk Works we've never failed to celebrate
-a successful maiden test flight of anything we've ever built. We always polished off a hardearned success with a boisterous party where Kelly challenged all comers to an arm-wrestling
+a successful maiden test flight of anything we've ever built. We always polished off a hard earned success with a boisterous party where Kelly challenged all comers to an arm-wrestling
 contest. He's an old man now, ailing, but I still wouldn't take him on.
 
 We've had our share of crashes during long weeks and months of test-flying new airplanes,
@@ -1404,7 +1404,7 @@ Bill goes full throttle. He's chewing up a lot of runway as he sweeps past us. I
 Damn it, with all that wind he should be up by now. He's far down the runway and I'm no
 longer breathing. Uh-oh. He's damn near off the end of the goddam runway. Then I see him lift
 off. Slow as a jumbo jet a hundred times its weight, but he's up. His nose is high. But just
-hanging there. Get up. Up, up, up. The little airplane hears me. It's heading toward the snowpowdered mountains. Ken Perko of the Pentagon's Advanced Research Projects Agency, who is
+hanging there. Get up. Up, up, up. The little airplane hears me. It's heading toward the snow powdered mountains. Ken Perko of the Pentagon's Advanced Research Projects Agency, who is
 among the half dozen outsiders cleared to witness this flight test, reaches out to shake my
 hand. "By God, Ben," he says, "the Skunk Works has done it again."
 
@@ -1438,7 +1438,7 @@ before first flight—a big edge when the time finally came to push that throttl
 
 I was the principal pilot on Have Blue. My backup was a blue-suiter, Lt. Colonel Ken
 Dyson. We didn't know very much about the airplane in the beginning. It was built on the
-cheap all the way. It was just a demonstrator that was to be junked, so the brakes were godawful, the cockpit too small and too crammed. All the avionics were surplus store red tags. I
+cheap all the way. It was just a demonstrator that was to be junked, so the brakes were god awful, the cockpit too small and too crammed. All the avionics were surplus store red tags. I
 remember this Air Force colonel came down to the test site and asked me how much we spent
 on this program. I told him $34 million. He said, "No, I don't mean one airplane. I mean both
 
@@ -2360,7 +2360,7 @@ defense secretary, to be prepared for a Delta Force–style nighttime strike aga
 Kaddafi's headquarters in Tripoli. The mission was code-named Operation El Dorado Canyon and
 would involve eight to twelve F-117As. Preparations were immediately made to fly to the east coast,
 overnight for crew rest, then take off the next day and using air-to-air refueling fly straight to Libya
-and hit Kaddafiaround three in the morning. Senior officers at the Tactical Air Command who had
+and hit Kaddafi around three in the morning. Senior officers at the Tactical Air Command who had
 been briefed about the existence of the stealth fighter and were monitoring the training program
 underway at Tonopah advised Weinberger that the F-117A was the perfect weapons system for this
 
@@ -2368,7 +2368,7 @@ covert surgical strike operation. "This was why the system was built," one four-
 Cap hesitated, and within an hour of the squadron's scheduled departure to the east coast he scrubbed
 us from the mission. He simply did not want to reveal the existence of this top secret revolutionary
 airplane to the Russians that soon. In my view Weinberger booted it. The raid was carried out using
-Navy fighter-bombers off carriers, and Kaddafiescaped with his life because Libyan defenses picked
+Navy fighter-bombers off carriers, and Kaddafi escaped with his life because Libyan defenses picked
 up the attackers coming in time to sound the alarm and several bombs aimed directly at Kaddafi's
 quarters missed their target because the attacking aircraft were forced to evade incoming missiles and
 flak. The F-117A would have attacked with surprise and placed that smart bomb right on the guy's
@@ -2390,7 +2390,7 @@ General Larry D. Welch
 (Air Force Chief of Staff from 1986 to 1990)
 As Air Force Chief of Staff, what I had in mind for the F-117A was a specific set of extremely
 high-value targets that would neutralize the enemy defenses for a full-scale attack. For example,
-we had pondered endlessly about how we could cope with the Soviet SA-5 and SA-10 ground-toair missiles—that is, by what means could we take them out and allow our air armada to proceed
+we had pondered endlessly about how we could cope with the Soviet SA-5 and SA-10 ground-to air missiles—that is, by what means could we take them out and allow our air armada to proceed
 safely to their targets inside the Soviet heartland? We finally determined that the stealth airplane
 was our ticket. If we had a squadron of these revolutionary airplanes that no one knew about, and
 if they could take out those damned SA-5s, that gave us a tremendous strategic advantage over the
@@ -2447,12 +2447,12 @@ century every military aircraft flying would be stealth. I might be wrong about 
 about the dominance of stealth.
 
 Colonel Barry Horne
-Bats. Bats were the first visual proof I had that stealth really worked. We had deployed thirtyseven F-117As to the King Khalid Air Base, in a remote corner of Saudi Arabia, out of the range
+Bats. Bats were the first visual proof I had that stealth really worked. We had deployed thirty-seven F-117As to the King Khalid Air Base, in a remote corner of Saudi Arabia, out of the range
 
 of Saddam's Scuds, about 900 miles from downtown Baghdad. The Saudis provided us with a
 first-class fighter base with reinforced hangars, and at night the bats would come out and feed off
 insects. In the mornings we'd find bat corpses littered around our airplanes inside the open
-hangars. Bats used a form of sonar to "see" at night, and they were crashing blindly into our lowradar-cross-section tails.
+hangars. Bats used a form of sonar to "see" at night, and they were crashing blindly into our low radar-cross-section tails.
 
 After all those years of training, we certainly believed in the product, but it was nice having
 that kind of visual confirmation, nevertheless. On the night of D-day in Desert Storm, it fell on us
@@ -2639,7 +2639,7 @@ atmosphere. We were the analytical experts, the elite of the plant, who decreed 
 told the draftsmen what to draw. All of us were well aware that we worked for Chief Engineer
 Clarence "Kelly" Johnson, the living legend who had designed Lockheed's Electra and Lockheed's
 Constellation, the two most famous commercial airliners in the world. All of us had seen him rushing
-around in his untucked shirt, a paunchy, middle-aged guy with a comical duck's waddle, slickeddown white hair, and a belligerent jaw. He had a thick, round nose and reminded me a lot of W. C.
+around in his untucked shirt, a paunchy, middle-aged guy with a comical duck's waddle, slicked down white hair, and a belligerent jaw. He had a thick, round nose and reminded me a lot of W. C.
 
 Fields, but without the humor. Definitely without that. Johnson was all business and had the reputation
 of an ogre who ate young, tender engineers for between-meal snacks. We peons viewed him with the
@@ -2694,7 +2694,7 @@ story of how I built my first airplane at the tender age of fourteen. An older c
 from a local flying club and to his dismay discovered that it came in a dozen crates and that he had to
 assemble it himself. My brothers and I built it for him in our big backyard, and after weeks of hard
 labor, we discovered that the finished product was too big to fit through our front gate. We had to take
-off the wings—but still no go. Then the tail, and finally the landing gear. In the end, we recrated the
+off the wings—but still no go. Then the tail, and finally the landing gear. In the end, we recreated the
 damned thing and my cousin got his money back. A few years later, that same cousin barely survived
 the infamous Bataan Death March.
 
@@ -2794,7 +2794,7 @@ soon became his and Lockheed's trademark. The Electra revolutionized commercial 
 expert aerodynamicist, stress analyst, weight expert, wind tunnel and flight test engineer—and he did
 some test flying himself. He once said that unless he had the hell scared out of him once a year in a
 cockpit he wouldn't have the proper perspective to design airplanes. Once that guy made up his mind
-to do something he was as relentless as a bowling ball heading toward a ten-pin strike. With his chilipepper temperament, he was poison to any bureaucrat, a disaster to ass-coverers, excuse-makers, or
+to do something he was as relentless as a bowling ball heading toward a ten-pin strike. With his chili pepper temperament, he was poison to any bureaucrat, a disaster to ass-coverers, excuse-makers, or
 fault-finders. Hall Hibbard, who was Kelly's first boss at Lockheed, watched Kelly work for three
 days during the war to transform Lockheed's Electra into a bomber for the British called the Hudson.
 The transformation was so successful that the RAF ordered three thousand airplanes, and Hibbard
@@ -2812,7 +2812,7 @@ room could unreasonably hold. Space was at a premium, so much so that Kelly's te
 procurement department operated from a small balcony looking down on the production floor. The
 place was airless and gloomy and had the look of a temporary campaign headquarters where all the
 chairs and desks were rented and disappeared the day after the vote. But there was no sense of
-imminent eviction apparent inside Kelly's Skunk Works. His small group were all young and highspirited, who thought nothing of working out of a phone booth, if necessary, as long as they were
+imminent eviction apparent inside Kelly's Skunk Works. His small group were all young and high-spirited, who thought nothing of working out of a phone booth, if necessary, as long as they were
 designing and building airplanes. Added to the eccentric flavor of the place was the fact that when the
 hangar doors were opened, birds would fly up the stairwell and swoop around drawing boards and
 dive-bomb our heads, after knocking themselves silly against the permanently sealed and blacked-out
@@ -2839,7 +2839,7 @@ colleagues whom I had particularly admired at the time, so I gave Kelly a quick 
 recruiting, myself excepted of course. We were only two doors removed from the boss's big corner
 office.
 
-Before I really got to work, Boehme handed me a piece of paper on which was mimeoed Kelly's
+Before I really got to work, Boehme handed me a piece of paper on which was mimeographed Kelly's
 "riot act"—ten basic rules we worked by. A few of them: "There shall be only one object: to get a
 good airplane built on time." "Engineers shall always work within a stone's throw of the airplane
 being built." "Any cause for delay shall be immediately reported to C. L. Johnson in writing by the
@@ -2903,7 +2903,7 @@ Maybe six months. I've promised to have this prototype flying in six months. Tha
 six-day weeks. At least."
 
 He dismissed me with the back of his hand, and a few minutes later I was squeezed into an empty
-desk in a room jampacked with thirty-five growling, snorting designers and engineers, many of whom
+desk in a room jam-packed with thirty-five growling, snorting designers and engineers, many of whom
 I had worked with on the F-104 Starfighter. Dick Fuller, an aerodynamicist who had come over from
 
 the main plant only the day before, was seated on one side of me, and a stability and control specialist
@@ -2950,7 +2950,7 @@ came out of a special Lockheed account of laundered CIA money rather than straig
 checks. The subterfuge was that the pilots were Lockheed employees involved in a governmentcontracted high-altitude weather and performance study.
 
 Everything about this project was dark alley, cloak and dagger. Even the way they financed the
-operation was highly unconventional: using secret contingency funds, they back-doored payment to
+operation was highly unconventional: using secret contingency funds, they back-backdoored payment to
 Lockheed by writing personal checks to Kelly for more than a million bucks as start-up costs. The
 checks arrived by regular mail at his Encino home, which had to be the wildest government payout in
 history. Johnson could have absconded with the dough and taken off on a one-way ticket to Tahiti. He
@@ -2978,7 +2978,7 @@ liquid-fuel engines, and East-West tensions were strained to the breaking point.
 States and Soviet Union had already successfully tested H-bombs within the past year and seemed
 poised to use them. John Foster Dulles, Eisenhower's secretary of state, warned that we would go to
 the brink of war to combat Communist expansion, coining the term "brinkmanship" for his eye-to-eye
-confrontation technique. He acknowledged the Russians' incredible conventional might: they outdivisioned us by a factor of ten, out-tanked us by a factor of eight, out-airplaned us by a factor of four.
+confrontation technique. He acknowledged the Russians' incredible conventional might: they outdivided us by a factor of ten, out-tanked us by a factor of eight, out-airplaned us by a factor of four.
 But Dulles drew lines in the sand around the world and served notice that if the Communists crossed
 any one of them it would mean instant nuclear retaliation on a massive scale. "Going to the verge of
 war without actually getting into war is the necessary art," Dulles claimed. But that Russian bear
@@ -3024,7 +3024,7 @@ trouble was we didn't have enough reliable information on precise locations of R
 key industries to devise strategic targeting plans. We possessed only the most rudimentary idea of
 where vital Soviet bases and industrial centers were located or how well they were defended, or the
 kinds of terrain that a bombing mission would encounter going in and coming out. A massive amount
-of photomapping and technical intelligence was needed to provide the Strategic Air Command with
+of photo mapping and technical intelligence was needed to provide the Strategic Air Command with
 an up-to-date comprehensive targeting plan.
 
 Without an airplane like the U-2 that could overfly at heights above harm, the blue-suiters were
@@ -3121,7 +3121,7 @@ come close to that height, Kelly. I have no idea what's the fuel consumption and
 up that high."
 
 He put his best people to work on the problem. They were modifying most of the J57's innards—
-the alternator, oil cooler, hydraulic pump, and other key parts for extreme-altitude flying. The twospool compressor and three-stage turbine were being hand-built. Even with these modifications, the
+the alternator, oil cooler, hydraulic pump, and other key parts for extreme-altitude flying. The two-spool compressor and three-stage turbine were being hand-built. Even with these modifications, the
 engine would be able to produce only 7 percent of its takeoff sea-level thrust at seventy thousand feet.
 The U-2 would be flying where outside temperatures would be minus 70 degrees F, causing standard
 military JP-4 kerosene fuel to freeze or boil off due to low atmospheric pressures. So Kelly turned to
@@ -3327,7 +3327,7 @@ guessed an airplane would take off going only seventy knots? That's how light it
 
 Our first real flight test took place late in the afternoon, a few days later, on August 4. I took
 off around four in the afternoon, with big black thunderclouds building fast. I took her up to eight
-thousand feet, with Kelly following behind me in a T-33 piloted by my colleague Bob Mayte. I
+thousand feet, with Kelly following behind me in a T-33 piloted by my colleague Bob Maité. I
 got on the horn: "Kelly, it flies like a baby buggy." Rain was starting to splatter the windshield, so
 we decided to cut the first flight short because of the weather. Kelly was getting edgy as I circled
 around to make my approach for a landing. "Remember, I want you to land it on the nose wheel." I
@@ -3540,7 +3540,7 @@ month bonus once they became active overseas. The forty grand would be held for 
 payroll department and they'd collect it only after they were mustered out. Which meant they had to
 survive in order to collect their just rewards.
 
-Those pilots disappeared off my screen on the morning when they flew off to the base in a CIAoperated C-47 that had all its passenger windows blacked out. But since Skunk Works mechanics and
+Those pilots disappeared off my screen on the morning when they flew off to the base in a CIA operated C-47 that had all its passenger windows blacked out. But since Skunk Works mechanics and
 
 ground crews were used exclusively to maintain the airplanes overseas, and several of my colleagues
 were forced to make periodic quick trips to add some new device or make a fix, we were able to
@@ -3807,7 +3807,7 @@ bastards were getting set to let that nuclear weapon blow just as I was directly
 fact, that crazy thought took hold and I began to sweat and hyperventilate in panic. "Wait, goddam
 it. Wait, will you! Let me pass and then light your fire." I was shouting into my faceplate.
 
-I carried a three-camera system, one pointing straight down and the other two out at forty-fivedegree angles so that each picture would overlap and provide a stereographic photo
+I carried a three-camera system, one pointing straight down and the other two out at forty-fifty degree angles so that each picture would overlap and provide a stereographic photo
 interpretation. I threw a switch and the cameras began to whir in sequence. It seemed to take an
 eternity for my airplane to cross directly over that tower. My heart was pounding in my throat. I
 just knew I was going to be evaporated in the next seconds.
@@ -4325,7 +4325,7 @@ The firemen saw the fog and went running for their gas masks. Had they known we 
 around with liquid hydrogen so close to Burbank Airport, I'm sure they would have had my scalp, but
 they put out the fire in two minutes and went away, no questions asked. But Kelly was cranky with
 me. "Goddam it, Rich, why in hell did you use a damned wooden-framed stove? That was just asking
-for trouble." I told him he was nickel-and-diming me so severely on this project that a woodenframed stove was all I could afford. He couldn't argue.
+for trouble." I told him he was nickel-and-diming me so severely on this project that a wooden-framed stove was all I could afford. He couldn't argue.
 
 God knows how many hours I spent as part of a small team sitting in Kelly's office, reviewing all
 our data and trying desperately to pull a few range-extending tricks out of the bag. We knew damned
@@ -4391,7 +4391,7 @@ locked into its orbit, but a U-2 could overfly any trouble spot on earth in a fe
 stopped improving the airplane. We invented a novel interchangeable nose that could be unscrewed
 and unbolted in less than an hour and replaced for a particular mission—some noses carrying radar,
 some cameras, some air-sampling filters, some electronic devices recording radar and military traffic
-frequencies, some operating a special rotating camera that could follow the flight path of a Sovietlaunched test missile. Other flights carried a heavy payload of electronic eavesdropping equipment.
+frequencies, some operating a special rotating camera that could follow the flight path of a Soviet-launched test missile. Other flights carried a heavy payload of electronic eavesdropping equipment.
 By monitoring their test missile firings we discovered the frequencies used by their missiles locking
 to a target. We used this information to counter with powerful jamming devices installed in our attack
 aircraft.
@@ -4941,7 +4941,7 @@ project, we had now grown to a modest fifty or so, seated at back-to-back desks,
 
 U-2 days, privacy surrendered to incessant kibitzing, teasing, brainstorming, and harassment. Some
 wag hung the sign PRIVACY SUCKS . My three-man thermodynamics and propulsion group now shared
-space with the performance and stability control people. Through a connecting door was the eightman structures group, who designed the strength and load characteristics of the airplane. Their "dean"
+space with the performance and stability control people. Through a connecting door was the eight-man structures group, who designed the strength and load characteristics of the airplane. Their "dean"
 was that irascible genius Henry Combs, who had been with Kelly since World War II and helped him
 build the classic two-engine P-38 Lightning interceptor. Henry and I could have reached through the
 doorway and shaken hands. And, of course, he relished offering his unsolicited advice and opinions
@@ -4956,7 +4956,7 @@ weight meant more internal support structure, more fuel, less range, and less al
 had recommended to Kelly that we use a rare alloy called titanium for the white-hot exhaust nozzles
 on the afterburner of the supersonic F-104 Starfighter. So Henry Combs now was mulling the pluses
 and minuses of building the world's first titanium airplane. It would be a huge risk. On the positive
-side, titanium was as strong as stainless steel but only half its weight and could withstand blastfurnace heat and tremendous pressures. Titanium's tensile strength would allow us to make our wings
+side, titanium was as strong as stainless steel but only half its weight and could withstand blast furnace heat and tremendous pressures. Titanium's tensile strength would allow us to make our wings
 and fuselage paper-thin. But to build a high-performance aircraft out of such an unproven exotic
 material was inviting potential disaster. "Unpredictability is a guarantee that we'll be in the soup on
 this one from start to finish," Henry predicted dourly. I knew he was right. Meanwhile, Kelly was
@@ -5025,7 +5025,7 @@ color and provided radiant cooling. The wheels were filled with nitrogen, which 
 than air.
 
 The airplane was essentially a flying fuel tank carrying 85,000 pounds of fuel—more than 13,000
-gallons—in five noninsulated fuselage and wing tanks that would heat up during supersonic flight to
+gallons—in five non-insulated fuselage and wing tanks that would heat up during supersonic flight to
 about 350 degrees; we turned to Shell to develop a special, safe, high-flash-point fuel that would not
 vaporize or blow up under tremendous heat and pressure. A lighted match dropped on a spill would
 not set it ablaze. The fuel remained stable at enormous temperature ranges: the minus 90 degrees
@@ -5071,7 +5071,7 @@ head thermodynamicist, that problem fell in my lap.
 
 We designed the cockpit air-conditioning to bleed air off the engine compressor and dump it
 through a fuel air cooler, then through an expansion turbine, into the cabin at a frigid minus 40 degrees
-F, which lowered the ovenlike 200-degree cockpit to a balmy Southern California beach day.
+F, which lowered the oven-like 200-degree cockpit to a balmy Southern California beach day.
 Developing these systems took us a year of frustrating trial and error.
 
 Our engines were the only items off the shelf, so to speak. Kelly agreed with me that if we started
@@ -5200,7 +5200,7 @@ schedule. Dick Bissell and his assistant, John Parangosky, watched in anguish as
 mounted. In pique, Parangosky had begun referring to the P & W engine as the "Macy's engine," and
 complained to Bill Brown, their program manager, rather unfairly, "If we gave as much money to R.
 H. Macy's, they could build that engine in time for Christmas." By mid-1960, the agency decided to
-crack a mean whip. Kelly was called on the carpet and told he had to accept a CIA engineer birddogging in his shop and looking over all shoulders. Kelly blew up. He knew the agency was only
+crack a mean whip. Kelly was called on the carpet and told he had to accept a CIA engineer bird-dogging in his shop and looking over all shoulders. Kelly blew up. He knew the agency was only
 trying to cover their own asses. But Parangosky, whom Kelly liked and trusted, flew in from
 Washington and warned him that if he refused the request there was a grave likelihood that the CIA
 would cancel the contract entirely.
@@ -5337,13 +5337,13 @@ engineer, took a look at the damage and went back to the drawing board and made 
 few nights later we were back behind the protective shield in Building 82. This time we got up to
 ten and a half inches of mercury when the drag chute forward bulkhead ruptured with a loud bang.
 Henry took notes and went back to the drawing board. Three nights later we were all back for
-more testing. The pumping began and we heard the airplane crickling and crackling as the
+more testing. The pumping began and we heard the airplane crackling and crackling as the
 pressure mounted. It was really tense behind that shield as the mercury rose. We got up to eleven
 and a half inches of mercury and heard the airplane go crick, crack, crick. And Henry shouted,
 "Okay, stop. That's close enough."
 
 In January 1962 we were ready to cart the Blackbird out to the test site. The airplane was
-disassembled into large pieces and would be trucked out in a heavily guarded wideload trailer,
+disassembled into large pieces and would be trucked out in a heavily guarded wide-load trailer,
 105 feet long and 35 feet wide. Dorsey Kammerer, head of the flight-test shop at that time, came
 up with the idea of driving the entire route ahead of time using a pickup truck with two bamboo
 poles up on top. One pole was as wide as the load would be going along the edge of the series of
@@ -5376,7 +5376,7 @@ forward speed.
 
 Every time I saw that Blackbird on a runway I got goosebumps. It was the epitome of grace
 and power, the most beautiful flying machine I've ever seen. I was up in the control tower for the
-April 25th high-speed taxi test. Our test pilot, Lou Schalk, headed down the runway and overrotated the engines slightly so that the airplane became airborne for a few seconds, wobbling back
+April 25th high-speed taxi test. Our test pilot, Lou Schalk, headed down the runway and over-rotated the engines slightly so that the airplane became airborne for a few seconds, wobbling back
 and forth. I thought Lou would stay airborne and circle around and land, but instead he put it back
 
 down right then and there in a big cloud of dust on the lake bed. For a moment, my heart stopped. I
@@ -5403,7 +5403,7 @@ blistering at 2.7 Mach, he was deafened by a loud bang and violently flung forwa
 smashing his head against the cockpit glass and almost knocked unconscious. "It felt like a couple of
 the L.A. Rams shaking me as hard as they could," Bill said. The problem was called an "unstart." It
 occurred when air entering one of the two engines was impeded by the angle of the airplane's pitch or
-yaw and in only milliseconds decreased its efficiency from 80 percent to 20 percent. The movablespike inlet control could correct the problem in about ten seconds, but meanwhile the pilot was flung
+yaw and in only milliseconds decreased its efficiency from 80 percent to 20 percent. The movable spike inlet control could correct the problem in about ten seconds, but meanwhile the pilot was flung
 around helplessly, battered all over the cockpit. Bill Park and Lou Schalk and several of our other
 pilots were experiencing these awful "unstarts" as much as twenty times in ten minutes. The damndest
 part was that the pilot often couldn't tell which engine was affected and sometimes he turned off the
@@ -5539,7 +5539,7 @@ Kelly knew what he was up against, but he tried to improve the odds by producing
 study for using the Blackbird as a platform for launching ICBM missiles. Launched from, say, sixty
 thousand feet, a missile could travel six to eight thousand miles by eliminating the tremendous fuel
 consumption of a ground-based launch. We even dreamed up the creation of an energy bomb that used
-no explosive device. Flying at Mach 3 and eighty-five thousand feet, we'd drop a two-thousandpound weight of high-penetrating steel that would hit the ground with the force of a meteor—at about
+no explosive device. Flying at Mach 3 and eighty-five thousand feet, we'd drop a two-two-thousand-pound weight of high-penetrating steel that would hit the ground with the force of a meteor—at about
 one million foot-pounds of energy and blast a hole 130 feet deep. The Air Force was interested, but
 fretted about the absence of a guidance system to assure pinpoint accuracy and resisted our
 suggestions to try to develop such a system. To the new secretary of defense, Robert McNamara, an
@@ -5549,7 +5549,7 @@ Soviet military operations were at a higher level of alert than we had seen in y
 numbers of long-range transcontinental flights by Soviet Bear bombers, capable of dropping nuclear
 weapons, were being made nonstop from bases in southern Russia to Havana, Cuba. The Bear was
 their version of our B-52. The journey was about six thousand miles, with probably two air-to-air
-refuelings. The Soviets insisted that these were merely long-duration training exercises. But the gutchurning fact was that if the Soviet Bears could reach Havana, they sure as hell could reach New
+refuelings. The Soviets insisted that these were merely long-duration training exercises. But the gut-churning fact was that if the Soviet Bears could reach Havana, they sure as hell could reach New
 York or Washington or Chicago. That message was like a brick hurled through McNamara's office
 window.
 
@@ -5692,7 +5692,7 @@ be briefed by Kelly, review our management methods on the project, and see the B
 himself. He brought with him all his top people: Secretary of the Air Force Joseph Charyk, Assistant
 Defense Secretary Roswell Gilpatric, and the Air Force's future secretary, Harold Brown. Kelly
 briefed, while McNamara took copious notes and asked several questions about the airplane's unique
-navigational system. It was the first astro-navigational system that actually used a small computerdriven telescope to find approximately sixty stars in its database. The telescope looked through a
+navigational system. It was the first astro-navigational system that actually used a small computer-driven telescope to find approximately sixty stars in its database. The telescope looked through a
 small window toward the rear of the airplane and was extremely accurate and reliable locking onto
 stars. It was so sensitive that it once locked onto a rivet hole in the hangar roof when the system was
 accidentally turned on during airplane servicing.
@@ -5807,7 +5807,7 @@ to head. Kelly called the F-111 a national scandal if the administration forced 
 spite of the evidence of its vulnerability to our missile system. There was no justification for building
 this dog except maybe because it was being built in LBJ's backyard, Fort Worth, Texas.
 
-In fairness to McNamara, the Air Force was pushing for the TFX. They wanted a tactical fighterbomber that could be used in big numbers in a ground war like Vietnam. The Blackbird was too
+In fairness to McNamara, the Air Force was pushing for the TFX. They wanted a tactical fighter-bomber that could be used in big numbers in a ground war like Vietnam. The Blackbird was too
 revolutionary and too costly to fly regularly in harm's way. The Air Force high command worried that
 it would be shot down and its technological secrets fall into enemy hands. But General LeMay won a
 partial concession from McNamara, and we received a contract for six two-man reconnaissance
@@ -5836,7 +5836,7 @@ ever won two Collier trophies, and that record will probably endure, too.
 
 President Johnson awarded Kelly the Medal of Freedom, our nation's highest civilian award, in
 1967, not long after authorizing the first Blackbird overflights of North Vietnam in May of that year.
-The president wanted hard evidence to back up rumors that the North was receiving surface-tosurface long-range ballistic missiles from the Russians that could reach Saigon. Two CIA-piloted
+The president wanted hard evidence to back up rumors that the North was receiving surface-to-surface long-range ballistic missiles from the Russians that could reach Saigon. Two CIA-piloted
 Blackbirds, flown by the agency out of Kadena Air Base in Okinawa that summer, were dispatched
 by presidential command to find out what was really happening. They covered the whole of North
 Vietnam photographically and found no evidence whatever of the presence of ground-to-ground
@@ -5844,9 +5844,9 @@ missiles. Kelly joked that LBJ bestowed the Medal of Freedom on him more in expr
 relief than in gratitude.
 
 For budgetary purposes LBJ ordered the CIA out of the spy plane business in May 1968, and from
-then on all the missions involving Blackbirds were conducted entirely by the Air Force in its twoseater Blackbird, the SR-71. The second man, assisting the pilot in the first cockpit, was the
+then on all the missions involving Blackbirds were conducted entirely by the Air Force in its two-seater Blackbird, the SR-71. The second man, assisting the pilot in the first cockpit, was the
 Reconnaissance Systems Officer, seated in the separate rear cockpit, who operated all the avionics,
-as well as the nonautomatic cameras and radar frequency recording systems.
+as well as the non-automatic cameras and radar frequency recording systems.
 
 I won the American Institute of Aeronautics and Astronautics Award in 1972 for designing the
 Blackbird's propulsion system. But because the airplane operated in such secrecy for the Air Force,
@@ -5855,7 +5855,7 @@ Americans ever saw it fly and the public was only vaguely aware of its existence
 officially announced the Blackbird's creation in 1964, the Air Force was allowed to fly the airplane
 for official speed and altitude records over closed courses in 1965. The Blackbird established a new
 speed record of 2,070 mph and an altitude record of 80,257 feet, even though, over the twenty-five
-years it was operational, it routinely broke these records many times over while outclimbing and
+years it was operational, it routinely broke these records many times over while out-climbing and
 outspeeding missile attacks. On one operational flight in 1976, a Blackbird actually reached 85,068
 feet while flying at 2,092 mph.
 
@@ -6295,7 +6295,7 @@ relief, the overflights revealed no Soviet troop movements or any evidence of a 
 along the border.
 
 The Blackbird flew again by direct presidential order during Operation Eldorado Canyon, the
-April 1986 air raid against Muammar Kaddafiof Libya, in direct retaliation for a terrorist attack
+April 1986 air raid against Muammar Kaddafi Libya, in direct retaliation for a terrorist attack
 against a Berlin nightclub frequented by U.S. servicemen. The Blackbirds provided post-raid
 reconnaissance and damage assessments. These overflights, only six hours following the raid, were
 extremely dangerous since Libya's entire air defense system was on maximum alert and eager to bring
@@ -6552,7 +6552,7 @@ would carry a drone under each wing on a sixteen-and-a-half-hour, seven-thousand
 flight, from Beale Air Force Base in central California to a launch point west of the Philippines, over
 the South China Sea. The drone's mission was to overfly China. It would launch from forty thousand
 feet and fire its solid-propellant booster rocket for eighty-seven seconds, soaring it to eighty thousand
-feet at Mach 3.3 plus, before falling away. The drone's guidance system would direct its threethousand-mile journey. On the return leg of the mission, the drone was programmed to descend to
+feet at Mach 3.3 plus, before falling away. The drone's guidance system would direct its three-thousand-mile journey. On the return leg of the mission, the drone was programmed to descend to
 sixty thousand feet and slow to Mach 1.6 before automatically ejecting a hatch containing its film,
 camera, and expensive telemetry and flight control components, which could be used again after
 successful parachute recovery.
@@ -6654,7 +6654,7 @@ discovering a new constellation.
 
 So we decided to design a stealthy sub; the cigar-shaped hull was shielded by an outer wall of
 flat, angular surfaces that would bounce sonar signals away and also muffle the engine sounds and the
-internal noises of crewmen inside the vessel. We ran numerous acoustical tests in special soundmeasuring facilities and obtained dramatic improvements. If nothing else we had rendered null and
+internal noises of crewmen inside the vessel. We ran numerous acoustical tests in special sound-measuring facilities and obtained dramatic improvements. If nothing else we had rendered null and
 void the favorite cliché of a lot of World War II naval action movies about a submariner sneezing or
 dropping a monkey wrench at the critical moment when the enemy destroyer's sonar search pings ever
 closer. The flat outer wall effectively eliminated any noises. Armed with high hopes, I took our
@@ -6676,7 +6676,7 @@ He ignored me. "This looks more like the Monitor or the Merrimac from the Civil 
 "We'd never build a modern submarine that looked like that."
 
 I returned to Burbank with a renewed healthy disdain for the anchors aweigh crowd, but one of our
-engineers, just back from a Pearl Harbor business trip, mentioned to me that he had seen a catamarantype ship that the Navy had built experimentally on the q.t. out of unauthorized funds. This was a
+engineers, just back from a Pearl Harbor business trip, mentioned to me that he had seen a catamaran-type ship that the Navy had built experimentally on the q.t. out of unauthorized funds. This was a
 prototype SWATH (Small Water Area Twin Hull) ship that was proving to be amazingly stable in
 heavy seas and was considerably faster than a conventional ship. It seemed to me that a catamaran
 SWATH ship held real promise as a model for a stealthy ship. And on my next trip to Washington for
@@ -6719,7 +6719,7 @@ missiles caused worrisome losses to our carriers and escorts in the computerized
 To counter this threat, the Navy was crashing production of a billion-dollar missile frigate that would
 fire the new Aegis ground-to-air missiles designed to destroy incoming cruise missiles. I thought,
 Why go after the arrows? Go after the shooter. To the chagrin of the billion-buck Aegis frigate
-backers, our SWATH boat would cost only $200 million. We could arm it with sixty-four Patriottype missiles and send it out three hundred miles ahead of the carrier task force as an invisible,
+backers, our SWATH boat would cost only $200 million. We could arm it with sixty-four Patriot-type missiles and send it out three hundred miles ahead of the carrier task force as an invisible,
 amphibious SAM missile site. We'd shoot down the Soviet attack aircraft before they got in missile
 range of the fleet. And because they couldn't see the stealth ship electronically, they'd literally never
 know what hit them. We did an analysis and determined that the entire U.S. Navy carrier fleet could
@@ -6817,7 +6817,7 @@ than a dinghy.
 By the time we were ready for full-scale testing in the early summer of 1985, the Navy was eager
 
 to subject our prototype to the most rigorous radar testing imaginable. Several of their radar experts
-claimed that there was no way we could duplicate the low radar cross section achieved by a thirtyfoot model in a pool with a full-size prototype on the real ocean. We had heard those same skeptical
+claimed that there was no way we could duplicate the low radar cross section achieved by a thirty-foot model in a pool with a full-size prototype on the real ocean. We had heard those same skeptical
 predictions before from the Air Force over our stealth airplane, but in the wonderful world of stealth,
 once we had acquired the right shape, the size of an object really didn't matter. The military had a
 tough time understanding that basic fact.
@@ -7151,7 +7151,7 @@ He got sore. "Ben, if I teach you anything, it's this: don't build an airplane y
 Don't prostitute yourself for bucks."
 
 In the end, he allowed us to submit his version of what he thought the Air Force should be
-requesting: a fighter weighing 19,000 pounds and carrying 9,000 pounds of fuel and a 310-squarefoot wing. General Dynamics won the competition by sticking to exactly what the Air Force wanted.
+requesting: a fighter weighing 19,000 pounds and carrying 9,000 pounds of fuel and a 310-square-foot wing. General Dynamics won the competition by sticking to exactly what the Air Force wanted.
 
 By the time their airplane, the F-16, became operational, it weighed 19,000 pounds, carried 7,400
 pounds of fuel, and had a 310-square-foot wing. I told Kelly, "Admit it, the blue-suiters would have
@@ -7750,7 +7750,7 @@ Yet if times stay tough and the New World Order evolves without any new big-powe
 confrontations, the need for innovative, rapidly developed, and relatively inexpensive systems that
 are best supplied by a Skunk Works will be greater than ever. Which is the main reason why I remain
 optimistic about the future viability of the Skunk Works. By its very definition as a low-overhead,
-advanced development operation for crash production of hot items—prototypes representing cuttingedge technologies that the customer eagerly needs or wants to exploit—the Skunk Works is needed
+advanced development operation for crash production of hot items—prototypes representing cutting edge technologies that the customer eagerly needs or wants to exploit—the Skunk Works is needed
 more than ever. The beauty of a prototype is that it can be evaluated and its uses clarified before
 costly investments for large numbers are made.
 
@@ -7807,7 +7807,7 @@ On the military side, the end of the cold war has brought some welcome new think
 military development and procurement areas. Avoiding casualties is now a political imperative for
 any administration, and the search is on to find new nonlethal disabling weapons that can knock out
 hardware but leave troops relatively unharmed. There are techniques, for example, to disable a tank
-without killing its crew by using sprays that crystallize metals or supersticky foams that clog traction.
+without killing its crew by using sprays that crystallize metals or super sticky foams that clog traction.
 Research is underway to perfect powerful sound generators tuned to frequencies that incapacitate
 humans without causing any lasting harm. This wall of agonizing sound stops troops in their tracks. So
 can stunning devices and nonlethal gases being researched, as well as laser rifles firing optical
@@ -7825,7 +7825,7 @@ come. But a Skunk Works is no panacea for much that ails American industry in ge
 industry in particular. I worry about our shrinking industrial base and the loss of a highly skilled
 workforce that has kept America the unchallenged aerospace leader since World War II. By layoffs
 and attrition we are losing skilled toolmakers and welders, machinists and designers, wind tunnel
-model makers and die makers too. And we are also losing the so-called second tier—the mom-andpop shops of subcontractors who supplied the nuts and bolts of the industry, from flight controls to
+model makers and die makers too. And we are also losing the so-called second tier—the mom-mom and pop shops of subcontractors who supplied the nuts and bolts of the industry, from flight controls to
 landing gears. The old guard is retiring or being let go, while the younger generation of new workers
 lucky enough to hold aerospace jobs has too little to do to overcome a steep learning curve any time
 soon. I've recently seen young workers install hydraulic lines directly over electric wires—oblivious
@@ -7933,7 +7933,7 @@ One of the biggest cost items in defense is logistics management and maintenance
 reevaluate the design of many components and make them throwaway or limited-shelf-life items.
 Batteries, brakes, servos, modular avionics, should all be replaced on a definite schedule, not wait
 
-for them to wear down. This would reduce the accumulation of large spare part inventories in citysize warehouses, cut down repairs and maintenance, and lower supply pipeline costs. Savings could
+for them to wear down. This would reduce the accumulation of large spare part inventories in city size warehouses, cut down repairs and maintenance, and lower supply pipeline costs. Savings could
 run in the hundreds of millions.
 
 One area in particular where the Skunk Works serves as a paragon for doing things right is aircraft
@@ -8023,7 +8023,7 @@ Paperwork should be limited to what the government most needs to keep tabs on. A
 deny that over the years the defense industry has had more than its share of cost overruns, bribery
 scandals, and other serious transgressions, which proves the need for intense scrutiny. In many ways,
 though, our sullied reputation was somewhat unearned because cost overruns in our industry were
-seldom more than 20 percent, while in other industries operating entirely by private financing, bigproject overruns of 30 percent or even higher are not uncommon.
+seldom more than 20 percent, while in other industries operating entirely by private financing, big project overruns of 30 percent or even higher are not uncommon.
 
 Nevertheless, excessive government regulation is the penalty we now pay for years of
 overpromising and lax management in aerospace. At the heart of the defense industry problem was a
@@ -8271,13 +8271,13 @@ undoubtedly serve important national security purposes in the future as it has i
 Given current contractions in defense spending and needs, the mountainous inventory of big-strike
 weapons like intercontinental missiles will be sharply reduced and much of it scrapped. The
 remaining systems will need updating with the latest technologies, improved to reduce maintenance
-and manpower utilizations—perfect tasks for Skunk Works operations.
+and manpower utilization—perfect tasks for Skunk Works operations.
 
 As regions of the world become increasingly unstable, the U-2 fleet might undergo its third
 reconfiguration in its five decades of service to the nation as our preeminent spy plane. And while
 
 that is happening a future successor of mine at the Skunk Works will undoubtedly be peddling ideas
-for solving technological problems arising out of nonuse of weapons—for example, how to keep silobased missiles reliable and effective after years of sitting inert in the ground. In some cases reliability
+for solving technological problems arising out of nonuse of weapons—for example, how to keep silo based missiles reliable and effective after years of sitting inert in the ground. In some cases reliability
 has dropped below 50 percent. Another big problem that a Skunk Works would be eager to try to
 solve is eliminating battlefield deaths caused by accidental friendly fire. Twenty-six percent of our
 battlefield deaths in Desert Storm resulted from our own shells and bullets. What is needed is some
@@ -8291,7 +8291,7 @@ military intervention on the short end of public support or lacking a clear thre
 security. But even a leader able to whip up sentiment for "sending in the Marines" will find it dicey
 to undertake any prolonged struggle leading to significant casualties. New technologies will focus
 increasingly on developing non-manned fighting machines by using reliable drones, robotics, and
-self-propelled vehicles. As we proved in Desert Storm, the technology now exists to preprogram
+self-propelled vehicles. As we proved in Desert Storm, the technology now exists to pre programmed
 computerized combat missions with tremendous accuracy so that our stealth fighters could fly by
 computer program precisely to their targets over Iraq. A stealthy drone is clearly the next step, and I
 anticipate that we are heading toward a future where combat aircraft will be pilotless drones. On the
@@ -8381,7 +8381,7 @@ variety and degree of the sophisticated weapons systems we have been able to pro
 ahead of the other side's capabilities. On this score, the Skunk Works is without peer in the world—
 the airplanes they produced were decades ahead of then current capabilities. To this day, no airplane
 can begin to outperform their incredible Blackbird. And as for the F-117A stealth fighter, not one of
-them suffered a single bullethole despite undertaking hundreds of tough combat missions in the Gulf
+them suffered a single bullet hole despite undertaking hundreds of tough combat missions in the Gulf
 War. This was a very intense conflict, and I was frankly surprised by its tremendous performance,
 because it was not precisely the kind of mission that the stealth fighter had been designed for.
 
@@ -8397,7 +8397,7 @@ the problem of downsizing our defense industry to the point where the Skunk Work
 valuable workers and be allowed to dangerously atrophy. The cold war may be over, but the world is
 certainly not benign. More than ever, it seems to me, we need to continue developing new generations
 of surveillance aircraft to replace the Blackbirds and U-2s—airplanes that are the hallmarks of the
-Skunk Works' genius—to attempt to deal with regional conflicts, or to find out whether anxietycausing military maneuvers in some trouble spot are not actually a prelude to a full-scale military
+Skunk Works' genius—to attempt to deal with regional conflicts, or to find out whether anxiety causing military maneuvers in some trouble spot are not actually a prelude to a full-scale military
 engagement, or just to keep a sharp eye on what North Korea is really up to. And we can't do this
 
 vital job effectively just with overhead satellites. We need spy planes—whether manned or groundcontrolled drones.
@@ -8479,7 +8479,7 @@ economically and militarily feasible than the older U-2 and Blackbird series. I 
 of aircraft in our future: between unmanned satellites and unmanned drones, piloted reconnaissance
 airplanes will be squeezed out within the next five to ten years.
 
-I don't want to compare the small R & D operations, but they all consist of similar close-knit, cando, highly technical groups working on advanced and complex problems. They are all self-contained
+I don't want to compare the small R & D operations, but they all consist of similar close-knit, can do, highly technical groups working on advanced and complex problems. They are all self-contained
 and do not require many people or big budgets, and as far as I am concerned, I am confident that the
 administration is well over the critical pass in keeping all of them afloat. I would be very concerned
 otherwise—if we were ignoring them or neglecting them—because I consider them to be vital to the
@@ -8521,7 +8521,7 @@ A U-2R being assembled at Palmdale (Plant 42, Site 7) in the late 1960s. (Lockhe
 
 U-2 spy plane. (Lockheed)
 
-CIA pilot Marty Knutson's revealing 1957 photo of snowy Engles Airfield showing squadron of long-range Russian Bison bombers.
+CIA pilot Marty Knutson's revealing 1957 photo of snowy Engels Airfield showing squadron of long-range Russian Bison bombers.
 (Central Imaging Office)
 
 U-2 photo showing Soviet equipment at Cuba airfield during the Cuban missile crisis. (Central Imaging Office)
@@ -8550,7 +8550,7 @@ D-21 spy drone tucked under wing of B-52 mothership. Drone would drop and ignite
 
 The Stealth Ship undergoing sea trials off the West Coast in the mid-1980s. (Skunk Works)
 
-The Stealth ship inside its secret hangarlike floating dock, where it was assembled and constructed. (Skunk Works)
+The Stealth ship inside its secret hangar-like floating dock, where it was assembled and constructed. (Skunk Works)
 
 Ben Rich and the F-117 Stealth fighter. (Denny Lombard and Eric Schulzinger)
 

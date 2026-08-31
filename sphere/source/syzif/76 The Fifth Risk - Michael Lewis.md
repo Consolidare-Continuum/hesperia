@@ -355,7 +355,7 @@ of	abuse,	and	his	fast-food	restaurant	employees	had	complained	of
 mistreatment.	Even	if	he	was	somehow	the	ideal	candidate	to	become	the	next
 secretary	of	labor,	he	wouldn't	survive	his	Senate	confirmation	hearings.	(Trump
 ignored	the	advice	and	nominated	Puzder.	In	the	controversy	that	followed,
-Puzder	not	only	failed	to	be	confirmed	but	stepped	down	from	his	job	at	the	fastfood	company.)
+Puzder	not	only	failed	to	be	confirmed	but	stepped	down	from	his	job	at	the	fast food	company.)
 
 After	meeting	with	Pence,	Christie	was	scheduled	to	brief	the	Trump	children
 
@@ -537,7 +537,7 @@ career	working	on	reducing	the	world's	supply	of	weapons	of	mass	destruction
 —she	led	the	U.S.	mission	to	remove	chemical	weapons	from	Syria.	But	like
 everyone	else	who	came	to	work	at	the	DOE,	she'd	grown	accustomed	to	no	one
 knowing	what	the	department	actually	did.	When	she'd	called	home,	back	in
-2013,	to	tell	them	that	President	Obama	had	nominated	her	to	be	second-incommand	of	the	place,	her	mother	said,	"Well,	darling,	I	have	no	idea	what	the
+2013,	to	tell	them	that	President	Obama	had	nominated	her	to	be	second-in command	of	the	place,	her	mother	said,	"Well,	darling,	I	have	no	idea	what	the
 Department	of	Energy	does,	but	you've	always	had	a	lot	of	energy,	so	I'm	sure
 you'll	be	perfect	for	the	role."
 
@@ -606,7 +606,7 @@ the	next.	The	man	who	had	served	as	the	Department	of	Energy's	chief	financial
 officer	during	the	Bush	administration,	for	instance,	stayed	a	year	and	a	half	into
 the	Obama	administration—simply	because	he	had	a	detailed	understanding	of
 the	money	end	of	things	that	was	hard	to	replicate	quickly.	The	CFO	of	the
-department	at	the	end	of	the	Obama	administration	was	a	mild-mannered	civilservant	type	named	Joe	Hezir.	He	had	no	particular	political	identity	and	was
+department	at	the	end	of	the	Obama	administration	was	a	mild-mannered	civil servant	type	named	Joe	Hezir.	He	had	no	particular	political	identity	and	was
 widely	thought	to	have	done	a	good	job—and	so	he	half-expected	a	call	from	the
 Trump	people	asking	him	to	stay	on,	just	to	keep	the	money	side	of	things
 running	smoothly.	The	call	never	came.	No	one	even	let	him	know	his	services
@@ -917,7 +917,7 @@ given	to	it	by	Los	Alamos.
 The	list	of	things	that	might	go	wrong	inside	the	DOE	was	endless.	The
 driver	of	a	heavily	armed	unit	assigned	to	move	plutonium	around	the	country
 was	pulled	over,	on	the	job,	for	drunk	driving.	An	eighty-two-year-old	nun	cut
-through	the	perimeter	fence	of	a	facility	in	Tennessee	that	housed	weaponsgrade	nuclear	material.	A	medical	facility	ordered	a	speck	of	plutonium	for
+through	the	perimeter	fence	of	a	facility	in	Tennessee	that	housed	weapons-grade	nuclear	material.	A	medical	facility	ordered	a	speck	of	plutonium	for
 research,	and	a	weapons-lab	clerk	misplaced	a	decimal	point	and	FedExed	the
 researchers	a	chunk	of	the	stuff	so	big	it	should	have	been	under	armed	guard—
 whereupon	horrified	medical	researchers	tried	to	FedEx	it	back.	"At	DOE	even
@@ -937,7 +937,7 @@ It's	been	five	months	since	he	left	government	service,	and	I'm	the	first
 person	to	ask	him	what	he	knows.	Still,	I	think	it	is	important,	as	I	pull	my	chair
 in	to	his	kitchen	table,	to	conduct	the	briefing	in	the	spirit	the	Trump	people
 might	have	approached	it—just	to	see	how	he	could	have	helped	even	those	who
-thought	they	didn't	need	his	help.	I	assume	the	tone	and	manner	befitting	a	selfimportant,	mistrustful	person	newly	arrived	from	some	right-wing	think	tank.
+thought	they	didn't	need	his	help.	I	assume	the	tone	and	manner	befitting	a	self-important,	mistrustful	person	newly	arrived	from	some	right-wing	think	tank.
 And	so	I	wave	my	hand	over	his	thick	briefing	books	and	say,	"Just	give	me	the
 top	five	risks	I	need	to	worry	about	right	away.	Start	at	the	top."
 
@@ -1238,7 +1238,7 @@ then	seemed	to	relax	a	bit.	The	fifth	risk	did	not	put	him	at	risk	of	revealing
 classified	information.	"Project	management,"	was	all	he	said.
 
 In	December	1938,	German	scientists	discovered	uranium	fission.	Physicist
-Enrico	Fermi's	report	on	the	Germans'	work	made	its	way	to	Albert	Einstein,
+Enrico	Fermi	report	on	the	Germans'	work	made	its	way	to	Albert	Einstein,
 and	in	1939	Einstein	wrote	a	letter	to	Franklin	Roosevelt.	That	letter	is	the
 founding	document	of	the	Department	of	Energy.	By	the	early	1940s	the	United
 States	government	understood	that	for	democracy	to	survive	it	needed	to	beat
@@ -1626,7 +1626,7 @@ forest	and	grasslands,	for	instance.	It	is	charged	with	inspecting	almost	all	th
 animals	Americans	eat,	including	the	nine	billion	birds	a	year.	Buried	inside	it	is
 a	massive	science	program,	a	large	fleet	of	aircraft	for	firefighting,	and	a	bank
 with	$220	billion	in	assets.	It	monitors	catfish	farms.	It	maintains	a	shooting
-range	inside	its	DC	headquarters.	It	keeps	an	apiary	on	its	roof,	to	study	beecolony	collapse.	There's	a	drinking	game	played	by	people	who	have	worked	at
+range	inside	its	DC	headquarters.	It	keeps	an	apiary	on	its	roof,	to	study	bee colony	collapse.	There's	a	drinking	game	played	by	people	who	have	worked	at
 the	Department	of	Agriculture:	Does	the	USDA	do	it?	Someone	names	an	odd
 function	of	government	(say,	shooting	fireworks	at	Canada	geese	that	flock	too
 near	airport	runways)	and	someone	else	has	to	guess	if	the	USDA	does	it.	(In
@@ -1756,7 +1756,7 @@ abused	animals—roadside	circuses,	puppy	mills,	research	labs—from	the
 department's	website.	When	reporters	from	National	Geographic	contacted	the
 USDA	to	ask	what	was	going	on	with	animal-abuse	issues,	"they	told	us	all	of
 this	information	was	public,	except	now	you	had	to	FOIA	it,"	said	Rachael	Bale.
-"We	asked	for	the	files,	and	they	sent	us	seventeen	hundred	completely	blackedout	pages."
+"We	asked	for	the	files,	and	they	sent	us	seventeen	hundred	completely	blacked-out	pages."
 
 By	the	time	I	set	out	to	get	the	briefings	the	Trump	people	had	not,	it	was	late
 
@@ -2086,7 +2086,7 @@ public	service.	The	plaques	were	stacked	up	in	his	garage.	He	didn't	own	enough
 wall	space	for	them	all.
 
 What's	striking	about	Kevin	Concannon	is	what	he	decided,	for	whatever
-reason,	he	didn't	need.	He	could	have	named	his	price	with	the	drug-	and	foodcompany	lobbies,	and	yet	he'd	never	taken	a	job	in	the	private	sector.	He	claims
+reason,	he	didn't	need.	He	could	have	named	his	price	with	the	drug-	and	food company	lobbies,	and	yet	he'd	never	taken	a	job	in	the	private	sector.	He	claims
 never	to	have	felt	the	slightest	interest	in	that	kind	of	work.	"I've	done	all	right,"
 he	says	when	I	ask	him,	more	or	less,	why	he's	not	rich.	"I've	always	had
 enough.	I've	never	felt	the	need	to	go	over	to	the	other	side	and	make	three	times
@@ -2231,7 +2231,7 @@ The	first	time	we	spoke	wasn't	long	after	Trump	had	nominated	her
 
 replacement.	His	name	was	Sam	Clovis.	He	had	a	doctorate	in	public
 administration	from	the	University	of	Alabama	but	no	experience	in	science.
-He'd	come	to	prominence	in	2010	as	a	Rush	Limbaugh–style	right-wing	talkradio	host	in	Sioux	City,	Iowa.	As	Iowa	chairman	of	Rick	Perry's	2016
+He'd	come	to	prominence	in	2010	as	a	Rush	Limbaugh–style	right-wing	talk radio	host	in	Sioux	City,	Iowa.	As	Iowa	chairman	of	Rick	Perry's	2016
 presidential	campaign,	he'd	ripped	Trump	loudly	and	righteously	for	having	"no
 foundation	in	Christ."	Then	he'd	quit	Perry's	campaign	to	become	co-chairman
 of	the	Trump	campaign,	declining	to	address	rumors	he'd	done	it	for	the	money.
@@ -2262,7 +2262,7 @@ that	the	USDA	funds	a	project	that	seeks	to	improve	the	ability	of	sheep	to	graz
 at	high	altitudes—until	you	realize	that	this	may	one	day	be	the	only	place	sheep
 will	be	able	to	graze.	"We're	going	to	become	even	more	reliant	on	the
 efficiencies	that	come	from	the	investment	in	science,"	she	said.	One-quarter	of
-the	arable	land	in	the	world	is	already	degraded,	either	by	overfarming	or
+the	arable	land	in	the	world	is	already	degraded,	either	by	over farming	or
 overgrazing.	"Changing	temperatures	and	changing	rainfall	patterns	will	force
 changes	in	the	way	crops	are	grown	and	livestock	are	raised,"	she	said.	"The
 changing	climate	brings	new	risks	of	food-borne	disease.	Even	the	pathogens	are
@@ -2423,7 +2423,7 @@ infected	by	the	needles	that	delivered	medication	to	the	patients.	"At	that	time
 everyone	died,"	said	Salerno.	"And	they	are	told,"	The	nurses	aren't	coming.'	I
 said,"	That's	about	as	fucked	as	anything	I	ever	saw.'"	She	had	a	raw	sense	of
 injustice,	and	a	desire	to	see	life	be	made	fair.	"Small	town,	big	family,	no
-resources:	you	look	at	the	world	in	a	certain	way."	She	also	had	a	roll-up-yoursleeves-and-fix-it	attitude.	After	seeing	the	needless	suffering,	she	came	up	with
+resources:	you	look	at	the	world	in	a	certain	way."	She	also	had	a	roll-up-your sleeves-and-fix-it	attitude.	After	seeing	the	needless	suffering,	she	came	up	with
 an	idea:	the	retractable	needle.	It	worked	like	a	ballpoint	pen.	A	friend	of	hers,
 an	engineer,	designed	it.	She	applied	to	the	local	community	bank	for	a	loan	and
 got	it.	It	wasn't	until	much	later	that	she	discovered	that	the	loan	had	ultimately
@@ -2486,7 +2486,7 @@ outward-facing.	They	don't	have	any	of	the	tools	you	need	in	a	modern
 workplace."	She	couldn't	attract	young	people	to	work	there.	Once,	she	tried	to
 estimate	how	many	of	the	USDA's	100,000	employees	had	been	taught	how	to
 create	a	spreadsheet.	Fewer	than	fifty	people,	she	decided.	"I	was	always	very
-aware	how	we	spent	money.	When	I	would	use	words	like'fiduciary	duties'	or
+aware	how	we	spent	money.	When	I	would	use	words	like 'fiduciary	duties'	or
 say,'Those	are	not	our	dollars,'	they	would	say,"	Are	you	sure	you	aren't	a
 Republican?'	But	I	was	really	sensitive	to	the	fact	that	this	wasn't	our	money.
 This	was	taxpayer	money.	This	was	money	that	had	come	from	some	guy
@@ -2723,7 +2723,7 @@ George	Abbey.	At	the	start	he	leaned	back	in	his	chair,	eyes	half-closed,	and	di
 not	so	much	ask	as	mutter,	"Tell	us	about	yourself.	Start	with	high	school."	That
 was	it.	Nothing	more.	"It	was	deliberately	underspecified,"	Kathy	said.
 
-Telling	people	about	herself	wasn't	her	strong	suit.	"I've	never	been	a	selfrevealing	person,"	she	said.	She	went	ahead	and	told	them	about	herself	anyway.
+Telling	people	about	herself	wasn't	her	strong	suit.	"I've	never	been	a	self revealing	person,"	she	said.	She	went	ahead	and	told	them	about	herself	anyway.
 How	by	the	age	of	thirteen	she'd	learned	from	her	father,	an	aerospace	engineer,
 to	fly	a	plane.	How,	as	a	girl	growing	up	in	the	fifties	and	sixties,	she	assumed
 that	her	ticket	to	adventure	was	not	a	pilot's	license	but	her	gift	for	languages.
@@ -2913,7 +2913,7 @@ kind	of	thing,"	she	said.	"My	knee	was	never	in	the	knee	of	the	suit.	The	suits
 were	stiff	and	took	real	muscle	to	move.	Whenever	I	had	to	bend	my	legs	I	had
 to	overcome	this	extra	leverage."	By	the	time	she	realized	that	her	suit	was	never
 going	to	fit,	NASA	had	asked	her	to	wear	it.	"I	was	not	going	to	turn	this
-into'See,	we	told	you	she'd	be	all	this	extra	trouble.'	I	decided,'We're	just
+into 'See,	we	told	you	she'd	be	all	this	extra	trouble.'	I	decided,'We're	just
 sucking	this	up.'"	But	really,	her	space	suit	should	have	come	with	a	warning
 label.	In	a	test	chamber,	a	NASA	engineer	had	flipped	the	switch	that	enabled
 the	space	suit's	emergency	oxygen	tank,	and	the	suit	had	exploded	in	a	giant
@@ -2928,7 +2928,7 @@ waiting	to	walk	in	space.	The	air	was	gone	from	the	airlock.	When	they
 simulated	this	moment	back	on	Earth	they	put	a	baking	pan	with	water	on	the
 floor,	to	illustrate	what	might	happen	to	your	body's	fluids	if	something	went
 wrong	with	your	suit.	As	the	pressure	dropped,	the	water	would	bubble
-violently,	as	if	it	were	boiling.	But	then	a	couple	of	seconds	later	it	would	flashfreeze	into	ice	crystals.	Poof.	"Don't	open	your	visor!"	they	said.
+violently,	as	if	it	were	boiling.	But	then	a	couple	of	seconds	later	it	would	flash freeze	into	ice	crystals.	Poof.	"Don't	open	your	visor!"	they	said.
 
 On	a	mission	this	complicated,	it	was	actually	impossible	to	imagine
 everything	that	might	kill	you.	The	O-rings	of	the	very	spacecraft	in	whose
@@ -3000,7 +3000,7 @@ the	drama	in	his	life	DJ	traced	back	to	a	small,	little-noticed	event	in	his	ear
 childhood:	a	tendency	to	reverse	the	order	of	numbers.	When	you	see	"16"	as
 "61,"	you	have	problems	in	school.	Struggling	with	his	assigned	tasks,	he
 diverted	himself	with	unassigned	ones.	Watching	spy	movies,	he	became
-intrigued	withpicking	locks.He'd	pick	his	way	into	other	kids'	lockers,	move	the
+intrigued	with picking	locks.He'd	pick	his	way	into	other	kids'	lockers,	move	the
 stuff	around	inside,	then	lock	them	back	up—just	to	freak	them	out.	Then	he
 learned	how	to	pick	people's	pockets	for	fun.	He'd	take	the	car	keys	off	some
 unsuspecting	grown-up,	move	his	car,	then	return	the	keys	to	the	guy's	jacket
@@ -3173,7 +3173,7 @@ weather	forecast—and	not	just	hurricanes—should	include	a	cone	of	uncertaint
 means	one	thing	if	all	the	forecasts	in	the	ensemble	say	the	storm	is	coming.	It
 means	another	if	some	of	the	forecasts	say	there	is	no	chance	of	rain	on	Saturday
 and	others	say	that	a	storm	is	all	but	certain.	Really,	the	weather	predictions
-should	reflect	this	uncertainty.	"Why	is	the	newspaper	always	giving	us	a	fiveday	forecast?"	asked	DJ.	"It	should	be	a	two-day	forecast	sometimes.	And	it
+should	reflect	this	uncertainty.	"Why	is	the	newspaper	always	giving	us	a	five-day	forecast?"	asked	DJ.	"It	should	be	a	two-day	forecast	sometimes.	And	it
 should	be	a	fourteen-day	forecast	other	times."
 
 By	the	time	DJ	discovered	the	security	hole	in	the	government's	database,	the
@@ -3561,7 +3561,7 @@ Floehr's	analysis	uncovered	two	big	trends	in	weather	prediction.	One	was
 
 toward	greater	relative	accuracy	in	the	private	sector—which	of	course	was
 totally	dependent	on	the	National	Weather	Service	data	for	its	forecasts.	The
-other	was	the	astonishing	improvement	in	all	weather	predictions.	The	five-dayout	forecast	in	2016	was	as	accurate	as	the	one-day-out	forecast	had	been	in
+other	was	the	astonishing	improvement	in	all	weather	predictions.	The	five-day-out	forecast	in	2016	was	as	accurate	as	the	one-day-out	forecast	had	been	in
 2005.	In	just	the	last	few	years,	for	the	first	time	in	history,	a	meteorologist's
 forecast	of	how	hot	it	will	be	nine	days	from	now	is	better	than	just	guessing.
 
@@ -4575,10 +4575,10 @@ There	were	only	about	twenty-five	thousand	people	in	the	whole	of	Beckham
 County,	about	half	of	those	in	Elk	City,	and	Lonnie	knew	most	of	them.	He'd
 seen	all	the	storms,	too,	but	the	county	had	been	lucky	that	way.	"Most	of	the
 tornadoes	are	real	rural,"	he	said.	"'Well,	we	had	a	tornado	and	Joe's	chicken
-coop	just	blowed	away.'"	Tornayda.	The	one	thing	the	storms	had	in	common
+coop	just	blew	away.'"	Tornayda.	The	one	thing	the	storms	had	in	common
 was	the	hysteria	about	them	generated	by	the	TV	news	stations	in	Oklahoma
 City.	"If	there's	an	icicle	hanging	off	the	corner	of	the	house	it's	'hey,	there's	an
-icicle	hangin'	off	the	corner	of	the	house,	we're	gonna	go	live	with	it!'"	A-sicle.
+icicle	hanging'	off	the	corner	of	the	house,	we're	gonna	go	live	with	it!'"	A-sicle.
 The	information	Lonnie	took	seriously	came	directly	from	the	National
 Weather	Service.	("If	the	Weather	Service	had	a	TV	channel,	everyone	would
 just	watch	that.")	Every	morning	he	woke	up	and	checked	NWSChat—the
@@ -4593,7 +4593,7 @@ point	where	they	could	predict	a	tornado	before	it	happened,	in	the	way	they
 could	bigger	weather	systems.	The	Weather	Service	could	only	issue	a	tornado
 warning	after	it	had	seen	the	tornado,	either	with	its	radar	or	one	of	its	spotters.
 "What	I	noticed,"	said	Lonnie,	"was	that	they'd	changed	some	of	the	language
-they	used.	They	said'tornado	emergency.'	It	used	to	be	just	a"	tornado
+they	used.	They	tornado	emergency.'	It	used	to	be	just	a"	tornado
 warning.'"
 
 He	left	the	chat	more	worried	than	usual.	The	storm	might	be	a	problem,	he
@@ -4852,7 +4852,7 @@ W.	W.	Norton	Special	Sales	at	specialsales@wwnorton.com	or	800-233-4830
 Book	design	by	Chris	Welch	Design
 Production	manager:	Julia	Druskin
 Digital	production:	Joe	Lops
-JACKET	DESIGN	AND	PHOTOGRAHS	BY	PETE	GARCEAU
+JACKET	DESIGN	AND	PHOTOGRAPHS	BY	PETE	GARCEAU
 ART	DIRECTION	BY	INGSU	LIU	|	JACKET	CONCEPT	BY	HARRY
 CAMPBELL
 

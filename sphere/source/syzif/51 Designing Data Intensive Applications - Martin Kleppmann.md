@@ -838,7 +838,7 @@ However, as data volumes and applications' computing demands have increased,
 more applications have begun using larger numbers of machines, which proportionally increases the rate of hardware faults. Moreover, in some cloud platforms such as
 Amazon Web Services (AWS) it is fairly common for virtual machine instances to
 become unavailable without warning [7], as the platforms are designed to prioritize
-flexibility and elasticityi over single-machine reliability.
+flexibility and elasticity over single-machine reliability.
 
 Hence there is a move toward systems that can tolerate the loss of entire machines, by
 using software fault-tolerance techniques in preference or in addition to hardware
@@ -984,7 +984,7 @@ A user can view tweets posted by the people they follow (300k requests/sec).
 
 Simply handling 12,000 writes per second (the peak rate for posting tweets) would be
 fairly easy. However, Twitter's scaling challenge is not primarily due to tweet volume,
-but due to fan-outii—each user follows many people, and each user is followed by
+but due to fan-out—each user follows many people, and each user is followed by
 many people. There are broadly two ways of implementing these two operations:
 
 1. Posting a tweet simply inserts the new tweet into a global collection of tweets.
@@ -1153,7 +1153,7 @@ server, the client will see a slow overall response time due to the time waiting
 prior request to complete. Due to this effect, it is important to measure response
 times on the client side.
 
-When generating load artificially in order to test the scalability of a system, the loadgenerating client needs to keep sending requests independently of the response time.
+When generating load artificially in order to test the scalability of a system, the load-generating client needs to keep sending requests independently of the response time.
 If the client waits for the previous request to complete before sending the next one,
 that behavior has the effect of artificially keeping the queues shorter in the test than
 they would be in reality, which skews the measurements [23].
@@ -1719,7 +1719,7 @@ impedance mismatch can lead to signal reflections and other troubles.
 |
 
 -1. Representing a LinkedIn profile using a relational schema. Photo of Bill
-Gates courtesy of Wikimedia Commons, Ricardo Stuckert, Agência Brasil.
+Gates courtesy of Wikimedia Commons, Ricardo Stuckert, AgêAgência Brasil.
 
 For a data structure like a résumé, which is mostly a self-contained document, a JSON
 representation can be quite appropriate: see Example 2-1. JSON has the appeal of
@@ -3126,7 +3126,7 @@ ISBN: 978-0-262-69314-1
 [5] James Phillips: "Surprises in Our NoSQL Adoption Survey," blog.couchbase.com,
 February 8, 2012.
 
-[6] Michael Wagner: SQL/XML:2006 – Evaluierung der Standardkonformität ausgewählter Datenbanksysteme. Diplomica Verlag, Hamburg,
+[6] Michael Wagner: SQL/XML:2006 – Evaluierung der Standardkonformität ausgewäausgewählter Datenbanksysteme. Diplomica Verlag, Hamburg,
 ISBN:
 978-3-836-64609-3
 
@@ -4456,7 +4456,7 @@ fails. You might as well store that redundant data sorted in different ways so t
 when you're processing a query, you can use the version that best fits the query
 pattern.
 
-Having multiple sort orders in a column-oriented store is a bit similar to having multiple secondary indexes in a row-oriented store. But the big difference is that the roworiented store keeps every row in one place (in the heap file or a clustered index), and
+Having multiple sort orders in a column-oriented store is a bit similar to having multiple secondary indexes in a row-oriented store. But the big difference is that the row-oriented store keeps every row in one place (in the heap file or a clustered index), and
 secondary indexes just contain pointers to the matching rows. In a column store,
 there normally aren't any pointers to data elsewhere, only columns containing values.
 
@@ -5588,7 +5588,7 @@ mobile device or a desktop computer can also make network requests to a server, 
 a client-side JavaScript application running inside a web browser can use
 XMLHttpRequest to become an HTTP client (this technique is known as Ajax [30]).
 In this case, the server's response is typically not HTML for displaying to a human,
-but rather data in an encoding that is convenient for further processing by the clientside application code (such as JSON). Although HTTP may be used as the transport
+but rather data in an encoding that is convenient for further processing by the client-side application code (such as JSON). Although HTTP may be used as the transport
 protocol, the API implemented on top is application-specific, and the client and
 server need to agree on the details of that API.
 
@@ -6003,7 +6003,7 @@ Comma-Separated Values (CSV) Files," October 2005.
 
 [14] "MessagePack Specification," msgpack.org.
 
-[15] Mark Slee, Aditya Agarwal, and Marc Kwiatkowski: "Thrift: Scalable Cross-
+[15] Mark Sle, Aditya Agarwal, and Marc Kwiatkowski: "Thrift: Scalable Cross-
 Language Services Implementation," Facebook technical report, April 2007.
 
 [16] "Protocol Buffers Developer Guide," Google, Inc., developers.google.com.
@@ -6569,7 +6569,7 @@ It is possible to work around those issues—for example, the leader can replace
 nondeterministic function calls with a fixed return value when the statement is logged so that the followers all get the same value. However, because there are so many
 edge cases, other replication methods are now generally preferred.
 
-Statement-based replication was used in MySQL before version 5.1. It is still sometimes used today, as it is quite compact, but by default MySQL now switches to rowbased replication (discussed shortly) if there is any nondeterminism in a statement.
+Statement-based replication was used in MySQL before version 5.1. It is still sometimes used today, as it is quite compact, but by default MySQL now switches to row-based replication (discussed shortly) if there is any nondeterminism in a statement.
 VoltDB uses statement-based replication, and makes it safe by requiring transactions
 to be deterministic [15].
 
@@ -6823,7 +6823,7 @@ About ten seconds usually, Mr. Poons.
 |
 
 There is a causal dependency between those two sentences: Mrs. Cake heard Mr.
-Poons's question and answered it.
+Poons question and answered it.
 
 Now, imagine a third person is listening to this conversation through followers. The
 things said by Mrs. Cake go through a follower with little lag, but the things said by
@@ -6915,7 +6915,7 @@ one of the datacenters, and all writes must go through that datacenter.
 
 In a multi-leader configuration, you can have a leader in each datacenter. -6
 shows what this architecture might look like. Within each datacenter, regular leader–
-follower replication is used; between datacenters, each datacenter's leader replicates
+follower replication is used; between datacenters, each datacenter leader replicates
 its changes to the leaders in other datacenters.
 
 iv. If the database is partitioned (see Chapter 6), each partition has one leader. Different partitions may have
@@ -7087,7 +7087,7 @@ as last write wins (LWW). Although this approach is popular, it is dangerously
 prone to data loss [35]. We will discuss LWW in more detail at the end of this
 chapter ("Detecting Concurrent Writes" on page 184).
 
-• Give each replica a unique ID, and let writes that originated at a highernumbered replica always take precedence over writes that originated at a lowernumbered replica. This approach also implies data loss.
+• Give each replica a unique ID, and let writes that originated at a higher-numbered replica always take precedence over writes that originated at a lower-numbered replica. This approach also implies data loss.
 
 • Somehow merge the values together—e.g., order them alphabetically and then
 concatenate them (in -7, the merged title might be something like
@@ -8468,7 +8468,7 @@ shared fairly between the nodes in the cluster.
 
 and writes.
 
-• No more data than necessary should be moved between nodes, to make rebalanc‐
+• No more data than necessary should be moved between nodes, to make rebalancing‐
 
 ing fast and to minimize the network and disk I/O load.
 
@@ -8907,7 +8907,7 @@ updated.
 • Race conditions between clients can cause surprising bugs.
 
 In order to be reliable, a system has to deal with these faults and ensure that they
-don't cause catastrophic failure of the entire system. However, implementing faulttolerance mechanisms is a lot of work. It requires a lot of careful thinking about all
+don't cause catastrophic failure of the entire system. However, implementing fault tolerance mechanisms is a lot of work. It requires a lot of careful thinking about all
 the things that can go wrong, and a lot of testing to ensure that the solution actually
 works.
 
@@ -9037,7 +9037,7 @@ lancing (see "Consistent Hashing" on page 204).
 
 • In the CAP theorem (see Chapter 9), the word consistency is used to mean linear‐
 
-izability (see "Linearizability" on page 324).
+linearizability (see "Linearizability" on page 324).
 
 • In the context of ACID, consistency refers to an application-specific notion of the
 
@@ -9084,7 +9084,7 @@ ensures that when the transactions have committed, the result is the same as if 
 had run serially (one after another), even though in reality they may have run concurrently [10].
 
 i. Joe Hellerstein has remarked that the C in ACID was "tossed in to make the acronym work" in Härder and
-Reuter's paper [7], and that it wasn't considered important at the time.
+Reuter paper [7], and that it wasn't considered important at the time.
 
 |
 
@@ -9495,7 +9495,7 @@ application can have a knock-on effect in a completely different part of the app
 
 |
 
-For that reason, most databasesvi prevent dirty reads using the approach illustrated in
+For that reason, most databases prevent dirty reads using the approach illustrated in
 -4: for every object that is written, the database remembers both the old committed value and the new value set by the transaction that currently holds the write
 lock. While the transaction is ongoing, any other transactions that read the object are
 simply given the old value. Only when the new value is committed do transactions
@@ -9596,7 +9596,7 @@ level as well. A typical approach is that read committed uses a separate snapsho
 each query, while snapshot isolation uses the same snapshot for an entire transaction.
 
 -7 illustrates how MVCC-based snapshot isolation is implemented in PostgreSQL [31] (other implementations are similar). When a transaction is started, it is
-given a unique, always-increasingvii transaction ID (txid). Whenever a transaction
+given a unique, always-increasing transaction ID (txid). Whenever a transaction
 writes anything to the database, the data it writes is tagged with the transaction ID of
 the writer.
 
@@ -9740,7 +9740,7 @@ Similarly, document databases such as MongoDB provide atomic operations for
 making local modifications to a part of a JSON document, and Redis provides atomic
 operations for modifying data structures such as priority queues. Not all writes can
 easily be expressed in terms of atomic operations—for example, updates to a wiki
-page involve arbitrary text editingviii—but in situations where atomic operations can
+page involve arbitrary text editing—but in situations where atomic operations can
 be used, they are usually the best choice.
 
 Atomic operations are usually implemented by taking an exclusive lock on the object
@@ -10028,7 +10028,7 @@ to the user and abort).
 DELETE) to the database and commits the transaction.
 
 The effect of this write changes the precondition of the decision of step 2. In
-other words, if you were to repeat the SELECT query from step 1 after commiting
+other words, if you were to repeat the SELECT query from step 1 after committing
 the write, you would get a different result, because the write changed the set of
 rows matching the search condition (there is now one fewer doctor on call, the
 meeting room is now booked for that time, the position on the board is now
@@ -10255,7 +10255,7 @@ single-partition throughput and cannot be increased by adding more machines [49]
 
 Whether transactions can be single-partition depends very much on the structure of
 the data used by the application. Simple key-value data can often be partitioned very
-easily, but data with multiple secondary indexes is likely to require a lot of crosspartition coordination (see "Partitioning and Secondary Indexes" on page 206).
+easily, but data with multiple secondary indexes is likely to require a lot of cross-partition coordination (see "Partitioning and Secondary Indexes" on page 206).
 
 Summary of serial execution
 
@@ -10430,7 +10430,7 @@ Index-range locks
 
 Unfortunately, predicate locks do not perform well: if there are many locks by active
 transactions, checking for matching locks becomes time-consuming. For that reason,
-most databases with 2PL actually implement index-range locking (also known as nextkey locking), which is a simplified approximation of predicate locking [41, 50].
+most databases with 2PL actually implement index-range locking (also known as next-key locking), which is a simplified approximation of predicate locking [41, 50].
 
 It's safe to simplify a predicate by making it match a greater set of objects. For example, if you have a predicate lock for bookings of room 123 between noon and 1 p.m.,
 you can approximate it by locking bookings for room 123 at any time, or you can
@@ -11521,7 +11521,7 @@ the two, since they serve different purposes.
 Time-of-day clocks
 
 A time-of-day clock does what you intuitively expect of a clock: it returns the current
-date and time according to some calendar (also known as wall-clock time). For example, clock_gettime(CLOCK_REALTIME) on Linuxv and System.currentTimeMillis()
+date and time according to some calendar (also known as wall-clock time). For example, clock_gettime(CLOCK_REALTIME) on Linux and System.currentTimeMillis()
 in Java return the number of seconds (or milliseconds) since the epoch: midnight
 UTC on January 1, 1970, according to the Gregorian calendar, not counting leap seconds. Some systems use other dates as their reference point.
 
@@ -11777,7 +11777,7 @@ Synchronized clocks for global snapshots
 
 In "Snapshot Isolation and Repeatable Read" on page 237 we discussed snapshot isolation, which is a very useful feature in databases that need to support both small, fast
 read-write transactions and large, long-running read-only transactions (e.g., for
-backups or analytics). It allows read-only transactions to see the database in a consistent state at a particular point in time, without locking and interfering with readwrite transactions.
+backups or analytics). It allows read-only transactions to see the database in a consistent state at a particular point in time, without locking and interfering with read-write transactions.
 
 The most common implementation of snapshot isolation requires a monotonically
 increasing transaction ID. If a write happened later than the snapshot (i.e., the write
@@ -12226,7 +12226,7 @@ data systems, the cost of deploying Byzantine fault-tolerant solutions makes the
 impractical.
 
 Web applications do need to expect arbitrary and malicious behavior of clients that
-are under end-user control, such as web browsers. This is why input validation, sanitization, and output escaping are so important: to prevent SQL injection and crosssite scripting, for example. However, we typically don't use Byzantine fault-tolerant
+are under end-user control, such as web browsers. This is why input validation, sanitization, and output escaping are so important: to prevent SQL injection and cross-site scripting, for example. However, we typically don't use Byzantine fault-tolerant
 protocols here, but simply make the server the authority on deciding what client
 behavior is and isn't allowed. In peer-to-peer networks, where there is no such central authority, Byzantine fault tolerance is more relevant.
 
@@ -12576,7 +12576,7 @@ SIGCOMM Conference, August 2011. doi:10.1145/2018436.2018477
 
 [18] Will Oremus: "The Global Internet Is Being Attacked by Sharks, Google Confirms," slate.com, August 15, 2014.
 
-[19] Marc A. Donges: "Re: bnx2 cards Intermittantly Going Offline," Message to
+[19] Marc A. Donges: "Re: bnx2 cards Intermittently Going Offline," Message to
 Linux netdev mailing list, spinics.net, September 13, 2012.
 
 [20] Kyle Kingsbury: "Call Me Maybe: Elasticsearch," aphyr.com, June 15, 2014.
@@ -14051,7 +14051,7 @@ it must wait for message 5 before it can deliver message 6. The same is not the 
 with Lamport timestamps—in fact, this is the key difference between total order
 broadcast and timestamp ordering.
 
-How hard could it be to make a linearizable integer with an atomic increment-andget operation? As usual, if things never failed, it would be easy: you could just keep it
+How hard could it be to make a linearizable integer with an atomic increment-and-get operation? As usual, if things never failed, it would be easy: you could just keep it
 in a variable on one node. The problem lies in handling the situation when network
 connections to that node are interrupted, and restoring the value when that node fails
 [59]. In general, if you think hard enough about linearizable sequence number generators, you inevitably end up with a consensus algorithm.
@@ -14147,7 +14147,7 @@ the primary data, it would not be very useful).
 From single-node to distributed atomic commit
 
 For transactions that execute at a single database node, atomicity is commonly implemented by the storage engine. When the client asks the database node to commit the
-transaction, the database makes the transaction's writes durable (typically in a writeahead log; see "Making B-trees reliable" on page 82) and then appends a commit
+transaction, the database makes the transaction's writes durable (typically in a write-ahead log; see "Making B-trees reliable" on page 82) and then appends a commit
 record to the log on disk. If the database crashes in the middle of this process, the
 transaction is recovered from the log when the node restarts: if the commit record
 was successfully written to disk before the crash, the transaction is considered committed; if not, any writes from that transaction are rolled back.
@@ -14460,7 +14460,7 @@ The transaction coordinator implements the XA API. The standard does not specify
 how it should be implemented, but in practice the coordinator is often simply a
 library that is loaded into the same process as the application issuing the transaction
 (not a separate service). It keeps track of the participants in a transaction, collects
-partipants' responses after asking them to prepare (via a callback into the driver), and
+participants' responses after asking them to prepare (via a callback into the driver), and
 uses a log on the local disk to keep track of the commit/abort decision for each transaction.
 
 If the application process crashes, or the machine on which the application is running
@@ -14943,7 +14943,7 @@ who the current members are.
 In this chapter we examined the topics of consistency and consensus from several different angles. We looked in depth at linearizability, a popular consistency model: its
 goal is to make replicated data appear as though there were only a single copy, and to
 make all operations act on it atomically. Although linearizability is appealing because
-it is easy to understand—it makes a database behave like a variable in a singlethreaded program—it has the downside of being slow, especially in environments
+it is easy to understand—it makes a database behave like a variable in a single-threaded program—it has the downside of being slow, especially in environments
 with large network delays.
 
 We also explored causality, which imposes an ordering on events in a system (what
@@ -15067,7 +15067,7 @@ Virtues and Limitations," at 40th International Conference on Very Large Data Ba
 (VLDB), September 2014. Extended version published as pre-print arXiv:1302.0309
 [cs.DB].
 
-[5] Paolo Viotti and Marko Vukolić: "Consistency in Non-Transactional Distributed
+[5] Paolo Viotti and Marko Vukolićć: "Consistency in Non-Transactional Distributed
 Storage Systems," arXiv:1512.00168, 12 April 2016.
 
 [6] Maurice P. Herlihy and Jeannette M. Wing: "Linearizability: A Correctness Condition for Concurrent Objects," ACM Transactions on Programming Languages and
@@ -15703,7 +15703,7 @@ data can be sorted in memory and written out to disk as segment files, and then 
 access patterns that perform well on disks. (Remember that optimizing for sequential
 I/O was a recurring theme in Chapter 3. The same pattern reappears here.)
 
-The sort utility in GNU Coreutils (Linux) automatically handles larger-thanmemory datasets by spilling to disk, and automatically parallelizes sorting across
+The sort utility in GNU Coreutils (Linux) automatically handles larger-than-memory datasets by spilling to disk, and automatically parallelizes sorting across
 multiple CPU cores [9]. This means that the simple chain of Unix commands we saw
 earlier easily scales to large datasets, without running out of memory. The bottleneck
 is likely to be the rate at which the input file can be read from disk.
@@ -16271,7 +16271,7 @@ Spots" on page 205, using randomization to alleviate hot spots in a partitioned 
 
 Hive's skewed join optimization takes an alternative approach. It requires hot keys to
 be specified explicitly in the table metadata, and it stores records related to those keys
-in separate files from the rest. When performing a join on that table, it uses a mapside join (see the next section) for the hot keys.
+in separate files from the rest. When performing a join on that table, it uses a map-side join (see the next section) for the hot keys.
 
 When grouping records by a hot key and aggregating them, you can perform the
 grouping in two stages. The first MapReduce stage sends records to a random
@@ -16365,7 +16365,7 @@ records with the same key.
 If a map-side merge join is possible, it probably means that prior MapReduce jobs
 brought the input datasets into this partitioned and sorted form in the first place. In
 principle, this join could have been performed in the reduce stage of the prior job.
-However, it may still be appropriate to perform the merge join in a separate maponly job, for example if the partitioned and sorted datasets are also needed for other
+However, it may still be appropriate to perform the merge join in a separate map-only job, for example if the partitioned and sorted datasets are also needed for other
 purposes besides this particular join.
 
 MapReduce workflows with map-side joins
@@ -16699,7 +16699,7 @@ resources they use, and higher-priority processes cost more [59].
 
 This architecture allows non-production (low-priority) computing resources to be
 overcommitted, because the system knows that it can reclaim the resources if necessary. Overcommitting resources in turn allows better utilization of machines and
-greater efficiency compared to systems that segregate production and nonproduction tasks. However, as MapReduce jobs run at low priority, they run the risk
+greater efficiency compared to systems that segregate production and non-production tasks. However, as MapReduce jobs run at low priority, they run the risk
 of being preempted at any time because a higher-priority process requires their
 resources. Batch jobs effectively "pick up the scraps under the table," using any computing resources that remain after the high-priority processes have taken what they
 need.
@@ -17866,7 +17866,7 @@ can assign entire partitions to nodes in the consumer group.
 
 Each client then consumes all the messages in the partitions it has been assigned.
 Typically, when a consumer has been assigned a log partition, it reads the messages in
-the partition sequentially, in a straightforward single-threaded manner. This coarsegrained load balancing approach has some downsides:
+the partition sequentially, in a straightforward single-threaded manner. This coarse-grained load balancing approach has some downsides:
 
 |
 
@@ -17902,7 +17902,7 @@ the consumer had processed subsequent messages but not yet recorded their offset
 those messages will be processed a second time upon restart. We will discuss ways of
 dealing with this issue later in the chapter.
 
-i. It's possible to create a load balancing scheme in which two consumers share the work of processing a partition by having both read the full set of messages, but one of them only considers messages with evennumbered offsets while the other deals with the odd-numbered offsets. Alternatively, you could spread
+i. It's possible to create a load balancing scheme in which two consumers share the work of processing a partition by having both read the full set of messages, but one of them only considers messages with even-numbered offsets while the other deals with the odd-numbered offsets. Alternatively, you could spread
 message processing over a thread pool, but that approach complicates consumer offset management. In general, single-threaded processing of a partition is preferable, and parallelism can be increased by using more
 partitions.
 
@@ -19458,7 +19458,7 @@ Log: The Analysis of a Near-Optimal Cardinality Estimation Algorithm," at Confer
 
 [73] Jay Kreps: "Questioning the Lambda Architecture," oreilly.com, July 2, 2014.
 
-[74] Ian Hellström: "An Overview of Apache Streaming Technologies," databaseline.wordpress.com, March 12, 2016.
+[74] Ian Hellströmöm: "An Overview of Apache Streaming Technologies," databaseline.wordpress.com, March 12, 2016.
 
 [75] Jay Kreps: "Why Local State Is a Fundamental Primitive in Stream Processing,"
 oreilly.com, July 31, 2014.
@@ -19478,7 +19478,7 @@ Luwak and Samza," martin.kleppmann.com, April 13, 2015.
 [80] Stephan Ewen: "Streaming Analytics with Apache Flink," at Kafka Summit, April
 2016.
 
-[81] Tyler Akidau, Alex Balikov, Kaya Bekiroğlu, et al.: "MillWheel: Fault-Tolerant
+[81] Tyler Akidau, Alex Balikov, Kaya Bekiroğluğlu, et al.: "MillWheel: Fault-Tolerant
 Stream Processing at Internet Scale," at 39th International Conference on Very Large
 Data Bases (VLDB), August 2013.
 
@@ -19581,7 +19581,7 @@ Data Integration
 A recurring theme in this book has been that for any given problem, there are several
 solutions, all of which have different pros, cons, and trade-offs. For example, when
 discussing storage engines in Chapter 3, we saw log-structured storage, B-trees, and
-column-oriented storage. When discussing replication in Chapter 5, we saw singleleader, multi-leader, and leaderless approaches.
+column-oriented storage. When discussing replication in Chapter 5, we saw single-leader, multi-leader, and leaderless approaches.
 
 If you have a problem such as "I want to store some data and look it up again later,"
 there is no one right solution, but many different approaches that are each appropriate in different circumstances. A software implementation typically has to pick one
@@ -19751,7 +19751,7 @@ The user's intention is that their ex-partner should not see the rude message, s
 the message was sent after the friend status was revoked.
 
 However, in a system that stores friendship status in one place and messages in
-another place, that ordering dependency between the unfriend event and the messagesend event may be lost. If the causal dependency is not captured, a service that sends
+another place, that ordering dependency between the unfriend event and the message-send event may be lost. If the causal dependency is not captured, a service that sends
 notifications about new messages may process the message-send event before the
 unfriend event, and thus incorrectly send a notification to the ex-partner.
 
@@ -19850,7 +19850,7 @@ possible to restructure a dataset into a completely different model in order to 
 serve new requirements.
 
 Schema Migrations on Railways
-Large-scale "schema migrations" occur in noncomputer systems as well. For example,
+Large-scale "schema migrations" occur in non-computer systems as well. For example,
 in the early days of railway building in 19th-century England there were various competing standards for the gauge (the distance between the two rails). Trains built for
 one gauge couldn't run on tracks of another gauge, which restricted the possible
 interconnections in the train network [9].
@@ -20502,7 +20502,7 @@ the device is a stale cache that is not updated unless you explicitly poll for c
 More recent protocols have moved beyond the basic request/response pattern of
 HTTP: server-sent events (the EventSource API) and WebSockets provide communication channels by which a web browser can keep an open TCP connection to a
 server, and the server can actively push messages to the browser as long as it remains
-connected. This provides an opportunity for the server to actively inform the enduser client about any changes to the state it has stored locally, reducing the staleness
+connected. This provides an opportunity for the server to actively inform the end user client about any changes to the state it has stored locally, reducing the staleness
 of the client-side state.
 
 In terms of our model of write path and read path, actively pushing state changes all
@@ -20577,7 +20577,7 @@ When both the writes and the reads are represented as events, and routed to the 
 stream operator in order to be handled, we are in fact performing a stream-table join
 between the stream of read queries and the database. The read event needs to be sent
 to the database partition holding the data (see "Request Routing" on page 214), just
-like batch and stream processors need to copartition inputs on the same key when
+like batch and stream processors need to co-partition inputs on the same key when
 joining (see "Reduce-Side Joins and Grouping" on page 403).
 
 This correspondence between serving requests and performing joins is quite fundamental [47]. A one-off read request just passes the request through the join operator
@@ -20823,7 +20823,7 @@ is stored. If you want to catch all possible sources of data corruption, you als
 end-to-end checksums.
 
 A similar argument applies with encryption [55]: the password on your home WiFi
-network protects against people snooping your WiFitraffic, but not against attackers
+network protects against people snooping your WiFi traffic, but not against attackers
 elsewhere on the internet; TLS/SSL between your client and the server protects
 
 |
@@ -20831,7 +20831,7 @@ elsewhere on the internet; TLS/SSL between your client and the server protects
 against network attackers, but not against compromises of the server. Only end-toend encryption and authentication can protect against all of these things.
 
 Although the low-level features (TCP duplicate suppression, Ethernet checksums,
-WiFiencryption) cannot provide the desired end-to-end features by themselves, they
+WiFi encryption) cannot provide the desired end-to-end features by themselves, they
 are still useful, since they reduce the probability of problems at the higher levels. For
 example, HTTP requests would often get mangled if we didn't have TCP putting the
 packets back in the right order. We just need to remember that the low-level reliability features are not by themselves sufficient to ensure end-to-end correctness.
@@ -20966,7 +20966,7 @@ request ID by the client, and appended to a log partition based on the request I
 two messages to output streams: a debit instruction to the payer account A (partitioned by A), and a credit instruction to the payee account B (partitioned by B).
 The original request ID is included in those emitted messages.
 
-3. Further processors consume the streams of credit and debit instructions, dedu‐
+3. Further processors consume the streams of credit and debit instructions, deduplicate‐
 
 plicate by request ID, and apply the changes to the account balances.
 
@@ -22257,7 +22257,7 @@ describing an operation that appears to
 take effect at a single point in time, so
 another concurrent process can never
 encounter
-in a "halfthe operation
+in a "half the operation
 finished" state. See also isolation.
 
 2. In the context of transactions: grouping
@@ -22670,7 +22670,7 @@ on page 251.
 shared-nothing
 
 An architecture in which independent
-nodes—each with their own CPUs, memory, and disks—are connected via a conventional network, in contrast to sharedmemory or shared-disk architectures. See
+nodes—each with their own CPUs, memory, and disks—are connected via a conventional network, in contrast to shared memory or shared-disk architectures. See
 the introduction to Part II.
 
 skew
@@ -22682,7 +22682,7 @@ known as hot spots. See "Skewed Workloads and Relieving Hot Spots" on page
 205 and "Handling skew" on page 407.
 
 2. A timing anomaly that causes events to
-appear in an unexpected, nonsequential
+appear in an unexpected, non-sequential
 order. See the discussions of read skew in
 "Snapshot Isolation and Repeatable Read"
 on page 237, write skew in "Write Skew
@@ -24882,7 +24882,7 @@ using logs for message storage, 447
 
 log-structured storage, 71-79
 
-log-structured merge tree (see LSMtrees)
+log-structured merge tree (see LSM trees)
 
 coordination with snapshot, 156
 logical (row-based) replication, 160
@@ -25491,7 +25491,7 @@ primary keys, 85, 556
 
 compound primary key (Cassandra), 204
 
-primary-secondary replication (see leaderbased replication)
+primary-secondary replication (see leader-based replication)
 
 privacy, 536-543
 
@@ -26231,7 +26231,7 @@ data warehousing support, 93
 preventing lost updates, 245
 preventing write skew, 248, 257
 
-maintenance by stream processor in streamstream joins, 473
+maintenance by stream processor in stream stream joins, 473
 
 observing derived state, 509-515
 rebuilding after stream processor failure,

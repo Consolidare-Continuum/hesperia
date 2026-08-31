@@ -19,7 +19,7 @@ ENTERTAINING AND SMART.
 
 -LOS ANGELES TIMES
 
-HtBESIotLLiNG
+BESTSELLING
 
 AUTHOR OF EVERYTHING
 
@@ -30,7 +30,7 @@ AND THE INVENTION
 Praise for Where Good Ideas Come From
 
 "A rapid-fire tour of 'spaces' large, small, mental, physical, and other
-wise ... WhereGoodIdeas Come From may be the ultimate distillation of
+wise ... Where Good Ideas Come From may be the ultimate distillation of
 his thinking on these issues. . . . One admires the intellectual athleticism
 —The Boston Globe
 of Johnson's maneuvers here."
@@ -49,15 +49,15 @@ thing or two about the history of science, is a first-rate storyteller."
 
 "A vision of innovation and ideas that is resolutely social, dynamic, and
 material . . . Fluidly written, entertaining and smart without being ar
-—LosAngeles Times
+—Los Angeles Times
 cane."
 
-"Abookthat will stick with its readers ... [who]are likely to find its great
+"A book that will stick with its readers ... [who]are likely to find its great
 est value in discoveries that arise after months or years of applying John
 son's insights to their own experiences,. ... A voyage of discovery through
 the history of human innovation, transporting readers from the Renais
 sance to the World Wide Web and beyond . . . thought-provoking in the
-—The DallasMorning News
+—The Dallas Morning News
 best possible way."
 
 "Our standard image of the great mind is that of a solitary genius, cut off
@@ -77,29 +77,29 @@ How New Technology Transforms the Way We Create and Communicate
 
 Emergence:
 
-The Connected Lives ofAnts, Brains, Cities, and Software
+The Connected Lives of Ants, Brains, Cities, and Software
 
 Mind Wide Open:
 
-Your Brainand theNeuroscience of Everyday Life
+Your Brain and theNeuroscience of Everyday Life
 
 EverythingBadIs Goodfor You:
 
 How Today's PopularCulture Is ActuallyMaking Us Smarter
 
-The GhostMap:
+The Ghost Map:
 
-TheStoryof London's Most Terrifying Epidemic—and How
+The Story of London's Most Terrifying Epidemic—and How
 
-It ChangedScience, Cities, and theModern World
+It Changed Science, Cities, and the Modern World
 
 TheInvention of Air:
 
-A Storyof Science, Faith, Revolution, andtheBirthof America
+A Storyof Science, Faith, Revolution, and the Birth of America
 
 The Innovator's Cookbook:
 
-Essentialsfor InventingWhatIs Next
+Essentials for InventingWhatIs Next
 
 (edited by Steven Johnson)
 
@@ -125,7 +125,7 @@ RTVERHEAD BOOKS
 Published by the Penguin Group
 Penguin Group (USA) Inc.
 375 Hudson Street, New York, New York 10014, USA
-Penguin Group (Canada), 90 EglintonAvenue East, Suite 700,Toronto, Ontario M4P 2Y3,Canada
+Penguin Group (Canada), 90 Eglinton Avenue East, Suite 700,Toronto, Ontario M4P 2Y3,Canada
 (a division of Pearson Penguin Canada Inc.)
 Penguin BooksLtd., 80 Strand, London WC2R0RL, England
 PenguinGroupIreland,25St.Stephen's Green,Dublin2,Ireland (a division of PenguinBooks Ltd.)
@@ -140,11 +140,11 @@ Africa
 Penguin BooksLtd, Registered Offices:, 80 Strand, London WC2R 0RL, England
 
 While the author has made every effort to provide accurate telephone numbers and Internet addresses
-at the time of publication,neither the publisher nor the author assumesany responsibilityfor errors,
+at the time of publication,neither the publisher nor the author assumes any responsibilityfor errors,
 or for changes that occur after publication.Further the publisher does not have any control over and
 does not assume any responsibility for author or third-party websites or their content.
 
-Grateful acknowledgmentis made for permissionto reprint from Franco Moretti, Graphs, Maps,Trees:
+Grateful acknowledgmentis made for permission to reprint from Franco Moretti, Graphs, Maps,Trees:
 Abstract Modelsfor a LiteraryHistory. Verso, 2007. Copyright © Franco Moretti 2007. All rights
 reserved. Reproduced by permission.
 
@@ -152,7 +152,7 @@ Copyright© 2010 by StevenJohnson
 Book design by Amanda Dewey
 
 All rights reserved.
-No part of this book may be reproduced, scanned, or distributed in any printed or electronicform
+No part of this book may be reproduced, scanned, or distributed in any printed or electronic form
 without permission. Please do not participate in or encourage piracy of copyrighted materials in
 violation of the author's rights. Purchase only authorized editions.
 RTVERHEAD is a registeredtrademark of Penguin Group(USA) Inc.
@@ -165,7 +165,7 @@ Riverhead trade paperback ISBN:978-1-59448-538-1
 The Library of Congress has catalogued the Riverhead hardcover edition as follows:
 
 Johnson, Steven, date.
-Where goodideas comefrom : the natural historyof innovation/ StevenJohnson.
+Where goodideas come from : the natural historyof innovation/ StevenJohnson.
 p.
 
 cm.
@@ -236,15 +236,15 @@ Index
 
 Introduction
 
-...as imagination bodiesforth
+...as imagination bodies forth
 
-Theforms of things unknown, thepoet's pen
+The forms of things unknown, the poet's pen
 
-Turnsthemto shapesandgives to airy nothing
+Turns them to shapes and gives to airy nothing
 
 A local habitation and a name.
 
-—Shakespeare, A Midsummer Night'sDream, V.i.,14—17
+—Shakespeare, A Midsummer Night's Dream, V.i.,14—17
 
 Darwin's Paradox
 
@@ -274,7 +274,7 @@ don, Darwin is on the precipice, standing on an underwater peak
 
 ascending over an unfathomable sea. He is on the edge of an idea
 
-about the forcesthat built that peak, an idea that will prove to be the
+about the forces that built that peak, an idea that will prove to be the
 
 first great scientific insight of his career. And he has just begun
 
@@ -284,9 +284,9 @@ ally lead to the intellectual summit of the nineteenth century.
 
 Around him, the crowds of the coral ecosystem dart and shim
 
-mer. The sheer variety dazzles:butterflyfish, damselfish, parrotfish,
+mer. The sheer variety dazzles:butterfly fish, damselfish, parrotfish,
 
-Napoleon fish, angeliish;goldenanthias feeding on plankton above
+Napoleon fish, angelfish;golden anthias feeding on plankton above
 
 the cauliflower blooms of the coral; the spikes and tentacles of sea
 
@@ -306,7 +306,7 @@ I think those naturalists who have described, in well-known* words,
 
 the submarine grottoes decked with a thousand beauties, have in
 
-dulged in rather exuberant language."
+indulged in rather exuberant language."
 
 What lingers in the back of Darwin's mind, in the days and
 
@@ -340,19 +340,19 @@ Ocean and do a full inventory on the life you find there: the list
 
 would be about as "poor" as Darwin's account of the land animals
 
-of the Keelings. You might find a dozenfish if you were lucky. On
+of the Keeling. You might find a dozen fish if you were lucky. On
 
 the reef, you would be guaranteed a thousand. In Darwin's own
 
 words, stumbling across the ecosystem of a coral reef in the middle
 
-of an ocean was like encountering a swarming oasisin the middle
+of an ocean was like encountering a swarming oasis in the middle
 
 of a desert. We now call this phenomenon Darwin's Paradox: so
 
 many different life forms, occupying such a vast array of ecological
 
-niches, inhabiting waters that are otherwise remarkably nutrientpoor. Coral reefs make up about one-tenth of one percent of the
+niches, inhabiting waters that are otherwise remarkably nutrient poor. Coral reefs make up about one-tenth of one percent of the
 
 earth's surface, and yet roughly a quarter of the known species of
 
@@ -376,7 +376,7 @@ ordinary European spectator, accustomed to the calmer waters of the
 English Channel or the Mediterranean, would"be naturallydrawnto
 
 the impressive crest of the surf. (The breakers, Darwin observes, are
-almost"equalin force [to] thoseduringa galeof windin the temper
+almost"equal in force [to] those during a gale of wind in the temper
 
 ate regions, and never cease to rage.") But Darwin has his eye on
 
@@ -396,9 +396,9 @@ fragments scattered over the reef, and heaped on the beach,
 
 whence the tall cocoa-nut springs, plainly bespeak the unre
 
-lenting power of the waves . . ..Yet these low, insignificant
+relenting power of the waves . . ..Yet these low, insignificant
 
-coral-islets standand are victorious: for here another power, as
+coral-islets stand and are victorious: for here another power, as
 
 an antagonist, takes part in the contest. The organic forces sep
 
@@ -453,9 +453,9 @@ Days later, back on the Beagle, Darwin pulls out his journal
 
 and reflects on that mesmerizing clash between surf and coral. Pre
 
-saging a line he would publish thirty years later in the most famous
+presaging a line he would publish thirty years later in the most famous
 
-passage from OntheOrigin of Species, Darwin writes, "I can hardly
+passage from On the Origin of Species, Darwin writes, "I can hardly
 
 explain the reason, but there is to my mind much grandeur in the
 
@@ -484,7 +484,7 @@ the time he had settled on a career in agricultural science; he had
 
 had enough of the restrictions of Zurich society. And so Max
 
-Kleiber charted a path that would be followed by countless sandalwearing, nonconformist war protesters in the decades to come. He
+Kleiber charted a path that would be followed by countless sandal-wearing, nonconformist war protesters in the decades to come. He
 
 moved to California.
 
@@ -496,7 +496,7 @@ Valley. His research initially focused on cattle, measuring the impact
 
 body size had on their metabolic rates, the speed with which an or
 
-ganism burns through energy. Estimating metabolicrates had great
+ganism burns through energy. Estimating metabolic rates had great
 
 practical value for the cattle industry, becauseit enabled farmers to
 
@@ -534,23 +534,23 @@ matical script called "negativequarter-powerscaling." If you plotted
 
 mass versus metabolism on a logarithmic grid, the result was a per
 
-fectly straight line that led from rats and pigeons all the way up to
+perfectly straight line that led from rats and pigeons all the way up to
 
 bulls and hippopotami.
 
-Physicistswere used to discovering beautiful equations like this
+Physicists were used to discovering beautiful equations like this
 
 lurking in the phenomena they studied, but mathematical elegance
 
 was a rarity in the comparativelymessy world of biology. But the
 
-more species Kleiberand his peersanalyzed, the clearer the equation
+more species Kleiber and his peers analyzed, the clearer the equation
 
 became: metabolism scales to mass to the negative quarter power.
 
-The math is simple enough:youtake the square root of 1,000, which
-is (approximately) 31,and then take the squareroot of 31,which is
-(again, approximately) 5.5. Thismeans that a cow, which isroughly
+The math is simple enough:you take the square root of 1,000, which
+is (approximately) 31,and then take the square root of 31,which is
+(again, approximately) 5.5. This means that a cow, which is roughly
 a thousand times heavier than a woodchuck, will, on average, live
 
 5.5 times longer, and have a heart rate that is 5.5 times slower than
@@ -601,23 +601,23 @@ hold electrical consumption, from new patents to gasolinesales.
 
 When they finally crunched the numbers, West and his team
 
-were delighted to discover that Kleiber's negative quarter-powerseal-
+were delighted to discover that Kleiber's negative quarter-power scaling-
 
 ing governed the energy and transportation growth of city living.
 
-The number of gasolinestations, gasolinesales, road surfacearea, the
+The number of gasolinestations, gasolinesales, road surface area, the
 
 length of electrical cables: all these factors follow the exact same
 
-powerlaw that governs the speedwith which energy is expended in
+powerlaw that governs the speed with which energy is expended in
 
-biological organisms. If an elephant wasjust a scaled-upmouse,then,
+biological organisms. If an elephant was just a scaled-up mouse,then,
 
 from an energy perspective, a city was just a scaled-up elephant.
 
 But the most fascinating discovery in West's research came
 
-from the data that ditfritturn out to obey Kleiber's law. West and his
+from the data that differ out to obey Kleiber's law. West and his
 
 team discovered another power law lurking in their immense data
 
@@ -625,7 +625,7 @@ base of urban statistics. Every datapoint that involved creativity and
 
 innovation—patents, R&D budgets, "supercreative" professions,in
 
-ventors—also followed a quarter-power law,in a way that was every
+inventors—also followed a quarter-power law,in a way that was every
 
 bit as predictable as Kleiber's law. But there was one fundamental
 
@@ -673,7 +673,7 @@ towns. But what was it?
 
 The 10/10 Rule
 
-The first national broadcastof a colortelevision program took place
+The first national broadcast of a colortelevision program took place
 
 on January 1, 1954, when NBC aired an hour-long telecast of the
 
@@ -695,7 +695,7 @@ painting. To do it with constantly moving pictures seemed pure
 
 wizardry." Alas, the Rose Parade "broadcast" turned out to be not
 
-all that broad, given that it wasvisible only on prototype televisions
+all that broad, given that it was visible only on prototype televisions
 
 in RCA showrooms. Color programming would not become stan
 
@@ -727,9 +727,9 @@ transmission of an HDTV signal. Like the Tournament of Roses
 
 footage,though, there were no ordinary consumers with sets capable
 
-of displayingits "wizardry."1 A handful of broadcasters began trans
+of displaying its "wizardry."1 A handful of broadcasters began trans
 
-mitting HDTV signals in 1999, but HD television didn't become a
+transmitting HDTV signals in 1999, but HD television didn't become a
 
 1. The convoluted history of HDTV's origins could be the subject of an entire book, but the
 condensed version goes something like this: in the early 1980sthe Japanese public broadcasting
@@ -749,17 +749,17 @@ development of a U.S. HDTV standard a matter of "national interest."
 But what followed in the subsequent years was less of a Great Leap Forward and more
 of an endless, serpentine crawl. First, the FCC appointed a committee—the Advisory Commit
 tee on Advanced Television Service (ACATS)—that solicited and reviewed twenty-three differ
-ent proposals overthe next year,eventuallywinnowingthem downto six different systems,each
-using a unique scheme to conveyhigher-definition sound and image. Some were analog, others
+ent proposals overthe next year,eventuallywinnowingthem down to six different systems,each
+using a unique scheme to convey higher-definition sound and image. Some were analog, others
 digital. Some were backward compatible with the current systems;others would require the
-consumer to upgrade to new equipment. Forfiveyears,the sponsororganizationsenhanced and
+consumer to upgrade to new equipment. For five years,the sponsororganizationsenhanced and
 tested their various platforms, at a cost of hundreds of millions in research-and-development
 dollars. The whole process was supposed to come to a conclusion in 1993, when ACATS was
 scheduled to run a series of final tests and pick a winner, but the final tests turned out to be a
 preamble: the only thing the committee agreed on was that digital was preferable to analog,
 which reduced the field slightly.The remaining contenders all had enough flaws individually
 to keep the committee from anointing a new heir apparent, and so the ACATS group proposed
-that the remaining candidates collaborate ona single standard. Thisgroup—called the Grand
+that the remaining candidates collaborate ona single standard. This group—called the Grand
 Alliance—reached agreement on specificationsfor digital high-definition video and audio in
 1995, which the FCC embraced the following year.
 
@@ -851,7 +851,7 @@ Time, Flash, or Windows Media Player. But the mechanisms that
 
 allowed people to upload and share their own videos were too chal
 
-lenging for most ordinary users. So Hurley, Chen, and Karim cob
+challenging for most ordinary users. So Hurley, Chen, and Karim cob
 
 bled together a rough beta for a service that would correct these
 
@@ -879,7 +879,7 @@ Now compare the way these two ideas—HDTV and YouTube—
 
 changed the basic rules of engagement for their respective plat
 
-forms. Going from analog televisionto HDTV is a change in degree,
+forms. Going from analog television to HDTV is a change in degree,
 
 not in kind: there are more pixels; the sound is more immersive; the
 
@@ -977,7 +977,7 @@ Karim to unleash a good idea on the world with astonishing speed.
 
 They took the 10/10 rule and made it 1/1.
 
-"Ihis is a book about the space of innovation. Some environ
+"This is is a book about the space of innovation. Some environ
 
 ments squelch new ideas; some environments seem to breed
 
@@ -989,8 +989,8 @@ environments that are powerfully suited for the creation, diffusion,
 
 and adoption of good ideas. Neither environment is perfect, by any
 
-means. (Think of crimerates in big cities, or the explosion of spam
-online.) But both the city and the Webpossess an undeniable track
+means. (Think of crime rates in big cities, or the explosion of spam
+online.) But both the city and the Web possess an undeniable track
 
 record at generating innovation.2 In the same way, the "myriad tiny
 
@@ -1024,18 +1024,18 @@ dinary capacity for innovative thinking.3
 
 2. This fact, ironically, may be related to some of their blemishes. It may be that the criminals and
 spammers thrive in these spaces because they, too, are able to be more innovative at their trades.
-3. Sectionsof the argument that follows will be familiar to anyonewho has spent the last decade
+3. Sections of the argument that follows will be familiar to anyone who has spent the last decade
 or two exploring the new possibility spaces of the Web. I last wrote about the Web in book form
 ten years ago; since that time, a marvelous community of entrepreneur theorists has material
-ized,capableof pushing the boundariesof the medium, and at the same time reflecting on what
-those advances might mean. Wehave,all of us,seen firsthand how innovative a spacethe Web
+ized,capableof pushing the boundaries of the medium, and at the same time reflecting on what
+those advances might mean. We have,all of us,seen firsthand how innovative a space the Web
 can be, and we have assembled a great deal of local knowledge about the forces that make that
-innovation possible.In assembling the sevenpatterns of innovation, I have tried to organize that
+innovation possible.In assembling the seven patterns of innovation, I have tried to organize that
 knowledge into productive categories,and I hope I have provided a few insights into how the
-Webworksthat will surprise the natives.But eventhe most devotedcrowd-sourcing, microblogging Wikipedia-head has doubts about how portable the Web experience is to real-world in
+Web works that will surprise the natives.But eventhe most devoted crowd-sourcing, microblogging Wikipedia-head has doubts about how portable the Web experience is to real-world in
 novation environments. Just because the patterns work for Google doesn't mean that they are
 relevant for an understaffed nonprofit, or auto-parts manufacturer, or city government. And so
-one way to think about the pages that followis as an argument that the particular magic that
+one way to think about the pages that follows as as an argument that the particular magic that
 we have seen on the Web has a long history that predates the Web and can be reproduced in
 other environments.
 
@@ -1093,7 +1093,7 @@ of "competition"—a term often associated with innovation—plays
 
 a critical role in the behavior of marketplaces, in the interaction
 
-between a swarm of sperm cells and an egg, and in the ecosystemscale battle between organisms for finite energy sources. We are not
+between a swarm of sperm cells and an egg, and in the ecosystem scale battle between organisms for finite energy sources. We are not
 
 using a metaphor of economic competition to describe the struggles
 
@@ -1189,13 +1189,13 @@ As you descend toward the center of the glass, the biological
 
 scales contract: from the global, deep time of evolution to the micro
 
-scopic exchanges of neurons or DNA. At the center of the glass, the
+microscopic exchanges of neurons or DNA. At the center of the glass, the
 
 perspective shifts from nature to culture, and the scales widen: from
 
 individual thoughts and private workspaces to immense cities and
 
-global information networks. When we look at the history of innpvation from the vantage point of the long zoom, what we find is that
+global information networks. When we look at the history of innovation from the vantage point of the long zoom, what we find is that
 
 unusually generative environments display similar patterns of cre
 
@@ -1213,7 +1213,7 @@ the city and the Web are equally fractal. In this sense, seeing the
 
 problem of innovation from the long-zoom perspective does not just
 
-give us new metaphors. It gives us newfacts.
+give us new metaphors. It gives us new facts.
 
 The pattern of "competition" is an excellent case in point.
 
@@ -1257,7 +1257,7 @@ The academic literature on innovation and creativity is rich
 
 with subtle distinctions between innovations and inventions, be
 
-tween different modes of creativity: artistic, scientific, technologi
+tween different modes of creativity: artistic, scientific, technological
 
 cal. I have deliberately chosen the broadest possible phrasing—good
 
@@ -1283,13 +1283,13 @@ world, similar patterns of development and collaboration shape that
 
 process.
 
-If there is a single maxim that runs througn this book's argu
+If there is a single maxim that runs through this book's argu
 
 ments, it is that we are often better served by connectingideas than
 
 we are by protecting them. Like the free market itself, the case for
 
-restricting the flowof innovation has long been buttressed by appeals
+restricting the flow of innovation has long been buttressed by appeals
 
 to the "natural" order of things. But the truth is, when one looks at
 
@@ -1317,11 +1317,11 @@ Paris, the lying-in hospital for the city's poor women, and paid a
 
 visit to the nearby Paris Zoo. Wandering past the elephants and
 
-reptiles and classical gardens of the zoo'shome inside the Jardin des
+reptiles and classical gardens of the zoo's home inside the Jardin des
 
 Plantes, Tarnier stumbled across an exhibit of chicken incubators.
 
-Seeing the hatchlings totter about in the incubator's warm enclo
+Seeing the hatchlings totter about in the incubator's warm enclosure
 
 sure triggered an association in his head, and before long he had
 
@@ -1367,7 +1367,7 @@ improved upon significantly in the subsequent decades.But Tarnier's
 
 statistical analysis gave newborn incubation the push that it needed:
 
-within a few years, the Paris municipal board required that incuba
+within a few years, the Paris municipal board required that incubators
 
 tors be installed in all the city's maternity hospitals. In 1896, an
 
@@ -1383,7 +1383,7 @@ to be the sleeper hit of the exposition, and launched a bizarre tra-
 
 eth century. (Coney Island had a permanent baby incubator show
 
-until the early 1940s.) Modern incubators,supplemented with highoxygen therapy and other advances, became standard equipment in
+until the early 1940s.) Modern incubators,supplemented with high-oxygen therapy and other advances, became standard equipment in
 
 all American hospitals after the end of World War II, triggering a
 
@@ -1431,7 +1431,7 @@ Timothy Prestero visited the hospital, all eight were out of order, the
 
 victims of power surges and tropical humidity, along with the hos
 
-pital staff's inability to read the English repair manual. The Meula
+pital staff's inability to read the English repair manual. The Meulaboh
 
 boh incubators were a representative sample: some studies suggest
 
@@ -1467,7 +1467,7 @@ developing world. The idea had originated with a Boston doctor
 
 named Jonathan Rosen, who had observed that even the smaller
 
-towns of the developing world seemed to be able to keep automo
+towns of the developing world seemed to be able to keep automobiles
 
 biles in working order. The towns might have lacked air condition
 
@@ -1499,13 +1499,13 @@ local knowledge of automobile repair. These were both abundant
 
 resources in the developing world context, as Rosen liked to say.You
 
-didn't havje to be a trained medical technician to fix the NeoNur
+didn't have to be a trained medical technician to fix the NeoNurture
 
 ture; you didn't even have to read the manual. You just needed to
 
 know how to replace a broken headlight.
 
-Good ideas are like the NeoNurture device. They are, inevita
+Good ideas are like the NeoNurture device. They are, inevitably
 
 bly, constrained by the parts and skills that surround them. We have
 
@@ -1527,8 +1527,8 @@ factory, but in reality they've been cobbled together with spare parts
 
 that happened: to be sitting in the garage.
 
-iefore his untimely death in 2002, the evolutionary biologist
-*StephenJay Gould maintained an odd collection of footware
+before his untimely death in 2002, the evolutionary biologist
+*StephenJay Gould maintained an odd collection of footwear
 
 that he had purchased during his travels through the developing
 
@@ -1550,7 +1550,7 @@ together to create new uses. The evolutionary theorist Francois
 
 Jacob captured this in his concept of evolution as a "tinkerer," not
 
-an engineer; our bodiesare alsoworksof bricolage,old parts strung
+an engineer; our bodies are also works of bricolage,old parts strung
 
 together to form something radically new. "The tires-to-sandals
 
@@ -1582,7 +1582,7 @@ to a field known as prebiotic chemistry. The lifeless earth was domi
 
 nated by a handful of basic molecules: ammonia, methane, water, car
 
-bon dioxidej a smattering of amino acids, and other simple organic
+bon dioxide a smattering of amino acids, and other simple organic
 
 compounds. Each of these molecules was capable of a finite series of
 
@@ -1594,15 +1594,15 @@ and water, for instance.
 
 Think of all those initial molecules, and then imagine all the
 
-potential new combinationsthat they couldform spontaneously, sim
+potential new combinationsthat they could form spontaneously, sim
 
 ply by colliding with each other (or perhaps prodded along by the
 
-extra energy of a propitious Hghtning strike). If you could play God
+extra energy of a propitious Lightning strike). If you could play God
 
 and trigger all those combinations, you would end up with most of
 
-the building blocks of life: the proteins thaf form the boundaries of
+the building blocks of life: the proteins that form the boundaries of
 
 cells; sugar molecules crucial to the nucleic acids of our DNA. But
 
@@ -1630,7 +1630,7 @@ set of all those first-order combinations: "the adjacent possible."
 
 The phrase captures both the limits and the creative potential of
 
-change and innovation. In the case of prebiotiq chemistry, the ad
+change and innovation. In the case of prebiotic chemistry, the ad
 
 jacent possible defines all those molecular reactions that were di
 
@@ -1707,7 +1707,7 @@ lution of life. Indeed, one way to think about the path of evolution
 
 is as a continual exploration of th$ adjacent possible. When dino
 
-saurs such as the velociraptor evolved a new bone called the semilunate carpal (the name comesfrom its half-moon shape), it enabled
+saurs such as the velociraptor evolved a new bone called the semilunate carpal (the name comes from its half-moon shape), it enabled
 
 them to swivel their wrists with far more flexibility. In the short
 
@@ -1768,7 +1768,7 @@ can see how far the kingdom of the adjacent possible has expanded
 since those fatty acids self-assembled into the first membrane.
 
 FTlne history of life and human culture, then, can be told as the
-~L story of a gradual butrelentless probing of the adjacent pos
+~L story of a gradual but relentless probing of the adjacent pos
 sible, each new innovation opening up new paths to explore. But
 
 some systems are more adept than others at exploring those possi
@@ -1801,7 +1801,7 @@ than any other communications technology in history. In early
 
 by hyperlinks. But within a few years, the possibility space began
 
-to expancl.Tt became a medium that let you do financial transac
+to expand.Tt became a medium that let you do financial transac
 
 tions, which turned it into a shopping mall and an auction house
 
@@ -1829,7 +1829,7 @@ tist or inventor somewhere in the world, and he goes public with
 
 his remarkable finding, only to discover that three other minds had
 
-independently come up with the same idea in the past year. Sunspots were simultaneously discoveredin 1611 by four scientists liv
+independently come up with the same idea in the past year. Sunspots were simultaneously discovered in 1611 by four scientists liv
 
 ing in four different countries. The first electrical battery was
 
@@ -1890,7 +1890,7 @@ needed the conceptual framework that the air was itself something
 
 worth studying and that it was made up of distinct gases;neither of
 
-these ideas became widely accepted until the second half of'the
+these ideas became widely accepted until the second half of the
 
 eighteenth century. But they also needed the advanced scales that
 
@@ -1904,11 +1904,11 @@ the saying goes, "in the air," but only because a specific set of prior
 
 discoveries and inventions had made that experiment thinkable.
 
-FTlhe adjacent possibleis asmuch aboutlimits asit is about open-
+The adjacent possible is asmuch about limits asit is about open-
 JL ings. At every moment in the timeline of an expanding bio
 sphere, there are doors that cannot be unlocked yet. In human
 
-culture, we like to think of breakthrough ideas as sudden accelera
+culture, we like to think of breakthrough ideas as sudden accelerations
 
 tions on the timeline, where a genius jumps ahead fifty years and
 
@@ -1920,7 +1920,7 @@ technological (and scientific) advances rarely break out of the ad
 
 jacent possible; the history of cultural progress is, almost without
 
-exception, a story of one doorleading to another door, exploring the
+exception, a story of one door leading to another door, exploring the
 
 palace one room at a time. But of course, human minds are not
 
@@ -1970,7 +1970,7 @@ accurate results to thirty-one places in a matter of seconds. Both the
 
 speed and precision of the device would have exceeded anything
 
-else possiblein Babbage's time by several orders of magnitude.
+else possible in Babbage's time by several orders of magnitude.
 
 For all its complexity, however, the Difference Engine was well
 
@@ -1978,7 +1978,7 @@ within the adjacent possible of Victorian technology. The secondhalf
 
 of the nineteenth century saw a steady stream of improvements to
 
-mechanical calculation, many of them building on Babbage'sarchi
+mechanical calculation, many of them building on Babbage's archi
 
 tecture. The Swiss inventor Per Georg Scheutz constructed a work
 
@@ -1988,7 +1988,7 @@ ing Difference Engine that debuted at the Exposition Universelle of
 
 reduced to the size of a sewing machine. In 1884,an American inven
 
-tor named William S. Burroughs founded the American Arithmom
+tor named William S. Burroughs founded the American Arithmometer
 
 eter Company to sell mass-produced calculators to businesses around
 the country. (The fortune generated by those machines would help
@@ -2058,7 +2058,7 @@ plications, the Analytical Engine effectively disappeared from the
 
 map. Many of the pioneering insights that Babbage had hit upon
 
-in the 1830s had to be independently rediscovered by the visionar
+in the 1830s had to be independently rediscovered by the visionaries
 
 ies of World War II—eracomputer science.
 
@@ -2066,13 +2066,13 @@ Why did the Analytical Engine prove to be such a short-term
 
 dead end, given the brilliance of Babbage's ideas? The fancy way to
 
-say it is that his ideas had escapedthe bounds of the adjacent possible.
+say it is that his ideas had escaped the bounds of the adjacent possible.
 
 But it is perhaps better put in more prosaic terms: Babbage simply
 
 \
 
-didn't have the right spare parts.Even if Babbagehad built a machine
+didn't have the right spare parts.Even if Babbage had built a machine
 
 to his specs, it is unclear whether it would have worked, because Bab
 
@@ -2089,7 +2089,7 @@ ber and in the intricacy of their design. Information flowed through
 the system as a constant ballet of metal objects shifting positions in
 
 carefully choreographed movements. It was a maintenance night
-mare, but morethan that, it was boundto, be hopelessly slow. Babbage
+mare, but morethan that, it was bound to, be hopelessly slow. Babbage
 
 bragged to Ada Lovelace that he believed the machine would be able
 
@@ -2098,10 +2098,10 @@ was right—Babbage wouldn't havebeen the first tech entrepreneur
 
 to exaggerate his product's performance—that kind of processing
 
-time wouldhavemade executingmore complicated programstorturously slow. The first computers of the digital age could perform the
+time would have made executing more complicated programstorturously slow. The first computers of the digital age could perform the
 same calculation in a matter of seconds. An iPhone completes mil
 
-lionsof suchcalculations in the sameamountof time.Programmable
+lions of suchcalculations in the same amount of time.Programmable
 
 computers needed vacuum tubes, or, even better, integrated circuits,
 
@@ -2112,7 +2112,7 @@ You can see a comparablepattern—on a vastlyacceleratedtime
 
 table—in the story of YouTube. Had Hurley, Chen, and Karim tried
 
-to execute the exact same idea for YouTubeten years earlier, in 1995,
+to execute the exact same idea for YouTube ten years earlier, in 1995,
 it would havebeen a spectacular flop, because a siteforsharingvideo
 was not within the adjacent possible of the early Web. For starters,
 the vast majority of Web users were on painfully slow dial-up con
@@ -2124,13 +2124,13 @@ taken as much as an hour to download on the then-standard 14.4
 
 bps modems.) Another key to YouTube's early success is that its de
 
-velopers were able to base the video serving on Adobe's Flash plat
+developers were able to base the video serving on Adobe's Flash plat
 
 form, which meant that they could focus on the ease of sharing and
 
 discussingclips,and not spend millions of dollars developing a whole
 
-new video standard from scratch. But Flash itself wasnlt released
+new video standard from scratch. But Flash itself wasn't released
 
 until late 1996, and didn't even support video until 2002.
 
@@ -2144,7 +2144,7 @@ forward, to be sure, but as advanced as it was, the Difference Engine
 
 was still within the bounds of the adjacent possible, which is pre
 
-ciselywhy so many practical iterations of Babbage'sdesign emerged
+precisely why so many practical iterations of Babbage'sdesign emerged
 
 in the subsequent decades. But trying to create an Analytical Engine
 
@@ -2157,7 +2157,7 @@ but the environment wasn't ready for it yet.
 11 of us live inside our own private versions of the adjacent
 
 .possible. In our work lives, in our creative pursuits, in the or
-ganizations that employus, in the communities we inhabit—in all
+ganizations that employ us, in the communities we inhabit—in all
 
 these different environments, we are surrounded by potential new
 
@@ -2172,7 +2172,7 @@ biological diversity, or the invention of programmable computing.
 
 Unlocking a new door can lead to a world-changing scientificbreak-
 
-through, but it can alsolead to a more effectivestrategy for teaching
+through, but it can also lead to a more effectivestrategy for teaching
 
 second-graders, or a novel marketing idea for the vacuum cleaner
 
@@ -2182,7 +2182,7 @@ explore the edges of possibility that surround you. This can be as
 
 simple as changing the physical environment you work in, or culti
 
-vating a specific kind of social network, or maintaining certain hab
+cultivating a specific kind of social network, or maintaining certain hab
 
 its in the way you seek out and store information.
 
@@ -2200,11 +2200,11 @@ ways of recombining those parts. Environments that block or limit
 
 those new combinations—by punishing experimentation, by ob
 
-scuring certain branches of possibility, by making the current state
+obscuring certain branches of possibility, by making the current state
 
 so satisfying that no one bothers to explore the edges—will, on
 
-"average, generate and circulate fewer innovations than environr
+"average, generate and circulate fewer innovations than environ
 
 ments that .encourage exploration. The infinite variety of life that
 
@@ -2276,7 +2276,7 @@ you're not just recycling the same old ingredients. This, then, is
 
 , where the next six patterns of innovation will take us, because they
 
-all involve, in one way or another, tactics for assembling a more eclec- >
+all involve, in one way or another, tactics for assembling a more eclectic- >
 
 tic collection of building block ideas, spare parts that can be reas
 
@@ -2290,7 +2290,7 @@ II.
 
 sH'
 
-PTlhere are a dozen different metaphors we use colloquially to
+There are a dozen different metaphors we use colloquially to
 JL describe good ideas: we call them sparks, flashes, lightbulb
 
 moments; we have brainstorms and breakthroughs, eureka moments
@@ -2323,7 +2323,7 @@ going to try to explain the mystery of where ideas come from, we'll
 
 46 v
 
-have to start by shaking ourselves free of this common misconcep
+have to start by shaking ourselves free of this common misconception
 
 tion: an idea is not a single thing. It is more like a swarm.
 
@@ -2396,7 +2396,7 @@ network of neurons firing in some kind of orderly fashion. But that
 
 doesn't make it an epiphany. It turns out that good ideas have cer
 
-tain signature patterns in the networks that make thenv The creat
+tain signature patterns in the networks that make them The creat
 
 ing brain behaves differently from the brain that is performing a
 
@@ -2440,7 +2440,7 @@ distant galaxy, it, too, will turn out to be carbon-based.
 
 Why are we so confident about carbon's essential role in creating living things? The answer has to do with the core properties
 
-of the carbon atom itself. Carbon has four valence electrons resid
+of the carbon atom itself. Carbon has four valence electrons residing
 
 ing in the outermost shell of the atom, which, for complicated rea
 
@@ -2506,7 +2506,7 @@ two University of Chicago professors, Stanley L. Miller and Harold
 
 C. Urey, created a closed system of glass tubes and flasks that simu
 
-lated the early conditions of the prebiotic earth. The main ingredi
+lated the early conditions of the prebiotic earth. The main ingredients
 ents were methane (CH4), ammonia (NH3), hydrogen (H2), and
 water (H20). Onlythe methane contained carbon atoms. One flask
 
@@ -2578,17 +2578,17 @@ times as much silicon as it does carbon, and yet Mother Nature de
 
 cided to base life on the much rarer element.
 
-Silicon-based life may be impossible for one other reason: sili
+Silicon-based life may be impossible for one other reason: silicon
 
 con bonds readily dissolve in water. Most theories of life's origin
 
-depend on H20 not merelybecause hydrogen and oxygen are impor
+depend on H20 not merely because hydrogen and oxygen are impor
 
 tant elements in many organic compounds, but also because the
 
 environment of liquid water facilitated the early "chemistry exper
 
-iments" that led to the emergence of .life. The Miller-Urey experi
+experiments" that led to the emergence of .life. The Miller-Urey experi
 
 ment was, in a way, an attempt to test more rigorously a hunch that
 
@@ -2685,7 +2685,7 @@ to DNA. They were the first hints of life's good idea.
 
 T h e computer scientist Christopher Langton observed several
 
-decades ago that innovative systems have a tendency to gravi
+decades ago that innovative systems have a tendency to gravitate
 
 tate toward the "edge of chaos": the fertile zone between too much
 
@@ -2695,7 +2695,7 @@ the metaphor of different phases of matter—gas, liquid, solid—to
 
 describe these network states. Think of the behavior of molecules in
 
-each of these three conditions. In a gas, chaosrules; new configura
+each of these three conditions. In a gas, chaos rules; new configura
 
 tions are possible,but they are constantly being disrupted and torn
 
@@ -2703,7 +2703,7 @@ apart by the volatile nature of the environment. In a solid, the op
 
 posite happens:the patterns have stability, but they are incapable of
 
-change. But a liquid network createsa more promising environment
+change. But a liquid network creates a more promising environment
 
 for the system to explore the adjacent possible. New configurations
 
@@ -2817,7 +2817,7 @@ No doubt some ingenious hunter-gatherer stumbled acrossthe
 
 cleansing properties of ashes mixed with animal fat, or dreamed of
 
-building aqueducts in those long eons before the rise of cities, anpl
+building aqueducts in those long eons before the rise of cities, and
 
 "we simply have no record of his epiphany. But the lack of a record
 
@@ -2940,7 +2940,7 @@ the most urbanized region in all of Europe during the fourteenth
 
 and fifteenth centuries. But, in a crucial sense, the pattern of Re
 
-naissance innovation differs from that of the first cities: Michelan
+naissance innovation differs from that of the first cities: Michelangelo
 
 gelo, Brunelleschi, and da Vinci were emerging from a medieval
 
@@ -2968,7 +2968,7 @@ its own set of innovations in banking, accounting, and insurance. To
 
 be sure, capitalism accelerated the growth of the Italian cities, and
 
-created^surplus wealth that wasthen deployed to support artists and
+created^surplus wealth that was then deployed to support artists and
 
 architects like Michelangelo and Brunelleschi. But the connection
 
@@ -3094,7 +3094,7 @@ because they're connected to the network.
 
 n 1964, Arthur Koestler published his epic account of innova
 
-tion's roots, TheAct of Creation. The book was an attempt to
+tion's roots, The Act of Creation. The book was an attempt to
 
 explain how breakthrough ideas in science and art come about.
 
@@ -3138,10 +3138,10 @@ ideas are fashioned.
 
 Koestler was hardly alone in his interest in the roots of scientific
 
-breakthrough. Thomas Kuhn's even more influential book TheStruc
+breakthrough. Thomas Kuhn's even more influential book The Structure
 
 ture of Scientific Revolutions had been published two years before
-The Actof Creation.. Since those two books were published, count
+The The Act of Creation.. Since those two books were published, count
 
 less dissertations and scholarly essays have explored the psychology
 
@@ -3169,14 +3169,14 @@ Dunbar's research style was closer to the reality show Big Brother
 
 than it was to traditional philosophy of science. He set up cameras
 
-in four leading molecular biology laboratories and recorded as rriuch
+in four leading molecular biology laboratories and recorded as much
 
 of the action as possible. He also conducted extensive interviews in
 which the researchers described the latest developments in their
 
 experiments and their shifting hypotheses, all in the present tense.
 
-The taping and in rnedias res interviews allowed Dunbar to get
+The taping and in media res interviews allowed Dunbar to get
 
 around one of the major failings of traditional studies that rely on
 
@@ -3202,11 +3202,11 @@ them to track patterns in the flow of information through the lab.
 
 In group interactions, for instance, exchanges between scientists
 
-could be formally coded as "clarification" or "agreement and elab
+could be formally coded as "clarification" or "agreement and elaboration
 
 oration" or "questioning." Most important, Dunbar tracked the
 
-conceptual changes that occurredover the course of each project: a
+conceptual changes that occurred over the course of each project: a
 
 researcher baffled by persistent problems in achieving a stable con
 
@@ -3228,7 +3228,7 @@ an image in our heads of the scientist alone in the lab, hunched over
 
 a microscope, and stumbling across a major new finding. But Dun
 
-bar's study showed that those isolated eureka moments were rari
+bar's study showed that those isolated eureka moments were rarities
 
 ties. Instead, most important ideas emerged during regular lab
 
@@ -3284,7 +3284,7 @@ place, stuck in your own initial biases. The social flow of the group
 
 conversation turns that private solid state into a liquid network.
 
-unbar's generative conference room meetings remind us that
+Dunbar's generative conference room meetings remind us that
 
 the physical architecture of our work environments can have
 
@@ -3394,7 +3394,7 @@ Redmond, Washington—basedheadquarters of its research division:
 
 Building 99. Created by a Microsoft designer named Martha Clarkson after deep collaboration with the tinkerers and multidisciplinarians of the research division, Building 99 was created from the
 
-ground up to be reinvented by the unpredictable flow of collabora
+ground up to be reinvented by the unpredictable flow of collaboration
 
 tion and inspiration. All the office spaces are modular, with walls
 
@@ -3406,7 +3406,7 @@ projects, with a mix of private workstations, conference tables, and
 
 sofas. Most walls are write-on/wipe-off, so if inspiration hits on the
 
-way to the restroom, you'can quickly sketch out an idea for your
+way to the restroom, you can quickly sketch out an idea for your
 
 colleagues to see. The traditional kitchenette with a coffeepot and
 
@@ -3466,7 +3466,7 @@ Genoa, or even twentieth-century Greenwich Village. But office
 
 design is moving in that direction, away from the crystal palaces of
 
-Organization Man, with their corner offices and anonymous cubi
+Organization Man, with their corner offices and anonymous cubicles
 
 cles. And with that increased fluidity—all those new ideas jostling
 
@@ -3487,7 +3487,7 @@ III.
 THE SLOW HUNCH
 
 tn July 10, 2001, an Arizona-based FBI field agent named Ken
-/Williams filed an "electronic communication" with hissupe
+/Williams filed an "electronic communication" with his superiors
 
 riors in Washington and New York, using the Bureau's Automated
 
@@ -3513,7 +3513,7 @@ ing up to 9/11. (Ironically, the very day that Williams filed his memo,
 
 the New York Times ran an op-ed titled "The Declining Terrorist
 
-Threat.") Williamshad been inspiredto write the memo by a pattern
+Threat.") Williams had been inspired to write the memo by a pattern
 
 he had detected over the preceding year: an "inordinate number" of
 
@@ -3679,7 +3679,7 @@ taken months to cross-reference all the visa applications with the
 
 enrollment records for flight schools across the country. Detecting
 
-THESLOW HUNCH
+THE SLOW HUNCH
 
 such subtle patterns in real time was the unrealized goal of the
 
@@ -3705,7 +3705,7 @@ chitecture in place that could have successfully executed that kind
 
 of query in a matter of weeks. And so, by that standard, Ken Wil
 
-liams's hunch was not enough on its own to prevent 9/11.
+Williams's hunch was not enough on its own to prevent 9/11.
 
 But the Phoenix memo might well have been instrumental in
 
@@ -3717,7 +3717,7 @@ to collide with another hunch.
 
 E^ xactly one month after Ken Williams filed his memo, Zacarias
 
-JMoussaoui enrolled at Pan Am International Flight Academy
+Moussaoui enrolled at Pan Am International Flight Academy
 
 on the outskirts of St. Paul, Minnesota, where he began training to
 
@@ -3739,7 +3739,7 @@ Moussaoui was arrested on immigration violations at a motel on
 
 August 16. An interrogation convinced the field agents, led by
 
-Harry Samit and Greg Jones,that Moussaouiposed an active threat
+Harry Samit and Greg Jones,that Moussaoui posed an active threat
 
 and might be part of a wider conspiracy. The Minnesota office of
 
@@ -3771,9 +3771,9 @@ plot involving multiple radical Islamic fundamentalists could be
 
 intercepted by tracking visa applications and flight school enroll
 
-ment records; and the Minneapolis field agents' hunch that Mouss
+ment records; and the Minneapolis field agents' hunch that Moussaoui
 
-aoui wanted to fly a plane into the World Trade Center. (The latter
+Moussaoui wanted to fly a plane into the World Trade Center. (The latter
 
 began, of course, with another hunch: the Pan Am school instruc
 
@@ -3783,7 +3783,7 @@ interest in using a 747 simulator.) On their own, they were indeed
 
 hunches; 6n their own, the evidence for their validity was indeed
 
-shaky. But contemplating them together amplified their persua
+shaky. But contemplating them together amplified their persuasive
 
 sive power dramatically. Connecting the dots between them would
 
@@ -3795,7 +3795,7 @@ examined his belongings, they would have uncovered direct connec-
 
 7S
 
-tions to eleven of the 9/11 hijacker's, along with Western Union
+tions to eleven of the 9/11 hijackers, along with Western Union
 
 wire-transfer numbers tracking recent payments from Rama bin
 
@@ -3819,7 +3819,7 @@ The failed spark of the Phoenix memo suggests an answer to
 
 the mystery of superlinear scaling in cities and on the Web. A me
 
-tropolis shares one key characteristic with the Web: both environ
+metropolis shares one key characteristic with the Web: both environ
 
 ments are dense, liquid networks where information easily flows
 
@@ -3869,7 +3869,7 @@ locked file cabinet. Hunches that don't connect are doomed to stay
 
 hunches.
 
-Y 1 Ihere is a fundamental difference between the Phoenix and
+Y 1 There is a fundamental difference between the Phoenix and
 JL Minnesota hunches, though, and that difference is time. The
 flight instructors had a bad feeling about Moussaoui in a matter of
 
@@ -3905,7 +3905,7 @@ the power (and the occasional danger) of the instant hunch: the art
 
 historian who knows in a second that the ancient sculpture is a
 
-fraud; the NYPD officerwho makes a disastroussnap judgment that
+fraud; the NYPD officer who makes a disastrous snap judgment that
 
 a suspect is reaching for a gun when he is actually reaching for his
 
@@ -3961,7 +3961,7 @@ one of the founding discoveries of modern ecosystem science—he
 
 was building on a hunch that he'd been cultivating for twenty years,
 
-dating back to his boyhood obsessionwith trapping spiders in" glass
+dating back to his boyhood obsession with trapping spiders in" glass
 
 jars. He'd had a hunch that there was something interesting in the
 
@@ -3979,7 +3979,7 @@ hundreds of novel experiments in his home lab, engaged in exten
 
 sive conversations with the leading intellectuals of the day. A mi
 
-nuscule percentage of that time was devoted directly to the problem
+minuscule percentage of that time was devoted directly to the problem
 
 of plant respiration. He just kept it alive in the back of his mind.
 
@@ -4017,7 +4017,7 @@ In October 1838, that is, fifteen months after I had begun my
 
 systematic enquiry, I happened to read for amusement Malthus on Population, and being well prepared to appreciate the
 
-struggle for existence which everywhere goes on from longcontinued observation of the habits of animals and plants, it at
+struggle for existence which everywhere goes on from long continued observation of the habits of animals and plants, it at
 
 once struck me that under these circumstances favourable varia
 
@@ -4055,7 +4055,7 @@ had been inspired by Malthus as well.
 
 For almost a century, the Malthusian epiphany was the ca
 
-nonical story of Darwinism's roots. But in the early 1970s, a psy
+canonical story of Darwinism's roots. But in the early 1970s, a psy
 
 chologist and intellectual historian named Howard Gruber decided
 
@@ -4125,7 +4125,7 @@ to grapple with the fundamental elements of the theory:
 
 Population is increase at geometrical ratio in FAR SHORTER
 
-time than 25 ... The final causeof all this wedging,must be to
+time than 25 ... The final cause of all this wedging,must be to
 
 sort out proper structure, and adapt it to change.—to do that for
 
@@ -4133,9 +4133,9 @@ form, which Malthus shows is the final effect (by means how
 
 ever of volition) of this populousness on the energy of man. One
 
-may say there is a forcelike a hundred thousand wedgestrying
+may say there is a forcelike a hundred thousand wedges trying
 
-[to] force everykind of adapted structure into the gaps in the
+[to] force every kind of adapted structure into the gaps in the
 
 economy of nature, or rather forming gaps by thrusting out
 
@@ -4219,7 +4219,7 @@ According to Darwin's own account, he didn't really lock on to
 
 the tantalizing puzzle of the finches and their exotic neighbors until
 
-the next spring, just as the Beaglewas finding safe harbor in the Keel
+the next spring, just as the Beagle was finding safe harbor in the Keel
 
 ing Islands. His journal for 1837 includes the line: "In July opened
 
@@ -4249,7 +4249,7 @@ pass in and out of our memory too quickly, precisely because they
 
 possess a certain murkiness. You get a feeling that there's an inter
 
-esting avenue to explore, a problem that might s6meday lead you
+esting avenue to explore, a problem that might s6someday lead you
 
 to a solution, but then you get distracted by more pressing matters
 
@@ -4283,11 +4283,11 @@ Somewhere in the middle of the Indian Ocean, a train of association
 
 compels him to revisit his notes on the fauna of the Galapagos archi
 
-pelago from five months before.Ashe reads through his observations,
+archipelago from five months before.Ashe reads through his observations,
 
 a new thought begins to take shape in his mind, which provokes a
 
-whole new set of notes that will onlymake complete senseto Darwin
+whole new set of notes that will only make complete sense to Darwin
 
 two years later, after the Malthus episode.
 
@@ -4359,7 +4359,7 @@ then write under the word Epistola in that page what I have to
 
 remark.
 
-Locke's method proved sopopular that a centurylater, an en
+Locke's method proved so popular that a century later, an en
 
 terprising publisher named John Bell printed a notebook entitled
 
@@ -4443,7 +4443,7 @@ beginning to end, early modern Englishmen read in fits and
 
 starts and jumped from book to book. They broke texts into
 
-fragments and assembled them into new patterns by transcrib
+fragments and assembled them into new patterns by transcribing
 
 ing them in different sections of their notebooks. Then they
 
@@ -4467,7 +4467,7 @@ hunches: the ones that turned out to be red herrings; the ones that
 
 turned out to be too obvious to write; even the ones that turned into
 
-entire books. But each encounter holds the promise that some longforgotten hunch will connect in a new way with some emerging
+entire books. But each encounter holds the promise that some long forgotten hunch will connect in a new way with some emerging
 
 obsession. The beauty of Locke?s scheme was that it provided just
 
@@ -4489,7 +4489,7 @@ categories can build barriers between disparate ideas, restrict them
 
 to their own conceptual islands. This is one way in which the human
 
-histbry of innovation deviates from the natural history. New ideas
+history of innovation deviates from the natural history. New ideas
 
 do not thrive on archipelagos.
 
@@ -4505,31 +4505,31 @@ text for the book, first published in 1865, hints at the immense col
 
 lection of domestic resources it contained:
 
-Whetheryou wish tomodel a,flower in wax; tostudytherules of
+Whether you wish to model a,flower in wax; tostudytherules of
 
 etiquette; to serve a relish for breakfast or supper; to supply a
 
-delicious entriefor the dinner table; toplana dinnerfor a large
+delicious entree the dinner table; plan dinner for a large
 
 party or a small one; to cure a headache; to make a will; to get
 
-married; to bury a relative; whateveryou may wish to do, to
+married; to bury a relative; whatever you may wish to do, to
 
-make, or to enjoy,providedyour desire has relation to the neces
+make, or to enjoy,provided your desire has relation to the neces
 
-sitiesof domestic life,I shallbehappytoassistyou and therefore
+necessities of domestic life,I shallbehappytoassistyou and therefore
 
-hope you will notfail toEnquire Within—Editor.
+hope you will not fail to Enquire Within—Editor.
 
-Over a hundred editions of tfye guide were published, and it
+Over a hundred editions of the guide were published, and it
 
 remained a common staple of British households well into the
 
-twentieth cepitury. One musty copy of the book lingered into the
+twentieth century. One musty copy of the book lingered into the
 
 1960s, in the home of a pair of mathematicians living in the sub
 
-urbs of London. The couple had a young son who was drawn to the
+suburbs of London. The couple had a young son who was drawn to the
 
 "suggestion of magic" in the book's title, and who spent hours ex
 
@@ -4665,7 +4665,7 @@ of newsgroups on the Internet, Berners-Lee was able to supplement
 
 and refine his ideas by conversing with other early hypertext in
 
-novators. That combination of flexibility and connection gave Ber-
+innovators. That combination of flexibility and connection gave Ber-
 
 ners-Lee critical support for his idea. He needed a work environment
 
@@ -4699,9 +4699,9 @@ queries of the entire Web, with near-instantaneous results. Had the
 
 information network automatically suggested that the Radical Fun
 
-damentalist Unit officials read the Phoenix memo after the Min
+fundamentalist Unit officials read the Phoenix memo after the Min
 
-nesota office began its investigation into Moussaoui, the last few
+Minnesota office began its investigation into Moussaoui, the last few
 
 weeks of summer might have played out very differently. But how
 
@@ -4745,7 +4745,7 @@ on secrets and "need to know" restrictions. The final report of the
 
 Judiciary Committee investigation into the intelligence failings in
 
-the months prior to 9/11 explicitly citedthis design principle of the
+the months prior to 9/11 explicitly cited this design principle of the
 
 Bureau's information network as one of the key culprits, calling it
 
@@ -4771,7 +4771,7 @@ working on their own hunches. Tim Berners-Lee's monumental
 
 vision at CERN was a tangled web of data, a "swirling together
 
-of influences,videas, and realizations from many sides." The Auto
+of influences,ideas, and realizations from many sides." The Auto
 
 mated Case Support system wasn't just incompetent at creative
 
@@ -4781,7 +4781,7 @@ tangle; the system was explicitly designed to eliminate it.
 
 ""n 1980, to allude to Enquire Within Upon Everything in the
 
--name of your software package was more than a little auda
+-name of your software package was more than a little audacious
 
 cious; Berners-Lee was just trying to keep track of his colleagues at
 
@@ -4801,7 +4801,7 @@ in its history, Google famously instituted a "20-percent time" pro
 
 gram for all Google engineers: for every four hours they spend
 
-working on official company projects, the engineers are requiredto
+working on official company projects, the engineers are required to
 
 spend one hour on their own pet project, guided entirely by their
 
@@ -4831,7 +4831,7 @@ their total for the year. Orkut, one of the largest social network sites
 
 in India and Brazil, originated in the Innovation Time Off of a
 
-Turkish Google engineer named Orkut Biiyukkokten. Google's pop-
+Turkish Google engineer named Orkut Büyükkökten. Google's pop-
 
 ular mail platform, Gmail, has roots in an Innovation Time Off
 
@@ -4842,7 +4842,7 @@ Products and User Experience, claims that over 50 percent of
 Google's new products derive from Innovation Time Off hunches.
 
 The most telling contrast between Google and the FBI lies in
-the story oi Kxishna Bharat, who now holds the title of "principal
+the story oi Krishna Bharat, who now holds the title of "principal
 scientist" at Google. In the weeks after 9/11, Bharat found himself
 
 overwhelmed by the amount of news information available about
@@ -5122,7 +5122,7 @@ tory of science. In 1865, the German chemist Friedrich August
 
 Kekule von Stradonitz had a daydream by a crackling fire in which
 
-he sawa visionof Ouroboros, the serpent from Greek mythology that
+he saw vision of Ouroboros, the serpent from Greek mythology that
 
 devours its own tail. Kekule had spent the past ten years of his life
 
@@ -5178,7 +5178,7 @@ phase-locking—millions of neurons pulsing in perfect rhythm. But
 
 the brain also seems to require the opposite: regular periods of elec
 
-trical chaos, where neurpns are completely out of sync with each
+trical chaos, where neurons are completely out of sync with each
 
 other. If you follow the various frequencies of brain-wave activity
 
@@ -5218,15 +5218,15 @@ Thatcher's study suggests a counterintuitive notion: the more
 
 10S
 
-disorganized your brain is, the smarter you are. It's counterintui
+disorganized your brain is, the smarter you are. It's counterintuitive
 
 tive in part because we tend to attribute the growing intelligence
 
-of the technology world with increasingly precise electromechani
+of the technology world with increasingly precise electromechanical
 
 cal choreography. Intel doesn't advertise its latest microprocessors
 
-with the slogan: "Every 55 milliseconds, our chips erupt into a bliz
+with the slogan: "Every 55 milliseconds, our chips erupt into a blizzard
 
 zard of noise!" Yet somehow brains that seek out that noise seem to
 
@@ -5246,7 +5246,7 @@ goes) is where the brain executes an established plan or habit. The
 
 chaos mode is where the brain assimilates new information, ex
 
-ploresstrategies forresponding to a changedsituation. In this sense,
+ploresstrategies for responding to a changedsituation. In this sense,
 
 the chaos mode is a kind of background dreaming: a wash of noise
 
@@ -5258,7 +5258,7 @@ dreams, 55 milliseconds at a time.
 
 William James, writing in the late 1880s,had no way of mea
 
-suring synchronizedneuron firing, but his descriptionof the "high
+measuring synchronizedneuron firing, but his description of the "high
 
 est order of minds" captures something of the chaos mode:
 
@@ -5274,7 +5274,7 @@ seething caldron of ideas, where everything is fizzling and bob-
 
 . STEVEN JOHNSON
 
-bing aboutin a state of bewildering activity, where partnerships
+bing about in a state of bewildering activity, where partnerships
 
 can be joined or loosened in an instant, treadmill routine is un
 
@@ -5282,29 +5282,29 @@ known, and the unexpected seems the only law.
 
 Th e act of sexual reproduction is itself a kind of testament to
 
-the power of random connections, even in the most monoga
-mousrelationships. The overwhelming majorityof nohmicroscopic
+the power of random connections, even in the most monogamous
+mousrelationships. The overwhelming majority of microscopic
 life on earth produces offspring by sharing genes with another or
 
 ganism. But the evolution of this reproductive strategy remains
 
 something of a mystery. It would have been far easier for life to have
 
-avoidedthe complicated genetic exchanges of meiosis and fertiliza
-tion. (Thinkof the elaborate system that the flowering plants had
-to evolve, luring insects to take on the task of carryingpollen from
+avoided the complicated genetic exchanges of meiosis and fertilization
+tion. (Think of the elaborate system that the flowering plants had
+to evolve, luring insects to take on the task of carrying pollen from
 flower to flower.) Reproduction without sex is a simple matter of
 cloning; you take your own cells, make a copy, and pass that on to
 
 your descendants. It doesn't sound like much fun to our mammalian
 
-ears, but it's a strategythat has worked verywell for billionsof years
+ears, but it's a strategy that has worked very well for billions of years
 for bacteria. Asexual reproduction is faster and more energy effi
 
 cient than the sexual variety: you don't need to go to the trouble of
 finding a partner in order to create the next generation.
 
-If natural selection rewarded organisms exclusivelyfor sheer
+If natural selection rewarded organisms exclusively for sheer
 
 reproductive power, sexual reproduction might never have evolved.
 
@@ -5316,11 +5316,11 @@ tion, every organism is capable of producing offspring directly. But
 
 evolution is not just a game of sheer quantity. Overpopulation, after
 all, poses its own dangers, and a community of organisms with
-identical DNAmakes a prime target for parasites or predators. For
+identical DNA makes a prime target for parasites or predators. For
 
 these reasons, natural selection also rewards innovation, life's ten
 
-dency to discovernew ecologicalniches, new sources of energy. This
+dency to discover new ecologicalniches, new sources of energy. This
 
 is what Stuart Kauffman recognized when he first formulated the
 
@@ -5328,11 +5328,11 @@ idea of the adjacent possible:that there is something like an essen
 
 tial drive in the biosphere to diversify into new ways of making a
 
-living. Scrambling together two distinct sets of DNAwith each gen
+living. Scrambling together two distinct sets of DNA with each gen
 
 eration made for a far more complicated reproductive strategy, but
 
-it paid immense dividendsin the rate of innovation. What we gave
+it paid immense dividends in the rate of innovation. What we gave
 
 up in speed and simplicity, we made up for in creativity.
 
@@ -5370,9 +5370,9 @@ lenges. Reproducing asexually makes perfect sense during pros
 perous periods: if life is good, keep doing what you're doing. Don't
 
 mess with success by introducing new genetic combinations. But
-when the worldgetsmore challenging—scarce resources, predators,
-parasites—you need toinnovate. Andthequickest path toinnovation
-lies in makingnovel connections. This strategy of switching back
+when the world gets more challenging—scarce resources, predators,
+parasites—you need to innovate. And the quickest path to innovation
+lies in making novel connections. This strategy of switching back
 and forth between asexual and sexual reproduction goes by the
 
 name "heterogamy," and while it is unusual, many different or
@@ -5381,7 +5381,7 @@ ganisms have adopted it. Slime molds, algae, and aphids have all
 evolved heterogamous reproductive strategies. In each organism,
 the Daphnia pattern repeats itself: the genetic recombinations of
 
-sex emerge when conditionsget difficult. Swapping genes with an
+sex emerge when conditions get difficult. Swapping genes with an
 other organism is itself more difficult than simple cloning, but the
 
 innovation rewards of sex outweigh the risks of the more stable
@@ -5414,7 +5414,7 @@ overlooked. If you're a geologist randomly exploring the Web, and
 
 the particular isle of Serendip that you stumble across turns out to
 
-be an essay on health-care reform, your discoverymay well be in
+be an essay on health-care reform, your discovery may well be in
 
 teresting and informative, but it will not be truly serendipitous
 
@@ -5463,23 +5463,23 @@ distinct thoughts that each occupied a slot in his memory banks:
 the riddle of benzene's molecular structure, andthe tail-swallowing
 
 Ouroboros. The truth is, your mind contains a near-infinite number
-of ideas and memories that at anygiven momentare lurking outside
+of ideas and memories that at any given moment are lurking outside
 your consciousness. Some tiny fraction of those thoughts are like
-Kekule's serpent: surprising connections that might help youunlock
-a door in the adjacent possible. But howdo you get those particular
+Kekule's serpent: surprising connections that might help you unlock
+a door in the adjacent possible. But how do you get those particular
 clusters of neurons to fire at the right time?
 
-One way isto go for a walk. Thehistory of innovation isreplete
-with stories of good ideas that occurred to people whilethey wereout
-ona stroll. (Asimilar phenomenon occurs withlongshowers orsoaks
+One way isto go for a walk. The history of innovation is replete
+with stories of good ideas that occurred to people while they were out
+ona stroll. (A similar phenomenon occurs withlongshowers or soaks
 in a tub; in fact, the original "eureka" moment—Archimedes hitting
-upon a wayof measuring the volume of irregularshapes—occurred
-in a bathtub.) The shower or stroll removes youfrom the task-based
+upon a way of measuring the volume of irregularshapes—occurred
+in a bathtub.) The shower or stroll removes you from the task-based
 focus of modern life—-paying bills, answering e-mail, helping kids
 with homework—and deposits you in a more associative state. Given
 
 enough time, your mind will often stumble across some old connec
-tion that it had longoverlooked, and youexperience that denghtful
+tion that it had long overlooked, and you experience that delightful
 feeling of private serendipity: Why didn't I think of that before?
 
 In his book The Foundations of Science, the French mathema
@@ -5490,7 +5490,7 @@ gins with a detailed account of how Poincare discovered the class of
 
 Fuchsian functions, one of the first influential mathematical con
 
-cepts of his career. He begins by attempting to provethat the func
+cepts of his career. He begins by attempting to prove that the func
 
 tions do not exist; for fifteen days he struggles at his desk with no
 
@@ -5498,16 +5498,16 @@ success. Then one evening he breaks from his ordinary routine and
 drinks black coffee. Unable tosleep, hismindseethes withpromising
 
 hunches. "Ideas rose in crowds," Poincare writes. "I felt them collide
-until pairs interlocked, soto speak, makinga stablecombination. By
-the next morning I had established the existenceof a class of Fuchsian functions, those which come from the hypergeometric series."
+until pairs interlocked, soto speak, making a stablecombination. By
+the next morning I had established the existence of a class of Fuchsian functions, those which come from the hypergeometric series."
 
 His next insight—a connection between the functions and non-
 
 Euclidean geometry—comes several weeks later, while boarding a
 
-bus during a geological expeditionin Normandy. On his return home,
+bus during a geological expedition in Normandy. On his return home,
 
-he commences work on an unrelated arithmetical question and floun
+he commences work on an unrelated arithmetical question and flounders
 
 ders for several days. "Disgusted with my failure," he writes, "I went
 to spend a few days at the seaside, and thought of something else.
@@ -5545,7 +5545,7 @@ reaches for an atomic metaphor, with each partial idea or hunch
 
 represented by an atom hooked to a wall. In normal situations, the
 
-atoms remain in place,lockedinto a stable configuration. But when
+atoms remain in place,locked into a stable configuration. But when
 the mind wanders (and, in Poiricare's case, when the physical body
 wanders), the atoms become untethered. "During a period of ap
 
@@ -5554,7 +5554,7 @@ parent rest and unconscious work, certain of them are detached
 from the wall and put in motion. They flash in every direction
 
 through the space ... where they are enclosed, as would, for ex
-ample, a swarm of gnats or, if you prefer a morelearned compari
+ample, a swarm of gnats or, if you prefer a more learned compari
 son, like the molecules of gas in the kinematic theory of gases.
 Then their mutual impacts may produce new combinations."
 
@@ -5565,11 +5565,11 @@ binations of existing ideas in our heads, we can also cultivate ser
 endipity in the way that we absorb new ideas from the outside
 
 world. Reading remains an unsurpassed vehicle for the transmis
-sion of interesting new ideasand perspectives. But those of us who
-aren't scholars or involved in the publishing business are onlyable
+sion of interesting new ideas and perspectives. But those of us who
+aren't scholars or involved in the publishing business are only able
 to block out time to read around the edges of our work schedule:
 listening to an audio book during the morning commute, or taking
-in a chapter afterthe kids aredown. The problem with assimilating
+in a chapter afterthe kids are down. The problem with assimilating
 new ideas at the fringes of your daily routine is that the potential
 combinations are limited by the reach of your memory. If it takes
 
@@ -5579,7 +5579,7 @@ about the original one. You can immerse yourself in a single au
 thor's perspective, but then it's harder to createserendipitous colli
 sions between the ideas of multiple authors. One way around this
 limitation is to carve out dedicated periods where you read a large
-and varied collection of books and essaysin a condensed amount of
+and varied collection of books and essays in a condensed amount of
 time. Bill Gates (and his successor at Microsoft, Ray Ozzie) are fa-
 
 mous for taking annual reading vacations. During the year they
@@ -5602,7 +5602,7 @@ six months ago.
 
 In Poincare's language, the deep dive, like the long stroll, de
 
-taches the atoms from the wall and puts them in motion. Most of
+detaches the atoms from the wall and puts them in motion. Most of
 
 us don't have the luxury of taking deep dive reading sabbaticals,
 
@@ -5610,36 +5610,36 @@ of course, and reading a few thousand pages is not everyone's idea
 
 of a fun vacation. But there's no reason why organizations couldn't
 
-recognize the value of a reading sabbatical, the waymany organiza
+recognize the value of a reading sabbatical, the way many organiza
 
 tions encourage their employees to take time off for learning new
 
 skills. If Google can give its engineers one day a week to work on
 
 anything they want, surely other organizations can figure out a way
-to givetheir employees dedicated time to immerse themselvesin a
+to give their employees dedicated time to immerse themselvesin a
 
 network of new ideas.
 
 "'F^rivate serendipity can be cultivated by technology as well. For
--L morethan a decade now, I have beencurating a private digital
+-L morethan a decade now, I have been curating a private digital
 archive of quotes that I've found intriguing, my twenty-first-century
 version of the commonplace book, Some of these passages involve
 very focused research on a specificproject; others are more random
 
 discoveries, hunches waiting to make a connection. Some of them
 
-are passagesthat I've transcribed from booksor articles; others were
+are passages that I've transcribed from books or articles; others were
 
 clipped directly from Web pages. (In the past few years, thanks to
 Google Books and the Kindle, copying and storinginterestingquotes
 from a book has grown far simpler.) I keep all these quotes in a da
 
-tabase using a program called DEVONthink, where I also store my
+database using a program called DEVONthink, where I also store my
 own writing: chapters, essays, blog posts, notes. By combining my
 
 own words with passages from other sources, the collection becomes
-somethingmore than justa file storage system. It becomes a digital
+something more than justa file storage system. It becomes a digital
 
 extension of my imperfect memory, an archive of all my old ideas,
 
@@ -5648,7 +5648,7 @@ and the ideas that have influenced me. There are now more than
 five thousand distinct entries in that database, and more than 3 mil
 
 lion words—sixty books' worth of quotes, fragments, and hunches,
-all individually capturedby me, storedin a single database.
+all individually captured by me, stored in a single database.
 
 Having all that information available at my fingertips is not
 just a quantitative matter of finding my notes faster. Yes, when I'm
@@ -5678,7 +5678,7 @@ systems. Because the software had detected that the word "waste"
 
 is often used alongside '*sewage," it directed me to a quote that
 explained the way bones evolved in vertebrate bodies: namely, by
-repurposingthe calciumwasteproducts createdby the metabolism
+repurposing the calciumwasteproducts created by the metabolism
 
 of cells. At first glance that might seem like an errant result, but it
 
@@ -5687,7 +5687,7 @@ sent me off on a long and fruitful tangent into the way complex
 systems—whether cities or bodies—find productive uses for the
 
 waste they create. That idea became a central organizing theme for
-one of the chapters in the cholerabook. (It will, in fact, reappear in
+one of the chapters in the cholera book. (It will, in fact, reappear in
 
 this book in a different guise.)
 
@@ -5696,7 +5696,7 @@ Now, strictly speaking,who wasresponsiblefor that initial idea?
 Was it me, or the software? It sounds like a facetious question, but I
 
 mean it seriously. Obviously, the computer wasn't conscious of the
-idea taking shape, and I supplied the conceptual gluethat linked the
+idea taking shape, and I supplied the conceptual glue that linked the
 
 London sewers to cell metabolism. But I'm not at all confident that
 
@@ -5704,20 +5704,20 @@ I would have made the initial connection without the help of the
 
 software. The idea was a true collaboration, two very different kinds
 
-of intelligence playingoff one another, one carbon-based, the other
+of intelligence playing off one another, one carbon-based, the other
 
 silicon* When I'd first captured that quote about calcium and bone
 
 structure, I'd had no idea that it would ultimately connect to the his
-tory of London's sewage system (orto a book about innovation). But
-there was something aboutthat concept that intrigued me enough to
+tory of London's sewage system (or to a book about innovation). But
+there was something about that concept that intrigued me enough to
 
 store it in the database. It lingered there for years in the software's
 
 primordial soup, a slow hunch waiting for its connection.
 
 I use DEVONthink as an improvisational tool as well. I write
-a paragraph aboutsomething—let's sayit's aboutthe human brain's
+a paragraph about something—let's say it's aboutthe human brain's
 
 remarkable facility for interpreting facial expressions. I then plug
 
@@ -5731,10 +5731,10 @@ ary history of the smile, others dealing with the expressiveness of
 
 our near-relatives,the chimpanzees. Invariably, one or two of these
 
-triggersa new association in my head—perhapsI've forgottenabout
-the chimpanzeeconnection—and soI selectthat quote,and askthe
+triggers a new association in my head—perhapsI've forgotten about
+the chimpanzeeconnection—and soI select that quote,and ask the
 software to find a new batch of passages similar to it, Before long,
-a larger ideatakes shape in my head,built upon the trail of associa
+a larger idea takes shape in my head,built upon the trail of associa
 
 tions the machine has assembled for me.
 
@@ -5742,14 +5742,14 @@ Compare that to the traditional way of exploring your files,
 
 where the computer is like a dutiful, but dumb, butler: "Find me that
 
-documentabout the chimpanzees!" That'ssearching. The other feels
-radically different, sodifferentthat we don'tquite havea verb for it:
-it's riffing, or exploring. There are false starts andred herrings, but
+document about the chimpanzees!" That'ssearching. The other feels
+radically different, sodifferentthat we don't quite have a verb for it:
+it's riffing, or exploring. There are false starts and red herrings, but
 there are just as many happy accidents and unexpected discoveries.
-Indeed,the fuzziness of the results is partof what makesthe software
+Indeed,the fuzziness of the results is part of what makes the software
 
 so powerful. The serendipity of the system emerges out of two dis
-tinct forces. First, thereisthe connective power of the semantic algo
+tinct forces. First, there is the connective power of the semantic algo
 rithm, which is smart but also slightly unpredictable, thus creating
 a small amount of randomizing noise that makes the results more
 
@@ -5762,14 +5762,14 @@ When you start a new query in DEVONthink and look down at the
 
 initial results, at first glance they can sometimes seem jumbled and
 
-disconnected, but then you readthrough them in more detail, and in
+disconnected, but then you read through them in more detail, and in
 
-evitably something tantalizing catchesyour eye. "Jumbled" and "dis
+inevitably something tantalizing catches your eye. "Jumbled" and "dis
 
 connected" is of course also how we describe the strange explorations
 of our dreams, and the comparison is an apt one.DEVONthink takes
 
-the strange but generative combinations of the dream stateandturns
+the strange but generative combinations of the dream state and turns
 
 them into software.
 
@@ -5777,8 +5777,8 @@ them into software.
 
 .click away from entries on LSD, Teflon, Parkinson's disease, Sri
 
-Lanka, Isaac Newton, Viagra, and abouttwo hundred other topics of
-comparable diversity. That eclecticism is particularly acuteat Wiki
+Lanka, Isaac Newton, Viagra, and about two hundred other topics of
+comparable diversity. That eclecticism is particularly acute at Wiki
 pedia, of course, but it derives from the fundamentally "tangled"
 
 nature of Tim Berners-Lee's original hypertext architecture. No
@@ -5788,9 +5788,9 @@ medium in history has ever offered such unlikely trails of connec
 tion and chance in such an intuitive and accessible form. Yet in re
 
 cent years, a puzzling meme has emerged on op-ed pages with a
-strange insistence: the riseof the Web, its proponents argue, hasled
+strange insistence: the riseof the Web, its proponents argue, has led
 to a decline in serendipitous discovery. Consider this representative
-elegyto the "endangered joyof serendipity," authored by a journal
+elegy to the "endangered joy of serendipity," authored by a journal
 
 ism professor named William McKeen:
 
@@ -5806,7 +5806,7 @@ there—exactly what you're looking for. It's efficient, but dull.
 
 You miss the time-consuming but enriching act of looking
 
-through shelves, of pulling down a book becausethe title inter
+through shelves, of pulling down a book because the title inter
 
 ests you, or the binding . . . Looking for something and being
 
@@ -5824,10 +5824,10 @@ reading that now arrives on our screen every morning via social
 
 network services like Twitter and Facebook, but claimed those links
 
-didn't constitute serendipity. "[They're]reallygroup-think," Darlin
+didn't constitute serendipity. "[They're]really group-think," Darlin
 
 argued. "Everything we need to know comes filtered and vetted.
-We are discovering what everyone elseis learning, and usuallyfrom
+We are discovering what everyone else is learning, and usually from
 
 people we have selected because they share our tastes."
 
@@ -5839,22 +5839,22 @@ one: browsing the stacks in a library (ora bookstore), "pulling down
 a book because the title interests you, or the binding." Old-style
 
 browsing does indeed lead to unplanned discoveries. But thanks to
-the connective nature of hypertext, and the blogosphere's explor
+the connective nature of hypertext, and the blogosphere's exploratory
 atory hunger for finding new stuff, it is far easier to sit down in
 front of your browser and stumble across something completely
-brilliantbut surprising than it is to walk through a library, looking
+brilliant but surprising than it is to walk through a library, looking
 at the spines of books. Does everyone use the Web this way? Of
 
 course not. But it is much more of a mainstream pursuit than ran
 
 domly exploring the library stacks, pulling down booksbecauseyou
-like the binding, ever was. This is the irony of the serendipityde
+like the binding, ever was. This is the irony of the serendipity debate
 bate: the thing that is being mourned has actually gone from a
 
 fringe experience to the mainstream of the culture.
 
 The second analog-era mechanism that encourages serendip
-ity involves the physical limitations of the print newspaper, whicrr
+ity involves the physical limitations of the print newspaper, which
 
 forces you to pass by a collection of artfully curated stories on a
 
@@ -5876,14 +5876,14 @@ ful about people living halfway around the world whose existence
 
 you had never contemplated before.And perhaps there is some kind
 
-of serendipitous clickin that collision: you'd been looking for a new
+of serendipitous click in that collision: you'd been looking for a new
 
 charitable cause to support, or contemplating buying your spouse a
 
 diamond ring. And then this story drops in your lap, and helps you
 complete the thought. You weren't looking for a story about dia
 
-mond mines, but it was exactly what you'needed.
+diamond mines, but it was exactly what you needed.
 
 This is indeed a superb example of serendipity,and there is no
 
@@ -5893,9 +5893,9 @@ countless times over countless breakfast tables during their heyday.
 
 The question is whether the transition to the Web makes this sort
 
-of discoverymore or less frequent. If you compare the front pages
+of discovery more or less frequent. If you compare the front pages
 of the print and online versions of a newspaper, the Web actually
-appearsto havethe upper hand. The Internet scholarEthan Zuckerman compared the front page of the New York Times with that
+appears to havethe upper hand. The Internet scholar Ethan Zuckerman compared the front page of the New York Times with that
 
 of its Web cousin and found that the print version had twenty-three
 
@@ -5924,20 +5924,20 @@ of people use comparable filters every morning. One could reason
 
 ably question whether people like this who have gone out of their
 
-wayto avoidencountering the "big picture" of the newspaperfront
+wayto avoidencountering the "big picture" of the newspaper front
 
 page were ever likely to stumble across the diamond-mining story
 at the breakfast table with a print paper, or ramble through the
 
 stacks of their local library. But Sunstein and Darlin and McKeen
-are indeed correct when they argue that the Internet gives us topi
+are indeed correct when they argue that the Internet gives us topical
 
-cal filters that were unheard of in the daysof massmedia. But those
-filters are onlypart of the story. Filters reduce serendipity (unless
+cal filters that were unheard of in the days of mass media. But those
+filters are only part of the story. Filters reduce serendipity (unless
 your particular interest lies in being surprised, which is part of the
 appeal of beautifully miscellaneous blogs like Boing Boing). But
 
-beyond bookrharking,filters are a second-generationaddition to the
+beyond bookmarking,filters are a second-generationaddition to the
 
 architecture of the Web. They are not native to it. What is native to
 the Web's architecture are two key features that have been great
@@ -5954,7 +5954,7 @@ tion diversity of the Web ensures that there is an endless supply of
 surprising information to stumble across, and the links of hypertext
 ensure that we can get to that information at lightning speed, or
 follow trails of improvised association that would have been pain
-fully slowto follow in the age of print media. Ironically, the problem
+fully slow to follow in the age of print media. Ironically, the problem
 
 with the Web is that there's too much noise, too much chaos—that's
 
@@ -5966,7 +5966,7 @@ because we have too little.
 
 I happen to believe that the Web, as a medium, has pushed the
 
-culture toward more serendipitious encounters. The simple fact
+culture toward more serendipitous encounters. The simple fact
 
 that information "browsing" and "surfing" are now mainstream
 
@@ -6026,7 +6026,7 @@ base of intentions.") But often that investment is directly correlated
 
 with your ignorance about the topic at hand: someone mentions in
 
-passing the poetry of John Ashbery,or the television showArrested
+passing the poetry of John Ashbery,or the television show Arrested
 
 Development, or the tail-swallowing Ouroboros, and you think:
 
@@ -6052,13 +6052,13 @@ car, drive fifteen minutes down to your public library and check out
 
 a book on the subject? Go through all the magazines in your house,
 
-scouring their table-of-contents pages for any climate-changerelated articles?
+scouring their table-of-contents pages for any climate-climate changerelated articles?
 
 Let's say you live in a particularly information-rich household
 
 for the standards of 1980, and you happen to have a copy of the
 
-Encyclopcedia Britannica, But of course the version you bought is
+Encyclopedia Britannica, But of course the version you bought is
 
 actually the 1976 edition, and global warming doesn't make it into
 
@@ -6130,7 +6130,7 @@ new ideas, because those restrictions will allow the creators to collect
 
 large financial rewards from their inventions. And those rewards
 
-will then attract other innovatorsto follow in their path.4
+will then attract other innovators to follow in their path.4
 
 The problem with these closed environments is that they in
 
@@ -6164,19 +6164,19 @@ from other employees inside the organization.
 
 But that secrecy, as we have seen, comes with great cost. Pro
 
-tecting ideas from copycatsand competitors also protects them from
+tecting ideas from copycats and competitors also protects them from
 
 other ideas that might improve them, might transform them from
 
-hints and hunches to true innovations. And'indeed there is a grow-
+hints and hunches to true innovations. And indeed there is a grow-
 
 4. Patents actually have a complicated historical relationship to the idea of open information
 networks. While most patent law is exclusive in nature—forbidding non-patent-holders from
 using a patented "method" without permission for a finite time period—patent law also con
-ventionally involves an element of disclosure, where the inventor is forced to reveal the nature
+conventionally involves an element of disclosure, where the inventor is forced to reveal the nature
 of his or her creation in technical detail. The disclosure is obviously partly designed to help
 enforce the restrictions in cases of patent infringement, but it was also intended to encourage
-goodideasto spreadmore freely, bymakingthem part of the publicrecord. Unfortunately, the
+good ideas to spread more freely, by making them part of the public record. Unfortunately, the
 modern emergence of patent trolls and squatters, supported by overzealousintellectual property
 lawyers, means that the protective side of patent law has dominated the connective side.
 
@@ -6238,7 +6238,7 @@ Nike released its patents under a modified license permitting use in
 
 negotiated contract for the patents, thereby reducing the transaction
 
-costsof hagghng overeach patent hcense individually.) The example
+costs of haggling over each patent license individually.) The example
 
 scenario they invoked at the launch of GreenXchange would have
 
@@ -6310,7 +6310,7 @@ gether at the right time would have been astronomical.But imagine
 
 if the FBI had been using a networked version of a DEVONthink
 
-archive instead of the archaic Automated CaseSupport system. The
+archive instead of the archaic Automated Case Support system. The
 
 top brass at the Radical Fundamentalist Unit would still have read
 
@@ -6364,7 +6364,7 @@ gest new features or products; each suggestion can then be rated on
 
 a scale of 0 ("Dangerous or harmful") to 5 ("Great idea! Make it
 
-so."). Salesforce.commaintains a popular Idea Exchange where its
+so."). Salesforce.com maintains a popular Idea Exchange where its
 
 customers can suggest new features for the company's software
 
@@ -6416,11 +6416,11 @@ In the summer of 1900 a twenty-seven-year-old aspiring inven
 
 tor named Lee de Forest moved to Chicago, rented a one-room
 
-apartment on Washington Boulevard, and took a day job translat
+apartment on Washington Boulevard, and took a day job translating
 
 ing foreign articles on wireless technology for Western Electrician
 
-magazine. The translation work was informative: a major exposi
+magazine. The translation work was informative: a major exposition
 
 tion on wireless technology that had just been held in Paris guar
 
@@ -6446,7 +6446,7 @@ netic spectrum had relied on spark gaps. The device employed two
 
 electrodes separated by a small gap. A battery attached to the elec
 
-trodes supphed a surge of electricity, which caused a spark to jump
+trodes supplied a surge of electricity, which caused a spark to jump
 
 from one electrode to the other, triggering a pulse of electromagnetic
 
@@ -6477,7 +6477,7 @@ intensifying the energy of a flame fifteen feet away. Watching that
 
 flame shift from red to white planted the seed of an idea in de For
 
-est's head: that a gas could be employed as a wireless detector, one
+Forest head: that a gas could be employed as a wireless detector, one
 
 that might be more sensitive than anything Marconi or Tesla had
 
@@ -6621,7 +6621,7 @@ of modern photography, was born.
 
 In the summer of 1951, a World War II Navy veteran named
 
-Wilson Greatbatch was working at an animal behavior farm affili
+Wilson Greatbatch was working at an animal behavior farm affiliated
 
 ated with the psychology department at Cornell, where he was
 
@@ -6643,7 +6643,7 @@ two visiting surgeons and got into a conversation about the dangers
 
 of irregular heartbeats. Something in their description of the ail
 
-ment triggered an association in GreatbatchV mind. He imagined
+ment triggered an association in Greatbatch mind. He imagined
 
 the heart as a radio that was failing to transmit or receive a signal
 
@@ -6701,11 +6701,11 @@ times those novel combinations arrive courtesy of the random col
 
 lisions of city streets or the dreaming brain. But sometimes they
 
-come from simple mistakes. Youreach into the bag of resistors and
+come from simple mistakes. You reach into the bag of resistors and
 
 pull out the wrong one, and four years later, you're saving someone's
 
-life. Yet error on its own is rarely enough. Greatbatch had his epiph
+life. Yet error on its own is rarely enough. Greatbatch had his epiphany
 any while hearing the reliable pulse of his oscillator because he'd
 
 been thinking about the irregular heartbeats as a signal transmis
@@ -6726,15 +6726,15 @@ hand experience as an inventor himself, described the prominence
 
 of error in his Principles of Science, first published in 1874:
 
-It would be an errorto suppose that the great discoverer seizes
+It would be an error suppose that the great discoverer seizes
 
 at once upon the truth, or has any unerring method of divining
 
 it. In all probability the errors of the great mind exceed in
 
-number those of the less vigorousone. Fertility of imagination
+number those of the less vigorous one. Fertility of imagination
 
-and abundance of guesses attruth areamongthe first requisites
+and abundance of guesses at truth are among the first requisites
 
 of discovery; but the erroneous guesses must be many times as
 
@@ -6774,7 +6774,7 @@ useful. Being right keeps you in place. Being wrong forces you to
 explore.
 
 Thomas Kuhn makes a comparable argument for the role of
-errorin The Structure of Scientific Revolutions. Paradigm shifts, in
+error in The Structure of Scientific Revolutions. Paradigm shifts, in
 
 Kuhn's argument, begin with anomalies in the data, when scientists
 
@@ -6790,7 +6790,7 @@ plant thrived. In fact, it thrived even if you burned all the oxygen
 
 out of the jar before placing the plant in it. Priestley's error ener
 
-gized him to investigatethis strange behavior, and it ultimately led
+energized him to investigatethis strange behavior, and it ultimately led
 
 him to one of the founding discoveries of what we now call eco
 
@@ -6824,7 +6824,7 @@ deviated significantlyfrom what they had predicted they would find.
 
 Dunbar found that the scientists tended to treat these surprising out
 
-comesas the result of flaws in their experimental method: some kind
+outcomes as the result of flaws in their experimental method: some kind
 
 of contamination of the originaltissueperhaps,or a mechanical mal
 
@@ -6875,7 +6875,7 @@ Charlan Nemeth began investigating the relationship be
 
 tween noise, dissent, and creativity in group environments. One of
 
-Nemeth's early experiments assembledsmall groups of test subjects
+Nemeth's early experiments assembled small groups of test subjects
 
 and showed them a series of slides, each of which was dominated
 
@@ -6886,7 +6886,7 @@ Nemeth asked them to free-associate on the color they had per
 
 ceived in the slides.
 
-There are few actionsas commonly connectedto the pursuit of
+There are few actions as commonly connected to the pursuit of
 
 creativity as free-associating. Trying to come up with a new slogan
 
@@ -6906,13 +6906,13 @@ color—"red" or "yellow" or "blue"—or the word "color" itself. The
 
 more creative associations only emerge when you get to the bottom 20
 
-percent of responses, the longtailof free association, where words like
+percent of responses, the long tail of free association, where words like
 
 "Ireland," or "money," or "leaves" appear. Ask them to free-associate
 
 oh the word "blue" and you'll see the same pattern: 80 percent will
 
-suggesteither another color orthe word "sky," and the last 20 percent
+suggest either another color or the word "sky," and the last 20 percent
 
 of associations will be scattered across dozens of less predictable re
 
@@ -6929,7 +6929,7 @@ ing creative thinking in different environments. Some situations
 cause people to get even more predictable with their associations,
 
 offering up "grass" and "blue" like obedient robots. But other situa
-tions can push their associations down thetail of thedistribution, into
+tions can push their associations down the tail of thedistribution, into
 
 the more eclectic zone of "Ireland" and "money." Individuals who
 
@@ -6951,7 +6951,7 @@ time with a twist. She showed the same slides to small groups of
 
 subjects—only,in this version, she secretly seeded each group with
 
-a handful of actors who were instructed to describe each slide inac
+a handful of actors who were instructed to describe each slide inaccurately
 
 curately, as if it were a different color. The real test subjects cor
 
@@ -6963,7 +6963,7 @@ as green.
 
 When Nemeth took this cohort (that is, the test subjects minus
 
-the actors)and askedthem to free-associate on the colornames they
+the actors)and asked them to free-associate on the color names they
 
 had mentioned, the words they came up with were markedly differ
 
@@ -7021,7 +7021,7 @@ The best innovation labs are always a little contaminated.
 
 f "I Ihe next time you visit a zoo or a natural history museum and
 JL survey the extraordinary diversity of the organisms on our
-planet, pause for a secondto remind yourself that all this variation—
+planet, pause for a second to remind yourself that all this variation—
 
 the elephant tusks and peacock tails and human neocortices-—was
 
@@ -7207,13 +7207,13 @@ some tantalizing research on its side of late. Bacteria have much
 
 higher mutation rates than multicellular life-forms, which suggests
 
-that the tolerance for error varies accordingto the specificcircum
+that the tolerance for error varies according to the specific circumstances
 
 stances of different organisms. One study by Susan Rosenberg at
 
 Baylor College found that bacteria increased their mutation rates
 
-dramatically when confrontedwith the "stress" of low energy sup
+dramatically when confronted with the "stress" of low energy sup
 
 plies. When the living is good, Rosenberg's research suggests, bac
 
@@ -7225,7 +7225,7 @@ the environment grows more hostile, the pressure to innovate—to
 
 stumble across some new way of eking out a living in a resourcepoor setting—shifts the balance of risk versus reward involved in
 
-mutation. The risk of your offspring dying from some deadly muta
+mutation. The risk of your offspring dying from some deadly mutation
 
 tion doesn't look quite as bad if they're going to die of starvation
 
@@ -7245,7 +7245,7 @@ tough, life tends to gravitate toward more innovative reproductive
 
 strategies, sometimes by introducing more noise into the signal of
 
-genetic code, and sometimes by allowing genes to circulate iriore
+genetic code, and sometimes by allowing genes to circulate more
 
 quickly through the population.
 
@@ -7359,7 +7359,7 @@ error is important, too. Innovative environments thrive on useful
 
 mistakes, and suffer when the demands of quality control over
 
-whelm them. Big organizations like to follow perfectionist regimes
+overwhelm them. Big organizations like to follow perfectionist regimes
 
 like Six Sigma and Total Quality Management, entire systems de
 
@@ -7443,7 +7443,7 @@ reached their peak in 1500, covering roughly four times as much
 
 land as they do in their current incarnation. It was hard work pro
 
-ducing drinkable wine in a region that far north, but the mechani
+ducing drinkable wine in a region that far north, but the mechanical
 
 cal efficiency of the screw press made it financially irresistible.
 
@@ -7457,7 +7457,7 @@ rors with supposedly magical healing powers, which he intended to
 
 sell to religious pilgrims. (The scheme got derailed, in part by bu
 
-bonic plague, which dramatically curtailed the number of pil
+bubonic plague, which dramatically curtailed the number of pil
 
 grims.) The failure of the trinket business proved fortuitous,
 
@@ -7493,9 +7493,9 @@ cient than your average medieval scribe. Thanks to his training as
 
 a goldsmith, Gutenberg made some brilliant modifications, to the
 
-metallurgy behind the movabletype system, but without the press
+metallurgy behind the movable type system, but without the press
 
-itself, his meticulous lead fonts would have been uselessfor creating
+itself, his meticulous lead fonts would have been useless for creating
 
 mass-produced Bibles.
 
@@ -7503,7 +7503,7 @@ An important part of Gutenberg's genius, then, lay not in con
 
 ceiving an entirely new technology from scratch, but instead from
 
-borrowinga mature technology from an entirely different field, and
+borrowing a mature technology from an entirely different field, and
 
 putting it to work to solve an unrelated problem. We don't know
 
@@ -7519,21 +7519,21 @@ no formal experience pressing grapes. His radical breakthrough re
 
 lied, instead, on the ubiquity of the screw press in Rhineland winemaking culture, and on his ability to reach out beyond his specific
 
-field of expertise and concoctnew uses for an older technology. He
+field of expertise and concoct new uses for an older technology. He
 
 took a machine designed to get people drunk and turned it into an
 
 engine for mass communication.
 
 "" HP volutionary biologists have a word for this kind of borrowing,
--I—Jfirst proposed in an influential 1971 essay by Stephen Jay
-Gould and Elisabeth Vrba: exaptation. An organism developsa trait
+-I—First proposed in an influential 1971 essay by Stephen Jay
+Gould and Elisabeth Vrba: exaptation. An organism develops a trait
 
 optimized for a specific use, but then the trait gets hijacked for a
 
 completely different function. The classic example, featured prom
 
-inently in Gould and Vrba'sessay, is bird feathers, which we believe
+inently in Gould and Vrba's essay, is bird feathers, which we believe
 
 initially evolved for temperature regulation, helping nonliving di
 
@@ -7591,11 +7591,11 @@ drifted in and out of the gene pool, natural selection now begins
 
 sculpting those feathers to make them more aerodynamic. A feather
 
-adaptedfor warmth is now exaptedfor flight.
+adapted for warmth is now exapted for flight.
 
 The concept of exaptation is crucial in rebutting the classic
 
-biblical argument (now often termed "inteUigent design") against
+biblical argument (now often termed "intelligent design") against
 
 Darwinism, one that dates back to the furor surrounding the publi
 
@@ -7603,7 +7603,7 @@ cation of On the Origin of Species itself: if extraordinary examples
 
 of natural engineering like eyes or wings are notthe product of an
 
-intelligent creator,then how couldthese traits have survived through
+intelligent creator,then how could these traits have survived through
 
 what must have been a pronounced developmental state of nonfunctionality? As the wing evolves, by definition it has to go through a
 
@@ -7623,7 +7623,7 @@ to fly, and thus outmaneuver your predators or discover new sources
 
 of food, the new mutations that made that appendage slightly more
 
-winglike won't be more likely to spread through the population.
+wing-like won't be more likely to spread through the population.
 
 Natural selection doesn't give good grades for effort.
 
@@ -7647,7 +7647,7 @@ of a dinosaur wrist bone originally adapted for greater flexibility.
 
 When Gould offered up his tires-to-sandals metaphor, he was es
 
-sentially talking about the way in which exaptations have defined
+essentially talking about the way in which exaptations have defined
 
 the paths of evolutionary innovation: new abilities and traits come
 
@@ -7673,9 +7673,9 @@ spend more time away from the water, exploiting the copious energy
 
 sources of the plants and arthropods that had already conquered life
 
-onland, the tip of the lobe-fin turned out to be useful for an activity
+on land, the tip of the lobe-fin turned out to be useful for an activity
 
-that acquatic life had rendered unthinkable: walking. Before long,
+that aquatic life had rendered unthinkable: walking. Before long,
 
 natural selection had refashioned the swim fan into an autopod, the
 
@@ -7689,7 +7689,7 @@ ancient swim-fan origins, as in the flippers of seals and sea lions.
 
 "Tf mutation and error and serendipity unlock new doors in the
 
--Lbiosphere's adjacent possible, exaptations help us explore the
+-Lbiosphere adjacent possible, exaptations help us explore the
 
 new possibilities that lurk behind those doors. A match you light to
 
@@ -7761,7 +7761,7 @@ The history of the World Wide Web is, in a sense, a story of
 
 continuous exaptation. Tim Berners-Lee designs the original pro
 
-tocols with a specifically academic enviroriment in mind, creating
+tocols with a specifically academic environment in mind, creating
 
 a platform for sharing research in a hypertext format. But when the
 
@@ -7873,7 +7873,7 @@ metaphor from the real-world environment of offices: instead of
 
 organizing information on the screen as a series of command-line
 
-inputs, the way a programmer would, they borrowed the iconogra
+inputs, the way a programmer would, they borrowed the iconography
 
 phy of a desktop with pieces of paper stacked on it. Kekule didn't
 
@@ -7885,7 +7885,7 @@ one of the essential problems of organic chemistry.
 
 n the early 1970s, a Berkeley sociologist named Claude Fischer
 
-_Lbegan investigating the social effects of living in dense urban
+_Began investigating the social effects of living in dense urban
 
 centers. The topic was one that had long interested urban theorists,
 
@@ -7965,7 +7965,7 @@ variety, although there may be people (too few of them) who
 
 would draw upon it were it there. Cities, however, are the natural
 
-homes of supermarkets and standard movie houses plus delica
+homes of supermarkets and standard movie houses plus delicatessens
 
 tessens, Viennese bakeries, foreign groceries, art movies, and so
 
@@ -7999,7 +7999,7 @@ Cities, then, are environments that are ripe for exaptation, be
 
 cause they cultivate specialized skills and interests, and they create
 
-a liquid network where information can leak out of those subcul
+a liquid network where information can leak out of those subcultures
 
 tures, and influence their neighbors in surprising ways. This is one
 
@@ -8035,13 +8035,13 @@ of psychoanalysis. Think, too, of the Paris cafes where so much of
 
 modernism was born; or the legendary Homebrew Computer Club
 
-in the 1970s, where a ragtag assemblageof amateur hobbyists,teen
+in the 1970s, where a ragtag assemblage of amateur hobbyists,teen
 
 agers, digital entrepreneurs, and academic scientists managed to
 
 spark the personal computer revolution. Participants flock to these
 
-spacespartly for the camaraderie of others who share their passions,
+spaces partly for the camaraderie of others who share their passions,
 
 and no doubt that support network increases the engagement and
 
@@ -8069,7 +8069,7 @@ new perspectives of cubism; the futurist embrace of technological
 
 speed in poetry shaping new patterns of urban planning.
 
-xaptation also prospers on another scale: the shared media
+exaptation also prospers on another scale: the shared media
 lA environment of a physical community. In the late 1970s, the
 British musician and artist Brian Eno moved to New York City for
 
@@ -8161,7 +8161,7 @@ Nation of Millions to Hold UsBack, he deliberately mimicked the
 
 layered, percussive vocal samples of Eno and Byrne's production. It
 
-Takesa Nation went on to become one of the most sonically influen
+Takes a Nation went on to become one of the most sonically influen
 
 tial records of its decade, reverberating through the wider culture—
 
@@ -8308,7 +8308,7 @@ a pioneering typesetter, making an incremental improvement on Pi
 
 Sheng's movable type. By not restricting himself exclusively to the
 
-STEVEN JOHNSONisland of metallurgy, he became something much more*important:
+STEVEN JOHNSON's of metallurgy, he became something much more*important:
 
 a printer.
 
@@ -8324,9 +8324,9 @@ the problem of DNA in the early 1950s, the person who had the
 
 clearest and most direct view of the molecule itself was neither
 
-James Watson nor Francis Crick. It was, instead, a bipphysicist at
+James Watson nor Francis Crick. It was, instead, a biophysicist at
 
-London University named Rosalind Franklin, who was using stateof-the-art X-ray crystallography to study the mysterious strands of
+London University named Rosalind Franklin, who was using state-of-the-art X-ray crystallography to study the mysterious strands of
 
 DNA. But Franklin's vision was limited by two factors. First, there
 
@@ -8410,7 +8410,7 @@ can we explain Apple, which on the spectrum of openness is far
 
 closer to Willy Wonka's factory than it is to Wikipedia? The easy
 
-answer is that Jobs and Ive simply possessa collaborative genius that
+answer is that Jobs and Ive simply possess collaborative genius that
 
 has enabled the company to ship such a reliable stream of revolu
 
@@ -8434,7 +8434,7 @@ As it turns out, while Apple has largely adopted a fortress men
 
 tality toward the outside world, the company's internal develop
 
-ment processis explicitly structured to facilitate clash and connection
+ment process is explicitly structured to facilitate clash and connection
 
 between different perspectives. Jobs himself has taken to describing
 
@@ -8478,7 +8478,7 @@ people to buy it. This model is so ubiquitous because it performs
 
 well in situations where efficiency is key, but it tends to have disas
 
-trous effects on creativity, because the original idea gets chipped
+disastrous effects on creativity, because the original idea gets chipped
 
 away at each step in the chain. The engineering team takes a look
 
@@ -8722,9 +8722,9 @@ evation variation in volcanicislands was immense; some tapered off
 
 a dozen feet above sea level; others, like Mauna Kea, surged ten
 
-thousand feet into the sky. Most volcanicpeaks lay thousands of feet
+thousand feet into the sky. Most volcanic peaks lay thousands of feet
 
-below the surface. Yet Darwin, like most geologistsof his age, knew
+below the surface. Yet Darwin, like most geologists of his age, knew
 
 that the oceans were populated by a huge number of tropical atolls
 
@@ -8790,7 +8790,7 @@ is sturdy enough to remain intact centuries after its original host
 
 has perished. A coral reef, then, is a kind of vast underwater mau
 
-soleum: millions of skeletons united to form the pocked, labyrin^
+mausoleum: millions of skeletons united to form the pocked, mausoleum^
 
 thine sprawl of a reef.
 
@@ -8806,7 +8806,7 @@ large fragments of rocks, bear [sic] the stamp of once having been
 
 subjected to the power of organic arrangement." The vast majority
 
-of those particles and rockswere aragonite skeletons, the remains of
+of those particles and rocks were aragonite skeletons, the remains of
 
 a coral polyp that had died decades or centuries before. This alone
 
@@ -8836,7 +8836,7 @@ original theory, but he added an essential twist. He turned a still
 
 frame into a moving picture. To understand atoll formation, Dar
 
-win realized, you had to imagine a volcanicisland slowly subsiding
+win realized, you had to imagine a volcanic island slowly subsiding
 into the sea. As the banks of the volcano disappeared beneath the
 
 ocean waves, those slopes would become prime breeding ground for
@@ -8861,7 +8861,7 @@ to the structure they've erected at the top of the volcano, limited
 
 only by the water's surface. As the original peak descends further
 
-and further into the sea, the olderreefs die off, but continue to give
+and further into the sea, the older reefs die off, but continue to give
 
 structural support to the new, thriving reefs above them. Darwin
 
@@ -8925,12 +8925,12 @@ after reflection, the eye of reason."
 
 From Darwin's perspective, those "minute and tender animals"
 
-had built a platform, in the most prosaicsense of the word. Darwin
+had built a platform, in the most prosaic sense of the word. Darwin
 
 was walking on that saucer-shaped summit, and not treading water
 
 in the middle of the Indian Ocean, because those animals had engi
-neered a platform for himto stand on. But a coral reef isa platform
+neered a platform for him to stand on. But a coral reef isa platform
 in a much more profound sense:the mounds, plates, and crevices of
 
 the reef create a habitat for millions of other species, an undersea
@@ -8953,7 +8953,7 @@ marvelous, improbable, heterogeneous life.
 
 For forty years, ecologists have used the term "keystone spe
 cies" to designate an organism that has a disproportionate impact
-on its ecosystem—a carnivore, forinstance, whois the onlypredator
+on its ecosystem—a carnivore, for instance, who is the only predator
 
 of another species that would otherwise overwhelm the habitat with
 
@@ -8967,21 +8967,21 @@ ecology needed another term to describe a very specific kind of
 
 keystone species: the kind that actually creates the habitat itself.
 
-Jones called these organisms "ecosystemengineers." Beaversare the
-classic exampleof ecosystem engineers. Byfelling poplarsand wil
+Jones called these organisms "ecosystemengineers." Beavers are the
+classic example of ecosystem engineers. By felling poplars and wil
 lows to build dams, beavers single-handedly transform temperate
 forests into wetlands, which then attract and support a remarkable
 
 array of neighbors: pileated woodpeckers drilling nesting cavities
 
-into dead trees; woodducksand Canada geesesettling in abandoned
+into dead trees; wood ducks and Canada geese settling in abandoned
 
 beaver lodges; herons and kingfishers and swallows enjoying the
 
 benefits of the ".artificial"pond, along with frogs, lizards, and other
 
-slow-waterspecies like dragonflies, mussels, and aquatic beetles.As
-do those underwater colonies of coral, the beavercreatesa platform
+slow-water species like dragonflies, mussels, and aquatic beetles.As
+do those underwater colonies of coral, the beaver creates a platform
 
 that sustains an amazingly diverse assemblage of life.
 
@@ -9027,7 +9027,7 @@ Guier and George Weiffenbach, found themselves in a spirited dis
 
 cussion about the microwave signals that would likely be emanating
 
-from Sputnik. After canvassingsome of their colleagues, it appeared
+from Sputnik. After canvassing some of their colleagues, it appeared
 
 that no one had bothered to come in over the weekend to see if Sput
 
@@ -9045,7 +9045,7 @@ doubters, who would inevitably question whether the whole launch
 
 was an elaborate hoax, a product of communist propaganda, the
 
-Soviets had engineered Sputnik so that it would transmit an unusu
+Soviets had engineered Sputnik so that it would transmit an unusual
 
 ally accessible signal: an unbroken tone broadcast within 1 kHz of
 
@@ -9063,9 +9063,9 @@ coming from space. Word began to spread through the APL that the
 
 young physicists had captured Sputniks signal, and a steady stream
 
-of visitors appeared at Weiffenbach's door to eavesdrop on the satel
+of visitors appeared at Weiffenbach's door to eavesdrop on the satellite
 
-lite's warble.
+lite warble.
 
 '
 
@@ -9077,7 +9077,7 @@ recording the signal on audiotape. They included time stamps with
 
 each recording. As they listened and recorded, the two men realized
 
-that they couldusethe Doppler effectto calculatethe speed at which
+that they could use the Doppler effect to calculate the speed at which
 
 the satellite was moving through space.First observed more than a
 
@@ -9125,13 +9125,13 @@ that night, they remembered an additional mathematical trick: by
 
 analyzing the slope of the Doppler shift, they could determine the
 
-point in Sputniks orbit that was closest to the APL laboratories. Airmost by accident, they had hit upon a technique not just for calcu
+point in Sputniks orbit that was closest to the APL laboratories. Almost by accident, they had hit upon a technique not just for calcu
 
 lating the satellite's speed, but for actually mapping the trajectory
 
 of its orbit. In a matter of hours, the two young scientists had gone
 
-from listening to measuring to tracking'the Russian satellite.
+from listening to measuring to tracking the Russian satellite.
 
 Over the subsequent weeks, a loose network of scientists at
 
@@ -9141,7 +9141,7 @@ details, researching the theoretical literature on orbiting bodies, and
 
 proposing technology improvements. Eventually, the APL's director
 
-approved funds to run the numbers on the lab's new UNIVACcom
+approved funds to run the numbers on the lab's new UNIVAC computer
 
 puter. Within a few months of that first transmission, they had a
 
@@ -9187,7 +9187,7 @@ Soon, Guier and Weiffenbach would learn why the inverse
 
 problem was so important to McClure: the military was developing
 
-its Polaris nuclear missiles, designed to be launched from subma
+its Polaris nuclear missiles, designed to be launched from submarines
 
 rines. Calculating accurate trajectories for a missile attack required
 
@@ -9197,7 +9197,7 @@ enough to determine on land—say, for a missile silo in Alaska—but
 
 it was fiendishly difficult in the case of a submarine floating some
 
-where in the Pacific Ocean.McClure'sidea was to take the ingenious
+where in the Pacific Ocean.McClure's idea was to take the ingenious
 
 Sputnik solution and flip it on its head. The military would establish
 
@@ -9221,7 +9221,7 @@ to faulty, ground-based navigation beacons, Ronald Reagan declared
 
 that satellite-based navigation should be a "common good" open to
 
-civilian use. Around that time, the system took on its qurrent name:
+civilian use. Around that time, the system took on its current name:
 
 Global Positioning System, or GPS. Half a century later, roughly
 
@@ -9323,9 +9323,9 @@ Most hotbeds of innovation have similar physical spaces as
 
 sociated with them: the Homebrew Computing Club in Silicon Val
 
-ley; Freud'sWednesday salonat 19Berggasse; the eighteenth-century
+ley; Freud'sWednesday salon at 19Berggasse; the eighteenth-century
 
-English coffeehouse. All these spaces were, in their own smallerscale fashion, emergent platforms. Coffeehouse proprietors like Ed
+English coffeehouse. All these spaces were, in their own smaller scale fashion, emergent platforms. Coffeehouse proprietors like Ed
 
 ward Lloyd or William Unwin were not trying to invent the modern
 
@@ -9345,11 +9345,11 @@ differently, because they created an environment where different
 
 kinds of thoughts could productively collide and recombine.
 
-FTlne most generative platforms come in stacks, most conspi-
+FTlne most generative platforms come in stacks, most conspicuously-
 JL cuously in the layered platform of the Web. (The phrase
 "platform stack" itself is part of the common parlance of modern
 
-prograrnming.) The Webcan be imagined as a kind of archaeological
+programming.) The Web can be imagined as a kind of archaeological
 
 site, with layers upon layers of platforms buried beneath every
 
@@ -9405,7 +9405,7 @@ a defense of a purely relativistic account of science, where empirical
 
 each other over time. (The apparent solidity of scientific truth, in
 
-this account, is merely a kind of hologram produced by the appara
+this account, is merely a kind of hologram produced by the apparatus
 
 tus of the paradigm.) But modern scientific paradigms are rarely
 
@@ -9427,7 +9427,7 @@ the "modern synthesis" in the 1940s; the molecular genetics rev
 
 olution triggered by Watson and Crick's discovery of DNA; newer
 
-fields like evolutionary,psychologyand "evolutionary development."
+fields like evolutionary,psychology and "evolutionary development."
 
 Often, new scientific fields form by propping themselves over
 multiple platforms. The field that ultimately explained Darwin's
@@ -9492,7 +9492,7 @@ The creative stack is deeper than genres, though. Genres are
 
 themselves built on top of more stable conventions and technolo
 
-gies. When Miles Davis announced his break with the chord-andimprov conventions of bebop jazz in "So What?"—the opening
+gies. When Miles Davis announced his break with the chord-improv conventions of bebop jazz in "So What?"—the opening
 
 track of Kind of Blue—he was nonetheless working within the
 
@@ -9538,7 +9538,7 @@ sages to mobile phones. But the most fascinating thing about Twitter
 
 is how much has been built on top of its platform in three short
 
-years. When it first emerged, Twitter was widely derided as a frivo
+years. When it first emerged, Twitter was widely derided as a frivolous
 
 lous distraction that was mostly good for telling* your friends what
 
@@ -9564,7 +9564,7 @@ vented by the Twitter user base. Early Twitter users ported over a
 
 convention from the IRC messaging platform, and began grouping
 
-a topic or event by the "hash-tag," as in "#30Rock" or '^inaugura
+a topic or event by the "hash-tag," as in "#30Rock" or '^inauguration
 
 tion." The ability to search a live stream of tweets—which is likely
 
@@ -9654,7 +9654,7 @@ for fear of losing competitive advantage. Twitter's creators recog
 
 nized that there was another kind of competitive advantage that
 
-came from complete openness: the advantage that pomes from hav
+came from complete openness: the advantage that comes from hav
 
 ing the largest and most diverse ecosystem of software applications
 
@@ -9674,9 +9674,9 @@ But the more intriguing developments lie in the public sector. In
 
 the fall of 2008, Vivek Kundra, chief technology officer for the
 
-District of Columbia, announced a program called Appsfor Democ
-racy (replacing its somewhatmore scandalous working title, Hack
-the District).Softwaredevelopers wereinvited to build applications
+District of Columbia, announced a program called Apps for Democ
+racy (replacing its somewhat more scandalous working title, Hack
+the District).Softwaredevelopers were invited to build applications
 
 that drew upon the open data made available by the city govern
 
@@ -9690,7 +9690,7 @@ useful for residents, visitors, businesses, or government agencies.
 
 The winners would receive $10,000 in prize money.
 
-. The city provided just thirty daysfor developers to create their
+. The city provided just thirty days for developers to create their
 
 applications, but even in that narrow window, forty-seven differ
 
@@ -9726,7 +9726,7 @@ tion officer by President Obama, helping to create the ambitious
 
 Data.gov program, along with an Apps for America contest run by
 
-the Sunlight Foundation. What these initiatives share is a willingr
+the Sunlight Foundation. What these initiatives share is a willingness
 
 ness to learn from the innovation platforms of Twitter, Google, and
 
@@ -9882,13 +9882,13 @@ I f you sail due east sixteen nautical miles from Delaware's Indian
 
 River Inlet, and dive eighty feet down into the open waters
 
-of the Atlantic Ocean, you will discover an underwater city thriv
+of the Atlantic Ocean, you will discover an underwater city thriving
 
 ing on the seafloor: massive schools of flounder, sea bass, and tautog darting through gently waving sea grasses. You will also find
 
 roughly seven hundred subway cars, deposited there by the Dela
 
-ware Department of Natural Resourcesand Environmental Control
+ware Department of Natural Resources and Environmental Control
 
 overthe past decade. The trains have been planted off the Delaware
 
@@ -9902,7 +9902,7 @@ breeding grounds for a diverse group of fish; the Delaware reefs
 
 have seen a 400 percent increase in biomass since the first cars were
 sunk. (Artificial reefs also have the secondary effect of preventing
-beacherosion.) Nolongerneededformasstransportation, the aban
+beach erosion.) Nolongerneededformasstransportation, the aban
 
 doned subway cars have taken on a new occupation in their retire
 
@@ -9998,7 +9998,7 @@ host. As Jacobs observed:
 
 As for really new ideas of any kind—no matter how ultimately
 
-profitable or otherwise successfulsome of them might prove to
+profitable or otherwise successful of them might prove to
 
 be—there is no leeway for such chancy trial, error and experi
 
@@ -10056,7 +10056,7 @@ because it provides them sanctuary from their natural predators, sea
 
 urchins and parrotfish. The sponges consume another key photosynthetic organism, phytoplankton, as it drifts through the aragonite caves of the reef. Like the zooxanthellae, the sponges then
 
-expel waste products that the coral can use as nutrients. Those longhidden sponges embody two principles of platform recycling: by
+expel waste products that the coral can use as nutrients. Those long-hidden sponges embody two principles of platform recycling: by
 
 co-opting the abandoned space of the coral skeleton, they reduce
 
@@ -10066,7 +10066,7 @@ they expel nutrients that allow their host to excrete even more aragonite, creat
 
 The entire coral reef ecosystem is characterized by similarly
 
-intricate and interdependent foodwebs,the full complexity of which
+intricate and interdependent food webs,the full complexity of which
 
 scientists are only now beginning to map. Once you understand the
 
@@ -10080,9 +10080,9 @@ the total energy captured from the sun, and the tight nutrient cycles
 
 created by the productive reuse of energy sources by so many densely
 
-interconnected species means that the fyabitat can do much more
+interconnected species means that the habitat can do much more
 
-with less. Youget a watery metropolis with astonishing diversity in
+with less. You get a watery metropolis with astonishing diversity in
 
 an environment that by rights should be as desolate as the sandy atoll
 
@@ -10098,14 +10098,14 @@ to the ecosystem engineering of the coral, and the marvelous recy
 
 cling of both shelter and biological waste that makes the platform
 
-so vital.5 Abovethe waterline, on those vacant atolls, a markedly dif
+so vital.5 Above the waterline, on those vacant atolls, a markedly dif
 
 ferent landscape appears, much closer to the wasteful ecosystems of
 
 deserts. Most of the solar energy that saturates desert environments
 
 5. The same pattern appears in rain forests, precisely because there are so many organisms ex
-ploitingeverytiny nicheof the nutrient cycle. That efficiency is one of the reasons that clear
+ploitingeverytiny niche of the nutrient cycle. That efficiency is one of the reasons that clear
 ing the rain forests is such a shortsighted move: the nutrient cycles in rain-forest ecosystems are
 so tight that the soil is usually very poor for farming—-all the available energy has been captured
 on the way down to the earth.
@@ -10128,9 +10128,9 @@ ical platforms of human settlements. In the late seventies, while
 
 pursuing a Darwinesque double major in biology and geology at the
 
-University of California, Santa Barbara, Constantz became fasci
+University of California, Santa Barbara, Constantz became fascinated
 
-nated by the coral polyp's extraordinary powers of biomineraliza
+nated by the coral polyp's extraordinary powers of biomineralization
 
 tion, its ability to build an immense structure of calcium carbonate
 
@@ -10168,7 +10168,7 @@ home near Palo Alto. Watching a football game with his father, a
 
 physician, he picked up a medical journal and stumbled across an
 
-article about the massive health expenses associated with osteopo
+article about the massive health expenses associated with osteoporosis
 
 rosis, a disease that disrupts bone mineral density, causing painful
 
@@ -10194,7 +10194,7 @@ throughout the United States and Europe.
 
 Constantz went on to found two other successful biomedical com
 
-panies,but that originalhunch aboutbuilding physical infrastructure
+panies,but that original hunch about building physical infrastructure
 
 out of coralskeletonslingered in the back of his mind. While teaching
 
@@ -10210,7 +10210,7 @@ carbon dioxide emissions on the planet. In his mind, a new network
 
 of ideas began to take shape, reviving his old undergraduate dream of
 
-growingaquatic cities. Coral reefscreated cement-like structures with
+growing aquatic cities. Coral reefs created cement-like structures with
 
 out polluting the environment, and Constantz had three successful
 
@@ -10254,11 +10254,11 @@ who were desperately trying to find a place to put their carbon diox
 
 ide. Entire markets were emerging around technologies of carbon
 
-sequestration, locking up C02by injecting it into oil and gasreserves,
+sequestration, locking up C02by injecting it into oil and gas reserves,
 
 or burying it deep in the ocean. But Constantz had stumbled across a
 
-much more powerfulidea. You didn't have to bury all that C02. You
+much more powerful idea. You didn't have to bury all that C02. You
 
 could use it to build stuff.
 
@@ -10280,8 +10280,8 @@ isms. Two things we have in abundance on this planet right now are
 
 pollution and seawater. Why not try to build a city out of them?
 
-rTlhe stacked platform of the Web depends on recycling as well.
-JL The word "ecosystem" hasbecome a fashionable term to de
+The stacked platform of the Web depends on recycling as well.
+JL The word "ecosystem" has become a fashionable term to de
 
 scribe the diverse collection of sites and services associated with
 
@@ -10403,7 +10403,7 @@ and commentary about the Back Bay neighborhood, and pages de
 
 voted to the Boston restaurant scene. A Boston newspaper that has
 
-built neighborhood-specific newspagesusing Outside.in'sopen pub
+built neighborhood-specific newspages using Outside.in's open pub
 
 lisher platform runs that tweet on a page devoted to food gossip in
 
@@ -10411,7 +10411,7 @@ the Back Bay. Google detects the link to the restaurant's website and
 
 registers the link as a "vote" endorsing the quality of that page,
 
-which causes it to risehigher in the search-results page when people
+which causes it to rise higher in the search-results page when people
 
 query Google with its name. The tweet even shows up in the inbox
 
@@ -10437,7 +10437,7 @@ The story here is not the old chestnut of living in a connected
 
 age where information flows more quickly than ever before. The
 
-information is not simplyflowing in this system; it's being recycled
+information is not simply flowing in this system; it's being recycled
 
 and put to new uses, transformed by a diverse network of other
 
@@ -10475,15 +10475,15 @@ on the SMS communications protocol(along with the network of cell
 
 towers and satellites); Outside.in distributes its neighborhood data
 
-using the open RSSplatform; the geo-dataembedded in the original
+using the open RSSplatform; the geo-data embedded in the original
 
 tweet relies on the adapted military intelligence technology of GPS;
 
-the Twittermaps all involveAPI callsto Google's map service; and, of
+the Twittermaps all involve API calls to Google's map service; and, of
 
-course, the entire operationis sustainedbythe coral-and-zooxanthella
+course, the entire operation is sustained by the coral-and-zooxanthella
 
-foundation of underlyingprotocols likeHTTP and TCP/IP. Allthose
+foundation of underlyingprotocols like HTTP and TCP/IP. All those
 
 services and standards were essential to the web of information that
 
@@ -10501,7 +10501,7 @@ system to help American submarines launch Polaris missiles against
 
 the Soviet Union, it never occurred to them that someday someone
 
-would use their platform to rave abput a bowl of potato and leek soup
+would use their platform to rave about a bowl of potato and leek soup
 
 to nearby strangers. Stacked platforms are like that: you think you're
 
@@ -10551,7 +10551,7 @@ on the fringes of one of New York's hottest neighborhoods, amid a
 
 handful of small businesses, most of them in the information in
 
-dustries. A hundred years ago, the building had a single tenant: the
+industries. A hundred years ago, the building had a single tenant: the
 
 Sackett-Wilhelm Lithography Company. If you stand at the front
 
@@ -10581,7 +10581,7 @@ tiple levels: the paper would expand as it absorbed water molecules
 
 floating in the factory air; ink would flow at different rates, and dry
 
-more slowly. Unusually humid dayscould slowthe entire production
+more slowly. Unusually humid days could slow the entire production
 
 down dramatically, making it difficult for the Sackett-Wilhelm ex
 
@@ -10605,9 +10605,9 @@ these approaches tackled the problem of humidity. After two con
 
 secutive heat waves in the summers of 1900 and 1901, the Sackett-
 
-Wilhelm owners contacted the New York officeof the Buffalo Forge
+Wilhelm owners contacted the New York office of the Buffalo Forge
 
-Company, which specialized in mechanical heating systemsfor large
+Company, which specialized in mechanical heating systems for large
 
 industry. They were the experts in making the air warmer. Could
 
@@ -10633,7 +10633,7 @@ menting with a handful of
 
 failed schemes suggested by his
 
-colleagues, Carrier followed his own instincts and built a contrap
+colleagues, Carrier followed his own instincts and built a contraption
 
 tion that passed chilled water through a heating coil that usually
 
@@ -10782,7 +10782,7 @@ traption, you don't need to persuade a government commission of
 its value. You just need to get someone to buy it.
 
 6. Innovation, of course, is not the sole reason so much of the world defied the predictions of
-The Communist Manifestoand embraced the capitalist way of life. Economists and social his
+The Communist Manifesto and embraced the capitalist way of life. Economists and social his
 torians have documented multiple factors that drove the march of the market: capitalist econo
 mies had a better track record of long-term increases in GDP; economic actors had more liberty
 to make individual choices; economic self-interest is an undeniable motivating force for human
@@ -10819,9 +10819,9 @@ taken in the preceding chapters of this book,is to build an argument
 
 around dozens of anecdotes, drawn from different contexts and his
 
-torical periods. The anecdotal approach sacrifices detail for breadth.
+historical periods. The anecdotal approach sacrifices detail for breadth.
 
-Yet it, too, runs the risk of being accusedof cherry-picking. If there
+Yet it, too, runs the risk of being accused of cherry-picking. If there
 
 are a hundred Willis Carriers for every Tim Berners-Lee, it doesn't
 
@@ -10893,7 +10893,7 @@ where multiple private firms interact; the third to the amateur sci
 
 entist or hobbyist who shares his or her ideas freely; and, finally, the
 
-fourth quadrant, which correspondsto open-source or academic en
+fourth quadrant, which corresponds to open-source or academic en
 
 vironments, where ideas can be built upon and reimagined in large,
 
@@ -10912,7 +10912,7 @@ quadrant—the market-based individual—is Carrier himself, who
 
 single-handedly drove the invention of air conditioning and who
 
-had clear commercial aspirations forhis device. (Gutenberg belongs
+had clear commercial aspirations for his device. (Gutenberg belongs
 
 there aswell.) An example 6f a networked market innovation would
 
@@ -10998,7 +10998,7 @@ in this condensed, time-lapse format. We watch the growth of cities,
 
 or markets, or national populations unfold in charts where each tick
 
-measures a century. There are truths made visible by these timelapse views that present-tense surveys or individual, narrative his
+measures a century. There are truths made visible by these time-lapse views that present-tense surveys or individual, narrative his
 
 tories cannot properly shine light on. (Malthus's Principles of
 
@@ -11413,11 +11413,11 @@ Manned Ho^Air Balloon
 Lithog%(phy
 
 Balance Sprjng Watches
-Steam Engj||'
-5teambjslt
-Spinni|g^enny
-Pqv^f'Loom
-^|§pCton Gin
+Steam Engine||'
+5steamboat
+Spinning|g^Jenny
+Pqv^Loom
+^|§Cotton Gin
 
 MARKET/INDIVIDUAL
 
@@ -11440,14 +11440,14 @@ Octant
 Carbonated Water
 Hooke'sLaw^
 Law of Falling Bo$|g^
-Elliptical Orbits ofP'lartf**'
+Elliptical Orbits of Planet**'
 
 Moons of Jupiter
 Microorganisms
-'^jgk Laws ofMotion
+'^jgk Laws of Motion
 '!j§ Comet Orbits
 Jff Lightning Rods
-UfSK Bifocal Lenses
+U.S. Bifocal Lenses
 tr^Plant Respiration
 f§ Logarithms
 K|||Blood Circulation
@@ -11465,7 +11465,7 @@ Calculus
 Universal Gravitation; -
 
 Photosynthesis
-MilkyWay
+Ocean
 
 Hot Air Balloon
 Smallpox Vaccine
@@ -11478,11 +11478,11 @@ Slide Rule
 W
 
 Flintlock
-Telescope ^^|^S|^^ 0cean Tides
+Telescope ^^|^S|^^ 0of Oxygen Tides
 Barometer-
 
 Linnaean Taxonomy
-Discovery ofOxygen
+Discovery Linnaeus
 
 \t];
 ,S*SI
@@ -11541,7 +11541,7 @@ Many of those innovation hubs exist outside the marketplace.
 
 The great minds of the period—Newton, Franklin, Priestley, Hooke,
 
-Jefferson, Locke, Lavoisier, Linnaeas—had little hope of financial
+Jefferson, Locke, Lavoisier, Moving Assembly—had little hope of financial
 
 reward for their ideas, and did everything in their power to encour
 
@@ -11554,7 +11554,7 @@ Steel
 Induction Motor
 
 Contact Lenses
-MovingAssembly Line
+Assembly Line
 
 Lightbulb
 
@@ -11605,14 +11605,14 @@ Personal Computer
 Bicycle
 
 Mason Jar
-Tesl% goil
+Tesla% oil
 Gun
 
 fly
 Vulcanize| Rubber
-ProgrammatjS ^Computer
+Program ^Computer
 Revo! jer
-Dyna| ite
+Dynamite| ite
 AC\k lor
 Air-Condi Zoning
 
@@ -11634,7 +11634,7 @@ Nitroglycerine
 Liquid Engine Rocket
 Uncertainty Principl
 
-Electrons in Chemj
+Electrons in Chemistry
 
 Bonds
 
@@ -11665,8 +11665,8 @@ Earth's Core
 Radiometric Dating
 
 Cosmic Radiation
-teneral Relativity
-jhiverse Expanding
+general Relativity
+universe Expanding
 Ecosystem
 
 Double Helix
@@ -11683,7 +11683,7 @@ Superconductors
 
 Neutron
 
-Early Life Simutated
+Early Life Simulated
 
 Braille
 
@@ -11691,11 +11691,11 @@ Periodic Table
 
 RNA Splicing
 
-Chloroform EKG Cosmic MicrowaveBackground Radiatibn
+Chloroform EKG Cosmic MicrowaveBackground Radiation
 Aspirin Cell Division Global Warming MRI
 DNA Forensics
 Enzymes
-Plate Techtonics
+Plate Tectonics
 Stratosphere
 
 Ceil Differentiation
@@ -11742,15 +11742,15 @@ Asteroid K-T Extinction
 
 STEVEN JOHNSON '
 
-is noticeable, nonetheless. Asindustrial capitalism arises in England
+is noticeable, nonetheless. As industrial capitalism arises in England
 
 in the eighteenth century, new economic structures raise the stakes
 
 for commercial ventures: tantalizing rewards lure innovators into
 
-private enterprise, and the codification of EngUshpatent laws in the
+private enterprise, and the codification of English patent laws in the
 
-early 1700sgivessome reassurance that goodideas will not be stolen
+early 1700gives some reassurance that goodideas will not be stolen
 
 with impunity. Despite this new protection, most commercial in
 
@@ -11776,7 +11776,7 @@ T
 J
 
 et us pause for a moment on the cusp of the modern age and
-i take a few bets as to whatpattern willform in the final two
+i take a few bets as to what pattern will form in the final two
 
 centuries of the millennium. I think most of us would expect to see
 
@@ -11994,7 +11994,7 @@ exapted, and recycled in countless ways. The university system may
 
 be big business these days, and patents do play a role in some spe
 
-cialized fields, but for the most part the university remains an in
+specialized fields, but for the most part the university remains an in
 
 formation commons.
 
@@ -12002,7 +12002,7 @@ Universities have a reputation for ivory-tower isolation from
 
 the real world, but it is an undeniable fact that most of the para
 
-digmatic ideas in science and technology that arose during the past
+paradigmatic ideas in science and technology that arose during the past
 
 century have roots in academic research. This is obviously true for
 
@@ -12010,7 +12010,7 @@ the "pure" sciences like theoretical physics, but it is also true for
 
 lines of research that on their surface seem to have more straight
 
-forwardly commercial applications, The oral contraceptive, for in
+straightforwardly commercial applications, The oral contraceptive, for in
 
 stance, has generated billions of dollars for Big Pharma over the
 
@@ -12086,7 +12086,7 @@ network.
 
 We do not have a ready-made political vocabulary for the
 
-fourth quadrant, particularly the noninstitutional forms of collabo
+fourth quadrant, particularly the noninstitutional forms of collaboration
 
 ration that have developed around the open-source community. Be
 
@@ -12198,7 +12198,7 @@ bourgeois development so much as the fact that it has not yet suc
 
 ceeded in getting beyond the economic forms of the animal world."
 
-As it turned out, the exact opposite happened. E)arwin's theo
+As it turned out, the exact opposite happened. E)Darwin's theo
 
 ries were invoked countless times in the twentieth century as a de
 
@@ -12218,7 +12218,7 @@ Yet the true story of nature is not one of exclusively ruthless
 
 competition between selfish agents, as Darwin himself realized.
 
-Originof Species ends with one of the most famous passages in the
+Origin of Species ends with one of the most famous passages in the
 
 history of science, one that echoes the journal entry he wrote on
 
@@ -12340,7 +12340,7 @@ clearly innovations that had long been in the public domain. When
 
 Evans sued McPherson for violating his patents, the Boston indus
 
-trialist depided to reach out to the first patent commissioner of the
+industrialist decided to reach out to the first patent commissioner of the
 
 United States, a former politician and inventor himself, now living
 
@@ -12458,7 +12458,7 @@ As Lawrence Lessig has so persuasively argued over the years,
 
 there is nothing "natural" about the artificial scarcity of intellectual
 
-property law. Those laws are dehberate interventions crafted by
+property law. Those laws are deliberate interventions crafted by
 
 human intelligence and are enforced almost entirely by non-market
 
@@ -12470,7 +12470,7 @@ ral," then the free flow of ideas is always going to trump the artifi
 
 cial scarcity of patents. Ideas are intrinsically copyable in the way
 
-that food and fuel are not. Youhave to build dams to keep ideas from
+that food and fuel are not. You have to build dams to keep ideas from
 
 flowing.
 
@@ -12558,7 +12558,7 @@ twofold. For starters, it has conventionally been used in opposition
 
 to the competitive struggle of the marketplace. The original "com
 
-mons" of rural England disappearedwhen they were swallowedup
+mons" of rural England disappearedwhen they were swallowed up
 
 by the private enclosures of agrarian capitalism in the seventeenth
 
@@ -12584,7 +12584,7 @@ need only survey a coral reef (or a rain forest) for a few minutes to
 
 see that competition for resources abounds in this space, as Darwin
 
-lightly observed. But that is not the source of its marvelous biodi
+lightly observed. But that is not the source of its marvelous biodiversity
 
 versity. The struggle for existence is universal in nature. The few
 
@@ -12622,7 +12622,7 @@ in the shells abandoned by earlier hosts; informal hubs allow differ
 
 ent disciplines to borrow from one another. These are the spaces
 
-that have long supported innovation, from those first Mesopota
+that have long supported innovation, from those first Mesopotamia
 
 mia settlements eight thousand years ago to the invisible layers of
 
@@ -12851,7 +12851,7 @@ BALL BEARINGS (U97)
 
 Conceived and sketched by Leonardo da Vinci in 1497 as a method to reduce
 
-friction; the first patent forball bearingswas awardedto Philip Vaughan in
+friction; the first patent for ball bearings was awarded to Philip Vaughan in
 
 1794.
 
@@ -12861,7 +12861,7 @@ One of the canonical examples of collective invention, portable watches
 
 evolved out a group of clockmakers in Nuremberg in the early 1500s,led by
 
-one Peter Henlein, who created the first lightweight watch. Heinlen's watch
+one Peter Henlein, who created the first lightweight watch. Henlein watch
 
 was portable, but not terribly accurate; subsequent improvements by his
 
@@ -12879,7 +12879,7 @@ leash. Word of his radical theory leaked out and began spreading through
 
 the enlightened minds of Europe during that period, but the first official
 
-publicationcame in his posthumoustext, OntheRevolutions of theHeavenly
+publicationcame in his posthumous text, OntheRevolutions of the Heavenly
 
 Spheres,published in 1543.
 
@@ -12895,9 +12895,9 @@ CUBIC EQUATIONS AND COMPLEX NUMBERS (1530-154Q)
 
 The mathematicians of the Islamic Renaissance published several important
 
-papers on the understanding of cubicequations—along with the notion of
+papers on the understanding of cubic equations—along with the notion of
 
-complex numbers—which areessential to determining the areaand volume
+complex numbers—which are essential to determining the area and volume
 
 of objects. But the modern technique for solving them is most prominently
 
@@ -12925,9 +12925,9 @@ German botanist Valerius Cordus discovered and described a radically new
 
 method forthe synthesis of ether in 1540,calling it "the sweet oil of vitriol."
 
-At around the same time, Swiss physician Paracelsus discovered the anaes
+At around the same time, Swiss physician Paracelsus discovered the anesthetic
 
-thetizing properties of ether.
+anesthetizing properties of ether.
 
 STEAM TURBINE (1551)
 
@@ -12935,7 +12935,7 @@ The brilliant Turkish polymath Taqi al-Din described a functioning steam
 
 turbine, designed to power a rotating spit, in his wonderfully titled 1551
 
-opus, The SublimeMethods in Spiritual Devices.
+opus, The Sublime Methods in Spiritual Devices.
 
 PENCIL (1560)
 
@@ -12943,7 +12943,7 @@ In the mid 1560s, the residents of a small village in England's Cumbria re
 
 gion stumbled across a massive deposit of graphite. The community first
 
-began using the substanceto mark their cattle and sheep, and ultimately hit
+began using the substance to mark their cattle and sheep, and ultimately hit
 
 upon wrapping a wood casing around the graphite. It would take another two
 
@@ -12957,7 +12957,7 @@ Flemish mapmaker Gerard Mercator developed the Mercator projection, a
 
 cartographical depiction of the world that allowed navigators to follow
 
-rhumb lines between two locations, thus accountingfor compass bearing.
+rhumb lines between two locations, thus accounting for compass bearing.
 
 SUPERNOVAS AND COMETS (1572-1577)
 
@@ -12989,7 +12989,7 @@ COMPOUND MICROSCOPE (1590)
 
 Though a definite consensus does not exist on who invented the compound
 
-microscope, most historians credit either the Dutch spectaclemaker Zacharias Janssen and his son Hans, or the German optician Hans Lippershey. In
+microscope, most historians credit either the Dutch spectacle maker Zacharias Janssen and his son Hans, or the German optician Hans Lippershey. In
 
 1609 Galileo re-formed Janssen's original design into a more efficient ma
 
@@ -13003,7 +13003,7 @@ A water flushing device was invented in the late sixteenth century by Sir
 
 John Harrington, who installed a functioning version for his godmother,
 
-Queen Elizabeth, at Richmond Palace.But the devicedidn't take off until the
+Queen Elizabeth, at Richmond Palace.But the device didn't take off until the
 
 late 1700s, when a watchmaker named Alexander Cumings and a cabinet
 
@@ -13017,7 +13017,7 @@ English scientist William Gilbert realized that
 
 the earth itself was a
 
-magnet, a discoveryfirst published in his treatise "On the Magnet" in 1600.
+magnet, a discovery first published in his treatise "On the Magnet" in 1600.
 
 Gilbert concluded that it was the earth's magnetic nature that allowed the
 
@@ -13039,11 +13039,11 @@ the stars, discovering Jupiter's moons in the process.
 
 ELLIPTICAL ORBITS (1605-1609)
 
-The German astronomerand mathematician Johannes Keplerwas the first
+The German astronomer and mathematician Johannes Kepler was the first
 
-to documentthe ellipticalorbit that the planetstookaround the sun, though
+to document the ellipticalorbit that the planetstookaround the sun, though
 
-he built his equations by analyzingdata collectedby TychoBrahe, his friend
+he built his equations by analyzing data collected by Tycho Brahe, his friend
 
 and occasional employer.
 
@@ -13051,7 +13051,7 @@ JUPITER'S MOONS (1610)
 
 With £heaid of a telescope, GalileoGalileifirst observed the orbiting moons
 
-of Jupiter,thus provingthe fundamentalprincipleof the Copernicansystem,
+of Jupiter,thus proving the fundamentalprincipleof the Copernicansystem,
 
 that the universe did not revolve around earth. Another scientist, Simon
 
@@ -13065,7 +13065,7 @@ French courtier Marin le Bourgeoys introduced the first fully developed
 
 flintlock mechanism to King Louis XIII in 1610, a device that became stan
 
-dard in firearms until the early nineteenth century.But Marin le Bourgeoy's
+dard in firearms until the early nineteenth century.But Marin le Bourgeoys
 
 discoveryintegrated many early innovations in firing mechanisms, from the
 
@@ -13107,7 +13107,7 @@ VERNIER SCALE (1631)
 
 The Vernier scale, invented by French mathematician Pierre Vernier, can be
 
-used in conjunction with a larger scaleto precisely measure extremely small
+used in conjunction with a larger scale to precisely measure extremely small
 
 units of space. It became widely employed in navigation systems.
 
@@ -13127,13 +13127,13 @@ SLIDE RULE (1632)
 
 William Oughtred is commonly credited with inventing the earliest version of
 
-the slide rule, two parallel logarithmic scalesthat one could slide in relation to
+the slide rule, two parallel logarithmic scales that one could slide in relation to
 
-each other to conductadvanced calculations easilyand quickly. Oughtred im
+each other to conductadvanced calculations easily and quickly. Oughtred im
 
-proved upon the design of a more basicmodel developed by Edmund Gunter
+proved upon the design of a more basic model developed by Edmund Gunter
 
-as well as earliestconceptions by Galileo Galileiand John Napier.
+as well as earliestconceptions by Galileo Galilei and John Napier.
 
 LAW OF FALLING BODIES (1634)
 
@@ -13165,7 +13165,7 @@ calculus.
 
 BAROMETER (1643)
 
-The barometer, a devicedesigned to measure air pressure, grew out of Italian
+The barometer, a device designed to measure air pressure, grew out of Italian
 
 physicist Evangelista Torricelli's efforts to aid his mentor, Galileo, in an
 
@@ -13177,7 +13177,7 @@ in the height of mercury trapped in a tube from day to day were due to
 
 changes in the air's atmosphere. However, historians speculate that mathe
 
-matician Gasparo Berti may have unwittingly invented a barometer a few
+mathematician Gasparo Berti may have unwittingly invented a barometer a few
 
 years earlier.
 
@@ -13219,7 +13219,7 @@ improved upon by Robert Boyle and Robert Hooke.
 
 PENDULUM CLOCK (1656)
 
-Once again building on the ideas of Galileo,Dutch scientist Christiaan Huygens invented the most accurate clock to date by utilizing the regular oscil
+Once again building on the ideas of Galileo,Dutch scientist Christiaan Huygens invented the most accurate clock to date by utilizing the regular oscillations
 
 lations of a weighted pendulum, regulated slightly by a mechanical device.
 
@@ -13241,23 +13241,23 @@ BOYLE'S LAW (1662)
 
 Boyle's law, developed by scientist Robert Boyle, states that given a fixed
 
-temperature and a closedsystem, the pressureand volume of gaswill remain
+temperature and a closed system, the pressure and volume of gas will remain
 
-inverselyproportionate; i.e., asone decreases, the other increases, in propor
+inverselyproportionate; i.e., as one decreases, the other increases, in propor
 
-tionate degrees. Boyle's assistant Robert Hooke assisted in the discovery of
+proportionate degrees. Boyle's assistant Robert Hooke assisted in the discovery of
 
 this law. French chemist Edme Mariotte discovered the same principle at
-roughly the same time, but Boyle publishedit first.
+roughly the same time, but Boyle published it first.
 
 LIGHT SPECTRUM (1665)
 
-Correcting earlierviews that prismscolored light, Sir Isaac Newton demon
+Correcting earlier views that prisms colored light, Sir Isaac Newton demon
 
-strated througha series of experiments that arayof sunlight,shinedthrough
+strated through a series of experiments that a ray of sunlight,shined through
 
 a prism, containedcolors and wasnot colored by the prism,which only split
-the rayinto its constituent parts. By isolating onecolor expressed by a prism,
+the ray into its constituent parts. By isolating one color expressed by a prism,
 
 and shining it through yet another prism, Newton showed that the color
 
@@ -13277,13 +13277,13 @@ SPEED OF LIGHT (FIRST QUANTITATIVE MEASURE)
 
 (1676)
 
-While Galileo had been ableto establishthat light traveled faster than sound,
+While Galileo had been ableto establish that light traveled faster than sound,
 
 Danish astronomer Olaus Roemer, trying to account for disparities in his
 
 observations of eclipses, realized that the culprit was the amount of time
 
-light took to travelthrough space. By dint of advanced astronomical calcula
+light took to travel through space. By dint of advanced astronomical calcula
 
 tions, Roemer was able to approximate a speed of light not far off
 
@@ -13295,11 +13295,11 @@ HOOKE'SLAW (1676)
 
 Otherwise known as the law of elasticity, English scientist Robert Hooke
 
-discovered that the displacement or deformation of an objectwas proportion
+discovered that the displacement or deformation of an object was proportion
 
 ate to the amount of force exerted upon it—in other words,a spring stretches
 
-in proportionate amount to the degree of stress placed on it, beforeresuming
+in proportionate amount to the degree of stress placed on it, before resuming
 
 its original shape.
 
@@ -13323,7 +13323,7 @@ with systematizing the methods and principles on a larger scale than had
 
 ever before been accomplished. Broadly described as a branch of mathemat
 
-icsthat explains the principlesof physics, Newton and Leibniz both lay claim
+ics that explains the principlesof physics, Newton and Leibniz both lay claim
 
 to its invention, though history has since shown that both mathematicians
 
@@ -13344,10 +13344,10 @@ tween two objects.
 
 THREE LAWS OF MOTION AND ORBITS OF COMETS (1687, 1705)
 
-Newton's three laws of motion werefirst published in his groundbreaking
+Newton's three laws of motion were first published in his groundbreaking
 
-Philosophice NaturalisPrincipia Mathematica in July 1687. Newton's friend
-and publisher, Edmund Halley, would then relyon those laws in producing
+Philosophiae NaturalisPrincipia Mathematica in July 1687. Newton's friend
+and publisher, Edmund Halley, would then rely on those laws in producing
 
 the first accurate prediction of a comet's orbit around the earth. N
 
@@ -13355,34 +13355,34 @@ PIANO (1700S)
 
 Employed by the Medici court, Bartolomeo Cristofori sought to improve
 upon the harpsichord and clavichord by creating a similar instrument that
-wouldallowthe playerboth expressive controland a larger spectrum of vol
-ume.He called it a "pianoforte," which hassince beenshortenedto "piano."
+would allow the player both expressive control and a larger spectrum of vol
+ume.He called it a "pianoforte," which has since beenshortenedto "piano."
 
 TUNING FORK (1711)
 
-Designed bythe British musician JohnShore, the tuning fork, or "pitch-fork,"
-produceda very pure tone by which instruments couldbe accurately tuned.
+Designed bythe British musician John Shore, the tuning fork, or "pitch-fork,"
+produced a very pure tone by which instruments couldbe accurately tuned.
 
 STEAM ENGINE (1712)
 
-Expandingupon the earlier, more primitive inventions of Denis Papin and
+Expanding upon the earlier, more primitive inventions of Denis Papin and
 
 Thomas Savery, Thomas Newcomen, an English blacksmith, utilized atmo
 spheric pressure to propel a piston upward and downward by condensing
 
-steam,allowing an engineto pump water out of wells. It wasthe first com
+steam,allowing an engine to pump water out of wells. It wasthe first com
 
-mercially successful device of its kind.
+commercially successful device of its kind.
 
 MERCURY THERMOMETER (17U)
 
 While crude thermometers were conceived by both Galileo Galilei and Isaac
 
-Newton, German physicist DanielGabriel Fahrenheitinventedthe first fully
+Newton, German physicist Daniel Gabriel Fahrenheitinventedthe first fully
 
 functioning mercury thermometer: a glass tube containing mercury that
 
-registeredtemperature according to the degreeof heat appliedto it, demar
+registeredtemperature according to the degree of heat applied to it, demar
 
 cating both the boiling and freezingtemperatures of water.
 
@@ -13397,9 +13397,9 @@ sailors to orient themselves at sea.
 
 FLYING SHUTTLE (1733)
 
-An inventionthat helped spur the Industrial Revolution, the flying shuttle
-was a device that spedup the process of weaving with a loom and required
-lessmanpower. The device did not become widely used until after inventor
+An invention that helped spur the Industrial Revolution, the flying shuttle
+was a device that sped up the process of weaving with a loom and required
+less manpower. The device did not become widely used until after inventor
 
 John Kay's death.
 
@@ -13407,7 +13407,7 @@ LINNEAN TAXONOMY (1735)
 
 While the modern taxonomic scheme for organizing life still bears the name
 
-of the Swedish botanist and zoologist Carl Linnaeus, his model built on classificatpry systems that had been evolving for hundreds of years. But Lin
+of the Swedish botanist and zoologist Carl Linnaeus, his model built on classificatory systems that had been evolving for hundreds of years. But Lin
 
 naeus did make several essential additions, most importantly the practice of
 
@@ -13418,12 +13418,12 @@ CHRONOMETER (1735)
 Though countless versions of a chronometer had been developed since the
 early sixteenth century, the most fully realized device was created by the
 carpenter Thomas Harrison. The chronometer allowed navigators at seato
-determine longitude andlatitude by providing anaccurate representation of
+determine longitude and latitude by providing an accurate representation of
 time at a particular location.
 
 LIGHTNING ROD (1750)
 
-Ben Franklin first proposed the ideaof a lightningrodin a letter written in
+Ben Franklin first proposed the idea of a lightning rod in a letter written in
 
 1750, and his descriptions were ultimately translated into French. The first
 test of Franklin's theoretical design was actually implemented in France in
@@ -13435,7 +13435,7 @@ SPINNING JENNY (1764)
 A longstanding debate questions whether James Hargreaves was the true
 inventor of the spinning jenny, a machine that greatly improved the effi
 ciency of the cotton industry. Some evidence suggests that Hargreaves was
-merely improving the design of an artisan namedThomas Highs. What is
+merely improving the design of an artisan named Thomas Highs. What is
 clear is that the Hargreaves design was greatly improved upon in the years
 following the production of his first model by weavers throughout Northern
 England.
@@ -13444,7 +13444,7 @@ CARBONATED WATER (1767)
 
 Clergyman Joseph Priestley discovered that by charging water artificially
 with carbon dioxide, he could create an effervescent beverage, known today
-asseltzer. Though Priestley nevercapitalized on the business opportunities,
+as seltzer. Though Priestley nevercapitalized on the business opportunities,
 
 many inventors after him did.
 
@@ -13452,7 +13452,7 @@ PHOTOSYNTHESIS (1770-1800)
 
 Most commonly associated with the Austrian physician Jan Ingenhousz, the
 
-mechanism of photosynthesis was uncovered piece by piece over a thirtyyear period, starting in 1770 with a series of experiments and essayswritten
+mechanism of photosynthesis was uncovered piece by piece over a thirtyyear period, starting in 1770 with a series of experiments and essays written
 
 by Joseph Priestley. The cycle of carbon dioxide consumption and oxygen
 
@@ -13462,17 +13462,17 @@ by the Swiss naturalist Jean Senebier.
 
 PLANT RESPIRATION (1772-1773)
 
-While JosephPriestley is conventionally associated with the isolationof oxygen,
+While JosephPriestley is conventionally associated with the isolation of oxygen,
 
 he deserves more recognition for his discovery of plant respiration, circa 1773,
 
-which he collaboratedon via post with his goodfriend Benjamin Franklin.
+which he collaborated on via post with his good friend Benjamin Franklin.
 
 OXYGEN (1772-1776)
 
 One of the great stories of scientific collaboration and rivalry, oxygen was
 
-isolated by three scientists in the mid-1770s: the Swedishchemist Carl Wil
+isolated by three scientists in the mid-1770s: the Swedish chemist Carl Wil
 
 helm Scheele;the British polymath JosephPriestley,who named it "dephlogisticated air," after the reigning, and inaccurate, theory of phlogiston; and
 
@@ -13502,13 +13502,13 @@ MANNED HOT AIR BALLOON (1783)
 
 While hot air balloons date back to first-century A.D. Chinese culture, the first
 
-manned flight was designedby the French entrepreneurs Joseph-Micheland
+manned flight was designed by the French entrepreneurs Joseph-Micheland
 
 Jacques-Etienne Montgolfier.
 
 MILKY WAY (1785)
 
-Many astronomers and scientists, including AbuRayhan al-Blrum and Gal
+Many astronomers and scientists, including Abu Rayhan al-Al-Biruni and Gal
 
 ileo, contributed to the notion of the Milky Way as a collection of stars, but
 
@@ -13532,11 +13532,11 @@ SMALLPOX VACCINE (1796)
 
 The process of inoculating humans with small doses of-the smallpox virus,
 
-usually using scabs from the skin of a victim, waspracticed widely through
+usually using scabs from the skin of a victim, was practiced widely through
 
 China, Persia, and Africa after 1500. But the British scientist Edward Jenner
 
-was the first to design a vaccine based on a related cowpoxvirus that pro
+was the first to design a vaccine based on a related cowpox virus that pro
 
 duced immunity to smallpox with much lower mortality.
 
@@ -13584,7 +13584,7 @@ While numerous crucial improvements were added over the first half of the
 
 nineteenth century, the first functioning suspension bridge large enough to
 
-transport humans and horses was the Jacob'sCreek Bridge, built in the early
+transport humans and horses was the Jacob's Creek Bridge, built in the early
 
 1800s by the American judge and amateur engineer James Finley.
 
@@ -13596,7 +13596,7 @@ signed to run on roads, some on rails, in the last decades of the eighteenth
 
 century,though historiansgenerallyconsiderthe train designed by Richard
 
-Trevithick in Wales in 1805 to be the first fully functioning steam locomo
+Trevithick in Wales in 1805 to be the first fully functioning steam locomotive
 
 tive.
 
@@ -13612,8 +13612,8 @@ punch card control of warp threads.
 
 SPECTROSCOPE (18U)
 
-German lenscrafter Joseph von Fraunhofer inventedthe spectroscope, a de
-vice that measures properties of light, in order to study darklines occurring
+German lens crafter Joseph von Fraunhofer invented the spectroscope, a de
+vice that measures properties of light, in order to study dark lines occurring
 
 in various forms of spectra, which he later discovered were areas of the
 
@@ -13622,7 +13622,7 @@ spectrum where light is absorbed.
 STETHOSCOPE (1816)
 
 A French physician named Rene Laennec invented the stethoscope after
-improvisingone with a roll of paper while treating a woman suffering from
+improvising one with a roll of paper while treating a woman suffering from
 
 heart disease.
 
@@ -13668,9 +13668,9 @@ motion machines.
 
 GEOLOGICAL UNIFORMITARIANISM (1830)
 
-The idea that the geological state of the earth wasbasedon consistent forces
+The idea that the geological state of the earth was based on consistent forces
 
-actingoververy long time scales is largelyattributedto Charles Lyell's Prin
+acting over very long time scales is largelyattributedto Charles Lyell's Prin
 
 ciples of Geology, published in 1830, though the term itself comes from a
 
@@ -13716,7 +13716,7 @@ the basicprinciples of the programmablecomputer—including the notions
 
 of what we now call software, CPU, and memory—in his legendary Ana
 
-lytical Engine, which he first published a description of in 1837. Lord
+analytical Engine, which he first published a description of in 1837. Lord
 
 Byron's daughter Ada Lovelace wrote the first computer algorithm for the
 
@@ -13724,7 +13724,7 @@ device.
 
 TELEGRAPH (1838)
 
-In an effort to improve clumsier,five-wiremodels of the telegraph, inventor
+In an effort to improve clumsier,five-wire models of the telegraph, inventor
 
 Samuel Morse and his assistant Alfred Vail created a one-wire model that
 
@@ -13762,7 +13762,7 @@ The invention of the modern, practical sewing machine was largely due to
 
 the individual innovations of two men, American mechanic Elias Howe, who
 
-developed the machine's lockstitch mechanism, and American inventor Isaac
+developed the machine's lock stitch mechanism, and American inventor Isaac
 
 Singer, who pioneered the vertical motion mechanism for the needle. The
 
@@ -13782,9 +13782,9 @@ ABSOLUTE ZERO (1848)
 
 Drawing on the work of earlier scientists studying temperature, Kelvin de
 
-veloped absolute zero,which forms the lowestpoint of his Kelvin scale,rep
+veloped absolute zero,which forms the lowest point of his Kelvin scale,rep
 
-resenting the point at which all matter ceasesto move—roughly 273r.l5° C
+resenting the point at which all matter ceases to move—roughly 273r.l5° C
 
 PIG IRON/STEELMAKING (1850-1860)
 
@@ -13794,7 +13794,7 @@ after Henry Bessemer's innovations, the American inventor discovered the
 
 first means to mass-producing steel. By oxidizing pig iron, Bessemer was able
 
-to manufacture comparablyhigh-quaHtysteel in large quantities, eventually
+to manufacture comparably high-quality steel in large quantities, eventually
 
 aiding the construction of skyscrapers.
 
@@ -13812,13 +13812,13 @@ ASPIRIN (1897)
 
 While the pain-relieving properties of willow bark, whose medicinal quality
 
-derivedfrom the tree's salicin, had been understoodand prescribedsinceHip
+derived from the tree's salicin, had been understood and prescribedsinceHip
 
-pocrates, the drug's use had been plagued by side effects, primarily stomach
+Hippocrates, the drug's use had been plagued by side effects, primarily stomach
 
 pains. French chemist Charles Gerhardt discovered that adding sodium and
 
-acetyl chloride assuagedthe intestinal irritation, making for a better drug.
+acetyl chloride assuaged the intestinal irritation, making for a better drug.
 
 BUNSEN BURNER (1856)
 
@@ -13846,7 +13846,7 @@ LEAD-ACID BATTERY (1859)
 
 French physicist Gaston Plante invented the first rechargeable battery while
 
-experimenting with the conductivepower of rolled sheets of lead and sulfu
+experimenting with the conductivepower of rolled sheets of lead and sulfuric
 
 ric acid.
 
@@ -13868,7 +13868,7 @@ bloodshed on battlefields by reducing the number of soldiers needed, inven
 
 tor Richard Gatling created the Gatling gun, a hand-cranked continuously
 
-and rapidlyfiring weapon drawn on two wheels.
+and rapidly firing weapon drawn on two wheels.
 
 VACUUM CLEANER (1861)
 
@@ -13890,7 +13890,7 @@ man-made plastic—a synthetic material made from cellulose and treated
 
 with nitric acid—and debuted it at the 1862 World's Fair in London. Im
 
-provements were made on the material through the nineteenth and twenti
+improvements were made on the material through the nineteenth and twenti
 
 eth centuries.
 
@@ -13916,7 +13916,7 @@ PERIODIC TABLE (1864)
 
 In 1864,Russian chemist Dmitri Mendeleev developed upon earlier notions
 
-of British chemist John Newlandsthat chemical elements could be arranged
+of British chemist John Newlands that chemical elements could be arranged
 
 in a pattern according to their atomic masses, providing a more comprehen
 
@@ -13968,7 +13968,7 @@ electrically.
 
 ENZYMES (1878)
 
-First named by German doctor Wilhelm Kiihne in 1878, enzymes—proteins
+First named by German doctor Wilhelm Kühne in 1878, enzymes—proteins
 
 that act as catalysts for chemical reactions by speeding up the process—were
 
@@ -13992,7 +13992,7 @@ The discovery of cell division, the process known as mitosis among eukaryotes in
 
 of German biologist Walther Flemming, Eduard Strasburger, and Edouard
 
-vanBeneden.
+van Beneden.
 
 SEISMOGRAPH (1880)
 
@@ -14044,7 +14044,7 @@ Wilhelm Maybach created a four-wheel, four-stroke engine automobile and
 
 German engineer Karl Benz, who most historians credit as the ultimate in
 
-ventor of the modern automobile, designed a motor car powered by an in
+inventor of the modern automobile, designed a motor car powered by an in
 
 ternal combustion engine and gasoline.
 
@@ -14142,7 +14142,7 @@ describes the spontaneous disintegration of atomic nuclei.
 
 ELECTRON (1897)
 
-British physicistJ. J. Thomson, aided by Irish physicistJohn Townsend and
+British physicist J. J. Thomson, aided by Irish physicist John Townsend and
 
 British physicist H. A. Wilson, discovered the electron while experimenting
 
@@ -14274,7 +14274,7 @@ American engineer Alva John Fisher pioneered the first electric washing
 
 machine by attaching a motor to the traditional model of a hand-cranked
 
-washer. The Chicago-basedHurley Machine Company introduced the prod
+washer. The Chicago-based Hurley Machine Company introduced the prod
 
 uct in 1908.
 
@@ -14296,7 +14296,7 @@ and properties of metals such as lead, tin, and mercury when placed at
 
 liquid helium temperatures, and discovered that they lost all resistance
 
-when cooled to cryogenic levels. This quality became known as supercon
+when cooled to cryogenic levels. This quality became known as superconductivity
 
 ductivity.
 
@@ -14310,7 +14310,7 @@ atmosphere—was the culmination of the work of a number of scientists in
 
 the early twentieth century, although the German physicist Werner Kolhorster did receive a Nobel Prize for his work and research in the nascent
 
-field. However, Kolhorster's experiments leaned heavily on earlier discover
+field. However, Kolhorster experiments leaned heavily on earlier discover
 
 ies by Victor Hess and Theodor Wulf.
 
@@ -14336,7 +14336,7 @@ book in which he argued that all the continents of the earth had once been
 
 part of one massive landmass called Pangea, which had slowly split apart
 
-over time. Wegener's ideas were initially rejected, but became universally
+over time. Wegener ideas were initially rejected, but became universally
 
 accepted by the 1960s.
 
@@ -14346,9 +14346,9 @@ Heralding the era of mass production, the Ford Motor Company instituted
 
 a moving assembly line to construct cars under Ford's leadership in 1913,
 
-loweringthe price of cars and quickening their production. The inspiration
+lowering the price of cars and quickening their production. The inspiration
 
-for the assembly line came from nineteenth-century midwestern meatpack
+for the assembly line came from nineteenth-century midwestern meatpacking
 
 ing factories.
 
@@ -14368,7 +14368,7 @@ HELICOPTER (1920)
 
 Many failed, but promising models of primitive helicopters preceded the
 
-type created by Argentinean inventor Raul Pateras Pescara. Pescara's heli
+type created by Argentinean inventor Raul Pateras Pescara. Pescara helicopter
 
 copter was the first to achieve cyclic pitch, or control of the rotor blades, and
 
@@ -14424,7 +14424,7 @@ PENICILLIN (1928)
 
 While healers dating back to ancient civilization realized that molds could
 
-be used to help cure infection, it was a famous mistake in Scottish biolo
+be used to help cure infection, it was a famous mistake in Scottish biologist
 
 gist Alexander Fleming's laboratory that eventually brought penicillin to
 
@@ -14594,7 +14594,7 @@ John Rock, developed the birth control pill in the early 1950s, funded in part
 
 by the American birth control advocateMargaret Sanger. Leading a research
 
-group at the pharmaceutical company Syntex, American chemist Carl Djerassiworked on developing a steroid hormone, cortisone,which eventually led
+group at the pharmaceutical company Syntex, American chemist Carl Djerassi worked on developing a steroid hormone, cortisone,which eventually led
 
 to the synthesis of norethindrone, a progestogen, which became a fundamen
 
@@ -14620,7 +14620,7 @@ Drawing on previous studies of nucleotides in DNA, American molecular
 
 biologist James D. Watson and British molecular biologist Francis Crick ex
 
-perimented with models of different combinations of nucleotides using
+experimented with models of different combinations of nucleotides using
 
 paper and wire, and eventuallysettled upon the intertwined, dual, nucleotide
 
@@ -14724,7 +14724,7 @@ research and experiments with packet-switching networks, supported by the
 
 U.S. Department of Defense Advanced Research Projects Agency.
 
-CTSCAN (1971)
+CT SCAN (1971)
 
 Using a grant provided by the British Department of Health and Social
 
@@ -14746,7 +14746,7 @@ sponses from cancerous and noncancerous animal tissue.
 
 ENDORPHINS (1975)
 
-Discovered at about the same time by two researchteams working indepen
+Discovered at about the same time by two research teams working indepen
 
 dently, endorphins were first described when American scientist John
 
@@ -14788,9 +14788,9 @@ lack of acknowledgment of Roberts's colleagues.
 
 ARCHAEA (1977)
 
-Realizing that a number of organisms did not fit into the traditional catego
+Realizing that a number of organisms did not fit into the traditional categorization
 
-rization of plant or animal, American microbiologist Carl Woese and his
+categorization of plant or animal, American microbiologist Carl Woese and his
 
 colleagues created a new classificationof life, archaebacteria, shortened to
 
@@ -14818,7 +14818,7 @@ Luis and Walter Alvarez theorized in 1980 that 65 million years ago, a giant
 
 asteroid had struck earth, killing the dinosaur population.
 
-DNAFORENSICS (1984)
+DNA FORENSICS (1984)
 
 British geneticist Alec Jeffreys discovered DNA forensic fingerprinting by
 
@@ -14849,21 +14849,21 @@ British software engineer Tim Berners-Lee designed the program for the
 World Wide Web almost completelyindependently while working at CERN
 (European Laboratory for Particle Physics), in an attempt to create a "hy
 
-pertext notebook,"which was inspiredby the memory of a childhood ency
+hypertext notebook,"which was inspired by the memory of a childhood ency
 
 clopedia.
 
 GAMMA RAY BURSTS (1997)
 
-Gammaraybursts—flashes of gammarays coiningfrom deepouterspace—
+Gamma ray bursts—flashes of gamma rays coming from deep outer space—
 
 were first observed in 1967 by unclassified military satellites. The bursts
 
 befuddled scientists, uncertain of their nature or origin,until 1997, when the
 
-Italian-Dutch satelliteBeppoSAXwasableto targetthe burst position, lead
+Italian-Dutch satelliteBeppoSAXwasableto target the burst position, lead
 
-ing scientists to understand that the rayswere causedby residual X-ray emis
+ing scientists to understand that the rays were caused by residual X-ray emissions
 
 sions.
 
@@ -14882,7 +14882,7 @@ of these works in the bibliography, but several works have been disproportionate
 influential on my argument and method in this book. Dean Keith Simonton's Origins
 
 of Genius and Howard Gruber's Darwin on Man both explicitly take a Darwinian
-approach to innovation, andusethat approach to make sense of Darwin's own distinct
+approach to innovation, and use that approach to make sense of Darwin's own distinct
 genius. Arthur Koestler's Act of Creation and Thomas Kuhn's Structure of Scientific
 
 Revolutions remain essential platforms for the understanding of new ideas. Richard
@@ -14893,7 +14893,7 @@ Ogle's Smart World explores the intellectual and physical context of idea format
 
 as does Howard Gardner's Creating Minds. Everett M. Rogers's Diffusion of
 
-Innovationsis the canonical study of the way good ideas spread through organizations
+Innovations is the canonical study of the way good ideas spread through organizations
 
 and society. Mihaly Csikszentmihalyi's Flow and Creativity explore the psychological
 
@@ -14918,19 +14918,19 @@ Darwins Beagle Diary. The connection between Darwin's theories about coral reef
 formation and his later insights into the mechanism of natural selection is addressed
 in Howard Gruber's DarwinonMan. The original study on superlinear scaling in
 urban environments is available in "Growth, Innovation, Scaling, and the Pace of
-Life in Cities,"by Bettencourt,et al.A thoughtful layperson's introductionto Kleiber's
-law and its applicationto urban culture can be found in George Johnson's "Of Mice
+Life in Cities,"by Bettencourt,et al.A thoughtful layperson's introduction to Kleiber's
+law and its application to urban culture can be found in George Johnson's "Of Mice
 and Elephants: A Matter of Scale." For a thoroughhistory of HDTV's development,
 see Joel Brinkley's Defining Vision. An informative chart of twentieth-century
-technologyadoptionratesin the United Statescanbe found at http://www.nytimes
-.com/imagepages/2008/02/10/opinion/10op.graphic.ready.html. JohnCloud's "The
+technologyadoptionratesin the United States can be found at http://www.nytimes
+.com/image pages/2008/02/10/opinion/10op.graphic.ready.html. JohnCloud's "The
 Gurus of YouTube" offers a history of the company's founding. For a compelling
-overviewof the Web's "generative" powers, seeJonathan Zittrain's TheFuture of the
+overview of the Web's "generative" powers, see Jonathan Zittrain's The Future of the
 
-Internet—And How to StopIt. Formore on the evolution of software interfaces, see
+Internet—And How to Stop It. Formore on the evolution of software interfaces, see
 
 Howard Rheingold's Tools for Thought and my Interface Culture. The notion of
-"patterns" of innovationislooselybasedon the conceptof patternsand metapatterns
+"patterns" of innovationislooselybasedon the conceptof patterns and metapatterns
 developed by Gregory Bateson in Mind and Nature. The "long zoom" approach is
 
 discussed in more detail in the appendices of my earlier books Everything Bad
@@ -14958,7 +14958,7 @@ the adjacent possible is outlined in his book Investigations. The social causes 
 
 multiple simultaneous discoveryareoutlined in Ogburn and Thomas's "Are Inventions
 
-Inevitable?" The phenomenonis alsodiscussed at length in Dean Keith Simonton's
+Inevitable?" The phenomenon is also discussed at length in Dean Keith Simonton's
 Creativity in Science. For more on the discovery of oxygen, see Kuhn's Structure of
 Scientific Revolutions, Joe Jackson's World on Fire, and my own Invention of Air.
 Charles Babbage'sattempt to build the first computer is chronicled in Doron Swade's
@@ -14976,7 +14976,7 @@ Origin-, Philip Ball's imaginative "biography" of water, Life's Matrix; and Carl
 
 Zimmer's Science essay "Evolutionary Roots: On the Origin of Life on Earth." The
 
-original Miller-Urey experiment was published in Science in the essay"AProduction
+original Miller-Urey experiment was published in Science in the essay"A Production
 
 of Amino Acids Under Possible Primitive Earth Conditions." Silicon-based life
 
@@ -15038,10 +15038,10 @@ scientific creativity everwritten. Images from Erasmus Darwin's commonplace book
 can be found online at http://www.revolutionaryplayers.org.uk/. John Mason's selfhelp guide to commonplace books appeared in his Treatise on Knowledge. Robert
 Darnton's essay "Extraordinary Commonplaces," from the NewYork Review of Books,
 provides an erudite account of the impact that commonplace books had on the
-Enlightenment-era literaryimagination. Tim Berners-Lee's Weaving theWeb tells the
+Enlightenment-era literaryimagination. Tim Berners-Lee's Weaving the Web tells the
 story of his invention of the Web, along with his ideas for improving the current
 platform. Myths of Innovation author Scott Berkun has an interesting analysis of
-Google's "innovation time off" prpgram on his blogat http://www.scottberkun.com/
+Google's "innovation time off" program on his blog at http://www.scottberkun.com/
 blog/2008/thoughts-on-googles-20-time/.
 
 CHAPTER 4: SERENDIPITY
@@ -15060,7 +15060,7 @@ Inspires Insight." Robert Thatcher's study of different phase states can be foun
 "Intelligence and EEG Phase Reset" from the journal Neurolmage. For more on
 
 neurological serendipity, seeDavidRobson's NewScientist essay "DisorderlyGenius."
-William James'squote on the chaoticnature of "higher mind" appearsin GreatMen,
+William James's quote on the chaotic nature of "higher mind" appearsin Great Men,
 
 Great Thoughts, and the Environment. For an entertaining and provocative overview
 
@@ -15082,7 +15082,7 @@ notion of an architecture of serendipity in Going to Extremes, and, wit|a Richar
 
 Thaler, in Nudge. Alex Osborn's brainstorming technique was introduced in his book
 
-Applied Imagination.Fora discussionof the problems with brainstorming and group
+Applied Imagination.Fora discussion of the problems with brainstorming and group
 
 creativity in general, see B. A. Nistad's "Illusion of Group Productivity," from the
 
@@ -15107,7 +15107,7 @@ Hearts Beat." Will Stanley Jevons's reference to the "errors of the great mind"
 appearsin his "Principles of Science."For more on the generative power of error, see
 
 Kathryn Schulz's superb Being Wrong. I have discussed the connection between
-Kuhn's scientific paradigmsand the long zoom approach in my Invention of.Air. For
+Kuhn's scientific paradigms and the long zoom approach in my Invention of.Air. For
 
 an excellent discussion of Dunbar's research and the accidental discovery of cosmic
 
@@ -15134,26 +15134,26 @@ Timothy Prestero's "Better by Design."
 
 CHAPTER 6: EXAPTATION
 
-Gutenberg'sinvention of the printing press is recountedin John Man's Gutenberg. I
-have also drawnupon the insightson Gutenberg's revolutionthat appear in Richard
-Ogle's SmartWorld, andElizabeth Eisenstein's PrintingPress asanAgentof Change.
+Gutenberg'sinvention of the printing press is recounted in John Man's Gutenberg. I
+have also draw upon the insights on Gutenberg's revolution that appear in Richard
+Ogle's SmartWorld, and Elizabeth Eisenstein's Printing Press asanAgentof Change.
 Gould and Vrba's concept of exaptation originally appeared in Paleobiology in the
-essay "Exaptation—AMissing Term in the Science of Form." For more onthe concept,
+essay "Exaptation—A Missing Term in the Science of Form." For more onthe concept,
 see Buss et al'sAdaptations, Exaptations, and Spandrels. For more on the history of
-Google, see JohnBattelle's TheSearch Franco Moretti discusses culturalexaptation
+Google, see John Battelle's The Search Franco Moretti discusses culturalexaptation
 in his essay "On Literary Evolution," included in his Signs Taken for Wonders.
 Koestler's^rt of Creation contains many examples of exaptative thought, though he
-doesnot explicitly use the term, sincethe book predates Gould and Vrba's essay. For
-more on urban subcultures, seeClaudeFischer's essays "Towarda SubculturalTheory
+does not explicitly use the term, since the book predates Gould and Vrba's essay. For
+more on urban subcultures, seeClaudeFischer's essays "Toward a SubculturalTheory
 
 of Urbanism" and "The Subcultural Theory of Urbanism: A Twentieth-Year
-Assessment." Jane Jacobs's Death andLifeof GreatAmerican Cities and TheEconomy
-of Cities contain many similarinsights about the capacity of big citiesto cultivate
-smallclusters of interests. (Chris Anderson discusses this in the context of his "long
+Assessment." Jane Jacobs's Death and Life of GreatAmerican Cities and The Economy
+of Cities contain many similarinsights about the capacity of big cities to cultivate
+small clusters of interests. (Chris Anderson discusses this in the context of his "long
 tail" theory in The Long Tail) For more on the concept of the "Third Place," see
 
 Ray Oldenburg's The Great Good Place. For more on the innovations of the British
-coffeehouse, see BrianCowan's Social Life of Coffee, Tom Standage's History of the
+coffeehouse, see Brian Cowan's Social Life of Coffee, Tom Standage's History of the
 World in Six Glasses, and my Invention of Air. Freud's Vienna salon is described in
 
 the context of innovation in Howard Gardner's Creating Minds. Martin Ruef's
@@ -15162,15 +15162,15 @@ research appears in his essay "Strong Ties, Weak Ties and Islands," originally
 
 published in Industrial and CorporateChange. Formore on Ronald Burt's analysis of
 social networks and organizational innovation, see his "Social Contagion and
-Innovation" and Social Origins of GoodIdeas. RichardOgle givesa riveting account
-of the exaptativecreativityof Watson and Crickin SmartWorld For more on Apple's
+Innovation" and Social Origins of GoodIdeas. Richard Ogle gives a riveting account
+of the exaptativecreativityof Watson and Crick in SmartWorld For more on Apple's
 design and development processes, see Lev Grossman's"How Apple Does It." Howard
 
-Gruber describeshis "networks of enterprise" in his essay "The Evolving Systems
+Gruber describes his "networks of enterprise" in his essay "The Evolving Systems
 
 Approach to Creative Work." For more on John Snow's diverse intellectual interests,
 
-see Peter Vinten-Johansen's Cholera, Chloroform, and theScience of Medicine and my
+see Peter Vinten-Johansen's Cholera, Chloroform, and the Science of Medicine and my
 
 Ghost Map.
 
@@ -15186,7 +15186,7 @@ Paine's "Conversation on Refining the Concept of Keystone Species," published in
 
 Conservation Biology.The concept of an ecosystem engineer is introduced in Clive
 
-Jones's "Organisms asEcosystem Engineers."Fora delightful history of the origins of
+Jones's "Organisms as Ecosystem Engineers."Fora delightful history of the origins of
 
 GPS, see William Guier and George Weiffenbach's first-person account, "Genesis of
 
@@ -15205,12 +15205,12 @@ contributions from its users: end-user innovation and "venturesome" consumption.
 For more on these concepts, see Eric von Hippel's Democratizing Innovation and
 
 Amar Bhide's Venturesome Economy. For more on the politics of collaborative
-platforms,see ClayShirky's HereComes Everybody.Tim O'Reilly discusses the idea
+platforms,see Clay Shirky's Here Comes Everybody.Tim O'Reilly discusses the idea
 of government-as-platform in a Forbes column titled "Gov 2.0: The Promise of
 
 Innovation." An account of the Redbird artificial reef can be found in Ian Urbina's
 
-New York Times article "Growing Pains fora Deep-SeaHome Built of Subway Cars."
+New York Times article "Growing Pains fora Deep-Sea Home Built of Subway Cars."
 
 For more on the Jacobs vision of neighborhoods as emergent platforms, see my
 
@@ -15218,7 +15218,7 @@ Emergence. Claudio Richter's coral research is described in John Roach's Nationa
 Geographic article "Rich Coral Reefs in Nutrient-Poor Water: Paradox Explained?"
 
 For more on Calera's technology, see David Biello's Scientific American article
-"Cementfrom C02: A Concrete Cure for Global Warming?" I address the notionof
+"Cement from C02: A Concrete Cure for Global Warming?" I address the notionof
 the Web as rain forest in a Discover column, "Why the Web Is Like a Rainforest,"
 
 and in a speech from the SXSW conferencetitled "Old Growth Media and the Future
@@ -15231,20 +15231,20 @@ Willis Carrier's life story is told in his Fatherof Air Conditioning. Moretti's 
 
 of "distant reading" is outlined in his Graphs,Maps, Trees. The innovation survey
 
-also draws on the histriometric approach to innovation developed by Dean Keith
+also draws on the histriometrics approach to innovation developed by Dean Keith
 
 Simonton in Genius, Creativity, and Leadership and Creativity in Science. Yochai
 
 Benkler includes a more complex chart of potential innovation frameworks in Wealth
 
 of Networks. For more on the notion of collective invention, see Peter B; Meyer's
-"Episodes of Collective Invention." Marx and Engels's reaction'to Darwin'swork is
-discussed in Gruber's DarwinonMan.For more on the metaphorof the tangledbank
+"Episodes of Collective Invention." Marx and Engels's reaction to Darwin's work is
+discussed in Gruber's DarwinonMan.For more on the metaphor of the tangled bank
 and its importance to the theory of evolution, see Carl Zimmer's Tangled Bank.
-McPherson's dispute with Evansand his correspondence with Jeffersonarediscussed
-in Joseph Scott Miller's essay "Nonobviousness: LookingBackand LookingAhead,"
-included in the collection Intellectual Property andInformation Wealth, edited by
-PeterK.Yu.I first encountered Jefferson's quotein Lawrence Lessig's Future of Ideas.
+McPherson's dispute with Evans and his correspondence with Jeffersonarediscussed
+in Joseph Scott Miller's essay "Nonobviousness: Looking Back and Looking Ahead,"
+included in the collection Intellectual Property and Information Wealth, edited by
+Peter K..Yu.I first encountered Jefferson's quote in Lawrence Lessig's Future of Ideas.
 That book* along with his books Code and Remix, is essential reading for anyone
 
 interested in the notion of an information commons.
@@ -15255,7 +15255,7 @@ Adam,John. "Making Hearts Beat."Lecture, Smithsonian Institution, Innovative Liv
 
 1999.http://invention.smithsonian.org/centerpieces/ilives/lecture09.html.
 
-Anderson, Chris. The Long Tail-WHiy the Future of BusinessIs Selling Less of More.
+Anderson, Chris. The Long Tail-Why the Future of Business Is Selling Less of More.
 
 New York: Hyperion, 2008.
 
@@ -15263,7 +15263,7 @@ Baker, Jeffrey P. "The Incubator and the Medical Discovery of the Premature In
 
 fant" JournaLof Perinatology 20, no. 5 (2000):321-28.
 
-Ball, Philip. Life'sMatrix:A Biographyof Water. New York: Farrar, Straus, and Giroux, 2000.
+Ball, Philip. Life's Matrix:A Biography of Water. New York: Farrar, Straus, and Giroux, 2000.
 
 Barth, John. The Last Voyage of SomebodytheSailor.Boston: Little, Brown, 1991.
 
@@ -15277,9 +15277,9 @@ and Transformed Our Culture. New York: Portfolio, 2006.
 
 Baumol, William J. The Free-Market Innovation Machine: Analyzing the Growth
 
-Miracleof Capitalism. Princeton: Princeton University Press, 2002.
+Miracle of Capitalism. Princeton: Princeton University Press, 2002.
 
-Benkler, Yochai. The Wealthof Networks: How SocialProductionTransforms Markets
+Benkler, Yochai. The Wealth of Networks: How SocialProductionTransforms Markets
 
 and Freedom. New Haven: Yale University Press, 2006.
 
@@ -15293,7 +15293,7 @@ BIBLIOGRAPHY
 
 Bettencourt, L., J.Lobo, D. Helbing, C. Kuhnert, and G. B. West. "Growth, Innovation,
 
-Scaling,and the Paceof Life in Cities." Proceedings of theNationalAcademy
+Scaling,and the Pace of Life in Cities." Proceedings of theNationalAcademy
 
 of Sciences 104, no. 17 (2007): 7301.
 
@@ -15317,19 +15317,19 @@ Vol. 3, Civilization and Capitalism 15th—18th Century, 1992.
 
 . The Wheels of Commerce. Berkeley: University of California Press, 1992.
 
-Vol. 2, Civilization and Capitalism 15th-18thCentury, 1992.
+Vol. 2, Civilization and Capitalism 15th-1818th Century, 1992.
 
 Brinkley, Joel. Defining Vision: The Battle for the Future of Television. New York:
 
 Harcourt Brace, 1997.
 
-Brown,John Seely, and Paul Duguid. TheSocial Life of Information. Boston: Harvard
+Brown,John Seely, and Paul Duguid. The Social Life of Information. Boston: Harvard
 
 Business School Press, 2002.
 
-Burt, RonaldS. "SocialContagion and Innovation: Cohesion Versus StructuralEquiv
+Burt, Ronald S. "SocialContagion and Innovation: Cohesion Versus StructuralEquiv
 
-alence." American Journalof Sociology92, no. 6 (1987): 1287.
+Equivalence." American Journalof Sociology92, no. 6 (1987): 1287.
 
 . Social Origins of GoodIdeas. Chicago: University of Chicago, 2003. http://
 
@@ -15371,7 +15371,7 @@ vention. New York: HarperPerennial, 1997.
 
 Dacey, John S., Kathleen Lennon, and Lisa B. Fiore. Understanding Creativity: The
 
-Interplay of Biological, Psychological, and SocialFactors. San Francisco: Jossey-
+Interplay of Biological, Psychological, and Social Factors. San Francisco: Jossey-
 
 Bass, 1998.
 
@@ -15383,7 +15383,7 @@ Darlin, Damon. "Serendipity, Lost in the Digital Deluge." The New York Times,
 
 August 1, 2009.
 
-Darnton, Robert. "Extraordinary Commonplaces." New York Reviewof Books 47, no.
+Darnton, Robert. "Extraordinary Commonplaces." New York Review of Books 47, no.
 
 20 (2000): 82-87.
 
@@ -15405,7 +15405,7 @@ De Landa, Manuel. A Thousand Years of NonlinearHistory. New York: Zone Books,
 
 1997.
 
-Diamond, Jared M. Why Is Sex Fun? The Evolutionof Human Sexuality. New York:
+Diamond, Jared M. Why Is Sex Fun? The Evolution of Human Sexuality. New York:
 
 HarperCollins, 1997.
 
@@ -15415,7 +15415,7 @@ doi: 10.1038/news.2009.864.
 
 Dunbar, Kevin. "How Scientists Build Models: InVivo Science as a Window on the
 
-Scientific Mind." In Model-based Reasoningin ScientificDiscovery, edited by
+Scientific Mind." In Model-based Reasoning ScientificDiscovery, edited by
 
 Lorenzo Magnani, Nancy J. Nersessian, and Paul Thagard, 89-98. New York:
 
@@ -15431,7 +15431,7 @@ Processes, edited by Thomas B. Ward, Stephen M. Smith, and Jyotsna Vaid,
 
 . "What Scientific Thinking Reveals About the Nature of Cognition." -In
 
-Designingfor Science: Implicationsfrom Everyday, Classroom, and Professional
+Designing for Science: Implicationsfrom Everyday, Classroom, and Professional
 
 Settings, edited by Kevin Crowley, Christian D. Schunn, and Takeshi Okada,
 
@@ -15449,7 +15449,7 @@ Fischer, Claude S. "The Subcultural Theory of Urbanism: A Twentieth-Year Assess
 
 ment." American Journalof Sociology 101, no. 3 (1995): 543-77.
 
-. "Toward a Subcultural Theory of Urbanism." American Journal of Sociol
+. "Toward a Subcultural Theory of Urbanism." American Journal of Sociology
 
 ogy 80, no. 6 (1975): 1319-41.
 
@@ -15459,11 +15459,11 @@ Florida, Richard L. CitiesandtheCreative Class. New York: Routledge, 2005.
 
 Community and Everyday Life. New York: Basic Books, 2004.
 
-Franklin, Benjamin. TheLife andWritings of Benjamin Franklin, Vol 2. Philadel
+Franklin, Benjamin. TheLife and Writings of Benjamin Franklin, Vol 2. Philadelphia
 
 phia: McCarty & Davis, 1834.
 
-Gardner, Howard.CreatingMinds: An Anatomyof Creativity Seen Through theLives
+Gardner, Howard.Creating Minds: An Anatomy of Creativity Seen Through the Lives
 of Freud, Einstein, Picasso, Stravinsky, Eliot,Graham, and Gandhi. New York-
 
 Basic Books, 1993.
@@ -15471,7 +15471,7 @@ Basic Books, 1993.
 Gay, Peter. The Enlightenment: An Interpretation. New York: W. W Norton, 1977.
 
 . TheEnlightenmentTheScience of Freedom. New York:W. W. Norton, 1977.
-Gertz,Bill.Breakdown: TheFailure of American Intelligence toDefeatGlobal Terror.
+Gertz,Bill.Breakdown: The Failure of American Intelligence to Defeat Global Terror.
 
 New York: Plume, 2003.
 
@@ -15491,7 +15491,7 @@ Grossman, Lev. "How Apple Does It." Time (October 16, 2005). http://www.time
 
 .com/time/magazine/article/0,9171,1118384,00.html.
 
-Gruber,HowardE. "Networks of Enterprisein Creative Scientific Work." In Psychol
+Gruber,Howard E. "Networks of Enterprise in Creative Scientific Work." In Psychol
 
 ogy of Science: Contributions to Metascience, edited by Barry Gholson et al.,
 
@@ -15499,23 +15499,23 @@ ogy of Science: Contributions to Metascience, edited by Barry Gholson et al.,
 
 —
 
--. "The Evolving Systems Approachto CreativeWork." Creativity Research
+-. "The Evolving Systems Approachto Creative Work." Creativity Research
 
 Journal 1, no. 1 (1988): 27-51.
 
-Gruber,Howard E., CharlesDarwin, and Paul H. Barrett. Darwin onMaw A Psycho
+Gruber,Howard E., CharlesDarwin, and Paul H. Barrett. Darwin on Maw A Psycho
 
 logical Study of Scientific Creativity. New York: Dutton, 1974.
 
 Guier, William H., and George C. Weiffenbach. "Genesis of Satellite Navigation."
 
-JohnsHopkins APL TechnicalDigest 19, no. 1 (1998): 15.
+Johns Hopkins APL TechnicalDigest 19, no. 1 (1998): 15.
 
 Hall, Doug. "Fail Fast, Fail Cheap." BusinessWeek (June 25, 2007). http://www
 
 .businessweek.com/magazine/content/07_26/b4040436.htm_.
 
-Harkness, Deborah E. The Jewel House: Elizabethan London and the ScientificRevo
+Harkness, Deborah E. The Jewel House: Elizabethan London and the Scientific Revolution
 
 lution. New Haven: Yale University Press, 2007.
 
@@ -15531,7 +15531,7 @@ The Emergence of Order, edited by Eugene F. Yates. New York: Plenum Press,
 
 1987.
 
-Jackson, Joe.A World onFire:A Heretic, anAristocrat,and the Race to Discover Oxy
+Jackson, Joe.A World on Fire:A Heretic, an Aristocrat,and the Race to Discover Oxy
 
 gen. New York: Penguin, 2007.
 
@@ -15563,7 +15563,7 @@ Johnson, Steven. "How Twitter Will Change the Way We Live." Time (June 5,
 
 .html#ixzz0mu8f4umZ.
 
-Johnson, Steven. The Inventionof Air: A Story of Science, Faith, Revolution, and the
+Johnson, Steven. The Invention of Air: A Story of Science, Faith, Revolution, and the
 
 Birth of America. New York: Riverhead Books, 2008.
 
@@ -15573,13 +15573,13 @@ Making Us Smarter. New York: Riverhead Books, 2006.
 
 . "Why the Web Is Like a Rainforest" Discover (October 2005). http://dis
 
-covermagazine.com/2005/oct/emerging-technology.
+discover magazine.com/2005/oct/emerging-technology.
 
-. Emergence: The ConnectedLives of Ants, Brains, Cities, and Software. New
+. Emergence: The Connected Lives of Ants, Brains, Cities, and Software. New
 
 York: Scribner, 2002.
 
-. Interface Culture: HowNew Technology Transforms theWayWeCreate and
+. Interface Culture: How New Technology Transforms the Way We Create and
 
 Communicate. San Francisco: HarperEdge, 1997.
 
@@ -15589,7 +15589,7 @@ Oikos (1994): 373-86.
 
 Kauffman, Stuart A. Investigations. New York: Oxford University Press,2000.
 
-. At Home in the Universe: The Searchfor theLaws of Self-Organization and
+. At Home in the Universe: The Search for the Laws of Self-Organization and
 
 Complexity. New York: Oxford University Press, 1995.
 
@@ -15617,7 +15617,7 @@ Lanier, Jaron. You Are Not a Gadget:A Manifesto. Waterville, Maine: Thorndike
 
 Press, 2010.
 
-. "Digital Maoism: The Hazards of the New Online Collectivism." TheEdge
+. "Digital Maoism: The Hazards of the New Online Collectivism." The Edge
 
 183 (May 30, 2006).
 
@@ -15627,17 +15627,17 @@ Lehrer, Jonah. How We Decide. Boston: Mariner Books, 2010.
 
 2009). http://www.wired.eom/magazine/2009/12/fail_accept_defeat/all/l.
 
-Lessig, Lawrence. Remix:MakingArt and Commerce Thrive in theHybrid Economy.
+Lessig, Lawrence. Remix:Making Art and Commerce Thrive in the Hybrid Economy.
 
 New York: Penguin Press, 2008.
 
-;—. The Futureof Ideas: The Fateof the Commons in a Connected World New
+;—. The Future of Ideas: The Fate of the Commons in a Connected World New
 
 York: Random House, 2001.
 
-. Code,and OtherLaws of Cyberspace. New York: Basic Books, 1999.
+. Code,and Other Laws of Cyberspace. New York: Basic Books, 1999.
 
-Lovell, Jim, and Jeffrey Kluger. LostMoon: ThePerilous Voyage of Apollo 13.Boston:
+Lovell, Jim, and Jeffrey Kluger. Lost Moon: The Perilous Voyage of Apollo 13.Boston:
 
 Houghton Mifflin, 1994.
 
@@ -15661,11 +15661,11 @@ Man, John. Gutenberg: How One Man Remade the World with Words. New York: John
 
 Wiley & Sons, 2002.
 
-Margulis, Lynn, and Dorion Sagan. Microcosmos: Four Billion Years of Evolution
+Margulis, Lynn, and Dorion Sagan. Showing the: Four Billion Years of Evolution
 
 from Our Microbial Ancestors.Berkeley: University of California Press, 1997.
 
-Mason, John. A Treatise on Self Knowledge: Showingthe Nature and Benefit of That
+Mason, John. A Treatise on Self Knowledge: Showing the Nature and Benefit of That
 
 Important Science, and the Way to Attain It. Boston: J. Loring, 1833.
 
@@ -15679,7 +15679,7 @@ tics Working Paper WP-368 (2003).
 
 Miller, Stanley L. "A Production of Amino Acids Under Possible Primitive Earth
 
-Conditions." Journalof NIHResearch 5 (1993).
+Conditions." Journalof NIH Research 5 (1993).
 
 . "Production of Some Organic Compounds Under Possible Primitive Earth
 
@@ -15693,13 +15693,13 @@ Moretti, Franco. Graphs,Maps, Trees: Abstract Modelsfor a Literary History. New
 
 York: Verso, 2005.
 
-. Atlas of the EuropeanNovel, 1800-1900. New York: Verso, 1998.
+. Atlas of the European Novel, 1800-1900. New York: Verso, 1998.
 
 . The Way of the World: The Bildungsroman in EuropeanCulture.Translated
 
 by Albert Sbragia. London: Verso, 1987.
 
-. Signs Takenfor Wonders: Essays in the Sociology of Literary Forms. New
+. Signs Taken for Wonders: Essays in the Sociology of Literary Forms. New
 
 York: Verso, 1983.
 
@@ -15737,11 +15737,11 @@ Boston: Harvard Business School Press, 2007.
 
 Oldenburg, Ray. The Great Good Place: Cafes, Coffee Shops, Community Centers,
 
-BeautyParlors, General Stores, Bars, Hangouts, andHow They Get You Through
+Beauty Parlors, General Stores, Bars, Hangouts, andHow They Get You Through
 
 the Day. New York: Marlowe, 1997.
 
-O'Reilly, Tim. "Gov 2.0: The Promiseof Innovation." Forbes (August 10,2009).http://
+O'Reilly, Tim. "Gov 2.0: The Promise of Innovation." Forbes (August 10,2009).http://
 
 www.forbes.com/2009/08/10/government-internet-software-technology
 -breakthroughs-oreilly.html.
@@ -15750,7 +15750,7 @@ Osborn, Alex Faickney. Applied Imagination: Principles and Procedures of Creativ
 
 Problem Solving. New York: Scribner, 1963.
 
-Paine, R. T. "Conversation on Refining the Concept of Keystone Species." Conserva
+Paine, R. T. "Conversation on Refining the Concept of Keystone Species." Conservation
 
 tion Biology 9, no. 4(1995):962-64.
 
@@ -15758,7 +15758,7 @@ Palermo, David Stuart, and James I Jenkins. Word Association Norms: Grade School
 
 Through College. Minneapolis: University of Minnesota Press, 1964.
 
-Pauhus, P. B., M. T. Dzindolet, G. Poletes,and L. M. Camacho. "Perception of Per
+Pauhus, P. B., M. T. Poletus, G. Poletes,and L. M. Camacho. "Perception of Per
 
 formance in Group Brainstorming:The Illusion of Group Productivity." Per
 
@@ -15768,7 +15768,7 @@ Paulus, Paul B., and Bernard Arjan Nijstad. Group Creativity: Innovation Through
 
 Collaboration.New York: Oxford University Press, 2003.
 
-Poincare, Henri, and George Bruce Halsted. TheFoundations of Science; Science and
+Poincare, Henri, and George Bruce Halsted. Foundations of Science; Science and
 
 Hypothesis, the Value of Science, Science and Method. New York: Science Press,
 
@@ -15780,13 +15780,13 @@ tion (2005): 1009-31.
 
 Prestero, Timothy. "Better by Design: How Empathy Can Lead to More Successful
 
-Technologies and Services forthe Poor(Discussion of Design CaseNarratives:
+Technologies and Services forthe Poor(Discussion of Design Case Narratives:
 
 Rickshaw Bank, Solar-Powered Tuki, FGN Pump)." Innovations: Technology,
 
 Governance, Globalization 5, no. 1 (2010): 79-93.
 
-Priestley, Joseph. Experimentsand Observations on Different Kinds of Air and Other
+Priestley, Joseph. Experiments and Observations on Different Kinds of Air and Other
 
 Branches of Natural Philosophy, Connected with the Subject. . . : Being the
 
@@ -15798,7 +15798,7 @@ Prigogine, Ilya, and Gregoire Nicolis. Exploring Complexity. New York: W. H. Fre
 
 man, 1989.
 
-Rheingold, Howard. Toolsfor Thought The History and Future of Mind-Expanding
+Rheingold, Howard. Tools for Thought The History and Future of Mind-Expanding
 
 Technology. Cambridge, Mass.: MIT Press, 2000.
 
@@ -15838,7 +15838,7 @@ Schofield, Robert E., ed. A ScientificAutobiography of Joseph Priestley (1733—
 
 SelectedScientificCorrespondence. Cambridge, Mass.: MIT Press, 1966.
 
-Schopf, J. William. Life's Origin: The Beginningsof Biological Evolution. Berkeley:
+Schopf, J. William. Life's Origin: The Beginnings of Biological Evolution. Berkeley:
 
 University of California Press, 2002.
 
@@ -15846,9 +15846,9 @@ Schulz, Kathryn. Being Wrong: Adventures in the Margin of Error. New York:
 
 HarperCollins, 2010.
 
-Shapin, Steven. TheScientific Revolution. Chicago: University of Chicago Press, 1996.
+Shapin, Steven. The Scientific Revolution. Chicago: University of Chicago Press, 1996.
 
-Shapin, Steven, and Simon Schaffer. Leviathanand theAir-Pump:Hobbes,Boyle, and
+Shapin, Steven, and Simon Schaffer. Leviathan and the Air-Pump:Hobbes,Boyle, and
 
 the Experimental Life. Princeton: Princeton University Press, 1985.
 
@@ -15870,7 +15870,7 @@ University Press, 1999.
 
 Mass.: Harvard University Press, 1984.
 
-Stahdage, Tom. A History of the World in Six Glasses. New York: Walker, 2005.
+Stahlage, Tom. A History of the World in Six Glasses. New York: Walker, 2005.
 
 Sternberg, Robert J. Handbook of Creativity. Cambridge,UK: Cambridge University
 
@@ -15919,7 +15919,7 @@ Wagner, Ullrich, Steffen Gais, Hilde Haider, Rolf Verleger, and Jan Born. "Sleep
 
 Inspires Insight." Nature 427, no. 6972 (2004): 352-55.
 
-Waldrop, Mitchell M. Complexity; The Emerging Scienceat the Edge of Order and
+Waldrop, Mitchell M. Complexity; The Emerging Science at the Edge of Order and
 
 Chaos. New York: Simon and Schuster, 1992.
 
@@ -16397,7 +16397,7 @@ Ferdinand III, Holy Roman Emperor, 259
 Fermi, Enrico, 287
 
 Ferraris, Galileo, 277
-Ferro, Scipiorie del, 253
+Ferro, Scipione del, 253
 Fick, Adolf Eugen, 278
 Finley, James, 267
 Fiore, Antonio, 253
@@ -16483,7 +16483,7 @@ Gould, Steven Jay, 29, 126, 153-54, 156,
 Grand Alliance, 12rc
 
 Granovetter, Mark, 167
-Graphicaluser interface (GUI), 15—16, 160,
+Graphical user interface (GUI), 15—16, 160,
 
 Gravity, 262, 284
 Gray, Elisha, 275
@@ -17352,7 +17352,7 @@ material... Fluidly written, entertaining, and smart without being arcane."
 
 —THE OREGONIAN
 
-Dovei design by K en in
+Dovey design by K en in
 
 www.penguin.com
 www.stevenberiinjohnson.com

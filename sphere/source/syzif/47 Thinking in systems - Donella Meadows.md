@@ -1302,7 +1302,7 @@ pests	in	a	cornfield,	a	national	economy,	or	weapons	in	an	arms	race.
 feedback
 
 Reinforcing
-loops	 are	 selfenhancing,	 leading	 to	 exponential	 growth	 or
+loops	 are	 self enhancing,	 leading	 to	 exponential	 growth	 or
 to	 runaway	 collapses	 over	 time.	 They	 are
 found	 whenever	 a	 stock	 has	 the	 capacity	 to
 reinforce	or	reproduce	itself.
@@ -1746,7 +1746,7 @@ themselves	 affected	 by	 the	 size	 of	 the	 population.	 This	 population	 "an
 only	one	piece	of	a	much	larger	system.3
 
 One	 important	 piece	 of	 the	 larger	 system	 that	 affects	 population	 is	 the
-economy.	 At	 the	 heart	 of	 the	 economy	 is	 another	 reinforcing-loop-plusbalancing-loop	 system—the	 same	 kind	 of	 structure,	 with	 the	 same	 kinds	 of
+economy.	 At	 the	 heart	 of	 the	 economy	 is	 another	 reinforcing-loop-plus balancing-loop	 system—the	 same	 kind	 of	 structure,	 with	 the	 same	 kinds	 of
 behavior,	as	the	population	(see	).
 
 The	 greater	 the	 stock	 of	 physical	 capital	 (machines	 and	 factories)	 in	 the
@@ -2507,7 +2507,7 @@ made	the	production	system	more	vulnerable,	however,	to
 perturbations	in	fuel	supply,	traffic	flow,	computer	breakdown,
 labor	availability,	and	other	possible	glitches.
 Hundreds	of	years	of	intensive	management	of	the	forests	of
-Europe	gradually	have	replaced	native	ecosystems	with	singleage,	single-species	plantations,	often	of	nonnative	trees.	These
+Europe	gradually	have	replaced	native	ecosystems	with	single age,	single-species	plantations,	often	of	nonnative	trees.	These
 forests	are	designed	to	yield	wood	and	pulp	at	a	high	rate
 indefinitely.	However,	without	multiple	species	interacting	with
 each	other	and	drawing	and	returning	varying	combinations	of
@@ -2938,7 +2938,7 @@ clues	 to	 the	 underlying	 system	 structure.	 And	 structure	 is	 the	 key	 to
 understanding	not	just	what	is	happening,	but	why.
 
 The	structure	of	a	system	is	its	interlocking	stocks,	flows,	and	feedback	loops.
-The	 diagrams	 with	 boxes	 and	 arrows	 (my	 students	 call	 them	 "spaghetti-andmeatball	diagrams")	are	pictures	of	system	structure.	Structure	determines	what
+The	 diagrams	 with	 boxes	 and	 arrows	 (my	 students	 call	 them	 "spaghetti-and meatball	diagrams")	are	pictures	of	system	structure.	Structure	determines	what
 behaviors	 are	 latent	 in	 the	 system.	 A	 goal-seeking	 balancing	 feedback	 loop
 approaches	 or	 holds	 a	 dynamic	 equilibrium.	 A	 reinforcing	 feedback	 loop
 generates	 exponential	 growth.	 The	 two	 of	 them	 linked	 together	 are	 capable	 of
@@ -2955,7 +2955,7 @@ of	 stocks,	 flows,	 and	 feedback)	 and	 behavior	 (time	 graphs).	 Systems	 th
 strive	 to	 understand	 the	 connections	 between	 the	 hand	 releasing	 the	 Slinky
 the	 mechanical
 (event)	 and
-characteristics	of	the	Slinky's	helical	coil	(structure).
+characteristics	of	the	Slinky	helical	coil	(structure).
 
 resulting	 oscillations
 
@@ -3122,7 +3122,7 @@ poisons.	And,	in	spite	of	the	sprays,	the	budworm	was	still	killing	as	many	as	2
 million	hectares	(50	million	acres)	of	trees	per	year.
 
 C.	S.	Holling	of	the	University	of	British	Columbia	and	Gordon	Baskerville	of
-the	University	of	New	Brunswick	put	together	a	computer	model	to	get	a	wholesystem	look	at	the	budworm	problem.	They	discovered	that	before	the	spraying
+the	University	of	New	Brunswick	put	together	a	computer	model	to	get	a	whole system	look	at	the	budworm	problem.	They	discovered	that	before	the	spraying
 began,	the	budworm	had	been	barely	detectable	in	most	years.	It	was	controlled
 by	a	number	of	predators,	including	birds,	a	spider,	a	parasitic	wasp,	and	several
 diseases.	 Every	 few	 decades,	 however,	 there	 was	 a	 budworm	 outbreak,	 lasting
@@ -3543,7 +3543,7 @@ life	on	the	new-car	market.	Cars	stay	on	the	road	an	average	of
 Just	 as	 the	 appropriate	 boundaries	 to	 draw	 around	 one's	 picture	 of	 a	 system
 depend	 on	 the	 purpose	 of	 the	 discussion,	 so	 do	 the	 important	 delays.	 If	 you're
 worrying	 about	 oscillations	 that	 take	 weeks,	 you	 probably	 don't	 have	 to	 think
-about	delays	that	take	minutes,	or	years.	If	you're	concerned	about	the	decadeslong	 development	 of	 a	 population	 and	 economy,	 you	 usually	 can	 ignore
+about	delays	that	take	minutes,	or	years.	If	you're	concerned	about	the	decades-long	 development	 of	 a	 population	 and	 economy,	 you	 usually	 can	 ignore
 oscillations	that	take	weeks.	The	world	peeps,	squawks,	bangs,	and	thunders	at
 many	frequencies	all	at	once.	What	is	a	significant	delay	depends—usually—on
 which	set	of	frequencies	you're	trying	to	understand.
@@ -4178,7 +4178,7 @@ the	economic	impact	of	its	own	use	of	the	commons.
 
 Most	people	comply	with	regulatory	systems	most	of	the	time,	as	long	as	they
 are	 mutually	 agreed	 upon	 and	 their	 purpose	 is	 understood.	 But	 all	 regulatory
-systems	must	use	police	power	and	penalties	for	the	occasional	noncooperator.
+systems	must	use	police	power	and	penalties	for	the	occasional	non-cooperator.
 
 THE	TRAP:	TRAGEDY	OF	THE	COMMONS
 
@@ -4421,7 +4421,7 @@ even	 more	 effectively	 in	 the	 future.	 That's	 a	 reinforcing	 feedback	 loo
 rapidly	divides	a	system	into	winners	who	go	on	winning,	and	losers	who	go	on
 losing.
 
-Anyone	 who	 has	 played	 the	 game	 of	 Monopoly	 knows	 the	 success-to-thesuccessful	system.	All	players	start	out	equal.	The	ones	who	manage	to	be	first	at
+Anyone	 who	 has	 played	 the	 game	 of	 Monopoly	 knows	 the	 success-to-the successful	system.	All	players	start	out	equal.	The	ones	who	manage	to	be	first	at
 building	 "hotels"	 on	 their	 property	 are	 able	 to	 extract	 "rent"	 from	 the	 other
 players—which	they	can	then	use	to	buy	more	hotels.	The	more	hotels	you	have,
 the	 more	 hotels	 you	 can	 get.	 The	 game	 ends	 when	 one	 player	 has	 bought	 up
@@ -4478,7 +4478,7 @@ have	more	ways	to	avoid	taxation	than	the	poor,	but:
 
 In	most	societies,	the	poorest	children	receive	the	worst
 educations	in	the	worst	schools,	if	they	are	able	to	go	to	school
-at	all.	With	few	marketable	skills,	they	qualify	only	for	lowpaying	jobs,	perpetuating	their	poverty.10
+at	all.	With	few	marketable	skills,	they	qualify	only	for	low-paying	jobs,	perpetuating	their	poverty.10
 People	with	low	income	and	few	assets	are	not	able	to	borrow
 from	most	banks.	Therefore,	either	they	can't	invest	in	capital
 improvements,	or	they	must	go	to	local	moneylenders	who
@@ -4497,7 +4497,7 @@ prices.	Because	they	are	often	unorganized	and	inarticulate,	a	disproportionatel
 small	 part	 of	 government	 expenditure	 is	 allocated	 to	 their	 needs.	 Ideas	 and
 technologies	come	to	them	last.	Disease	and	pollution	come	to	them	first.	They
 are	 the	 people	 who	 have	 no	 choice	 but	 to	 take	 dangerous,	 low-paying	 jobs,
-whose	children	are	not	vaccinated,	who	live	in	crowded,	crime-prone,	disasterprone	areas.
+whose	children	are	not	vaccinated,	who	live	in	crowded,	crime-prone,	disaster-prone	areas.
 
 How	do	you	break	out	of	the	trap	of	success	to	the	successful?
 Species	 and	 companies	 sometimes	 escape	 competitive	 exclusion	 by
@@ -4582,7 +4582,7 @@ Khat	is	the	fresh	tender	leaves	and	twigs	of	the	catha	edulis	plant.
 
 …	It	is	pharmacologically	related	to	amphetamines.…
 
-Abdukadr	Mahmoud	Farah,	22,	said	he	first	started	chewing	khat
+Abdulkadir	Mahmoud	Farah,	22,	said	he	first	started	chewing	khat
 when	he	was	15.…	"The	reason	is	not	to	think	of	this	place.	When	I
 use	it,	I	get	happy.	I	can	do	everything.	I	do	not	get	tired."
 
@@ -4629,7 +4629,7 @@ easily.	So	along	came	Social	Security,	retirement	communities,
 nursing	homes.	Now	most	families	no	longer	have	the	space,	the
 time,	the	skills,	or	the	willingness	to	care	for	their	elderly
 members.
-Long-distance	shipping	was	carried	by	railroads	and	shortdistance	commuting	by	subways	and	streetcars,	until	the
+Long-distance	shipping	was	carried	by	railroads	and	short-distance	commuting	by	subways	and	streetcars,	until	the
 government	decided	to	help	out	by	building	highways.
 Kids	used	to	be	able	to	do	arithmetic	in	their	heads	or	with	paper
 and	pencil,	before	the	widespread	use	of	calculators.
@@ -4816,7 +4816,7 @@ with	 the	 whole	 system,	 including	 its	 self-organizing	 evasive	 possibiliti
 mind.
 
 Rule	 beating	 is	 usually	 a	 response	 of	 the	 lower	 levels	 in	 a	 hierarchy	 to
-overrigid,	 deleterious,	 unworkable,	 or	 ill-defined	 rules	 from	 above.	 There	 are
+over-rigid,	 deleterious,	 unworkable,	 or	 ill-defined	 rules	 from	 above.	 There	 are
 two	 generic	 responses	 to	 rule	 beating.	 One	 is	 to	 try	 to	 stamp	 out	 the	 selforganizing	 response	 by	 strengthening	 the	 rules	 or	 their	 enforcement—usually
 giving	rise	to	still	greater	system	distortion.	That's	the	way	further	into	the	trap.
 
@@ -5548,7 +5548,7 @@ technical	 advance	 or	 social	 revolution.	 In	 systems	 lingo	 it's	 called	 s
 
 Self-organization	means	changing	any	aspect	of	a	system	lower	on	this	list—
 adding	completely	new	physical	structures,	such	as	brains	or	wings	or	computers
-—adding	new	balancing	or	reinforcing	loops,	or	new	rules.	The	ability	to	selforganize	is	the	strongest	form	of	system	resilience.	A	system	that	can	evolve	can
+—adding	new	balancing	or	reinforcing	loops,	or	new	rules.	The	ability	to	self-organize	is	the	strongest	form	of	system	resilience.	A	system	that	can	evolve	can
 survive	almost	any	change,	by	changing	itself.	The	human	immune	system	has
 the	power	to	develop	new	responses	to	some	kinds	of	insults	it	has	never	before
 encountered.	 The	 human	 brain	 can	 take	 in	 new	 information	 and	 pop	 out
@@ -5723,7 +5723,7 @@ hit	a	leverage	point	that	totally	transforms	systems.
 
 You	 could	 say	 paradigms	 are	 harder	 to	 change	 than	 anything	 else	 about	 a
 
-system,	 and	 therefore	 this	 item	 should	 be	 lowest	 on	 the	 list,	 not	 second-tohighest.	But	there's	nothing	physical	or	expensive	or	even	slow	in	the	process	of
+system,	 and	 therefore	 this	 item	 should	 be	 lowest	 on	 the	 list,	 not	 second-to-highest.	But	there's	nothing	physical	or	expensive	or	even	slow	in	the	process	of
 paradigm	 change.	 In	 a	 single	 individual	 it	 can	 happen	 in	 a	 millisecond.	 All	 it
 takes	 is	 a	 click	 in	 the	 mind,	 a	 falling	 of	 scales	 from	 the	 eyes,	 a	 new	 way	 of
 seeing.	 Whole	 societies	 are	 another	 matter—they	 resist	 challenges	 to	 their
@@ -6354,7 +6354,7 @@ measure.	 My	 observation	 from	 a	 low	 level	 in	 the	 hierarchy	 was	 that	 t
 consequence	was	greater	oscillations	in	room	temperature.	When	my	office	got
 overheated,	instead	of	turning	down	the	thermostat,	I	had	to	call	an	office	across
 campus,	which	got	around	to	making	corrections	over	a	period	of	hours	or	days,
-and	which	often	overcorrected,	setting	up	the	need	for	another	phone	call.	One
+and	which	often	over-corrected,	setting	up	the	need	for	another	phone	call.	One
 way	of	making	that	system	more,	rather	than	less,	responsible	might	have	been
 to	let	professors	keep	control	of	their	own	thermostats	and	charge	them	directly
 for	the	amount	of	energy	they	use,	thereby	privatizing	a	commons!
@@ -6490,7 +6490,7 @@ dominate,	nothing	seems	to	be	happening;	when	the	fast	ones	take	over,	things
 happen	 with	 breathtaking	 speed.	 Systems	 are	 always	 coupling	 and	 uncoupling
 the	large	and	the	small,	the	fast	and	the	slow.
 
-When	you're	walking	along	a	tricky,	curving,	unknown,	surprising,	obstaclestrewn	path,	you'd	be	a	fool	to	keep	your	head	down	and	look	just	at	the	next
+When	you're	walking	along	a	tricky,	curving,	unknown,	surprising,	obstacle-strewn	path,	you'd	be	a	fool	to	keep	your	head	down	and	look	just	at	the	next
 step	 in	 front	 of	 you.	 You'd	 be	 equally	 a	 fool	 just	 to	 peer	 far	 ahead	 and	 never
 notice	 what's	 immediately	 under	 your	 feet.	 You	 need	 to	 be	 watching	 both	 the
 short	and	the	long	term—the	whole	system.
@@ -7356,7 +7356,7 @@ Tribune,	December	16,	1992,	p.	1.
 2. J.	W.	Forrester,	World	Dynamics	(Cambridge	MA:	Wright-Allen	Press,	1971).
 3. Forrester,	Urban	Dynamics	(Cambridge,	MA:	The	MIT	Press,	1969),	65.
 4. Thanks	to	David	Holmstrom	of	Santiago,	Chile.
-5. For	an	example,	see	Dennis	Meadows's	model	of	commodity	price	fluctuations:	Dennis	L.	Meadows,
+5. For	an	example,	see	Dennis	Meadows	model	of	commodity	price	fluctuations:	Dennis	L.	Meadows,
 
 Dynamics	of	Commodity	Production	Cycles	(Cambridge,	MA:	Wright-Allen	Press,	Inc.,	1970).
 

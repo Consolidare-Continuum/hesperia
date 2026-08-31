@@ -17,26 +17,26 @@ CAMBRIDGE UNIVERSITY PRESS
 
 Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore,
 
-Sao Paulo, Delh i, Dubai, Tokyo, .!Vlexico City
+Sao Paulo, Delhi i, Dubai, Tokyo, .!Mexico City
 
 Cambridge University Press
 32 Avenue of the Americas, New York, NY 10013-2473, USA
 
-I n formation on this title: www.cambridge.orgi9780521282468
+I n formation on this title: www.cambridge.org9780521282468
 
 \\<-ww�cam bridge .o rg
 
 <D Cambridge University Press 1983
 
 This publ ication is in copyright. Subject to statutory except ion
-and to the provisi ons of .relevant collective licensing agreements,
+and to the provisions ons of .relevant collective licensing agreements,
 no reproduction of any part may take place wit hout the written
 permission of Cambridge University Press.
 
 Firs t published l 98 3
 25th printing zow
 
-A cat<1iog record for t/Jis publia1tion i.> atJ,1ifobie from t/Je British Ubr.ir)i
+A cat<1iog record for t/Jis publication1tion i.> atJ,1authentic from t/Je British Ubr.ir)i
 
 ISBN 978-0-521-23829-8 Hardback
 
@@ -45,7 +45,7 @@ ISBN 978-0-521-28246-8 Paperback
 Cambridge University Press has no responsibilit y for th e per s is te nc:e or
 
 accuracy of URLs for external or third-party Internet Web sites referred to in
-this publication and does not guarantee that any c onten t on such Web sites is,
+this publication and does not guarantee that any c content t on such Web sites is,
 
 or will remain, accurate or approp ri ate.
 
@@ -185,7 +185,7 @@ I 1 2
 
 Introduction: Rationality
 
-Rationality and realism are the two main topics of today's philosop­
+Rationality and realism are the two main topics of today's philosophers­
 
 hers of science. That is, there are questions about reason, evidence
 
@@ -324,7 +324,7 @@ Theory and experiment have different relationships in different
 sciences at different stages of development . There is no right answer
 
 to the question: Which comes first, experiment, theory, invention,
-? I llustrations are drawn from optics, thermotechnology, .
+? I Illustrations are drawn from optics, thermotechnology, .
 
 .
 
@@ -351,7 +351,7 @@ information transmitted by
 
 objects .
 
-11 M ic roscopes
+11 M ic microscopes
 
 1 86
 
@@ -366,7 +366,7 @@ uses sound rather than light .
 
 xiii
 
-12 Speculation, calculati on, models, approximations 210
+12 Speculation, calculation on, models, approximations 210
 There is not one activity, theorizing. There are many kinds and
 
 levels of theory, which bear different relationships to experiment.
@@ -377,7 +377,7 @@ illustrates this fact . N. Cartwright's
 
 approximations further illustrate the varieties of theory.
 
-13 The c reation of phenomena
+13 The c creation of phenomena
 
 Many experiments create phenomena that did not hitherto exist in a
 pure state in the universe . Talk of repeating experiments is
@@ -401,7 +401,7 @@ account of an unexpected functional role of measurement in the
 
 growth of knowledge.
 
-15 Baconian t opics
+15 Baconian t topics
 F. Bacon wrote the first taxonomy of kinds of experiments . He
 predicted that science would be the collaboration of two different
 
@@ -423,11 +423,11 @@ Experimentation has a life of its own, interacting with speculation,
 
 calculation, model building, invention and technology in numerous
 
-ways. But whereas the speculator, the calculator, and the modelbuilder can be anti-realist, the experimenter must be a realist. This
+ways. But whereas the speculator, the calculator, and the model builder can be anti-realist, the experimenter must be a realist. This
 
 xiv
 
-A nalytical table of contents
+A analytical table of contents
 
 thesis is illustrated by a detailed account of a device that produces
 
@@ -444,7 +444,7 @@ Preface
 
 This book is in two parts. You might like to start with the second
 half, Intervening. It is about experiments. They have been neglected
-for too long by pP,ilosophers of science, so writing about them has to
+for too long by pP,philosophers of science, so writing about them has to
 be novel. Philosophers usually think about theories. Representing is
 about theories, and hence it is a partial account of work already in
 the field. The later chapters of Part A may mostly interest
@@ -494,7 +494,7 @@ scientific knowledge is the crowning achievement of human reason.
 
 Sceptics have always challenged the complacent panorama of
 
-cumulative and accumulating human knowiedge, but now they took
+cumulative and accumulating human knowledge, but now they took
 
 ammunition from the details of history. After looking at many of the
 
@@ -788,7 +788,7 @@ under the general title, The Encyclopedia of Unified Science.
 
 Both agreed that there is a fundamental difference between the
 context of justification and the context of discovery. The terms are due
-to Hans Reichenbach, a third distinguished philosophical emigre of
+to Hans Reichenbach, a third distinguished philosophical émigré of
 
 that generation. In the case of a discovery, historians, economists,
 
@@ -872,7 +872,7 @@ Is reason in question?
 I have so far ignored the first point on which Popper and Carnap
 agree, namely that natural science is the paragon of rationality, the
 
-gemstone of liuman reason. Did Kuhn think that science is
+gemstone of human reason. Did Kuhn think that science is
 
 irrational? Not exactly. That is not to say he took it to be' rational '
 
@@ -1039,7 +1039,7 @@ muriatic acid. In 1774 it was shown how to liberate a gas from this.
 
 The gas was called dephlogisticated muriatic acid. After 1785 this
 
-very gas was inevitably renamed oxygenized muriatic acid. By 1811
+very gas was inevitably renamed oxygenated muriatic acid. By 1811
 
 Humphry Davy showed this gas is an element, namely chlorine.
 
@@ -1086,7 +1086,7 @@ from Greek into English 500 years ago. It means a pattern,
 exemplar, or model. The word had a technical usage . When you
 
 learn a foreign language by rote you learn for example how to
-conj ugate amare (to love) as amo, amas, amat .
+conj conjugate amare (to love) as amo, amas, amat .
 conjugate verbs of this class following this model , called the
 
 . . , and then
@@ -1164,7 +1164,7 @@ and a class of anomalies about which it is rewarding to puzzle . Here
 
 constraints set by the original achievement, this kind of work is
 
-intellectuall y rewarding . It also means that this is the kind of work
+intellectually y rewarding . It also means that this is the kind of work
 
 that the discipline rewards with promotion, finance, research
 
@@ -1294,7 +1294,7 @@ existing experimental data. They should be both internally con­
 
 sistent and consistent with other accepted theories. They should be
 
-broad in scope antl rich in consequences. They should be simple in
+broad in scope and rich in consequences. They should be simple in
 
 structure, organizing facts in an intelligible way. They should be
 
@@ -1360,7 +1360,7 @@ contemporary Paul Feyerabend is different. His radical ideas often
 
 overlap with Kuhn's, but he is a long-time foe of dogmatic
 
-rationality. He has called himself an anarchist, but because anarch­
+rationality. He has called himself an anarchist, but because anarchists­
 
 ists often hurt people, he prefers the name Dada-ist. Let there be no
 
@@ -1537,7 +1537,7 @@ Rationality and scientific realism
 So much for standard introductory topics in the philosophy of
 
 science that will not be discussed in what follows . But of course
-reason and rationality ar� not so separabl�. When I do take up
+reason and rationality ar� not so separable�. When I do take up
 matters mentioned in this introduction, the emphasis is always on
 realism . Chapter 5 is about incommensurability, but only because it
 contains the germs of irrealism . Chapter 8 is about Lakatos, often
@@ -1622,7 +1622,7 @@ have already found out a good deal .
 Anti-realism says the opposite: there are no such things as
 electrons . Certainly there are phenomena of electricity and of
 
-inht!ritance but we construct theories about tiny states, processes
+inheritance!ritance but we construct theories about tiny states, processes
 
 and entities only in order to predict and produce events that interest
 
@@ -1883,11 +1883,11 @@ momentum? Or at the opposite extreme should we say that the
 
 measurement is an interaction with the human mind?
 
-Nor s hall we find realist problems only in the s pecialist natural
+Nor s hall we find realist problems only in the s specialist natural
 sciences . The human sciences give even more scope for debate.
 
 There can be problems about the libido, the super ego, and the
-transference of which Freud teaches. Might one use psychoanal ysis
+transference of which Freud teaches. Might one use psychoanalysis ysis
 to understand oneself or another, yet cynically think that nothing
 
 answers to the network of terms that occurs in the theory? What
@@ -1944,7 +1944,7 @@ the conventions that bound them to portray ideal, romantic,
 
 historical or religious topics on vast and energetic canvases. They
 
-chose to paint scenes from everyday life. They refused to ' aesthe­
+chose to paint scenes from everyday life. They refused to ' aestheticize­
 
 ticize ' a scene . They accepted material that was trivial or banal .
 
@@ -1968,7 +1968,7 @@ imbued with and contributed to the philosophical
 
 All were
 
-sensibilities of the day. In literature some latterday realism was
+sensibilities of the day. In literature some latter-day realism was
 
 called positivism . But we speak of movements rather than doctrine,
 
@@ -2041,7 +2041,7 @@ limited, and so forth. The scientific-entities version of this says we
 
 have good reason to suppose that electrons exist, although no full­
 
-ftedged description of electrons has any likelihood of being true.
+full-fledged description of electrons has any likelihood of being true.
 
 Our theories are constantly revised; for different purposes we use
 
@@ -2122,11 +2122,11 @@ they are intellectual tools for predicting phenomena; they are rules
 for working out what will happen in particular cases . There are
 many versions of this. Often an idea of this sort is called
 instrumentalism because it says that theories are only instruments.
-I nstrumentalism denies ( 1 ) . You might instead deny (3). An
+I instrumentalism denies ( 1 ) . You might instead deny (3). An
 
 1 W . Newlon-Smith, ' The underdetermination o f theory by data ', Proceedings of t he Aris­
 
-totelia11 Society, S upplementary Volume 52 ( 1 978), p. 72.
+Aristotelian11 Society, S Supplementary Volume 52 ( 1 978), p. 72.
 
 What is scientific realism?
 
@@ -2142,7 +2142,7 @@ order to make sense of science . Thus he denies the epistemological
 ingredient .
 
 My realism about theories is, then, roughly ( I ) and (3), but my
-realism about entities is not exactly (2) and (3). Newton-S mith's
+realism about entities is not exactly (2) and (3). Newton-S Smith's
 causal ingredient says that if a theory is true, then the theoretical
 
 terms denote entities that are causally responsible for what we can
@@ -2173,7 +2173,7 @@ intervening.
 
 Metaphysics and the special sciences
 
-We should also distinguish realism-in-general from realism-inparticular.
+We should also distinguish realism-in-general from realism-in particular.
 
 To use an example from Nancy Cartwright, ever since Einstein's
 work on the photoelectric effect the photon has been an integral part
@@ -2246,7 +2246,7 @@ ment . The real achievement was a new way to determine
 
 Avogadro's number, using Einstein's analysis of Brownian motion
 
-and Jean Perrin's experimental techniques.
+and Jean Perrin experimental techniques.
 
 That was of course a ' scientific ' , not a ' philosophical ', discovery.
 Yet realism about atoms and molecules was once the central issue
@@ -2258,7 +2258,7 @@ real (or merely fictional) theoretical entities. Many of our present
 
 positions on scientific realism were worked out then, in connection
 
-2 M. Gardner, ' Realism and instrumental ism in 1 91h century atomism ', Philosophy of Scie11ce 46
+2 M. Gardner, ' Realism and instrumental ism in 1 91h century atomism ', Philosophy of Science11ce 46
 
 ( 1 979), pp. 1 -34.
 
@@ -2274,14 +2274,14 @@ Realism-in-general is thus to be distinguished from realism-in­
 
 particular, with the proviso that a realism-in- particular can so
 
-dominate di scussion that it determines the course of realism-ingeneral . A question of realism-in-particular is to be settled by
+dominate di discussion that it determines the course of realism-ingeneral . A question of realism-in-particular is to be settled by
 research and development of a particular science. I n the end the
 
 sceptic about photons or black holes has to put up or shut up.
 
 Realism-in-general reverberates with old metaphysics and recent
 
-philosophy oflanguage . It is vastly less contingent on facts of nature
+philosophy of language . It is vastly less contingent on facts of nature
 
 than any realism-in-particular. Yet the two are not fully separable
 
@@ -2301,7 +2301,7 @@ order to intervene, and we intervene in the light of representations.
 
 Most of today's debate about scientific realism is couched in terms
 
-of theory, representation, and truth. The discussions are illuminat­
+of theory, representation, and truth. The discussions are illuminating­
 
 ing but not decisive . This is partly because they are so infected with
 
@@ -2332,7 +2332,7 @@ Some experimental conversations are full of it. Here are two real
 examples. The cell biologist points to a fibrous network that
 regularly is found on micrographs of cells prepared in a certain way.
 
-I t looks like c hromatin, namely the stuff in the cell nucleus full of
+I t looks like c chromatin, namely the stuff in the cell nucleus full of
 fundamental proteins. It stains like chromatin. But it is not real . It is
 
 only an artifact that results from the fixation of nucleic sap by
@@ -2385,7 +2385,7 @@ Building and causing
 
 is substantive-hungry: hungry for nouns. The word is also what
 
-Austin, in a geniall y sexist way, calls a trouser-word .
+Austin, in a genially y sexist way, calls a trouser-word .
 
 The word is hungry for nouns because ' that's real ' demands a
 
@@ -2400,7 +2400,7 @@ pink flamingo. But to call some stuff real cream is not to make the
 
 same sort of positive assertion . Real cream is, perhaps, not a non­
 
-dairy coffee product. Real leather is hide, not naugehyde, real diamonds are not paste, real ducks are not decoys, and so forth. The
+dairy coffee product. Real leather is hide, not Naugahyde, real diamonds are not paste, real ducks are not decoys, and so forth. The
 force of ' real S' derives from the negative ' not (a) real S ' . Being
 hungry for nouns and being a trouser-word are connected . To know
 what wears the trousers we have to know the noun, in order that we
@@ -2428,7 +2428,7 @@ reality. I don't know, but let not a hasty grammar force us to
 conclude there are different kinds of reality. Moreover we now must
 
 force the philosopher to make plain what contrast is being made by
-the word ' real ' in some s pecialized debate. If theoretical entities
+the word ' real ' in some s specialized debate. If theoretical entities
 are, or are not, real entitie�, what contrast is being made?
 
 Materialism
@@ -2442,7 +2442,7 @@ composed of electrons, etc., j ust as this wall is composed of bricks '
 
 (p. 3 6) . A swarm of bees is made up of bees, but nothing is made up
 
-of lines of force. There is a definite number ofbees in a swarm and of
+of lines of force. There is a definite number of bees in a swarm and of
 electrons in a bottle, but there is no definite number of l ines of
 
 magnetic force in a given volume; only a convention allows us to
@@ -2476,7 +2476,7 @@ writes his biographer, ' that Faraday was firmly convinced that lines
 of force were real . ' This does not show that Smart is mistaken. It
 does however remind us that some physical conception� of reality
 
-pass beyond the rather simplist�c level of building blocks .
+pass beyond the rather simplistic�c level of building blocks .
 
 Smart is a materialist - he himself now prefers the term
 physicalist. I do not mean that he insists that electrons are brute
@@ -2510,7 +2510,7 @@ while . Would Smart then conclude that the fundamental entities of
 
 physics are theoretical fictions?
 
-La Realite Physique, the most recent book by the philosophical
+La La Réalité Physique, the most recent book by the philosophical
 quantum theorist, Bernard d'Espagnat, is an argument that we can
 
 continue to be scientific realists without being materialists. Hence
@@ -2520,25 +2520,25 @@ S mart . Note also that Smart's distinction does not help us say
 
 whether the theoretical entities of social or psychological science are
 real . Of course one can to some extent proceed in a materialistic
-way. Thus we find the l inguist Noam Chomsky, in his book Rules
+way. Thus we find the l linguist Noam Chomsky, in his book Rules
 and Representations ( 1 980), urging realism in cognitive psychology.
 One part of his claim is that structured material found in the brain,
 
 and passed down from generation to generation, hel ps explain
 
-language acq uisition . But Chomsky is not asserting only that the
+language acq acquisition . But Chomsky is not asserting only that the
 brain is made up of organized matter. He thinks the structures are
 responsible for some of the phenomenon of thought . Flesh and
 
 blood structures in our heads cause us to think in certain ways. This
 word ' cause ' prompts another version of scientific realism.
 
-C ausalism
+C Causalism
 
 S mart is a materialist. By analogy say that someone who emphasizes
 the causal powers of real stuff is a causalist . David Hume may have
 wanted to analyse causality in terms of regular association between
-cause and effect. But good Humeians know there must be more than
+cause and effect. But good Humeans know there must be more than
 
 mere correlation . Every day we read this sort of thing:
 
@@ -2592,7 +2592,7 @@ through its teeth. I t is important to the causalist that such
 distinctions arise in a natural way. We distinguish ludicrous denials
 of any correlation, from assertions of correlations . We also distinguish correlations from causes . The philosopher C . D . Broad once
 
-made this anti- Humeian point in the following way. We may
+made this anti- Humean point in the following way. We may
 
 observe that every day a factory hooter in Manchester blows at
 noon, and exactly at noon the workers in a factory in Leeds lay down
@@ -2627,7 +2627,7 @@ Building and causing
 
 This version of realism makes sense of Faraday . As his bio­
 
-grapher put it:
+biographer put it:
 
 The magnetic lines of force are visible if and when iron filings are spread
 around a magnet, and the lines are supposedly denser where the filings are
@@ -2810,7 +2810,7 @@ What contrast it marks depends upon the noun or noun phrase N
 that it modifies or is taken to modify . Then it depends upon the way
 that various candidates for being N may fail to be N. If the
 philosopher is suggesting a new doctrine, or a new context, then one
-will have to s pecify why lines of force, or the id, fail to be real
+will have to s specify why lines of force, or the id, fail to be real
 
 entities. Smart says entities are for building. Cartwright s ays they
 
@@ -2859,7 +2859,7 @@ better than ' positivism ' .
 S ix positivist instincts
 
 The key ideas are as follows: ( 1 ) An emphasis upon verification (or
-some variant such as falsification) : S ignificant propositions are
+some variant such as falsification) : S Significant propositions are
 those whose truth or falsehood can be settled in some way. (2) Proobservation : What we can see , feel, touch, and the like, provides the
 best content or foundation for all the rest of our non-mathematical
 knowledge. (3) Anti-cause: There is no causality in nature, over and
@@ -2923,11 +2923,11 @@ Willard V. O . Quine made a visit to Vienna which sowed the seeds of
 
 his doubt about some
 logical positivist theses, seeds which
-blossomed into Quine's famous denials of the ai;i.alytic-synthetic
+blossomed into Quine's famous denials of the ai;i.analytic-synthetic
 
 Positivism
 
-distinction and the doctrine of the indeterminancy of translation.
+distinction and the doctrine of the indeterminacy of translation.
 
 S uch widespread influence makes it natural to call the logical
 positivists simply positivists . Who remembers poor old Comte,
@@ -2936,14 +2936,14 @@ s peaking strictly, I shall use the full label ' logical positivism ',
 
 keeping ' positivism ' for its older sense. Among the distinctive traits
 
-oflogical positivism, in addition to items ( r ) to (6) , is an emphasis on
+of logical positivism, in addition to items ( r ) to (6) , is an emphasis on
 
 logic, meaning, and the analysis of language. These interests are
 
 foreign to the original positivists . Indeed for the philosophy of
 science I prefer the old positivism j ust because it is not obsessed by a
 
-theory of'meaning.
+theory of meaning.
 
 The usual Oedipal reaction has set in. Despite the impact of
 
@@ -2958,7 +2958,7 @@ associated with a conservative or reactionary ideology.
 
 In The Positivist Dispute in German Sociology, edited by
 Theodore Adorno, we see German sociology professors and their
-philosophical peers - Adorno, J iirgens Habermas and so forth -
+philosophical peers - Adorno, J Jürgen Habermas and so forth -
 
 l ining up against Karl Popper, whom they call a positivist. He
 himself rejects that label because he has always dissociated himself
@@ -3033,7 +3033,7 @@ verification. Roughly s peaking, a statement was to be meaningful ,
 
 or to have ' cognitive meaning ' , if and onl y if it was verifiable .
 
-S urprisingly, no one was ever able to define verifiability so as to
+S Surprisingly, no one was ever able to define verifiability so as to
 exclude all b ad metaphysical conversation and include all good
 scientific talk.
 
@@ -3050,7 +3050,7 @@ start of The Scientific Image, he writes: ' My own view is that
 empiricism is correct, but could not live in the linguistic form the
 [logical] positivists gave it .' (p. 3)
 
-C omte
+C Comte
 
 Auguste Comte was very much a child of the first half of the
 
@@ -3225,7 +3225,7 @@ subtlety of the metaphysicians . (Paris, 1 830, pp. 1 4-1 6 . )
 
 Logical positivism was also to accept Hume's constant conjunction
 
-account of causes. Laws of Nature, in Mortitz S chlick's maxim,
+account of causes. Laws of Nature, in Mortitz S Schlick's maxim,
 describe what happens, but do not prescribe it. They are accounts of
 regularities only. The logical positivist account of explanation was
 
@@ -3246,7 +3246,7 @@ Anti -theoretical-entities
 
 Opposition to unobservable entities goes hand in hand with an
 
-opposition to causes. H ume's scorn for the entity-postulating
+opposition to causes. H Hume's scorn for the entity-postulating
 sciences of his day is, as always, stated in an ironic prose. He
 
 admires the seventeenth-century chemist Robert Boyle for his
@@ -3314,7 +3314,7 @@ gramme of reductionism for the logical positivists, who hoped that
 all statements involving theoretical entities would by means of logic
 
 be ' reduced ' to statements that did not make reference to such
-entities . The failure of this p roject was greater even than the failure
+entities . The failure of this p project was greater even than the failure
 
 to state the verification principle .
 
@@ -3350,7 +3350,7 @@ towards postulating new entities .
 
 Logical positivism had no such simplistic opportunities.
 
-Members of the Vienna C ircle believed the physics of their day:
+Members of the Vienna C Circle believed the physics of their day:
 
 some had made contributions to it. Atomism and electromagnetism
 
@@ -3401,7 +3401,7 @@ talking about phenomena. Neither option is open to a present-day
 
 positivist, for the programmes of linguistic reduction failed, while
 
-on the other hand one can hardl� reject the whole body of modern
+on the other hand one can hardly� reject the whole body of modern
 theoretical science . Yet van Fraassen finds a way through this
 
 impasse by distinguishing belief from acceptance.
@@ -3435,7 +3435,7 @@ A little later van Fraassen explains as follows: ' to accept a theory
 
 is (for us) to believe that it is empirically adequate - that what the
 theory says about what is observable (by us) is true ' (p. I 8 ) . Theories
-are intellectual instrwnents for prediction, control, research and
+are intellectual instruments for prediction, control, research and
 
 sheer enjoyment . Acceptance means commitment, among other
 
@@ -3452,7 +3452,7 @@ think that w hat the theory says is literally true .
 Van Fraassen's is the most coherent present-day positivism. I t
 has all s i x features by which I define positivism, and which are
 
-shared by Hwne, Comte and the logical positivists . Naturally it
+shared by Hume, Comte and the logical positivists . Naturally it
 logical
 lacks Hume 's psychology, Comte's historicism, and
 
@@ -3498,13 +3498,13 @@ have also learned how to use many theoretical entities in order to
 
 manipulate other parts of the world . These grounds for realism
 
-about entities are discussed in C hapters 1 0 and 1 6 below . However
+about entities are discussed in C chapters 1 0 and 1 6 below . However
 one positivist theme stands up rather well: caution about
 explanation.
 
 The idea of ' inference to the best explanation ' is quite old. C . S .
 
-Peirce ( 1 8 3 9-1 9 1 4) called i t the method o f hypothesis, o r abduc­
+Peirce ( 1 8 3 9-1 9 1 4) called i t the method o f hypothesis, o r abduction­
 
 tion. The idea is that if, confronted by some phenomenon, you find
 one explanation ( perhaps with some initial plausibility) that m akes
@@ -3544,7 +3544,7 @@ the numerical constants, and also the explanations of events .
 Explanations are relative to human interests . I do not deny that
 explaining - ' feeling the key turn in the lock ' as Peirce put it - does
 
-happen in our intellectual life . But that i s largel y a feature of the
+happen in our intellectual life . But that i s largely y a feature of the
 historical or psychological circumstances of a moment. There are
 times when we feel a great gain in understanding by the organiz­
 
@@ -3556,7 +3556,7 @@ Cartwright urge that being an explanation is never a ground for
 belief. I am less stringent than they: it seems to me like Peirce to be
 merely a feeble ground . In I 905 Einstein explained the photoelectric effect with a theory of photons. He thereby made attractive
 
-the notion of quantized b undles of l ight. But the ground for
+the notion of quantized b bundles of l ight. But the ground for
 believing the theory is its predictive success, and so forth, not its
 
 explanatory power. Feeling t he key turn in the lock makes you feel
@@ -3575,7 +3575,7 @@ phenomenon - the one by which television information is converted
 from pictures into electrical impulses to be turned into electromagnetic waves in turn to be picked up on the home receiver - is
 
 'On the aim and progress of physical science' (German original 1 8 7 1 ) in H . von Helmholtz,
-Popular Lecwres and A ddresses on Sciemi/ic Subjects (D. At kinson trans .), London, I �73,
+Popular Lectures and A Addresses on Scientific/ic Subjects (D. At Atkinson trans .), London, I �73,
 p. 247 .
 
 that photons do exist. As J .J . C . Smart expresses the idea: ' One
@@ -3625,9 +3625,9 @@ this the common cause argument, and it has been revived by Wesley
 
 Salmon. 3 His favoured example is not the photoelectric effect but
 another of Einstein's triumphs. In 1 905 Einstein also explained the
-B rownian movement - the way in which, as we now say, pollen
+B Brownian movement - the way in which, as we now say, pollen
 particles are bounced around in a random way by being hit by
-molecules in motion. When E instein's calculations are combined
+molecules in motion. When E Einstein's calculations are combined
 
 2 J.J.C. Smart, ' Difficulties for realism in the philosophy of science ', in Logic, Methodology and
 Philosophy of Science VI, Proceedings of the 6th International Congress of Logic, Methodology and Philosophy of Science, Hannover, 1 979, pp. 363-75.
@@ -3640,7 +3640,7 @@ to compute Avogadro's number, the number of molecules of an
 
 arbitrary gas contained in a given volume at a set temperature and
 
-pressur.e . This number had been computed from numerous quite
+pressure.e . This number had been computed from numerous quite
 different sources ever since l 8 1 5 . What is remarkable is that we
 always get essentially the same number, coming at it from different
 routes. The only explanation must be that there are molecules,
@@ -3669,7 +3669,7 @@ science but on ' Science ' which, Hilary Putnam tells us, is a Success.
 This is connected with the claim that Science is converging on the
 
 truth, as urged by many, including W. Newton-Smith in his b ook
-Rationality ( 1 982) . Why is Science S uccessful? It must be because
+Rationality ( 1 982) . Why is Science S Successful? It must be because
 we are converging on the truth. This issue has now been well aired,
 
 and I refer you to a number of recent discussions .4 The claim that
@@ -3696,7 +3696,7 @@ science to which they all add up. There can also be an increasing
 
 depth of understanding, and breadth of generalization, without
 
-anything properl y called convergence . Twentieth-century physics
+anything properly y called convergence . Twentieth-century physics
 is a witness to this .
 
 2 There are numerous merely sociological explanations of the
@@ -3716,7 +3716,7 @@ is precisely what the postcataclysmic science is good at. So the miraculously un
 
 is an artifact of instruction and textbooks .
 
-3 What grows is not particularly the strictl y increasing body of
+3 What grows is not particularly the strictly y increasing body of
 (nearl y true) theory . Theory-minded philosophers fixate on accumulation of theoretical knowledge - a highly dubious claim .
 Several things do accumulate . (a) Phenomena accumulate . For
 
@@ -3735,7 +3735,7 @@ model-building, the statistical , the hypothetico-deductive , the
 
 genetic, the evolutionary, and perhaps even the historicist . Certainly t here is growth of types (a) , (b), and (c) , but in none of them is
 
-t here any impl ication about the reality of theoretical entities or the
+t here any implication ication about the reality of theoretical entities or the
 
 truth of theories.
 
@@ -3789,7 +3789,7 @@ of science ' .
 
 How Peirce's imagination contrasts with the banal emptiness of
 
-the S uccess S tory or convergence argument for realism! Popper, I
+the S Success S tory or convergence argument for realism! Popper, I
 
 think, is a wiser self-professed real ist than most when he writes that
 it never makes sense to ask for the explanation of our success . We
@@ -3798,7 +3798,7 @@ can only have the faith to hope that it will continue. If you must have
 an explanation of the success of science, then say what Aristotle did,
 that we are rational animals that live in a rational universe .
 
-4 Pragmatis m
+4 Pragmatism m
 
 Pragmatism i s the American philosophy founded b y Charles
 
@@ -3816,7 +3816,7 @@ Hopkins University . He created a stir there by public misbehaviour
 
 (such as throwing a brick at a ladyfriend in the street) , so the
 
-President of the University abol ished the whole Philosophy De­
+President of the University abolished ished the whole Philosophy De­
 
 partment, then created a new de partment and hired everyone back ­
 
@@ -3874,13 +3874,13 @@ process and possibly progress are essential characteristics of the
 
 nature of human knowledge . They had learned that from Hegel.
 
-N ietzsche wonderfully recalls how the true world became a fable.
+N Nietzsche wonderfully recalls how the true world became a fable.
 An aphorism in his book, The Twilight of the Idols, starts from
 Plato's ' true world - attainable for the sage, the virtuous man ' . We
 
-arrive, with Kant, at something ' elusive, pale, Nordic, Konigsber­
+arrive, with Kant, at something ' elusive, pale, Nordic, Königsberg­
 
-gian '. Then comes Zarathrustra's strange semblance of subjectiv­
+gian '. Then comes Zarathrustra's strange semblance of subjectivism­
 
 ism . That is not the only post-Kantian route. Peirce tried to replace
 truth by method . Truth is whatever is in the end delivered to the
@@ -3936,7 +3936,7 @@ beliefs would be l ike that too. I nquiry continued long enough would
 
 lead to a stable opinion about any issue we could address. Peirce did
 
-not think that tnnh is correspondence to the facts: the truths are the
+not think that truth is correspondence to the facts: the truths are the
 stable conclusions reached by that unending COMMUN I TY of
 
 inquirers .
@@ -4028,7 +4028,7 @@ whatever in the end results . The two other great pragmatists,
 William James and John Dewey, had very different instincts . They
 lived, if not for the now, at least for the near future . They scarcely
 
-addressed the question of what might come out in the end, ifthere is
+addressed the question of what might come out in the end, if there is
 
 one. Truth is whatever answers to our present needs, or at least
 those needs that lie to hand . The needs may be deep and various, as
@@ -4087,7 +4087,7 @@ I t is not a sign that chemistry has a better method, nor that it is
 nearer to the truth.
 
 Thus pragmatism branches: there are Peirce and Putnam on the
-one hand, and James, Dewey and Rorty on the other. Both are antiin somewhat different ways . Peirce and Putnam
+one hand, and James, Dewey and Rorty on the other. Both are anti somewhat different ways . Peirce and Putnam
 realist, but
 
 optimistically hope that there is something that sooner or later,
@@ -4163,7 +4163,7 @@ acce pts them - so long as they turn out to be both useful and
 
 enduring for future inquirers.
 
-Incommens urab ility
+Incommensurability incommensurability ility
 
 Why is so shop-soiled a topic as scientific realism once again
 
@@ -4201,7 +4201,7 @@ d'Espagnat has made one of the most important recent contri­
 butions to a new realism. He is partly motivated by the dissolution,
 in some parts of modern physics , of old realist concepts such as
 
-matter and entity. He is especiall y driven by some recent results,
+matter and entity. He is especially y driven by some recent results,
 
 that bear the general name of Bell's inequality, and which have been
 
@@ -4213,7 +4213,7 @@ realism different from any discussed in this book.
 There are , t hen, problems within science that spur present
 thinking about realism . But problems of a particular science are
 never the whole story of a philosophical disturbance . Notoriously
-the Ptolemy/Copernicus debate that cl imaxed in the condemnation
+the Ptolemy/Copernicus debate that cl climaxed in the condemnation
 
 of Galileo had roots in religion. It involved our conception of the
 
@@ -4268,7 +4268,7 @@ from one world or one language to another by a gestalt-switch, but
 
 not by any process of understanding.
 
-The realist about theorfes cannot welcome this view, in which the
+The realist about theories cannot welcome this view, in which the
 aim of discovering the truth about the world is dispersed . Nor is the
 
 realist about entities pleased, for all theoretical entities seem totally
@@ -4278,7 +4278,7 @@ but no sense is left for the claim that there j ust are electrons,
 regardless of what we think. There have been numerous theories
 about electrons professed by distinguished scientists : R . A. Mil­
 
-likan, H.A. Lorentz, and Niels Bohr had very different ideas . The
+Millikan, H.A. Lorentz, and Niels Bohr had very different ideas . The
 
 lncommensurability
 
@@ -4346,7 +4346,7 @@ included in T* . So we might, by metaphor, say that T and T* are
 commensurable. This very commensurability provides a basis for
 the rational comparison of theories.
 
-Topic-incom mensurability
+Topic-incom incommensurability
 
 Feyerabend and Kuhn made it clear that Nagel did not exhaust the
 possibilities for theory change . A successor theory may attack
@@ -4518,7 +4518,7 @@ lncommensurability
 
 7 1
 
-His style of reasoning is alien. S yphilis is to be treated by a salve of
+His style of reasoning is alien. S Syphilis is to be treated by a salve of
 mercury and by internal administration of the metal, because t he
 
 metal mercury is the s ign of the planet, Mercury, and that in turn
@@ -4581,9 +4581,9 @@ example, that each cohort of physicists has been referring to
 
 different things, when s peaking of electrons .
 
-I See I . Hacking, ' Language, truth and reason ', in M. Hollis and S. Lukes (eds.), Rationalicy and
+I See I . Hacking, ' Language, truth and reason ', in M. Hollis and S. Lukes (eds.), Rationality and
 
-Re/acivism, Oxford, 1 982, pp. 48--&\.
+Re/Activism, Oxford, 1 982, pp. 48--&\.
 
 Many examples lie between the extremes of Laplace and Paracelsus . The historian soon learns that old texts constantly conceal
 
@@ -4670,7 +4670,7 @@ in meaning from the sentence s denied by Newton. Indeed, let r be
 another sentence using the word ' mass ' , but which unlike s, is
 asserted by both Newton and Einstein. We cannot say that the
 
-sentence r, which occurs in the Newtonian theory, is subs umed in
+sentence r, which occurs in the Newtonian theory, is subs subsumed in
 the relativistic theory. For ' mass ' will not mean the same in both
 contexts. There will be no one proposition, the shared meaning of r,
 which is common to both Newton and Einstein.
@@ -4695,7 +4695,7 @@ other denies ? Can there be such a sentence?
 
 The doctrine of meaning-incommensurability was met by cries of
 outrage . The whole idea was said to be incoherent. For example: no
-one would deny that astronomy and genetics are incommensur­
+one would deny that astronomy and genetics are incommensurable­
 
 able - they are about different domains . But meaning­
 
@@ -4759,7 +4759,7 @@ former scientific realism. He has since become increasingly antirealist, but tha
 
 present consider his meaning of ' meaning ' .
 
-Sense and refe rence
+Sense and reference rence
 
 The word ' meaning ' has many uses, many of which are more
 
@@ -4790,7 +4790,7 @@ enormous, extinct South American mammal akin to the armadillo,
 but with fluted teeth. With this definition I indicate what Frege
 would have called the sense of the word ' glyptodon ' .
 
-1 All rcfercrn:es t o Hilary Putnam are t o ' The meaning of " meaning " ' and other essays
+1 All references:es t o Hilary Putnam are t o ' The meaning of " meaning " ' and other essays
 reprinted in Volume 2 of his Philosophical Papers. Mi11d. Language a11d Reality, Cambridge,
 1 979 .
 
@@ -4816,7 +4816,7 @@ way of l ooking at things helped lead into that trap. He taught us that
 an ex pression should have a definite fixed sense, which we
 appre hend, and which enables us to pick out the reference . Now add
 
-to this the unFregeian idea that we can grasp the sense of theoretical
+to this the unFregean idea that we can grasp the sense of theoretical
 terms only by considering their place in a network of theoretical
 propositions. It seems to follow that the sense of such a term must
 
@@ -4849,7 +4849,7 @@ writers, he does not have j ust a pair of components of ' meaning ' .
 Putnam's meaning of ' meaning '
 
 Dictionaries are mines of information. They do not state only
-abstract Fregeiarr senses, omitting all empirical non-linguistic facts
+abstract Fregean senses, omitting all empirical non-linguistic facts
 about the world. Open one at random, and you'll learn, say, that the
 
 French gold coin, the Louis d'or, was first struck in 1 640, and
@@ -4869,7 +4869,7 @@ concise dictionary ends the entry for ' it ' with the example: ' I t's a
 dirty business, this meat-canning . '
 
 Putnam builds his account of meaning from an analogous string
-of components . We may think of him as leading a back-to-thedictionary movement . I shall use two words as examples. One is his
+of components . We may think of him as leading a back-to-the dictionary movement . I shall use two words as examples. One is his
 
 own choice, ' wate r ' , and the other is our word, ' glyptodon ' .
 
@@ -4912,14 +4912,14 @@ of their forests by becoming a uniform desert-tan colour, it is still
 true that our standard tigers are striped . You need to know that to
 
 communicate at
-is not a selflength about tigers . But
+is not a stereotype about tigers . But
 contradiction to s peak of a tiger that has lost its stripes. An entirely
 
 it
 
 white tiger has been authentically recorded. Likewise, it is part of
 
-the sterotype of dogs that they are four-legged, even though my dog
+the stereotype of dogs that they are four-legged, even though my dog
 Bear has only three legs .
 
 As part of the stereotype for ' water ' Putnam gives us colourless,
@@ -4945,12 +4945,12 @@ is not ex tinct, but survives far up the Amazon or the And es. Maybe
 Owen was wrong about the evolutionary tree, and the animal is not
 akin to the armadillo.
 
-Likewise, we may add things to the stereotype . Gly ptodons lived
+Likewise, we may add things to the stereotype . Gly glyptodons lived
 
 in the Pleistocene era. They had spiky tails with knobs on the end
 
 that could be used as clubs. They ate anything they could get their
-fluted teeth into. I have noticed that reference books wri tten 70
+fluted teeth into. I have noticed that reference books wri written 70
 
 years ago emphasize quite different features of the glyptodon from
 
@@ -4979,7 +4979,7 @@ Meditations Concerning Truth and Ideas ( 1 684) .
 
 I n the worst state, a person may simply not know what a word
 
-means . Thus in one of his papers Putnam asserts that ' heathe r ' is a
+means . Thus in one of his papers Putnam asserts that ' heather r ' is a
 
 synonym for ' gorse ' . That is an innocent slip that charmingly
 
@@ -5015,7 +5015,7 @@ when I encounter one ' .
 
 Next, one may b e able t o tell beech trees from elms, o r t o tell gold
 
-from other substances , without knowing the standara criteria or
+from other substances , without knowing the standard criteria or
 how to apply them. This is what Leibniz calls having a clear idea.
 One has a distinct idea when one knows the criteria and how to use
 them. Putnam and Leibniz use the same example: an assayer is an
@@ -5037,7 +5037,7 @@ important part of any linguistic community. Note too that expert
 criteria may change . Assayers do not use the same techniques now
 as they did in the time of Leibniz. It is also common for the first stab
 
-at defining a species to flounder. S tereotypic features are recog­
+at defining a species to flounder. S stereotypic features are recog­
 
 nized, b ut not enough is known about the things to know what is
 important. What then is constant in meaning? Putnam makes
@@ -5124,7 +5124,7 @@ Stereotypes may change as we find out more about a certain kind of
 
 thing or stuff. If we do have a genuine natural kind term, the
 
-reference of the term will remain the same, even though stereotyp-
+reference of the term will remain the same, even though stereotypical-
 
 8 I
 
@@ -5133,7 +5133,7 @@ of identity for a term shifts from Fregeian sense to Putnamian
 reference.
 
 Putnam has always objected to meaning-incommensurab ility.
-The meaning-incommensurab ilist says, implausibly, that when­
+The meaning-incommensurab incommensurability says, implausibly, that when­
 
 ever a theory changes, we cease to be talking about the same thing.
 
@@ -5218,7 +5218,7 @@ philosophers of science to be chary of theories of meaning. ) Despite
 the intrinsic interest of Kripke 's ideas for students of logic they are
 not to be added here to my version of Putnam's notions.
 
-D ubbing the electron
+D Dubbing the electron
 
 New natural kinds, such as electrons, are often the result of initial
 into theory and
@@ -5294,7 +5294,7 @@ negative charge . These particles were for long called ' corpuscles '
 
 by Thomson, who rightly thought he had got hold of some ultimate
 
-stuff. He determined their mass. Meanwhile, Lorentz was elaborat­
+stuff. He determined their mass. Meanwhile, Lorentz was elaborating­
 
 ing a theory of a particle of minimum charge which he quickly called
 
@@ -5344,7 +5344,7 @@ not charged with the minimum unit of electric charge . Quarks, it is
 conjectured, have a charge of 1 / 3 e, but this doesn't hurt the reality
 or genuineness of electrons . It means only that one bit of the longlived stereotype must be revised .
 
-Acids: bifurc ating kinds
+Acids: bifurcating ating kinds
 
 One of Putnam's earliest examples concerns acids. 'Acid' does not
 
@@ -5495,7 +5495,7 @@ the century. Newtonian physics had hitherto made a complete hash
 of explaining the velocity of sound in air. From his assumptions
 
 about caloric Laplace was able to get a reasonable figure, very close
-to available experimental determinations. Laplace was j ustly proud
+to available experimental determinations. Laplace was j justly proud
 
 of his achievement. Yet even before he published, Rumford was
 convincing some people that there could not be such a thing as
@@ -5612,7 +5612,7 @@ energized electrons, and electrons with that much energy would
 
 produce a singularity in the equations of QED . No one was much
 
-worried by this, for physics is mostly a matter of such adj ustments
+worried by this, for physics is mostly a matter of such adj adjustments
 
 in equations .
 
@@ -5641,7 +5641,7 @@ holds the atom together. H e postulated that there must b e a new
 
 kind of object, also intermediate in mass between electron and
 
-proton. Evidently, he was addressing a problem entirel y different
+proton. Evidently, he was addressing a problem entirely y different
 
 from cosmic rays, and there is no reason to suppose that Anderson,
 
@@ -5713,7 +5713,7 @@ fit well with Putnam's meaning of ' meaning ' . Putnam wanted to
 make the reference, in the end, the lynch pin of meaning. The name
 
 would apply to an entity that had been dubbed by that name on a
-particular historical occasion, at a b aptism as it were . I n our case,
+particular historical occasion, at a b baptism as it were . I n our case,
 
 there was such a baptism, in 1 93 8 . However, the very name
 
@@ -5741,7 +5741,7 @@ t heories about real entities, say electrons . It relies in part on
 historical dubbings, the benefit of the dubbed, and a causal chain of
 
 the right sort passing from t he first baptism to our present use of a
-name . Real communities cheerfull y disregard baptisms if they want
+name . Real communities cheerfully y disregard baptisms if they want
 to. Those who wish a theory of meaning for scientific terms will
 
 have to improve on Putnam . They will also pay attention to the
@@ -5805,7 +5805,7 @@ well be omitted . It is about Putnam's important new ' internal
 realism ', apparently a species of idealism. 1 A switch from realism to
 idealism sounds central to our discussion, but it is not . Putnam is no
 
-l onger engaged in the debate between the scientific realist and the
+l longer engaged in the debate between the scientific realist and the
 
 anti-realist about science . That debate makes a keen distinction
 between theoretical and observable entities. Everything Putnam
@@ -5816,7 +5816,7 @@ upon reflections on language, and no such philosophy can teach
 
 anything positive about natural science .
 
-To omit Putnam's developments would nevertheless be to b ypass
+To omit Putnam's developments would nevertheless be to b bypass
 
 issues of current interest . Moreover, since he finds a predecessor in
 
@@ -5866,7 +5866,7 @@ are represented in our belief system.
 .
 
 At this level internalism and pragmatism have much in common.
-Putnam's position depends additionall y on ideas about reference .
+Putnam's position depends additionally y on ideas about reference .
 
 He rejects metaphysical realism because there is never any hook-up,
 or corres pondence, between my words and a particular batch of
@@ -6163,7 +6163,7 @@ and our objects lie in a phenomenal world. There are also noumena,
 
 or things in themselves , but we can have no knowledge of thes e . Our
 
-conce pts and categories do not even apply to things-in-themsel ves .
+conce pts and categories do not even apply to things-in-themselves ves .
 
 Philosophers from Hegel o n have usually dismissed Kant's things­
 
@@ -6237,7 +6237,7 @@ proved (p. 645).
 
 To w hat extent does this make Putnam mesh with Kant? I leave
 
-t hat to the reader. Putnam t hinks warranted rational assertability
+t hat to the reader. Putnam t thinks warranted rational assertability
 and truth go hand in hand . Kant also wrote, ' I cannot assert
 anything, t hat is, declare it to be a j udgement necessarily valid for
 
@@ -6250,7 +6250,7 @@ Scholars do not agree about Kant's noumenal world of things in
 
 themselves. Putnam reads Kant as saying that not only can we not
 describe things-in-themselves, but also ' there is not even a one-toone correspondence between
-things-inthemselves '. There is no horse-in-itself corresponding to the horse
+things-themselves '. There is no horse-in-itself corresponding to the horse
 in t he field. There is only the noumenal world which as a whole
 somehow ' gives rise to ' our system of representation.
 
@@ -6277,7 +6277,7 @@ of Kant's own thought, between noumena and theoretical entities .
 I n 1 7 5 5 , w hen he was young, Kant wrote a small physics tract called
 Monadology. This is a remarkable anticipation of our modern
 
-theory of fields and forces. Two years later B oscovic elaborated it
+theory of fields and forces. Two years later B Boškovic elaborated it
 with far greater mathematical skill and launched field theory on the
 
 worl d . In Kant's early physics the world is made up of point
@@ -6448,7 +6448,7 @@ the only well-understood branch of logic, called first-order logic -
 logic of the sentential connectives (' and ' , ' not ' , ' or ' , or
 the
 
-w hatnot) and first-order quantifiers (' all ' , ' some ' ) .
+w whatnot) and first-order quantifiers (' all ' , ' some ' ) .
 
 I t was thought by logicians o f the day that s ome kind o f theory of
 sets could serve as the foundations for many or all branches of
@@ -6627,7 +6627,7 @@ picking my cherries, come here this instant! ' Only dogma could
 
 insist that this ordinary sentence is expressible in first-order logic.
 4 Introduction of indexicals goes only part of the way.
-I ndexicals are pointers , but they are still linguistic . Language is
+I indexicals are pointers , but they are still linguistic . Language is
 
 embedded in a wide range of doings in the world. Putnam
 
@@ -6658,7 +6658,7 @@ themselves be reinterpreted . S uppose I say that ' cat ' denotes
 1 06
 
 animals like those on my lap. He asks: How do I know that ' denotes '
-denotes denoting? But of course I never normall y use words such as
+denotes denoting? But of course I never normally y use words such as
 
 ' denote ' in explaining the usage of words . That function may be
 
@@ -6721,7 +6721,7 @@ experimental determinations . These in turn are all connected up
 with people, places, and, above all, doings . (Typical example: the
 
 University of Washington-Lawrence Radiation Laboratory group,
-i.e. K . M . Crowe, J . F. Hague, J.E. Rotherberg, A. Sc henck, D . L .
+i.e. K . M . Crowe, J . F. Hague, J.E. Rotherberg, A. Sc Schenck, D . L .
 
 1 0 7
 
@@ -6805,7 +6805,7 @@ underlying point of view? I have followed Putnam in comparing his
 ideas to Kant, but there is a significant difference . Kant called
 himself a transcendental idealist . I would call Putnam a t rans­
 
-cendental nominalist. Both are kinds of anti-realism . Before Kant,
+transcendental nominalist. Both are kinds of anti-realism . Before Kant,
 realism usually meant anti-nominalism . After Kant, it usually
 meant anti-idealism .
 
@@ -6994,7 +6994,7 @@ any way either. Kuhn details ways in which there have been
 
 profound alterations . Thus his is a revolutionary transcendental
 
-nomenal ism, whereas Putnam ' s is more conservative.
+nominalism ism, whereas Putnam ' s is more conservative.
 
 Rationality
 
@@ -7010,7 +7010,7 @@ natural to explain this not in terms of Putnam's philosophy, but
 
 rather in terms of that of I mre Lakatos .
 
-8 A surrog ate for truth
+8 A surrogate ate for truth
 
 ' Mob psychology ' - that is how I mre Lakatos ( 1 922-74) carica­
 
@@ -7047,7 +7047,7 @@ is
 
 he is admired by some and criticized by others on that score . If that
 
-is what Lakatos is up to, his theory of rationality is b izarre . It does
+is what Lakatos is up to, his theory of rationality is b bizarre . It does
 
 not help us at all in deciding what it is reasonable to believe or do
 
@@ -7163,7 +7163,7 @@ basis. We shall generalize upon sound experiments, draw analogies,
 
 and build up to scientific conclusions . The greater the variety and
 
-quantity of observations that confirm a conclus ion, the more
+quantity of observations that confirm a conclusion ion, the more
 
 probable it is. We may no longer have certainty, but we have high
 
@@ -7183,12 +7183,12 @@ Lakatos truncates some history of methodology but expands others .
 He even had a Popper1, Popper2, and a Popper3, denoting increas­
 
 ingly sophisticated versions of what Lakatos had learned from
-Popper. All three emphasize the testing and falsifying of conje<>­
+Popper. All three emphasize the testing and falsifying of conjectures<>­
 tures rather than verifying or confirming them. The simplest view
 
 would be, ' people propose, nature disposes ' . That is, we think up
 
-theories, and nature j unks them if they are wrong. That implies a
+theories, and nature j junks them if they are wrong. That implies a
 
 pretty sharp distinction between fallible theories and basic observations of nature. The latter, once checked out, are a final and
 
@@ -7366,7 +7366,7 @@ Each theory must be at least as
 
 consistent with known facts as its predecessor. The sequence is
 
-theoretically progressive if each theory in turn p redicts some novel
+theoretically progressive if each theory in turn p predicts some novel
 facts not foreseen by its predecessors . It is empirically progressive if
 
 some of these predictions pan out. A programme is simply
@@ -7394,7 +7394,7 @@ explained in terms of micro-organisms. When many diseases failed
 to be caused by bacteria, the positive heuristic directed a search for
 
 something smaller, the virus . This progressive research programme
-had degenerating subprogrammes. S uch was the enthusiasm for
+had degenerating subprograms. S uch was the enthusiasm for
 microbes that what we now call deficiency diseases had to be caused
 by bugs. In the early years of this century the leading professor of
 
@@ -7412,7 +7412,7 @@ epidemic of beriberi was in fact caused by the new processes of
 
 steam-polishing rice, processes imported from Europe which killed
 
-off millions of Chinese and I ndonesians whose staple food was rice.
+off millions of Chinese and I Indonesians whose staple food was rice.
 Vitamin B1 in the hull of the rice was destroyed by pol ishing.
 Thanks largely to dietary experiments in the Japanese Navy, people
 gradually came to realize that not presence of microbes, but absence
@@ -7431,7 +7431,7 @@ because no polished-rice-organisms are to be found .
 
 Hindsight
 
-We cannot tell whether a researc h programme is progressive until
+We cannot tell whether a research h programme is progressive until
 after the fact. Consider the splendid problem shift of the Pasteur
 
 programme, in which viruses replace bacteria as the roots of most
@@ -7443,7 +7443,7 @@ by viruses. A few extremely rare successes have been recorded. For
 
 example, a strange and horrible tropical lymphoma (Burkitt 's
 
-lymphoma) that causes grotesque swellings in the l imbs of people
+lymphoma) that causes grotesque swellings in the l limbs of people
 who live above 5000 feet near the equator, has almost certainly been
 traced to a virus. But w hat of the general cancer-virus programme?
 
@@ -7830,7 +7830,7 @@ admits that mathematics is a product o f the human mind, and yet i s
 
 also autonomous o f anything peculiar t o psychology. A n extension
 
-of this theme is provided by Lakatos 's conception of ' unpsycholo­
+of this theme is provided by Lakatos 's conception of ' unpsychological­
 
 gical ' internal history.
 
@@ -7963,9 +7963,9 @@ go against current scientific wisdom. But although in principle
 Lakatos can countenance this, he is properly moved by respect for
 
 the implicit appraisals of working scientists. I cannot see Lakatos
-willingly conceding that Einstein, Bohr, Lavoisier or even Coper­
+willingly conceding that Einstein, Bohr, Lavoisier or even Copernicus­
 
-nicus was participating in an irrational programme. ' Too much of
+Copernicus was participating in an irrational programme. ' Too much of
 the actual history of science' would then become ' irrational ' ( I , p.
 
 1 72) . We have no standards to appeal to, in Lakatos's programme,
@@ -7988,7 +7988,7 @@ history of science to be objective and rational if its internal history
 
 can be written as a sequence of progressive problem shifts .
 
-C ataclysms in reasoning
+C cataclysms in reasoning
 
 Peirce defined truth as what is reached by an ideal end to scientific
 
@@ -8033,7 +8033,7 @@ years ' .
 
 A body of knowledge may break with the past i n two dis­
 
-tinguishable ways. B y now we are all familiar with the possibility
+distinguishable ways. B y now we are all familiar with the possibility
 
 that new theories may completely replace the conceptual organization of their predecessors . Lakatos's story of progressive and
 
@@ -8074,7 +8074,7 @@ A . C . Crombie, from whom I take the word ' style ' , writes of six
 distinguishable styles. I have elaborated Crombie's idea elsewhere .
 Now it does not follow that the emergence of a new style is a
 
-catacl ysm . I ndeed we may add style to style, with a cumulative body
+cataclysm ysm . I ndeed we may add style to style, with a cumulative body
 of conceptual tools. That is what Crombie teaches. Clearly both
 
 1 28 Part A : Representing
@@ -8084,7 +8084,7 @@ which are only recently broached, and are utterly ill-understood .
 
 They should make us chary of an account of reality and obj ectivity
 
-which starti:> from the growth of knowledge, when the kind of
+which starting:> from the growth of knowledge, when the kind of
 growth described turns out to concern chiefly a particular know-
 
 /
@@ -8176,7 +8176,7 @@ with theory, we seem completely l ocked into representation, and
 
 hence into some version of idealism .
 
-Pity poor H ilary Putnam, for example . Once the most realist of
+Pity poor H Hilary Putnam, for example . Once the most realist of
 philosophers, he tried to get out of representation by tacking
 ' reference ' on at the end of the list of elements that constitute the
 
@@ -8217,7 +8217,7 @@ basis of an uncontentious real ism . But before abandoning theory for
 experiment, let us think a little more about the very notions of
 representation and reality.
 
-The o rigin of i deas
+The o origin of i deas
 
 What are the origins of these two ideas, representation and reality?
 Locke m ight have asked that question as part of a psychological
@@ -8250,7 +8250,7 @@ anthropomorphic creation as God Himself. ' This is not to be
 uttered in a solemn tone of voice that says, ' God is dead and so is
 reality . ' It is to be a more specific and practical claim : Reality is just a
 byproduct of an anthropological fact . More modestly, the concept of
-reality is a b yproduct of a fact about human beings.
+reality is a b byproduct of a fact about human beings.
 
 By anthropology I do not mean ethnography or ethnology, the
 
@@ -8394,7 +8394,7 @@ or representations. Doubtless philosophical talk of representation
 
 1 3 4
 
-invites memories of Wittgenstein's Siitze. Forget them . The
+invites memories of Wittgenstein's Sätze. Forget them . The
 sentence, ' the cat is on the mat ' , is no representation of reality. As
 
 Wittgenstein later taught us, it is a sentence that can be used for all
@@ -8415,7 +8415,7 @@ for philosophy. That is a mistake . We can use complicated
 sentences collectively in order to represent . So much is ordinary
 
 English idiom . A lawyer can represent the client, and can also
-represent that the police collab orated improperly in preparing their
+represent that the police collaborated orated improperly in preparing their
 reports . A single sentence will in general not represent. A representation can be verbal, but a verbal representation will use a good
 many verbs.
 
@@ -8477,12 +8477,12 @@ the best kill rate is the wild dog, yet middle-aged professors short of
 
 wind and agreeing never to talk nor signal are much better at
 
-catching the beeste and the gazelle than any wild dog. The lion that
+catching the beasts and the gazelle than any wild dog. The lion that
 
 roars and the dogs that bark will starve to death if enough silent
 humans are hunting with their bare hands .
 
-Language is not for practical affairs. ] onathan Bennett tells a
+Language is not for practical affairs. ] Jonathan Bennett tells a
 ' tribesman ' warns
 
 story about language beginning when one
@@ -8493,7 +8493,7 @@ Native One does this first by a n overacted mime of honking o n the
 
 head, and later on does this by uttering a warning and thereby
 
-starting language . I bet that no coconut ever fell on any tribesman's
+starting language . I bet that no coconut ever fell on any tribesman
 
 head except in racist comic strips, so I doubt this fantasy. I prefer a
 suggestion about language attributed to the Leakey family who
@@ -8545,7 +8545,7 @@ This imagined life is intended as an antidote to the deflating
 
 character of the quotation with which I began: Reality is an
 
-anthropomorphic creati on. Reality may be a human creation, but it
+anthropomorphic creation on. Reality may be a human creation, but it
 
 is no toy; on the contrary it is the second of human creations . The
 
@@ -8681,7 +8681,7 @@ We know likeness and representation even when we cannot
 
 answer, likeness to what? Think of the strange little clay figures on
 which are painted a sketch of garments, but which have, instead of
-heads, little saucer s haped depressions, perhaps for oil . These
+heads, little saucer s shaped depressions, perhaps for oil . These
 finger-high objects litter Mycenae . I doubt that they represent any­
 
 thing in particular. They most remind me of the angel-impressions
@@ -8734,7 +8734,7 @@ must always think, like in represent of z , b ut not of x or y. There is
 
 no absurdity in thinking that there is a raw and unrefined notion of
 
-l ikeness s pringing up with the making of representations, and
+l ikeness s springing up with the making of representations, and
 
 which, as people become more skilful in working with materials,
 
@@ -8785,7 +8785,7 @@ time we have seen this as the consequence of Kuhn's Structure of
 Scientific Revolutions. It is, however, quite an old theme in
 philosophy, best illustrated b y the first atomists.
 
-The Democrite an dream
+The Democritean an dream
 
 Once representation was with us, reality could not be far behind . It
 
@@ -8814,7 +8814,7 @@ Despite Leucippus, and other forgotten predecessors, it is natural
 
 to associate this with Democritus, a man only a little older than
 
-S ocrates . T he best sciences of his day were astronomy and
+S Socrates . T he best sciences of his day were astronomy and
 
 geometry. The atom is ts were bad at the first and weak in the second,
 
@@ -8854,13 +8854,13 @@ fields, all too small or b ig to be seen or fel t or heard except in the
 aggregate. But the aggregate, continues Democritus, is none other
 t han this stone, this arm, this earth, this universe.
 
-Familiar philosophical reflections ensue . Scepticism is inev­
+Familiar philosophical reflections ensue . Scepticism is inevitable­
 
 itable, for if the atoms and the void comprise the real, how can we
 ever know that ? As Plato records in the Gorgias, this scepticism is
 three-pronged. All scepticism had had three prongs, since Demo­
 
-critus formulated atomism. There is first of all the doubt that we
+Democritus formulated atomism. There is first of all the doubt that we
 
 could check out any particular version of the Democritean dream . If
 
@@ -8899,7 +8899,7 @@ the Democritean dream, the atoms must be like the inner constitution of the ston
 asserting his doctrine, Democritus can only say that his picture of
 
 particles pictures reality. What then of the depiction of the stone as
-brown, encrusted, j agged, held in the hand ? That, says the atomist,
+brown, encrusted, j jagged, held in the hand ? That, says the atomist,
 
 must be appearance .
 
@@ -9039,7 +9039,7 @@ Hertz was published in 1 894, and Duhem in 1 906. Within that
 
 s pan of years pretty well the whole of physics was turned upside
 
-down. I ncreasingly, people who knew no physics gossiped that
+down. I Increasingly, people who knew no physics gossiped that
 
 everything is relative to your culture, but once again physicists were
 sure they were on the only path to truth. They had no doubt about
@@ -9076,7 +9076,7 @@ What Hertz had held up as a possibility too scaring to discuss , Kuhn
 
 said was brute fact .
 
-Anthropol ogical summary
+Anthropological ogical summary
 
 People represent . That is part of what it is to be a person. In the
 
@@ -9169,7 +9169,7 @@ and atoms.
 
 What is the principle behind the extension? It is, I suggest, that the
 entities which we conjecture to be real should be able to exert a causal effect
-upon the primafacie real things; that is, upon material things of an ordinary
+upon the prima facie real things; that is, upon material things of an ordinary
 size: that we can explain changes in the ordinary material world of things by
 the causal effects of entities conjectured to be real .2
 
@@ -9282,7 +9282,7 @@ hope the following chapters might initiate a Back-to-Bacon movement, in which we
 
 Experimentation has a life of its own .
 
-Class a n d c aste
+Class a n d c caste
 
 By legend and perhaps by nature philosophers are more ac­
 
@@ -9380,7 +9380,7 @@ him we owe the very word ' cell '. H is work on microscopic fossils
 
 made him an early proponent of an evolutionary theory. He saw
 
-how to use a pendulum to measure the force of gravity. He codiscovered the diffraction of light (it bends around sharp corners, so
+how to use a pendulum to measure the force of gravity. He co-discovered the diffraction of light (it bends around sharp corners, so
 
 that shadows are always b lurred. More importantly it separates in
 
@@ -9400,7 +9400,7 @@ theory/experiment status difference is modelled on social rank.
 
 Nor is such bias a thing of the past. My colleague C .W . F . Everitt
 wrote on two brothers for the Dictionary of Scientific Biography.
-B oth made fundamental contributions to our understandi ng of
+B oth made fundamental contributions to our understanding ng of
 
 superconductivity. Fritz London ( 1 900-5 3) was a distinguished
 
@@ -9423,7 +9423,7 @@ What is scientific method? Is it the experimental method? The
 question is wrongly posed. Why should there be the method of
 science? There is not j ust one way to build a house, or even to grow
 
-tomatoe s . We s hould not expect something as motley as the growth
+tomatoes s . We s hould not expect something as motley as the growth
 
 of knowledge to be strapped to one methodology.
 
@@ -9544,14 +9544,14 @@ the end implicitly following Popper's methodology of conjecture
 and refutation. It is beside the point that Davy's own example is
 
 not, as he thought, a scientific truth. Our post-Davy reclassification
-of algae shows that Conj ervae are not even a natural kind! There is
+of algae shows that Conj Confervae are not even a natural kind! There is
 no such genus or specie s .
 
 I a m concerned solely with t h e question o f the strong version:
 
 must there be a conjecture under test in order for an experiment to
 make sense? I think not. Indeed even the weak version is not beyond
-doub t . The p hysicist George Darwin used to say that every once in
+doubt t . The p hysicist George Darwin used to say that every once in
 a while one should do a completely crazy experiment, like blowing
 the trumpet to the tulips every morning for a month. Probably
 
@@ -9592,7 +9592,7 @@ Discovery:
 
 The theoreti cian puts certain definite questions to the experimenter, and
 
-the latter b y his experiments tries to elicit a decis ive answer to these
+the latter b y his experiments tries to elicit a decisive ive answer to these
 
 q uestions, and to no others . All other questions he tries hard to ex­
 
@@ -9695,7 +9695,7 @@ theory of
 
 the wave
 
-ficent analysis in which the two rays are described by a single
+magnificent analysis in which the two rays are described by a single
 
 equation whose solution is a two-sheeted surface of the fourth
 
@@ -10049,7 +10049,7 @@ came on September 1 I 1 820. He saw a demonstration by q>ersted
 
 that a compass needle is deflected by an electric current. Commencing on September 20 Ampere laid out, in weekly lectures, the
 
-2 F.M. Bradley, The E/ec1romag11e1ic Spectrum, New York, 1 979, p. 1 00, my emphasis.
+2 F.M. Bradley, The E/ec1electromagnetic11e1ic Spectrum, New York, 1 979, p. 1 00, my emphasis.
 
 1 62
 
@@ -10323,7 +10323,7 @@ of its own.
 
 Too many instances?
 
-After this B aconian fluster of examples of many different relation­
+After this B Baconian fluster of examples of many different relation­
 
 ships between experiment and theory, it may seem as if no
 
@@ -10346,7 +10346,7 @@ beginning. What is an observation? Is every observation in science
 
 loaded with theory?
 
-10 Obs e rvation
+10 Obs e Observation
 
 Commonplace facts about observation have been distorted by two
 
@@ -10586,7 +10586,7 @@ Hence observability does not provide a good way to sort the objects
 
 of science into real and unreal .
 
-Maxwell 's case is not closed. We shoul d attend more closely to
+Maxwell 's case is not closed. We should d attend more closely to
 
 the very technologies that he takes for granted . I attempt this in the
 
@@ -10739,7 +10739,7 @@ galley proofs), and that such tests often lead to establishing facts
 
 (the pudding is stodgy, the galleys full of misprints) .
 
-On c ontaining theoretical assumptions
+On c containing theoretical assumptions
 
 Paul Feyerabend's essays, contemporary with work by Hanson,
 
@@ -10837,7 +10837,7 @@ acquiring the curious knack of knowing when the apparatus is
 
 working. It has been common practice to use the label ' the
 
-Michelson-Morley experiment ' to denote a sequence of intermit­
+Michelson-Morley experiment ' to denote a sequence of intermittent­
 
 tent work with Michelson's initial success of 1 8 8 1 (or even earlier,
 
@@ -11193,7 +11193,7 @@ positron ' , is thereby implying or asserting a lot of theory. I do not
 think that this is so. An assistant can be trained to recognize those
 
 tracks without having a clue about the theory. In England it is still
-not too uncommon to find in a lab a youngis h technician, with no
+not too uncommon to find in a lab a youngish h technician, with no
 
 formal education past 16 or 1 7 , who is not only extraordinarily
 
@@ -11290,7 +11290,7 @@ The drive to displace observations by linguistic entities (observ­
 ation sentences), persists throughout recent philosophy . Thus
 W . V . O . Quine proposes, almost as if it were a novelty, that we
 
-2 M . Hoskin and B. Warner , ' Caroline Herschel's comet sweepers ' . Jmmwl for the History of
+2 M . Hoskin and B. Warner , ' Caroline Herschel's comet sweepers ' . Journal for the History of
 
 Astro11omy 1 2 ( 1 98 1 ), pp. 27-34.
 
@@ -11330,7 +11330,7 @@ not mean that we would say she had the skill unless other students ,
 
 using other means, did not in the end come to agree on many of her
 
-identifications . Her j udgements attain full val idity only in the
+identifications . Her j udgements attain full val validity only in the
 
 context of the rich scientific life of t he period . B ut Quine's
 
@@ -11339,7 +11339,7 @@ agreement ' on the spot ' has little to do with observation in science .
 If we want a comprehensive account of scientific life, we should,
 in exact opposition to Quine , drop the talk of observation sentences
 
-and s peak instead of observation . We should talk carefull y of
+and s peak instead of observation . We should talk carefully y of
 reports , skills, and experimental results. We should consider what,
 for example, it is to have an experiment working well enough that
 
@@ -11360,20 +11360,20 @@ a microscope (I think we do, but the issue is not simple) . There are
 
 1 8 2
 
-more radical extensions of the idea of observat ion. It is commonplace in the most rarefied reaches of experimental science to
+more radical extensions of the idea of observation ion. It is commonplace in the most rarefied reaches of experimental science to
 s peak of ' observing ' what we would naively suppose to be
 
 unobservable - if ' observable ' really did mean, using the five senses
-almost unaided. Naturally if we were pre-pos itivist, like Bacon, we
+almost unaided. Naturally if we were pre-pos positivist, like Bacon, we
 
 would say, ' so what?' But we still have a positivist legacy, and so we
 are a little startled by routine remarks by physicists . For exam ple,
 the fermions are those fundamental particles with angular momentum such as 1 / 2, or 3/2, and which obey Fermi-Dirac statistics: they
-include electrons, nuons, neutrons , and protons, and much else,
+include electrons, muons, neutrons , and protons, and much else,
 
 including the notorious quarks . One says things like: ' Of these
 fermions, only the t quark is yet unseen. The failure to observe tt'
-states in e+ e- annihil ation at PETRA remains a puzzle. 3
+states in e+ e- annihilation ation at PETRA remains a puzzle. 3
 
 The language which has been institutionalized among particle
 physicists may be seen by glancing at something as formal as a table
@@ -11386,7 +11386,7 @@ even how to count the kinds of mesons which are now recorded, but
 let us limit ourselves to one open page (pp. 28-9) with nine mesons
 
 classified according to six different characteristics . Of interest is the
-' partial decay mode ' and the fraction of decays which are quantitat­
+' partial decay mode ' and the fraction of decays which are quantitatively­
 
 ively recorded only when one has a statistical analysis at the 90%
 confidence level . Of the 3 I decays associated with these nine
@@ -11410,7 +11410,7 @@ others which are ' . The trouble is t hat the physicist still calls this
 Accelerator, SLA C-PUB-2630, October 1 980, p. 5. (This is a report connected w i t h the
 experiment described in Chapter 1 6 below . )
 
-4 Parricle Properries D a r a Bookle t , April 1 9 8 2 , p . 2 4 . (Available from Lawrence Berkeley
+4 Particle Properties D a r a Booklet t , April 1 9 8 2 , p . 2 4 . (Available from Lawrence Berkeley
 Laboratory and CERN. Cf. ' Review of physical properties ' , Ph)'Sics Le11ers 1 I 1 B ( 1 982).)
 5 D . Shapere , ' The concept of observation in science and philosophy ' , Philosophy of Science 49
 
@@ -11442,7 +11442,7 @@ some physicists - illustrated by my quark quotation above - is
 
 even more liberal than this, but clearly S hapere gives the begin­
 
-nings of a correct analysis . 6
+beginnings of a correct analysis . 6
 
 Massively theory-loaded observation ( E )
 
@@ -11528,7 +11528,7 @@ than the theories involved in the other two possible experiments .
 
 Maybe relativistic precession theory will be the first to be ab­
 
-andoned. The point is that within the framework of our present
+abandoned. The point is that within the framework of our present
 
 understanding, the body of theoretical assumptions underlying the
 gyro proposal are arrived at in a completely different way from the
@@ -11824,11 +11824,11 @@ arising from Grover Maxwell 's list. You can open the window and
 
 see the fir tree directly. You can walk up to at least some of the
 
-2 G . Be rgman , ' Ou t l i ne of an empiricist philosophy of physics ', Ame,.ic011Jo11mal of Physics 1 1
+2 G . Be Bergman , ' Ou t l i ne of an empiricist philosophy of physics ', Ame,.ic011Jo11mal of Physics 1 1
 
 ( 1 94 3 ) . pp. 248-5 8 . 3 3 5-4 2 .
 
-3 G . Maxwe l l , ' The ontological status o f t heoretical entities ' , in Mimiesoca Swdies in the
+3 G . Maxwe l l , ' The ontological status o f t theoretical entities ' , in Minnesota Studies in the
 
 Philosophy of Science 3 ( 1 962), pp. 3-27.
 
@@ -11905,7 +11905,7 @@ ourselves hand crafted under the microscope - jerk through the cell
 
 wal l . We see the li pid oozing out of the end of the needle as we gently
 
-turn the m icrometer screw on a large, thoroughly macroscopic,
+turn the m micrometer screw on a large, thoroughly macroscopic,
 plunger. Blast! Inept as I am, I have j ust burst the cell wall, and
 
 must try again on another specimen. John Dewey's jeers at the
@@ -11928,7 +11928,7 @@ are invisible to the naked eye; it is natural to assume that they, also, are
 ' the same as ' the object. (At this stage it is necessary to establish that
 detail
 is not a consequence of damage to the specimen during
-preparation for microscopy . ) But what is actuall y implied by the
+preparation for microscopy . ) But what is actually y implied by the
 statement that ' the image is the same as the object? '
 
 Obviously the image is a purely optical effect .
@@ -11936,7 +11936,7 @@ Obviously the image is a purely optical effect .
 The ' sameness ' of
 object and image in fact implies that the physical interactions with the
 l ight beam that render the object visible to the eye (or which would
-render it visible, iflarge enough) are identical with those that lead to the
+render it visible, large enough) are identical with those that lead to the
 formation of an image in the microscope .
 
 .
@@ -11956,7 +11956,7 @@ of ultraviolet l ight, x-rays, or electrons , or that the microscope employs
 some device which converts differences in phase to changes in
 intensity. The image then cannot possibly be ' the same ' as the object,
 even in the l imited sense j ust defined ! The eye is unable to perceive
-ultraviolet, x-ray, or electron radiation, or to detect s hifts of phase
+ultraviolet, x-ray, or electron radiation, or to detect s shifts of phase
 between l ight beams .
 
 .
@@ -11979,7 +11979,7 @@ radioautogram
 
 .
 
-Micr<Jscopes
+Micr<Microscopes
 
 19 I
 
@@ -12151,12 +12151,12 @@ smear or vice versa. Although rich people liked to have a microscope
 about the house for entertainments, it is no wonder that serious
 
 science had nothing to do with the instrument. We often regard
-Xavier B ichat as the founder of histology, the study ofliving tissues .
+Xavier B Bichat as the founder of histology, the study ofliving tissues .
 
 In I 800 he would not allow a microscope in his lab . In the
 introduction to his General Anatomy he wrote that: ' When people
 observe in conditions of obscurity each sees in his own way and
-according as he is affected. It is, t herefore, observation of the vital
+according as he is affected. It is, t therefore, observation of the vital
 
 properties that must guide us ', rather than the blurred images
 
@@ -12170,11 +12170,11 @@ made possible by the advent of flint glass, with refractive indices
 different from that of ordinary glas s . A doublet of two lenses of
 
 different refractive indices can be made to cancel out the aberration
-perfectl y for a given pair of red ?nd blue wave lengths, and although
+perfectly y for a given pair of red ?nd blue wave lengths, and although
 
 the solution is imperfect over the whole s pectrum, the result can be
 
-improved by a triplet oflenses . The first person to get the right ideas
+improved by a triplet of lenses . The first person to get the right ideas
 was so secretive that he sent the specifications for the lenses of
 
 different kinds of glass to two different contractors . They both
@@ -12201,7 +12201,7 @@ microscopy improved at rather a greater rate . I f we draw a graph of
 
 development we get a first high around 1 660, then a slowly
 ascending plateau until a great leap around 1 870; the next great
-period, which is still with us, commences about 1 94 5 . An h istorian
+period, which is still with us, commences about 1 94 5 . An h historian
 
 has plotted this graph with great precision, using as a scale the limits
 of resolution of surviving instruments of different epochs. Making a
@@ -12218,7 +12218,7 @@ availability of aniline dyes for staining. Living matter is mostly
 
 transparent. The new aniline dyes made it possible for us to see
 
-m icrobes and much else.
+m microbes and much else.
 
 Abbe and diffraction
 
@@ -12251,7 +12251,7 @@ be taken on by the small firm of Carl Zeiss in Jena, and when Zeiss
 
 died he became an owner; he retired to a life of philanthropy.
 
-I nnumerable mathematical and practical innovations by Abbe
+I Innumerable mathematical and practical innovations by Abbe
 turned Carl Zeiss into the greatest of optical firms. Here I consider
 only one .
 
@@ -12313,16 +12313,16 @@ are the result of diffraction .
 Practical applications abound . Evidently you will pick up more
 diffracted rays by having a wider aperture for the objective lens, but
 
-then you obtain vastly more s pherical aberration as well . I nstead
+then you obtain vastly more s spherical aberration as well . I nstead
 
 you can change the medium between the specimen and the lens .
 With something denser than air, as in the oil- immersion m icro­
 
 scope, . you capture more of the diffracted rays within a given
 
-aperture and so increase the resol ution of the microscope .
+aperture and so increase the resolution ution of the microscope .
 
-Altho'ugh the first Abbe-Zeiss microscopes were good, the theory
+Although the first Abbe-Zeiss microscopes were good, the theory
 was resisted for a number of years, particularly in England and
 America, who had enjoyed a century of dominating the market.
 
@@ -12362,7 +12362,7 @@ example of what Lakatos calls a degenerating research programme.
 
 The passage remains the same , in essentials, even in the 1 7th edition
 
-( 1 94 1 ) . Thus there was a truly deep-seated repugnance to Abbe's
+( 1 94 1 ) . Thus there was a truly deep-seated repugnance to Abbe
 doctrine which, as quotation [A] has it, says ' there is and can be no
 comparison between microscopic and macroscopic vision ' .
 
@@ -12400,7 +12400,7 @@ s pecimen. Most aniline dyes are number one poisons, so what you
 
 will see is usually a very dead cell, which is al so quite likely to be a
 
-structurall y damaged cell, exhibiting structures that are an artifact
+structurally y damaged cell, exhibiting structures that are an artifact
 
 of the preparation. However it turns out that living material varies
 in its birefringent (polarizing) properties . So let us incorporate into
@@ -12408,14 +12408,14 @@ in its birefringent (polarizing) properties . So let us incorporate into
 our microscope a polarizer and an analyser. The polarizer transmits
 to the s pecimen only polarized l ight of certain properties . In the
 
-s implest case, let the analyser be placed at right angles to the
+s simplest case, let the analyser be placed at right angles to the
 polarizer, so as to transmit only light of polarization opposite to that
 
 of the polarizer. The result is total darkness . But suppose the
 
 s pecimen is itself birefringent; it may then change the plane of
 polarization of the incident light, and so a visible image may be
-formed by the analyser. Transparent fibers of s triated muscle may be
+formed by the analyser. Transparent fibers of s striated muscle may be
 
 observed in this way, without any staining, and relying solely on
 certain properties of light that we do not normally ' see ' .
@@ -12546,7 +12546,7 @@ Theory may seem to enter at another level . Why do we believe the
 
 pictures we construct using a m icroscope? Is it not because we have
 a theory according to which we are producing a truthful picture? I s
-this not yet another case o f S hapere's remark, that what w e call
+this not yet another case o f S Shakespeare's remark, that what w e call
 observation is itself determined by theory? Only partially. Despite
 
 Bichat, people rightly believed much of what they saw through pre­
@@ -12647,7 +12647,7 @@ grid e ach of whose squares is labelled with a capital letter. Electron
 
 micrographs are made of the slices mounted upon such grids.
 
-S pecimens with particularly striking configurations of dense bodies
+S specimens with particularly striking configurations of dense bodies
 
 are then prepared for fluorescence microscopy. Finally one com ­
 pares the electron micrographs and the fluorescence micrographs .
@@ -12671,7 +12671,7 @@ cesses produced identical visual configurations which were, how­
 ever, artifacts of the physical processes rather than real structures in
 the cel l .
 
-Note that n o one actually produces t h i s ' argument from coinci ­
+Note that n o one actually produces t h i s ' argument from coincidence ­
 dence ' in real life . One simply looks at the two (or preferably more)
 
 sets of micrographs from different physical systems, and sees that
@@ -12769,7 +12769,7 @@ are positioned on earth, we could go out there and look at the moons
 with the naked eye. That is not so fanciful as it sounds, for there is a
 
 very small number of people living today who, it appears , can
-distinguish J upiter's moons with the naked eye from here . For those
+distinguish J Jupiter's moons with the naked eye from here . For those
 
 of us with less acuity it is, for the moment however, science fiction.
 
@@ -12784,7 +12784,7 @@ visible to the naked eye . They are made by drawing a very large grid
 with pen and ink. Letters are neatly inscribed at t he corner of each
 square on the grid. Then the grid is reduced photographically.
 
-Using what are now standard techniques, metal is deposi ted on the
+Using what are now standard techniques, metal is deposited ted on the
 
 resulting micrograph . Grids are sold in packets , or rather tubes , of
 I OO, 250 and 1 000. The procedures for making such grids are
@@ -12811,7 +12811,7 @@ can check the results with any kind of microscope, using any of a
 dozen unrelated physical processes to produce an image . Can we
 
 entertain the possibility that, all the same , this is some gigantic
-coincidence? I s it false t hat the disc is, microscopically, in the s hape
+coincidence? I s it false t hat the disc is, microscopically, in the s shape
 of a labelled grid? Is it a gigantic conspiracy of I 3 totally unrelated
 physical processes that the large scale grid was shrunk into some
 non-grid which when viewed using 12 different kinds of microscopes still looks like a grid? To be an anti-realist about that grid you
@@ -12913,7 +12913,7 @@ intellectual modes of understanding, and with other kinds of
 
 experimental work. Biological microscopy without practical biochemistry is as blind as Kant's intuitions in the absence of concepts.
 
-The acoustic microsc ope
+The acoustic microscope ope
 
 I here avoid the electron microscope . There is no more ' the '
 light microscope : all sorts of
@@ -12933,7 +12933,7 @@ sea, remind us that longitudinal and transverse wave fronts can be
 put to the same kinds of purpose . Ultrasound is ' sound ' of very
 high frequency . Ultrasound examination of the foetus in the
 
-mother's womb has recentl y won well deserved publicity. Over 40
+mother's womb has recently y won well deserved publicity. Over 40
 years ago Soviet scientists suggested a microscope using sound of
 
 frequency 1 000 times greater than audible noise . Technology has
@@ -12944,7 +12944,7 @@ in operation.
 
 The acoustic part of the microscope is relatively simple. Electric
 
-s ignals are converted into sound signals and then, after interaction
+s signals are converted into sound signals and then, after interaction
 
 with the specimen, are reconverted into electricity . The subtlety of
 
@@ -12977,7 +12977,7 @@ and also in detecting defects in silicon chips . For the biologist, the
 prospects are also striking. The acoustic microscope is sensitive to
 density, viscosity and flexibility of living matter. Moreover the very
 
-s hort b ursts of sound used by the scanner do not immediately
+s hort b bursts of sound used by the scanner do not immediately
 
 damage the cell. Hence one may study the life of a cell in a quite
 literal way: one will be able to observe changes in viscosity and
@@ -12999,12 +12999,12 @@ Looking with a microscope
 Looking through a lens was the first step in technology. Then came
 
 peering through the tube of a compound microscope, but looking
-' through ' the instrument is immaterial . We study photo�raphs
+' through ' the instrument is immaterial . We study photo�photographs
 taken with a microscope . Thanks to the enormous depth of focus of
 
 an electron m icroscope it is natural to view the image on a large flat
 
-surface so everyone can stand around and poirit to what's interesting. Scanning m icroscopes necessarily constitute the image on a
+surface so everyone can stand around and point to what's interesting. Scanning m icroscopes necessarily constitute the image on a
 
 screen or plate. Any image can be digitized and retransmitted on a
 
@@ -13046,7 +13046,7 @@ Consider the electron diffraction microscope with which I
 produce images of crystals in either conventional or reciprocal space
 
 - nowadays, at the flick of a switch. Because the dots of an electron
-diffraction pattern are reciprocal to the atomic structure of a �rystal ,
+diffraction pattern are reciprocal to the atomic structure of a �crystal ,
 reciprocal s pace is, roughly speaking, conventional space turned
 
 inside out . Near is far and far is near. Crystallographers often find it
@@ -13122,7 +13122,7 @@ follow that the objects we report seeing are real? No. For I have said
 
 only that we s hould not be stuck in the nineteenth-century rut of
 
-positivism-cum-phenomenology, and that we should allow oursel­
+positivism-cum-phenomenology, and that we should allow ourselves­
 
 ves to talk of seeing with a microscope . S uch a recommendation
 implies a strong commitment to realism about microscopy, but it
@@ -13133,7 +13133,7 @@ electron neutrinos and so forth. The physicist is a realist too, and he
 s hows this by using the word ' see ', but his usage is no argument that
 there are such things.
 
-Does Jllicroscopy then beg the question of realism? No. We are
+Does Microscopy then beg the question of realism? No. We are
 
 convinced of the structures that we observe using various kinds of
 
@@ -13164,7 +13164,7 @@ clear understanding of most of the physics used to build the
 
 instruments that enable us to see, but this theoretical conviction
 plays a relatively small part . We are more convinced by the
-admirable intersecti ons with biochemistry, which confirm that the
+admirable intersections ons with biochemistry, which confirm that the
 
 structures that we discern with the microscope are individuated b y
 
@@ -13232,7 +13232,7 @@ of nature must be interconnected. Newton made a s pace for unified
 science that lasted until 1 800 . In that year, as we saw in Chapter 1 0,
 
 William Herschel produced the problem of radiant heat . In the
-same year Guiseppe Volta inade the first voltaic cell. There was, for
+same year Giuseppe Volta inade the first voltaic cell. There was, for
 the first time, a source of a steady electric current, which, as <i>ersted
 soon showed, could affect the needle of a magnetic compas s . In I 801
 Thomas Young announced the wave theory of light, putting paid to
@@ -13261,7 +13261,7 @@ until he used dense glass he had developed many years earl ier for
 
 another purpose. He found that the plane of polarization of a beam
 
-of light would rotate when sent through this borosylicate glas s ,
+of light would rotate when sent through this borosilicate glas s ,
 
 parallel to t h e lines o f magnetic force . The French physicist M . E .
 
@@ -13294,7 +13294,7 @@ polarization rotate.
 
 Kelvin's model was adapted by Maxwell and helped form his
 electromagnetic theory of light. However it did not agree well with
-experimental details reported by Verdet . So Maxwell used symmetry arguments to determine the additional terms in the Lagran ­
+experimental details reported by Verdet . So Maxwell used symmetry arguments to determine the additional terms in the Lagrangian ­
 gian of the electromagnetic field vector which is used to describe the
 phenomena. Finally in 1 892 H.A. Lorentz combined Maxwell's
 equations with his electron theory. This gave the explanation used
@@ -13346,7 +13346,7 @@ developed into increasingly more satisfactory theoretical formu­
 
 lations. Often, of course , the big speculation (6) comes first. The
 example illustrates only the humdrum but easy-to-forget fact that
-' theory ' covers lots of productions . A dictionary says that etymo­
+' theory ' covers lots of productions . A dictionary says that etymologically­
 
 logically, the word ' theory ' is derived from a Greek word which,
 
@@ -13456,7 +13456,7 @@ arbitrarily call the more theoretical of these two activities ' calculation ' . 
 alteration of a given s peculation, so that one b rings it into closer
 resonance with the world.
 
-Newton was a great s peculator. He was also a great calculator; he
+Newton was a great s speculator. He was also a great calculator; he
 
 invented the differential calculus in order to understand the
 
@@ -13516,7 +13516,7 @@ Braithwaite calls it a Campbellian dictionary - of ' statements of the
 relation between these ideas and some ideas of a different nature ' .
 I disapprove o f this distinction i n linguistic terms of statement,
 
-but the idea has the ring of truth. It is closer to reality than the twostage picture of conjecture and refutation. Campbell and Braith­
+but the idea has the ring of truth. It is closer to reality than the two-stage picture of conjecture and refutation. Campbell and Braithwaite­
 
 waite indicate the answer to a puzzle. If s peculation intends a
 qualitative structure for some domain, and experimentation, as I
@@ -13546,7 +13546,7 @@ Models
 
 Reference to the hypothetico-deductive scheme shows that the
 
-division into s peculation, calculation and experiment is conservat­
+division into s peculation, calculation and experiment is conservative­
 
 ive . The different levels of theoretical statement illustrated by the
 magneto-optical effect are not so unfamiliar. Nancy Cartwright's
@@ -13554,7 +13554,7 @@ magneto-optical effect are not so unfamiliar. Nancy Cartwright's
 2 1 6
 
 b ook, How the Laws of Physics Lie ( 1 9 8 3 ) , makes a more radical
-de parture from tradition . Thus far I have written as if getting
+de departure from tradition . Thus far I have written as if getting
 theory to mesh with possible determinations of nature is j ust a
 
 matter of articulation and calculation. We begin with speculations
@@ -13634,7 +13634,7 @@ known computational techniques can operate . That leads to the
 
 following conce ption .
 
-1 The phenomena are real , we saw them happe n .
+1 The phenomena are real , we saw them happened n .
 2 T h e theories are true , or at a n y rate a i m at the trut h.
 3 The models are intermediaries , siphoning off some as pects
 of real phenomena, and connecting them , by simpl ifying
@@ -13649,7 +13649,7 @@ truth, often being pretty close to the trut h . Yes , t here are examples
 
 of exactly that relations hip . Cartwright remarks t hat t here are also
 examples of many other kinds of relationsh i p . S he describes som e in
-detai l . Here I mention only two that s he report s , without re ­
+detail l . Here I mention only two that s he report s , without re ­
 
 capitulating her examples .
 
@@ -13659,17 +13659,17 @@ The issues are closely connected with scientific real ism . Cartwright
 
 is by and large anti-real ist about theories . Models provide one bas is
 
-for this . She notes that not only are models not ded ucible from the
+for this . She notes that not only are models not ded deducible from the
 
 theory in which t hey are embedded, b ut that physicists can use, for
-purposes of convenience, a number of mutually incons is tent models
+purposes of convenience, a number of mutually inconsistent is tent models
 
 within t he s ame theory. Yet these models are the only available
 
 formal representations of the phenomenological laws that we t hink
 to be true. We have nothing more to go on, she says, than those
 
-phenomenological law s . Our formal modell ings of them cannot be
+phenomenological law s . Our formal modeling ings of them cannot be
 
 true altogether since they are not mutually cons istent . Nor is there
 
@@ -13678,7 +13678,7 @@ carry ground for belief b ack to the theory within which they are
 propounded. Moreover, models tend to be robust under theory
 
 change, that i s , you keep t he model and dump the theory . There is
-more l ocal truth in the inconsis tent m odels than in the more high­
+more l ocal truth in the inconsistent tent m odels than in the more high­
 
 b row theories.
 
@@ -13697,7 +13697,7 @@ physics alone has used successfully more (incompatible) models of
 
 phenomena in its day-to-day business, than it used in the preceding
 
-year. The ideal end of science is not unity but absol ute plethora.
+year. The ideal end of science is not unity but absolute ute plethora.
 This remark can go along with intense admiration for projects
 
 which try to unify science . Faraday's discovery of the magneto­
@@ -13725,7 +13725,7 @@ equation that is only approximately true . But although there are
 such approximations away from the truth, there are far more
 approximations towards the truth. I n many a theory of mathematical physics we have a structural re presentation with some
 
-equations at a purel y hypothetical level , equations which are
+equations at a purely y hypothetical level , equations which are
 
 already simplifications of equations which cannot be solved . I n
 order to make these fit some level o f phenomenological law, there
@@ -13753,13 +13753,13 @@ Speculation, calculation, models, approximations
 
 2 19
 
-mathematical physics of D uhem's day was done b y Germans and
+mathematical physics of D Duhem's day was done b y Germans and
 
 the broad physical modelling referred to by Duhem was most often
 
 done by Scots . The Lagrange of this quotation was proud to be
 
-I talian.)
+I Italian.)
 
 The French mind [she writes] sees things in an elegant, unified, way . It
 takes Newton's three laws of motion and the law of gravitation and turns
@@ -13804,7 +13804,7 @@ call it the creation of phenomena. Traditionally scientists are said to
 
 explain phenomena that they discover in nature. I say that often
 
-they create the phenomena which then become the centrepieces of
+they create the phenomena which then become the centerpieces of
 
 theory.
 
@@ -13851,7 +13851,7 @@ The creation of phenomena
 
 22 I
 
-appearance and reality. The word is, then, a philosopher's minefiel d . Yet it has a fairly definite sense in the common writings of
+appearance and reality. The word is, then, a philosopher's minefield d . Yet it has a fairly definite sense in the common writings of
 scientist s . A phenomenon is noteworthy . A phenomenon is discern ible . A phenomenon is commonly an event or process of a
 
 certain type that occurs regularly under definite circumstance s .
@@ -13866,7 +13866,7 @@ fact of such a regularity is sometimes cal led the phenomenon.
 
 Despite this usage, many of the ancients held that phenomena are
 
-changing objects of the senses, as opposed to es sences, the
+changing objects of the senses, as opposed to es essences, the
 
 permanent reality. Thus phenomena were in contrast to reality. A
 present day positivist like van Fraassen holds that phenomena are
@@ -13874,7 +13874,7 @@ present day positivist like van Fraassen holds that phenomena are
 the only reality. T he word ' phenomenon ' is neutral between t hese
 two doctrines .
 
-Hellenis tic writers contrasted phenomena to noumena, the things
+Hellenistic tic writers contrasted phenomena to noumena, the things
 
 as t hey are
 
@@ -13883,7 +13883,7 @@ in themselve s . Kant transferred this to modern
 philosophy, and made the noumena unknowable . All natural
 
 science became a science of phenomena. Then came the cockcrow
-of positivis m . The unknowable may be discounted, as if it did not
+of positivism m . The unknowable may be discounted, as if it did not
 
 exist . ' Phenomena ' come to denote , for some empiricist philoso­
 
@@ -13917,7 +13917,7 @@ Perspectives series (for which, much t hanks) I was amazed to hear
 
 from the physics de partment there t hat they were hiring a
 
-phenomenologis t . Phenomenology is an important part of solid
+phenomenologist t . Phenomenology is an important part of solid
 
 state and particle physics . I f you had wanted to check out what I
 
@@ -14047,10 +14047,10 @@ efficient causes .
 
 2 2 4
 
-Part B: In tervening
+Part B: In intervening
 
 It is to German philosophy that we owe the resurgence of the
-' philosophical ' sense of the word ' phenomenon ' , that is e-ncoded
+' philosophical ' sense of the word ' phenomenon ' , that is e-encoded
 
 both in the English school of phenomenal ism and the continental
 
@@ -14080,7 +14080,7 @@ is where the usage began.
 
 itself. What is an effect, and why do people come to call something
 
-an ' effect ' ? Let us take for example the efft!ct discovered by E . H .
+an ' effect ' ? Let us take for example the effect!ct discovered by E . H .
 
 Hall in 1 879, while a research student i n Rowland 's new physics
 
@@ -14088,12 +14088,12 @@ l aboratory in J ohns Hopkins University. Rowland had asked Hall to
 
 investigate a somewhat offhand remark of James Clerk Maxwell . I n
 
-the Treatise o n Electricity and Magnetis m , M axwell had said that
+the Treatise o n Electricity and Magnetism m , M axwell had said that
 
 when a conductor carrying a current is under the influence of a
 magnetic field, the field acts on the conductor b ut not on the
 
-current. In a recent study of the Hall effect, Jed Z. B uchwald uses
+current. In a recent study of the Hall effect, Jed Z. B Buchwald uses
 the incident to recapture part of the spirit of Maxwellian theory of
 
 the time. Hall guessed that Maxwell was say ing that the resistance
@@ -14125,7 +14125,7 @@ It seemed hardly safe, even then, to believe that a new phenomenon has been
 
 discovered, but now after nearl y a fortnight has elapsed, and the experi­
 
-ment has been many times and under various circumstances s uccessfully
+ment has been many times and under various circumstances s successfully
 
 repeated .
 
@@ -14167,12 +14167,12 @@ further background of theory.
 
 Creation
 
-Hall did not create his effect! He di scovered that passing a current
+Hall did not create his effect! He di discovered that passing a current
 through gold leaf, in a magnetic field, produces a potential at right
 angles to the field and to the current . He and other workers later
 
 investigated ramifications of the effect . W hat for example happens
-to conductors other than goid, or to semi-conductors? All this work
+to conductors other than gold, or to semi-conductors? All this work
 required ingenuity. The apparatus was man-made . The inventions
 
 were created . But, we tend to feel, the phenomena revealed in the
@@ -14237,7 +14237,7 @@ I n the Renaissance the word ' phenomenon ' denoted primarily
 solar and astronom ical regularities and anomalies . Long before God
 
 had created the sun and the earth those who do not share my
-Borgesian fantasy may imagine ·that He had some Unive rsal Field
+Borgesian fantasy may imagine ·that He had some Universal rsal Field
 
 Theory in mind. When He made the heavens and the earth, they
 obeyed gravitational and other field principles. The laws, we
@@ -14335,7 +14335,7 @@ The Josephson effect
 
 I t has l ong been known that about 4° above absolute zero, many
 
-funny things happen. S ubstances become superconductors, so that
+funny things happen. S Substances become superconductors, so that
 if using a heat switch you induce electricity in a closed circuit, the
 
 current keeps on going forever. What would happen if you
@@ -14344,14 +14344,14 @@ separated superconductors b y a thin sheet of electric insulation?
 
 W hat would happen if you had a battery connecting the two
 
-supercond uctors? B rian J osephson predicted in 1 962 that a current
+supercond conductors? B rian J osephson predicted in 1 962 that a current
 flows between the two superconductors separated by an insulator.
 
 Moreover if you connect a battery there are wild oscillations of
 
 current with no net flow .
 
-The Josephson effect is deduced from a theory of superconduc­
+The Josephson effect is deduced from a theory of superconduct­
 
 tion proposed five years earlier by J . Bardeen, J .N . Cooper and J . R.
 
@@ -14410,7 +14410,7 @@ There is no more familiar dictum than that experimental results
 must be repeatable. On my view t hat works out as something of a
 
 tautology. Experiment is the creation of phenomena; phenomena
-must have discernible regulari ties - so an experiment that is not
+must have discernible regularities ties - so an experiment that is not
 
 repeatable has failed to create a phenomenon.
 
@@ -14493,7 +14493,7 @@ put it right . A laboratory course in which all the experiments
 worked would be fine technology b ut would teach nothing at all
 about experimentation. At the opposite end of the scale , it is not
 
-surprising that young hotshot A gets res ults and distinguished
+surprising that young hotshot A gets res results and distinguished
 
 visitor B does not . A has had the opportunity to know the apparatus
 better; he has made part of it and suffered through its failures. That
@@ -14530,7 +14530,7 @@ years ago that some wormy creatures could be got to do mazes;
 
 when others of their s pecies ate the trained worms, the cannibals
 
-would do the m azes better too. This experiment was repeated
+would do the m mazes better too. This experiment was repeated
 
 because no one believed the result. Quite rightly, too.
 
@@ -14615,7 +14615,7 @@ My most preposterous worry began when l ooking at a postcard in
 the Oxford H istory of Science Museum . I t is a copy of a sixteenth­
 
 century painting called The Measurers . The curator must suppose it
-nicely complements his fine collection of b rass instruments con­
+nicely complements his fine collection of b brass instruments con­
 
 temporary with the painting. A lady is measuring her cloth. A
 
@@ -14711,7 +14711,7 @@ man can saw in an hour, the amount of air necessary to sustain
 human l ife for an hour, the mean length of bones of the several
 species, the number of students at universities and of books in great
 
-l ibraries .
+l libraries .
 
 Churchill Eisenhart, of the U S Bureau of Standards, once
 suggested to me t hat Babbage's pamphlet marks the beginning of
@@ -14873,7 +14873,7 @@ radical l y different from t he Roemer method, we would have been
 
 plunged back into pre- Galilean astronomy, with l ight travelling at a
 
-diffe rent speed on earth t han in the solar system. More importantl y,
+diffe rent speed on earth t han in the solar system. More important y,
 
 Cavendish and Fizeau worked entirely in the laboratory with
 
@@ -14899,7 +14899,7 @@ thing t hat Fizeau had in mind (or in I 852 could have had in m ind)
 was a test between classical Newtonian theory and the theory of
 relativity. In his popular 1 9 1 6 book, The Theory of Relativity ,
 
-Einstein wrote of the two ways of s umming motion, and conti nued:
+Einstein wrote of the two ways of s summing motion, and conti nued:
 
 ' On this point we are enlightened by a most important experiment
 
@@ -14913,7 +14913,7 @@ best experimental physicists, so that there can be no doubt about its
 result ' . Then Einstein remarks that a theory of this phenomenon
 
 was given by H . A . Lorentz , but continues, ' This circumstance does
-not in the least diminish the concl usiveness of the experiment as a
+not in the least diminish the concl conclusiveness of the experiment as a
 crucial
 the electrodynamics of
 Maxwell-Lorentz , on which the original theory was based, in no
@@ -15031,7 +15031,7 @@ theory . I ts payoff, as in the Nobel prize citation quoted above, lay in
 the fact that it helped fix other constants more precisely, but those
 constants too did not much influence the course of theory .
 
-Are there exact c onstants of nature?
+Are there exact c constants of nature?
 
 The only great philosopher familiar with measurement was C . S .
 
@@ -15075,7 +15075,7 @@ most generally accepted set of fundamental constants, recom­
 mended for international use by the Committee on Data for Science
 and Technology.2 T he editors, Cohen and Taylor, have a very large
 
-2 E . R . Cohen and B . N . Taylor, Journal of Physical and Chemical Reference Daca 2 ( 1 973),
+2 E . R . Cohen and B . N . Taylor, Journal of Physical and Chemical Reference Data 2 ( 1 973),
 
 pp. 663-738.
 
@@ -15122,7 +15122,7 @@ our best initial independent estimates of the various constants and
 ratios between constants . Naturall y the business is a little more
 
 complex, for we attach different levels of accuracy in our initial
-meas urements . This ' best fit ' , which comes with a built-in estimate
+meas measurements . This ' best fit ' , which comes with a built-in estimate
 of particular errors, then provides one assessment of all the
 constants, except a few loners such as the ' first ' constant in science,
 namely G .
@@ -15183,7 +15183,7 @@ measure it .
 your knowledge is of a meagre and unsatisfactory
 
 kind . ' 4 Since Kelvin often said that, many garbled versions are in
-c irculation. Karl Pearson recalls ' Lord Kelvin's statement that
+c circulation. Karl Pearson recalls ' Lord Kelvin's statement that
 until you have measured a phenomena and turned it into numbers,
 you have a poor and vague apprehension of it . ' 5 S hould anyone
 
@@ -15233,7 +15233,7 @@ refutation, the story imagined by Popper almost never happens.
 
 People don't make precise measurements in order to test theories .
 Cavendish d i d not test gravitational theory a t all; h e determined G .
-Fizeau got a better value fo r the vdocity of light, and then used the
+Fizeau got a better value fo r the velocity of light, and then used the
 
 technology that he had devised for that purpose to investigate (not
 
@@ -15351,7 +15351,7 @@ to the members of the society. But we should understand the
 
 practice in terms of its function.
 
-Likewise, Kuhn notices that meas urement plays an increasing
+Likewise, Kuhn notices that meas measurement plays an increasing
 role in physical science . Only by l 840, he suggests, do we find a
 thorough-going mathematization. He does not ask how that came to
 
@@ -15381,11 +15381,11 @@ laboratories in J apan, Canada etc . It is not quite mad to have 1 2
 different regional ' volts ' , because part of the trouble is that when an.
 
 experimenter wants to get a volt he has to go to the nearest lab, or
-' shi ppable temperature-regulated volt transport stanemploy
+' shi ppable temperature-regulated volt transport standards
 
 dards ' . Here is one philosophy of measurement : it comes at the end
 of the survey by Cohen and Taylor mentioned above, The 1 97 3
-Least-Square A djustment: ' We believe that there is much useful
+Least-Square A Adjustment: ' We believe that there is much useful
 work yet to be done in the fundamental constants field and that the
 
 romance of the next decimal place should be passionately pursued,
@@ -15411,7 +15411,7 @@ was never of an insulting and domineering nature over them, but
 as one that looked upon the example
 always tender-hearted, .
 with the eye of severity, but upon the person with the eye of pity and
-compassion. ' ) He took bribes and was caught. (' I was the j ustest
+compassion. ' ) He took bribes and was caught. (' I was the j justest
 
 .
 
@@ -15430,7 +15430,7 @@ something of a pragmatist. (' Truth therefore and utility are here the
 very same things, and works themselves are of greater value as
 
 pledges of truth than as contributing to the comforts of life . ' ) He
-told us to experimept in order to ' shake out the folds of nature ' . We
+told us to experiment in order to ' shake out the folds of nature ' . We
 must ' twist the lion's tail ' . He quotes no sage more than Solomon:
 
 ' The glory of God is to conceal a thing; the glory of the king is to
@@ -15442,7 +15442,7 @@ every inquirer is king.
 1 All quotations from Bacon in this chapter are from J . Robertson (ed.), The Philosophical Works
 of Francis Bacon, reprinted from the texts and translations with the notes and prefaces of R.L. Ellis
 and F. Spedding, London and New York, 1 905. This is a selection from the standard Works.
-2 These biographical snippets are from William Rawley's Life of Bacon, I 670, printed in the
+2 These biographical snippets are from William Rawley Life of Bacon, I 670, printed in the
 
 Bacon selection of the previous footnote.
 
@@ -15558,7 +15558,7 @@ enriches each in a way that would be impossible otherwise.
 Hence we can diagnose doubts some of us share about the social
 
 sciences. Those fields are s till in a world of dogmatics and empirics .
-There is no end of ' experimentation ' but it as yet el icits almost no
+There is no end of ' experimentation ' but it as yet el elicits almost no
 stable phenomena. There is plenty of speculation. There is even
 plenty of mathematical psychology or mathematical economics,
 pure sciences which have nothing much to do with either specu­
@@ -15570,16 +15570,16 @@ of human activity. But many of us experience a sort of nostalgia, a
 feeling of sadness, when we survey social science . Perhaps this is
 because it lacks what is so great about fairly recent physical science .
 S ocial scientists don't lack ex periment; they don't lack calculation;
-they don't lack speculati on; they lack the collaboration of the three.
+they don't lack speculation on; they lack the collaboration of the three.
 Nor , I suspect, will they collaborate until they have real theoretical
 
 entities about which to speculate - not just postulated ' constructs '
 and ' concepts ' , b ut entities we can use, entities which are part of the
 deliberate creation of stable new phenomena.
 
-Prero gative instances
+Prerogative Prerogative instances
 
-Bacon's unfinis hed Novum Organum of r 620 has a curious classification of what he calls prerogative instances . These include striking
+Bacon's unfinished hed Novum Organum of r 620 has a curious classification of what he calls prerogative instances . These include striking
 and noteworthy observations . They include different kinds of
 measurement, and the use of microscopes and telescopes to extend
 our sight . They include the ways in which we reveal something
@@ -15594,8 +15594,8 @@ philosophy.
 
 Crucial experiments
 
-Bacon' s fourteenth kind of instances are the lnstantiae crucis - a
-term later rendered as crucial experiment . A more li teral and
+Bacon' s fourteenth kind of instances are the instantiae crucis - a
+term later rendered as crucial experiment . A more li literal and
 ' instances of the
 perhaps more helpful translation would be,
 crossroads ' . The old translators express it as ' instances of the
@@ -15605,7 +15605,7 @@ are set up where roads part, to indicate the several directions ' .
 
 Later philosophy o f science made crucial experiments absolutely
 decisive . The picture is that two theories are in competition, and
-then one single test concl usively favours one theory at the expense
+then one single test concl conclusively favours one theory at the expense
 of the other. Even ifthe victorious theory is not proved true, at least
 the rival is knocked out of action. That i s not what Bacon says about
 
@@ -15639,7 +15639,7 @@ Bacon's own examples are a mixed bag. Among instances of t he
 fingerposts he includes some non-experimental data. Thus he
 considers a ' parting of the roads ' concerning tides. S hould we have
 
-the model of water s haking in a basin, now rising on one side, now
+the model of water s shaking in a basin, now rising on one side, now
 
 on another? Or is it a lifting up of the water from the bottom, as
 
@@ -15676,7 +15676,7 @@ weights and the distance of the attracting mass of the earth. I t is a
 
 wonderful idea, although impracticable in B acon' s time . Presumably he would have obtained no effect, and thus favoured the
 
-false Aristotelian theory of proper motion. Howeve r, the fact that
+false Aristotelian theory of proper motion. However r, the fact that
 you were sent down the wrong road would not have upset Bacon too
 
 much. He never claimed that a crucial experiment must bring the
@@ -15712,7 +15712,7 @@ handy tool to sink the idea that hypotheses can be simply and
 directly falsified by experiment . As he puts it, ' exactly the most
 admired scientific theories simply fail to forbid any observable state
 of affairs ' ( I , p . 1 6) . I n support of this we get not fact but ' an
-imaginary case of planetary m isbehaviour ' . This makes the Duhemian point that one can commonly patch up a theory by adding
+imaginary case of planetary m misbehaviour ' . This makes the Duhemian point that one can commonly patch up a theory by adding
 auxiliary hypotheses ; when one of the hypotheses pans out, that is a
 triumph for the theory, while if it does not, we j ust go on trying to
 get more auxiliaries . Thus, it is claimed, the theory does not forbid
@@ -15739,7 +15739,7 @@ atoms would be the basic building blocks of the universe.
 
 Prout was primarily a medical man with a taste for chemistry . He
 was one of several workers who, at about the same time, guessed at
-Avagadro's law. He discovered that there is HCl in the stomach,
+Avogadro's law. He discovered that there is HCl in the stomach,
 
 and that it plays a maj or role in digestion. He did some useful work
 
@@ -15748,7 +15748,7 @@ conj ecture about hydrogen. Moreover it was prima f acie false, for
 chlorine had an atomic weight of about 3 5 . 5 . Lakatos uses Prout to
 
 illustrate how an hypothesis can stay aft.oat, wallowing in a sea of
-anomal ies . He makes Prout into a significant figure who knew t hat
+anomalies ies . He makes Prout into a significant figure who knew t hat
 chlorine had an atomic weight of 3 5 . 5 , b ut still proposed that the
 weight is ' really ' 36. He then ' corrects ' this statement in a footnote.
 Actually Prout simply fudged the numbers to make it look as if they
@@ -15858,7 +15858,7 @@ This is, however, to play down the role of experiment too much.
 Certain types of experimental findings serve as benchmarks,
 
 permanent facts about phenomena which any future theory m ust
-accommodate, and which, in conj unction with comparable theoret­
+accommodate, and which, in conj unction with comparable theoretical­
 
 ical benchmarks, pretty permanently force us in one direction.
 
@@ -15880,7 +15880,7 @@ controversial
 
 Michelson-Morley experiment. It was once cited as a decisive
 
-reason to reject the Newtonian idea, that space is filled with an allpervading aether. Einstein replaced that by Einstein relativity. But
+reason to reject the Newtonian idea, that space is filled with an all-pervading aether. Einstein replaced that by Einstein relativity. But
 he himself barely knew of the Michelson-Morley experiment, and
 
 its history is certainly not one of ' testing Newton and Einstein ' .
@@ -15954,7 +15954,7 @@ as we recede from the surface till, at no great distance, it is at rest in
 
 space . ' 4
 
-Electromagne tism: James Clerk Maxwell brilliantly united the
+Electromagnetism tism: James Clerk Maxwell brilliantly united the
 theory of light with that of electromagnetism . He was unenthusiastic about aether, b ut concluded that: ' Whatever difficulties we may
 
 3 Thomas Young, ' Bakerian Lecture ', Philosophical Transactions of the Royal Society 92 ( 1 80 1 ),
@@ -15967,7 +15967,7 @@ pp. 9- 1 0.
 
 2 5 6
 
-Part B : In terven ing
+Part B : In intervening ing
 
 have in form ing a consistent idea of the constitution of the ether,
 
@@ -16005,7 +16005,7 @@ experiments . It is my purpose to contrast Lakatos's descriptions
 with those furnished b y an experimenter . I n r 8 7 8 Maxwell had
 
 written an article later to appear as ' Ether ' in the ninth edition of
-the Encyclopedia B ritannic a . It suggests the i dea for Michelson's
+the Encyclopedia B Britannica a . It suggests the i dea for Michelson's
 
 experiment, at t he same time implying that there is no hope of
 
@@ -16015,7 +16015,7 @@ I f it were possible to determ ine t h e velocity of ! ight b y observing t h e 
 
 takes to t ravel between one s tation and another o n t h e earth' s surface , w e
 
-m ight, b y comparing t h e obse rved velocities
+m ight, b y comparing t h e observed rved velocities
 
 in oppos ite d i rections,
 
@@ -16029,7 +16029,7 @@ required by for the double journey from one station to the other and back
 
 again, and t he increase of this time on account of the re lative velocity of the
 
-S J. Clerk Maxwe l l , ' Et her ' , ElllyclopeJia Bri1am1ica, 9th ed n . , Volume 8 ( 1 89 3 ) , p. 572. ( First
+S J. Clerk Maxwe l l , ' Et her ' , Encyclopedia Bri1am1ica, 9th ed n . , Volume 8 ( 1 89 3 ) , p. 572. ( First
 
 c i rcu lated, l 8 7 8 . )
 
@@ -16055,7 +16055,7 @@ phase change caused by the two resultant light velocities . Hardly
 
 anyone believed t hat this would work. Michelson had difficulties
 
-too. For instance , horses going by outside completely u pset the
+too. For instance , horses going by outside completely u upset the
 
 experiment by the otherwise unnoticeable j iggling of the building.
 
@@ -16063,7 +16063,7 @@ I n the end he went to the country and floated the whole experiment
 in a bath of mercury to damp out ' noise ' . That is a characteristic
 experimental way of getting rid of unwanted phenomena.
 
-Exp erimen t to tes t theory: Lakatos writes: ' Michelson first
+Exp experiment t to tes t theory: Lakatos writes: ' Michelson first
 devised an experiment in order to test Fresnel's and Stokes'
 
 contradictory theories about the influence of the motion of the earth
@@ -16091,7 +16091,7 @@ result would have been sensational . For a positive result would have
 
 determined the absolute motion of the earth through space . If
 
-7 Maxwel l , ' Ethe r ' , p . 570.
+7 Maxwell l , ' Ethe r ' , p . 570.
 8 Letter first published in Nathan Reingold , Science in Nineteenth Century America, Washing­
 
 ton, 1 97 1 , pp. 288--90.
@@ -16105,7 +16105,7 @@ traverses space .
 
 Result of the experiment: Lakatos writes: ' Michelson claimed
 that his I 88 I experiment was a crucial experiment [between Fresnel
-and S tokes's explanations of aberration] and that it proved Stokes '
+and S Stokes's explanations of aberration] and that it proved Stokes '
 ' The
 theory. ' Michelson said nothing o f the sort . H e wrote:
 interpretation of these results is that there is no displacement of the
@@ -16138,7 +16138,7 @@ right. He does not call this a decisive experiment. What he implies is
 the experimenter's triumph over the theoretician: now I can
 determine that which has hitherto been inaccessible to you.
 
-The 1 886 experimeflt: Michelson teamed up with Morley, to
+The 1 886 experiment: Michelson teamed up with Morley, to
 redo Fizeau's experiment of 1 8 52, in which light was sent through
 running water in a direction opposite to the flow of water. Morley
 came in as a chemist gifted in blowing glass, needed for the delicate
@@ -16148,7 +16148,7 @@ chiefly right, although they somewhat reinterpreted Fresnel's
 
 theory. They ended by saying: ' The result of this work is therefore
 
-9 A.A. M ichelson , ' The relative motion of the earth and of the l uminiferous ether ', Ame,.ica11
+9 A.A. M ichelson , ' The relative motion of the earth and of the l luminescent ether ', Ame,.ica11
 
 Journal of Science, 3rd Ser. , 22 ( 1 88 1 ), p. 1 28 .
 
@@ -16156,7 +16156,7 @@ Journal of Science, 3rd Ser. , 22 ( 1 88 1 ), p. 1 28 .
 
 t hat the result announced by Fizeau is essentially correct; and that
 
-t he lurniniferous ether is entirely unaffected by the motion of the
+t he luminescent ether is entirely unaffected by the motion of the
 
 matter w hich it permeates . ' 1 0 I think Lakatos does not mention this
 
@@ -16227,7 +16227,7 @@ redo the work at different times of year, and see if there were any
 
 discernible influence of altitude on aether draft. Lakatos finds it
 
-r o A . A . Michelson a n d E .W . Morley, • I nfluence o f t h e motion o f the medium o n t h e velocity of
+r o A . A . Michelson a n d E .W . Morley, • I Influence o f t h e motion o f the medium o n t h e velocity of
 
 l ight ' , American Journal of Science, 3rd Ser . , 3 1 ( 1 886).
 
@@ -16252,7 +16252,7 @@ Repeating the experiment: Michelson did twice return to the
 aether. Lakatos writes: ' M ichelson's long series of experiments
 
 from 1 8 8 1 to 1 93 5 , conducted in order to test subsequent versions
-of the ether program, provides a fascinating example of a degenerat­
+of the ether program, provides a fascinating example of a degenerating­
 
 ing problem shift . ' Well, the experiments he did from 1 93 1 to 1 93 5
 must be o n the astral plane , fo r h e died i n l 9 3 l . The ' long series of
@@ -16303,7 +16303,7 @@ because I think his own philosophy is important. However, when it
 
 comes to drawing theoretical inferences from real-life cases, as with
 
-Prout or M ichelson, the inference is always much too s peedy. A
+Prout or M ichelson, the inference is always much too s speedy. A
 theory-dominated philosophy blinds one to reality.
 
 Doubtless Michelson is a little like Bacon's ant, a whizz at
@@ -16328,7 +16328,7 @@ interpret both experiments and speculation.
 
 16 Experimentation
 
-an d s c ientific realis m
+an d s c scientific realis m
 
 Experimental work provides the strongest evidence for scientific
 
@@ -16344,7 +16344,7 @@ electron. I shall illustrate how electrons have become experimental
 entities , or experimenter's entities . In the early stages of our
 discovery of an entity, we may test the hypothesis that it exists .
 
-Even that is not routine. When J . J . T homson realized in I 8 97 that
+Even that is not routine. When J . J . T Thomson realized in I 8 97 that
 
 what he called ' corpuscles ' were boiling off hot cathodes, almost the
 first thing he did was to measure the mass of these negatively
@@ -16503,7 +16503,7 @@ present. To understand this, we must look in some detail at what it
 
 is like to build a device that makes the electrons sit up and behave .
 
-' I put forward three sentiments, namely interest in an i ndefinite community, recognition of
+' I put forward three sentiments, namely interest in an i indefinite community, recognition of
 the possibility of this interest being made supreme, and hope in the unl imited continuance of
 these three sentiments seem to
 intellectual activity, as indispensable requirements of logic .
@@ -16526,7 +16526,7 @@ Even if experimenters are realists about entities, it does not follow
 that they are right . Perhaps it is a matter of psychology: maybe the
 
 very skills that make for a great experimenter go with a certain cast
-of mind that obj ectifies whatever it thinks about . Yet this won't do.
+of mind that obj objectifies whatever it thinks about . Yet this won't do.
 
 The experimenter cheerfully regards neutral bosons as merely
 is the
@@ -16565,7 +16565,7 @@ try another approach. Debugging is not a matter of theoretically
 explaining or predicting what is going wrong. It is partly a matter of
 
 getting rid of ' noise ' in the apparatus. Although it also has a precise
-meani ng, ' noise ' often means all the events that are not understood
+meaning ng, ' noise ' often means all the events that are not understood
 by any theory. The instrument must be able to isolate, physically,
 the properties of the entities that we wish to use, and damp down all
 the other effects that m ight get in our way. We are completely
@@ -16585,7 +16585,7 @@ in The New York Times. In the next section I describe the point of
 making PEGGY I I . S o I have to tell some new physics. You can
 
 omit this and read only the engineering section that follows. Yet it
-must be of interest to know the rathe r easy-to-understand significance of the main experimental results, namely ( 1 ) parity is not
+must be of interest to know the rather r easy-to-understand significance of the main experimental results, namely ( 1 ) parity is not
 
 conserved in scattering of polarized electrons from deuterium, and
 (2) more generally, parity is violated in weak neutral current
@@ -16721,7 +16721,7 @@ providing one electron event. Then you would have to run the
 entire S LAC beam for 27 years in order to detect so small a
 
 difference in relative frequency. Considering that one uses the same
-beam for lots of experiments s imultaneously, by letting different
+beam for lots of experiments s simultaneously, by letting different
 
 experiments use different pulses, and considering that no equip­
 
@@ -16799,7 +16799,7 @@ manoeuvred by magnets into the accelerator for the next bit of the
 experiment. It passes through a device that checks on a proportion
 
 of polarization along the way. The remainder of the experiment
-requires other devices and detectors of comparable i ngenuity, but
+requires other devices and detectors of comparable i ingenuity, but
 
 let us stop at PEGGY I I .
 
@@ -16917,7 +16917,7 @@ Laboratories read the newspaper and saw what was going on. They
 
 had been constructing a crystal lattice for totally unrelated pur­
 
-poses . It uses layers of GaAs and a related alum inium compound .
+poses . It uses layers of GaAs and a related alum aluminum compound .
 
 The structure of this lattice leads one to expect that virtually all the
 electrons emitted would be polarized. So we might be able to double
@@ -16930,7 +16930,7 @@ paint. The cesium-oxygen compound is applied at high temperature . Hence the alu
 
 layer of GaAs, and the pretty artificial lattice becomes a bit uneven,
 
-l im i ting i ts fine polarized -el ectron -em i t ting properties. S o perhaps
+l im i ting i ts fine polarized -el electron -em i t ting properties. S o perhaps
 
 this will never work. Prescott is simultaneously reviving a souped­
 
@@ -16942,12 +16942,12 @@ PEGGY I. Nor can it tell if some thermionic PEGGY I I I will beat
 out PEGGY I I .
 
 Note also that the Bell people did not need t o know a lot of weak
-neutral current theory to send along their sampleiattice. They just
+neutral current theory to send along their sample lattice. They just
 read The New York Times.
 
 Moral
 
-Once upon a time it made good sense to d oubt that there are
+Once upon a time it made good sense to d doubt that there are
 electrons . Even after Thomson had measured the mass of his
 corpuscles, and Millikan their charge, doubt could have made
 sense. We needed to be sure that Millikan was measuring the same
@@ -16956,7 +16956,7 @@ entity as Thomson. More theoretical elaboration was needed. The
 
 idea needed to be fed into many other phenomena. S ol i d state
 
-physics, the atom, supercond uctivity: all had to play their part .
+physics, the atom, supercond conductivity: all had to play their part .
 
 Once upon a time the best reason for thinking that there are
 
@@ -17011,7 +17011,7 @@ convincing experiments had made t hem the object of investigation.
 When might they lose their hypothetical status and become
 commonplace reality like electrons? When we use them to in­
 
-vestigate something else.
+investigate something else.
 
 I mentioned the desire to make a better gun than PEGGY I I .
 Why? Because w e now ' know ' that parity i s violated i n weak neutral
@@ -17068,7 +17068,7 @@ continues Bain, ' are and ever must be hypothetical . .
 
 .
 
-kinetic theory of heat, he says, ' se rves an important intellectual
+kinetic theory of heat, he says, ' se serves an important intellectual
 
 function ' . B ut we cannot hold it to be a true description of the
 
@@ -17090,7 +17090,7 @@ epistemology. At the time knowledge was thought of as correct
 
 representation. But then one could never get outside the repre­
 
-sentations to be sure that they corresponded to the world . Every test
+representations to be sure that they corresponded to the world . Every test
 
 of a representation is j ust another representation. ' Nothing is so
 much like an idea as an idea,' as Bishop Berkeley had it. To attempt
@@ -17106,7 +17106,7 @@ scientific anti-realism is so permanently in t he race. It is a variant on
 
 the ' spectator theory of knowledge ' .
 
-S cientists, as opposed to philosophers, did i n general become
+S scientists, as opposed to philosophers, did i n general become
 realists about atoms by 1 9 1 0. Despite the changing climate, some
 anti-realist variety of instrumentalism or fictionalism remained a
 strong philosophical alternative in 1 9 1 0 and in 1 930. That is what
@@ -17193,7 +17193,7 @@ which don't end up being manipulated , commonly turn out to have
 been wonderful mistakes. 3
 
 3 On p. 272 above, weak neutral bosons are used as an example of purely hypothetical entities . In
-J anuary 1 983 CERN announced observing the first such particle W in proton-anti proton
+J January 1 983 CERN announced observing the first such particle W in proton-anti proton
 decay at 540 GeV.
 
 Ian Hacking (ed . ) , Scientific Revolutions, Oxford, 1 982.
@@ -17205,7 +17205,7 @@ I shall not duplicate that here, nor list books already prominently discussed
 above. For the chapters of Part A ' Representing ' , here are a few classics,
 some useful anthologies, and some recent writing. A few of the anthologies
 are numbered in order to make it easy to refer back to them. Since few of the
-topics in Part B ' I ntervening ' have been much discussed by philosophers, I
+topics in Part B ' I Intervening ' have been much discussed by philosophers, I
 do not attempt a chapter by chapter breakdown, but direct attention to a
 few essays that I found helpful .
 
@@ -17261,7 +17261,7 @@ In addition to Sense and Sensibilia, cited in the text, one may find other
 examples of Austin's treatment of English words in:
 J.L. Austin, Philosophical Papers, 3rd edn, Oxford, 1 979.
 Despite the initial influence of this work, I regret to report that almost
-nobody does that kind of phil osophy today. Austin also had a more
+nobody does that kind of phil philosophy today. Austin also had a more
 speculative programme, which has been adapted by some influential
 philosophers in Germany, and, to a lesser extent, in the United States:
 
@@ -17317,7 +17317,7 @@ A.J. Ayer (ed .), Logical Positivism, New York, 1 959.
 4 Prag mati s m
 
 The most interesting historical survey o f pragmatism is ,
-B ruce Kukl ick, The Rise of A merican Philosophy : Cambridge, Massachusetts, 1 860-1 930 , New Haven, 1 977.
+B ruce Kuklick ick, The Rise of A merican Philosophy : Cambridge, Massachusetts, 1 860-1 930 , New Haven, 1 977.
 
 There are numerous anthologies of Peirce, James , and Dewey. A new and
 more satisfactory edition of Peirce's writing is well in hand and at least two
@@ -17327,7 +17327,7 @@ his philosophy for all but the specialist scholar. His essays are in my opinion
 so popular and yet so deep that they improve with rereading every couple of
 years or so.
 
-5 I n c omm ensu r ability
+5 I n c omm incommensurability r ability
 
 The debate about incommensurability was due to discussions by Paul
 Feyerabend as well as Kuhn:
@@ -17400,7 +17400,7 @@ J.L. Koethe, ' The stability of reference over time ', Notls 1 6 ( 1 982),
 
 pp. 243-52.
 
-M. Devitt, ' Putnam on realism, a criticial study of Hilary Putnam's
+M. Devitt, ' Putnam on realism, a critical study of Hilary Putnam's
 
 Meaning and the Moral Sciences ', Notls, forthcoming.
 
@@ -17456,7 +17456,7 @@ Brighton, 1 980.
 At Bath there is another group of sociologically oriented students of
 science, who have valuable things to contribute to the second half of the
 present hook, ' Intervening ', for they have made internal studies of a variety
-of experimt:ntal work, ranging from parapsychology to laser physics.
+of experimental:experimental work, ranging from parapsychology to laser physics.
 H .M . Collins and T.J. Pinch, Frames of Meaning: The Social Construction
 
 of Extraordinary Science, London, 1 98 1 .
@@ -17514,7 +17514,7 @@ premature falsification of an essentially correct theory ', Annals of Science
 35 ( 1 978), pp. 5 8 1-97·
 ' The phenomenon of aggregate recoil : the premature acceptance of an
 essentially incorrect theory ', Annals of Science 37 ( 1 980), pp. 8 1-1 00.
-A blow-by-blow account of the Michelson-Morley experunent is given by:
+A blow-by-blow account of the Michelson-Morley experiment is given by:
 Loyd S . Swenson, The Etherial Aether: A History of the Michelson-Morley
 
 Experiment, Austin, Tex . , 1 972.
@@ -18022,7 +18022,7 @@ Nozick, R., 1 07
 
 and experiment, 1 76, 230
 noteworthy, 1 55f, 1 67
-as a skil l , 1 80
+as a skill l , 1 80
 and theory, 5, 50, 1 68 , 1 70, 1 74-8 ,
 
 1 8 1-5

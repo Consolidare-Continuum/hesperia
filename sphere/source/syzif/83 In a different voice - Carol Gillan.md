@@ -13,22 +13,22 @@ Carol Gilligan
 Harvard University Press
 Cambridge, Massachusetts, and London, England
 
-Copyright 0 1982, 1993 by Carol GDligan
+Copyright 0 1982, 1993 by Carol Gilligan
 All rights reserved
 Printed in the United States ofAmerica
 
 Thirty-eighth printing 2003
 
-library 01Congress CatalogIng In PubUcatlon Data
+library 01Congress CatalogIng In Publication Data
 
-GiDigan, Carol, 1936
+Gilligan, Carol, 1936
 
-In a ditJerent voice.
+In a different voice.
 
 Bibliography: p.
 Includes index.
 1. Women-Psychology-Longitudinal studies. 2. Developmental
-psychology-Longitudina1 studies. 3. Moral development-LongitudiDal
+psychology-Longitudinal1 studies. 3. Moral development-Longitudinal
 studies. L 'DUe.
 [DNLM: 1. Women-Psychology.
 HQI206.G58
@@ -191,7 +191,7 @@ the reluctance of some people to talk about differences at all.
 
 I find a strong resonance also in Ronald Dworkin's recent
 
-essay "Feminism and Abortion" in the New York Review ofBooks
+essay "Feminism and Abortion" in the New York Review of Books
 (June 10, 1993). Dworkin was led by the work of feminist legal
 scholars to the women whom Mary Belenky and I interviewed
 the women whose voices are recorded in the third and fourth
@@ -313,7 +313,7 @@ saying, "but that's not what we are talking about here."
 In asking about my own and other women's relationship to
 
 the "we" that was for so long unselfconscious, I asked about
-men's relationship to this "we" as well. Were the Odysse)' and the
+men's relationship to this "we" as well. Were the Odyssey)' and the
 Iliad or other versions of the hero legend-stories about radical
 separation and violence-exemplary stories for men to tell
 themselves? The most basic questions about human living-how
@@ -448,7 +448,7 @@ instrument of communication between people which demands
 that the speaker should consider the nature and feelings of the
 hearer. In love above all, this is true-but it is also true in more
 ordinary relationships." In this play about love and language, het
-erosexuallove requires a change in language, following the demon
+heterosexual love requires a change in language, following the demon
 stration that the men do not know the women whom they say they
 love: "Gently, but firmly, the men are sent away to learn some
 thing that the women have known all along: how to accommodate
@@ -476,7 +476,7 @@ initiated or legitimized a process of psychological and political
 growth for many women and men.
 
 Which brings me to the question of difference. In the early 1970s,
-when I was working with Lawrence Kohlberg as a research assis
+when I was working with Lawrence Kohlberg as a research assistant
 tant, I found his argument very powerful: in the aftermath of the
 Holocaust and the Middle Passage, it is not tenable for psycholo
 gists or social scientists to adopt a position of ethical neutrality
@@ -496,7 +496,7 @@ I have attempted to move the discussion of differences away
 
 from relativism to relationship, to see difference as a marker of
 the human condition rather than as a problem to be solved.
-Robert Alter, in The Art ofBiblical Narrative, has observed that
+Robert Alter, in The Art of Biblical Narrative, has observed that
 the ancient Hebrew writers developed a narrative art because only
 through narrative could they convey a view of human life as lived
 reflectively, "in the changing medium of time, inexorably and
@@ -615,7 +615,7 @@ with changes in girls' relationships and their sense of themselves.
 For example, we began to hear girls at the edge of adolescence
 describe impossible situations-psychological dilemmas in
 which they felt that if they said what they were feeling and
-thinking no one would want to be with them, and if they dido't
+thinking no one would want to be with them, and if they didn't
 say what they were thinking and feeling they would be all alone,
 no one would know what was happening to them. As one girl put
 it, "no one would want to be with me, my voice would be too loud."
@@ -770,7 +770,7 @@ girls and women in the course of their development, in their
 xxiv Letter to Readers, 1993
 
 attempt to make and maintain relationships, paradoxically keep
-large parts of themselves out of relationship. Miller's fonnulation
+large parts of themselves out of relationship. Miller's formulation
 of this paradox is central to a new understanding of the psycholo
 gy of women and leads to a powerful rethinking of psychological
 suffering and trouble.
@@ -806,7 +806,7 @@ of any imperial order.
 
 This is the point of Joseph Conrad's prophetic and contro
 
-versial novel Heart ofDarkness. As Marlow travels into the
+controversial novel Heart of Darkness. As Marlow travels into the
 heart of what was then the Belgian Congo, he begins to search
 for Mr. Kurtz, who was sent by "the gang of virtue," the Euro
 peans who saw themselves as bringing enlightenment and
@@ -823,7 +823,7 @@ report which Kurtz has prepared to send back to the Company
 in Belgium along with his shipment of ivory, he has scrawled
 the words which were to be enacted repeatedly in the twentieth
 century: the final solution to the problem of difference
-"Exterminate all thebmtes." The dying Mr. Kurtz himself offers
+"Exterminate all the whites." The dying Mr. Kurtz himself offers
 the commentary: his last words are, "The horror! The horror!"
 Marlow says that he cannot bear a lie, that lies deaden the
 world, "like biting into something rotten." And yet at the end of
@@ -853,7 +853,7 @@ perpetuating the cycle of racial domination and violence?
 
 In an extraordinary passage in Conrad's novel, Marlow jus
 
-tifies his lie to Kurtz's Intended-as much to himself as to the
+justifies his lie to Kurtz's Intended-as much to himself as to the
 men on shipboard who are listening to his story while waiting for
 the tide to turn:
 
@@ -881,7 +881,7 @@ women '8 and men '8 lives join and "civilization" makes its iron
 grip felt. A lie about progress joins with a lie about relationship,
 trapping both women and men and obliterating relationships
 among women. It is this intersection which joins the two parts of
-this book-the lie in psychological theories whith have taken
+this book-the lie in psychological theories which have taken
 men as representing all humans, and the lie in women's psycho
 logical development in which girls and women alter their voices
 to fit themselves into images of relationship and goodness carried
@@ -1010,11 +1010,11 @@ Educational Review, and my gratitude to the students on the edito
 rial board for their careful attention and help. The Social Science
 Research Council kindly granted permission to reproduce portions
 of Chapter 6 that will appear, in different form, in a book spon
-sored by the Council and edited by Janet Giele.
+sponsored by the Council and edited by Janet Giele.
 
 To Eric Wanner of Harvard University Press, I am deeply in
 
-debted; it was he who sustained and informed my vision of this
+indebted; it was he who sustained and informed my vision of this
 book. There were also some friends on whose help I particularly
 drew; for their willingness to listen and to read, for the generosity
 of their response, I thank Michael Murphy, Nona Lyons, Jean
@@ -1125,7 +1125,7 @@ large metropolitan area; no effort was made to select a representa
 tive sample of the clinic or counseling service population. Of the
 twenty-nine women referred, complete interview data were avail
 able for twenty-four, and of these twenty-four, twenty-one were in
-terviewed again at the end of the year following choice.
+interviewed again at the end of the year following choice.
 
 Both of these studies expanded the usual design of research on
 moral judgment by asking how people defined moral problems and
@@ -1217,13 +1217,13 @@ become to seeing life through men's eyes.
 
 A recent discovery of this sort pertains to the apparently inno
 
-cent classic The Elements ofStyle by William Strunk and E. B.
+cent classic The Elements of Style by William Strunk and E. B.
 White. A Supreme Court ruling on the subject of sex discrimination
 led one teacher of English to notice that the elementary rules of
 English usage were being taught through examples which counter
 posed the birth of Napoleon, the writings of Coleridge, and state
 ments such as "He was an interesting talker. A man who had trav
-eled all over the world and lived in half a dozen countries," with
+traveled all over the world and lived in half a dozen countries," with
 "Well, Susan, this is a fine mess you are in" or, less drastically, "He
 saw a woman, accompanied by two children, walking slowly down
 the road."
@@ -1286,8 +1286,8 @@ ality does" (pp. 43-44).
 
 In her analysis, Chodorow relies primarily on Robert Stoller's
 studies which indicate that gender identity, the unchanging core of
-personality formation, is "with rare· exception firmly and irrevers
-ibly established for both sexes by the time a child is around three."
+personality formation, is "with rare· exception firmly and irreversibly
+irreversibly established for both sexes by the time a child is around three."
 Given that for both sexes the primary caretaker in the first three
 years of life is typically female, the interpersonal dynamics of
 gender identity formation are different for boys and girls. Female
@@ -1384,19 +1384,19 @@ marginal players of lesser size or skill participated equally in these
 recurrent squabbles. In contrast, the eruption of disputes among
 girls tended to end the game.
 
-In " Different Yoice
+In " Different Voice
 
 Thus Lever extends and corroborates the observations of Pia
 
 get in his study of the rules of the game, where he finds boys be
 coming through childhood increasingly fascinated with the legal
 elaboration of rules and the development of fair procedures for ad
-judicating conflicts, a fascination that, he notes, does not hold for
+adjudicating conflicts, a fascination that, he notes, does not hold for
 girls. Girls, Piaget observes, have a more "pragmatic" attitude to
 ward rules, "regarding a rule as good as long as the game repaid it"
 (p. 83). Girls are more tolerant in their attitudes toward rules, more
 willing to make exceptions, and more easily reconciled to innova
-tions. As a resuJt, the legal sense, which Piaget considers essential
+tions. As a result, the legal sense, which Piaget considers essential
 to moral development, "is far less developed in little girls than in
 boys" (p.77).
 
@@ -1419,7 +1419,7 @@ the course of resolving disputes. Consequently, the moral lessons
 inherent in girls' play appear to be fewer than in boys'. Traditional
 girls' games like jump rope and hopscotch are tum-taking games,
 where competition is indirect -since one person's success does not
-necessarily signify another's failure. Consequently, disputes requir
+necessarily signify another's failure. Consequently, disputes requiring
 ing adjudication are less likely to occur. In fact, most of the girls
 whom Lever interviewed claimed that when a quarrel broke out,
 they ended the game. Rather than elaborating a system of rules for
@@ -1488,7 +1488,7 @@ In a Different Voice
 characterize the preceding four stages. Although the initial crisis in
 infancy of "trust versus mistrust" anchors development in the expe
 rience of relationship, the task then clearly becomes one of indivi
-duation. Erikson's second stage centers on the crisis of "autonomy
+individuation. Erikson's second stage centers on the crisis of "autonomy
 versus shame and doubt," which marks the walking child's emerg
 ing sense of separateness and agency. From there, development
 goes on through the crisis of "initiative versus guilt," successful res
@@ -1502,7 +1502,7 @@ stration of competence becomes critical to the child's developing
 self-esteem. This is the time when children strive to learn and mas
 ter the technology of their culture, in order to recognize themselves
 and to be recognized by others as capable of becoming adults. Next
-comes adole~nce, the celebration of the autonomous, initiating,
+comes adolescence~nce, the celebration of the autonomous, initiating,
 industrious self through the forging of an identity based on an ide
 ology that can support and justify adult commitments. But about
 whom is Erikson talking?
@@ -1584,7 +1584,7 @@ ment they started doing empirical research." But since it is difficult
 to say "different" without saying "better" or "worse," since there is
 a tendency to construct a single scale of measurement, and since
 that scale has generally been derived from and standardized on the
-basis of men's interpretations of research data drawn predomi
+basis of men's interpretations of research data drawn predominantly
 nantly or exclusively from studies of males, psychologists "have
 tended to regard male behavior as the 'norm' and female behavior
 as some kind of deviation from that norm" (p. 81). Thus, when
@@ -1690,7 +1690,7 @@ what she wants.
 women differ very often from the values which have been made by
 the other sex" (1929, p. 76). Yet, she adds, "it is the masculine
 values that prevail." As a result, women come to question the nor
-mality of their feelings and to alter their judgments in deference to
+normality of their feelings and to alter their judgments in deference to
 the opinion of others. In the nineteenth century novels written by
 women, Woolf sees at work "a mind which was slightly pulled from
 the straight and made to alter its clear vision in deference to exter
@@ -1732,7 +1732,7 @@ ness of women rather than as a human strength (Miller, 1976).
 The discrepancy between womanhood and adulthood is no
 where more evident than in the studies on sex-role stereotypes re
 ported by Broverman, Vogel, Broverman, Clarkson, and Ros
-enkrantz (1972). The repeated finding of these studies is that the
+Rosenthal (1972). The repeated finding of these studies is that the
 qualities deemed necessary for adulthood-the capacity for autono
 mous thinking, clear decision-making, and responsible action-are
 those associated with masculinity and considered undesirable as at
@@ -1794,7 +1794,7 @@ subordinated to rules (stage four) and rules to universal principles
 ofjustice (stages five and six).
 
 Yet herein lies a paradox, for the very traits that traditionally
-have defined the "goodness" of women, their care for and sensitiv
+have defined the "goodness" of women, their care for and sensitivity
 ity to the needs of others, are those that mark them as deficient in
 moral development. In this version of moral development, however,
 the conception of maturity is derived from the study of men's lives
@@ -1825,7 +1825,7 @@ This different construction of the moral problem by women
 may be seen as the critical reason for their failure to develop within
 the constraints of Kohlberg's system. Regarding all constructions of
 responsibility as evidence of a conventional moral understanding,
-Kohlberg defines the highest stages of moral development as deriv
+Kohlberg defines the highest stages of moral development as deriving
 ing from a reflective understanding of human rights. That the mo
 rality of rights differs from the morality of responsibility in its em
 phasis on separation rather than connection, in its consideration of
@@ -1850,11 +1850,11 @@ just for me. Now I think I am more aware of what the indi
 vidual has a right to.
 
 Kohlberg (1973) cites this man's response as illustrative of the prin
-cipled conception of human rights that exemplifies his fifth and
+principled conception of human rights that exemplifies his fifth and
 sixth stages. Commenting on the response, Kohlberg says: "Moving
 to a perspective outside of that of his society, he identifies morality
 with justice (fairness, rights, the Golden Rule), with recognition of
-the rights of others as these are defined naturally or intrinscially.
+the rights of others as these are defined naturally or intrinsically.
 The human's being right to do as he pleases without interfering
 with somebody else's rights is a formula defining rights prior to so
 ciallegislation" (pp. 29-3.0).
@@ -1930,8 +1930,8 @@ possibility of omission, of your not helping others when you could
 help them."
 
 The issue that this woman raises is addressed by Jane Loe
-vinger's fifth "autonomous" stage of ego development, where au
-tonomy, placed in a context of relationships, is defined as modulat
+Loevinger's fifth "autonomous" stage of ego development, where au
+tonomy, placed in a context of relationships, is defined as modulating
 ing an excessive sense of responsibility through the recognition that
 other people have responsibility for their own destiny. The autono
 mous stage in Loevinger's account (1970) witnesses a relinquishing
@@ -1945,7 +1945,7 @@ upon which all rational persons could agree, the responsibility con
 ception focuses instead on the limitations of any particular resolu
 tion and describes the conflicts that remain.
 
-Thus it becomes clear why a morality of rights and noninter
+Thus it becomes clear why a morality of rights and noninterference
 ference may appear frightening to women in its potential justifica
 tion of indifference and unconcern. At the same time, it becomes
 clear why, from a male perspective, a morality of responsibility ap
@@ -2002,7 +2002,7 @@ minding us that narcissism leads to death, that the fertility of the
 earth is in some mysterious way tied to the continuation of the
 mother-daughter relationship, and that the life cycle itself arises
 from an alternation between the world of women and that of men.
-Only when life-cycle theoqsts divide their attention and begin to
+Only when life-cycle theorists divide their attention and begin to
 live with women as they have lived with men will their vision en
 compass the experience of both sexes and their theories become
 correspondingly more fertile.
@@ -2067,7 +2067,7 @@ ing constant, at a high level, the factors of intelligence, education,
 and social class that have been associated with moral development,
 at least as measured by existing scales. The two children in ques
 tion, Amy and Jake, were both bright and articulate and, at least in
-their eleven-year-old aspirations, resisted easy categorie~ of sex-role
+their eleven-year-old aspirations, resisted easy categories~ of sex-role
 stereotyping, since Amy aspired to become a scientist while Jake
 preferred·English to math. Yet their moral judgments seem ini
 tially to confirm familiar notions about differences between the
@@ -2106,7 +2106,7 @@ thousand dollars later from rich people with cancer, but Heinz
 can't get his wife again. (Why not?) Because people are all dif
 ferent and so you couldn't get Heinz's wife again.
 
-Asked whether Heinz should steallhe drug if he does not love his
+Asked whether Heinz should steal the drug if he does not love his
 wife, Jake replies that he should, saying that not only is there "a
 difference between hating and killing," but also, if Heinz were
 caught, "the judge would probably think it was the right thing to
@@ -2146,7 +2146,7 @@ old lady dies."
 
 Theories of developmental psychology illuminate well the p0
 sition oC this child, standing at the juncture of childhood and ado
-lescence, at what Piaget describes as the pinnacle of childhood in
+adolescence, at what Piaget describes as the pinnacle of childhood in
 telligence, and beginning through thought to discover a wider
 universe of possibility. The moment of preadolescence is caught by
 the conjunction of formal operational thought with a description of
@@ -2154,7 +2154,7 @@ self still anchored in the factual parameters of his childhood
 world-his age, his town, his father's occupation, the substance of
 his likes, dislikes, and beliefs. Yet as his self-description radiates the
 self-confidence of a child who has arrived, in Erikson's terms, at a
-favorable balance of industry over inferiority-oompetent, sure of
+favorable balance of industry over inferiority-competent, sure of
 himself, and knowing well the roles of the game-so his emergent
 capacity for formal thought, his ability to think about thinking and
 to reason things out in a logical way, frees him from dependence on
@@ -2229,7 +2229,7 @@ peats, "Because it's not right." Asked again to explain why, she
 states again that theft would not be a good solution, adding lamely,
 "if he took it, he might not know how to give it to his wife, and so
 his wife might still die." Failing to see the dilemma as a self
-contained problem in moral logic, she does not discem the internal
+contained problem in moral logic, she does not discern the internal
 structure of its resolution; as she constructs the problem differently
 herself, Kohlberg's conception completely evades her.
 
@@ -2248,7 +2248,7 @@ to help.
 
 Just as Jake is confident the judge would agree that stealing is
 the right thing for Heinz to do, so Amy is confident that, "if Heinz
-and the druggest had talked it out long enough, they could reach
+and the druggist had talked it out long enough, they could reach
 something besides stealing." As he considers the law to "have mis
 takes," so she sees this drama as a mistake, believing that "the
 world should just share things more and then people wouldn't have
@@ -2266,9 +2266,9 @@ ity to understand her response.
 
 Although the frustration of the interview with Amy is ap-
 
-In a Dlffere"t Voice
+In a Different"t Voice
 
-parent in the repetition of questions and its ultimate citcularity, the
+parent in the repetition of questions and its ultimate circularity, the
 problem of interpretation is focused by the assessment of her re
 sponse. When considered in the light of Kohlberg's definition of the
 stages and sequence of moral development, her moral judgments
@@ -2296,14 +2296,14 @@ about the world." Yet the world she knows is a different world
 from that refracted by Kohlberg's construction of Heinz's dilemma.
 Her world is a world of relationships and psychological truths
 where an awareness of the connection between people gives rise to
-a recognition of responsibility for one another, a perceptioD of the
+a recognition of responsibility for one another, a perception of the
 need for response. Seen in this light, her understanding of morality
 as arising from the recognition of relationship, her belief in com
-munication as the mode of conflict resolution, and her coDviction
+munication as the mode of conflict resolution, and her conviction
 that the solution to the dilemma will follow from its compelling
 representation seem far from naive or cognitively immature. In
 stead, Amy's judgments contain the insights central to an ethic of
-care, just as Jake's judgments retIect the logic of the justice ap
+care, just as Jake's judgments reflect the logic of the justice ap
 proach. Her incipient awareness of the "method of truth," the cen
 tral tenet of nonviolent contlict resolution, and her belief in the re
 storative activity of care, lead her to see the actors in the dilemma
@@ -2345,7 +2345,7 @@ and the arrangement of these answers as successive. stages on a
 scale of increasing moral maturity calibrated by the logic of the
 boy's response misses the different truth revealed in the judgment
 of the girl. To the question, "What does he see that she does not?"
-Kohlberg's theory provides a -ready response, manifest in the scor
+Kohlberg's theory provides a -ready response, manifest in the scoring
 ing of Jake's judgments a full stage higher than Amy's in moral
 maturity; to the question, "What does she see that he does not?"
 Kohlberg's theory has nothing to say. Since most oCher responses
@@ -2406,7 +2406,7 @@ I have a lot of friends, and I
 can't always play with all of
 them, so everybody's going to
 
-JejJrey (cont.)
+Jeffrey (cont.)
 friends, and then I think about
 my mother, and then I think
 about the right thing to do.
@@ -2591,7 +2591,7 @@ But if it is your responsibility to
 
 Jake (cont.)
 
-Amy (cDnt.)
+Amy (cunt.)
 somebody really close to you,
 you've just got to decide in that
 situation which is more impor
@@ -2701,7 +2701,7 @@ tion, deriving a formula that guides the solution: one-fourth to
 others, three-fourths to yourself. Beginning with his responsibility
 to himself, a responsibility that he takes for granted, he then con
 siders the extent to which he is responsible to others as well. Pro
-ceeding from a premise of separation but recognizing that ''you
+proceeding from a premise of separation but recognizing that ''you
 have to live with other people," he seeks rules to limit interference
 and thus to minimize hurt. Responsibility in his construction per
 tains to a limitation of action, a restraint of aggression, guided by
@@ -2709,7 +2709,7 @@ the recognition that his actions can have effects on others, just as
 theirs can interfere with him. Thus rules, by limiting interference,
 
 make life in community safe, protecting autonomy through reci
-procity, extending the same consideration to others and self.
+reciprocity, extending the same consideration to others and self.
 
 To the question about conflicting responsibilities, Amy again
 
@@ -2718,7 +2718,7 @@ and indicating how choice would be affected by variations in char
 acter and circumstance. Proceeding from a premise of connection,
 that "if you have a responsibility with somebody else, you should
 keep it," she then considers the extent to which she has a responsi
-bility to herself. Exploring the parameters ofseparation, she imag
+bility to herself. Exploring the parameters of separation, she imag
 ines situations where, ,by doing what you want, you would avoid
 hurting yourself or where, in doing so, you would not thereby di
 minish the happiness of others. To her, responsibility signifies re
@@ -2726,7 +2726,7 @@ sponse, an extension rather than a limitation of action. Thus it con
 notes an act of care rather than the restraint of aggression. Again
 seeking the solution that would be most inclusive of everyone's
 needs, she strives to resolve the dilemma in a way that ''will make
-everybody happier." Since Jake is concerned with limiting interfer
+everybody happier." Since Jake is concerned with limiting interference
 ence, while Amy focuses on the need for response, for him the lim
 iting condition is, "Don't let yourself be guided totally by others,"
 but for her it arises when "other people are counting on you," in
@@ -2797,7 +2797,7 @@ students as a class exercise in a psychology course on motivation
 tion of seemingly bizarre imagery of violence in men's stories about
 a picture of what appeared to be a tranquil scene, a couple sitting
 
-In a DUferent Voice
+In a Different Voice
 
 on a bench by a river next to a low bridge. In response to this pic
 ture, more than 21 percent of the eighty-eight men in the class had
@@ -2839,10 +2839,10 @@ ferent ways. Following the initial observation of violence in men's
 stories about intimacy, we set out to discover whether there were
 sex differences in the distribution of violent fantasies across situa
 tions of achievement and affiliation and whether violence was dif
-ferentially associated by males and females with intimacy and com
+differentially associated by males and females with intimacy and com
 petitive success. The findings of the resulting images of violence
 
-Imtlges ofRelationship
+Images ofRelationship
 
 study corroborate previous reports of sex differences in aggression
 (Terman and Tyler, 1953; Whiting and Pope, 1973; Maccoby and
@@ -2857,7 +2857,7 @@ tween the way in which men and women tend to imagine
 relationships.
 
 Four of the six pictures that comprised the test were chosen
-for the purposes of this analysis since they provided clear illustra
+for the purposes of this analysis since they provided clear illustrations
 tions of achievement and affiliation situations. Two of the pictures
 show a man and a woman in close personal affiliation-the couple
 on the bench in the river scene, and two trapeze artists grasping
@@ -2876,7 +2876,7 @@ personal situations of achievement. Twenty-five percent of the men
 wrote violent stories only to the pictures of affiliation, 19 percent to
 pictures of both affiliation and achievement, and 7 percent only to
 pictures of achievement. In contrast, the women saw more violence
-in impersonal situations of achievement than in situations of affilia
+in impersonal situations of achievement than in situations of affiliation
 tion; 16 percent of the women wrote violent stories to the achieve
 ment pictures and 6 percent to the pictures of affiliation.
 
@@ -2904,7 +2904,7 @@ If aggression is conceived as a response to the perception of
 danger, the findings of the images of violence study suggest that
 men and women may perceive danger in different social situations
 and construe danger in different ways-men seeing danger more
-often in close personal affiliation than in achievement and constru
+often in close personal affiliation than in achievement and construing
 ing danger to arise from intimacy, women perceiving danger in im
 personal achievement situations and construing danger to result
 from competitive success. The danger men describe in their stories
@@ -2915,7 +2915,7 @@ a danger of isolation, a fear that in standing out or being set apart
 by success, they will be left alone. In the story of Miss Hegstead,
 the only apparent cause of the violence is Jane's being singled out
 as the best student and thus set apart from her classmates. She re
-taliates by making arsenic to put in the teacher's afternoon coffee,
+retaliates by making arsenic to put in the teacher's afternoon coffee,
 yet all Miss Hegstead did was to praise Jane for her good work.
 
 As people are brought closer together in the pictures, the
@@ -3063,8 +3063,8 @@ world as a whole," he explains that, "from my own experience I
 could not convince myself of the primary nature of such a feeling.
 But this gives me no right to deny that it does not in fact occur in
 other people. The only question is whether it is being correctly in
-terpreted." Yet raising the question of interpretation, Freud imme
-diately dispels the problem he posed, rejecting the primacy of a
+interpreted." Yet raising the question of interpretation, Freud imme
+immediately dispels the problem he posed, rejecting the primacy of a
 feeling of connection on the grounds that "it fits in so badly with
 the fabric of our psychology." On this basis, he subjects the feeling
 
@@ -3076,7 +3076,7 @@ The argument Freud builds centers on the "feeling of our self,
 
 of our own ego," which "appears to us as something autonomous
 and unitary, marked off distinctly from everything else." While he
-then immediately points out that "such an appearance is decep
+then immediately points out that "such an appearance is deceptive
 tive," the deception he sees lies not in the failure to recognize the
 connection between self and other, but in the failure to see the
 ego's connection to the unconscious id, "for which it serves as a
@@ -3095,8 +3095,8 @@ initiates not only the process of differentiation but also the search
 for autonomy, the wish to gain control over the sources and objects
 of pleasure in order to shore up the possibilities for happiness
 against the risk of disappointment and loss. Thus connection-asso
-ciated by Freud with "infantile helplessness" and' "limitless narcis
-sism," with illusion and the denial of danger-gives way to separa
+ciated by Freud with "infantile helplessness" and' "limitless narcissism
+narcissism," with illusion and the denial of danger-gives way to separa
 tion. Consequently, assertion, linked to aggression, becomes the
 basis for relationships. In this way, a primary separation, arising
 from disappointment and fueled by rage, creates a self whose rela
@@ -3147,43 +3147,43 @@ separation and loss, women illuminate an experience of self that,
 however disparate from Freud's account, speaks directly to the
 problem of aggression which in the end he confronts, the problem
 of "how to get rid of the greatest hinderance to civilization," ag
-gressiveness and the defences against it that "cause as much unhap
+aggressiveness and the defences against it that "cause as much unhappiness
 piness as aggression itself" (p. 142-143). In considering this prob
 lem, Freud begins to envision its solution in a more primary sense
 of connection, not an oceanic feeling but an "altruistic urge" that
 leads to a mode of relationships with others anchored in the "wish
 for union" with them. While describing the .urge toward union with
 others as antagonistic to individual development (p. 141), Freud in
-timates a line of development missing from his previous account, a
-line that leads not through aggression to separUtion but through dif
+intimates a line of development missing from his previous account, a
+line that leads not through aggression to separation but through dif
 ferentiation to interdependence. In calling this urge "altruistic,"
 Freud alludes to a different moral conception, arising not to limit
 aggression but to sustain connection.
 
-llllJ D!fferent Voice
+different D!fferent Voice
 
 Thus alongside the drama Freud creates between happiness
 and culture in which morality plays the central part, transforming
 the danger of love into the discomfort of civilization-a drama that
 darkly illuminates the role of "love in the origin of conscience and
 the fatal inevitability of the sense of guilt" (p. 132)-another sce
-nario begins to emerge. In this changed light, connection, rather
+scenario begins to emerge. In this changed light, connection, rather
 than seeming an illusion or taking on an explosive or transcenden
 tal cast, appears as a primary feature of both individual psychology
 and civilized life. Since ''the human individual takes part in the
 course of the development of mankind· at the same time as he pur
 sues his own path in life" (p. 141), separation suddenly begins to
 appear as illusory as connection formerly had seemed. Yet to incor
-porate this sense of connection into the fabric of his psychology
+incorporate this sense of connection into the fabric of his psychology
 would change, as Freud sees, not only the coloration of the instinc
-tuallife but also the representation of self and the portrayal of rela
+intellectual but also the representation of self and the portrayal of rela
 tionships.
 
 The "male pattern" of fantasy that Robert May (1980) identi
 fies as "Pride" in his studies of sex differences in projective imagi
 nation leads from enhancement to deprivation and continues the
 story that Freud has told of an initial fracture of connection leading
-through the experience of separation to an irreparable loss, a glori
+through the experience of separation to an irreparable loss, a glorious
 ous achievement followed by a disastrous fall. But the pattern of
 female fantasy May designates as "Caring" traces a path which
 remains largely unexplored, a narrative of deprivation followed
@@ -3193,7 +3193,7 @@ as a web rather than a succession of relationships, women portray
 autonomy rather than attachment as the illusory and dangerous
 quest. In this way, women's development points toward a different
 history of human attachment, stressing continuity and change
-in configuration, rather than replacement and separation, eluci
+in configuration, rather than replacement and separation, elucidating
 dating a different response to loss, and changing the metaphor of
 growth.
 
@@ -3208,7 +3208,7 @@ to make and then to maintain affiliations and relationships (p. 83)."
 Images 01 Relationship
 
 But she sees in this psychic structuring the potential for &&more ad
-vanced, more affiliative ways of living-less wedded to the danger
+advanced, more affiliative ways of living-less wedded to the danger
 ous ways of the present," since the sense of self is tied not to a be
 lief in the efficacy of aggression but to a recognition of the need for
 connection (p. 86). Thus envisioning the potential for a more crea
@@ -3304,11 +3304,11 @@ tionships would tum her act of care into an act of betrayal.
 
 In this way, realizing that others may not know what she has
 seen and heard and recognizing how easily her action can be mis
-constmed, Amy wonders if it would be better to say nothing or at
+misconstrued, Amy wonders if it would be better to say nothing or at
 least not to tell that she told. Thus if the secrets of male adoles
 cence revolve around the harboring of continuing attachments that
 cannot be represented in the logic of fairness, the secrets of the fe
-male adolescent pertain to the silencing of her own voice, a silenc
+male adolescent pertain to the silencing of her own voice, a silencing
 ing enforced by the wish not to hurt others but also by the fear
 that, in speaking, her voice will not be heard.
 
@@ -3380,7 +3380,7 @@ draws back as she encounters the feeling "that I can't grow up."
 Caught by the interviewer's request for self-description at a
 
 time when she is resisting "categorizing or classifying myself," she
-finds it "hard to start defining what I'm in the process of undefin
+finds it "hard to start defining what I'm in the process of undefining
 ing," the self that, in the past, would "try to push my feelings under
 the rug" so as not to create any "repercussions." Describing herself
 as "loving," she is caught between the two contexts in which that
@@ -3470,8 +3470,8 @@ considers the druggist morally responsible for his refusal, so she ties
 morality to the awareness of connection, defining the moral person
 as one who, in acting, "seriously considers the consequences to
 everybody involved." Therefore, she criticizes her mother for "ne
-glecting her responsibility to herself" at the same time that she crit
-icizes herself for neglecting her responsibility to others.
+neglecting her responsibility to herself" at the same time that she crit
+criticizes herself for neglecting her responsibility to others.
 
 Although Claire's judgments of Heinz's dilemma for the most
 part do not fit the categories of Kohlberg's scale, her understanding
@@ -3516,7 +3516,7 @@ tion, however, centers on describing the mode of connection. The
 connection itself is apparent in Claire's description of herself which
 she says, "sounds sort of strange," as she characterizes herself as
 "maternal, with all its connotations." Envisioning herself "as a phy
-sician, as a mother," she says that "it's hard for me to think about
+physician, as a mother," she says that "it's hard for me to think about
 myself without thinking about other people around me that I am
 giving to." Like Amy, Claire ties her experience of self to activities
 of care and connection. Joining the image of her mother with that
@@ -3526,7 +3526,7 @@ like Amy, to become a scientist who takes care of the world.
 In describing the resolution of a crisis that extended over a pe
 
 riod of years, she retraces her steps in order to explain her discov
-ery of "a direction underlying it all" The crisis began in her sopho
+ery of "a direction underlying it all" The crisis began in her sophomore
 more year in college:
 
 For an entire weekend I didn't get out of bed because there
@@ -3661,7 +3661,7 @@ of time and place, contingent always on ''that mother" and that
 "unborn child" and thus resisting a categorical formulation. To her,
 the possibilities of imagination outstrip the capacity for generaliza
 tion. But this sense of being unable to verbalize or explain the ra
-tionale for her participation in abortion counseling, an inability
+rationale for her participation in abortion counseling, an inability
 that could reflect the inadequacy of her moral thought, could also
 reflect the fact that she finds in the world no validation of the posi
 tion she is trying to convey, a position that is neither pro-life nor
@@ -3731,7 +3731,7 @@ Right was not "right for me." But unwilling to end the relationship,
 she turned instead to Mr. Wrong:
 
 By senior year, it just blew, but instead of saying, "I am as
-serting myself, I am not going to stand for this any longer," I
+asserting myself, I am not going to stand for this any longer," I
 had this very sordid affair behind his back and then threw it
 up to him. And not only threw it up to him, but went to him
 in tears and confessed, which felt wonderful, but it was all sort
@@ -3764,7 +3764,7 @@ Focusing on her actions that revealed the unresolved conflict
 within herself, she says that "the two people involved in that con
 flict were myself and myself." As she explores the inner division,
 she explores the world of relationships as well, identifying her un
-willingness to "take responsibility for my actions" as having perpet
+willingness to "take responsibility for my actions" as having perpetuated
 uated a cycle of hurt:
 
 That was part of the whole problem with the relationship, my
@@ -3883,7 +3883,7 @@ Another undergraduate responds to the question "What does
 it mean to say something is morally right or wrong?" by also speak
 ing first of responsibilities and obligations:
 
-Concepts ofSelfand Morality
+Concepts of Self and Morality
 
 It has to do with responsibilities and obligations and values,
 mainly values ... In my life situation I relate morality with in
@@ -3925,7 +3925,7 @@ not to lie and not to hurt.
 The common thread that runs through these statements is the
 wish not to hurt others and the hope that in morality lies a way of
 solving conflicts so that no one will be hurt. This theme is inde
-pendelltly introduced by each of the four women as the most
+independently introduced by each of the four women as the most
 specific item in their response to a most general question. The
 
 In (J Different Voice
@@ -3958,7 +3958,7 @@ why she would find it difficult to steal a drug to save her own life,
 despite her belief that it would be right to steal for another: "It's
 just very hard to defend yourself against the rules. I mean, we live
 by consensus, and if you take an action simply for yourself, by
-yourself, there's no consensus there, and that is relatively indefensi
+yourself, there's no consensus there, and that is relatively indefensible
 ble in this society now."
 
 What emerges in these voices is a sense of vulnerability that
@@ -4096,12 +4096,12 @@ between thinking and feeling, justice and mercy, that underlies
 many of the cliches and stereotypes concerning the difference be
 tween the sexes. But considered from another point of view, her
 protest signifies a moment of confrontation, replacing a fonner eva
-sion. This confrontation reveals two modes ofjudging, two different
+sion. This confrontation reveals two modes of judging, two different
 constructions of the moral domain-one traditionally associated
 with masculinity and the public world of social power, the other
 with femininity and the privacy of domestic interchange. The devel
 opmental ordering of these two points of view has been to consider
-the masculine as mpre adequate than the feminine and thus as re
+the masculine as more adequate than the feminine and thus as re
 placing the feminine when the individual moves toward maturity.
 The reconciliation of these two modes, however, is not clear.
 
@@ -4168,7 +4168,7 @@ solved. The "good woman" masks assertion in evasion, denying re
 sponsibility by claiming only to meet the needs of others, while the
 "bad woman" forgoes or renounces the commitments that bind her
 in self-deception and betrayal. It is precisely this dilemma-the
-eonflict between compassion and autonomy, between virtue and
+conflict between compassion and autonomy, between virtue and
 power-which the feminine voice struggles to resolve in its effort to
 reclaim the self and to solve the moral problem in such a way that
 no one is hurt.
@@ -4222,7 +4222,7 @@ making the decision, in the first trimester of a confirmed pregnancy,
 and then at the end of the following year. The referral procedure
 required that there be an interval between the woman's contacting
 a counselor or clinic and the time the abortion was performed.
-Given this factof and the fact that some counselors saw participa
+Given this fact of and the fact that some counselors saw participa
 tion in the study as an effective means of crisis-intervention, there is
 reason to believe that the women interviewed were in greater than
 usual conflict over the decision. Since the study focused on the rela
@@ -4236,7 +4236,7 @@ which women in general think about the abortion choice.
 In the initial part of the interview, the women were asked to
 discuss the decision they faced, how they were dealing with it, the
 alternatives they were considering, their reasons both for and
-against each option, the people involved, the confticts entailed, and
+against each option, the people involved, the conflicts entailed, and
 the ways in which making this decision affected their views of
 themselves and their relationships with others. In the second part of
 the interview, the women were asked to resolve three hypothetical
@@ -4267,7 +4267,7 @@ judgment adopts a reflective perspective on societal values and con
 structs moral principles that are universal in application.
 
 This shift in perspective toward increasingly differentiated,
-comprehensive, and reftective forms of thought appears in women's
+comprehensive, and reflective forms of thought appears in women's
 responses to both actual and hypothetical dilemmas. But just as the
 conventions that shape women's moral judgment differ from those
 that apply to men, so also women's definition of the moral domain
@@ -4289,7 +4289,7 @@ ness and responsibility, which defines the moral problem as one of
 obligation to exercise care and avoid hurt. The inflicting of hurt is
 considered selfish and immoral in its reflection of unconcern, while
 the expression of care is seen as the fulfillment of moral responsi
-bility. The reiterative use by the wornen of the words selfish and re
+bility. The reiterative use by the women of the words selfish and re
 sponsible in talking about moral conflict and choice, given the un
 derlying moral orientation that this language reflects, sets the
 women apart from the men whom Kohlberg studied and points to
@@ -4387,7 +4387,7 @@ I think survival is one of the first things in life that people
 fight for. I think it is the most important thing, more impor
 tant than stealing. Stealing might be wrong, but if you have to
 steal to survive yourself or even kill, that is what you should
-do ... Preservation of oneself, I think, is the mpst important
+do ... Preservation of oneself, I think, is the most important
 thing. It comes before anything in life.
 
 In the transition that follows this position, the concepts of self
@@ -4432,7 +4432,7 @@ out a lot of things.
 Describing her fonner mode ofjudgment, the wish to have a
 
 baby as a way of combating loneliness and making connection,
-Josie now criticizes that judgment as both "selfish" and ''unrealis
+Josie now criticizes that judgment as both "selfish" and ''unrealistic
 tic." The contradiction between the wish for a baby and the wish
 for freedom to be "out of the house all the time"-that is, between
 connection and independence-is resolved in terms of a new prior..
@@ -4506,10 +4506,10 @@ money in a black market kind of thing ••• because mostly I operate
 on principles, and it would just rub me the wrong way to think I
 would be selling my own child," Anne struggles with a concept of
 responsibility which repeatedly turns back on the question of her
-own survival. Transition seems blocked by a self-image that is insis
+own survival. Transition seems blocked by a self-image that is insistently
 tently contradictory:
 
-(How would you describe yourself to yoursel.f!) I see myself as
+(How would you describe yourself to yourself.f!) I see myself as
 impulsive, practical-that is a contradiction-and moral and
 amoral, a contradiction. Acutally the only thing that is consis
 tent and not contradictory is the fact that I am very lazy,
@@ -4544,11 +4544,11 @@ of sanctions imposed by a society of which one is more subject than
 citizen, from the second perspective, moral judgment relies on
 shared norms and expectations. The woman at this point validates
 her claim to social membership through the adoption of societal
-values. Consensual judgment about goodness becomes the overrid
+values. Consensual judgment about goodness becomes the overriding
 ing concern as survival is now seen to depend on acceptance by
 others.
 
-Here the conventional feminine voice emerges with great clar
+Here the conventional feminine voice emerges with great clarity
 
 ity, defining the self and proclaiming its worth on the basis of the
 ability to care. for and protect others. The woman now constructs a
@@ -4726,7 +4726,7 @@ down with two."
 
 Against this combination of selfish and responsible reasons for
 
-abortion is her religi9us belief about abortion:
+abortion is her religious9us belief about abortion:
 
 It is taking a life. Even though it is not formed, it is the poten
 tial, and to me it is still taking a life. But I have to think of
@@ -4790,7 +4790,7 @@ Concepts 01 Self and Morality
 for me and whomever I am involved with. I think I was very
 fair to myself about the decision, and I really think that I have
 been truthful, not hiding anything, bringing out all the feel
-ings involved. I feel it is a good decision and an honest onet a
+ings involved. I feel it is a good decision and an honest honest a
 real decision.
 
 Thus she strives to encompass the needs of both self and others, to
@@ -4907,7 +4907,7 @@ doned in the face of its threat to survival. Moral obligation, rather
 than expanding to include the self, is rejected completely when the
 failure of response leaves the woman unwilling any longer to pro
 tect others at what is now seen to be her own expense. In the ab
-sence of morality, surviyal, however "selfish" or "immoral," returns
+sence of morality, survival, however "selfish" or "immoral," returns
 as the paramount concern.
 
 Ellen, a musician in her late twenties, illustrates this transi
@@ -4947,7 +4947,7 @@ whether to have or have not the child," she struggles to find a vi
 able basis on which to resolve the dilemma.
 
 Capable of arguing either for or against abortion "with a phil
-osophicallogic," Ellen thinks, on the one hand, that in an overpop
+philosophical logic," Ellen thinks, on the one hand, that in an overpopulated
 ulated world one should have children only under ideal conditions
 for care, but on the other, that one should end a life only when it is
 impossible to sustain it. Asked whether there is a difference be
@@ -5216,7 +5216,7 @@ As in the first transition, although now in different terms, the
 conflict precipitated by the pregnancy catches up issues that are
 critical to psychological development. These issues pertain to the
 worth of the self in relation to others, the claiming of the power to
-choose, and the acceptance of responsibility for choice. By provok
+choose, and the acceptance of responsibility for choice. By provoking
 ing a confrontation with choice, the abortion crisis can become a
 "very auspicious time. You can use the pregnancy as sort of a
 learning, a teeing-off point, which makes it useful in a way." The
@@ -5317,7 +5317,7 @@ Concepts 01 Self and Morality
 
 "I want to do." However, as she begins to examine her thinking,
 she abandons as false this conceptualization of the problem, ack
-nowledging the truth of her own internal conflict and elaborating
+acknowledging the truth of her own internal conflict and elaborating
 the tension she feels between her femininity and the adulthood of
 her work life. She describes herself as "going in two directions" and
 values that part of herself which is "incredibly passionate and sensi
@@ -5352,7 +5352,7 @@ Because Ruth sees the acquisition of adult power as entailing the
 loss of feminine sensitivity and compassion, she construes the con
 flict between femininity and adulthood as a moral problem. The
 abortion dilemma.then directs her attention to what it means in this
-society to be a woman and to be an adultt and the recognition of
+society to be a woman and to be an adult and the recognition of
 the disparity between power and care initiates the search for a reso-
 
 lution that can encompass both femininity and adulthood, in rela
@@ -5366,7 +5366,7 @@ the separate self and of moral principles uncompromised by the
 constraints of reality is an adolescent ideal, the elaborately wrought
 philosophy of a Stephen Daedalus whose flight we know to be in
 jeopardy. Erikson (1964), in contrasting the ideological morality of
-the adolescent with the adult ethic of taking care, attempts to grap
+the adolescent with the adult ethic of taking care, attempts to grapple
 ple with this problem of integration. But when he charts a develop
 mental path where the sole precursor to the intimacy of adult love
 and the generativity of adult work and relationships is the trust es
@@ -5463,7 +5463,7 @@ tion of rights and responsibilities takes place through an under
 standing of the psychological logic of relationships. This under
 standing tempers the self-destructive potential of a self-critical
 morality by asserting the need of all persons for care. For men, rec
-ognition through experience of the need for more active responsi
+recognition through experience of the need for more active responsi
 bility in taking care corrects the potential indifference of a morality
 of noninterference and turns attention from the logic to the conse
 quences of choice (Gilligan and Murphy, 1979; Gilligan, 1981). In
@@ -5612,7 +5612,7 @@ statements, the issues they repeatedly address are those of exploita
 tion and hurt. In doing so, they raise the issue of nonviolence in
 precisely the same psychological context that brings Erikson (1969)
 to pause in his consideration of the truth of Gandhi's life. In the
-pivota11etter that he addresses to Gandhi and around which the
+pivotal11etter that he addresses to Gandhi and around which the
 judgment of his book turns, Erikson confronts the contradiction be
 tween the philosophy of nonviolence that informed Gandhi's deal
 ing with the British and the psychological violence that marred his
@@ -5669,7 +5669,7 @@ steadfastly adhered.
 
 The blind willingness to sacrifice people to truth, however, has
 
-always been the danger of an ethics abstacted from life. This will
+always been the danger of an ethics abstracted from life. This will
 ingness links Gandhi to the biblical Abraham, who prepared to sac
 rifice the life of his son in order to demonstrate the integrity and
 supremacy of his faith. Both men, in the limitations of their father
@@ -5690,7 +5690,7 @@ in order to bring into the masculine citadel of justice the feminine
 plea for mercy. The limitation of the contractual conception ofjus
 tice is illustrated through the absurdity of its literal execution, while
 the need to "make exceptions all the time" is demonstrated contra
-puntally in the matter of the rings. Portia, in calling for mercy,
+punctually in the matter of the rings. Portia, in calling for mercy,
 argues for that resolution in which no one is hurt, and as the men
 are forgiven for their failure to keep both their rings and their
 word, Antonio in tum forgoes his "right" to ruin Shylock.
@@ -5707,7 +5707,7 @@ women's moral judgment proceeds from an initial concern with sur
 vival to a focus on goodness and finally to a reflective understand
 ing of care as the most adequate guide to the resolution of conflicts
 in human relationships. The abortion study demonstrates the cen
-trality of the concepts of responsibility and care in women's con
+centrality of the concepts of responsibility and care in women's con
 structions of the moral domain, the close tie in women's thinking
 between conceptions of the self and of morality, and ultimately the
 need for an expanded developmental theory that includes, rather
@@ -5769,7 +5769,7 @@ future, turning to offer Marianne his help.
 
 Erikson, defining Marianne's role in breaking the cycle of rep
 etition that had extended across generations a cold loneliness "more
-frightening than death itself," identifies the "dominant determina
+frightening than death itself," identifies the "dominant determination
 tion to care" in this "quiet, independent girl with her naked, obser
 vant eyes." Yet in tracing the development of the virtue of care,
 which he views as the strength of adult life, he turns repeatedly to
@@ -5792,7 +5792,7 @@ possible to test, in a preliminary way, whether the changes pre
 dicted by theory fit the reality of what in fact takes place. In com
 paring interviews conducted at the time of the abortion decision
 with those that occurred at the end of the following year, I use the
-magnification of crisis to reveal the process of developmental transilOB In Q Different Voice
+magnification of crisis to reveal the process of developmental transformation In Q Different Voice
 
 tion and to delineate the pattern of change. In doing so, I draw on
 the work of Piaget (1968) in identifying conflict as the harbinger of
@@ -5907,7 +5907,7 @@ cause at least they care."
 
 Perhaps in part because of this demonstration of care, Betty
 
-begins to reflect on the way that she has taken care of'herself. Say
+begins to reflect on the way that she has taken care of herself. Say
 ing that perhaps the pregnancy is her fault, she attributes it to her
 failure to listen to herself. She listened to others because she be
 lieved that she would "get something out of it, or it will make
@@ -6000,7 +6000,7 @@ fault, and I have to keep the baby." But then, I stopped drink
 ing and stopped getting high because I didn't want to hurt the
 baby. And then, after a couple of weeks, I thought about it
 again, and I said, "No, I can't have it, because I have to go
-back to schoo!."
+back to school!."
 
 Just as Betty begins to take care of herself out of her wish not
 to hurt the baby, so her sense of having to go back to school stems
@@ -6045,7 +6045,7 @@ This dramatic change began at the time that the baby would
 
 have been born, had the pregnancy continued. In the lives of other
 women as well this proved to be a significant date, marking the de
-nouement of the crisis and signaling the tum for better or worse.
+denouement of the crisis and signaling the tum for better or worse.
 Among the women for whom the abortion decision signified the be
 ginning of a developmental advance-a new assumption of respon
 sibility, a confrontation with truth-this tended to be the time when
@@ -6087,7 +6087,7 @@ on relationships with others, on the expression of love and care.
 The transformation of Betty's moral judgments corresponds to
 
 the change in her view of herself. In the first interview she de
-scribed herself as "kind of hard to get along with," willful, impul
+scribed herself as "kind of hard to get along with," willful, impulsive
 sive, and "easily led"; in the second, she says, "I think 1 am a per
 son who likes challenge. I like to learn. I like things that are
 interesting. I like to talk to people. I am very sensitive." Asked
@@ -6119,7 +6119,7 @@ disorganization, and despair.
 
 At the end of the year, in the second interview, Betty demon
 
-strates a new understanding of the events of her past and a new
+demonstrates a new understanding of the events of her past and a new
 way of thinking about the future. Past conflicts have been revisited
 in a way that allows her to address the present issues of her adoles-
 
@@ -6187,7 +6187,7 @@ care of myself." In the second interview she says that she was
 ing, like Betty, a period of depression following the abortion and
 preceding the dramatic improvement in her life, she is caught be
 tween her own perception that the abortion was a responsible deci
-sion and the conventional interpretafion of abortion as a selfish
+sion and the conventional interpretation of abortion as a selfish
 choice.
 
 She says that she is against abortion but then criticizes that
@@ -6206,7 +6206,7 @@ ish and bad. Like Betty, who says in the second interview that
 Josie docs not know whether the abortion was a selfish or a respon
 sible choice. As the insight of the transition yields to the dichotomy
 of the second position, Josie cannot decide whether abortion is
-"morally wrong" or whether it Umakes sense."
+"morally wrong" or whether it Makes sense."
 
 Sarah, a woman of twenty-five, lively and engaging at the time
 
@@ -6244,7 +6244,7 @@ nancy not only as a defeat but also as a confrontation with truth:
 
 It is a stress situation that brings out all the things in my rela
 tionship with [the father] that I had just been grinding along
-with all this time and just could have ground along with indef
+with all this time and just could have ground along with indefinitely
 initely. And now, wow, there it is, panorama, you cannot hide
 from it anymore. And so you might say that it becomes a very
 auspicious time. I am sorry.
@@ -6254,7 +6254,7 @@ ship, Sarah sees it as auspicious, an augury of change; but since it
 also reveals a viable child, it is an occasion of regret. To Sarah, tak
 ing responsibility for ending this life means taking responsibility for
 herself as well, bringing herself into the compass of her moral con
-cern and facing the truth of her re~ationships. In doing so, she calls
+cern and facing the truth of her re~relationships. In doing so, she calls
 into question her former view of herself as a good victim of circum
 stance, acting responsibly while suffering from the consequences of
 others' irresponsible behavior. This view is countered by the reali
@@ -6354,7 +6354,7 @@ forever, and I've repeated the same mistakes several times now,
 and I think that's enough." In the second interview, the self
 Sarah described has finally fallen apart.
 
-(How wouldyou describe yourselfto yourself?) I don't know. I
+(How would you describe yourselfto yourself?) I don't know. I
 would say I am gathering up the last. I just feel that every
 thing has been blasted away, and after the last blast I am
 
@@ -6478,7 +6478,7 @@ of her own participation in the events that led to her defeat and the
 indirection of her search for response, she saw the abortion decision
 as a choice to include herself, not to rule herself out from consider
 ation but to consider her own needs as well as those of others in de
-ciding what was the best thing to do.
+deciding what was the best thing to do.
 
 But the integration of this insight into Sarah's life, the comple
 
@@ -6537,13 +6537,13 @@ who, believing in her boyfriend's love, acceded to his wish "not to
 murder his child." But after she decided not to abort the child, he
 left her and thus "ruined my life." Isolated at home taking care of
 the child, dependent on welfare for support, disowned by her fa
-ther, and abandoned by her boyfriend, she has become unrecogniz
-ablc to herself:
+ther, and abandoned by her boyfriend, she has become unrecognizable
+able to herself:
 
 I am not the same person I was a year and a half ago. I was a
 very happy person then. I· am just not myself anymore. I feel I
 lose all my friends now because I am somebody else. I am not
-mc. I don't likc mysclf, and I don't know if other people
+mc. I don't likc myself, and I don't know if other people
 would either. I don't like the way I am now. That's why I am
 so unhappy. Before I had the baby, I was free. I had a lot of
 friends. I was fun to be with. I was happy. I enjoyed a lot of
@@ -6660,7 +6660,7 @@ room for responsibility.
 
 The nihilistic position signifies a retreat from care to a concern
 
-with survival, the ultimate self-protectivc stance. But in attempting
+with survival, the ultimate self-protective stance. But in attempting
 to survive without carc, these women return in the epd to the truth
 about relationships. The student, speaking of her efforts "to be
 much more honest with myself about what I wanted and what I
@@ -6681,7 +6681,7 @@ small, and the women were not selected to represent a larger popu
 lation. These constraints preclude the possibility of generalization
 and leave to further research the task of sorting out the different
 variables of culture, time, occasion, and gender. Additionallongitu
-dinal studies of women's moral judgments are needed in order to
+longitudinal studies of women's moral judgments are needed in order to
 refine and validate the sequence described. Studies of people's
 thinking about other real dilemmas are needed to clarify the special
 features of the abortion choice.
@@ -6689,7 +6689,7 @@ features of the abortion choice.
 "Crisis reveals character," says one of the women as she
 
 searches for the problem within herself. That crisis also creates
-character is the essence of a devel~pmental approach. The changes
+character is the essence of a devel~developmental approach. The changes
 described in women's thinking about responsibility and relation-
 
 Crisis and Transition 127
@@ -6832,7 +6832,7 @@ ends the novel by drowning Maggie, but not without first caution
 ing the reader that "the shifting relation between passion and duty
 is clear to no man who is capable of apprehending it." Since "the
 mysterious complexity of our life" cannot be "laced up in for
-mulas," moral judgment cannot be bound by "general rules" but
+formulas," moral judgment cannot be bound by "general rules" but
 must instead be informed "by a life vivid and intense enough to
 have created a wide, fellow-feeling with all that is human."
 
@@ -6844,7 +6844,7 @@ were Maggie's look out in the end from a "weary, beaten face," it is
 not surprising that Margaret Drabble, steeped in the tradition of
 nineteenth century fiction but engaged in the issues of twentieth
 century feminism, should choose to return to Eliot's story and ex
-plore the possibility of an alternative resolution. In The Wateifall
+plore the possibility of an alternative resolution. In The Waterfall
 (1969) she recreates Maggie's dilemma in TheM;ll on the Floss but,
 as the title implies, with the difference that the societal impediment
 has been removed. Thus Drabble's heroine, Jane Grey, clings not to
@@ -6885,7 +6885,7 @@ have been."
 These novels thus demonstrate the continuing power for
 women of the judgment of selfishness and the morality of self-
 
-132 In a DUferen' Voice
+132 In a Different' Voice
 
 abnegation that it implies. This is the judgment that regularly ap
 pears at the fulcrum of novels of female adolescence, the turning
@@ -6959,7 +6959,7 @@ situation.
 
 Thus she "came out basically supporting myself, not as a good or
 bad human being, but simply as a human being who had a lot to
-learn either way." Seeing herselfin·the present as capable of
+learn either way." Seeing herself in·the present as capable of
 choice, she feels responsible for herself in a new way_ But while the
 experience of choice has led Nan to a greater sense of personal in
 tegrity, her judgment of these choices stays remarkably the same.
@@ -6978,7 +6978,7 @@ had done, I felt, was so wrong that it came to light to me that
 I was not taking responsibility where I could have, and I could
 have gone on like I was, not taking responsibility. So the seri
 ousness of the situation brings the questions right up in front
-ofyouf face. You see them very clearly, and then the answers
+of your face. You see them very clearly, and then the answers
 are there for you.
 
 134 In Q D!lJerent Voice
@@ -7022,7 +7022,7 @@ soon figured out, or eventually figured out, that things were
 not that simple, that you were bound to hurt people, they were
 bound to hurt you, and life is full of tension and conftict. Peo
 ple are bound to hurt each other's feelings, intentionally, unin
-tentionally, but just in the very way things are. So I aban
+unintentionally, but just in the very way things are. So I aban
 doned that idea.
 
 This abandonment occurred in her first years of college:
@@ -7157,7 +7157,7 @@ you talk about it. I remember, we had little stories, like, if you
 were on a mission and were leading a patrol and somebody
 had to go and throw a hand grenade or ,something. Well,
 that's fine, but when it's something like this that's close to you,
-it just doesn't work anymore. And I had to seriously reeval
+it just doesn't work anymore. And I had to seriously reevaluate
 uate everything I had said in that course and why, if I be
 lieved all that, I could end up with such an intense hatred?
 
@@ -7170,7 +7170,7 @@ All of a sudden, all the definitions and all the terminology just
 fell apart. It became the type of thing that you could not place
 any value on it to say, "Yes, it was moral," or "No, it was
 not." It's one of those things that is just irrational and unde
-finable.
+undefinable.
 
 1.38 I" tl D!fferent Voice
 
@@ -7189,7 +7189,7 @@ thing about responsibility." When the opposition between selfish
 ness and morality prevailed, she was responsive neither to others
 nor to herself; not wanting "to take responsibility for her grand
 father," she also did not want to take responsibility for herself.
-Having been, in this sense, both selfish and selftess, she saw the
+Having been, in this sense, both selfish and selfless, she saw the
 limitation of the opposition itself. Realizing that "it was too easy to
 go through life the way I had done, letting someone else take re
 sponsibility for the direction of my life," she challenged herself to
@@ -7199,7 +7199,7 @@ The underlying construction of morality as a problem of re
 
 sponsibility and the struggle for women in taking responsibility for
 their own lives are evident in the dilemmas described by other col
-lege students who took part in the righa. and responsibilities study.
+lege students who took part in the rights. and responsibilities study.
 A comparison of the dilemmas described by three of the women
 shows, across a wide range of formulations, how the opposition be
 tween selfishness and responsibility complicates for women the
@@ -7398,7 +7398,7 @@ dence, threaten to interrupt the chain of relationships and thus are
 counterbalanced and outweighed by considerations of responsibil
 ity. In the end, choice hinges on the determination of where "the
 greater responsibility lies," a determination based on an assessment
-of wlnerability, a relative estimate of who will be more hurt.
+of vulnerability, a relative estimate of who will be more hurt.
 
 However, in relinquishing her "right to act as an independent
 party" and instead letting her "unselfishness take contro}," she has
@@ -7415,7 +7415,7 @@ herself more securely by becoming more "thoughtful" about her re
 lationships, more concerned with knowing how she is "interacting
 with people" rather than just "letting it ride." Whereas previously
 she was "kind of defensive and afraid" to think about what she was
-doing in relationships, she nows sees that "thinking about it has
+doing in relationships, she now sees that "thinking about it has
 taken away that fear, because when you think about what you are
 doing, you know what it is. If you don't know, you just kind of let
 it ride; you don't know what is going to come next."
@@ -7475,14 +7475,14 @@ depths of selfishness" that she considers drowning herself "in an ef
 fort to reclaim lost renunciations like Maggie Tulliver," Jane
 chooses instead to question the renunciations and in the end to
 "identify myself with love."Observing that although "Maggie
-Thlliver never slept with her man, she did all the damage there was
+Tulliver never slept with her man, she did all the damage there was
 to be done, to Lucy, to herself, to the two men who loved her, and
 then, like a woman of another age she refrained," Jane confronts
 "an event seen from angles where there used to be one event and
 one way only of enduring it." Consequently she "wonders, in this
 age, what is to be done?"
 
-The moral distinction between selfish and seltless behavior,
+The moral distinction between selfish and selfless behavior,
 
 which became increasingly clear to Maggie, thus becomes for Jane
 increasingly blurred. Having "sought virtue" only to find that she
@@ -7498,7 +7498,7 @@ self out.
 Yet she discovers that, no matter which way she tells the story,
 whether in the first or the third person, in the end she confronts the
 
-Woments Rights and Women's Judgment 145
+Women's Rights and Women's Judgment 145
 
 truth that despite all the renunciations, she has "drowned in a will
 ing sea."
@@ -7507,7 +7507,7 @@ It is against the pull of such renunciations, the vision of an in
 nocence attained by the denial of self, that women begin to search
 for the truth of their own experience and to talk of taking control.
 
-(Thinking back over the past year, what stands outfor you?)
+(Thinking back over the past year, what stands out for you?)
 Taking control of my life.
 
 Thus Kate, the third woman and a recent college graduate, begins
@@ -7545,9 +7545,9 @@ her father and herself.
 
 J46 In Q D!fferent Yolce
 
-Describing herself as previously having "ftoated" through
+Describing herself as previously having "floated" through
 school with "such a nonexistent sense of what I wanted to do that I
-kind of went the path of least resistencc," Kate has taken control
+kind of went the path of least resistance," Kate has taken control
 by "more and more doing what I want to do and less and less what
 I thought I should be doing or was supposed to be doing." In this
 way, she has become "more embedded in where I am." Recogniz
@@ -7563,7 +7563,7 @@ base my judgments on; feeling stronger in myself and so rely
 ing more on myself to make decisions and to evaluate situa
 tions; and not accepting my parents' judgments or [college's]
 judgments; and finding myself in situations where I was taking
-one position and someone else was taking anotlt -r position
+one position and someone else was taking another -r position
 and both positions seemed legitimate and neither was the right
 one, and learning how to accept that; and trying to figure out
 why that was, but being able to accept that, or starting to, or
@@ -7665,7 +7665,7 @@ serving that "we have no master-key that will fit all cases" of moral
 decision, returns to the casuists in whose "perverted spirit of minute
 discrimination" she sees "the shadow of a truth to which eyes and
 hearts are too often fatally sealed-the truth that moral judgments
-must remain false and hollow unless they are checked and enlight
+must remain false and hollow unless they are checked and enlightened
 ened by a perpetual reference to the special circumstances that
 mark the individual lot." Thus moral judgment must be informed
 by "growing insight and sympathy," tempered by the knowledge
@@ -7679,7 +7679,7 @@ human."
 
 And yet, for Eliot, at least in this novel, the moral problem re
 mains one of renunciation, a question of ''whether the moment has
-come in which a man has fallen below the possibility of a renuncia
+come in which a man has fallen below the possibility of a renunciation
 tion that will carry any efficacy, and must accept the sway of a pas-
 
 Women's Rights and Women's Judgment 149
@@ -7711,7 +7711,7 @@ Thus changes in women's rights change women's moral judg
 
 ments, seasoning mercy with justice by enabling women to consider
 it moral to care not only for others but for themselves. The issue of
-inclusion first raised by the feminists in the public domain reverber
+inclusion first raised by the feminists in the public domain reverberates
 ates through the psychology of women as they begin to notice their
 own exclusion of themselves. When the concern with care extends
 from an injunction not to hurt others to an ideal of responsibility in
@@ -7742,7 +7742,7 @@ voice.
 of
 Maturity
 
-TIACHMENT AND SEPARATION anchor the cycle of
+ATTACHMENT AND SEPARATION anchor the cycle of
 
 human life, describing the biology of human repro
 
@@ -7811,7 +7811,7 @@ is discovered to be flawed and threatens the great expectations of
 the Dream, then in order to avert "serious Failure or Decline," the
 man must "break out" to salvage his Dream. This act of breaking
 out is consummated by a "marker event" of separation, such as
-Mleaving his wife, quitting his job, or moving to another region" (p.
+Leaving his wife, quitting his job, or moving to another region" (p.
 206). Thus the road to mid-life salvation runs through either
 achievement or separation.
 
@@ -7832,7 +7832,7 @@ role in the individual drama of adult development.
 The focus on work is also apparent in George Vaillant's (1977)
 account of adaptation to life. The variables that correlate with adult
 adjustment, like the interview that generates the data, bear predom
-inantly on occupation and call for an expansion of Erikson's stages.
+predominantly on occupation and call for an expansion of Erikson's stages.
 Filling in what he sees as "an uncharted period of development"
 which Erikson left "between the decades of the twenties and for
 ties," Vaillant describes the years of the thirties as the era of
@@ -7883,7 +7883,7 @@ chological expense.
 Thus the "models for a healthy life cycle" are men who seem
 
 distant in their relationships, finding it difficult to describe their
-wives, whose importan~ in their lives they nevertheless acknowl
+wives, whose importance~ in their lives they nevertheless acknowl
 edge. The same sense of distance between self and others is evident
 in Levinson's conclusion that, "In our interviews, friendship was
 largely noticeable by its absence. As a tentative generalization we
@@ -7926,7 +7926,7 @@ The biography of Dr. Carson illustrates his halting passage
 from identity to intimacy, through career consolidation, and,
 finally, into the capacity to care in its fullest sense .•• he had
 gone through divorce, remarriage, and a shift from research to
-private practice. His personallllttamorphosis had continious
+private practice. His personallllttamorphosis had continuous
 The mousy researcher had become a charming clinician •••
 suave, untroubled, kindly and in control .•. The vibrant en
 ergy that had characterized his adolescence had returned ..•
@@ -7941,7 +7941,7 @@ The notion that separation leads to attachment and that indi
 viduation eventuates in mutuality, while reiterated by both Vaillant
 and Levinson, is belied by the lives they put forth as support. Simi
 larly, in Erikson's studies of Luther and Gandhi, while the relation
-ship between self and society is achieved in magnificent articula
+ship between self and society is achieved in magnificent articulation
 tion, both men are compromised in their capacity for intimacy and
 live at great personal distance from others. Thus Luther in his de
 votion to Faith, like Gandhi in his devotion to Truth, ignore the
@@ -7965,8 +7965,8 @@ pointing again toward the incompleteness of their separation, de-
 
 156 In tJ Different Voice
 
-picting them as mired in relationships. For women, the develop
-mental markers of separation and attachment, allocated sequen
+depicting them as mired in relationships. For women, the develop
+mental markers of separation and attachment, allocated sequentially
 tially to adolescence and adulthood, seem in some sense to be
 fused. However, while this fusion leaves women at risk in a society
 that rewards separation, it also points to a more general truth cur
@@ -8012,7 +8012,7 @@ I compromised.
 
 (Memories ofa Catholic Girlhood)
 
-YlSions 01 Maturity 157
+Visions 01 Maturity 157
 
 I will not serve that in which I no longer believe, whether it
 calls itself my home, my fatherland or my church: and I will
@@ -8043,18 +8043,18 @@ firmed their own endorsement of this account.
 
 In the novels, however, contrasting descriptions of the road to
 
-adult life appear. For Stephen, leaving childhood means renounc
+adult life appear. For Stephen, leaving childhood means renouncing
 ing relationships in order to protect his freedom of self-expression.
 For Mary, "farewell to childhood" means relinquishing the free
 dom of self-expression in order to protect others and preserve rela
-tionships: "A sense of power and Caeserlike magnanimity filled me.
+tionships: "A sense of power and Caesar-like magnanimity filled me.
 I was going to equivocate, not for selfish reasons but in the interests
 of the community, like a grown-up responsible person" (p. 162).
 These divergent constructions of identity, in self-expression or in
 self-sacrifice, create different problems for further development
 the former a problem of human connection, and the latter a prob
 lem of truth. These seemingly disparate problems, however, are in
-timately related, since the shrinking from truth creates distance in
+intimately related, since the shrinking from truth creates distance in
 relationship, and separation removes part of the truth. In the col
 lege student study which spanned the years of early adulthood, the
 men's return from exile and silence parallels the women's return
@@ -8188,7 +8188,7 @@ all come from it. You have to love someone else, because
 while you may not like them, you are inseparable from them.
 In a way, it is like loving your right hand. They are part of
 you; that other person is part of that giant collection of people
-that you are ~nnected to.
+that you are ~connected to.
 
 To this aspiring maternal physician, the sound of one hand clap
 ping does not seem a miraculous transcendence but rather a human
@@ -8226,7 +8226,7 @@ who is slightly arrogant. Concerned, committed, very tired
 right now because I didn't get much sleep last night.
 
 I would describe myself as a person who is well developed in
-tellectually and emotionally. Relatively narrow circle of
+intellectually and emotionally. Relatively narrow circle of
 friends, acquaintances, persons with whom I have real contacts
 as opposed to professional contacts or community contacts.
 And relatively proud of the intellectual skills and develop
@@ -8240,7 +8240,7 @@ tions which involve other people, particularly authorities. Im
 proving, looser, less tense and hung up than I used to be.
 Somewhat lazy, although it is hard to say how much of that is
 tied up with other conflicts. Imaginative, sometimes too much
-so. A little dilletantish, interested in a lot of things without
+so. A little dilettantish, interested in a lot of things without
 necessarily going into them in depth, although I am moving
 toward correcting that.
 
@@ -8335,7 +8335,7 @@ to see both sides-to discover the effects of actions on others as well
 as their cost to the self. The experience of relationship brings an
 end to isolation, which otherwise hardens into indifference, an ab
 sence of active concern for others, though perhaps a willingness to
-respect their rights. For this reason, intimacy is the transfonnative
+respect their rights. For this reason, intimacy is the transformative
 
 164 In a Different Voice
 
@@ -8402,7 +8402,7 @@ between integrity and care.
 
 The dilemma of responsibility and truth that McCarthy de
 scribes is reiterated by Hilary, a lawyer and the woman who said
-she found it too hard to describe herself at the end of what ureally
+she found it too hard to describe herself at the end of what really
 has been a rough week." She too, like McCarthy, considers self
 sacrificing acts "courageous" and "praiseworthy," explaining that
 "if everyone on earth behaved in a way that showed care for others
@@ -8499,7 +8499,7 @@ ment, he nevertheless .finds that their integration "is hard to work
 through," since sometimes "no matter which way you go, somebody
 is going to be hurt and somebody is going to be hurt forever."
 Then, he says, "you have reached the point where there is an irre
-solvable cantlict," and choice becomes a matter of "choosing the
+solvable conflict," and choice becomes a matter of "choosing the
 victim" rather than enacting the good. With the recognition of the
 responsibility that such choices entail, his judgment becomes more
 attuned to the psychological and social consequences of action, to
@@ -8516,15 +8516,15 @@ pends on the context in which it is framed, and the vision of matu
 rity can be seen to shift when adulthood is portrayed by women
 rather than men.When women construct the adult domain, the
 world of relationships emerges and becomes the focus of attention
-and concern. McClelland (1975), noting this shift in women's fanta
+and concern. McClelland (1975), noting this shift in women's fantasies
 sies of power, observes that "women are more concerned than men
-with both sides of an interdependent relationshiptt and are "quicker
+with both sides of an interdependent relationship and are "quicker
 to recognize their own interdependence" pp. 85-86). This focus on
 interdependence is manifest in fantasies that equate power with giv
 ing and care. McClelland reports that while men represent powerful
 activity as assertion and aggression, women in contrast portray acts
 
-168 In Q D!IIerent Voice
+168 In Q D!Different Voice
 
 of nurturance as acts of strength. Considering his research on power
 to deal "in particular with the characteristics of maturity," he sug
@@ -8556,7 +8556,7 @@ human life, identifies the distinctive psychology of women as aris
 ing from the combination of their positions· in relationships of tem
 porary and permanent inequality. Dominant in temporary relation
 ships of nurturance that dissolve with the dissolution of inequality,
-women are subservient in relationships of perm.an~ntlyunequal so
+women are subservient in relationships of perm.an~permanently unequal so
 cial status and power. In addition, though subordinate in social po
 sition to men, women are at the same time centrally entwined with
 them in the intimate and intense relationships of adult sexuality
@@ -8598,7 +8598,7 @@ daily, providing the domestic needs of children and assuring their
 survival," she could not find "families" in the world of "The Flats."
 Only the "culturally specific definitions of certain concepts such, as
 family, kin, parent, and friend that emerged during this study made
-much of the subsequent analysis possible ..• An arbitrary imposi
+much of the subsequent analysis possible ..• An arbitrary imposition
 tion of widely accepted definitions of the family ... blocks the way
 to understanding how people in The Flats describe and order the
 world in which they live" (p. 31).
@@ -8619,7 +8619,7 @@ for an entirely different (and more advanced) approach-to living
 and functioning ... [in which] affiliation is valued as highly as, or
 more highly than, self-enhancement" (p. 83). Thus, Miller points to
 
-170 In Q Dtlferent Voice
+170 In Q Different Voice
 
 a psychology of adulthood which recognizes that development does
 not displace the value of ongoing attachment and the continuing
@@ -8648,7 +8648,7 @@ pendence of self and other, both in love and in work. By changing
 the lens of developmental observation from individual achievement
 to relationships of care, women depict ongoing attachment as the
 path that leads to maturity. Thus the parameters of development
-shift toward marking the progress of afliliative relationship.
+shift toward marking the progress of affiliative relationship.
 
 The implications of this shift are evident in considering the
 situation of women at mid-life. Given the tendency to chart the un
@@ -8684,7 +8684,7 @@ of work. For generativity to begin at mid-life, as Vaillant's data on
 men suggest, seems from a woman's perspective too late for both
 sexes, given that the bearing and raising of children take place pri
 marily in the preceeding years. Similarly, the image of women ar
-riving at mid-life childlike and dependent on others is belied by the
+arriving at mid-life childlike and dependent on others is belied by the
 activity of their care in nurturing and sustaining family relation
 ships. Thus the problem appears to be one of construction, an issue
 ofjudgment rather than truth.
@@ -8699,7 +8699,7 @@ rity appears to be entwined with an ethic of care, so that to see
 themselves as women is to see themselves in a relationship of con
 nection, the I major transitions in women's lives would seem to in
 volve changes in the understanding and activities of care. Certainly
-the shift from childhood to adulthood witnesses a major redefini
+the shift from childhood to adulthood witnesses a major redefinition
 tion of care. When the distinction between helping and pleasing
 frees the activity of taking care from the wish for approval by
 others, the ethic of responsibility can become a self-chosen anchor
@@ -8714,14 +8714,14 @@ relies, as well as to the activities of care through which she judges
 her worth, then the mourning that accompanies all life transitions
 can give way to the melancholia of self-deprecation and despair.
 The meaning of mid-life events for a woman thus reflects the inter
-action between the structllres of her thought and the realities of her
+action between the structures of her thought and the realities of her
 life.
 
 When a distinction between neurotic and real conflict is made
 
 172 In a Different Voice
 
-and the reluctance to choose is ditTerentiated from the reality of
+and the reluctance to choose is differentiated from the reality of
 having no choice, then it becomes possible to see more clearly how
 women's experience provides a key to understanding central truths
 of adult life. Rather than viewing her anatomy as destined to leave
@@ -8738,7 +8738,7 @@ ality having different possibilities for love and for work, but they
 also make a different sense of experience, based on their knowledge
 of human relationships. Since the reality of connection is experi
 enced by women as given rather than as freely contracted, they ar
-rive at an understanding of life that retlects the limits of autonomy
+rive at an understanding of life that reflects the limits of autonomy
 and control. As a result, women's development delineates the path
 not only to a less violent life but also to· a maturity realized through
 interdependence and taking care.
@@ -8782,7 +8782,7 @@ changes the basic constructs of interpretation. The concept of iden
 tity expands to include the experience of interconnection. The
 moral domain is similarly enlarged by the inclusion of responsibil
 ity and care in relationships. And the underlying epistemology cor
-respondingly shifts from the Greek ideal of knowledge as a corre
+correspondingly shifts from the Greek ideal of knowledge as a corre
 spondence between mind and form to the Biblical conception of
 knowing as a process of human relationship.
 
@@ -8808,7 +8808,7 @@ As we have listened for centuries to the voices of men and the
 theories of development that their experience informs, so we have
 come more recently to notice not only the silence of women but the
 difficulty in hearing what they say when they speak. Yet in the dif
-ferent voice of women lies the truth of an ethic'of care, the tie be
+ferent voice of women lies the truth of an ethic of care, the tie be
 tween relationship and responsibility, and the origins of aggression
 in the failure of connection. The failure to see the different reality
 of women's lives and to hear the differences in their voices stems in
@@ -8888,7 +8888,7 @@ Chodorow, Nancy. "Family Structure and Feminine Personality." In M. Z. Ro
 saldo and L. Lamphere, eds., Woman, Culture and Society. Stanford: Stanford
 University Press, 1974.
 
-- - . The Reproduction of Mothering. Berkeley: University of Califomia Press,
+- - . The Reproduction of Mothering. Berkeley: University of California Press,
 
 1978.
 
@@ -8917,7 +8917,7 @@ Erikson, Erik H. Childhood and Society. New York: W. W. Norton, 1950.
 --I Insight and Responsibility. New York: W. W. Norton, 1964.
 --I Identity.· Youth and Crisis. New York: W. W. Norton, 1968.
 --I Gandhi's Truth. New York: W. W. Norton, 1969.
---I "Reftections on Dr. Borg's Life Cycle." Daedalus 105 (1976): 1-29. (Also
+--I "Reflections on Dr. Borg's Life Cycle." Daedalus 105 (1976): 1-29. (Also
 
 in Erikson, ed., Adulthood New York: W. W. Norton, 1978.)
 
@@ -8969,7 +8969,7 @@ of Michigan, 1968. University Microfilms #6912135.
 
 Women." Journal of Social Issues 28 (1972): 157-175.
 
-Ibsen, Hennk. A Doll's House (1879). In Ibsen Plays, trans. Peter Watts. Ham
+Ibsen, Henrik. A Doll's House (1879). In Ibsen Plays, trans. Peter Watts. Ham
 
 mondsworth, Eng.: Penguin Books, 1965.
 
@@ -9027,11 +9027,11 @@ Levinson, Daniel J. The Seasons ofa Man's Life. New York: Alfred A. Knopf,
 
 1978.
 
-Loevint; .r, Jane, and Wessler, Ruth. Measuring Ego Development. San Francisco:
+Levin; .r, Jane, and Wessler, Ruth. Measuring Ego Development. San Francisco:
 
 Jossey-Bass, 1970.
 
-Lyons, Nona. "Seeing the Consequences: The Dialectic of Choice and Reftec
+Lyons, Nona. "Seeing the Consequences: The Dialectic of Choice and Reflexivity
 tivity in Human Development." Qualifying Paper, Graduate School of Educa
 tion, Harvard University, 1980.
 
@@ -9063,7 +9063,7 @@ De,elopment 23 (1980): 77-104.
 
 180 References
 
-Perry, William. Forms ofIntellectual and Ethical Development In the College
+Perry, William. Forms Intellectual and Ethical Development In the College
 
 Years. New York: Holt, Rinehart and Winston, 1968.
 
@@ -9071,7 +9071,7 @@ Piaget, Jean. The Moral Judgment ofthe Child (1932). New York: The Free
 Press, 1965.
 --a Six Psychological Studies. New York: Viking Books, 1968.
 --a Structuralism. New York: Basic Books, 1970.
-Pollak, Susan, and Gilligan, Carol. "Images of Violence in Thematic Appercep
+Pollak, Susan, and Gilligan, Carol. "Images of Violence in Thematic Apperception
 tion Test Stories." Journal ofPersonality and Social Psychology 42, no. I
 (1982): 159-167.
 
@@ -9091,7 +9091,7 @@ tific Cultural Bias." Human De,elopment 17 (1974): 81-106.
 Stack, Carol B. All Our Kin. New York: Harper and Row, 1974.
 Stoller, Robert, J. "A Contribution to the Study of Gender Identity." Interna
 
-tional Journal ofPsycho-Analysis 45 (1964): 220-226.
+tional Journal Psycho-Analysis 45 (1964): 220-226.
 
 Strunk, William Jr., and White, E. B. The Elements of Style (1918). New York:
 
@@ -9101,17 +9101,17 @@ Terman, L., and Tyler, L. "Psychological Sex Differences." In L. Carmichael,
 ed., Manual of Child Psychology. 2nd ed. New York: John Wiley and Sons,
 1954.
 
-Tolstoy, Sophie A. The Diary of Tolsloy's Wife, 1860-1891, trans. Alexander
+Tolstoy, Sophie A. The Diary of Tolstoy Wife, 1860-1891, trans. Alexander
 
 Werth, London: Victor Gollancz, 1928. (Also in M. J. Moffat and C. Painter,
-eds., R~velat;ons. New York: Vintage Books, 1975.)
+eds., R~Revelations;ons. New York: Vintage Books, 1975.)
 
 Vaillant, George E. Adaptation to Life. Boston: Little, Brown, 1977.
 Whiting, Beatrice, and Pope, Carolyn. "A Cross-cultural Analysis of Sex Differ
-ence in the Behavior of Childres Age Three to Eleven." Joumal of Social Psy
+ence in the Behavior of Children Age Three to Eleven." Joumal of Social Psy
 chology 91 (1973): 171-188.
 
-Woolf, Virginia. A Room 0IOne's Own. New York: Harcourt, Brace and World,
+Woolf, Virginia. A Room 0One's Own. New York: Harcourt, Brace and World,
 
 1929.
 
@@ -9196,7 +9196,7 @@ Sharon (rights and responsibilities
 
 study). 99-100
 
-Susan (abonion decision study), 75
+Susan (abortion decision study), 75
 
 General
 Index
@@ -9341,9 +9341,9 @@ dren, 6-7, 11-12, 174; on connection,
 Friendship, 59-60, 154
 
 Games, children's, 9-11, 16, 172
-Gandhi, Mohandras, 103-105, ISS
+Gandhi, Mohandas, 103-105, ISS
 Gilligan, Carol, 66, 100, J08, 166
-Goodneu, 82, 83,84,105,109,132
+Goodenough, 82, 83,84,105,109,132
 
 Haan, Norma, 69, 70
 Heinz's dilemma, 25-3 I, 54-55, 57, 72,
@@ -9394,7 +9394,7 @@ and development, 165
 
 Jacklin, Carol, 41
 Joyce, James, 34-35, 98, 156-158, 163
-Judsment, women and, 17, 66, 95, 100
+Judgment, women and, 17, 66, 95, 100
 Justice: women's sense of, .18; morality
 and, 27, 30, 59, 99, 100, 134; men on,
 50, 73, 167; and hierarchy, 62-63;
@@ -9425,12 +9425,12 @@ Marriage, 173
 May, Robert, 43, 48
 McCarthy, Mary, 156-157, 163, 164
 McClelland, David C., 14, 22, 167-168
-Mead, Georse Herbert, 9, II
+Mead, George Herbert, 9, II
 Memories 0;- a Catholic Girlhood,
 
 156~157, 163, 164
 
-Mtrchant of Venice, The, 105
+Merchant of Venice, The, 105
 Millon the Floss, The, 69, 130-131, 143,
 
 148-149
@@ -9516,7 +9516,7 @@ Rights, ethic of, 19, 21-22, 100, 126,
 and women's moral judgment, 54,57,
 73, 130, 132, 136, 140-142, 147, 148,
 
-Rights and resp~nsibilities study, 3,
+Rights and resp~responsibilities study, 3,
 
 20-21, 25; Alison, 139-140; Amy, 25,
 27-32. 33-39,45, SO-51, 54, 55; Emily,
@@ -9567,7 +9567,7 @@ Survival in abortion decision study,
 114, 126, 127
 
 Tancred and Chlorinda, 13
-Thematic Apperceptjon Test, 14,39-44
+Thematic Apperception Test, 14,39-44
 Tolstoy, Sophie, 124
 Troilus and Cressida, 13
 Truth, 82-83, 84-85, 103-104, 109, 119,

@@ -522,7 +522,7 @@ techniques that were developed to manage sustaining technologies in the very dif
 disruptive ones is an exercise in flapping wings.
 
 Chapter 7 discusses a different approach to strategy and planning that recognizes the law that the right
-markets, and the right strategy for exploiting them, cannot be known in advance. Called discoverybased planning, it suggests that managers assume that forecasts are wrong, rather than right, and that
+markets, and the right strategy for exploiting them, cannot be known in advance. Called discovery-based planning, it suggests that managers assume that forecasts are wrong, rather than right, and that
 the strategy they have chosen to pursue may likewise be wrong. Investing and managing under such
 assumptions drives managers to develop plans for learning what needs to be known, a much more
 effective way to confront disruptive technologies successfully.
@@ -1442,7 +1442,7 @@ products. This nested commercial system is a value network.
 
 .1 A Nested, or Telescoping, System of Product Architecture
 
-Source: Reprinted from Research Policy 24, Clayton M. Chistensen and Richard S. Rosenbloom,
+Source: Reprinted from Research Policy 24, Clayton M. Christensen and Richard S. Rosenbloom,
 "Explaining the Attacker's Advantage: Technological Paradigms, Organizational Dynamics, and the
 Value Network," 233–257, 1995 with kind permission of Elsevier Science—NL, Sara Burgerhartstraat
 25, 1055 KV Amsterdam, The Netherlands.
@@ -1832,7 +1832,7 @@ used too much power to be used in these markets. By 1994, these applications for
 packaged flash chips—"socket flash" in industry parlance—accounted for $1.3 billion in industry
 revenues, having grown from nothing in 1987.
 
-In the early 1990s, the flash makers produced a new product format, called a flash card: credit cardsized devices on which multiple flash chips, linked and governed by controller circuitry, were mounted.
+In the early 1990s, the flash makers produced a new product format, called a flash card: credit card-sized devices on which multiple flash chips, linked and governed by controller circuitry, were mounted.
 The chips on flash cards were controlled by the same control circuitry, SCSI (Small Computer Standard
 Interface, an acronym first used by Apple), as was used in disk drives, meaning that in concept, a flash
 card could be used like a disk drive for mass storage. The flash card market grew from $45 million in
@@ -2000,7 +2000,7 @@ relatively contained within its initial value network. But when the slopes diffe
 are initially performance-competitive only within emerging or commercially remote value networks
 may migrate into other networks, providing a vehicle for innovators in new networks to attack
 established ones. When such an attack occurs, it is because technological progress has diminished the
-relevancce of differences in the rank-ordering of performance attributes across different value
+relevance of differences in the rank-ordering of performance attributes across different value
 networks. For example, the disk drive attributes of size and weight were far more important in the
 desktop computing value network than they were in the mainframe and minicomputer value networks.
 When technological progress in 5.25-inch drives enabled manufacturers to satisfy the attribute
@@ -2178,7 +2178,7 @@ LEADERSHIP IN SUSTAINING TECHNOLOGICAL CHANGE
 From William Smith Otis' invention of the steam shovel in 1837 through the early 1920s, mechanical
 earthmoving equipment was steam-powered. A central boiler sent steam through pipes to small steam
 engines at each point where power was required in the machine. Through a system of pulleys, drums,
-and cables, these engines manipulated frontward-scooping buckets, as illustrated in .1.
+and cables, these engines manipulated forward-scooping buckets, as illustrated in .1.
 Originally, steam shovels were mounted on rails and used to excavate earth in railway and canal
 construction. American excavator manufacturers were tightly clustered in northern Ohio and near
 Milwaukee.
@@ -2532,7 +2532,7 @@ seem to have ignored, however. It was not a problem of knowing about steam power
 access to technology. The problem was that the customers of the sailing ship manufacturers, who were
 transoceanic shippers, could not use steam-powered ships until the turn of the century. To cultivate a
 position in steamship building, the makers of sailing ships would have had to engineer a major strategic
-reorientation into the inland waterway market, because that was the only value network where steampowered vessels were valued throughout most of the 1800s. Hence, it was these firms' reluctance or
+reorientation into the inland waterway market, because that was the only value network where steam-powered vessels were valued throughout most of the 1800s. Hence, it was these firms' reluctance or
 inability to change strategy, rather than their inability to change technology, that lay at the root of their
 failure in the face of steam-powered vessels.
 12. An exception to this is an unusual product introduced by Koehring in 1957: the Skooper combined
@@ -3065,7 +3065,7 @@ merchandise, improves the appearance and standing of his store, attains greater 
 During this process of growth the institution rapidly becomes respectable in the eyes of both
 consumers and investors, but at the same time its capital investment increases and its operating
 costs tend to rise. Then the institution enters the stage of maturity. . . . The maturity phase soon
-tends to be followed by topheaviness . . . and eventual vulnerability. Vulnerability to what?
+tends to be followed by top-heaviness . . . and eventual vulnerability. Vulnerability to what?
 Vulnerability to the next fellow who has a bright idea and who starts his business on a low-cost
 basis, slipping in under the umbrella that the old-line institutions have hoisted.
 
@@ -3085,7 +3085,7 @@ designed to weed out just such proposals as disruptive technologies. An excellen
 dilemma can be found in Roger Martin, "Changing the Mind of the Corporation," Harvard Business
 Review, November–December 1993, 81–94.
 4. Because of slow growth in steel demand in many of the world's markets, fewer large integrated steel
-mills are being built in the 1990s. Those integrated mills that are being built these days are in highgrowth, rapidly developing countries such as Korea, Mexico, and Brazil.
+mills are being built in the 1990s. Those integrated mills that are being built these days are in high growth, rapidly developing countries such as Korea, Mexico, and Brazil.
 5. Professor Thomas Eagar of the Department of Materials Science at the Massachusetts Institute of
 Technology provided these estimates.
 6. "The U.S. Steel Industry: An Historical Overview," Goldman Sachs U.S. Research Report, 1995.
@@ -3512,7 +3512,7 @@ cost structure required to compete profitably in discount retailing was fundamen
 which department stores had developed to compete within their value networks.
 
 The first discount store was Korvette's, which began operating a number of outlets in New York in the
-mid-1950s. Korvette's and its imitators operated at the very low end of retailing's product line, selling
+mid-1950s. Korvette's and its imitators operated at the very low end of retailing product line, selling
 nationally known brands of standard hard goods at 20 to 40 percent below department store prices.
 They focused on products that "sold themselves" because customers already knew how to use them.
 Relying on national brand image to establish the value and quality of their products, these discounters
@@ -3758,7 +3758,7 @@ markets early enough. Because growing companies need to add increasingly large c
 revenue each year just to maintain their desired rate of growth, it becomes less and less possible that
 small markets can be viable as vehicles through which to find these chunks of revenue. As we shall see,
 the most straightforward way of confronting this difficulty is to implant projects aimed at
-commercializing disruptive technologies in organizations small enough to get excited about smallmarket opportunities, and to do so on a regular basis even while the mainstream company is growing.
+commercializing disruptive technologies in organizations small enough to get excited about small market opportunities, and to do so on a regular basis even while the mainstream company is growing.
 
 ARE THE PIONEERS REALLY THE ONES WITH ARROWS IN THEIR BACKS?
 
@@ -3774,7 +3774,7 @@ Leadership in Sustaining Technologies May Not Be Essential
 
 One of the watershed technologies affecting the pace at which disk drive makers have increased the
 recording density of their drives was the thin-film read/write head. We saw in chapter 1 that despite the
-radically different, competence-destroying character of the technology, the $100 million and five-tofifteen year expense of developing it, the firms that led in this technology were the leading, established
+radically different, competence-destroying character of the technology, the $100 million and five-to fifteen year expense of developing it, the firms that led in this technology were the leading, established
 disk drive manufacturers.
 
 Because of the risk involved in the technology's development and its potential importance to the
@@ -3846,7 +3846,7 @@ The entry strategies employed by each of these firms can be characterized along 
 technologies in their initial products and those at the top using one or more new component
 technologies.3 The horizontal axis charts market strategies, with firms at the left having entered already
 established value networks and those at the right having entered emerging value networks.4 Another
-way to characterize this matrix is to note that companies that were agressive at entry in developing and
+way to characterize this matrix is to note that companies that were aggressive at entry in developing and
 adopting sustaining innovations appear in the two top boxes, left and right, while companies that led at
 entry in creating new value networks appear in the two right-hand boxes, top and bottom. The
 companies in the right boxes include all companies that attempted to create new value networks, even
@@ -4072,7 +4072,7 @@ From the beginning of the OEM disk drive industry, product development had proce
 sequential steps. First you designed the drive; then you made it; and then you sold it. We changed all
 that. We first sell the drives; then we design them; and then we build them.14
 
-In other words, Conner set a pattern whereby drives for the portable computer market were customdesigned for major customers. And it refined a set of capabilities in its marketing, engineering, and
+In other words, Conner set a pattern whereby drives for the portable computer market were custom designed for major customers. And it refined a set of capabilities in its marketing, engineering, and
 manufacturing processes that were tailored to that pattern.15 Said another Conner executive, "Seagate
 was never able to figure out how to sell drives in the portable market. They just never got it."16
 
@@ -4402,7 +4402,7 @@ not yet exist.
 
 IDENTIFYING THE MARKET FOR THE HP 1.3-INCH KITTYHAWK DRIVE
 
-Differences in the forecastablity of sustaining versus disruptive technologies profoundly affected
+Differences in the forecastability of sustaining versus disruptive technologies profoundly affected
 Hewlett-Packard's efforts to forge a market for its revolutionary, disruptive 1.3-inch Kittyhawk disk
 drive.1 In 1991, Hewlett-Packard's Disk Memory Division (DMD), based in Boise, Idaho, generated
 about $600 million in disk drive revenues for its $20 billion parent company. That year a group of
@@ -4514,7 +4514,7 @@ small, efficient engines for these bikes. Its Japanese market sales grew from an
 
 Honda's executives were eager to exploit the company's low labor costs to export motorbikes to North
 America, but there was no equivalent market there for its popular Japanese "Supercub" delivery bike.
-Honda's research showed that Americans used motorcyles primarily for over-the-road distance driving
+Honda's research showed that Americans used motorcycles primarily for over-the-road distance driving
 in which size, power, and speed were the most highly valued product attributes. Accordingly, Honda
 engineers designed a fast, powerful motorcycle specifically for the American market, and in 1959
 Honda dispatched three employees to Los Angeles to begin marketing efforts. To save living expenses,
@@ -4905,7 +4905,7 @@ meant not to change—or if they must change, to change through tightly controll
 means that the very mechanisms through which organizations create value are intrinsically inimical to
 change.
 
-Some of the most crucial processes to examine as capabilities or disabilities aren't the obvious valueadding processes involved in logistics, development, manufacturing, and customer service. Rather, they
+Some of the most crucial processes to examine as capabilities or disabilities aren't the obvious value-adding processes involved in logistics, development, manufacturing, and customer service. Rather, they
 are the enabling or background processes that support investment decision-making. As we saw in
 chapter 7, the processes that render good companies incapable of responding to change are often those
 that define how market research is habitually done; how such analysis is translated into financial
@@ -4976,7 +4976,7 @@ of success is, in fact, that as companies become large, they literally lose the 
 emerging markets. This disability is not because of a change in the resources within the companies—
 their resources typically are vast. Rather, it is because their values change.
 
-Executives and Wall Street financiers who engineer megamergers among already huge companies in
+Executives and Wall Street financiers who engineer mega-mergers among already huge companies in
 order to achieve cost savings need to account for the impact of these actions on the resultant
 companies' values. Although their merged organizations might have more resources to throw at
 innovation problems, their commercial organizations tend to lose their appetites for all but the biggest
@@ -5130,7 +5130,7 @@ percent gross margins or more, it's good business. If it generates less than 40 
 worth doing." Management had to ensure that all employees prioritized projects according to this
 criterion, or the company couldn't make money. Because personal computers generated lower margins,
 they did not "fit" with DEC's values. The company's criteria for prioritization placed higherperformance minicomputers ahead of personal computers in the resource allocation process. And any
-attempts that the company made to enter the personal computer business had to target the highestmargin tiers of that market—because the financial results that might be earned in those tiers were the
+attempts that the company made to enter the personal computer business had to target the highest-margin tiers of that market—because the financial results that might be earned in those tiers were the
 only ones that the company's values would tolerate. But because of the patterns noted in chapter 4—the
 strong tendency for competitors with low-overhead business models to migrate up-market—Digital's
 values rendered it incapable of pursuing a winning strategy.
@@ -5563,7 +5563,7 @@ makers continued to pay a hefty premium for 3.5-inch drives. In fact, using the 
 analysis described in chapter 4, the 1986 shadow price for a one-cubic-inch reduction in the volume of
 a disk drive was $4.72. But once the computer makers had configured their new generations of desktop
 machines to use the smaller drive, their demand for even more smallness was satiated. As a result, the
-1989 shadow price, or the price premium accorded to smaller drives, diminished to $0.06 for a onecubic-inch reduction.
+1989 shadow price, or the price premium accorded to smaller drives, diminished to $0.06 for a one-cubic-inch reduction.
 
 Generally, once the performance level demanded of a particular attribute has been achieved, customers
 indicate their satiation by being less willing to pay a premium price for continued improvement in that
@@ -5586,7 +5586,7 @@ price-based competition, with gross margins tumbling below 12 percent in some in
 WHEN DOES A PRODUCT BECOME A COMMODITY?
 
 The process of commoditization of disk drives was defined by the interplay between the trajectories of
-what the market demanded and what the technology supplied. The 5.25-inch drive had become a pricedriven commodity in the desktop market by about 1988, when the 3.5-inch drive was still at a premium
+what the market demanded and what the technology supplied. The 5.25-inch drive had become a price-driven commodity in the desktop market by about 1988, when the 3.5-inch drive was still at a premium
 price. The 5.25-inch drive, in addition, even though priced as a commodity in desktop applications, was
 at the same time, relative to 8-inch drives, achieving substantial price premiums in higher-tier markets.
 As described in chapter 4, this explains the aggressive moves upmarket made by established
@@ -5913,7 +5913,7 @@ example, required 1.2 MB of disk storage capacity in its version 1.2, released i
 released in 1995, required 32 MB of disk storage capacity. Some industry observers believe that if a
 team of developers were to watch typical users, they would find that functionality has substantially
 overshot mainstream market demands. If true, this could create an opportunity for a disruptive
-technology—applets picked off the internet and used in simple internet appliances rather than in fullfunction computers, for example—to invade this market from below.
+technology—applets picked off the internet and used in simple internet appliances rather than in full-function computers, for example—to invade this market from below.
 
 RIGHT AND WRONG STRATEGIES
 
@@ -6631,7 +6631,7 @@ Fifth, in many instances, the information required to make large and decisive in
 disruptive technology simply does not exist. It needs to be created through fast, inexpensive, and
 flexible forays into the market and the product. The risk is very high that any particular idea about the
 product attributes or market applications of a disruptive technology may not prove to be viable. Failure
-and interative learning are, therefore, intrinsic to the search for success with a disruptive technology.
+and iterative learning are, therefore, intrinsic to the search for success with a disruptive technology.
 Successful organizations, which ought not and cannot tolerate failure in sustaining innovations, find it
 difficult simultaneously to tolerate failure in disruptive ones.
 
@@ -6714,7 +6714,7 @@ customers value. They are typically cheaper, smaller, simpler, and frequently mo
 Therefore, they open new markets. Further, because with experience and sufficient investment, the
 developers of disruptive technologies will always improve their products' performance, they eventually
 are able to take over the older markets. This is because they are able to deliver sufficient performance
-on the old attributers, and they add some new ones.
+on the old attributes, and they add some new ones.
 
 The Innovator's Dilemma describes both the processes through which disruptive technologies supplant
 older technologies and the powerful forces within well-managed companies that make them unlikely to
@@ -6731,7 +6731,7 @@ Principles of Disruptive Technology
 1. Companies Depend on Customers and Investors for Resources
 In order to survive, companies must provide customers and investors with the products,
 services, and profits that they require. The highest performing companies, therefore, have welldeveloped systems for killing ideas that their customers don't want. As a result, these
-companies find it very difficult to invest adequate resources in disruptive technologies—lowermargin opportunities that their customers don't want—until their customers want them. And by
+companies find it very difficult to invest adequate resources in disruptive technologies—lower-margin opportunities that their customers don't want—until their customers want them. And by
 then, it is too late.
 
 2. Small Markets Don't Solve the Growth Needs of Large Companies

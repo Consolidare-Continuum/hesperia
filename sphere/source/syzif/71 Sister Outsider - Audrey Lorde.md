@@ -220,7 +220,7 @@ INTRODUCTION 11
 And it [speaking] is never without fear; of visibility, of the harsh
 light of scrutiny and perhaps judgment, of pain, of death. But we
 have lived through all of those already, in silence, except death.
-And I remind myself all the time now, that iflwere to have been
+And I remind myself all the time now, that if I were to have been
 born mute, and had maintained an oath of silence my whole life
 for safety, I would still have suffered, and I would still die. It is
 very good for establishing perspective. 13
@@ -244,7 +244,7 @@ we pay attention to those voices we have been taught to dis
 trust, that we articulate what they teach us, that we act upon
 what we know. Just as she develops themes, reworking and
 building on them over time to create theory, so, too, can we in
-tegrate the material of our lives.
+integrate the material of our lives.
 
 Black woman, lesbian, feminist, mother of two children,
 daughter of Grenadian immigrants, educator, cancer survivor,
@@ -275,11 +275,11 @@ I. "Uses of the Erotic: The Erotic as Power," p. 55.
 9. "An Interview: Audre Lorde and Adrienne Rich," p. 100, and "An Open Letter to
 Mary Daly," p. 68.
 10. "Poetry Is Not a Luxury," p. 38.
-II. "Anlnterview,"p. 109.
-IZ.lbid., pp. 108-109.
+II. "An Interview,"p. 109.
+IZ.Ibid., pp. 108-109.
 13. "The Transformation of Silence into Language and Action," p. 43.
 14. The Cancer Journals, Spinsters, Ink., 1980, p. 25.
-15. "EyetoEye,"p.l47.
+15. "Eye to Eye,"p.l47.
 
 Notes from a Trip to Russia*
 
@@ -336,7 +336,7 @@ how a certain tension in glances between American Black and
 white people is taken for granted. There was no thank you
 either, but there was a kind of simple human response to who I
 was. And then as she turned to sit back down, under her very
-dowdy cardigan I saw on her undersweater at least three
+dowdy cardigan I saw on her undershirt at least three
 military-type medals, complete with chevrons. Hero of the
 Republic medals, I learned later. Earned for hard work.
 
@@ -405,7 +405,7 @@ there was a large ornate richness about the landscape and ar
 chitecture on the outskirts of Moscow, even in its grey winter,
 that seemed to tell me immediately that I was not at home.
 
-I stayed at the Hotel Y ounnost, which is one of the interna
+I stayed at the Hotel Y Younnost, which is one of the interna
 tional hotels in Moscow. The room was a square studio affair
 with Hollywood bed couches, and a huge picture window look
 ing towards the National Stadium, over a railroad bridge, with
@@ -464,7 +464,7 @@ ed to order myself a very delicious dinner of white wine, boiled
 fish soup that was lemon piquant, olive rich, and fresh
 mackerel, delicate, grilled sturgeon with pickled sauce, bread,
 and even a glass of tea. All of this was made possible by great
-tenacity and daring on my part, and the smiling forebearance of
+tenacity and daring on my part, and the smiling forbearance of
 a very helpful waiter who brought out one of the cooks from the
 kitchen to help with the task of deciphering my desires.
 
@@ -600,7 +600,7 @@ answer to that. All hotel rooms cost the same in the Soviet
 Union. Utilities, from my conversation with Helen while we
 were riding the Metro down to send a cable, utilities are very in
 expensive. The gas to cook with costs sixteen kopecs a month
-which is less than one ruble (about $3.00) and the most electrici
+which is less than one ruble (about $3.00) and the most electricity
 ty Helen says that she uses, when she's translating all day long
 
 TRIP TO RussiA 21
@@ -652,7 +652,7 @@ the city had lots of wood and white marble all around broad
 avenues, and bright street lights. The whole town of Tashkent
 had been rebuilt after the 1966 earthquake. We arrived tired and
 hot, to a welcome that would make your heart grow still, then
-sing. Can you imagine 250 of us, weary, cramped, hungry, disori
+sing. Can you imagine 250 of us, weary, cramped, hungry, disoriented
 ented, overtalked, underfed? It is after dark. We step out of the
 plane and there before us are over a hundred people and TV
 cameras, and lights, and two or three hundred little children
@@ -694,14 +694,14 @@ vived the huge earthquake of 1966, and there's the newer part
 which is on the outskirts of old Tashkent. It's very new and very
 modern, rebuilt in a very short time after the earthquake that
 practically totaled the area. It was rebuilt by labor from all over
-the Soviet Union. People came from the Ukraine, from Byelo
+the Soviet Union. People came from the Ukraine, from Belarus
 Russia, from all over, and they rebuilt the city. And there are
 many different styles of architecture in the new part of town
 because every group who came built their own type of building.
 It's almost a memorial to what can be done when a large group
 of people work together. It was one of the things that impressed
 me greatly during my stay in Tashkent. The old part, which is
-really the center ofTashkent, looks very, very much like a town
+really the center of Tashkent, looks very, very much like a town
 in Ghana or Dahomey, say Kumasi or Cotonou. In the daylight
 it looks so much like some parts of West Africa that I could
 scarcely believe it. In fact, if Moscow is New York in another
@@ -750,13 +750,13 @@ delightful.
 
 After two very busy days of meetings in Tashkent, we started
 out at about 7:30 one morning by bus for Samarkand, the
-fabulous city of T amerlane the Great. After a short snooze on
+fabulous city of T Tamerlane the Great. After a short snooze on
 the bus I began to feel a little more human, to look about me
 and the countryside. We're heading southeast from Tashkent,
 and Tashkent was southeast of Moscow. The countryside is
 very beautiful. It feels strange and familiar at the same time.
 This is cotton country. Miles and miles of it, and trainloads of
-students were coming south from Moscow on a two-week vaca
+students were coming south from Moscow on a two-week vacation
 tion to party and pick cotton. There was a holiday atmosphere
 all around. We passed through small villages where I could see
 little markets with women sitting cross-ankled on the bare earth
@@ -843,7 +843,7 @@ said, "She lives better than I do," and in some ways she did. The
 collective farm in Gulstan, called the Leningrad Collective, is
 one of the wealthiest collectives in the area. I will never know
 the name of the very kind young woman who opened her home
-to me, but I also will not forget her. She offered me the hospitali
+to me, but I also will not forget her. She offered me the hospitality
 ty of her house, and even though we did not speak the same
 language, I felt that she was a woman like myself, wishing that
 all of our children could live in peace upon their own earth,
@@ -996,7 +996,7 @@ right woman, excellently in charge of her facts, with a great deal
 ---------------------------------------
 
 of presence, and I returned from my meeting with her almost
-overwhelmed and over-graped.
+overwhelmed and over-overwhelmed.
 
 The grapes in Uzbekistan are incredible 'fruit. They seem to
 have a life of their own. They're called "the bridesmaid's little
@@ -1186,7 +1186,7 @@ egalitarian society. But bread does cost a few kopecs a loaf and
 everybody I saw seemed to have enough of it. Of course, I did
 not see Siberia, nor a prison camp, nor a mental hospital. But
 that fact, in a world where most people - certainly most Black
-people - are on a breadconcern level, seems to me to be quite a
+people - are on a bread concern level, seems to me to be quite a
 lot. If you conquer the bread problem, that gives you at least a
 chance to look around at the others.
 
@@ -1215,11 +1215,11 @@ But you do have a country there that has the largest reading
 population in the world, that prints books of poetry in editions
 of 250,000 copies and those copies sell out in three months.
 Everywhere you go, even among those miles of cotton being
-harvested in the Uzbekhi sun, people are reading, and no mat
+harvested in the Uzbeki sun, people are reading, and no mat
 ter what you may say about censorship, they are still reading,
 and they're reading an awful lot. Some books are pirated from
 the West because Russia does not observe International
-Copyright. In Samarkhand, Ernest Gaines' The Autobiography of
+Copyright. In Samarkand, Ernest Gaines' The Autobiography of
 Miss Jane Pittman was the latest best seller. Now, how many
 Russian novels in translation have you read this past year?
 
@@ -1314,7 +1314,7 @@ are expected to live, only to have that beachhead assaulted or
 threatened by those canards we have been socialized to fear, or
 by the withdrawal of those approvals that we have been warned
 to seek for safety. Women see ourselves diminished or softened
-by the falsely benign accusations of childishness, of nonuniver
+by the falsely benign accusations of childishness, of nonuniversality
 sality, of changeability, of sensuality. And who asks the ques
 tion: Am I altering your aura, your ideas, your dreams, or am I
 merely moving you to temporary and reactive action? And even
@@ -1452,7 +1452,7 @@ to say? What are the tyrannies you swallow day by day and at
 tempt to make your own, until you will sicken and die of them,
 still in silence? Perhaps for some of you here today, I am the face
 of one of your fears. Because I am woman, because I am Black,
-because I am lesbiin, because I am myself - a Black woman
+because I am lesbian, because I am myself - a Black woman
 
 4 2 SISTER OUTSIDER
 
@@ -1654,7 +1654,7 @@ emotionally, are not the enemies of Black men. Too frequently,
 however, some Black men attempt to rule by fear those Black
 women who are more ally than enemy. These tactics are ex
 pressed as threats of emotional rejection: "Their poetry wasn't
-too bad but I couldn't take all those lezzies." The Black man say
+too bad but I couldn't take all those lesbians." The Black man say
 ing this is code-warning every Black woman present interested
 in a relationship with a man - and most Black women are -
 that (1) if she wishes to have her work considered by him she
@@ -1671,7 +1671,7 @@ where Black women sought to come together around women's
 concerns. Phone calls threatening violence were made to those
 Black women who dared to explore the possibilities of a feminist
 connection with non-Black women. Some of these women, in
-timidated by threats and the withdrawal of Black male ap
+intimidated by threats and the withdrawal of Black male ap
 proval, did turn against their sisters. When threats did not pre
 vent the attempted coalition of feminists, the resulting campus
 wide hysteria left some Black women beaten and raped.
@@ -1721,7 +1721,7 @@ lems of promotion and tenure are not to be considered impor
 tant since they are only "taking jobs away from Black men."
 Here again, energy is being wasted on fighting each other over
 the pitifully few crumbs allowed us rather than being used, in a
-joining of forces, to fight for a more realistic ratio of Black facul
+joining of forces, to fight for a more realistic ratio of Black faculty
 ty. The latter would be a vertical battle against racist policies of
 the academic structure itself, one which could result in real
 power and change. It is the structure at the top which desires
@@ -1769,7 +1769,7 @@ look at the more promising power wielded by the West African
 Market Women Associations of today, and those governments
 which have risen and fallen at their pleasure.
 
-In a retelling of her life, a ninety-two-year-old Efik-lbibio
+In a retelling of her life, a ninety-two-year-old Efik-Ibibio
 
 woman of Nigeria recalls her love for another woman:
 
@@ -1821,7 +1821,7 @@ woman who will not fear nor suffer terrible retribution from the
 *Iris Andreski, Old Wives Tales: Life-Stories of African Women (Schocken Books, New
 York, 1970), p. 131.
 ** Melville Herskovits, Dahomey, 2 vols. (Northwestern University Press, Evanston, Il
-linois, 1967), 1:320-322.
+Illinois, 1967), 1:320-322.
 
 ScRATCHING THE SuRFACE 51
 
@@ -1868,7 +1868,7 @@ whole sex. This position supposes that if we do not eradicate les,
 
 52 SISTER OuTSIDER
 
-bianism in the Black community, all Black women will become
+lesbianism in the Black community, all Black women will become
 lesbians. It also supposes that lesbians do not have children.
 Both suppositions are patently false.
 
@@ -1975,7 +1975,7 @@ tion only of what we do; it is a question of how acutely and fully
 we can feel in the doing. Once we know the extent to which we
 are capable of feeling that sense of satisfaction and completion,
 
-UsEs OF THE Eaonc 55
+UsEs OF THE Eros 55
 
 we can then observe which of our various life endeavors bring
 us closest to that fullness.
@@ -2001,7 +2001,7 @@ the principal horror of such a
 system is that it robs our work of its erotic value, its erotic power
 and life appeal and fulfillment. Such a system reduces work to a
 travesty of necessities, a duty by which we earn bread or obli
-vion for ourselves and those we love. But this is tantamount to
+oblivion for ourselves and those we love. But this is tantamount to
 blinding a painter and then telling her to improve her work,
 and to enjoy the act of painting. It is not only next to impossi
 ble, it is also profoundly cruel.
@@ -2100,7 +2100,7 @@ then we would pinch the little pellet to break it inside the bag,
 releasing the rich yellowness into the soft pale mass of
 margarine. Then taking it carefully between our fingers, we
 would knead it gently back and forth, over and over, until the
-color had spread throughout the whole pound bag of marga
+color had spread throughout the whole pound bag of margarine
 rine, thoroughly coloring it.
 
 I find the erotic such a kernel within myself. When released
@@ -2194,7 +2194,7 @@ tradition. I know it was not available to me when I was trying to
 adapt my consciousness to this mode of living and sensation.
 
 Only now, I find more and more women-identified women
-brave enough to risk sharing the erotic's electrical charge
+brave enough to risk sharing the erotic electrical charge
 without having to look away, and without distorting the enor
 mously powerful and creative nature of that exchange.
 Recognizing the power of the erotic within our lives can give us
@@ -2260,7 +2260,7 @@ our brothers.
 Into what theoretical analysis would Staples fit Patricia
 Cowan? She answered an ad in Detroit for a Black actress to
 audition in a play called Hammer. As she acted out an argument
-scene, watched by the playwright's brother and her four-year
+scene, watched by the playwright brother and her four-year
 old son, the Black male playwright picked up a sledgehammer
 and bludgeoned her to death. Will Staples' "compassion for
 misguided black men" bring this young mother back, or make
@@ -2379,7 +2379,7 @@ choices, and those choices are becomingly increasingly self
 assertive and female-oriented.
 
 * "The Myth of the Black Matriarchy" by Robert Staples in The Black Scholar, val. 1, no.
-3-4 Qanuary-February 1970).
+3-4 January-February 1970).
 
 64 SISTER OuTSIDER
 
@@ -2465,7 +2465,7 @@ The following letter was written to Mary Daly, author of
 Gyn/Ecology,* on May 6, 1979. Four months later, having re
 ceived no reply, I open it to the community of women.
 
-0EARMARY,
+0DEAR MARY,
 
 With a moment of space in this wild and bloody spring,** I
 want to speak the words I have had in mind for you. I had
@@ -2644,7 +2644,7 @@ have so completely un-recognized me, perhaps I have been in er
 ror concerning you and no longer recognize you.
 
 I feel you do celebrate differences between white women as a
-creative force toward change, rather than a reason for misun
+creative force toward change, rather than a reason for misunderstanding
 derstanding and separation. But you fail to recognize that, as
 women, those differences expose all women to various forms.
 and degrees of patriarchal oppression, some of which we share
@@ -2694,7 +2694,7 @@ have learned from you.
 This letter is in repayment.
 
 In the hands of Afrekete,
-Audrelorde
+Audre Lorde
 
 Man Child: A Black
 Lesbian Feminist's
@@ -2855,7 +2855,7 @@ did not like to fight. He did not like to stone dogs. And all this
 marked him early on as an easy target.
 
 When he came in crying one afternoon, I heard from Beth
-how the corner bullies were making Johathan wipe their shoes
+how the corner bullies were making Jonathan wipe their shoes
 on the way home whenever Beth wasn't there to fight them off.
 And when I heard that the ringleader was a little boy in
 Jonathan's class his own size, an interesting and very disturbing
@@ -2905,7 +2905,7 @@ this
 meant that he must either surpass or be lacking. I could see the
 implications of this line of thought. Consider the two western
 classic myth/models of mother/son relationships: Jocasta/Oed
-ipus, the son who fucks his mother, and Clytemnestra/Orestes,
+Oedipus, the son who fucks his mother, and Clytemnestra/Orestes,
 the son who kills his mother.
 It all felt connected to me.
 I sat down on the hallway steps and took Jonathan on my lap
@@ -3041,7 +3041,7 @@ to his human sensitivity.
 Jonathan has had the advantage of growing up within a
 nonsexist relationship, one in which this society's pseudo
 natural assumptions of ruler/ruled are being challenged. And
-this is not only because Frances and I are lesbians, for unfor
+this is not only because Frances and I are lesbians, for unfortunately
 tunately there are some lesbians who are still locked into patri
 archal patterns of unequal power relationships.
 
@@ -3208,7 +3208,7 @@ different ways - perceived, puzzled out, acquired information
 84 SISTER OuTsiDER
 
 verbally. I had such a hard time. I never studied; !literally in
-tuited all my teachers. That's why it was so important to get a
+intuited all my teachers. That's why it was so important to get a
 teacher who I liked because I never studied, I never read my
 assignment, and I would get all this stuff - what they felt, what
 they knew - but I missed a lot of other stuff, a lot of my own
@@ -3253,7 +3253,7 @@ time I was in Mexico. And poetry was the thing I had with
 words, that was so important ... And on that hill, I had the
 first intimation that I could bring those two together. I could in-
 
-AuoRE LoRoE I ADRIENNE RxcH 85
+AuoRE LoRoE I ADRIENNE Rich 85
 
 fuse words directly with what I was feeling. I didn't have to
 create the world I wrote about. I realized that words could tell.
@@ -3628,7 +3628,7 @@ had before in terms of working. But from the time I went to
 Tougaloo and did that workshop, I knew: not only, yes, I am a
 poet, but also, this is the kind of work I'm going to do.
 
-Practically all the poems in Cables to Rage* I wrote in Touga
+Practically all the poems in Cables to Rage* I wrote in Tougaloo
 loo. I was there for six weeks. I came back knowing that my rela
 tionship with Ed was not enough: either we were going to
 * Cables to Rage (Paul Breman, Heritage Series, London, 1970).
@@ -3854,7 +3854,7 @@ registered for it. And literally, I used to be terrified about the
 guns.
 
 Adrienne: They were wearing guns?
-Audre: Yes. And since open admissions made college accessi
+Audre: Yes. And since open admissions made college accessible
 ble to all high school graduates, we had cops and kids off the
 block in the same class. In 1970, the Black Panthers were being
 murdered in Chicago. Here we had Black and white cops, and
@@ -4032,8 +4032,8 @@ we learn the lessons of the Black mother in each of us, whether
 we are Black or not . . . I believe this power exists in men also
 but they choose not to deal with it; which is, as I learned, their
 right. Hopefully this choice can be affected, but I don't know. I
-don't believe this shift from conquering problems to experienc
-ing life is a one-generational shof or a single investment. I
+don't believe this shift from conquering problems to experiencing
+ing life is a one-generational shift or a single investment. I
 believe it's a whole signature which you try to set in motion and
 have some input into. But I'm not saying that women don't
 think or analyze. Or that white does not feel. I'm saying that we
@@ -4047,7 +4047,7 @@ Audre: Sinister, smelly, erotic, confused, upsetting ...
 102 SISTER OuTSIDER
 
 Adrienne: I think we have to keep using and affirming a
-vocabulary that has been used negatively and perjoratively.
+vocabulary that has been used negatively and pejoratively.
 And I assume that's the statement you're making in that
 sentence, that you make over and over in your poetry. And it's
 nothing as simplistic as saying "Black is beautiful," either.
@@ -4109,7 +4109,7 @@ Audre: There are different choices facing Black and white
 women in life, certain specifically different pitfalls surrounding
 us because of our experiences, our color. Not only are some of
 the problems that face us dissimilar, but some of the en
-_trapments and the weapons used to neutralize us are not the
+_entrapments and the weapons used to neutralize us are not the
 same.
 
 Adrienne: I wish we could explore this more, about you and
@@ -4231,11 +4231,11 @@ for me. But I don't want to deny them. I know I can't afford to. I
 may have to take a long hard look and say, "Is this something I
 can use? What do I do with this?" I have to try to stand back and
 
-*The Black Unicom(W.W. Norton and Company, New York, 1978).
+*The Black Unicorn(W.W. Norton and Company, New York, 1978).
 
 106 SISTER OuTSIDER
 
-not become immersed in what you so forcefully are pronounc,
+not become immersed in what you so forcefully are pronouncing,
 ing. So there's a piece of me that wants to resist wholly, and a
 piece that wants to accept wholly, and there's some place in be,
 tween where I have to find my own ground. What I can't afford
@@ -4280,7 +4280,7 @@ that poem and you were full of it.
 **"Scratching the Surface: Some Notes on Barriers to Women and Loving," seep. 45.
 *** The Black Unicorn, pp. 108-110.
 
-AuoRE LaRoE/ ADRIENNE RICH 107
+AuoRE Lorde/ ADRIENNE RICH 107
 
 Audre: I was driving in the car and heard the news on the
 radio that the cop had been acquitted. I was really sickened
@@ -4292,7 +4292,7 @@ I was just writing, and that poem came out
 without craft. That's probably why I was talking to you about it
 because I didn't feel it was really a poem. I was thinking that the
 killer had been a student at John Jay and that I might have seen
-him in the hall, that I might see him again. What was retribu
+him in the hall, that I might see him again. What was retribution
 tion? What could have been done? There was one Black woman
 on the jury. It could have been me. Now I am here teaching in
 John Jay College. Do I kill him? What is my effective role?
@@ -4378,7 +4378,7 @@ If not now, eventually, this was something I would have to face.
 If not cancer, then somehow, I would have to examine the terms
 and means as well as the whys of my survival - and in the face
 of alteration. So much of the work I did, I did before I knew con
-sciously that I had cancer. Questions of death and dying, deal
+consciously that I had cancer. Questions of death and dying, deal
 ing with power and strength, the sense of "What am I paying
 for?" that I wrote about in that paper, were crucial to me a year
 later. "Uses of the Erotic" was written four weeks before I found
@@ -4495,7 +4495,7 @@ As women, we have been taught either to ignore our dif
 ferences, or to view them as causes for separation and suspicion
 rather than as forces for change. Without community there is
 no liberation, only the most vulnerable and temporary ar
-mistice between an individual and her oppression. But com
+armistice between an individual and her oppression. But com
 munity must not mean a shedding of our differences, nor the
 pathetic pretense that these differences do not exist.
 
@@ -4717,7 +4717,7 @@ pass on what we have learned, or because we are unable to
 listen. For instance, how many times has this all been said
 before? For another, who would have believed that once again
 our daughters are allowing their bodies to be hampered and
-purgatoried by girdles and high heels and hobble skirts?
+purgatories by girdles and high heels and hobble skirts?
 
 Ignoring the differences of race between women and the im
 plications of those differences presents the most serious threat to
@@ -4739,7 +4739,7 @@ that they are too difficult to understand, or that classes cannot
 women of otherwise quite clear intelligence, women who seem
 to have no trouble at all teaching and reviewing work that
 comes out of the vastly different experiences of Shakespeare,
-Moliere, Dostoyefsky, and Aristophanes. Surely there must be
+Moliere, Dostoevsky, and Aristophanes. Surely there must be
 some other explanation.
 
 This is a very complex question, but I believe one of the
@@ -4753,7 +4753,7 @@ women's literature effectively requires that we be seen as whole
 people in our actual complexities - as individuals, as women, as
 rather than as one of those problematic but familiar
 human -
-stereotypes provided in this society in place of genunine images
+stereotypes provided in this society in place of genuine images
 of Black women. And I believe this holds true for the literatures
 of other women of Color who are not Black.
 
@@ -4795,7 +4795,7 @@ visible reality that makes that quite clear. For white women
 AGE, RAcE, CLAss, AND SEx 119
 
 there is a wider range of pretended choices and rewards for iden
-tifying with patriarchal power and its tools.
+identifying with patriarchal power and its tools.
 
 Today, with the defeat of ERA, the tightening economy, and
 increased conservatism, it is easier once again for white women
@@ -4850,10 +4850,10 @@ these woman-hating acts are rarely discussed as crimes against
 Black women.
 
 As a group, women of Color are the lowest paid wage earners
-in america. We are the primary targets of abortion and steriliza
+in america. We are the primary targets of abortion and sterilization
 tion abuse, here and abroad. In certain parts of Africa, small
 girls are still being sewed shut between their legs to keep them
-docile and for men's pleasure. This is known as female circumci
+docile and for men's pleasure. This is known as female circumcision
 sion, and it is not a cultural affair as the late Jomo Kenyatta in
 sisted, it is a crime against Black women.
 
@@ -4905,7 +4905,7 @@ self-hate which all women have to fight against, taught us from
 birth.
 
 Although elements of these attitudes exist for all women,
-there are particular resonances of heterosexism and homopho
+there are particular resonances of heterosexism and homophobia
 bia among Black women. Despite the fact that woman-bonding
 has a long and honorable history in the African and African
 american communities, and despite the knowledge and ac
@@ -4983,7 +4983,7 @@ new patterns of relating across difference. The old definitions
 have not served us, nor the earth that supports us. The old pat
 terns, no matter how cleverly rearranged to imitate progress,
 still condemn us to cosmetically altered repetitions of the same
-old exchanges, the same old guilt, hatred, recrimination, lamen
+old exchanges, the same old guilt, hatred, recrimination, lamentation
 tation, and suspicion.
 
 For we have, built into all of us, old blueprints of expectation
@@ -5069,7 +5069,7 @@ ner that keeps her from hearing, or the threat of a message that
 her life may change?
 
 • The Women's Studies Program of a southern university in
-vites a Black woman to read following a week-long forum on
+invites a Black woman to read following a week-long forum on
 Black and white women. "What has this week given to you?" I
 ask. The most vocal white woman says, "I think I've gotten a lot.
 I feel Black women really understand me a lot better now; they
@@ -5104,7 +5104,7 @@ and Company, New York, 1978), pp. 105-108.
 
 126 SISTER OuTSIDER
 
-guing or neutral. You avoid the childhood assumptions formed
+arguing or neutral. You avoid the childhood assumptions formed
 by the raucous laughter at Rastus and Alfalfa, the acute message
 of your mommy's handerkerchief spread upon the park bench
 because I had just been sitting there, the indelible and
@@ -5146,7 +5146,7 @@ possible for many women of Color -
 to par-
 Brown, of Black Women for Wages for Housework -
 
-* This Bridge Called My Back: Writings by Radical Women of Color edited by Cherrle
+* This Bridge Called My Back: Writings by Radical Women of Color edited by Cherríe
 Moraga and Gloria Anzaldua (Kitchen Table: Women of Color Press, New York, 1984),
 first published in 198 L
 
@@ -5218,7 +5218,7 @@ vacuum. We operate in the teeth of a system for which racism
 and sexism are primary, established, and necessary props of pro
 fit. Women responding to racism is a topic so dangerous that
 when the local media attempt to discredit this conference they
-choose to focus upon the provision oflesbian housing as a diver
+choose to focus upon the provision of lesbian housing as a diver
 sionary device - as if the Hartford Courant dare not mention
 the topic chosen for discussion here, racism, lest it become ap
 parent that women are in fact attempting to examine and to
@@ -5346,7 +5346,7 @@ insight, saying we will accept only the designs already known,
 deadly and safely familiar. I have tried to learn my anger's
 usefulness to me, as well as its limitations.
 
-For women raised to fear, too often anger threatens annihila#
+For women raised to fear, too often anger threatens annihilation#
 tion. In the male construct of brute force, we were taught that
 our lives depended upon the good will of patriarchal power. The
 anger of others was to be avoided at all costs because there was
@@ -5368,7 +5368,7 @@ to my living only when it remained unspoken, useless to
 anyone. It has also served me in classrooms without light or
 learning, where the work and history of Black women was less
 than a vapor. It has served me as fire in the ice zone of uncom#
-prehending eyes of white women who see in my experience and
+comprehending eyes of white women who see in my experience and
 the experience of my people only new reasons for fear or guilt.
 And my anger is no excuse for not dealing with your blindness,
 no reason to withdraw from the results of your own actions.
@@ -5483,11 +5483,11 @@ February 1965 I was raising two children and a husband in a
 three-room flat on 149th Street in Harlem. I had read about
 Malcolm X and the Black Muslims. I became more interested in
 Malcolm X after he left the Nation of Islam, when he was si
-lenced by Elijah Muhammad for his comment, after Kennedy's
+silenced by Elijah Muhammad for his comment, after Kennedy's
 assassination, to the effect that the chickens had come home to
 roost. Before this I had not given much thought to the Nation
 of Islam because of their attitude toward women as well as
-because of their nonactivist stance. I'd read Malcolm's autobi
+because of their nonactivist stance. I'd read Malcolm's autobiography
 ography, and I liked his style, and I thought he looked a lot like
 my father's people, but I was one of the ones who didn't really
 hear Malcolm's voice until it was amplified by death.
@@ -5544,7 +5544,7 @@ selves. Through examining the combination of our triumphs
 and errors, we can examine the dangers of an incomplete vision.
 Not to condemn that vision but to alter it, construct templates
 for possible futures, and focus our rage for change upon our
-enemies rather than upon each other. In the 1960s, the awak
+enemies rather than upon each other. In the 1960s, the awakened
 ened anger of the Black community was often expressed, not
 vertically against the corruption of power and true sources of
 
@@ -5706,14 +5706,14 @@ is all about - survival and growth.
 
 Within each one of us there is some piece of humanness that
 knows we are not being served by the machine which or
-chestrates crisis after crisis and is grinding all our futures into
+orchestrates crisis after crisis and is grinding all our futures into
 dust. If we are to keep the enormity of the forces aligned against
 us from establishing a false hierarchy of oppression, we must
 school ourselves to recognize that any attack against Blacks, any
 attack against women, is an attack against all of us who
 recognize that our interests are not being served by the systems
 we support. Each one of us here is a link in the connection be
-tween antipoor legislation, gay shootings, the burning of
+tween antipoverty legislation, gay shootings, the burning of
 synagogues, street harassment, attacks against women, and
 resurgent violence against Black people. I ask myself as well as
 each one of you, exactly what alteration in the particular fabric
@@ -5752,7 +5752,7 @@ filled with supposed concern for human rights in white com
 munist Poland while we sanction by acceptance and military
 supply the systematic genocide of apartheid in South Africa, of
 murder and torture in Haiti and El Salvador. American ad
-visory teams bolster repressive governments across Central and
+advisory teams bolster repressive governments across Central and
 South America, and in Haiti, while advisory is only a code name
 preceding military aid.
 
@@ -5820,7 +5820,7 @@ means actively working for change, sometimes in the absence of
 
 14 2 SxsTER OuTSIDER
 
-any surety that change is coming. It means doing the unroman
+any surety that change is coming. It means doing the unromantic
 tic and tedious work necessary to forge meaningful coalitions,
 and it means recognizing which coalitions are possible and
 which coalitions are not. It means knowing that coalition, like
@@ -5853,7 +5853,7 @@ the despair oppression plants within each of us -
 that thin per
 sistent voice that says our efforts are useless, it will never
 change, so why bother, accept it. And we must fight that in
-serted piece of self-destruction that lives and flourishes like a
+inserted piece of self-destruction that lives and flourishes like a
 poison inside of us, unexamined until it makes us turn upon
 ourselves in each other. But we can put our finger down upon
 that loathing buried deep within each one of us and see who it
@@ -5929,7 +5929,7 @@ We are Black women who seek our own definitions, recognizing
 diversity among ourselves with respect. We have been around
 within our communities for a very long time, and we have
 played pivotal parts in the survival of those communities: from
-Hat Shep Sut through HarrietT ubman to Daisy Bates and Fan
+Hat Shep Sut through HarrietT Tubman to Daisy Bates and Fan
 nie Lou Hamer to Lorraine Hansberry to your Aunt Maydine
 to some of you who sit before me now.
 
@@ -6191,7 +6191,7 @@ What other creature in the world besides the Black woman has
 had to build the knowledge of so much hatred into her survival
 and keep going?
 
-It is shortly after the Civil War. In a greystone hospital on llOth
+It is shortly after the Civil War. In a greystone hospital on 110th
 Street in New York City a woman is screaming. She is Black,
 and healthy, and has been brought here from the South. I do
 not know her name. Her baby is ready to be born. But her legs
@@ -6571,7 +6571,7 @@ ed into two kinds of people," she said, "those who have mothers
 and those who don't. And I don't have a mother anymore."
 What I heard her saying was that no other Black woman would
 ever see who she was, ever trust or be trusted by her again. I
-heard in her cry ofloneliness the source of the romance between
+heard in her cry of loneliness the source of the romance between
 Black women and our mommas.
 
 * From The I Ching.
@@ -6658,7 +6658,7 @@ away with your dirty ugly mean faces, all screwed up all the
 time!
 
 • The racist filmstrip artist who I thought I had handled so pa~
-tiently and well. I didn't blow up his damned machine. I ex~
+patiently and well. I didn't blow up his damned machine. I ex~
 plained how his racial blindness made me feel and how his film
 could be altered to have some meaning. He probably learned
 something about showing Black images. Then I came home and
@@ -6778,7 +6778,7 @@ down or becoming less efficient, and it creeps into my most
 crucial interchanges.
 
 Perhaps this is why it is often easier for Black women to in
-teract with white women, even though those interactions are
+interact with white women, even though those interactions are
 often a dead end emotionally. For with white women there is a
 middle depth of interaction possible and sustainable, an emo
 tional limit to relationships of self upon self acknowledged.
@@ -6786,7 +6786,7 @@ tional limit to relationships of self upon self acknowledged.
 Now why is this not so with Frances, who is white, and whom
 I meet at a depth beyond anyone? When I speak of Frances and
 me I am talking about a relationship not only of great depth but
-one of great breadth also, a totaling of differences without merg
+one of great breadth also, a totaling of differences without merging
 ing. I am also speaking of a love shaped by our mutual commit
 ment to hard work and confrontation over many years, each of
 us refusing to settle for what was easy, or simple, or acceptably
@@ -6836,11 +6836,11 @@ How often have I demanded from another Black woman what I
 had not dared to give myself - acceptance, faith, enough space to
 consider change? How often have I asked her to leap across dif
 ference, suspicion, distrust, old pain? How many times have I ex
-pected her to jump the hideous gaps of our learned despisals
+pected her to jump the hideous gaps of our learned despises
 alone, like an animal trained through blindness to ignore the
 precipice? How many times have I forgotten to ask this question?
 Am I not reaching out for you in the only language I know?
-Are you reaching for me in your only salvaged tongue? Ifltry to
+Are you reaching for me in your only salvaged tongue? If I try to
 hear yours across our differences does/will that mean you can
 hear mine?
 
@@ -6848,7 +6848,7 @@ Do we explore these questions or do we settle for that secret
 isolation which is the learned tolerance of deprivation of each
 other -
 that longing for each other's laughter, dark ease, shar
-ing, and permissioh to be ourselves that we do not admit to feel
+ing, and permission to be ourselves that we do not admit to feel
 ing, usually, because then we would have to admit the lack; and
 the pain of that lacking, persistent as a low-grade fever and as
 debilitating?
@@ -7027,7 +7027,7 @@ our need of it, even when that like is the only thin line between
 dying and living.
 
 For if I take the white world's estimation of me as Black-wom
-an-synonymo~s-with-garbage to heart, then deep down inside
+an-synonymous~s-with-garbage to heart, then deep down inside
 myself I will always believe that I am truly good for nothing. But
 it is very hard to look absorbed hatred in the face. It is easier to
 see you as good for nothing because you are like me. So when
@@ -7053,7 +7053,7 @@ are not THEIR image of perfection, and you can't ever be
 because you are a Black woman, then you are a reflection upon
 me. We are never good enough for each other. All your faults
 become magnified reflections of my own threatening inade
-quacies. I must attack you first before our enemies confuse us
+inadequacies. I must attack you first before our enemies confuse us
 with each other. But they will anyway.
 
 Oh mother, why were we armed to fight with cloud-wreathed
@@ -7097,7 +7097,7 @@ become strong, the best, excel in everything, become the very
 best because I don't dare to be anything else. It is my only
 chance to become good enough to become human.
 
-lflam myself, then you cannot accept me. But if you can ac
+If I flaunt myself, then you cannot accept me. But if you can ac
 cept me, that means I am what you would like to be, and then
 I'm not "the real thing." But then neither are you. WILL THE
 REAL BLACK WOMAN PLEASE STAND UP?
@@ -7247,7 +7247,7 @@ success, and not misnaming either.
 
 When you come to respect the character of the time you will not
 
-have to cover emptyness with pretense.*
+have to cover emptiness with pretense.*
 
 We must recognize and nurture the creative parts of each
 
@@ -7334,7 +7334,7 @@ from us, the love of Black women for each other. But we can
 practice being gentle with ourselves by being gentle with each
 other. We can practice being gentle with each other by being
 gentle with that piece of ourselves that is hardest to hold, by giv
-ing more to the brave bruised girlchild within each of us, by ex
+ing more to the brave bruised girl child within each of us, by ex
 pecting a little less from her gargantuan efforts to excel. We can
 love her in the light as well as in the darkness, quiet her frenzy
 toward perfection and encourage her attentions toward fulfill
@@ -7515,7 +7515,7 @@ peoples of Color in the Caribbean, in Central America, for
 those of us here in the United States.
 
 The ready acceptance by the majority of americans of the
-Grenadian invasion and of the shady U.S. involvemen~ in the
+Grenadian invasion and of the shady U.S. involvement~ in the
 events leading up to the assassination of Prime Minister
 Maurice Bishop both happen in an america whose moral and
 
@@ -7566,7 +7566,7 @@ ment." White South Africa has the highest standard of living of
 GRENADA REVISITED 181
 
 any nation in the world, and SO percent of Black South Africa's
-children die before they are five. A statistic. The infant mortali
+children die before they are five. A statistic. The infant mortality
 ty rate for Black americans is almost twice that of white
 americans -
 in the most highly industrialized country in the
@@ -7670,7 +7670,7 @@ working for and on what side? Their identities have never been
 divulged - a favorite tactic to cover destabilization operatives
 - and their existence attested to only by one line in the back
 pages of the New York Times. So, too, was the assertion by Am~
-bassador to France Evan Galbraith on public TV that the U.S.
+Ambassador to France Evan Galbraith on public TV that the U.S.
 was involved in Grenada "weeks before Bishop's death."16
 
 A West German nurse working in Grenada, Regina Fuchs,
@@ -7695,7 +7695,7 @@ my uniforms were too heavy to be worn comfortably in the
 tropics. They were. 18
 
 Listen to the language that came from the Pentagon, or~
-chestrated by the psychological warfare experts operating in
+orchestrated by the psychological warfare experts operating in
 Grenada.
 
 184 SrsTER OuTSIDER
@@ -7948,7 +7948,7 @@ they have survived colonizations before. I am proud to be of
 stock from the country that mounted the first Black english
 speaking People's Revolution in this hemisphere. Much has
 been terribly lost in Grenada, but not all - not the spirit of the
-people. Forward Ever, Backward Neverz.2 is more than a mere
+people. Forward Ever, Backward Washington.2 is more than a mere
 whistle in the present dark.
 
 Notes
@@ -7978,7 +7978,7 @@ Winter 1984, p. 11.
 14. Ibid., p. 5.
 15. S. Taylor, New York Times, November 6,1983, p. 20.
 16. Ibid.
-17. Washingwn Post, November 21,1983.
+17. Canouan Post, November 21,1983.
 18. CBS Evening News, December 18, 1983.
 19. The London Guardian, November 4, 1983.
 20. Grenada- The Peaceful Revolution, p. 87.
@@ -7999,13 +7999,13 @@ mythography,'' the form that she created in Zami: A
 New Spelling of My Name (I 982).
 
 Zami combines biography, mythology, and history as
-it records Lorde's experiences as a West Jndian in
+it records Lorde's experiences as a West Indian in
 America and the growth of her emotional and sexual
 resonance with women. Zami grows up, goes to high
 school and college in New York City, and looks for
 women like herself. Ultimately she discovers Afrekete,
 a kindred spirit whose passion and will match her own.
-She must Jearn to deal with racism, sexism, and opposi
+She must Learn to deal with racism, sexism, and opposi
 tion to her lesbian identity, but she has the spirit to
 retain her individuality.
 

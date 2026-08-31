@@ -241,7 +241,7 @@ History Museum, and I remember him asking me all kinds of questions.
 Because I had gone on reading books about Africa and animals, I could answer
 a lot of them. This led to him giving me a job as his secretary on an
 extraordinary three-month safari onto the Serengeti Plains to the Olduvai Gorge,
-a place that's very famous today because the Leakey's made some extraordinary
+a place that's very famous today because the Leakeys made some extraordinary
 discoveries of early stone-age humans there. But at that time, it was totally
 unknown because no human remains had been found. Everyday after the hard
 work digging in the hard ground under the hot sun looking for bones, Julian and
@@ -415,12 +415,12 @@ shocked but realized these chimpanzees were very different from the kinds of
 birds and rodents that most people were studying at Cambridge. He taught me
 how to express myself in ways that wouldn't leave me wide open to attacks
 from other scientists. I remember one day I had written on my report for him, a
-chapter in my thesis that Flo had a baby and Fifiwas always sitting close to that
+chapter in my thesis that Flo had a baby and Fifi was always sitting close to that
 baby. When any other youngster came up, Fifi, who was by then about six years
 old, would get absolutely furious and stick her hair out and stamp her feet and
 chase the other youngster away. I had said that "she was jealous," well Robert
 said "you can't say that; you can't prove it." So I said "well I know she was
-jealous, so what shall I say?" He said, "I suggest you say, Fifibehaved in such a
+jealous, so what shall I say?" He said, "I suggest you say, Fifi behaved in such a
 way that had she been human we would say she was jealous." Now that is very
 clever, and that was a lesson that I really took to heart.
 
@@ -601,7 +601,7 @@ TACARE (or "Take Care"). It's a program which began in twelve villages; it's
 now in thirty-three. It was developed to improve the lives of the villages in
 environmentally sustainable ways—ways in which they choose. The program
 concentrates on tree nurseries, on reclaiming sterile over-farmed land so it can
-be reused, it's preventing and controlling soil erosions, it's working particularly
+be reused, it's preventing and controlling soil erosion, it's working particularly
 with groups of women and is lending small-business loans through nine microcredit banks. These programs are aimed at empowering. We are trying to
 
 increase woman's education through scholarships for gifted girls; we provide
@@ -613,7 +613,7 @@ we care about studying chimpanzees when they were hungry? But today they
 understand. They are beginning to allow what looked like dead tree stumps to
 grow again, and in five years some of these fast growing species can reach thirty
 feet again. That's the one hope for the beleaguered Gombe chimpanzees, only
-less than 100 of them remain today. Hopefully, through the leafy corroders
+less than 100 of them remain today. Hopefully, through the leafy corridors
 linking the remnant forests they can once again move out of the park and
 interact and mate with other small remnant populations and increase the gene
 pool, which is desperately needed.
@@ -1032,7 +1032,7 @@ well-developed pattern of trade. Each riverine group dominated a section of the
 Albert Schweitzer in Lambaréné
 
 Ogowe and acted as middlemen for goods passing up or downstream. Each
-group protected its trade monopoly on a segment of the river. The Orungo
+group protected its trade monopoly on a segment of the river. The Orungu
 controlled access to the sea both by force and guile; the Galoa the middle
 segment, and the upper Ogowe by the Eshira, the Mitsogo, and the Bakota who
 were being pressed by the southward migration of the Fang.
@@ -1087,7 +1087,7 @@ only as a preacher, Dr. Schweitzer was known by most of the Gabonese as a
 medical doctor; few knew of his theological or philosophical writings.
 
 In 1924, when Dr. Schweitzer returned to Gabon and rebuilt his mission
-hospital two miles upstream from Nausau's original site on a spot that was
+hospital two miles upstream from Nassau original site on a spot that was
 flatter and would allow for several buildings on the same level, the Galoa were
 becoming active lumber merchants. Lambaréné was and is still the third largest
 city in Gabon.
@@ -1108,7 +1108,7 @@ Today, Lambaréné is no longer inhabited exclusively by Galoa. The city,
 made up of mixed Gabonese groups, is also the most southern point of the Fang,
 the largest of the Gabonese ethnic groups. The Fang have settled most of the
 northern part of the country. In the course of their migration and conquest, the
-Fang would have probably crossed the Ogooue and continued south. However,
+Fang would have probably crossed the Ogooué and continued south. However,
 when they reached the river, the French colonial authorities were just starting to
 control the interior of the country and brought massive migration there under
 their control. A large number of Fang live in Lambaréné today as a result, and
@@ -1177,7 +1177,7 @@ Daily Incidents During Sixteen Years in Equatorial West Africa (New York: Neale,
 
 Chapter Three
 
-1914). For Nassau's observations on the Galoa see Robert H. Nassau, Fetishism in West
+1914). For Nassau observations on the Galoa see Robert H. Nassau, Fetishism in West
 Africa: Forty Years' Observation of Native Customs and Superstitions (New York:
 Scribner's, 1904).
 
@@ -1304,7 +1304,7 @@ In 1954, they held the dedication of the hospital. President Magloire and a
 large entourage attended. In his dedication speech, Larry said:
 
 Without doctors, nurses and personnel dedicated to serving humanity, this
-establishment would fall well short of our dreams. A modern building, wellequipped from a diagnostic and therapeutic point of view does not, properly
+establishment would fall well short of our dreams. A modern building, well-equipped from a diagnostic and therapeutic point of view does not, properly
 speaking, constitute a hospital, even though it could be seen as a useful
 instrument in a beautiful shell . . . Besides buildings, equipment, men and
 women, hospitals require food and medicine administered with patience,
@@ -1708,7 +1708,7 @@ Schweitzer's mind, first of all, we have in his many books ample evidence of his
 apparently limitless capacity for exhaustive detail. One of the more delightful
 ways of seeing this for oneself is to spend an hour or so with his monumental
 two-volume study of J. S. Bach (i.e., the enlarged German version of 1908, the
-basis for the English translation of 1911). Since Schweitzer was a worldrenowned organist, it should come as no surprise that part of his treatment
+basis for the English translation of 1911). Since Schweitzer was a world-renowned organist, it should come as no surprise that part of his treatment
 includes extensive and specific information (in Chapter XIV) on the organ of
 Bach's time, registration, phrasing, tempo, ornamentation, and changes of
 manual.1 But he goes far beyond this to discuss, for example, the distinction
@@ -2984,7 +2984,7 @@ Jane Goodall's work to advance Schweitzer's legacy in the real terms of our
 
 "genetic" communion with—not dominion over—all that creepeth over the
 earth. Steven Best reminds us that Goodall's legacy is one equal to, if not
-greater than Schwietizer's: "Until Jane Goodall's work, the identity of Homo
+greater than Schweitzer: "Until Jane Goodall's work, the identity of Homo
 sapiens still had some security: only we were Homo faber and Homo loquens;
 only we could make tools, use tools, and linguistically interact; only we lived in
 behaviorally complex communities." It would be the most supremely sacred of
@@ -3569,7 +3569,7 @@ matter to the exclusion, until only recently, of the mind. Thus, the language us
 by some scientists can be void of the mind. The language lacks value and
 emotion and is demonstrated today, in which scientists use the phrase "bilateral
 lid suture" of the cat to refer to sewing a cat's eyelids shut, "thermally injured"
-is compared to burned or scalded, and "enculeation and visual deprivation"
+is compared to burned or scalded, and "enucleation and visual deprivation"
 refers to cutting the eyes out of mice. As a result of the scientists' use of
 morally detached and technical language, animal rights activists' fire back with
 emotion laden responses and actions, which usually stem from anger. With this
@@ -3928,7 +3928,7 @@ Grigorash V.V. The Formation of Conscience as Moral Quality of Person
 in the Process of Ethical Education of Senior Pupils. Moscow: 1994.
 Guseva N.A. The Principle of Humanization and his Realization in the
 
-Educational Process in the Modern School. Brjansk: 1994.
+Educational Process in the Modern School. Bryansk: 1994.
 
 Kozlova O.N. Humanism in Education: Socio-Cultural Problems of
 
@@ -4022,9 +4022,9 @@ Christian confessions, the church found itself facing rich and powerful
 competitors. Rejection of ideas of such an influential Protestant as Albert
 Schweitzer by Orthodox priests is a part of the battle for the minds of old.
 
-In E. Balagushkin's research on the revival of paganism in Russia, the ideas
+In E. Balagushkin research on the revival of paganism in Russia, the ideas
 of Albert Schweitzer are mentioned as an important source for different
-branches of new Russian paganism. So, in "The Teacher Ivanov's System,"
+branches of new Russian paganism. So, in "The Teacher Ivanov System,"
 (Sistema Uchitelja Ivanova) there is a thesis that "it is necessary to feel pity for
 all alive and value it." In the "Church of Last Precept," (Sinkreticheskoe
 Hristianstvo Vissariona), Schweitzer's postulate about the Reverence for Life is
@@ -4316,7 +4316,7 @@ Aleksandra Menja. 1999. http://www.philosophy.ru/library/men/otvety.html
 
 Naumova, N.N., Belova, N.I. Al'bert Shvejcer: Ehticheskoe Uchenie I
 Zhiznennuj Podvig. http://www.cl.ru/education/lib/data/r00169.htm (last
-visited Sepr. 10, 2005).
+visited Sep. 10, 2005).
 
 Nikol'skij, A.A. Ehtika Blagogovenija Pered Zhiznju – Protiv Ehstetiki Ubijstva
 / Humanitarnuj Ehkologicheskij Zhurnal. Tom 1. Vypusk 1. 1999.
@@ -5315,7 +5315,7 @@ prematurely each year between 2001 and 2020 because of air pollution. 47
 
 HIV / AIDS Epidemic
 *The number of people living with HIV/AIDS rose to 42 million at the end of 2002. Five
-million people became infected with HIV in 2002, and another 3.1 million died of AIDSrelated causes.
+million people became infected with HIV in 2002, and another 3.1 million died of AIDS-related causes.
 *For the first time, women account for half the people living with HIV/AIDS.
 Heterosexual transmission, particularly in Africa and the Caribbean, is the primary cause
 of infection among women, who are two to four times more likely than men to become
@@ -5498,7 +5498,7 @@ May 2003, 40-41. http://worldwatch.org/pubs/download/EVS301/.
 Worldwatch Institute. May 2003, 34-35 and 56-57.
 http://worldwatch.org/pubs/download/EVS301/.
 58. Environmental Indicators: Ozone Depletion. Environmental Protection Agency.
-July 2004. http://www.epa.gov/ozone/science/indicat/index.html.
+July 2004. http://www.epa.gov/ozone/science/indicators/index.html.
 59. Fukuka-Parr, Sakiko et al. UN Human Development Report 2004, 127.
 60. Vital Signs 2005. Worldwatch Institute. May 2005, 56.
 http://worldwatch.org/press/news/2005/05/12/.
@@ -5735,7 +5735,7 @@ imitate it.
 
 1. SIPRI Yearbook 2005. Oxford University Press, 2005. p307. "$5.1 billion would save
 6 million children." The Nation's Health. September 2005. [online]
-http://www.apha.org/tnh/index.cfm?fa=Adetail&id=1236
+http://www.apha.org/tnh/index.cfm?fa=A detail&id=1236
 2. New York Times. August 30, 2005 ¨Weapons Sales Worldwide Rise to Highest Level
 Since 2000¨
 3. New York Times. August 30, 2005 ¨Weapons Sales Worldwide Rise to Highest Level
@@ -5794,7 +5794,7 @@ overwhelming adulation concerning the life and work of Albert Schweitzer. But
 in order to appreciate the full implications of Schweitzer's legacy, we must also
 take a critical look at his perceived shortcomings. Some of his shortcomings
 may have actually been among his greatest attributes when considered from a
-public health perspective. Schweitzer was criticized for being arrogant, shorttempered and stubborn. His hospital was often characterized as being primitive
+public health perspective. Schweitzer was criticized for being arrogant, short-tempered and stubborn. His hospital was often characterized as being primitive
 and unsanitary, even by the standards of the day. In defense of these criticisms,
 Schweitzer's greatest accomplishment was not in building a hospital but rather
 in creating an African village centered on a functional and successful clinic.6
@@ -5929,12 +5929,12 @@ Chapter Fourteen
 
 9. Cousins, N. 1960. Op. Cit. 117.
 10. Breman, J. D., A. Egan, G. T. Keusch. "The intolerable burden of malaria: A
-new look at the numbers." American Journal of Tropical Medicine and Hygiene 64: ivvii, 2001.
+new look at the numbers." American Journal of Tropical Medicine and Hygiene 64: iv, 2001.
 11. Schweitzer, A. 1933. Op. Cit. 191-196.
 12. Mock, G. 2000. "How much do we consume?" In: World resources, 2000-2001:
 People and ecosystems: The fraying web of life. World Resources Institute. Retrieved
 September 12, 2003 from the World Wide Web:
-http://pubs.wri.org/pubs_pdf.cfm?PubID=3027.
+http://pubs.wri.org/pubs_pdf.cfm?Pub ID=3027.
 13. Schweitzer, A. Peace or atomic war? (New York: Henry Holt, 1958) 45-46.
 14. Sidel, V. W. "Health care in exploited societies." In: The relevance of Albert
 Schweitzer at the dawn of the 21st Century. D. C. Miller and J. Pouilliard, eds., (Lanham,
@@ -6155,7 +6155,7 @@ natural order of living things. In seeking to find a meaningful basis of ethics,
 Schweitzer recognized the inherent limitations of a singular explanatory
 philosophy. Although he favored the Stoics, he considered Platonic and
 Aristotelian orientations somewhat narrow (Brabazon, 2000; Meyer, 2002), did
-not directly address the theologic ethics of Aquinas and assumed an increasingly
+not directly address the theological ethics of Aquinas and assumed an increasingly
 mystical view. Yet, while not overtly ascribing to, or developing a singular
 philosophical or
 to
@@ -6398,7 +6398,7 @@ medical ethics: A phenomenological perspective. In: Khushf G. (ed.) Handbook of
 Bioethics, Dordrecht, Kluwer, 2004, 183-202.
 4. For the sake of this discussion, disease is operationally defined as an abnormal
 change in the function and/or structure of a tissue or physiological system, while illness
-is used to mean the phenomenologic effects of disease (or injury) upon the existential
+is used to mean the phenomenological effects of disease (or injury) upon the existential
 experience of a particular person. That disease and illness exist along a continuum with
 varying degrees of objectivity and subjectivity in explicit to this definition. We note that
 this is but one definition of disease-illness, and that there is a literature rich in dialectic
@@ -6422,9 +6422,9 @@ In this sense, we characterize practice not as a simple repetition of acts but a
 
 beneficence. In relating Schweitzer's Ehrfurcht (i.e.- qua respect) to dignity and
 beneficence, we can see how active (i.e.- doing what is good) and passive (i.e.- not doing
-harm) acts become non-superogatory, and rest upon the moral integrity of the individual
+harm) acts become non-supererogatory, and rest upon the moral integrity of the individual
 to implement.
-7. For further discussion of relativisim offered as a critique of the plausibility of a
+7. For further discussion of relativism offered as a critique of the plausibility of a
 virtue ethics within heterogeneous societies, see Doris (2002).
 8. Schweitzer A. The ethics of reverence for life. Christendom, 1936, 1 (Winter): 231.
 9. Schweitzer A. The Decay and Restoration of Civilization (Part I of Philosophy of
@@ -6808,11 +6808,11 @@ Bähr, Hans Walter, ed. Albert Schweitzer Letters 1905–1965. Translated by
 
 Joachim Neugroschel. New York: Macmillan, 1992.
 
-Brabizon, James. Albert Schweitzer. Second edition. Syracuse: Syracuse
+Brabazon, James. Albert Schweitzer. Second edition. Syracuse: Syracuse
 
 University Press, 2000.
 
-Schweizter, Albert. Memoirs of Childhood and Youth, translated by Kurt Bergel
+Schweitzer, Albert. Memoirs of Childhood and Youth, translated by Kurt Bergel
 
 and Alice R. Bergel, Syracuse: Syracuse University Press, 1997.
 
@@ -7561,7 +7561,7 @@ Translation and Introduction. Garden City, NY: Doubleday Anchor Books,
 1963.
 
 Kant, Immanuel. The Critique of Practical Reason. Translated by Thomas
-Kingsmill Abbot. http://philosophy.eserver.org/kant/critique-of-practicalreaso.txt (Accessed 2 March 2007).
+Kingsmill Abbot. http://philosophy.eserver.org/kant/critique-of-practical reason.txt (Accessed 2 March 2007).
 
 Karpinskaja, .. Biologija I Gumanizm. Filosofija Biologii. Vchera, Segodnja,
 
@@ -7761,7 +7761,7 @@ New York: Doran Co. 1923
 
 —. Decay and the Restoration of Civilization. (The Philosophy of Civilization,
 
-Part One) Translted by C.T Campion. London: A&C Black, 1923.
+Part One) Translated by C.T Campion. London: A&C Black, 1923.
 —. Indian Thought and its Development. Boston: Beacon Press, 1936.
 —. J. S. Bach. Boston: Bruce Humphries Publishers, 1962.
 —. Kultur und Ethik. Munich: C. H. Beck, 1996.

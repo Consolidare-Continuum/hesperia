@@ -860,7 +860,7 @@ GENERAL HISTORICAL ORIENTATION
 
 CHAPTER 1
 
-PRINCIPLES OF PHILOSOPHYP
+PRINCIPLES OF PHILOSOPHY
 
 LESSONS FROM THE HISTORY OF PHILOSOPHY
 
@@ -936,7 +936,7 @@ except that they went much further. Our agnostics contented themselves with
 declaring everything beyond ordinary generalizations of experience to be
 unknowable, while the Sceptics did not think any scientific knowledge of any
 description to be possible. If you turn over the pages, for example, of Cornelius
-Agrippa's book De [incertitudine et] vanitate scientiarum [et artium] [1531], you
+Agrippa's book De [incertitudine et] vanitas scientiarum [et artium] [1531], you
 will find he takes up every science in succession, arithmetic, geometry, mechanics,
 optics, and after examination pronounces each to be altogether beyond the power of
 the human mind. Of course, therefore, as far as they believed in anything at all, the
@@ -1111,8 +1111,8 @@ ages, when the nominalistic school of Ockham -- the most extremely scholastic of
 scholastics -- and next to them the school of Scotus carried to the utmost the doctrines
 of the Parva Logicalia which were the contribution of those ages to this branch of the
 science. And those Parva Logicalia may themselves have had an English origin, for
-the earliest known writer upon the subject -- unless the Synopsis {Aristotelous
-Organou} be attributed to Psellus -- was an Englishman, William Shirwood. . . .†1
+the earliest known writer upon the subject -- unless the Synopsis {Aristotelis
+Organon} be attributed to Psellus -- was an Englishman, William Shirwood. . . .†1
 Peirce: CP 1.30 Cross-Ref:††
 30. The most striking characteristic of medieval thought is the importance
 attributed to authority. It was held that authority and reason were two coördinate
@@ -1126,7 +1126,7 @@ authorities which are supposed to relate to the subject rather than dialectical 
 To this Berengarius replied that St. Augustine in his book De doctrina christiana
 says that what he said concerning an affirmation is bound up indissolubly with that
 very eternity of truth which is God. But added: "Maximi plane cordis est, per omnia
-ad dialecticum confugere, quia confugere ad eam ad rationem est confugere, quo qui
+ad dialectic confugere, quia confugere ad eam ad rationem est confugere, quo qui
 non confugit, cum secundum rationem sit factus ad imaginem Dei, suum honorem
 reliquit, nec potest renovari de die in diem ad imaginem Dei."†2 Next to sacred
 authorities -- the Bible, the church and the fathers -- that of Aristotle of course ranked
@@ -1452,7 +1452,7 @@ is that morality leads to a conservatism which any new view, or even any free in
 no matter how purely speculative, shocks. The whole moral weight of such a
 community will be cast against science. To inquire into nature is for a Turk very
 unbecoming to a good Moslem; just as the family of Tycho Brahe regarded his pursuit
-of astronomy as unbecoming to a nobleman. (See Thomas Nash in Pierce Pennilesse
+of astronomy as unbecoming to a nobleman. (See Thomas Nash in Pierce Penniless
 for the character of a Danish nobleman.)
 Peirce: CP 1.51 Cross-Ref:††
 51. This tendency is necessarily greatly exaggerated in a country when the
@@ -1647,7 +1647,7 @@ Peirce: CP 1.65 Cross-Ref:††
 §10. KINDS OF REASONING †1
 
 65. There are in science three fundamentally different kinds of reasoning,
-Deduction (called by Aristotle {synagögé} or {anagögé}), Induction (Aristotle's and
+Deduction (called by Aristotle {synagögé} or {anagogeögé}), Induction (Aristotle's and
 Plato's {epagögé}) and Retroduction (Aristotle's {apagögé}, but misunderstood
 because of corrupt text, and as misunderstood usually translated abduction).†2
 Besides these three, Analogy (Aristotle's {paradeigma}) combines the characters of
@@ -1868,7 +1868,7 @@ Peirce: CP 1.83 Cross-Ref:††
 use of it is perhaps even more characteristic of mathematical reasoning than is
 generalization. This consists of seizing upon something which has been conceived as
 a {epos pteroen}, a meaning not dwelt upon but through which something else is
-discerned, and converting it into an {epos apteroen}, a meaning upon which we rest
+discerned, and converting it into an {epos apteron}, a meaning upon which we rest
 as the principal subject of discourse. Thus, the mathematician conceives an operation
 as something itself to be operated upon. He conceives the collection of places of a
 moving particle as itself a place which can at one instant be totally occupied by a
@@ -2060,7 +2060,7 @@ Marquis d'O.
 
 1535 1594 Oct. 24
 
-Theocrenes
+Theocritus
 
 1480 1536 Oct. 18
 
@@ -2208,7 +2208,7 @@ modifying our opinion in the effort to make that opinion represent the known fac
 more and more observations came to be collected. This is all the time going on in
 regard, for example, to our estimate of the danger of infection of phthisis. Yet, after
 all, it does not play a prominent part in the evolution of science. The physical journals
--- say, for example, Poggendorff's [Annalen der Physik] and Beiblätter -- publish
+-- say, for example, Poggendorff's [Annalen der Physik] and Beiblätterätter -- publish
 each month a great number of new researches. Each of these is a distinct contribution
 to science. It represents some good, solid, well-trained labor of observation and
 inference. But as modifying what is already known, the average effect of the ordinary
@@ -2484,7 +2484,7 @@ same must be true in philosophy. But of late mathematicians have fully agreed th
 the axioms of geometry (as they are wrongly called) are not by any means evidently
 true. Euclid, be it observed, never pretended they were evident; he does not reckon
 them among his {koinai ennoiai}, or things everybody knows,†P1 but among the
-{aitémata}, postulates, or things the author must beg you to admit, because he is
+{aitéaitémata}, postulates, or things the author must beg you to admit, because he is
 unable to prove them. At any rate, it is now agreed that there is no reason whatever to
 think the sum of the three angles of a triangle precisely equal to 180 degrees. It is
 generally admitted that the evidence is that the departure from 180 degrees ( if there is
@@ -3048,7 +3048,7 @@ another because it is in a measure in the same place.
 Peirce: CP 1.171 Cross-Ref:††
 171. If I were to attempt to describe to you in full all the scientific beauty and
 truth that I find in the principle of continuity, I might say in the simple language of
-Matilda the Engaged, "the tomb would close over me e'er the entrancing topic were
+Matilda the Engaged, "the tomb would close over me ere the entrancing topic were
 exhausted" -- but not before my audience was exhausted. So I will just drop it here.
 Only, in doing so, let me call your attention to the natural affinity of this principle to
 the doctrine of fallibilism. The principle of continuity is the idea of fallibilism
@@ -4620,7 +4620,7 @@ mighty strange, containing chemical elements that would put radium to the blush 
 forms of all animals and plants. So it would remain, though we were to suppose a
 special creative act at the birth or budding of each biological individual -- as long as
 there remained an approximate regularity in the action -- although this would be still
-more revolutionary of all our chemological conceptions. We all know the type of
+more revolutionary of all our chemical conceptions. We all know the type of
 naturalist -- often a justly honored man of science -- who, at any suggestion that
 experiment can ever be of real avail in biology, pours forth a torrent in which feeling
 is more easily detected than logic. Some minds there are who seem to think that if A
@@ -4843,7 +4843,7 @@ suppose that atoms or their corpuscles move freely in four or more dimensions. S
 everyday experience seems to teach us that time flows continuously. But that we are
 not sure that it really does so, appears from the fact that many men of powerful minds
 who have examined the question are of the opinion that it is not so. Why may there
-not be a succession of stationary states, say a milliasse or so of them or perhaps an
+not be a succession of stationary states, say a millions or so of them or perhaps an
 infinite multitude per second, and why may states of things not break abruptly from
 one to the next? Here the teachings of ordinary experience are, at least, difficult of
 ascertainment. There are cases where they are decidedly indefinite. Thus, such
@@ -4984,7 +4984,7 @@ possibly insufficient. It is true that they are thus of a nature intermediate be
 coenoscopy and idioscopy; but in the main their character is philosophical. They
 form, therefore, a second subclass of philosophy, to which we may give the name of
 theôrics. As inquiry now stands, this subclass has but two divisions which can hardly
-rank as orders, but rather as families, chronotheory and topotheôry. This kind of
+rank as orders, but rather as families, chronotheory and topotheoryôry. This kind of
 study is in its first infancy. Few men so much as acknowledge that it is anything more
 than idle speculation. It may be that in the future the subclass will be filled up with
 other orders.
@@ -5379,7 +5379,7 @@ Peirce: CP 1.305 Cross-Ref:††
 
 305. Suppose I begin by inquiring of you, Reader, in what particulars a feeling
 of redness or of purple without beginning, end, or change; or an eternally sounding
-and unvarying railway whistle; or a sempiterne thrill of joyous delight -- or rather,
+and unvarying railway whistle; or a sempiternal thrill of joyous delight -- or rather,
 such as would afford us delight, but supposed to be in that respect quite neutral -- that
 should constitute the entire universe, would differ from a substance? I suppose you
 will tell me that no such thing could be alone in the universe because, firstly, it would
@@ -5551,7 +5551,7 @@ familiar; that is, tones are signs of visceral qualities of feeling. But the bes
 that of odors, for these are signs in more than one way. It is a common observation
 that odors bring back old memories. This I think must be due, in part at least, to the
 fact that, whether from the peculiar connection of the olfactory nerve with the brain or
-from some other cause, odors have a remarkable tendency to presentmentate
+from some other cause, odors have a remarkable tendency to presententate
 themselves, that is to occupy the entire field of consciousness, so that one almost lives
 for the moment in a world of odor. Now in the vacuity of this world, there is nothing
 to obstruct the suggestions of association. That is one way, namely by contiguous
@@ -5567,7 +5567,7 @@ spiritual being. If she uses none at all her nature will lack perfume. If she we
 she herself will have the very same delicate fineness. Of the only two I have known to
 use rose, one was an artistic old virgin, a grande dame; the other a noisy young
 matron and very ignorant; but they were strangely alike. As for those who use
-heliotrope, frangipanni, etc., I know them as well as I desire to know them. Surely
+heliotrope, frangipani, etc., I know them as well as I desire to know them. Surely
 there must be some subtle resemblance between the odor and the impression I get of
 this or that woman's nature.
 
@@ -6631,7 +6631,7 @@ first, the thirds degenerate in the first degree. A pin fastens two things toget
 sticking through one and also through the other: either might be annihilated, and the
 pin would continue to stick through the one which remained. A mixture brings its
 ingredients together by containing each. We may term these accidental thirds. "How
-did I slay thy son?" asked the merchant, and the jinnee replied, "When thou threwest
+did I slay thy son?" asked the merchant, and the jinnee replied, "When thou threw
 away the date-stone, it smote my son, who was passing at the time, on the breast, and
 he died forthright." Here there were two independent facts, first that the merchant
 threw away the date-stone, and second that the date-stone struck and killed the
@@ -6705,7 +6705,7 @@ Peirce: CP 1.369 Cross-Ref:††
 §2. THE TRIAD IN REASONING †1
 
 369. Kant, the King of modern thought, it was who first remarked the
-frequency in logical analytics of trichotomics or threefold distinctions. It really is so;
+frequency in logical analytics of trichotomies or threefold distinctions. It really is so;
 I have tried hard and long to persuade myself that it is only fanciful, but the facts will
 not countenance that way of disposing of the phenomenon. Take any ordinary
 syllogism:
@@ -6804,7 +6804,7 @@ thus, a proposition can only be formed of the conjunction of a name and an index
 inference, too, contains a general description. . . .
 
 Peirce: CP 1.373 Cross-Ref:††
-§3. THE TRIAD IN METAPHYSICSP
+§3. THE TRIAD IN METAPHYSICS
 
 373. I will run over all the conceptions that played an important part in the
 pre-Socratic philosophy and see how far they can be expressed in terms of one, two,
@@ -7043,7 +7043,7 @@ whole conception of time belongs to genuine synthesis and is not to be considere
 under this head.
 
 Peirce: CP 1.385 Cross-Ref:††
-§5. THE TRIAD IN PHYSIOLOGYP
+§5. THE TRIAD IN PHYSIOLOGY
 
 385. Granted that there are three fundamentally different kinds of
 consciousness, it follows as a matter of course that there must be something threefold
@@ -7528,7 +7528,7 @@ Peirce: CP 1.405 Cross-Ref:††
 405. I come now to another point. Most systems of philosophy maintain
 certain facts or principles as ultimate. In truth, any fact is in one sense ultimate -- that
 is to say, in its isolated aggressive stubbornness and individual reality. What Scotus
-calls the hæcceities of things, the hereness and nowness of them, are indeed ultimate.
+calls the hæhaecceities of things, the hereness and nowness of them, are indeed ultimate.
 Why this which is here is such as it is; how, for instance, if it happens to be a grain of
 sand, it came to be so small and so hard, we can ask; we can also ask how it got
 carried here; but the explanation in this case merely carries us back to the fact that it
@@ -7988,7 +7988,7 @@ monoidal dyad. But in the exertion of strength, although I act on the object and
 object acts on me, which are two relations of one kind and joined in one reaction, yet
 in each of these two relations there is an agent and a patient, a doer and a sufferer,
 which are in contrary attitudes to one another. So that the action consists of two
-monoid dyads oppositely situated.
+monoidal dyads oppositely situated.
 
 Peirce: CP 1.430 Cross-Ref:††
 430. All this renders it quite certain that the nature of fact is in some way
@@ -9531,7 +9531,7 @@ Peirce: CP 1.533 Cross-Ref:††
 mediation, we have no really good word. Mentality is, perhaps, as good as any, poor
 and inadequate as it is. Here, then, are three kinds of Firstness, qualitative possibility,
 existence, mentality, resulting from applying Firstness to the three categories. We
-might strike new words for them: primity, secundity, tertiality.
+might strike new words for them: primacy, secundity, tertiality.
 Peirce: CP 1.534 Cross-Ref:††
 534. There are also three other kinds of Firstness which arise in a somewhat
 similar way; namely, the idea of a simple original quality, the idea of a quality
@@ -9910,9 +9910,9 @@ It
 Peirce: CP 1.558 Cross-Ref:††
 558. A quality may have a special determination which prevents its being
 prescinded from reference to a correlate. Hence there are two kinds of relation.
-First. That of relates whose reference to a ground is a prescindible or internal
+First. That of relates whose reference to a ground is a prescindable or internal
 quality.
-Second. That of relates whose reference to a ground is an unprescindible or
+Second. That of relates whose reference to a ground is an unprescindable or
 relative quality.
 In the former case, the relation is a mere concurrence of the correlates in one
 character, and the relate and correlate are not distinguished. In the latter case the
@@ -9974,7 +9974,7 @@ and are thus but sums of marks or terms;
 other term or terms, and thus, expressing their own objective validity, become capable
 of truth or falsehood, that is, are propositions; and,
 3•. Symbols which also independently determine their interpretants, and thus
-the minds to which they appeal, by premissing a proposition or propositions which
+the minds to which they appeal, by premising a proposition or propositions which
 such a mind is to admit. These are arguments.
 And it is remarkable that, among all the definitions of the proposition, for
 example, as the oratio indicativa, as the subsumption of an object under a concept, as
@@ -10044,7 +10044,7 @@ Peirce: CP 1.560 Cross-Ref:††
 
 560. Before I came to man's estate, being greatly impressed with Kant's Critic
 of the Pure Reason, my father, who was an eminent mathematician, pointed out to
-me lacunæ in Kant's reasoning which I should probably not otherwise have
+me lacunaeæ in Kant's reasoning which I should probably not otherwise have
 discovered. From Kant, I was led to an admiring study of Locke, Berkeley, and
 Hume, and to that of Aristotle's Organon, Metaphysics, and psychological treatises,
 
@@ -10062,12 +10062,12 @@ relation of his "categories" to them, yet his examination of them is most hasty,
 superficial, trivial, and even trifling, while throughout his works, replete as they are
 with evidences of logical genius, there is manifest a most astounding ignorance of the
 traditional logic, even of the very Summulæ Logicales, the elementary schoolbook of
-the Plantagenet era. Now although a beastlike superficiality and lack of generalizing
+the Plantagenet era. Now although a beastly superficiality and lack of generalizing
 thought spreads like a pall over the writings of the scholastic masters of logic, yet the
 minute thoroughness with which they examined every problem that came within their
 ken renders it hard to conceive in this twentieth century how a really earnest student,
 goaded to the study of logic by the momentous importance that Kant attached to its
-details, could have reconciled himself to treating it in the debonnair and dégagé
+details, could have reconciled himself to treating it in the debonair and dégagé
 fashion that he did. I was thus stimulated to independent inquiry into the logical
 support of the fundamental concepts called categories.
 Peirce: CP 1.561 Cross-Ref:††
@@ -12980,7 +12980,7 @@ ELEMENTS OF LOGIC
 
 CRITICAL ANALYSIS OF LOGICAL THEORIES†1
 
-§1. LOGIC'S PROMISESP
+§1. LOGIC'S PROMISES
 
 1. Begin, if you will, by calling logic the theory of the conditions which
 determine reasonings to be secure. A conception at once more exact and more
@@ -13032,7 +13032,7 @@ useful, instead of being frequently so, as they are, yet its indirect utility, t
 useful conceptions with which it supplies us, would be immense.
 Peirce: CP 2.6 Cross-Ref:††
 6. Meantime, its highest and greatest value is that it affords us an
-understanding of the processes of reasoning. That the Platos are thoroughly right in
+understanding of the processes of reasoning. That the Plato are thoroughly right in
 that estimate will be more and more impressed upon our convictions as our
 acquaintance with the science grows.
 Peirce: CP 2.7 Cross-Ref:††
@@ -13043,7 +13043,7 @@ true of logic than of other theories; simply because it is perfectly true of all
 is a special reason why it is more important to bear this point in mind in logic.
 Namely, logic is the theory of right reasoning, of what reasoning ought to be, not of
 what it is. On that account, it used to be called a directive science, but of late years
-Überweg's adjective normative†P1 has been generally substituted. It might be that a
+ÜÜberweg adjective normative†P1 has been generally substituted. It might be that a
 normative science, in view of the economies of the case, should be quite useless for
 any practical application. Still, whatever fact had no bearing upon a conceivable
 application to practice would be entirely impertinent to such a science. It would be
@@ -13055,7 +13055,7 @@ logic to conceivable applications of it will, by and by, come up for closer
 examination, we need not now consider it further.
 
 Peirce: CP 2.8 Cross-Ref:††
-§2. OF MINUTE ACCURACYP
+§2. OF MINUTE ACCURACY
 
 8. How shall the theory of right reasoning be investigated? The nature of the
 subject must be an important factor in determining the method. Before touching that,
@@ -13142,7 +13142,7 @@ thither, driven by storms, wrecked, shattered, its pieces dispersed even to oppo
 poles. Jetsam only is now occasionally cast up on the beaches of solid science, fraught
 with no cargo of wisdom except the one sad lesson of the issues of loose thinking.
 Peirce: CP 2.14 Cross-Ref:††
-14. Broad generalization is glorious when it is the inevitable outpressed juice
+14. Broad generalization is glorious when it is the inevitable expressed juice
 of painfully matured little details of knowledge; but when it is not that, it is a crude
 spirit inciting only broils between a hundred little dogmas, each most justly
 condemning all the others. It is the usual fruit of sloth. A reader who is not disposed
@@ -13581,7 +13581,7 @@ Peirce: CP 2.36 Cross-Ref:††
 36. Fourthly: Some writers make it the boast of their systems of logic that they
 rest upon a philosophical basis; others really use the same method, though they rather
 keep the fact in the back-ground, despite the good ring of saying that one's logic is
-philosophical. Only, if logic is to be a pavillion on the roof of metaphysics, then
+philosophical. Only, if logic is to be a pavilion on the roof of metaphysics, then
 metaphysics cannot conveniently be made an upper story of logic, as Aristotle and
 Kant, the two greatest of metaphysical systematizers, would have it to be. To me, it
 seems that a metaphysics not founded on the science of logic is of all branches of
@@ -13605,7 +13605,7 @@ systems of metaphysics, the earliest were a series of Aristotelian treatises. Ga
 †1 wrote an Epicurean logic, but of course knew nothing of the book of Philodemus
 on induction which turned up, centuries later, in Herculaneum.†2 The celebrated Port
 Royal logic entitled L'Art de Penser, of Antoine Arnauld (published in 1662) and
-Clauberg's Logica Vetus et Nova [1654], were Cartesian works. Malebranche wrote
+Clauberg Logica Vetus et Nova [1654], were Cartesian works. Malebranche wrote
 his own Recherche de la Vérité (1674-5) which likewise professed to be Cartesian,
 but was in truth rather Malebranchian, like much else called Cartesian. The Medicina
 Mentis of Graf von Tschirnhaus auf Kesselwalde [1687], today a familiar name to
@@ -13631,7 +13631,7 @@ remember that, according to Kant, nothing worth mention had been contributed to
 logic since Aristotle †2 Herbart, however, had studied the subject to the best of his
 high powers; and his declaration is, "In der Logik ist es nothwendig alles
 Psychologische zu ignorieren." Among the thoroughly unpsychological works of later
-date is to be mentioned Riehl's Philosophische Kriticismus, 2 vols., 1876-9. Venn,†3
+date is to be mentioned Riehl's Philosophische Kritik, 2 vols., 1876-9. Venn,†3
 though a follower of Mill, whose logic is representative of associationalism, may be
 classed among those who do not make use of scientific results of psychology. Nobody
 will do injustice to the present treatise by describing its position as extremely
@@ -13799,7 +13799,7 @@ Peirce: CP 2.55 Cross-Ref:††
 first book, which alone is drawn up with great logical care), he will notice that the
 proposition is first enunciated in abstract terms. This is the form of embodiment of it
 which is suitable for storage. But having so stated it, Euclid constructs a figure, and
-reënunciates the proposition with reference to that figure. Since this figure may be
+reëre-enunciates the proposition with reference to that figure. Since this figure may be
 any figure conforming to the conditions of the abstract statement, the new enunciation
 is precisely equivalent to the original one, in meaning. The difference is, that from the
 abstract enunciation, left abstract, no inferences could be drawn, except such trivial
@@ -13938,7 +13938,7 @@ where consciously controlled thought begins, with which alone logic has even an
 indirect connection.
 Peirce: CP 2.64 Cross-Ref:††
 64. It is true that students of Erkenntnisslehre say emphatically that it is not
-psychology. Some call it psychologico-metaphysical. Others deny it has any
+psychology. Some call it psychological-metaphysical. Others deny it has any
 psychology in it. Benno Erdmann, himself a psychologist, formulates the problem of
 Erkenntnisslehre as follows: "What right have we to assume that ideas refer to
 objects out of the mind?" (Mit welchen Rechte nehmen wir an, dass sich das
@@ -15384,7 +15384,7 @@ has no other basis than the history of science. Considering how very, very littl
 science we have attained, and how infantile the history of science still is, it amazes
 me that anybody should propose to base a theory of knowledge upon the history of
 science alone. An emmet is far more competent to discourse upon the figure of the
-earth than we are to say what future millennia and millionennia may have in store for
+earth than we are to say what future millennia and millennia may have in store for
 
 physical theories, with the atomic theory and the theory of light not yet one sleepy
 century old. The only really scientific theory that can be called old is the Ptolemaic
@@ -15789,7 +15789,7 @@ counteract the silly deference paid in this country to German logic--an attitude
 no logician worthy of the name would desire that any student should assume toward
 his work.
 Peirce: CP 2.164 Cross-Ref:††
-164. Let us now briefly reëxamine the five arguments in favor of the German
+164. Let us now briefly reëreexamine the five arguments in favor of the German
 position. For in the light of what has been said their general character can better be
 appreciated. The first is that it is absurd to approve or disapprove of a physiological
 
@@ -16351,7 +16351,7 @@ Peirce: CP 2.192 Cross-Ref:††
 as Axiom I, whether we are Artists, Practical Moralists, or Philosophers--a
 classification which embraces all mankind except the great world of Hypnotists--that
 is to say, the Medicine Men, the Confidence Men, the Horse Traders, the Diplomats,
-and all that lot, with which this book has no relation except that of alieniety. They and
+and all that lot, with which this book has no relation except that of alienity. They and
 the burglars are useful members of society; but they are not likely to be readers of this
 book. For us, who are non-hypnotists, nothing is more irrational than false pretence.
 Yet the Cartesian philosophy, which ruled Europe for so long, is founded upon it. It
@@ -16392,7 +16392,7 @@ reason in making use of such imperfect reasoning powers as every reader will bri
 the subject, and yet without any inadmissible assumption. What a proposition it is that
 those who pronounce this to be impossible virtually maintain! That imperfect reason
 cannot perfect itself! How then, I should be glad to be informed, did man ever pass
-from a state of monership, and lower, to that of lordship of this globe? Oh, but it was
+from a state of monarchy, and lower, to that of lordship of this globe? Oh, but it was
 not by a logical process. How so? It was by unwarrantable assumptions. What
 pedantry! So a man is not to be allowed to see what is reasonable unless he do so by
 the rules of art! {To sabbaton dia ton anthropon egeneto, ouch ho anthropos dia to
@@ -16627,7 +16627,7 @@ and which belongs to, or is closely connected with, logic. Precisely what this s
 contain is not agreed; but it must contain the general conditions requisite for the
 attainment of truth. Since it may be held to contain more, one hesitates to call it
 heuristic. It is often called Method; but as this word is also used in the concrete,
-methodic or methodeutic would be better.
+methodical or methodeutic would be better.
 Peirce: CP 2.208 Cross-Ref:††
 208. For deciding what is good logic and what bad, appeal is made by
 different writers to one or more, generally several, of these eight sources: to direct
@@ -16769,7 +16769,7 @@ subjects his views are controverted. . . .
 
 Peirce: CP 2.219 Cross-Ref:††
 
-SPECULATIVE GRAMMARP
+SPECULATIVE GRAMMAR
 
 THE ETHICS OF TERMINOLOGY†1
 
@@ -17078,7 +17078,7 @@ after we seem to identify the varieties called for a priori with varieties which
 experience of reflexion leads us to think important, no slight labour is required to
 make sure that the divisions we have found a posteriori are precisely those that have
 been predicted a priori. In most cases, we find that they are not precisely identical,
-owing to the narrowness of our reflexional experience. It is only after much further
+owing to the narrowness of our reflective experience. It is only after much further
 arduous analysis that we are able finally to place in the system the conceptions to
 which experience has led us. In the case of triadic relations, no part of this work has,
 as yet, been satisfactorily performed, except in some measure for the most important
@@ -17993,8 +17993,8 @@ Peirce: CP 2.297 Cross-Ref:††
 language to add a new one. I do not think that the signification I attach to it, that of a
 conventional sign, or one depending upon habit (acquired or inborn), is so much a
 new meaning as a return to the original meaning. Etymologically, it should mean a
-thing thrown together, just as {embolon} (embolum) is a thing thrown into something,
-a bolt, and {parabolon} (parabolum) is a thing thrown besides, collateral security, and
+thing thrown together, just as {embolum} (embolum) is a thing thrown into something,
+a bolt, and {parabolum} (parabolum) is a thing thrown besides, collateral security, and
 {hypobolon} (hypobolum) is a thing thrown underneath, an antenuptial gift. It is
 usually said that in the word symbol the throwing together is to be understood in the
 sense of "to conjecture"; but were that the case, we ought to find that sometimes at
@@ -18537,7 +18537,7 @@ subject "Some woman" particular, and its second "whatever Spaniard may exist"
 universal. But "Whatever Spaniard may exist adores some woman" has the same
 subjects in reverse order and so has a different meaning. It is quite conceivable that a
 subject should be so described as to be neither Universal nor Particular; as in
-exceptives (Summulae) as "Every man but one is a sinner." The same may be said of
+exceptive (Summulae) as "Every man but one is a sinner." The same may be said of
 all kinds of numerical propositions, as "Any insect has an even number of legs." But
 these may be regarded as Particular Collective Subjects. An example of a Universal
 Collective subject would be "Any two persons shut up together will quarrel." A
@@ -18609,7 +18609,7 @@ Peirce: CP 2.330 Cross-Ref:††
 may be told that it is that element whose atomic weight is 7 very nearly. But if the
 author has a more logical mind he will tell you that if you search among minerals that
 are vitreous, translucent, grey or white, very hard, brittle, and insoluble, for one which
-imparts a crimson tinge to an unluminous flame, this mineral being triturated with
+imparts a crimson tinge to an luminous flame, this mineral being triturated with
 lime or witherite rats-bane, and then fused, can be partly dissolved in muriatic acid;
 and if this solution be evaporated, and the residue be extracted with sulphuric acid,
 and duly purified, it can be converted by ordinary methods into a chloride, which
@@ -18633,9 +18633,9 @@ there will be some individual, B, in the universe, such that A and B in this ord
 a dyad of which what follows is true," the Predicate being "-- is either not a Spaniard
 or else adores a woman that is --."
 Peirce: CP 2.331 Cross-Ref:††
-331. Any term fit to be the subject of a proposition may be termed an Onome.
+331. Any term fit to be the subject of a proposition may be termed an Onoma.
 A Categoreumatic term (Duns Scotus, but probably earlier) is any term fit to be the
-subject or predicate of a proposition. A Syncategoreumatic Term or Syncathegreuma
+subject or predicate of a proposition. A Syncategoreumatic Term or Syncategoreum
 (Summulae)†1 is a Symbol going to make up a Categoreumatic Term. The Copula
 seems to fall between two stools, being neither categoreumatic nor
 syncategoreumatic. . . .
@@ -19038,7 +19038,7 @@ make in categorical form, take, as far as we can comprehend the psychical proces
 hypothetical forms. There is one of these tongues a smattering of which is not an
 uncommon accomplishment--a smattering sufficient to carry the student into the spirit
 of the language--I mean the Old Egyptian. There are few words in this language
-which are distinctively common nouns. Every general word excites a pictorical idea.
+which are distinctively common nouns. Every general word excites a pictorial idea.
 Even to the modern student, the pictorial ideograph becomes a considerable part of
 the idea it excites; and the influence of the hieroglyphics, the modes of expression,
 etc., is to make "a composite of pictures" particularly expressive in describing the
@@ -19323,8 +19323,8 @@ terminis."†2 Scotus gives the following examples of the distinction, where the
 exercised predication is marked E, the signate S:S, Genus praedicatur de specie; E,
 Homo est animal. (The Lyons text here transposes the terms, which we give
 correctly.) S, nego; E, non. E, tantum; S, excludo. The abstract definition of Scotus
-is: "Esse in rebus primae intentionis, illud exercet, quod praedicari signat in secundis
-intentionibus.†3 Exercised predication is distinguished into praedicatio de proprio
+is: "Esse in rebus primae intention, illud exercet, quod praedicari signate in secundis
+intention.†3 Exercised predication is distinguished into praedicatio de proprio
 supposito and praedicatio de subiecto; the former is essential, the latter accidental.
 Formal predication: predication where the predicate is in the concept of the
 subject, independent of any extrinsic cause or of any particular matter in qua. The
@@ -19617,9 +19617,9 @@ niemals ihren Urtheilen wahre und strenge, sondern nur angenommene und
 comparative Allgemeinheit (durch Induction), so dass es eigentlich heissen muss: so
 viel wir bisher wahrgenommen haben, findet sich von dieser oder jener Regel keine
 Ausnahme. Wird also ein Urtheil in strenger Allgemeinheit gedacht, d. i. so, dass gar
-keine Ausnahme als möglich verstattet wird, so ist es nicht von der Erfahrung
+keine Ausnahme als möglich gestattet wird, so ist es nicht von der Erfahrung
 abgeleitet, sondern schlechterdings a priori gültig. Die empirische Allgemeinheit ist
-also nur eine willkührliche Steigerung der Gültigkeit, von der, welche in den meisten
+also nur eine willküwillkürliche Steigerung der GüGültigkeit, von der, welche in den meisten
 Fällen, zu der, die in allen gilt, wie z. B. in dem Satze: alle Körper sind schwer; wo
 dagegen strenge Allgemeinheit zu einem Urtheile wesentlich gehört, da zeigt diese
 
@@ -20261,8 +20261,8 @@ dicta, et hoc quia talia concreta significant unum in recto et aliud in obliquo,
 est dictu, in diffinitione exprimente quid nominis debet poni unus rectus significans
 unam rem et alius obliquus significans aliam rem, sicut patet de omnibus talibus,
 iustus, albus, animatus, et sic de aliis. Huiusmodi etiam nomina sunt omnia nomina
-relatiua, quia semper in eorum diffinitionibus ponuntur diversa idem diuersis modis
-vel diuersa significantia, sicut patet de hoc nomine simile. Mere autem absoluta sunt
+relatiua, quia semper in eorum diffinitionibus ponuntur diversa idem divers modis
+vel diverse significantia, sicut patet de hoc nomine simile. Mere autem absoluta sunt
 illa quae non significant aliquid principaliter et aliud vel idem secundario, sed
 quicquid significatur per tale nomen aeque primo significatur sicut patet de hoc
 nomine animal."†1 Eckius, in his comment on Petrus Hispanus, has also some
@@ -20508,7 +20508,7 @@ to something else. Hence we must know that
 
 Whatever is not-P'is not-T,
 Whatever is not-P''is not-T,
-andWhatever is not-P'''is not-T.
+and Whatever is not-P'''is not-T.
 
 Peirce: CP 2.412 Cross-Ref:††
 412. Thus, if we define the essential breadth of a term as those real things of
@@ -20782,7 +20782,7 @@ matter), which last is then neglected. But even in the very first passage in whi
 abstraction occurs as a term of logic, two distinct meanings of it are given, the one
 the contemplation of a form apart from matter, as when we think of whiteness, and
 
-the other the thinking of a nature indifferenter, or without regard to the differences of
+the other the thinking of a nature indifferent, or without regard to the differences of
 its individuals, as when we think of a white thing, generally.†1 The latter process is
 called, also, precision (or better, prescission): and it would greatly contribute to
 perspicuity of thought and expression if we were to return to the usage of the best
@@ -22694,7 +22694,7 @@ figure, induction to the third, and analogy to the second-third.
 
 Peirce: CP 2.517 Cross-Ref:††
 
-EXTENSION OF THE ARISTOTELIAN SYLLOGISTICP
+EXTENSION OF THE ARISTOTELIAN SYLLOGISTIC
 
 §1. ON A LIMITED UNIVERSE OF MARKS †1
 
@@ -23017,7 +23017,7 @@ important as eighteen out of the nineteen traditional moods, then I do not envy 
 his perspicacity.
 
 Peirce: CP 2.528 Cross-Ref:††
-§2. GENERAL CANON OF SYLLOGISMP
+§2. GENERAL CANON OF SYLLOGISM
 
 528. It has for ages been customary with logicians, in addition to establishing
 valid forms of syllogism, to put forth certain rules independent of figure, or the
@@ -24082,9 +24082,9 @@ Peirce: CP 2.583 Cross-Ref:††
 583. The word "premiss" became usual in the logical sense, in English, as
 early as Chaucer. In Wilson's Rule of Reason (1552) it does not occur, the
 phraseology there being like the following: "The double repeate, whiche is a woorde
-rehearsed in bothe Proposicions, must not entre into the conclusion." But in
+rehearsed in bothe Propositions, must not entre into the conclusion." But in
 Blundevile's Arte of Logicke (1599) we read: "A Syllogisme is a kinde of argument
-contayning three Propositions, whereof the two first, commonly called the premisses,"
+containing three Propositions, whereof the two first, commonly called the premisses,"
 etc. In Watts's and other English logics it was spelt premiss and premisses. Johnson,
 however, in his Dictionary, gives premises in the plural and premiss in the singular,
 as distinct words, and remarks that the latter is little used in the plural outside of
@@ -24139,9 +24139,9 @@ to a line or order of equipollent modal forms.)
 (6)Tertius est quarto semper contrarius ordo.
 Sit tibi linea subcontraria prima secundae.
 Tertius est primo contradictorius ordo.
-Pugnat cum quarto contradicend$o secundus.
+Pugnat cum quarto contradictio$o secundus.
 Prima subest quartae vice particularis habens se.
-Hanc habet ad seriem se lege secunda sequentem.
+Hanc habet ad seriem se lege secunda sequent.
 
 (The relation of "Sortem impossibile est currere" and "Sortem necesse est currere" is
 that of contraries; they cannot be true at once. The relation "Sortem possibile est
@@ -24155,10 +24155,10 @@ est non currere" and "Sortem necesse est currere" is likewise that of contradict
 (The first figure contains the middle term as subject and predicate; the second, the
 middle as predicated twice; the third, the middle twice as subject.)
 
-(8)B~arb$ar$a, C~el~ar~ent, D$ar$i~i, F$er$i~o, B$ar$al~ipton,
+(8)B~arb$ar$a, C~el~ar~ent, D$ar$i~i, F$er$i~o, B$ar$al~Baralipton,
 C~el~ant~es, D$ab$it~is, F~ap~esm~o, Fr~is$es$om~orum.
-C~es$ar$e, C~am~estr~es, F~est~in$o, B$ar~ok$o, D$ar~apti,
-F~el~apt~on, D$is$am~is, D~at~is$i, B$ok~ardo, F$er~ison.†1
+C~es$ar$e, C~am~Celestr~es, F~est~in$o, B$ar~ok$o, D$ar~Dabitis,
+F~el~apt~on, D$is$am~is, D~at~is$i, B$ok~Bokardo, F$er~ison.†1
 
 (These are original names of the syllogistic moods, which there is no sufficient reason
 for abandoning. The direct moods of the first figure are recognizable by their
@@ -24178,8 +24178,8 @@ vowel, or who omits m from the name of a mood having s or p after the first and
 second vowels, uses the fourth figure.)
 
 (9)Simpliciter vult s, verti p vero per acci.
-M vult transponi, k per imposs~ibile duci.
-Servat maiorem variatque secunda minorem;
+M vult transponi, k per impossibile~ibile duci.
+Servat maiorem variat secunda minorem;
 Tertia maiorem variat servatque minorem.
 
 (s, in the name of a mood, shows that the proposition denoted by the preceding vowel
@@ -24681,13 +24681,13 @@ of AB, and if AC = AD, then BC is unequal to BD, which shows that there are not 
 triangles having AC = AD and BC = BD, since things unequal are not equal.
 
 Peirce: CP 2.613 Cross-Ref:††
-§24. FALLACIESE
+§24. FALLACIES
 
 613. Non sequitur†3 (Latin for "it does not follow"). A name which belongs
 to the slang of the universities for the fallacia consequentis (called by Aristotle
 {hopara to hepomenon elenchos,} De Sophist. Elen., 167 b I), which is, strictly
 speaking, a fallacy which arises from a simple conversion of a universal affirmative,
-or transposing a protasis and apodosis, or ondition and consequent.
+or transposing a protasis and apodosis, or condition and consequent.
 Peirce: CP 2.613 Cross-Ref:††
 Thus, Aristotle †4 tells us that the Eleatic Melissus argued that the universe is
 ungenerated, since nothing can be generated by what does not previously exist. The
@@ -25110,7 +25110,7 @@ boldly concluding that all very pious men, or all men favorites of the Almighty,
 are immortal, we refrain from specifying the description of men, and rest in the
 merely explicative inference that some men are immortal. So Baroco might be
 considered as a very timid hypothesis. Enoch and Elijah are not mortal. Now, we
-mioht boldly suppose them to be gods or something of that sort, but instead of that we
+might boldly suppose them to be gods or something of that sort, but instead of that we
 limit ourselves to the inference that they are of some nature different from that of
 man.
 Peirce: CP 2.631 Cross-Ref:††
@@ -25126,7 +25126,7 @@ have seen in a former paper,†1 when the word "probable" is used in one sense i
 antecedent and in another in the consequent.
 
 Peirce: CP 2.632 Cross-Ref:††
-§3. RULES FOR INDUCTION AND HYPOTHESESE
+§3. RULES FOR INDUCTION AND HYPOTHESES
 
 632. A certain anonymous writing is upon a torn piece of paper. It is suspected
 that the author is a certain person. His desk, to which only he has had access, is
@@ -25218,7 +25218,7 @@ Nevertheless, in the total neglect of these, inductions and hypotheses may and
 sometimes do attain the greatest force.
 
 Peirce: CP 2.636 Cross-Ref:††
-§4. EMPIRICAL FORMULÆ AND THEORIESE
+§4. EMPIRICAL FORMULÆ AND THEORIES
 
 636. Classifications in all cases perfectly satisfactory hardly exist. Even in
 regard to the great distinction between explicative and ampliative inferences,
@@ -25366,7 +25366,7 @@ have a kind of mixture of induction and hypothesis supporting one another; and o
 this kind are most of the theories of physics.
 
 Peirce: CP 2.641 Cross-Ref:††
-§5. ON THE DIFFERENCE BETWEEN INDUCTION AND HYPOTHESISE
+§5. ON THE DIFFERENCE BETWEEN INDUCTION AND HYPOTHESES
 
 641. That synthetic inferences may be divided into induction and hypothesis in
 the manner here proposed,†P1 admits of no question. The utility and value of the
@@ -25447,7 +25447,7 @@ Peirce: CP 2.645 Cross-Ref:††
 
 THE DOCTRINE OF CHANCES†1
 
-§1. CONTINUITY AND THE FORMATION OF CONCEPTSE
+§1. CONTINUITY AND THE FORMATION OF CONCEPTS
 
 645. It is a common observation that a science first begins to be exact when it
 is quantitatively treated. What are called the exact sciences are no others than the
@@ -25630,7 +25630,7 @@ in the use of the doctrine of chances have arisen from this vicious mode of
 expression.†P1
 
 Peirce: CP 2.652 Cross-Ref:††
-§4. THREE LOGICAL SENTIMENTSE
+§4. THREE LOGICAL SENTENCES
 
 652. But there remains an important point to be cleared up. According to what
 has been said, the idea of probability essentially belongs to a kind of inference which
@@ -25770,7 +25770,7 @@ textbook of the logic of science, but the latter is certainly the highest existi
 authority in regard to the dispositions of heart which a man ought to have.
 
 Peirce: CP 2.656 Cross-Ref:††
-§5. FUNDAMENTAL RULES FOR THE CALCULATION OF CHANCESE
+§5. FUNDAMENTAL RULES FOR THE CALCULATION OF CHANCES
 
 656. Such average statistical numbers as the number of inhabitants per square
 mile, the average number of deaths per week, the number of convictions per
@@ -25984,13 +25984,13 @@ been while he was doing this that the explosion of lightning took place, and the
 electricity may have been deflected by the iron in such a way as to strike this tree.
 Mind, I do not say that this is what did happen; but if you want to find out why that
 tree was struck, I think you had better search for an eyrie, and see whether any of the
-eaglets have been scratched." This is an example of as unplausible a theory as I can
+eaglets have been scratched." This is an example of as implausible a theory as I can
 think of. We should commonly say it was highly improbable; and I suppose it would
 be so. But were it ever so probable in all its elements, it would still deserve no
 attention, because it is perfectly gratuitous to suppose that the lightning was deflected
 at all; and this supposition does not help to explain the phenomenon.
 Peirce: CP 2.662 Cross-Ref:††
-Eusapia Palladino had been proved to be a very clever prestigiateuse and
+Eusapia Palladino had been proved to be a very clever prestigitatrice and
 cheat, and was visited by a Mr. Carrington,†1 whom I suppose to be so clever in
 finding out how tricks are done, that it is highly improbable that any given trick
 should long baffle him. In point of fact he has often caught the Palladino creature in
@@ -26214,7 +26214,7 @@ Peirce: CP 2.669 Cross-Ref:††
 THE PROBABILITY OF INDUCTION†1
 
 §1. RULES FOR THE ADDITION AND MULTIPLICATION OF
-PROBABILITIESE
+PROBABILITIES
 
 669. We have found that every argument derives its force from the general
 truth of the class of inferences to which it belongs; and that probability is the
@@ -26509,7 +26509,7 @@ area which embraces the other two. But the probability for each of the smaller a
 being one-half, that for the larger should be at least unity, which is absurd.
 
 Peirce: CP 2.680 Cross-Ref:††
-§3. ON THE CHANCE OF UNKNOWN EVENTSE
+§3. ON THE CHANCE OF UNKNOWN EVENTS
 
 680. All our reasonings are of two kinds: 1. Explicative, analytic, or
 deductive; 2. Amplifiative, synthetic, or (loosely speaking) inductive. In explicative
@@ -26654,7 +26654,7 @@ regard to whose arrangements the conception of probability could have no
 applicability.
 
 Peirce: CP 2.685 Cross-Ref:††
-§4. ON THE PROBABILITY OF SYNTHETIC INFERENCESE
+§4. ON THE PROBABILITY OF SYNTHETIC INFERENCES
 
 685. We have examined the problem proposed by the conceptualists, which,
 translated into clear language, is this: Given a synthetic conclusion; required to know
@@ -26768,7 +26768,7 @@ case the inference is that pretty much all Cretans are liars, and whether there 
 be a special improbability in that I do not know.
 
 Peirce: CP 2.690 Cross-Ref:††
-§5. THE RATIONALE OF SYNTHETIC INFERENCEE
+§5. THE RATIONALE OF SYNTHETIC INFERENCE
 
 690. Late in the last century, Immanuel Kant asked the question, "How are
 synthetical judgments a priori possible?" By synthetical judgments he meant such as
@@ -27417,7 +27417,7 @@ the occurrence of these causes, by virtue of the laws of Nature, results in effe
 which are the conclusions of the syllogisms. Conceiving of nature in this way, we
 naturally conceive of science as having three tasks--(1) the discovery of Laws, which
 is accomplished by induction; (2) the discovery of Causes, which is accomplished by
-hypothetic inference; and (3) the predictio of Effects, which is accomplished by
+hypothetic inference; and (3) the prediction of Effects, which is accomplished by
 deduction. It appears to me to be highly useful to select a system of logic which shall
 preserve all these natural conceptions.
 Peirce: CP 2.714 Cross-Ref:††
@@ -30464,7 +30464,7 @@ mountain range, the sea, a great river, it will be desirable to have preposition
 signifying situations relatively to that, as across, seaward, etc. But when we examine
 actual languages, it would seem as though they had supplied the place of many of
 these distinctions by gestures. The Egyptians had no preposition nor demonstrative
-having any apparent reference to the Nile. Only the Esquimos are so wrapped up in
+having any apparent reference to the Nile. Only the Eskimos are so wrapped up in
 their bearskins that they have demonstratives distinguishing landward, seaward,
 north, south, east, and west. But examining the cases or prepositions of any actual
 language we find them a haphazard lot.
@@ -30473,8 +30473,8 @@ Peirce: CP 2.291 Fn P1 p 165 Cross-Ref:††
 late Latin, the words being transferred from the Greek, the Latin prefix translating the
 Greek prefix and the Latin stem the Greek stem. But while the logical words were
 chosen with fastidious care, the grammarians were excessively careless, and none
-more so than Priscian. The word indicative is one of Priscian's creations. It was
-evidently intended to translate Aristotle's {apophantiké}. But this is precisely
+more so than Priscian. The word indicative is one of Priscian creations. It was
+evidently intended to translate Aristotle's {apophanté}. But this is precisely
 equivalent to declarative both in signification and according to the rules of
 transferrence, de, taking the place of {apo} as is usual in these artificial formations
 (demonstration for {apodeixis}, etc.), and clarare representing {phainein} to make
@@ -30745,20 +30745,20 @@ Peirce: CP 2.391 Fn P2 p 238 Cross-Ref:††
 645) "Genus in divisione totum est, in diffinitione pars."
 Peirce: CP 2.391 Fn P3 Para 1/2 p 238 Cross-Ref:††
 †P3 The author of De Generibus et Speciebus opposes the integral and
-diffinitive wholes. John of Salisbury refers to the distinction of comprehension and
+definitive wholes. John of Salisbury refers to the distinction of comprehension and
 extension, as something "quod fere in omnium ore celebre est, aliud scilicet esse quod
 appellativa significant, et aliud esse quod nominant. Nominantur singularia, sed
 universalia significantur." (Metalogicus, lib. 2, cap. 20. Ed. of 1620, p. 111.) [By
 appellativa he means adjectives and the like.--1893.]
 Peirce: CP 2.391 Fn P3 Para 2/2 p 238 Cross-Ref:††
 Vincentius Bellovacensis (Speculum Doctrinale, Lib. III, cap. xi) has the
-following: "Si vero quæritur utrum hoc universale 'homo' sit in quolibet homine
+following: "Si vero quæquaeritur utrum hoc universale 'homo' sit in quolibet homine
 secundum se totum an secundum partem, dicendum est quod secundum se totum, id
-est secundum quamlibet sui partem diffinitivam. . . ., non autem secundum quamlibet
+est secundum quamlibet sui partem definitive. . . ., non autem secundum quamlibet
 partem subjectivam. . . ." William of Auvergne (Prantl's Geschichte, vol. 3, p. 77)
 speaks of "totalitatem istam, quæ est ex partibus rationis seu diffinitionis, et hae
 partes sunt genus et differentiæ; alio modo partes speciei individua sunt, quoniam
-ipsam speciem, cum de eis prædicatur, sibi invicem quodammodo partiunter." [See
+ipsam speciem, cum de eis præpraedicatur, sibi invicem quodammodo partiuntur." [See
 also Duns Scotus, Opera I, 137.] If we were to go to later authors, the examples
 would be endless. See any commentary in Phys. Lib. I.
 Peirce: CP 2.392 Fn P1 p 239 Cross-Ref:††
@@ -30898,7 +30898,7 @@ Peirce: CP 2.399 Fn 9 p 245
 Peirce: CP 2.399 Fn 10 p 245
 †10 A Treatise on Logic (1864), p. 67.
 Peirce: CP 2.399 Fn 11 p 245
-†11 Neue Dartellung der Logik, 2te Auf. (1851), §23.
+†11 Neue Darstellung der Logik, 2te Auf. (1851), §23.
 Peirce: CP 2.399 Fn 12 p 245
 †12 Formal Logic (1847), p. 234.
 Peirce: CP 2.399 Fn 13 p 245
@@ -39450,7 +39450,7 @@ Peirce: CP 3.252 Cross-Ref:††
 
 ON THE LOGIC OF NUMBER†1
 
-§1. DEFINITION OF QUANTITYE
+§1. DEFINITION OF QUANTITY
 
 252. Nobody can doubt the elementary propositions concerning number: those
 that are not at first sight manifestly true are rendered so by the usual demonstrations.
@@ -44679,7 +44679,7 @@ Peirce: CP 3.440 Cross-Ref:††
 440. I have maintained since 1867 that there is but one primary and
 fundamental logical relation, that of illation, expressed by ergo. A proposition, for
 
-me, is but an argumentation divested of the assertoriness of its premiss and
+me, is but an argumentation divested of the assertiveness of its premiss and
 conclusion. This makes every proposition a conditional proposition at bottom. In like
 manner a "term," or class-name, is for me nothing but a proposition with its indices or
 subjects left blank, or indefinite. The common noun happens to have a very
@@ -47859,7 +47859,7 @@ Peirce: CP 3.571 Cross-Ref:††
 
 NOMENCLATURE AND DIVISIONS OF DYADIC RELATIONS†1
 
-§1. NOMENCLATUREE
+§1. NOMENCLATURE
 
 571. A dyadic relation is a character whose being consists in the logical
 possibility of a definite fact concerning an ordered pair, or dyad, of subjects; the first
@@ -48092,7 +48092,7 @@ but one ambilative [contra] suilation: it is the relation of individual othernes
 negation. There is properly no contrambilative contrasuilation: it would be the absurd
 relation of incompossibility. These four relations are to be termed the Four Cardinal
 Dyadic Relations of Second Intention. It will be enough to call them the
-cardinilations, or cardinal relations.
+cardinalations, or cardinal relations.
 Peirce: CP 3.587 Cross-Ref:††
 587. Any peneperlation or penereperlation is a juxtambilation; any perlation or
 reperlation is, in addition, a juxtasuilation. Any penecontraperlation or
@@ -49389,7 +49389,7 @@ the relation r.
 Peirce: CP 3.627 Cross-Ref:††
 627. The precise analysis of the notion is due to G. Cantor, whose definition
 is, however, a little different in its mode of expression, since it is more abstract. He
-defines the character in these words: "By Mächtigkeit or cardinal number of a
+defines the character in these words: "By MäMächtigkeit or cardinal number of a
 collection (Menge) M, we mean the universal concept, which by the help of our active
 faculty of thought results from the collection M by abstraction from the characters of
 the different members (Elemente) of that collection and from the order in which they
@@ -49744,7 +49744,7 @@ of propositions is greatly simplified by taking this more general view of the su
 
 Peirce: CP 3.646 Cross-Ref:††
 
-ON NONIONSE†1
+ON NONIONS†1
 
 646. Readers of Professor Sylvester's communication entitled Erratum in the
 last number of these Circulars have perhaps inferred that my conduct in the matter
@@ -50093,7 +50093,7 @@ Peirce: CP 3.39 Fn 1 p 23
 †1 See 4n.
 Peirce: CP 3.41 Fn 2 p 23
 
-†2 See 2.467. Cf. Paul Weiss, Erkenntnes Bd. 2, H. 4, S. 242-8 where it is
+†2 See 2.467. Cf. Paul Weiss, Erkenntnis Bd. 2, H. 4, S. 242-8 where it is
 shown that all the logical propositions are variations of some such form as P Q+~P
 Q+P~Q+~(P Q)
 Peirce: CP 3.42 Fn 1 p 24
@@ -51280,7 +51280,7 @@ Teubner. 1895. Price, 16M.
 Peirce: CP 3.426 Fn 1 p 268
 †1 See 2.30.
 Peirce: CP 3.427 Fn 1 p 270
-†1 La philosophie positive, deuxèiame leçon.
+†1 La philosophie positive, deuxèdeuxième leçon.
 Peirce: CP 3.427 Fn 2 p 270
 †2 Cf. the classification of sciences in vol. 1, Bk. II.
 Peirce: CP 3.427 Fn 3 p 270
@@ -51302,7 +51302,7 @@ Peirce: CP 3.441 Fn 1 p 279
 Peirce: CP 3.441 Fn 2 p 279
 †2 E.g. Sextus Empiricus, Adv. Math. VIII, 113-17.
 Peirce: CP 3.441 Fn 3 p 279
-†3 The Diodorians in opposition to the Philonians deny that material
+†3 The Diodoreans in opposition to the Philonians deny that material
 implication expresses what is usually meant by "if ... then ...." For contemporary
 discussion see G. E. Moore, Philosophical Studies, p. 276ff; C. I. Lewis, A Survey of
 Symbolic Logic, esp. p. 324ff, and Paul Weiss, "Relativity in Logic," The Monist,
@@ -51310,7 +51310,7 @@ October, 1928; "The Nature of Systems," The Monist, April/July, 1929; "Entailmen
 and the Future of Logic," Proceedings, Seventh International Congress of
 Philosophy; E. J. Nelson, "Intensional Relations," Mind, October, 1930.
 Peirce: CP 3.442 Fn 1 p 280
-†1 Quæstiones in Octo libror Physicorum Aristotelis, L. 1, qu. II.
+†1 Quæstiones in Octo librorum Physicorum Aristotelis, L. 1, qu. II.
 Peirce: CP 3.446 Fn 1 p 282
 †1 Cf. 2.352 and 2.618.
 Peirce: CP 3.446 Fn 2 p 282
@@ -51358,8 +51358,8 @@ Peirce: CP 3.470 Fn 1 p 296
 III, No. 14; W. K. Clifford; "Remarks on the Chemico-Algebraic Theory,"
 Mathematical Papers, No. 28.
 Peirce: CP 3.470 Fn 1 p 297
-†1 Meyer used the volumes as abscissæ and the weights as ordinates. See Das
-Natürliche System der Chemischen Elemente, Meyer u. Mendejeff, Leipzig, 1895.
+†1 Meyer used the volumes as abscissææ and the weights as ordinates. See Das
+Natürliche System der Chemischen Elemente, Meyer u. Mendeleev, Leipzig, 1895.
 Peirce: CP 3.470 Fn 2 p 297
 †2 See 475f.
 Peirce: CP 3.473 Fn 1 p 299
@@ -51610,7 +51610,7 @@ Peirce: CP 3.554 Fn P1 p 346 Cross-Ref:††
 †P1 Davidson, Aristotle and the ancient educational ideals. Appendix: The
 Seven Liberal Arts. (New York: Charles Scribner's Sons.)
 Peirce: CP 3.555 Fn P1 p 347 Cross-Ref:††
-†P1 Brouillon, Proiet d'une atteinte aux événemens des rencontres du cône
+†P1 Brouillon, Proiet d'une atteinte aux évéévénements des rencontres du cône
 avec son plan, 1639.
 Peirce: CP 3.558 Fn P1 p 348 Cross-Ref:††
 †P1 In his Linear associative algebras, [p. 97, published in the American
@@ -52759,7 +52759,7 @@ Peirce: CP 4.24 Cross-Ref:††
 Felix Capella, who wrote a work entitled the Nuptials of Philology and of Mercury.
 This Martianus Capella thought that beneath the stars there was nothing so beautiful
 nor so worthy of emulation as the style of Apuleius. He did his very best to outdo
-him; and in studying him became embued with his phraseology. Now in the book the
+him; and in studying him became imbued with his phraseology. Now in the book the
 Seven Liberal Arts are invited to the celebration of the Nuptials aforesaid, and each
 one entertains the company with the greatest good taste by talking shop for all she is
 worth. The consequence is that the book contains seven short treatises upon these
@@ -52885,7 +52885,7 @@ logical. Among their names are Hartley, Berkeley, Hume, James Mill, John Stuart
 Mill, Bain. Bentham's Logic I must confess I do not remember to have seen. That of
 Mill, which appeared in 1843, contributed some phrases, which many persons adhere
 to passionately without reference to their meaning, sometimes seeming to attach no
-meaning to them, except the general one of a party-reveil. The present writer cares
+meaning to them, except the general one of a party-réveil. The present writer cares
 nothing about social matters, and knows not what such things mean. He examines
 logical questions as such and question by question. He perceives that many adherents
 of John Stuart Mill seem to be in a passion about something. But until they can calm
@@ -52954,7 +52954,7 @@ reference to the logical character of their products into
 Simple Apprehension,
 Judgment, and
 Ratiocination, or Reasoning.
-Prantl declares †4 the commentary on the Perihermeneias in which this occurs not to
+Prantl declares †4 the commentary on the Perihermeneia in which this occurs not to
 be the work of Aquinas. But he does not explain how it could possibly happen that all
 the other books of the commentary should be genuine, as he admits they are, and this
 spurious. From the manner in which such books are written it is utterly inadmissible
@@ -52995,15 +52995,15 @@ further be approximate and probable assertions, as "about 51 per cent of the bir
 any one year will be male." Propositions are divided into the Categorical and the
 Hypothetical. "Propositionum alia categorica alia hypothetica,"†1 says the
 Summulæ. A categorical proposition is one whose immediate parts are terms; or as
-the Summulæ of the Mayence doctors say,†2 "cathegorica est illa quæ habet
-subiectum et prædicatum tanguam partes principales sui." A hypothetical proposition,
+the Summulæ of the Mayence doctors say,†2 "categorica est illa quæ habet
+subiectum et præpraedicatum tandem partes principales sui." A hypothetical proposition,
 better called by the Stoics †3 a composite proposition, is one which is composed of
 other propositions: "Propositio hypothetica est illa quæ habet duas propositiones
-cathegoricas tanquam partes principales sui."†4 The old, and less incorrect doctrine
+categoricas tanquam partes principales sui."†4 The old, and less incorrect doctrine
 about compound propositions was that they were of three kinds, conditional,
 copulative, and disjunctive.†5 A conditional proposition is one whose members are
 joined by an if, or its equivalent: "Conditionalis est illa in qua coniunguntur duæ
-cathegoricæ per hanc coniunctionem, si."†6 That is, what is asserted is that in case
+categoricaeæ per hanc coniunctionem, si."†6 That is, what is asserted is that in case
 one proposition, called the antecedent, is true, another proposition, called the
 consequent, is true. But how it may be in the opposite case in which the antecedent is
 not true is not stated. A copulative proposition is one in which the truth of every one
@@ -53228,7 +53228,7 @@ to draw the conclusion, the inference is called a Reason-inference. In the propo
 "All men are mortal" is contained the propositions, "Some men are mortal," "Some
 mortals are men," "No immortal is a man." These, therefore, follow immediately from
 that. On the other hand, the proposition "All savans are mortal" is not contained in
-our assumed judgment (which does not contain the notion of savan), so that this
+our assumed judgment (which does not contain the notion of savant), so that this
 proposition cannot be deduced from that other without a mediating judgment." [This
 is a slipshod analysis. Kant, out of his well-founded contempt for the scholastic
 method of trying to answer real questions by drawing distinctions, was led virtually to
@@ -53580,24 +53580,24 @@ began to be a conceited young man. By the time the young man has grown to be an
 old man, he will have learned that traditions are precious treasures, while iconoclastic
 
 inventions are always cheap and often nasty. He will learn that when one's opinion is
-beseiged and one is pushed by questions from one reason to another behind it, there is
+besieged and one is pushed by questions from one reason to another behind it, there is
 nothing illogical in saying at last, "Well, this is what we have always thought; this has
 been assumed for thousands of years without inconvenience." The childishness only
 comes in when tradition, instead of being respected, is treated as something infallible
 before which the reason of man is to prostrate itself, and which it is shocking to deny.
 In 1637, Descartes (aged 41) published his first work on philosophy, the Discours de
-la méthode pour bien conduise sa raison et chercher la verité dans les sciences. In
+la méthode pour bien conduire sa raison et chercher la véritéé dans les sciences. In
 the fourth part of this dissertation, after insisting upon the doubtfulness of everything,
 even the simplest propositions of mathematics, in a strain quite familiar to readers of
 the present work, he goes on to say how at one time "je me résolus de feindre que
 toutes les choses qui m'étoient jamais entrées en esprit n'étoient non plus vraies que
-les illusions de mes songes." Thereupon follows the grand passage: "Mais aussitôt
+les illusions de mes songes." Thereupon follows the grand passage: "Mais aussitôtôt
 après je pris garde que, pendant que je voulais ainsi penser que tout étoit faux, il
 falloit nécessairement que moi qui le pensois susse quelque chose; et, remarquant que
 cette vérité: je pense, donc je suis, étoit si ferme et si assurée que toutes les plus
-extravagantes suppositions des sceptiques n'étoient pas capable de l'ébranler, je jugeai
-que je pouvois la recevoir sans scrupule pour le premier principe de la philosophie
-que je cherchois."
+extravagantes suppositions des sceptiques n'étoient pas capable de l'ébranler, je jugeais
+que je pouvais la recevoir sans scrupule pour le premier principe de la philosophie
+que je cherchais."
 Peirce: CP 4.71 Cross-Ref:††
 Descartes thought this "très-clair"; but it is a fundamental mistake to suppose
 that an idea which stands isolated can be otherwise than perfectly blind. He professes
@@ -53846,12 +53846,12 @@ from the bread and butter of all parties, and to yield to the temptation of goin
 would be to forget
 
 That not to know at large of things remote
-From use, obscure and suttle, but to know
+From use, obscure and subtle, but to know
 That which before us lies in daily life,
 Is the prime Wisdom, what is more is fume,
 Or emptiness, or fond impertinence,
 And renders us in things that most concerne
-Unpractis'd, unprepar'd, and still to seek.
+Unpracticed, unprepared, and still to seek.
 
 Peirce: CP 4.81 Cross-Ref:††
 81. Second intentional logic treats at length of the properties of logical
@@ -53888,7 +53888,7 @@ calculus.
 Peirce: CP 4.83 Cross-Ref:††
 Among the forms of logisteria which require attentive study and which are
 found to possess interesting properties are particularly those which are infinite series,
-though the very purpose of the lectical symbols is to embrace infinite series. But we
+though the very purpose of the logical symbols is to embrace infinite series. But we
 find that we have to resort to logisteria of logisteria, and to their logisteria again, and
 so on indefinitely, and that the distinctive characters of different such infinite series of
 logisteria have to be discriminated.
@@ -54629,11 +54629,11 @@ the three premisses is implicitly assumed but not stated by De Morgan; the relat
 his "for every," and one of his three terms is superfluous. Thus he puts the argument
 about the checks into form as follows:†1
 
-"For every memorandum of a purchase a countercheque is a transaction
+"For every memorandum of a purchase a countercheck is a transaction
 involving the drawing of a cheque,
 
 "Some purchases are not transactions involving the drawing of checks;
-"Therefore, some countercheques are not memoranda of purchases."
+"Therefore, some counterchecks are not memoranda of purchases."
 
 But I should put it in form as follows:
 
@@ -54768,7 +54768,7 @@ applies the kind of reasoning called by me the Fermatian inference. This consist
 proving a proposition to be true of such a series, because otherwise it must be false of
 an enumerable collection, such falsity, by reasoning on the principle of the part being
 less than the whole, being shown to be impossible. Fermat himself called it indefinite
-descent. He states his "manière de demonstrer," which he calls "une route tout à fait
+descent. He states his "manière de demonstrate," which he calls "une route tout à fait
 singulière" as consisting in showing that if the proposition to be proved were false of
 any number, it would be false of some smaller number. This statement shows a good
 comprehension of its nature.†1
@@ -54962,7 +54962,7 @@ limit which may be passed through. This latter is a more balanced conception tha
 other; but the mathematician reduces the other to it by conceiving, that in the former
 case also, after passing through infinity as a mere point, we pass into a new region -- a
 new world. We pass off, for example, in a straight line parallel to the earth's axis
-northwardly: after passing through infinity we pass into an imaginary region from
+northward: after passing through infinity we pass into an imaginary region from
 which after an infinite passage we re-emerge into our space at the extreme south. Or,
 it may be that this imaginary world reduces to nothing and that the points at infinity
 north and south coincide. This is the way the mathematician supplements facts in the
@@ -55070,7 +55070,7 @@ This is true, but manifestly insufficient, since it holds of the series of ratio
 fractions, the multitude of which is only dinumerable. Indeed, Kant's definition
 applies if from such a series any two, together with all that are intermediate, be cut
 away; although in that case a finite gap is made. I have termed the property of infinite
-intermediety, or divisibility, the Kanticity of a series. It is one of the defining
+intermediacy, or divisibility, the Kanticity of a series. It is one of the defining
 characters of a continuum. We had better define it in terms of the algebra of relatives.
 Be it remembered that continuity is not an affair of multiplicity simply (though
 nothing but an innumerable multitude can be continuous) but is an affair of
@@ -57098,7 +57098,7 @@ English system of numeration. What the number itself would be called it would ne
 a multimillionaire to say. But I suppose the word trimillillillion might mean a million
 to the trimillillionth power; and a trimillillion would be a million to the three
 thousandth power. But the multitude considered is far greater than a trimillillillion. It
-is safe to say that it far exceeds the number of chemical atoms in the gallactic cluster.
+is safe to say that it far exceeds the number of chemical atoms in the galactic cluster.
 Yet this is one of the early terms of a series which is confined entirely to finite
 
 collections and never reaches the really interesting division of multitudes, which
@@ -57349,7 +57349,7 @@ But the conception may be still further generalized, and in being further genera
 returns more closely to its primitive type. The more general conception of
 multiplication to which I allude is expressed in the following definition:
 Multiplication is the pairing of every unit of one quantity with every unit of another
-quantity so as to make a new unit. Since there are two acceptions of the term pair -the ordered acception, according to which AB and BA are different pairs, and the
+quantity so as to make a new unit. Since there are two acceptance of the term pair -the ordered acception, according to which AB and BA are different pairs, and the
 unordered acception -- there are two varieties of multiplication, the non-commutative
 and the commutative. Multiplication may further be distinguished into the free and
 the dominated. In free multiplication the idea of pairing remains in all its purity and
@@ -58294,7 +58294,7 @@ projections, not at all with lengths) could be said to be a science of quantitie
 by the definition "Mathematics is the science of quantity," is sufficiently shown by
 
 the circumstance that those writers who first enunciate it, about A.D. 500, that is
-Ammonius Hermiæ†2 and Boëthius,†3 make astronomy and music branches of
+Ammonius Hermesæ†2 and Boëthius,†3 make astronomy and music branches of
 mathematics; and it is confirmed by the reasons they give for doing so.†P2 Even Philo
 of Alexandria (100 B.C.), who defines mathematics as the science of ideas furnished
 by sensation and reflection in respect to their necessary consequences, since he
@@ -61678,11 +61678,11 @@ The insertion of this aggregant authorizes the insertion of its negative as a co
 of another aggregant.
 π[i]π[j]π[k]π[α]π[w]π[β]π[u]Σ[x]~(i+j)[k] ~q[αw]Ψσ[wk] q[αw]·{~q[βu]
 ~(u+j)[w]} q[βx] ~σ[xi].
-We now diduce w, transmuting it in one term into z, and thus obtain finally,
+We now deduce w, transmuting it in one term into z, and thus obtain finally,
 (29) π[i]π[j]π[k]π[α]π[w]Σ[z]π[β]π[u]Σ[x]~(i+j)[k] ~q[αw]Ψσ[wk]
 q[αz]·{~q[βu] ~(u+j)[z]} q[βx] ~σ[xi].
 Peirce: CP 4.346 Cross-Ref:††
-Here we have a nice little theoremidion, obvious though not self-evident.
+Here we have a nice little theorem, obvious though not self-evident.
 Namely, if any three positive integers, i, j, k, are such that k can result from adding i
 to j, then, selecting any class of integers we please, and speaking of the character of
 being an integer of this class as "the character α" either all integers of this class are as
@@ -61708,7 +61708,7 @@ EXISTENTIAL GRAPHSP
 
 MY CHEF D'OEUVRE
 
-EULER'S DIAGRAMSE
+EULER'S DIAGRAMS
 
 §1. LOGICAL DIAGRAM †1
 
@@ -62202,7 +62202,7 @@ transformed into .†1
 Figs. 29-30
 
 Rule 3. Any assertion which could permissively be written, if there were no
-other assertion, can be written at any time, detachedly.
+other assertion, can be written at any time, detached.
 Rule 4. In the same compartment repetitions of the same sign, whether
 mutually attached or detached, are equivalent to one writing of it. Two different signs
 in the same compartment, if attached to one another are equivalent to no sign at all,
@@ -63753,7 +63753,7 @@ arbitrarily conventional nor purely conventional. Consider any portion of it tak
 arbitrarily (with certain possible exceptions shortly to be considered) and it is an
 ordinary graph for which might perfectly well be substituted. But when we
 consider the
---is identical withconnexion of this portion with a next adjacent portion, although the two together
+--is identical connexion of this portion with a next adjacent portion, although the two together
 make up the same graph, yet the identification of the something, to which the hook of
 the one refers, with the something, to which the hook of the other refers, is beyond the
 power of any graph to effect, since a graph, as a symbol, is of the nature of a law, and
@@ -63808,7 +63808,7 @@ fire; and again the proposition will be true. It is only false in case whatever 
 be is a salamander while nothing lives in fire. Consequently, would be
 precisely equivalent to
 
-here to view], and there would be no need of any line of identity's crossing a sep. It
+here to view], and there would be no need of any line of identity crossing a sep. It
 would then be impossible to express a universal categorical analytically except by
 resorting to an unanalytic expression of such a proposition or something substantially
 equivalent to that.†P1
@@ -63906,7 +63906,7 @@ For a tetrad there are 150 such forms; for a pentad 1082; for a hexad 9366; etc.
 Peirce: CP 4.454 Cross-Ref:††
 B. Derived Principles of InterpretationP
 
-§1. OF THE PSEUDOGRAPH AND CONNECTED SIGNSP
+§1. OF THE PSEUDOGRAPH AND CONNECTED SIGNS
 
 454. It is, as will soon appear, sometimes desirable to express a proposition
 either absurd, contrary to the understanding between the graphist and the interpreter,
@@ -63988,7 +63988,7 @@ identity traversing it, expresses with its contents the non-identity of the extr
 of that line.
 
 Peirce: CP 4.460 Cross-Ref:††
-§2. SELECTIVES AND PROPER NAMESP
+§2. SELECTIVES AND PROPER NAMES
 
 460. It is sometimes impossible upon an ordinary surface to draw a graph so
 that lines of identity will not cross one another. If, for example, we express that x is a
@@ -64274,7 +64274,7 @@ regarded as an ens rationis.
 Peirce: CP 4.475 Cross-Ref:††
 PART II. THE PRINCIPLES OF ILLATIVE TRANSFORMATIONP
 
-A. Basic PrinciplesP
+A. Basic Principles
 
 §1. SOME AND ANY
 
@@ -64398,7 +64398,7 @@ proposition: "A certain bookseller only quotes a line of poetry in case it was w
 by some blind authoress, and he either is trying to sell any books she may have
 written to the person to whom he quotes the line or else intends to reprint some book
 of hers." Here the existence of a bookseller is categorically affirmed; but the existence
-of a blind authoress is only affirmed conditionally on that bookseller's quoting a line
+of a blind authoress is only affirmed conditionally on that bookseller quoting a line
 of poetry. As for any book by her, none such is positively said to exist, unless the
 bookseller is not endeavoring to sell all the books there may be by her to the person to
 whom he quotes the line.
@@ -64883,8 +64883,8 @@ hook of any graph-replica, the same should be the case with the new replica.
 Note B. This rule does not confer a right to ligate any hook to another nor to
 deligate any hook from another unless the same hooks, or corresponding hooks of
 other replicas of the same graphs (these replicas being outside every sep that the
-hooks ligated or deligated are outside), be ligated otherwise, and outside of every sep
-that the new ligations or deligations are outside of.
+hooks ligated or delegate are outside), be ligated otherwise, and outside of every sep
+that the new ligations or delegations are outside of.
 This rule does not confer the right to extend any ligature outwardly from
 within any sep, nor to retract any ligature inwardly from without any sep.
 Peirce: CP 4.507 Cross-Ref:††
@@ -64902,7 +64902,7 @@ asserted that it snows, we may insert a graph asserting "that it snows is assert
 is possible to assert that it snows without asserting that it is winter."
 Peirce: CP 4.508 Cross-Ref:††
 
-508. Rule 4. Called The Rule of Biclosure. Two seps, one within the other,
+508. Rule 4. Called The Rule of Closure. Two seps, one within the other,
 with nothing between them whose significance is affected by seps, may be withdrawn
 from about the graph they doubly enclose.
 Peirce: CP 4.508 Cross-Ref:††
@@ -65427,13 +65427,13 @@ Icon, and an Icon of intelligible relations. It is true that what must be is not
 learned by simple inspection of anything. But when we talk of deductive reasoning
 being necessary, we do not mean, of course, that it is infallible. But precisely what we
 do mean is that the conclusion follows from the form of the relations set forth in the
-premiss. Now since a diagram, though it will ordinarily have Symbolide Features, as
+premiss. Now since a diagram, though it will ordinarily have Symbolic Features, as
 well as features approaching the nature of Indices, is nevertheless in the main an Icon
 of the forms of relations in the constitution of its Object, the appropriateness of it for
 the representation of necessary inference is easily seen.
 
 Peirce: CP 4.532 Cross-Ref:††
-§2. COLLECTIONSE
+§2. COLLECTIONS
 
 532. But since you may, perhaps, be puzzled to understand how an Icon can
 exhibit a necessity -- a Must-be -- I will here give, as an example of its doing so, my
@@ -65684,7 +65684,7 @@ A Graph is a Pheme, and in my use hitherto, at least, a Proposition. An
 Argument is represented by a series of Graphs.
 
 Peirce: CP 4.539 Cross-Ref:††
-§4. UNIVERSES AND PREDICAMENTSE
+§4. UNIVERSES AND PREDICAMENTS
 
 539. The Immediate Object of all knowledge and all thought is, in the last
 analysis, the Percept. This doctrine in no wise conflicts with Pragmaticism, which
@@ -66115,7 +66115,7 @@ slightly affect; so that, should it be incorrect, the utmost certain effect will
 danger that our system may not represent every variety of non-human thought.
 
 Peirce: CP 4.552 Cross-Ref:††
-§5. TINCTURED EXISTENTIAL GRAPHSE
+§5. TINCTURED EXISTENTIAL GRAPHS
 
 552. There now seems to remain no reason why we should not proceed
 forthwith to formulate and agree upon
@@ -66715,7 +66715,7 @@ here to view]†2
 
 was marred by a certain rule which, from the point of view
 from which I thought the system ought to be regarded, seemed
-quite out of place and inacceptable, and yet which I found
+quite out of place and unacceptable, and yet which I found
 myself unable to dispute.†3 I will just illustrate this matter by an example. Suppose
 we wish to assert that there is a man every dollar of whose indebtedness will be paid
 by some man
@@ -66840,12 +66840,12 @@ THE AMAZING MAZES
 THE FIRST CURIOSITY†1E
 
 "Mazes intricate.
-Eccentric, interwov'd, yet regular
+Eccentric, interwove, yet regular
 Then most, when most irregular they seem."
 
 Milton's Description of the Mystical Angelic Dance.
 
-§1. STATEMENT OF THE FIRST CURIOSITYE
+§1. STATEMENT OF THE FIRST CURIOSITY
 
 585. About 1860 I cooked up a mélange of effects of most of the elementary
 principles of cyclic arithmetic; and ever since, at the end of some evening's card-play,
@@ -66910,7 +66910,7 @@ turned to form the bottom of the first pile, the second that of the second pile 
 right hand of the first pile), the third card going on the first pile again, the fourth on
 the second, and every following card being placed immediately upon the card whose
 ordinal, or serial, number in the packet before the deal was two lower than the
-former's ordinal, or serial, number then was. The last card, however, is to be
+former ordinal, or serial, number then was. The last card, however, is to be
 exceptionally treated. Instead of being placed on the top of the second pile according
 to the rule just given, it is to be placed on the table, face up, and apart from the other
 cards, to make the bottom card of an isolated pile, to be called the "discard pile";
@@ -67011,7 +67011,7 @@ Example. If 13 cards are dealt into five piles, the thirteenth card will fall on
 the second pile from the extreme right-hand pile going round counter-clockwise.
 Supposing, then, that the first pile taken is the right-handmost but one, they are all to
 be taken in the order marked in .
-Second Form. Proceed as in the first form of the rule until you have repassed
+Second Form. Proceed as in the first form of the rule until you have repass
 the place of the first pile taken. You will then always find that the place of the last
 pile taken is nearer to that of some pile, P, previously taken, than it is to the place of
 that taken immediately before it. Then, the next pile to be taken will be in the same
@@ -67463,7 +67463,7 @@ values, Sii, Svi, Sx, and Sxiv, that are not values of y; and let us define {z} 
 value of z that is not a y. The proof that there can be no more than four {z}'s is so
 
 exactly like the foregoing as to be hardly worth giving. I will relegate it to a
-paragraph of its own that shall be both eusceptic and euskiptatic -- "what horrors!" I
+paragraph of its own that shall be both susceptic and euskiptatic -- "what horrors!" I
 hear from the mouths of those moderns who abominate all manufactures of Hellenic
 raw materials, like "skip" and "skimp."
 We have seen that either z2 = 1, or z2 = {x}, or z2 = {é}; and also that, in the
@@ -67763,7 +67763,7 @@ in order to bring round the original arrangement again. It seems that there is a
 Arithmeticus got out by Jacobi, which gives the numbers for the first 170 primes or
 so. It was published in the year of my birth;†1 so that it was clearly the purpose of the
 Eternal that I should have the advantage of it. But that purpose must have been
-frustrated; for I never saw the book. The Tables Arithmétiques of Hoüel
+frustrated; for I never saw the book. The Tables ArithméArithmétiques of Hoüel
 (Gauthiers-Villars: 1866, 8vo, pp. 44) gives those numbers for all primes less than
 200. From these tables it appears that for about five-eighths of the primes one such
 number is either 2 or p-2. Now as soon as one has been found, it is easy to find the
@@ -69491,7 +69491,7 @@ that; I mean that the idea of the integral is essentially involved in the idea o
 problem in probabilities. Just so, in the instances adduced; what they evidently prove
 is that the abstract ideas of multiplication and of involution are involved, the one in
 the more concrete idea of a collection whose units are collections, and the other in the
-concreter idea of the different ways of distributing the members of one collection into
+concrete idea of the different ways of distributing the members of one collection into
 connection with the several units of another collection. I admit, with all my heart, the
 instructiveness of these remarks and to the fact that they shed a brilliant illumination
 upon the essential nature of the arithmetical and algebraical results. Indeed, they are
@@ -69766,7 +69766,7 @@ of the body of reasons as what has gone before suggests. Now what has gone befor
 
 does suggest a new argument that seems to me decisive. The whole list of different
 multitudes is as follows. Beginning with the multitude of nothing, which is none
-(corresponding to the ordinal variously called "zero," "the origin," and "noneth," these
+(corresponding to the ordinal variously called "zero," "the origin," and "nonet," these
 three words marking three different aspects of that ordinal), we take the sole
 collection that has that multitude, which is Nothing, and successively add units to it as
 long as each added unit increases the multitude. This gives us the whole series of
@@ -70125,7 +70125,7 @@ Peirce: CP 4.9 Fn 2 p 12
 †2 See 2.93, 2.229.
 
 Peirce: CP 4.12 Fn 1 p 13
-†1 Untitled paper c. 1880. Compare H. M. Sheffer's: "A Set of Five
+†1 Untitled paper c. 1880. Compare H. M. Sheffer: "A Set of Five
 Independent Postulates for Boolean Algebras, with application to logical constants,"
 Transactions, American Mathematical Society, vol. 14, pp. 481-88 (1913), of which
 this is a striking anticipation. See also 264f., where the same idea is developed from a
@@ -70221,7 +70221,7 @@ Peirce: CP 4.26 Fn 2 p 21
 Peirce: CP 4.27 Fn 1 p 22
 †1 Various Opuscula.
 Peirce: CP 4.27 Fn 2 p 22
-†2 Coplulata pulcerrima in novam logicam Aristotelis, (1493).
+†2 Coplulata pulcherrima in novam logicam Aristotelis, (1493).
 Peirce: CP 4.27 Fn 3 p 22
 †3 Commentariorum Collegii Conimbricensis in universam dialecticam
 Aristotilis Stagiritæ partes duæ, Venice, (1616).
@@ -70705,7 +70705,7 @@ Peirce: CP 4.216 Fn 1 p 182
 Peirce: CP 4.223 Fn 1 p 187
 †1 Such as the centre of a circle.
 Peirce: CP 4.225 Fn 1 p 188
-†1 See his "Elementa doctrinæ solidarum" Novi Commentarii Petropolitanæ,
+†1 See his "Elementa doctrinaæ solidarum" Novi Commentarii Petropolitanæ,
 T. IV, p. 119, (1752-3).
 Peirce: CP 4.227 Fn 1 p 189
 †1 Chapter 3 of the "Minute Logic," dated January-February, 1902. For the
@@ -71442,7 +71442,7 @@ represented in a percept. Though each percept is vague, as it is recognized that
 object is the result of the action of the universe on the perceiver, it is so far clear.
 Peirce: CP 4.540 Fn 1 p 427
 †1 This is the last published article of the present series. A number of
-incompleted papers, intended as the next article, have been found and published in
+incomplete papers, intended as the next article, have been found and published in
 part. See e.g., 1.305n, 1.306n, 534n, 553n, 561n, 564n, 5.549f.
 Peirce: CP 4.541 Fn P1 p 428 Cross-Ref:††
 †P1 Abduction, in the sense I give the word, is any reasoning of a large class
@@ -71785,7 +71785,7 @@ Peirce: CP 4.594 Fn 2 p 485
 Peirce: CP 4.596 Fn 1 p 490
 †1 See Oeuvres, t. II, p. 209; Paris, (1894).
 Peirce: CP 4.596 Fn 1 p 491
-†1 See Leibnizens Mathematische Schriften, ed. C. 1. Gerhardt, VII, S. 180.
+†1 See Leibniz's Mathematische Schriften, ed. C. 1. Gerhardt, VII, S. 180.
 Peirce: CP 4.596 Fn 2 p 491
 †2 Commentarii Academiæ Petropolitanæ, t. VIII, pp. 141-6.
 Peirce: CP 4.596 Fn 3 p 491
@@ -71944,18 +71944,18 @@ Peirce: CP 4.658 Fn 4 p 557
 Peirce: CP 4.658 Fn 5 p 557
 †5 Opus Majus, Part 4.
 Peirce: CP 4.658 Fn 6 p 557
-†6 Regule Abaci, Bull. di Bibliographia, T. XIV.
+†6 Regula Abaci, Bull. di Bibliographia, T. XIV.
 Peirce: CP 4.658 Fn 7 p 557
 
 †7 Arithmetica speculativa, Paris (1495).
 Peirce: CP 4.658 Fn 8 p 557
 †8 Opuscula, Strasburg (1490).
 Peirce: CP 4.658 Fn 9 p 557
-†9 Algorisimus, Padua (1483).
+†9 Algoritmus, Padua (1483).
 Peirce: CP 4.658 Fn 10 p 557
 †10 By U. Wagner (1482).
 Peirce: CP 4.658 Fn 11 p 557
-†11 Betrede und hubsche Rechnung, Pforzheim (1489).
+†11 Betrede und hübsche Rechnung, Pforzheim (1489).
 Peirce: CP 4.658 Fn 12 p 557
 †12 Anonymous.
 Peirce: CP 4.658 Fn 13 p 557
@@ -75019,7 +75019,7 @@ question, covering its whole literature, as far as known to me, and carrying the
 criticism in the strictest logical form to its extreme beginnings, without leaving any
 loopholes that I was able to discern with my utmost pains, these two briefs being
 made at an interval of a year or more and as independently as possible, although they
-were subsequently minutely compared, amended, and reduced to one. My waverings,
+were subsequently minutely compared, amended, and reduced to one. My wavering,
 therefore, have never been due to haste. They may argue stupidity. But I can at least
 claim that they prove one quality in my favor. That is that so far from my being
 wedded to opinions as being my own, I have shown rather a decided distrust of any
@@ -76097,7 +76097,7 @@ circumference of the circle, would be incommensurable, so that an incommensurabl
 measure is real, and thence it easily follows that all such lengths are real or possible.
 But these exceed in multitude the only multitude those logicians admit. Without any
 geometry, the same result could be reached, supposing only that we have an
-indefinitely bisectible quantity.
+indefinitely bisectable quantity.
 Peirce: CP 5.204 Cross-Ref:††
 204. We are thus led to a fourth opinion very common among mathematicians,
 who generally hold that any one irrational real quantity (say of length, for example)
@@ -76892,7 +76892,7 @@ logic.
 Peirce: CP 5.264 Cross-Ref:††
 SOME CONSEQUENCES OF FOUR INCAPACITIES†1
 
-§1. THE SPIRIT OF CARTESIANISME
+§1. THE SPIRIT OF CARTESIANISM
 
 264. Descartes is the father of modern philosophy, and the spirit of
 Cartesianism -- that which principally distinguishes it from the scholasticism which it
@@ -76969,7 +76969,7 @@ result from assuming the third also; and, finally, add the fourth to our hypothe
 premisses.
 
 Peirce: CP 5.266 Cross-Ref:††
-§2. MENTAL ACTIONE
+§2. MENTAL ACTION
 
 266. In accepting the first proposition, we must put aside all prejudices
 derived from a philosophy which bases our knowledge of the external world on our
@@ -77789,7 +77789,7 @@ as to become -Peirce: CP 5.309 Cross-Ref:††
 The sign is almost (is representative of) that thing.
 
 Peirce: CP 5.310 Cross-Ref:††
-§4. MAN, A SIGNE
+§4. MAN, A SIGN
 
 310. We come now to the consideration of the last of the four principles whose
 consequences we were to trace; namely, that the absolutely incognizable is absolutely
@@ -78170,7 +78170,7 @@ things on their own valuation." Would not the surveyor reply: "This map is my
 description of the country. Its own valuation can be nothing but what I say, and all the
 world understands, that I mean by it. Is it very unreasonable that I should demand to
 be taken as I mean, especially when I succeed in making myself understood?" What
-the objector's reply to this question would be, I leave it to anyone to say who thinks
+the objector reply to this question would be, I leave it to anyone to say who thinks
 his position well taken. Now this line of objection is parallel to that which is made
 against the syllogism. It is shown that no number of syllogisms can constitute the sum
 total of any mental action, however restricted. This may be freely granted, and yet it
@@ -78362,7 +78362,7 @@ Other for itself. So this day being other than rainy, that to which it is Other 
 But it is Other than itself. Hence, it is itself Rainy.
 
 Peirce: CP 5.333 Cross-Ref:††
-§2. THE THREE KINDS OF SOPHISMSE
+§2. THE THREE KINDS OF SOPHISMS
 
 333. Some sophisms have, however, been adduced, mostly by the Eleatics and
 Sophists, which really are extremely difficult to resolve by syllogistic rules; and
@@ -79047,7 +79047,7 @@ derived from authority. Accordingly, as soon as a boy was perfect in the syllogi
 procedure, his intellectual kit of tools was held to be complete.
 Peirce: CP 5.360 Cross-Ref:††
 360. To Roger Bacon,†2 that remarkable mind who in the middle of the
-thirteenth century was almost a scientific man, the schoolmen's conception of
+thirteenth century was almost a scientific man, the schoolmen conception of
 reasoning appeared only an obstacle to truth. He saw that experience alone teaches
 anything -- a proposition which to us seems easy to understand, because a distinct
 conception of experience has been handed down to us from former generations; which
@@ -79113,7 +79113,7 @@ are due to such action, or what position the theory ought to take, forms the sub
 a discussion in which questions of fact and questions of logic are curiously interlaced.
 
 Peirce: CP 5.365 Cross-Ref:††
-§2. GUIDING PRINCIPLESE
+§2. GUIDING PRINCIPLES
 
 365. The object of reasoning is to find out, from the consideration of what we
 already know, something else which we do not know. Consequently, reasoning is
@@ -79600,7 +79600,7 @@ from the blaze of whose splendors he draws his inspiration and his courage.
 Peirce: CP 5.388 Cross-Ref:††
 HOW TO MAKE OUR IDEAS CLEAR.
 
-§1. CLEARNESS AND DISTINCTNESSE
+§1. CLEARNESS AND DISTINCTNESS
 
 388. Whoever has looked into a modern treatise on logic of the common
 sort,†P1 will doubtless remember the two distinctions between clear and obscure
@@ -79633,7 +79633,7 @@ according to them, when we can give a precise definition of it, in abstract term
 the professional logicians leave the subject; and I would not have troubled the reader
 with what they have to say, if it were not such a striking example of how they have
 been slumbering through ages of intellectual activity, listlessly disregarding the
-enginery of modern thought, and never dreaming of applying its lessons to the
+machinery of modern thought, and never dreaming of applying its lessons to the
 improvement of logic. It is easy to show that the doctrine that familiar use and
 abstract distinctness make the perfection of apprehension has its only true place in
 philosophies which have long been extinct; and it is now time to formulate the
@@ -79700,7 +79700,7 @@ than such as wallow helplessly in a rich mud of conceptions. A nation, it is tru
 in the course of generations, overcome the disadvantage of an excessive wealth of
 language and its natural concomitant, a vast, unfathomable deep of ideas. We may see
 it in history, slowly perfecting its literary forms, sloughing at length its metaphysics,
-and, by virtue of the untirable patience which is often a compensation, attaining great
+and, by virtue of the untiring patience which is often a compensation, attaining great
 excellence in every branch of mental acquirement. The page of history is not yet
 unrolled that †2 is to tell us whether such a people will or will not in the long run
 prevail over one whose ideas (like the words of their language) are few, but which
@@ -79871,7 +79871,7 @@ doctrine as that of transubstantiation. The Protestant churches generally hold t
 elements of the sacrament are flesh and blood only in a tropical sense; they nourish
 our souls as meat and the juice of it would our bodies. But the Catholics maintain that
 they are literally just meat and blood †4; although they possess all the sensible
-qualities of wafercakes and diluted wine. But we can have no conception of wine
+qualities of wafer cakes and diluted wine. But we can have no conception of wine
 except what may enter into a belief, either -Peirce: CP 5.401 Cross-Ref:††
 1. That this, that, or the other, is wine; or, 2. That wine possesses certain
 properties. Such beliefs are nothing but self-notifications that we should, upon
@@ -80046,7 +80046,7 @@ those considerations, the quibbling character of the distinction must have struc
 mind accustomed to real thinking.
 
 Peirce: CP 5.405 Cross-Ref:††
-§4. REALITYE
+§4. REALITY
 
 405. Let us now approach the subject of logic, and consider a conception
 which particularly concerns it, that of reality. Taking clearness in the sense of
@@ -80228,7 +80228,7 @@ Peirce: CP 5.411 Cross-Ref:††
 
 WHAT PRAGMATISM IS†1
 
-§1. THE EXPERIMENTALISTS' VIEW OF ASSERTIONE
+§1. THE EXPERIMENTALISTS' VIEW OF ASSERTION
 
 411. The writer of this article has been led by much experience to believe that
 every physicist, and every chemist, and, in short, every master in any department of
@@ -80331,7 +80331,7 @@ an injury to philosophy itself; and furthermore, that once a conception has been
 supplied with suitable and sufficient words for its expression, no other technical
 terms denoting the same things, considered in the same relations, should be
 countenanced. Should this suggestion find favor, it might be deemed needful that the
-philosophians in congress assembled should adopt, after due deliberation, convenient
+philosophers in congress assembled should adopt, after due deliberation, convenient
 canons to limit the application of the principle. Thus, just as is done in chemistry, it
 might be wise to assign fixed meanings to certain prefixes and suffixes. For example,
 it might be agreed, perhaps, that the prefix prope- should mark a broad and rather
@@ -80341,7 +80341,7 @@ defined acception of that doctrine, etc. Then again, just as in biology no accou
 taken of terms antedating Linnæus, so in philosophy it might be found best not to go
 back of the scholastic terminology. To illustrate another sort of limitation, it has
 probably never happened that any philosopher has attempted to give a general name
-to his own doctrine without that name's soon acquiring in common philosophical
+to his own doctrine without that name soon acquiring in common philosophical
 usage, a signification much broader than was originally intended. Thus, special
 systems go by the names Kantianism, Benthamism, Comteanism, Spencerianism, etc.,
 while transcendentalism, utilitarianism, positivism, evolutionism, synthetic
@@ -80349,7 +80349,7 @@ philosophy, etc., have irrevocably and very conveniently been elevated to broade
 governments.
 
 Peirce: CP 5.414 Cross-Ref:††
-§3. PRAGMATICISME
+§3. PRAGMATISM
 
 414. After awaiting in vain, for a good many years, some particularly
 opportune conjuncture of circumstances that might serve to recommend his notions of
@@ -80431,7 +80431,7 @@ least. Now that which you do not at all doubt, you must and do regard as infalli
 absolute truth. Here breaks in Mr. Make Believe: "What! Do you mean to say that one
 is to believe what is not true, or that what a man does not doubt is ipso facto true?"
 No, but unless he can make a thing white and black at once, he has to regard what he
-does not doubt as absolutely true. Now you, per hypothesiu, are that man. "But you
+does not doubt as absolutely true. Now you, per hypothesis, are that man. "But you
 tell me there are scores of things I do not doubt. I really cannot persuade myself that
 there is not some one of them about which I am mistaken." You are adducing one of
 your make-believe facts, which, even if it were established, would only go to show
@@ -80515,7 +80515,7 @@ convenient to imagine that somebody to whom the doctrine is new, but of rather
 preternatural perspicacity, asks questions of a pragmaticist. Everything that might
 give a dramatic illusion must be stripped off, so that the result will be a sort of cross
 between a dialogue and a catechism, but a good deal liker the latter -- something
-rather painfully reminiscent of Mangnall's Historical Questions.
+rather painfully reminiscent of Mangnall Historical Questions.
 Questioner: I am astounded at your definition of your pragmatism, because
 only last year I was assured by a person above all suspicion of warping the truth -himself a pragmatist -- that your doctrine precisely was "that a conception is to be
 tested by its practical effects." You must surely, then, have entirely changed your
@@ -80589,7 +80589,7 @@ Peirce: CP 5.425 Cross-Ref:††
 meaning to consist in an experiment (which you speak of as an event in the past), you
 strikingly fail to catch his attitude of mind. Indeed, it is not in an experiment, but in
 experimental phenomena, that rational meaning is said to consist. When an
-experimentalist speaks of a phenomenon, such as "Hall's phenomenon," "Zeemann's
+experimentalist speaks of a phenomenon, such as "Hall's phenomenon," "Zeeman's
 phenomenon" and its modification, "Michelson's phenomenon," or "the chessboard
 phenomenon," he does not mean any particular event that did happen to somebody in
 the dead past, but what surely will happen to everybody in the living future who shall
@@ -80782,7 +80782,7 @@ individuals to which the subject affirmatively belongs, but to which the predica
 not likewise be referred (affirmatively or negatively, according as the universal
 predication is affirmative or negative)." The Greek is: {legomen de to kata pantos
 katégoreisthai hotan méden éi labein tön tou hypokeimenon kath' ohy thateron ou
-lechthésetai kai to kata médenos hösantös}. The important words "existent
+lechthésetai kai to kata mémedenos hösantös}. The important words "existent
 individuals" have been introduced into the translation (which English idiom would
 not here permit to be literal); but it is plain that existent individuals were what
 Aristotle meant. The other departures from literalness only serve to give modern
@@ -80801,7 +80801,7 @@ parallelism to the Dictum de omni will only be admitted by a person who admits t
 truth of pragmaticism.
 
 Peirce: CP 5.436 Cross-Ref:††
-§4. PRAGMATICISM AND HEGELIAN ABSOLUTE IDEALISME
+§4. PRAGMATICISM AND HEGELIAN ABSOLUTE IDEALISM
 
 436. Suffer me to add one word more on this point. For if one cares at all to
 know what the pragmaticist theory consists in, one must understand that there is no
@@ -80857,9 +80857,9 @@ Peirce: CP 5.438 Cross-Ref:††
 
 ISSUES OF PRAGMATICISM†1
 
-§1 SIX CHARACTERS OF CRITICAL COMMON-SENSISME
+§1 SIX CHARACTERS OF CRITICAL COMMON-SENSISM
 
-438. Pragmaticism was originally enounced †P1 in the form of a maxim, as
+438. Pragmaticism was originally enunciated †P1 in the form of a maxim, as
 follows: Consider what effects that might conceivably have practical bearings you
 conceive the objects of your conception to have. Then, your conception of those
 effects is the whole of your conception of the object.
@@ -81168,7 +81168,7 @@ and then correct the details of Kant's doctrine accordingly, and he will find hi
 have become a Critical Common-sensist.
 
 Peirce: CP 5.453 Cross-Ref:††
-§2. SUBJECTIVE AND OBJECTIVE MODALITYE
+§2. SUBJECTIVE AND OBJECTIVE MODALITY
 
 453. Another doctrine which is involved in Pragmaticism as an essential
 consequence of it, but which the writer defended [306 ad fin] and North American
@@ -81177,7 +81177,7 @@ his own mind, the principle of pragmaticism, is the scholastic doctrine of reali
 This is usually defined as the opinion that there are real objects that are general,
 among the number being the modes of determination of existent singulars, if, indeed,
 these be not the only such objects. But the belief in this can hardly escape being
-accompanied by the acknowledgment that there are, besides, real vagues, and
+accompanied by the acknowledgment that there are, besides, real vague, and
 especially real possibilities. For possibility being the denial of a necessity, which is a
 kind of generality, is vague like any other contradiction of a general. Indeed, it is the
 reality of some possibilities that pragmaticism is most concerned to insist upon. The
@@ -81229,7 +81229,7 @@ is in the Mode of Possibility.
 Peirce: CP 5.455 Cross-Ref:††
 455. Other kinds of subjective Modality refer to a Sign or Representamen
 which is assumed to be true, but which does not include the Utterer's (i.e. the
-speaker's, writer's, thinker's or other symbolizer's) total knowledge, the different
+speaker's, writer's, thinker's or other symbolizer) total knowledge, the different
 Modes being distinguished very much as above. There are other cases, however, in
 which, justifiably or not, we certainly think of Modality as objective. A man says, "I
 can go to the seashore if I like." Here is implied, to be sure, his ignorance of how he
@@ -81292,7 +81292,7 @@ insoluble, very highly refractive, showing under radium rays (and perhaps under
 "dark light" and X-rays) a peculiar bluish phosphorescence, having as high a specific
 gravity as realgar or orpiment, and giving off during its combustion less heat than any
 other form of carbon would have done. From some of these properties hardness is
-believed to be inseparable. For like it they bespeak the high polemerization of the
+believed to be inseparable. For like it they bespeak the high polymerization of the
 molecule. But however this may be, how can the hardness of all other diamonds fail
 to bespeak some real relation among the diamonds without which a piece of carbon
 would not be a diamond? Is it not a monstrous perversion of the word and concept
@@ -81756,7 +81756,7 @@ experiences.
 Peirce: CP 5.479 Cross-Ref:††
 479. In the second place, the event that causes a habit-change may be a
 muscular effort, apparently. If I wish to acquire the habit of speaking of "speaking,
-writing, thinking," etc., instead of "speakin', writin', thinkin'," as I suspect I now do
+writing, thinking," etc., instead of "speaking', writing', thinking'," as I suspect I now do
 (though I am not sure) -- all I have to do is to make the desired enunciations a good
 many times; and to do this as thoughtlessly as possible, since it is an inattentive habit
 that I am trying to create. Everybody knows the facility with which habits may thus
@@ -81871,7 +81871,7 @@ the mode of predication), be followed by a result of a definite general descript
 Peirce: CP 5.484 Cross-Ref:††
 484. Yet this does not quite tell us just what the nature is of the essential effect
 
-upon the interpreter, brought about by the semio'sis
+upon the interpreter, brought about by the semiosis
 [Click here to view] of the sign, which constitutes the logical interpretant. (It is
 important to understand what I mean by semiosis. All dynamical action, or action of
 brute force, physical or psychical, either takes place between two subjects [whether
@@ -82333,8 +82333,8 @@ individually perfectly certain, we may and ought to think it likely that some on
 them, if not more, is false.†P1
 Peirce: CP 5.499 Cross-Ref:††
 499. This is the doctrine of Critical Common-sensism, and the present
-pertinency of it is that a pragmaticist, to be consistent, is obliged to embrace it. . . .
-For brevity's sake, I shall confine myself to the easiest stated but far from the best of
+pertinence of it is that a pragmaticist, to be consistent, is obliged to embrace it. . . .
+For brevity sake, I shall confine myself to the easiest stated but far from the best of
 several reasons. Because the pragmaticist, then, recognizes that the substance of what
 he thinks lies in a conditional resolve, he cannot fail also to recognize that to learn the
 very truth is the way to satisfy the wishes of his heart. For this reason he will be of all
@@ -82358,7 +82358,7 @@ of instinct and of desire, the inquiry [will arise] whether almost every man wil
 have his quite irresistible beliefs spring up ineluctably, together with the question
 
 whether these will not be pretty uniform. Now irresistible instinctive desires are such
-familiar and such almost invarying phenomena -- so few men, let us say, are able to
+familiar and such almost invariable phenomena -- so few men, let us say, are able to
 hold their breath for five minutes, even among strong thinkers who are apt to be great
 breath-holders -- that there can be no doubt how this will get answered. . . . You see
 for yourself that pragmaticism will be sure to carry critical common-sensism in its
@@ -83215,7 +83215,7 @@ every occasion (or upon a considerable proportion of the occasions) that may pre
 itself of a generally describable character. Now to say that a man believes anthracite
 to be a convenient fuel is to say no more nor less than that if he needs fuel, and no
 other seems particularly preferable, then, if he acts deliberately, bearing in mind his
-experiences, considering what he is doing, and exercizing self-control, he will often
+experiences, considering what he is doing, and exercising self-control, he will often
 use anthracite. A practical belief may, therefore, be described as a habit of deliberate
 behavior. The word "deliberate" is hardly completely defined by saying that it implies
 attention to memories of past experience and to one's present purpose, together with
@@ -83271,7 +83271,7 @@ experienced without resistance, nor resistance without exertion. It is all one s
 a sense of duality. Every sensation involves the same sense of duality, though less
 prominently. This is the direct perception of the external world of Reid and
 Hamilton.†2 This is the probatio ambulandi, which Diogenes Laertius perhaps gets
-mislocated. An idealist need not deny the reality of the external world, any more than
+misplaced. An idealist need not deny the reality of the external world, any more than
 Berkeley did. For the reality of the external world means nothing except that real
 experience of duality. Still, many of them do deny it -- or think they do. Very well; an
 idealist of that stamp is lounging down Regent Street, thinking of the utter nonsense
@@ -83391,7 +83391,7 @@ interpreter images of things such as he has seen or imagined and may see again. 
 interpreter has had many experiences in which gifts were made; and a sort of
 composite photograph of them appears in his imagination. I am told that "Saccharin is
 500 times as sweet as cane-sugar." But I never heard of saccharin. On inquiry, I find it
-is the sulphimide of orthosulphobenzoic acid; that is, it is phthalimide in which one
+is the sulfonamide of orthosulphobenzoic acid; that is, it is phthalimide in which one
 CO group is replaced by SO[2]. I can see on paper that there might be such a body.
 That it is "500 times sweeter than sugar" produces a rather confused idea of a very
 familiar general kind. What I am to expect is expressed by the predicate, while the
@@ -83607,7 +83607,7 @@ A toothache is painful. It is not pain, but pain accompanies it; and if you choo
 say that pain is an ingredient of it, that is not far wrong. However, the quality of the
 feeling of toothache is a simple, positive feeling, distinct from pain; though pain
 accompanies it. To use the old consecrated terms, pleasure is the feeling that a feeling
-is "sympathetical," pain that it is "antipathetical." The feeling of pain is a symptom of
+is "sympathetic," pain that it is "antipathetic." The feeling of pain is a symptom of
 a feeling which repels us; the feeling of pleasure is the symptom of an attractive
 feeling. Attraction and repulsion are kinds of action. Feelings are pleasurable or
 painful according to the kind of action which they stimulate. In general, the good is
@@ -83876,7 +83876,7 @@ truth was spoken of was that in which it was said that all science has for its o
 investigation of truth, that is to say, of the real characters of things. It was, in other
 senses, regarded as a subject of metaphysics exclusively. It is sometimes defined so as
 to be indistinguishable from reality, or real existence. Another common definition is
-that truth is the conformity, or conformability, of things to reason. Another definition
+that truth is the conformity, or conformity, of things to reason. Another definition
 is that truth is the conformity of things to their essential principles.
 Peirce: CP 5.573 Cross-Ref:††
 573. (3) Truth is also used in logic in a sense in which it inheres only in
@@ -84096,7 +84096,7 @@ truth, at last. No matter how erroneous your ideas of the method may be at first
 will be forced at length to correct them so long as your activity is moved by that
 sincere desire. Nay, no matter if you only half desire it, at first, that desire would at
 length conquer all others, could experience continue long enough. But the more
-veraciously truth is described at the outset, the shorter by centuries will the road to it
+veracious truth is described at the outset, the shorter by centuries will the road to it
 be.
 Peirce: CP 5.583 Cross-Ref:††
 583. In order to demonstrate that this is so, it is necessary to note what is
@@ -84253,7 +84253,7 @@ But as long as we are aware of no such general phenomena tending to show such
 continual inexactitude in law, then we must remain absolutely without any rational
 opinion upon the matter pro or con.
 Peirce: CP 5.588 Cross-Ref:††
-588. There are various ways in which the natural cocksuredness and conceit of
+588. There are various ways in which the natural cocksureness and conceit of
 man struggles to escape such confession of total ignorance. But they seem to be all
 quite futile. One of the commonest, and at the same time the silliest, is the argument
 that God would for this or that excellent reason never act in such an irregular manner.
@@ -84731,7 +84731,7 @@ Peirce: CP 5.610 Cross-Ref:††
 
 610. Very valuable ideas ofttimes appear so obvious, when once set forth, that
 high laudation of their inventors would invite ridicule. Such, we are told, was the
-notion that obseded C. Colombo, and such is Mr. Peterson's proposal †2 to start in
+notion that obsessed C. Colombo, and such is Mr. Peterson's proposal †2 to start in
 The Monist a discussion of philosophical terminology. It may be a very simple
 proposal, but nobody, as far as one careful reader of The Monist remembers, had
 made it before; and its utility to students of phenomenology, normative science, and
@@ -84777,7 +84777,7 @@ doctrine that experience is a mass of memories relating to the same subject. His
 remark was, however, understood in the Middle Ages to be a definition of experience,
 and was repeated as such, a blunder that was not so unnatural as it would have been if
 the scholastic doctors had dealt with direct experience. The teachings of the
-Aristotelic Index having been exhausted, I turn to Harper's Latin Lexicon, which
+Aristotelian Index having been exhausted, I turn to Harper's Latin Lexicon, which
 informs me that no writer of the Golden Age used experientia in the general sense,
 though that acception became common in the Silver Age, especially with Tacitus. The
 next work that I personally should consult would be my own notes collected during
@@ -85561,7 +85561,7 @@ representatio." [Ibid., footnote 199.] It is a mere affair of lexicography, and 
 on a special convention (secundum placitum), and not on a general principle.
 Suppositio belongs, not directly to the vox, but to the vox as having this or that
 significatio. "Unde significatio prior est suppositione et differunt in hoc, quia
-significatio est vocis, suppositio vrto est termini jam compositi ex voce et
+significatio est vocis, suppositio verto est termini jam compositi ex voce et
 significatione." [Ibid., footnote 201.] The various suppositiones which may belong to
 one word with one significatio are the different senses in which the word may be
 taken, according to the general principles of the language or of logic. Thus, the word
@@ -85667,7 +85667,7 @@ Soph. 50. The authority of Aristotle is claimed for this mode of solution. Sophi
 Elench., cap. 25. The principal objection which was made to this mode of solution,
 viz., that the principle that every proposition implies its own truth, cannot be proved, I
 believe that I have removed. The only arguments against the truth of this principle
-were based on the imperfect doctrines of modales and obligationes. Other methods of
+were based on the imperfect doctrines of modals and obligationes. Other methods of
 solution suppose that a part of a proposition cannot denote the whole proposition, or
 that no intellection is a formal cognition of itself. A solution of this sort will be found
 in Occam's Summa Totius Logices, 3d part of 3d part, cap. 38. Such modern authors
@@ -86143,7 +86143,7 @@ other doctrines opposed to nominalism. I speak here of his earlier views. -- 190
 Peirce: CP 5.392 Fn 2 p 250
 †2 Originally "formalities."
 Peirce: CP 5.392 Fn 1 p 251
-†1 Cf. his "Meditationes de Cognitione," Die Philosophische Shriften von
+†1 Cf. his "Meditationes de Cognitione," Die Philosophische Schriften von
 Leibniz, her. von C.I. Gerhardt, Bd. IV, S. 422-427; Nouveaux Essais, II, 29.
 Peirce: CP 5.393 Fn P1 p 251 Cross-Ref:††
 †P1 Delete this paragraph. -- 1903.
@@ -86229,7 +86229,7 @@ Peirce: CP 5.402 Fn P3 Para 1/3 p 259 Cross-Ref:††
 "conception," "conception," "conception." Now I find there are many people who
 detect the authorship of my unsigned screeds; and I doubt not that one of the marks of
 my style by which they do so is my inordinate reluctance to repeat a word. This
-employment five times over of derivates of concipere must then have had a purpose.
+employment five times over of derivatives of concipere must then have had a purpose.
 In point of fact it had two. One was to show that I was speaking of meaning in no
 other sense than that of intellectual purport. The other was to avoid all danger of
 being understood as attempting to explain a concept by percepts, images, schemata, or
@@ -86285,7 +86285,7 @@ Peirce: CP 5.406 Fn 2 p 266
 Peirce: CP 5.406 Fn 3 p 266
 †3 See 377f.
 Peirce: CP 5.406 Fn 1 p 267
-†1 The parenthetized phrase was not in the original.
+†1 The parenthesized phrase was not in the original.
 Peirce: CP 5.406 Fn 2 p 267
 †2 Patrologica Latina, vol. 178, p. 114 et seq., (1885).
 Peirce: CP 5.406 Fn 3 p 267
@@ -86343,7 +86343,7 @@ Peirce: CP 5.424 Fn P1 p 283 Cross-Ref:††
 proposition not as the Germans define their equivalent, Satz, as the
 language-expression of a judgment (Urtheil), but as that which is related to any
 assertion, whether mental and self-addressed or outwardly expressed, just as any
-possibility is related to its actualisation. The difficulty of the, at best, difficult
+possibility is related to its actualization. The difficulty of the, at best, difficult
 problem of the essential nature of a Proposition has been increased, for the Germans,
 by their Urtheil, confounding, under one designation, the mental assertion with the
 assertible [cf. 2.315].
@@ -87433,7 +87433,7 @@ conviction that paper was a good material to make things of, were to go to work 
 build a papier mâché house, with roof of roofing paper, foundations of pasteboard,
 windows of paraffined paper, chimneys, bath tubs, locks, etc., all of different forms of
 paper, his experiment would probably afford valuable lessons to builders, while it
-would certainly make a detestable house, so those one-idea'd philosophies are
+would certainly make a detestable house, so those one-one-idea philosophies are
 exceedingly interesting and instructive, and yet are quite unsound.
 Peirce: CP 6.8 Cross-Ref:††
 8. The remaining systems of philosophy have been of the nature of reforms,
@@ -87622,7 +87622,7 @@ possibly be refused a very prominent place in the process of evolution of the un
 in general.
 
 Peirce: CP 6.18 Cross-Ref:††
-§3. THE LAW OF HABITE
+§3. THE LAW OF HABIT
 
 18. Passing to psychology, we find the elementary phenomena of mind fall
 into three categories.†2 First, we have Feelings, comprising all that is immediately
@@ -87891,7 +87891,7 @@ most recent speculations it would be a Cosmogonic Philosophy. It would suppose t
 in the beginning -- infinitely remote -- there was a chaos of unpersonalized feeling,
 which being without connection or regularity would properly be without existence.
 This feeling, sporting here and there in pure arbitrariness, would have started the
-germ of a generalizing tendency. Its other sportings would be evanescent, but this
+germ of a generalizing tendency. Its other sporting would be evanescent, but this
 would have a growing virtue. Thus, the tendency to habit would be started; and from
 this, with the other principles of evolution, all the regularities of the universe would
 be evolved. At any time, however, an element of pure chance survives and will
@@ -87908,7 +87908,7 @@ Peirce: CP 6.35 Cross-Ref:††
 
 THE DOCTRINE OF NECESSITY EXAMINED†1
 
-§1. THE MECHANICAL PHILOSOPHYE
+§1. THE MECHANICAL PHILOSOPHY
 
 35. In The Monist for January, 1891,†2 I endeavored to show what elementary
 ideas ought to enter into our view of the universe. I may mention that on those
@@ -87979,7 +87979,7 @@ positions and velocities of all the particles at any instant. This, the usual an
 logical form of necessitarianism, is called the mechanical philosophy.
 
 Peirce: CP 6.39 Cross-Ref:††
-§2. NECESSITY CONSIDERED AS A POSTULATEE
+§2. NECESSITY CONSIDERED AS A POSTULATE
 
 39. When I have asked thinking men what reason they had to believe that
 every fact in the universe is precisely determined by law, the first answer has usually
@@ -88179,7 +88179,7 @@ probable way. Trace their causes back far enough and you will be forced to admit
 they are always due to arbitrary determination, or chance.
 
 Peirce: CP 6.47 Cross-Ref:††
-§4. ABSOLUTE CHANCEE
+§4. ABSOLUTE CHANCE
 
 47. But it may be asked whether if there were an element of real chance in the
 universe it must not occasionally be productive of signal effects such as could not
@@ -89641,7 +89641,7 @@ B. Synechism and Agapism
 
 THE LAW OF MIND†1
 
-§1. INTRODUCTIONE
+§1. INTRODUCTION
 
 102. In an article published in The Monist for January, 1891,†2 I endeavored
 to show what ideas ought to form the warp of a system of philosophy, and particularly
@@ -89685,7 +89685,7 @@ Peirce: CP 6.104 Cross-Ref:††
 
 104. Logical analysis applied to mental phenomena shows that there is but one
 law of mind, namely, that ideas tend to spread continuously and to affect certain
-others which stand to them in a peculiar relation of affectibility. In this spreading they
+others which stand to them in a peculiar relation of affectability. In this spreading they
 lose intensity, and especially the power of affecting others, but gain generality and
 become welded with other ideas.
 
@@ -89807,7 +89807,7 @@ Peirce: CP 6.113 Cross-Ref:††
 relatives had shown me clearly and evidently that the idea of an infinitesimal involves
 no contradiction,†2 before I became acquainted with the writings of Dr. Georg Cantor
 (though many of these had already appeared in the Mathematische Annalen and in
-Borchardt's Journal, if not yet in the Acta Mathematica, all mathematical journals of
+Borchardt Journal, if not yet in the Acta Mathematica, all mathematical journals of
 the first distinction), in which the same view is defended with extraordinary genius
 and penetrating logic.†3
 Peirce: CP 6.114 Cross-Ref:††
@@ -90057,7 +90057,7 @@ forms of the method used by Cauchy,†2 Duhamel,†3 and others. As they underst
 the doctrine of limits, it involves the notion of continuity, and therefore contains in
 another shape the very same ideas as the doctrine of infinitesimals.
 Peirce: CP 6.126 Cross-Ref:††
-126. Let us now consider an aspect of the Aristotelical principle which is
+126. Let us now consider an aspect of the Aristotelian principle which is
 particularly important in philosophy. Suppose a surface to be part red and part blue;
 so that every point on it is either red or blue, and, of course, no part can be both red
 and blue. What, then, is the color of the boundary line between the red and the blue?
@@ -90097,7 +90097,7 @@ Peirce: CP 6.129 Cross-Ref:††
 is affected by state C, though not so much so. It follows, that if A is affectible by B, B
 is not affectible by A.
 Peirce: CP 6.130 Cross-Ref:††
-130. If, of two states, each is absolutely unaffectible by the other, they are to
+130. If, of two states, each is absolutely unaffectable by the other, they are to
 be regarded as parts of the same state. They are contemporaneous.
 Peirce: CP 6.131 Cross-Ref:††
 131. To say that a state is between two states means that it affects one and is
@@ -90174,7 +90174,7 @@ Peirce: CP 6.135 Cross-Ref:††
 §9. AFFECTIONS OF IDEAS
 
 135. But we are met by the question, what is meant by saying that one idea
-affects another. The unravelment of this problem requires us to trace out phenomena a
+affects another. The unraveling of this problem requires us to trace out phenomena a
 little further.
 Peirce: CP 6.135 Cross-Ref:††
 Three elements go to make up an idea. The first is its intrinsic quality as a
@@ -90255,7 +90255,7 @@ association; and this I suppose is an abridged statement of the way the universe
 been evolved. But if I am asked whether a blind {ananké} cannot bring ideas together,
 first I point out that it would not remain blind. There being a continuous connection
 between the ideas, they would infallibly become associated in a living, feeling, and
-perceiving general idea. Next, I cannot see what the mustness or necessity of this
+perceiving general idea. Next, I cannot see what the must or necessity of this
 {ananké} would consist in. In the absolute uniformity of the phenomenon, says the
 nominalist. Absolute is well put in; for if it merely happened so three times in
 succession, or three million times in succession, in the absence of any reason, the
@@ -90352,7 +90352,7 @@ thus spreading into habit, the sensation makes hardly any more impression upon m
 or, if it be noticed, it is on a new side, from which it appears as rather a bore. The
 doctrine that fatigue is one of the primordial phenomena of mind I am much disposed
 to doubt.†1 It seems a somewhat little thing to be allowed as an exception to the great
-principle of mental uniformization. For this reason, I prefer to explain it in the manner
+principle of mental uniformity. For this reason, I prefer to explain it in the manner
 here indicated, as a special case of that great principle. To consider it as something
 distinct in its nature, certainly somewhat strengthens the necessitarian position; but
 even if it be distinct, the hypothesis that all the variety and apparent arbitrariness of
@@ -91057,7 +91057,7 @@ the theory of psychology.
 
 Peirce: CP 6.185 Cross-Ref:††
 
-THE LOGIC OF CONTINUITYP†1
+THE LOGIC OF CONTINUITY†1
 
 §1. POTENTIAL AGGREGATES
 
@@ -91302,7 +91302,7 @@ Peirce: CP 6.204 Cross-Ref:††
 diagrammatic and mathematical, by treating generality from the point of view of
 geometrical continuity, and by experimenting upon the diagram.
 Peirce: CP 6.204 Cross-Ref:††
-We see the original generality like the ovum of the universe segmentated by
+We see the original generality like the ovum of the universe segmented by
 this mark. However, the mark is a mere accident, and as such may be erased. It will
 not interfere with another mark drawn in quite another way. There need be no
 consistency between the two But no further progress beyond this can be made, until a
@@ -91821,7 +91821,7 @@ CHAPTER 9
 
 MAN'S GLASSY ESSENCE†1
 
-§1. THE CONSTITUTION OF MATTERE
+§1. THE CONSTITUTION OF MATTER
 
 238. In The Monist for January, 1891†2 I tried to show what conceptions
 ought to form the brick and mortar of a philosophical system. Chief among these was
@@ -91888,7 +91888,7 @@ may even have a central curve, returning into itself. But I do not think there a
 observed facts pointing to such multiple or linear centers. On the other hand, many
 facts relating to crystals, especially those observed by Voigt,†P1 go to show that the
 
-distribution of energy is harmonical but not concentric. We can easily calculate the
+distribution of energy is harmonic but not concentric. We can easily calculate the
 forces which such atoms must exert upon one another by considering †P2 that they
 are equivalent to aggregations of pairs of electrically positive and negative points
 infinitely near to one another. About such an atom there would be regions of positive
@@ -92511,7 +92511,7 @@ CHAPTER 10
 
 MIND AND MATTER
 
-§1. THE CONNECTION BETWEEN MIND AND MATTERP†1
+§1. THE CONNECTION BETWEEN MIND AND MATTER†1
 
 272. Several different theories have been urged during the past months to
 account for the mutual action between mind and matter in volition and in sensation.
@@ -92550,7 +92550,7 @@ going through its curious succession of motions of its own accord, although in a
 of inverse sympathy with the other. Nor is this a mere ocular illusion; for when the
 differential equations which define the forces are integrated, it is found that the
 motion of each pendulum is simply the sum of two perfectly simple and regular
-funipendulous motions of slightly different periods, and is, in fact, exactly like that of
+pendeulous motions of slightly different periods, and is, in fact, exactly like that of
 a cork floating upon still water traversed by two series of waves of slightly different
 
 lengths. The remarkable thing is that the motion of each pendulum is expressed as
@@ -92851,7 +92851,7 @@ question is what we shall do. But that feeling which is subservient to action an
 intelligence of action is correspondingly important; and all inward life is more or less
 so subservient. Mere imagination would indeed be mere trifling; only no imagination
 is mere. "More than all that is in thy custody, watch over thy phantasy," said
-Solomon, "For out of it are the issues of life." Omni custodia serva cor tuum, quia ex
+Solomon, "For out of it are the issues of life." Omni custodia serves cor tuum, quia ex
 ipso vita procedit.†1
 Peirce: CP 6.286 Cross-Ref:††
 A decapitated frog almost reasons.†2 The habit that is in his cerebellum serves
@@ -92925,7 +92925,7 @@ Peirce: CP 6.289 Cross-Ref:††
 evolutionary philosophy, which teaches that growth comes only from love, from I will
 not say self-sacrifice, but from the ardent impulse to fulfill another's highest impulse.
 Suppose, for example, that I have an idea that interests me. It is my creation. It is my
-creature; for as shown in last July's Monist,†1 it is a little person. I love it; and I will
+creature; for as shown in last July Monist,†1 it is a little person. I love it; and I will
 sink myself in perfecting it. It is not by dealing out cold justice to the circle of my
 ideas that I can make them grow, but by cherishing and tending them as I would the
 flowers in my garden. The philosophy we draw from John's gospel is that this is the
@@ -93099,7 +93099,7 @@ at that time put into its clearest light. Quetelet had opened the discussion by 
 Letters on the Application of Probabilities to the Moral and Political Sciences,†3 a
 work which deeply impressed the best minds of that day, and to which Sir John
 Herschel †1 had drawn general attention in Great Britain. In 1857, the first volume of
-Buckle's History of Civilisation had created a tremendous sensation, owing to the use
+Buckle History of Civilisation had created a tremendous sensation, owing to the use
 he made of this same idea. Meantime, the "statistical method" had, under that very
 name, been applied with brilliant success to molecular physics. Dr. John Herapath, an
 English chemist, had in 1847 outlined the kinetical theory of gases in his
@@ -93120,7 +93120,7 @@ have been inclined to sneer at physical science. Thereafter a belated poet still
 upon "science peddling with the names of things" would fail of his effect. Mechanism
 was now known to be all, or very nearly so. All this time, utilitarianism -- that
 improved substitute for the Gospel -- was in its fullest feather; and was a natural ally
-of an individualistic theory. Dean Mansell's injudicious advocacy had led to mutiny
+of an individualistic theory. Dean Mansell injudicious advocacy had led to mutiny
 among the bondsmen of Sir William Hamilton, and the nominalism of Mill had
 profited accordingly; and although the real science that Darwin was leading men to
 was sure some day to give a death-blow to the sham-science of Mill, yet there were
@@ -94358,7 +94358,7 @@ C. S. P. Now is there anything which is true or false which is not of one or
 other of those forms of assertion, or else of a form a mixture of those two?
 VELIAN. What of the assertion "It rains"?
 C. S. P. In order to be true or false, this assertion must refer to some time and
-place, and the circumstances under which the assertation was made must have
+place, and the circumstances under which the assertion was made must have
 indicated a time and place. That indicating circumstance, of which speaker and
 auditor had experience, was the subject-sign; and we may presume that the assertion
 was in meaning equivalent to these two: first, there is some time and place indicated
@@ -95257,7 +95257,7 @@ Homogeneous whole: a term of Aquinas; a whole whose parts are similar to
 the whole, as the parts of a whole of water are.
 Integral whole (a term in common use since Abélard's time): Blundevile
 (1599) says, "Whole integral is that which consisteth of integral parts, which though
-they cleave together, yet they are distinct and severall in number, as man's body,
+they cleave together, yet they are distinct and several in number, as man's body,
 consisting of head, brest, belly, legs, etc." The usual definition is "quod habet partem
 extra partem," which restricts it to space. Burgersdicius, however, says that parts
 which differ in their ordinal places are partes extra partes.
@@ -95308,8 +95308,8 @@ Thus, in Blundevile's Arte of Logicke, we read: "Genus is a generall kind
 which may be spoken of many things differing in speciall kind." At other times, and
 more accurately, it was restricted to the species, or narrowest recognized class, or that
 which was supposed to be derived from one stock. Thus Wilson's Rule of Reason
-(1551) has: "Genus is a generall woorde vnder the whiche diuerse kindes or sortes of
-thinges are comprehended."
+(1551) has: "Genus is a generall woorde under the whiche diverse kinds or sortes of
+things are comprehended."
 Peirce: CP 6.384 Cross-Ref:††
 But before persons who picked their words had become ready to use "class" as
 a mere logical extension, they had begun to avoid "kind," except when the emphasis
@@ -95349,8 +95349,8 @@ that of a predicate which belongs immediately to its subject.
 
 Per se translates {kath' auto, kath' auton}, etc. Similar phrases occur in
 ordinary Greek. Plato, for example, in the Theaetetus,†2 speaks of {epistémé en
-ekeinö tö onomati, ho ti pot' echei hé psyché hotan auté kath' autén pragmateuétai peri
-ta onta}. But in Aristotle it first becomes a term of art (see Bonitz under {heautou}).
+ekeinö tö onomati, ho ti pot' has hé psyché hotan auté kath' autén pragmateutaiétai peri
+ta ontes}. But in Aristotle it first becomes a term of art (see Bonitz under {heautou}).
 He enumerates four or five different meanings of it, from which we are led to infer
 that he did not himself invent it. Two such passages are Met., {D}. xviii. 2, and Anal.
 Post., iv. There are others, but they are less clear. Per se cannot very well be
@@ -95372,12 +95372,12 @@ is, the very essence of Callias. It also refers to whatever is involved in the d
 of anything ({hosa en töi ti estin hyparchei}), as 'Callias is per se an animal'; that is,
 that he is an animal is implied in the word, or animal is what Callias is. The phrase is
 further applied in case anything in its origin assumes any character in itself or in what
-belongs to it ({ei en autöi dedektai prötöi é tön auton tini}); thus white is per se a
+belongs to it ({ei en autöi deductai prötöi é tön auton tini}); thus white is per se a
 surface, and man is per se alive, since the soul, which is part of man, receives life in
 its very origin. Further, that is per se which has nothing else as its cause. Thus there
 are many causes of man, such as being an animal, being biped, etc.; yet still man is
 per se man. Further, whatever belongs to one thing alone, and in so far as it is alone,
-is per se; so that what is abstract ({kechörismenon}) is per se."
+is per se; so that what is abstract ({kechökechörismenon}) is per se."
 These five senses are, then: (1) that a substance exists per se and not per
 accidens; (2) that an analytical proposition is true per se, or formally, and not as
 matter of fact; (3) that any character which a thing necessarily assumes by virtue of
@@ -95609,7 +95609,7 @@ RELIGION
 
 THE ORDER OF NATURE†1
 
-§1. THE SIGNIFICANCE OF ORDERE
+§1. THE SIGNIFICANCE OF ORDER
 
 395. Any proposition whatever concerning the order of Nature must touch
 more or less upon religion. In our day, belief, even in these matters, depends more
@@ -95659,14 +95659,14 @@ importance. What sort of a conception we ought to have of the universe, how to t
 of the ensemble of things, is a fundamental problem in the theory of reasoning.
 
 Peirce: CP 6.398 Cross-Ref:††
-§2. UNIFORMITIESE
+§2. UNIFORMITIES
 
 398. It is the legitimate endeavor of scientific men now, as it was twenty-three
 hundred years ago, to account for the formation of the solar system and of the cluster
 of stars which forms the galaxy, by the fortuitous concourse of atoms. The greatest
 expounder of this theory, when asked how he could write an immense book on the
 system of the world without one mention of its author, replied, very logically, "Je
-n'avais pas besoin de cette hypothèse-là." But, in truth, there is nothing atheistical in
+n'avais pas besoin de cette hypothèseèse-là." But, in truth, there is nothing atheistical in
 the theory, any more than there was in this answer. Matter is supposed to be
 composed of molecules which obey the laws of mechanics and exert certain
 attractions upon one another; and it is to these regularities (which there is no attempt
@@ -96039,7 +96039,7 @@ supporting the mind in its passage from the known to the unknown, although at it
 first trial it did not answer quite so well as had been expected.
 
 Peirce: CP 6.414 Cross-Ref:††
-§4. MIND AND NATUREE
+§4. MIND AND NATURE
 
 414. When we have drawn any statistical induction -- such, for instance, as
 that one-half of all births are of male children -- it is always possible to discover, by
@@ -96129,7 +96129,7 @@ apply to the phenomena of Nature, and it is probable that there is some secret h
 which remains to be discovered.
 
 Peirce: CP 6.419 Cross-Ref:††
-§5. DESIGNE
+§5. DESIGN
 
 419. Some important questions of logic depend upon whether we are to
 consider the material universe as of limited extent and finite age, or quite boundless in
@@ -96259,7 +96259,7 @@ all but these few ought to feel at home in the churches.
 
 Peirce: CP 6.428 Cross-Ref:††
 
-A RELIGION OF SCIENCEE
+A RELIGION OF SCIENCE
 
 §1. THE MARRIAGE OF RELIGION AND SCIENCE †1
 
@@ -96547,7 +96547,7 @@ Peirce: CP 6.452 Cross-Ref:††
 
 A NEGLECTED ARGUMENT FOR THE REALITY OF GOD†1
 
-§1. MUSEMENTE
+§1. MUSEMENT
 
 452. The word "God," so "capitalized" (as we Americans say), is the definable
 proper name, signifying Ens necessarium; in my belief Really creator of all three
@@ -96627,7 +96627,7 @@ of mind so antipodal to vacancy and dreaminess such a designation would be too
 excruciating a misfit. In fact, it is Pure Play. Now, Play, we all know, is a lively
 exercise of one's powers. Pure Play has no rules, except this very law of liberty. It
 bloweth where it listeth. It has no purpose, unless recreation. The particular
-occupation I mean -- a petite bouchée with the Universes -- may take either the form
+occupation I mean -- a petite bouchéeée with the Universes -- may take either the form
 of aesthetic contemplation, or that of distant castle-building (whether in Spain or
 within one's own moral training), or that of considering some wonder in one of the
 Universes, or some connection between two of the three, with speculation concerning
@@ -96925,7 +96925,7 @@ Induction is either Qualitative or Quantitative and the latter either depends on
 measurements, or on statistics, or on countings.
 
 Peirce: CP 6.474 Cross-Ref:††
-§4. THE VALIDITY OF THE THREE STAGESE
+§4. THE VALIDITY OF THE THREE STAGES
 
 474. Concerning the question of the nature of the logical validity possessed by
 Deduction, Induction, and Retroduction, which is still an arena of controversy, I shall
@@ -97111,7 +97111,7 @@ accordingly, in April, 1905 I renamed it Pragmaticism.†4 I had never before
 dignified it by any name in print, except that, at Professor Baldwin's request, I wrote a
 definition of it for his Dictionary of Psychology and Philosophy.†5 I did not insert
 the word in the Century Dictionary, though I had charge of the philosophical
-definitions of that work;†6 for I have a perhaps exaggerated dislike of réclame.
+definitions of that work;†6 for I have a perhaps exaggerated dislike of réréclame.
 Peirce: CP 6.483 Cross-Ref:††
 483. It is that course of meditation upon the three Universes which gives birth
 to the hypothesis and ultimately to the belief that they, or at any rate two of the three,
@@ -97154,7 +97154,7 @@ of Athens, to recognize them as diseased minds. The third is the philanthropical
 people whose lively sympathies, easily excited, become roused to anger at what they
 consider the stupid injustices of life. Being easily interested in everything, without
 being overloaded with exact thought of any kind, they are excellent raw material for
-littérateurs: witness Voltaire. No individual remotely approaching the calibre of a
+littélittérateurs: witness Voltaire. No individual remotely approaching the calibre of a
 Leibnitz is to be found among them.
 Peirce: CP 6.485 Cross-Ref:††
 485. The third argument, enclosing and defending the other two, consists in
@@ -97190,7 +97190,7 @@ philosophers have seen but through a mist, and most of them not at all. Among su
 truths -- all of them old, of course, yet acknowledged by few -- I reckon their denial
 of necessitarianism; their rejection of any "consciousness" different from a visceral or
 
-other external sensation; their acknowledgment that there are, in a Pragmatistical
+other external sensation; their acknowledgment that there are, in a Pragmatical
 sense, Real habits (which Really would produce effects, under circumstances that
 may not happen to get actualized, and are thus Real generals); and their insistence
 upon interpreting all hypostatic abstractions in terms of what they would or might
@@ -97206,7 +97206,7 @@ Peirce: CP 6.486 Cross-Ref:††
 
 486. A nest of three arguments for the Reality of God has now been sketched,
 though none of them could, in the limits of a single article, be fairly presented. The
-first is that entirely honest, sincere and unaffected, because unprepense, meditation
+first is that entirely honest, sincere and unaffected, because unpremeditated, meditation
 upon the Idea of God, into which the Play of Musement will inevitably sooner or later
 lead, and which, by developing a deep sense of the adorability of that Idea, will
 produce a truly religious Belief in His Reality and His nearness. It is a reasonable
@@ -97227,7 +97227,7 @@ fundamental ingredient of the soul, and that, far from being a vicious or supers
 ingredient, it is simply the natural precipitate of meditation upon the origin of the
 Three Universes. Of course, it could not, any more than any other theological
 argumentation, have the value or the religious vitality of the "Humble Argument"; for
-it would only be an apology -- a vindicatory description -- of the mental operations
+it would only be an apology -- a vindictive description -- of the mental operations
 which the Humble Argument actually and actively lives out. Though this is properly
 the neglected argument, yet I have sometimes used the abbreviation "the N.A." for the
 whole nest of three.
@@ -97528,7 +97528,7 @@ the consideration is better adapted to helping us to detect the counterfeit pape
 of which so many are in circulation.
 Peirce: CP 6.499 Cross-Ref:††
 499. All the instinctive beliefs, I notice, are vague. The moment they are
-precided, the pragmatist will begin to doubt them.
+preceded, the pragmatist will begin to doubt them.
 Peirce: CP 6.500 Cross-Ref:††
 500. The fourth part of the first book of Hume's Treatise of Human Nature
 
@@ -97569,7 +97569,7 @@ the reality of God. It is intended as an apology for resting the belief upon ins
 the very bedrock on which all reasoning must be built.
 Peirce: CP 6.501 Cross-Ref:††
 501. I have often occasion to walk at night, for about a mile, over an entirely
-untravelled road, much of it between open fields without a house in sight. The
+untraveled road, much of it between open fields without a house in sight. The
 circumstances are not favorable to severe study, but are so to calm meditation. If the
 sky is clear, I look at the stars in the silence, thinking how each successive increase in
 the aperture of a telescope makes many more of them visible than all that had been
@@ -97619,7 +97619,7 @@ Peirce: CP 6.503 Cross-Ref:††
 503. Now such being the pragmaticist's answer to the question what he means
 by the word "God," the question whether there really is such a being is the question
 whether all physical science is merely the figment -- the arbitrary figment -- of the
-students of nature, and further whether the one lesson the Gautama Boodha,
+students of nature, and further whether the one lesson the Gautama Buddha,
 Confucius, Socrates, and all who from any point of view have had their ways of
 conduct determined by meditation upon the physico-psychical universe, be only their
 arbitrary notion or be the Truth behind the appearances which the frivolous man does
@@ -97724,7 +97724,7 @@ circumstance that some of the most respected theologians, such as St. Augustine,
 and others before him, St. Thomas Aquinas,†3 Bishop Joseph Butler,†1 are decidedly
 of the opinion that God never interfered with what they call the cursus naturæ, which
 is what we call the operations of the laws of nature, "laws of nature" meaning with
-them the items of the jus naturae, or something which my unlegal ignorance is unable
+them the items of the jus naturae, or something which my unlawful ignorance is unable
 to distinguish from that. Miracles are for them simply what no man can do without
 special aid from on high, or which at least are signs of some special authority, without
 being in reality deviations from the regular uniformities of the world. However, my
@@ -97812,7 +97812,7 @@ nothing more than the expression, namely the soul's consciousness of its relatio
 God, which is nothing more than precisely the pragmatistic meaning of the name of
 
 God; so that, in that sense, prayer is simply calling upon the name of the Lord. To
-pray for specific things, not merely for the {epioution}, bread, but that it may be
+pray for specific things, not merely for the {epicurean}, bread, but that it may be
 better baked than yesterday's, is childish, of course; yet innocent.
 Peirce: CP 6.517 Cross-Ref:††
 517. "Why does not this Omniscient Being see the need and interpose the
@@ -98325,7 +98325,7 @@ Peirce: CP 6.548 Cross-Ref:††
 
 SCIENCE AND IMMORTALITY†1
 
-§1. PSYCHIC RESEARCHE
+§1. PSYCHIC RESEARCH
 
 548. What is the bearing of positively ascertained facts upon the doctrine of a
 future life? By the doctrine of a future life, I understand the proposition that after
@@ -98495,7 +98495,7 @@ avenues of sense may exist. Possibly so the blind avoid trees and walls. Phenome
 abundance await explanation from future science about every stock and stone; how
 much more about mind? But here, with parting salutation, I diverge from spiritualistic
 paths, for I think no mind with which man can communicate can act or feel otherwise
-than through its residental nerve matter, which in turn can act and react upon external
+than through its residential nerve matter, which in turn can act and react upon external
 bodies only according to recognized laws of mechanics. Not that telepathy is absurd
 or in its nature impossible, but, in the coarse form it has been imagined impracticable
 as voyage to planet Mars. Belief in telepathy ought to be ranked as variation of
@@ -98510,7 +98510,7 @@ mere specialists. That stigma! We are blind to our own blindness; but the world 
 to declare us simply incapable of rising from narrowness and specialism to take broad
 view of any facts whatsoever.
 Peirce: CP 6.561 Cross-Ref:††
-561. "Myopy" and "presbyopy": inability to focus objects too far away;
+561. "Myopia" and "presbyopia": inability to focus objects too far away;
 corresponding inability for objects too near. I suppose we scientific specialists,
 technical sharps, connoisseurs, travelers, scholars, are myopic minds, seeing
 microscopically, but only things under our several noses. Presbyopic minds, with
@@ -98767,7 +98767,7 @@ beings could be shown to have been believed customary, happening every day, it
 would be an inference of a kind legitimately to be drawn from familiar experience,
 and we should have to inquire seriously into its truth. But I fancy intercourse with
 spirits was never considered matter of course. Belief in it was not formed under
-guidance of experience, but was hot, extravagant fancy, classable with those
+guidance of experience, but was hot, extravagant fancy, classifiable with those
 superstitions that have inspired or terrified mankind -- fountain of perpetual youth,
 philosopher's stone, fairies, ogres, ghosts, magic, personal devil, jinns sealed up by
 Solomon, archei, oracles of Apollo, Eleusinian mysteries, metempsychosis, and all
@@ -98783,7 +98783,7 @@ will commonly be deemed symptomatic of aberration of mind.
 Peirce: CP 6.578 Cross-Ref:††
 578. Common sense is coming to reject the doctrine, good sense does reject it.
 All ordinary phenomena of life, which crowd upon us every minute, together with
-such familiar matters as sleep, faintings, bodily illness, insanity, death, show as
+such familiar matters as sleep, fainting, bodily illness, insanity, death, show as
 plainly, as conclusively, dependence of mind upon body, as familiar facts of lifeless
 things show first law of motion. That law which Galileo †1 substantially first told the
 world is that a moving body left to itself will move on with no diminution, no
@@ -99631,7 +99631,7 @@ slight effect that our efforts to hasten the ripening of apples on a tree may ha
 Besides, natural ripening is the best. Let science and religion each have stout faith in
 
 itself, and refuse to compromise with alien and secondary purposes, but push the
-development of its own thought on its own line; and then, when reconcilement comes
+development of its own thought on its own line; and then, when reconciliation comes
 -- as come it surely will -- it will have a positive value, and be an unmixed good. But
 since our accomplished editor thinks himself called upon to assist in this birth of time,
 let me ask him whether of all the conditions of such peace the first is not that religious
@@ -99763,7 +99763,7 @@ objective idealism, that matter is effete mind."†1 This is as much as to say t
 Schellingian, of some stripe; so that, on the whole, I do not think Dr. Carus has made
 a very happy hit in likening me to Hume, to whose whole method and style of
 philosophizing I have always been perhaps too intensely averse. Yet, notwithstanding
-my present disclaimer, I have little doubt apriorians will continue to describe me as
+my present disclaimer, I have little doubt apriorists will continue to describe me as
 belonging to the sceptical school. They have their wonderful ways of arriving at truth,
 without stooping to confront their conclusions with facts; and it is amusing to see how
 sincerely they are convinced that nobody can have science at heart, without denying
@@ -100071,7 +100071,7 @@ things the most obtrusive. That it is absolute is the most manifest of all intel
 perceptions. That it is a being, living and conscious, is what all the dullness that
 belongs to ratiocination's self can scarce muster hardihood to deny.
 Almost as unthinking is the objection (PARASYMBOLQX 61) that absolute
-chance could never beget order. I have noticed elsewhere the historic obliviscence of
+chance could never beget order. I have noticed elsewhere the historic oblivion of
 this objection.†1 Must I once again repeat that the tendency to take habits, being itself
 a habit, has eo ipso a tendency to grow; so that only a slightest germ is needed? A
 realist, such as I am, can find no difficulty in the production of that first infinitesimal
@@ -100168,7 +100168,7 @@ Besides, few psychologists will deny the very intimate connection which
 seems to subsist between the law, or quasi-law, of growth and the law of habit, which
 is the principal, if not (as I hold it to be) the sole, law of mental action. Now, this law
 of habit seems to be quite radically different in its general form from mechanical law,
-inasmuch as it would at once cease to operate if it were rigidily obeyed: since in that
+inasmuch as it would at once cease to operate if it were rigidly obeyed: since in that
 case all habits would at once become so fixed as to give room for no further formation
 of habits. In this point of view, then, growth seems to indicate a positive violation of
 law.
@@ -101170,7 +101170,7 @@ are of a higher degree than the third. For they have the line V=0, or some line 
 constant for an asymptote, while for small values of P, the values of d2P/(dV)2 are
 positive.
 Peirce: CP 6.244 Fn 1 p 162
-†1 See "Mémoire sur la compressibilité des gaz à des pressions élevées,"
+†1 See "Mémoire sur la compressibilitéé des gaz à des pressions élevées,"
 Annales de Chémie et de Physique, vol. 19, pp. 345-385 (1880).
 Peirce: CP 6.244 Fn 1 p 163
 †1 "Ueber die Dissociation der in Wasser gelösten Stoffe," Zeitschrift für
@@ -101863,7 +101863,7 @@ Peirce: CP 6.557 Fn 1 p 375
 Peirce: CP 6.566 Fn 1 p 379
 †1 See his Heat Considered as a Mode of Motion, Lecture V (1862).
 Peirce: CP 6.566 Fn 2 p 379
-†2 "Ueber einen Grundsatz der Mechanischen Wärmetheorie," Annalen der
+†2 "Ueber einen Grundsatz der Mechanische WäWärmetheorie," Annalen der
 Physik u. Chemie, Bd. CXX, pp. 426-452 (1863).
 Peirce: CP 6.566 Fn 3 p 379
 †3 See "Remarks on the Mechanical Equivalent of Heat," Philosophical
@@ -103567,7 +103567,7 @@ guessing at that. Its full powers are only brought out under critical circumstan
 Peirce: CP 7.41 Cross-Ref:††
 41. All the above, be it understood is sober truth, sedulously freed from all
 exaggeration and colour. If any reader should incline to deem the narrative
-apocryphal, it will certainly not be the psycholist, equally versed in the theory of his
+apocryphal, it will certainly not be the psychologist, equally versed in the theory of his
 science and skilled in the application of it; for to him the incidents will present no
 extraordinary features. I suppose almost everybody has had similar experiences. But
 however frequently such facts may be encountered, there is certainly something a
@@ -104064,7 +104064,7 @@ Peirce: CP 7.77 Cross-Ref:††
 77. I will assume, then, that scientific doubt never gets completely set to rest
 in regard to any question until, at last, the very truth about that question becomes
 established.†11 Taking the phenomenon as a whole, then, without considering how it
-is brought about, science is foredestined to reach the truth of every problem with as
+is brought about, science is predestined to reach the truth of every problem with as
 unerring an infallibility as the instincts of animals do their work, this latter result like
 the former being brought about by some process of which we are as yet unable to give
 any account. It is, we will say, the working of the human instinct. It is not (always
@@ -104155,7 +104155,7 @@ chances to be cast upon a shore. Then, a vessel which should go and take that de
 in tow and deliberately strand it upon the nearest shore, would be "abbreviating" or
 "expediting" the fulfillment of the destiny of that derelict in the same sense in which I
 hold that logic "abbreviates" inquiry, and "expedites" its result. It changes a fortuitous
-event which may take weeks or may take many decennia into an operation governed
+event which may take weeks or may take many decades into an operation governed
 by intelligence, which will be finished within a month. This is the sense in which
 logic "abbreviates" and "expedites" the attainment of truth.
 
@@ -104230,7 +104230,7 @@ less imperfect kind, as can be traced in the phenomena must be made out. Student
 the classificatory sciences like to call such regularities laws. The tendency is a
 symptom of health; because it shows that law is their ideal, and that they are striving
 
-to bring their sciences to the nomological stage. But such orderlinesses as 'Grimm's
+to bring their sciences to the nomological stage. But such orderliness as 'Grimm's
 Law' (see Gender) and 'Mendeléef's Law' are not laws in the sense in which the
 association of ideas and the three laws of motion are laws. They are not satisfactory
 for a minute. They are nothing that can blend with our metaphysics; they are not of a
@@ -105185,7 +105185,7 @@ ways; first, by preparing more men to be eminent researchers; and secondly, by
 increasing general wealth, and therefore the money bestowed on science. I am
 inclined to think that the general tendency is that a given increment of diffusion is less
 and less advantageous to science the greater the attained diffusion. But I am not
-confident that this is so, at any rate without very important deflexions. The general
+confident that this is so, at any rate without very important deflections. The general
 effect, however, is nearly the same for the advancement as for the diffusion of
 knowledge. Namely, beginning with dense ignorance, the first increments cost more
 than they come to. That is, knowledge is increased but scientific energy is spent and
@@ -106525,7 +106525,7 @@ take a certain die. All the falls of it shall form the denumeral collection. In 
 experience this die will probably be thrown a very large but finite number of times.
 Let me sample the throws in order to find out (since it may be loaded or badly made)
 with what relative frequency it will turn up an ace. My precept shall be to throw it
-from the dicebox after shaking, replace it, and go on in the same way. I will not stop
+from the dice box after shaking, replace it, and go on in the same way. I will not stop
 to inquire how I know that my sample throws will, as far as the distribution of aces is
 concerned, be determined as if they had been drawn strictly at random among all
 future throws, because this question has, at this stage, no relevancy, and would only
@@ -106773,7 +106773,7 @@ or it may render the facts necessary, and in the latter case as implicitly asser
 or as the ground for a mathematical demonstration of their truth. In the third place,
 quite as necessary a consideration as either of those I have mentioned, in view of the
 fact that the true hypothesis is only one out of innumerable possible false ones, in
-view, too, of the enormous expensiveness of experimentation in money, time, energy,
+view, too, of the enormous expensive of experimentation in money, time, energy,
 and thought, is the consideration of economy.†18 Now economy, in general, depends
 upon three kinds of factors: cost; the value of the thing proposed, in itself; and its
 effect upon other projects. Under the head of cost, if a hypothesis can be put to the
@@ -106804,7 +106804,7 @@ for Mars before he hit upon the right one; but in the first place, I cannot admi
 that is a fair description of his elaborate series of inductions, and in the second place
 the subject of the hypothesis was not of the fundamental class. We cannot go so far as
 to say that high human intelligence is more often right than wrong in its guesses; but
-we can say that, after due analysis, and unswerved by prepossessions, it has been, and
+we can say that, after due analysis, and unswayed by prepossessions, it has been, and
 no doubt will be, not very many times more likely to be wrong than right. As we
 advance further and further into science, the aid that we can derive from the natural
 light of reason becomes, no doubt, less and less; but still science will cease to
@@ -106958,7 +106958,7 @@ Experiential character of the hypothesis.
 
 {as natural concomitants.
 Its explaining all the facts{
-{as deductions {Corrollarial.
+{as deductions {Corollary.
 {Theorematic.
 
 {Cheapness.
@@ -107676,7 +107676,7 @@ De Ventorum situs et appell. . . . 60 + 8 = 1 X 68
 De Divinatione per somnum . . . . 134 + 2 = 2 X 68
 De longi. et brevitate vitae . . . 198 + 6 = 3 X 68
 De juventute et senectute . . . . . 206 - 2 = 3 X 68
-De memoria et reminisentia . . . . 266 + 6 = 4 X 68
+De memoria et reminiscence . . . . 266 + 6 = 4 X 68
 De insomniis . . . . . . . . .
 De somno et vigiliis . . . . . .
 
@@ -113349,7 +113349,7 @@ been confusing with something different.
 Peirce: CP 7.578 Cross-Ref:††
 578. I have said enough, I think, to show that, though synechism is not
 religion, but, on the contrary, is a purely scientific philosophy, yet should it become
-generally accepted, as I confidently anticipate, it may play a part in the onement of
+generally accepted, as I confidently anticipate, it may play a part in the atonement of
 religion and Science.
 
 Peirce: CP 7.579 Cross-Ref:††
@@ -115204,7 +115204,7 @@ from the manuscript in that order. This manuscript is dated c.1902 on the basis 
 references in it.
 Peirce: CP 7.54 Fn 2 p 40
 †2 (Ed.) This statement appears on page 3 in the edition edited by Alois
-Höfler, published by C. E. M. Pfeffer, Leipzig, 1900.
+HöHöfler, published by C. E. M. Pfeffer, Leipzig, 1900.
 Peirce: CP 7.58 Fn 3 p 43
 †3 (Ed.) Cf. 5.340.
 Peirce: CP 7.59 Fn 4 p 43
@@ -115763,7 +115763,7 @@ man, at least, this behaviour is always conscious, and not purely spasmodic. Mor
 than that, unless he is under some extraordinary stress, the behaviour is always
 partially controlled by the deliberate exercise of imagination and reflexion; so much
 so that to the man himself his action appears to be entirely rational, so far is it from
-being merely sensori-motor. General analogy and many special phenomena warrant
+being merely sensory-motor. General analogy and many special phenomena warrant
 the presumption that the same thing is true of the lower animals, though they are
 undoubtedly far less reflective than men. Yet the adaptation of the behaviour to its
 quasi-purpose in some definite part overleaps all control . . . . So then the three
@@ -116230,7 +116230,7 @@ otherwise than selfishly. But this theory which rests on a logical fallacy is su
 by no fact and refuted by many.
 Peirce: CP 7.603 Fn 6 p 363
 †6 The word "veridical" was first made a term of art by Mr. Myers in the
-sense of coinciding with the truth, whether fortuitously or causedly. It is contrary to
+sense of coinciding with the truth, whether fortuitously or causally. It is contrary to
 the ethics of terminology to change the meaning of a term of art without necessity. Its
 author has no more right to do so than anybody else. Yet in Baldwin's Dictionary,
 where accuracy of definition ought to have been the first consideration, Mrs.
@@ -116249,7 +116249,7 @@ Peirce: CP 7.629 Fn 9 p 374
 quite sure that it would be well if philosophers were bolder in forming new words
 instead of giving old ones so many meanings. What if we were to use words ending in
 -cept for different kinds of acquisition of cognition? There would be of good Latin
-words accept, antecept, decept, except, incept, intercept, occept, precept, suscept,
+words accept, antecept, decept, except, incept, intercept, accept, precept, suscept,
 besides many others quite supportable.
 Peirce: CP 7.630 Fn 10 p 374
 †10 (Ed.) Cf. 7.537.
@@ -118113,7 +118113,7 @@ of Consciousness') are metaphysical. This book consequently rejects both the
 associationist and the spiritualist theories; and in this strictly positivistic point of view
 consists the only feature of it for which I feel tempted to claim originality."†5
 Peirce: CP 8.60 Cross-Ref:††
-60. This is certainly well put -- considered as prestigiation. But when we
+60. This is certainly well put -- considered as prestidigitation. But when we
 remember that a natural science is not a person, and consequently does not "decline"
 to do anything, the argument evaporates. It is only the students of the science who can
 "decline," and they are not banded together to repress any species of inquiry. Each
@@ -118163,7 +118163,7 @@ new logic in its generality, relying only on the resources of the moment. He dis
 
 discourages a separate study of the method. "No rules can be laid down in advance.
 Comparative observations, to be definite, must usually be made to test some
-preëxisting hypothesis; and the only thing then is to use as much sagacity as you
+preëexisting hypothesis; and the only thing then is to use as much sagacity as you
 possess, and to be as candid as you can."†6
 
 Peirce: CP 8.62 Cross-Ref:††
@@ -118388,7 +118388,7 @@ neither know its form nor its seat; whilst if unextended, it is absurd to speak 
 having any space-relations at all. Space-relations we shall see hereafter to be sensible
 things. The only objects that can have mutual relations of position are objects that are
 perceived coexisting in the same felt space. A thing not perceived at all, such as the
-inextended soul must be, cannot coexist with any perceived objects in this way. No
+unextended soul must be, cannot coexist with any perceived objects in this way. No
 lines can be felt stretching from it to the other objects. It can form no terminus to any
 space-interval. It can therefore in no intelligible sense enjoy position. Its relations
 cannot be spatial, but must be exclusively cognitive or dynamic, as we have seen. So
@@ -118633,7 +118633,7 @@ might find that, after traversing a sufficient distance, we had got around to ou
 starting-point again.
 Peirce: CP 8.96 Cross-Ref:††
 
-96. Prof. Halsted's translation (which, while our notice has been waiting, has
+96. Prof. Halsted translation (which, while our notice has been waiting, has
 reached, we are glad to see, a fourth edition) is excellent; his useful bibliography of
 non-Euclidean geometry was already well known. We could only wish there were a
 more copious appendix. The work of Lobachevski, though simple and convincing, is
@@ -120292,7 +120292,7 @@ Qu'on trouva qu'il ne manquait rien
 A Jupiter que la parole.
 
 "Même l'on dit que l'ouvrier
-Eut à peine achevé l'image,
+Eut à peine achevéé l'image,
 Qu'on le vit frémir le premier,
 Et redouter son propre ouvrage.
 
@@ -120300,14 +120300,14 @@ Et redouter son propre ouvrage.
 
 "Il était enfant en ceci:
 
-Les enfants n'ont l'âme occupée
+Les enfants n'ont l'âme occupéeée
 Que du continuel souci
-Qu'on ne fâche point leur poupée.
+Qu'on ne fâche point leur poupéeée.
 
 "Le coeur suit aisément l'esprit.
 De cette source est descendue
-L'erreur payenne qui se vit
-Chez tant de peuples répandue.
+L'erreur païenne qui se vit
+Chez tant de peuples rérépandue.
 
 "Chacun tourne en réalités,
 Autant qu'il peut, ses propres songes.
@@ -120685,7 +120685,7 @@ nature that they can sometimes make good use of ideas which have grown up in oth
 studies. Such specialists, when they have created, say, physical chemistry, the new
 
 astronomy, physiological psychology, stylometry, etc., have sometimes gained a
-certain measure of esteem even from those of straiter sects. It has often happened that
+certain measure of esteem even from those of strait sects. It has often happened that
 general studies of logic have resulted in such applications of one science to another.
 Analytical geometry was first conferred upon the human race as an illustrative
 example of the 'Discours de la Méthode.' The group of writers whom, abandoning all
@@ -120913,7 +120913,7 @@ interpretation by saying that it is only of conceptions, that is, of the intelle
 meaning that I was speaking. The pragmaticist need not deny that such ideas as those
 of action, of actual happening, of individuality, of existence, etc., involve something
 like a reminiscence of an exertion of brute force which is decidedly anti-intellectual,
-which is an all-important ingredient of the practical, although the pragmat[ic]istic
+which is an all-important ingredient of the practical, although the pragmatic[ic]istic
 interpretation leaves it out of account. Yet while he may admit that this idea of brute
 thereness, -- or whatever best names it, -- is quite distinct from any concept, yet he is
 bound to maintain that this does not suffice to make an idea of practical reality."
@@ -120928,7 +120928,7 @@ from the physiological laboratory with his 'Beiträge zur Theorie der
 Sinneswahrnehmung,' students in this country there were who saw in the little volume
 
 the harbinger of a new science of experimental psychology; and the next year their
-hopes seemed to be crowned in the same author's 'Vorlesungen über die Menschenund Thierseele,' concerning which, by the way, it had better be noted that, like other
+hopes seemed to be crowned in the same author's 'Vorlesungen über die Menschen und Thierseele,' concerning which, by the way, it had better be noted that, like other
 of Wundt's books, it has lost most of its original flavor in a second, reconsidered
 edition, and that the English translation represents this later edition. Without this
 explanation, the sensation it first caused would be incomprehensible. Its readers heard
@@ -120939,7 +120939,7 @@ are forty years wiser, and a chilling shade settles on hearts of enthusiasts of 
 who now compare the advance that psychology has achieved -- indisputable, but how
 modest! -- with the unheard-of leaps that every other science has performed, be it an
 experimental one or not. Since 1860 the foundations of pure mathematics have been
-reconstructed; exact logic has been developed; physics has gained an optico-electrical
+reconstructed; exact logic has been developed; physics has gained an optical-electrical
 theory, and radically new conceptions of molecular forces have been established;
 organic chemistry has followed out the doctrine of the aromatic compounds, and has
 been enriched by the doctrine of the unsymmetrical carbon atom; in its inorganic
@@ -121180,7 +121180,7 @@ Peirce: CP 8.209 Cross-Ref:††
 209. The truth of pragmaticism may be proved in various ways. I would
 conduct the argument somewhat as follows. In the first place, there are but three
 elementary kinds of reasoning. The first, which I call abduction (on the theory, the
-doubtful theory, I confess, that the meaning of the XXVth chapter of the second book
+doubtful theory, I confess, that the meaning of the 25th chapter of the second book
 of the Prior Analytics has been completely diverted from Aristotle's meaning by a
 single wrong word having been inserted by Apellicon where the original word was
 illegible) consists in examining a mass of facts and in allowing these facts to suggest
@@ -121417,7 +121417,7 @@ Achilles overtook the tortoise he had to go through such an endless series (endl
 the series, but not endless in time) and supposedly actually did so.
 Peirce: CP 8.226 Cross-Ref:††
 226. Very well, I will further suppose that tallies are kept during the
-throwings, one tally of the throws turning up 6 or 3, but the other tally of the throws
+throwing, one tally of the throws turning up 6 or 3, but the other tally of the throws
 turning up 1, 2, 4, 5, and further I will suppose that after each throw the number that
 the latter tally has reached shall be divided by the number that the former tally has
 reached. I will use the expression that this quotient changes its value at every new
@@ -123469,8 +123469,8 @@ Peirce: CP 8.378 Cross-Ref:††
 and I are. "Significs" sounds to me narrower than Semeotic, since signification is
 only one of the two chief functions of signs; as the elegant and correct John of
 Salisbury notices, in referring to "quod fere in omnium ore celebre est, aliud scilicet
-esse quod appellatiua significant, et aliud esse quod nominant. Nominantur singularia,
-sed uniuersalia significantur." (Metalogicus II. xx. I copy from the ed. of 1620.)†26
+esse quod appellativa significant, et aliud esse quod nominant. Nominantur singularia,
+sed universalia significantur." (Metalogicus II. xx. I copy from the ed. of 1620.)†26
 So significs appears to be limited to the study of the relations of Signs to their
 Interpretants; and I presume you do so limit it. On the other hand Logic is more
 interested in the Truth of Signs, i.e. in their relation to their Objects. But I am
@@ -123915,11 +123915,11 @@ Permanente commission.
 [International Geodetic Conference ---, ---]. . . . Proceedings of the
 International Geodetic Conference which met at -- in the year -- , published in the
 year . . . . For example, '[International Geodetic Conference, Stuttgart, 1877]1878'
-abbreviates: Comptes-Rendus des Séances de la Cinquième Conférence Géodésique
+abbreviates: Comptes-Rendus des Séances de la Cinquièmeème Conférence Géodésique
 Internationale pour la Mesure des Degrés en Europe Réunie à Stuttgart du 27
 Septembre au 2 Octobre 1877, rédiges par les secrétaires C. Bruhns and A. Hirsch,
 Georg Reimer, Berlin, 1878. These volumes are listed on Library of Congress cards
-under the heading: Internationale erdmessung, Allgemaine Conferenz.
+under the heading: Internationale erdmessung, Allgemeine Konferenz.
 [JHUC] Johns Hopkins University Circulars.
 [JHUR -- ]. . . . Annual Report of Johns Hopkins University for the year -- ,
 published in the year. . . . (Title pages for some years are unimportant variations of
@@ -124214,7 +124214,7 @@ who was familiar with his modes of thought" (p. 290) about Green. Max Fisch
 suggests this letter was written by Peirce.
 
 Peirce: CP 8 Bibliography General 1877 [G-1877-3]
-3. "De l'Influence de la Flexibilité du Trépied sur l'Oscillation du Pendule à
+3. "De l'Influence de la Flexibilitéé du Trépied sur l'Oscillation du Pendule à
 Réversion," [International Geodetic Conference, Stuttgart, 1877]1878, pp. 171-187,
 with a letter of introduction by E. Plantamour (pp. 171-172). See pp. 188-190 of the
 proceedings for comments by Th. von Oppolzer on Peirce's paper. See pp. 4, 20, 23,
@@ -125029,7 +125029,7 @@ Peirce: CP 8 Bibliography General 1893 [G-1893-4]
 mss.
 
 Peirce: CP 8 Bibliography General 1893 [G-1893-5]
-* 5. Grand Logic, or, an alternative title, How to Reason: A Critick of
+* 5. Grand Logic, or, an alternative title, How to Reason: A Critique of
 
 Arguments, a completed but unpublished book. The quotations below are from two
 drafts of an advertisement written by Peirce, c.1893, Widener IB2-1. The organization
@@ -125331,7 +125331,7 @@ conceptions of infinity and continuity are now accurately analyzed. The notion t
 
 we cannot reason mathematically about infinity refuted. The doctrine of limits as
 stated by some authors inadequate to its purpose; as stated by others, really involves
-reasoning about infinity. It is imposible to assign any reason for the dogma that we
+reasoning about infinity. It is impossible to assign any reason for the dogma that we
 cannot reason mathematically about infinity; one might as well say we cannot reason
 mathematically about imaginaries.
 "Vol V. Scientific Metaphysics. Begins with the theory of cognition. The
@@ -125673,7 +125673,7 @@ The following information comes from the Editor's Preface, pp. xi-xii. The
 contributors are not responsible for the recommendations as to foreign equivalents.
 Joint authorship is indicated by connecting the two sets of initials by a hyphen. A
 comma between two signatures "as in '(A.B.C., X.Y.Z.)' indicates that the article was
-writen by A.B.C. and accepted without alteration by X.Y.Z., who thus adds the
+written by A.B.C. and accepted without alteration by X.Y.Z., who thus adds the
 weight of his authority to it" (p. xii). The following contributions were written by
 Christine Ladd-Franklin, not by Peirce, though they were accepted by him:
 Signification (and Application, in logic), in part (see below for a contribution to this
@@ -129749,7 +129749,7 @@ The letter printed here resembles, but is distinct from, a letter with dates of 
 and 23 December 1908, printed in [Bibliography] M-20a, pp. 22-32, q.v.
 Peirce: CP 8.342 Fn 16 p 231
 †16 (Ed.) Lady Welby wrote "Significs" for the 11th edition of The
-Encyclopedia Brittanica, 1910-11.
+Encyclopedia Britannica, 1910-11.
 Peirce: CP 8.342 Fn 17 p 232
 †17 (Ed.) 1.559 ([Bibliography] G-1867-1c). The brackets are in the
 manuscript.

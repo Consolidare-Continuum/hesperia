@@ -586,7 +586,7 @@ pursuit of material gain is often experienced as if it were a purely
 private ambivalence which cuts us off from others.
 
 Mainstream politics no longer taps into these issues and has
-abandoned the attempt to provide a shared vision capable of inspir
+abandoned the attempt to provide a shared vision capable of inspiring
 ing us to create a better society. As voters, we have lost sight of any
 collective belief that society could be different. Instead of a better
 society, the only thing almost everyone strives for is to better their
@@ -727,9 +727,9 @@ Mexico
 
 Poland Oman Barbados
 
-&:uador
+&:Ecuador
 
-Papama Croatia
+Panama Croatia
 
 .
 
@@ -758,7 +758,7 @@ Cyprus
 New Zealand
 
 Fram:e
-Gree~;e Germany Finl:;::rapore
+Gree~;e Germany Finl:;::Singapore
 
 Israel
 
@@ -791,12 +791,12 @@ Switzerland
 Montenegro
 
 Vietnam
-Serbia Vencz_uda
+Serbia Macedonia_uda
 
-Br;ran:donia Li~:lays~ithuania
-Chma
-Nicaragua Jamau;:a El Salvador
-Gcorgi~YP~orocco Philippineslr~:rkey
+Br;ran:Moldova Li~:lays~China
+China
+Nicaragua Jamaica;:a El Salvador
+Georgia~YP~Morocco Philippineslr~:rkey
 Honduras Peru
 Indonesia
 
@@ -805,7 +805,7 @@ Romania
 
 Thailand
 
-SlovakiHungary
+Slovakia
 
 Latvia SaudiArabia
 Estonia
@@ -816,18 +816,18 @@ Trinidad & Tobago
 
 Moldova
 
-UzbekisJ~i Belarus M~;:.:~
+Uzbekistan~i Belarus M~;:.:~
 
-Aze~?a_iian
+Aze~?a_Azerbaijan
 
 N. Korea
-M~ki!~~n Tak~~~:stan Maldives Kaza~hstan
+M~ki!~~n Tak~~~:stan Maldives Kazakhstan~Kazakhstan
 
 Ukraine
 
 Bolivia
 
-Russt.a
+Russia.a
 
 Comoros Laos India Guyana
 
@@ -875,7 +875,7 @@ Namibia
 
 South Africa
 
-Uganda Burun~meroon
+Uganda Cameroon~Cameroon
 
 Equatorial Guinea
 
@@ -1039,11 +1039,11 @@ Italy•
 
 Uruguay
 
-Pakista:•Bangladcsh
+Pakistan:•Bangladesh
 
 South Africa
 
-•Lithuaina
+•Lithuania
 
 Slovenia•
 
@@ -1055,7 +1055,7 @@ Serbia••India
 
 Turkey•
 
-eHungary
+Hungary
 
 Slovakia•
 
@@ -1194,7 +1194,7 @@ Within each country, people's health and happiness are related to
 
 GrcccC' •
 
-• New Zc;lhmd
+• New Zc;New Zealand
 
 .
 
@@ -1209,11 +1209,11 @@ lt;l]y •
 • Belgium
 
 • Austria
-Germany •• UK • Ncthrr!J nds
+Germany •• UK • Netherlands!J nds
 
-• Smgaporr
+• Singapore
 
-• Finhtnd
+• Finland
 
 Ireland •
 
@@ -1412,13 +1412,13 @@ POVERTY OR INEQUALITY?
 
 Japa n
 Finland
-Norwa y
+Norway y
 Swede n
 Denmark
 Austri a
 German y
 Netherland s
-Spai n
+Spain n
 France
 Canad a
 Switzerland
@@ -1850,7 +1850,7 @@ Italy•
 
 France•
 
-~ustralia
+~Australia
 
 Japan
 
@@ -2886,7 +2886,7 @@ public are lower in countries and states where income differences
 
 ..
 
-Sw rdrn
+Sw Sweden
 
 Norway
 
@@ -2894,9 +2894,9 @@ Norway
 
 6o
 
-Finbnd •
+Finland •
 
-• NcthcrLmds
+• Netherlands
 
 co
 c
@@ -2929,7 +2929,7 @@ c..
 
 Austria •
 
-Belgiu m •
+Belgium m •
 
 • New Zealand
 
@@ -2941,7 +2941,7 @@ Greece •
 
 • Israel
 
-• Ponugal
+• Portugal
 
 0 ~---------------------------------------------,~
 
@@ -3488,7 +3488,7 @@ different countries. But this began to get easier in the r98os, when
 researchers developed diagnostic interviews - sets of questions that
 could be asked by non-psychiatrists and non-psychologists, allowing
 researchers to measure on a large scale the numbers of people
-meeting diagnostic criteria for different mental illnessess.
+meeting diagnostic criteria for different mental illnesses.
 
 In 1998, the World Health Organization set up the World Mental
 Health Survey Consortium in an attempt to estimate the numbers
@@ -4047,7 +4047,7 @@ Among other things, our comparison between Baby A and Baby B
 
 Spain • •l sr;1el
 
-Australh1 • • C~lnad:l
+Australia1 • • C~Canada:l
 
 • Fr:1ncc
 
@@ -4057,16 +4057,16 @@ Belgium •
 
 • Austria
 
-• Sw itzcrbnd
+• Sw Switzerland
 
 Norway •
 
-. New Zea land • • Greece • Ncthcrlands • Gcrma ny
+. New Zea land • • Greece • Netherlands • Germany ny
 UK
 
 Finland •
 
-• Smgaporc
+• Singapore
 
 Ireland •
 
@@ -4141,7 +4141,7 @@ the lowest and highest social class groups was 7·3 years for men and
 
 •Sweden
 
-•Jrda nd
+•Ireland nd
 
 Low
 
@@ -4164,7 +4164,7 @@ Spain •
 
 Finland•
 
-• japan •Sw rdcn
+• japan •Sw Sweden
 
 Low
 
@@ -4397,17 +4397,17 @@ response
 
 - - - - - - Circula tory system
 
-El evated blood press ure
+El Elevated blood press ure
 and higher risk o f
-ca rdiovascula r disease
+ca cardiovascular r disease
 
 Adrenal • lands ___ ___J
-Secrete ho rmones tha t
-mo bil ize energy suppli es
+Secrete ho hormones tha t
+mo bil ize energy supplies es
 
 Reproductive organs
-Rep rod uctive fu ncti ons a re
-temporari ly supp ressed
+Rep rod uctive fu functions ons a re
+temporarily ly supp suppressed
 
 .7 The biology of stress. 91
 
@@ -4471,7 +4471,7 @@ crisis, because obesity is so bad for health - it increases the risk of
 hypertension, type II diabetes, cardiovascular disease, gallbladder
 disease and some cancers. Trends in childhood obesity are now so
 serious that they are widely expected to lead to shorter life expec
-tancies for today's children. That would be the first reversal in life
+expectancies for today's children. That would be the first reversal in life
 expectancy in many developed countries since governments started
 keeping track in the nineteenth century. 101
 
@@ -4510,7 +4510,7 @@ individuals are to becoming overweight. But the sudden rapid
 increase in obesity in many societies cannot be explained by genetic
 factors. The obesity epidemic is caused by changes in how we live.
 People often point to the changes in cost, ease of preparation and
-availability of energy-dense foods, to the spread of fast-food restaur
+availability of energy-dense foods, to the spread of fast-food restaurants
 ants, the development of the microwave, and the decline in cooking
 skills. Others point to the decline in physical activity, both at work
 and in leisure time, increasing car use and the reduction in physical
@@ -4569,7 +4569,7 @@ Q,)
 
 Q,)
 
-• Sw ittcrLmd
+• Sw Switzerland
 
 •J apan
 
@@ -4600,7 +4600,7 @@ lower than 20 per cent. Colorado has the lowest obesity prevalence,
 
 • USA
 
-• Sw irurland
+• Sw Ireland
 
 Netherlands •
 
@@ -4907,7 +4907,7 @@ are small and need less food. In conditions of scarcity during our
 evolutionary past this adaptation would have been beneficial, but
 in our modern world, where stress during pregnancy is unlikely to
 be due to food shortages and babies are born into a world of
-plenty, it's maladaptive. Babies with a thirfty phenotype in a world
+plenty, it's maladaptive. Babies with a thrifty phenotype in a world
 where food is plentiful are more prone to obesity, to diabetes and
 to cardiovascular disease. As this book shows, societies with higher
 levels of income inequality have higher levels of mistrust, illness,
@@ -5055,7 +5055,7 @@ Each survey gives tests in reading, mathematical and scientific
 literacy. The goal is to test how well children can apply knowledge
 and skills.
 
-•FinLmd
+•Finland
 
 • Canada
 
@@ -5065,7 +5065,7 @@ Netherlands •
 
 Portuga l•
 
-• Grrccr
+• Greece
 
 "'
 " ....
@@ -5563,7 +5563,7 @@ care for, and interact with, their children. To a degree, working-class
 people resist the imposition of education and middle-class values,
 because becoming educated would require them to give up ways of
 being that they value. One woman tells Evans that being 'common'
-means 'knowin' 'ow to 'ave a good laugh 'cos you're not stuck up'.
+means 'knowing' 'ow to 'ave a good laugh 'cos you're not stuck up'.
 The things that the women she describes like to talk about are their
 
 families, their health, work and ways to get money, housework,
@@ -5591,7 +5591,7 @@ France •
 
 • Swirurl:1nd
 
-Gcrnuny
+Germany
 
 • • Nc rhc:rla nds
 
@@ -5609,7 +5609,7 @@ Finl:md •
 
 G reece •
 
-• Po rtugal
+• Po Portugal
 
 c:
 e ...
@@ -5731,7 +5731,7 @@ cycle of deprivation. 178
 
 But how exactly are young women's individual experiences and
 choices -their personal choices about sleeping with their boyfriends,
-choices around contraception and abortion, choices about qualifica
+choices around contraception and abortion, choices about qualifications
 tions and careers, shaped by the society they live in? Like the issues
 discussed in earlier chapters, the teenage birth rate is strongly related
 to relative deprivation and to inequality.
@@ -5916,7 +5916,7 @@ ME t SO
 
 Low
 
-Fgure 9·3 Teenage pregnancy rates are higher in more unequal US states.
+Figure 9·3 Teenage pregnancy rates are higher in more unequal US states.
 
 highest in the most unequal, as well as the most relatively deprived
 counties. She also reported that the effect of inequality was strongest
@@ -6238,7 +6238,7 @@ a child is killed by a gun every three hours. Despite having a much
 lower rate than the USA, the UK is a violent society, compared to
 many other countries: over a million violent crimes were recorded in
 2005-2006. And within any society, while it is generally young men
-who are violent, most young men are not. Just as it is the discour
+who are violent, most young men are not. Just as it is the discouraged
 aged and disadvantaged among young women who become teenage
 mothers, it is poor young men from disadvantaged neighbourhoods
 who are most likely to be both victims and perpetrators of violence.
@@ -6547,7 +6547,7 @@ Portuga l •
 
 No rway •
 
-• Ne therlands
+• Ne Netherlands
 
 Sw irzcrl:1nd •
 
@@ -6586,7 +6586,7 @@ neighbourhoods where residents have close ties with one another
 and are willing to act for the common good, even taking into
 account factors such as poverty, prior violence, the concentration
 of immigrants and residential stability.224 In the USA poor neigh
-bourhoods have become ghettos, ring-fenced and neglected by the
+neighbourhoods have become ghettos, ring-fenced and neglected by the
 better-off who move out.225
 
 Although neighbours in areas with low levels of trust (see Chap
@@ -6931,11 +6931,11 @@ Spa in • • Ca nada
 qcrmany France
 •
 
-Austna •
+Austria •
 
 Swirurl.l!ld • It.ll)'
 
-Swc~c,P.cnm:rk • Ncthc:lands
+Swc~c,P.cnm:rk • Netherlands:lands
 Finland
 
 • Ire land
@@ -7739,7 +7739,7 @@ up to him:
 
 Bowles sat down on the floor and removed a shoe. The older boy took
 
-off one of his own shoes and put on Bowles's.
+off one of his own shoes and put on Bowles.
 
 'How 'bout letting me see the other one?'
 
@@ -7997,7 +7997,7 @@ less important than whether or not it actually does so.
 
 ETHNICITY AND INEQUALITY
 
-People sometimes wonder whether ethnic divisions in soctettes
+People sometimes wonder whether ethnic divisions in societies
 account for the relationship between inequality and the higher
 frequency of health and social problems. There are two reasons for
 thinking that there might be a link. First is the idea that some ethnic
@@ -8081,7 +8081,7 @@ doubt that there are, in each case, specific historical explanations of
 why some countries, states or regions are now more or less unequal
 than others. But the prevalence of ill-health and of social problems in
 
-those soctetles is not simply a patternless reflection of so many
+those societies is not simply a patternless reflection of so many
 unique histories. It is instead patterned according to the amount of
 inequality which has resulted from those unique histories. What
 seems to matter therefore is not how societies got to where they are
@@ -8103,7 +8103,7 @@ result, we find that among poorer countries it is the more unequal
 ones which have more underweight people - the opposite of the
 pattern among the rich countries shown in Chapter 7· The age of
 menarche also changes its social distribution during the course of
-economic development. When more of the poor were undernour
+economic development. When more of the poor were undernourished
 ished they reached sexual maturity later than girls in richer families.
 With the rise in living standards that pattern too has reversed - per
 haps contributing to the gradient in teenage pregnancies described in
@@ -8151,7 +8151,7 @@ shorter for the average American than it is for the average Japanese,
 is not primarily because the poorest roper cent of Americans suffer
 a life expectancy deficit ten times as large (i.e., forty-five years) while
 the rest of the population does as well as the Japanese. As epi
-demiologist Michael Marmot frequently points out, you could take
+epidemiologist Michael Marmot frequently points out, you could take
 away all the health problems of the poor and still leave most of the
 problem of health inequalities untouched. Or, to look at it another
 way, even if you take the death rates just of white Americans, they
@@ -8195,7 +8195,7 @@ Lung disease Heart disease
 .2 Rates of illness are lower at both low and high educational
 levels in England compared to the USA. 315
 
-In that comparison, England was the more equal and the healtheir
+In that comparison, England was the more equal and the healthier
 of the two countries. But there have also been similar comparisons of
 death rates in Sweden with those in England and Wales. To allow
 accurate comparisons, Swedish researchers classified a large number
@@ -8361,7 +8361,7 @@ Deaths from all causes among men and women of working age
 
 ................
 
-Co unti es in more equal states ' .................... ..
+Co counties es in more equal states ' .................... ..
 
 ....
 ................. ....
@@ -9493,9 +9493,9 @@ the ecological footprint per head of population. 345 To measure the
 
 e Sierra Leone
 
-leAngola
+Angola
 
-~ eiraq
+~ Iraq
 t: ..
 •
 r:. ••
@@ -9513,9 +9513,9 @@ Cuba
 
 ~• •
 
-Vc:nczuda Russia
+Vc:Venezuela Russia
 
-esouthAfrica
+South Africa
 
 eiran
 
@@ -9580,14 +9580,14 @@ e usA
 
 Finl.md • Ca nada
 
-• Kuwa it
+• Kuwait it
 
 e Estonia
 
 Australi:l
 •
 
-e Swrden
+e Sweden
 
 New Zc:•hmd ~e UK
 Spain e
@@ -9600,7 +9600,7 @@ Russ. ~
 
 Sa udi Ara bi;l e
 •
-• -.I'- ~ e s!ovcn ia
+• -.I'- ~ e s!Slovenia ia
 
 Portug.•l l
 
@@ -9965,18 +9965,18 @@ I• 0 Germany
 
 , e• I
 
-{.Bdgium •
+{.Belgium •
 
-c:>Swcdcn
+c:>Sweden
 
 e
 
 •••I
 ~
 
-OFrancc
+France
 
-NorwayO
+Norway
 
 qoo
 
@@ -9984,7 +9984,7 @@ qoo
 
 •
 
-•oNethcrlands
+•Netherlands
 
 \
 
@@ -10060,7 +10060,7 @@ one's everyday life is an unremitting demonstration of the ability to
 pay.' Veblen's Theory of the Leisure Class, published in 1899, was
 the first major work on the relationship between consumption and
 social stratification. It was he who introduced the term 'conspicuous
-consumption' and emphasized the importance of 'pecuniary emula
+consumption' and emphasized the importance of 'pecuniary emulation
 tion' and
 the advertising
 industry plays on insecurities about how we are seen, it has made us
@@ -10215,7 +10215,7 @@ about human nature. We have seen how inequality affects trust,
 community life and violence, and how -
 through the quality of
 early life- it predisposes people to be more or less affiliative, empa
-thetic or aggressive. Obviously these issues are closely related to the
+empathetic or aggressive. Obviously these issues are closely related to the
 increased status competition and consumerism we discussed in the
 previous chapter. It implies that if we put our own houses in order,
 we may look more sympathetically on developing countries.
@@ -10588,7 +10588,7 @@ support for the war effort by making people feel the burden of war
 was equally shared. As Richard Titmuss put it: 'If the cooperation of
 the masses was thought to be essential [to the war effort], then
 
-inequalities had to be reduced and the pyramid of social stratifica
+inequalities had to be reduced and the pyramid of social stratification
 tion had to be flattened.' 368
 
 Sweden's greater equality originated in the Social Democratic
@@ -11041,7 +11041,7 @@ of inferior status can affect performance.
 
 This process of adjustment and emancipation is described in Local
 
-Heroes, David Erdal's account of the employee buy-out of Loch
+Heroes, David Erdal account of the employee buy-out of Loch
 Fyne Oysters in Scotland. 392 It is in part a process of undoing
 the damage of class inequality, a process presumably made more
 difficult by the fact that such assumptions remain entrenched all
@@ -11951,7 +11951,7 @@ Vienna: UN Office on Drugs and Crime, 2007.
 tality Files 1999-2002. http://wonder.cdc.gov/mortSQL.html (accessed
 9 September 2008)
 59· D. Morgan, K. A, Grant, H. D. Gage, R. H. Mach, J. R. Kaplan,
-0. Prioleau, S. H. Nader, N. Buchheimer, R. L. Ehrenkaufer and M. A.
+0. Prioleau, S. H. Nader, N. Buchheimer, R. L. Ehrenkauf and M. A.
 Nader, 'Social dominance in monkeys: dopamine D2 receptors and
 cocaine self-administration', Nature Neuroscience (2002) 5 (2): 169-74.
 6o. M. Susser and E. Susser, 'Choosing a future for epidemiology: I. Eras
@@ -12354,7 +12354,7 @@ of socialization', Child Development (I99I) 62 (4): 647-70.
 192. R. Gold, B. Kennedy, F. Connell and I. Kawachi, 'Teen births,
 income inequality, and social capital: developing an understanding of the
 causal pathway', Health and Place (2002) 8 (2): 77-83.
-I93· D. A. Coall and J. S. Chisholm, 'Evolutionary perspectives on
+I93· D. A. Coal and J. S. Chisholm, 'Evolutionary perspectives on
 pregnancy: maternal age at menarche and infant birth weight', Social
 Science and Medicine (2003) 57 (Io): I77I-8I.
 I94· T. E. Moffitt, A. Caspi, J. Belsky and P. A. Silva, 'Childhood ex
@@ -12422,7 +12422,7 @@ firearm ownership, zoo1-zoo3', Social Science and Medicine (zoo7)
 64 (3): 656-64.
 217. 'Behavioural Risk Factor Surveillance Survey. Survey Results 2001
 for Nationwide: Firearms'. North Carolina State Center for Health
-Statistics. http://www .schs.state.nc.us/S CH S/brfsshoo 1/us/firearm 3 .html
+Statistics. http://www .schs.state.nc.us/S CH S/brfssho 1/us/firearm 3 .html
 (accessed 9 September zooS).
 218. D. Popenoe, Life Without Father. New York: Free Press, 1996.
 219. H. B. Biller, Fathers and Families: Paternal factors in child develop
@@ -12520,7 +12520,7 @@ American criminal justice system. Washington, DC: LCCR/LCCREF,
 to imprisonment', in R. P. Weiss and N. South (eds.), Comparing Prison
 Systems: Towards a comparative and international penology. Amsterdam:
 Gordon & Breach Publishers, 1998.
-250. J. 0. Haley, 'Confession, repentence and absolution', in: M. Wright
+250. J. 0. Haley, 'Confession, repentance and absolution', in: M. Wright
 and B. Galoway (eds), Mediation and Criminal Justice. Newbury Park,
 CA: Sage, 1989.
 251. Amnesty International, Annual Report- United States of America.
@@ -12550,7 +12550,7 @@ Services Review. London: Prime Minister's Strategy Unit, 2003.
 262. Home Office, Explaining Reconviction Rates: A critical analysis.
 Home Office Research Study 136. London: Home Office, 1995·
 263. S. Henry, 'On the Effectiveness of Prison as Punishment. Incar
-ceration Nation: The warehousing of America's poor'. Ivy Tech State
+Incarceration Nation: The warehousing of America's poor'. Ivy Tech State
 College, South Bend,
 Indiana: http://www.is.wayne.edu/stuarthenry/
 Effectiveness_of_Punishment.htm, 2003.
@@ -12613,7 +12613,7 @@ Quarterly (1998) 76 (3): 341-73.
 286. P. Bourdieu, Distinction: A social critique of the judgement of taste.
 London: Routledge, 1984.
 287. K. Fox, Watching the English: The hidden rules of English behav
-iour. London: Hodder & Stoughton, 2004.
+behaviour. London: Hodder & Stoughton, 2004.
 288. J. Epstein, Snobbery: The American version. New York: Houghton
 Mifflin Company, 2002.
 
@@ -12770,7 +12770,7 @@ and C. D. Kilts, 'A neural basis for social cooperation', Neuron (2002)
 Trends in Cognitive Science (2004) 8: 294-300.
 343· J. W. Ouwerkerk, P. A. M. van Lange and M. Gallucci, 'Avoiding
 the social death penalty: ostracism and cooperation in social dilemmas',
-in K. D. Williams, J. P. Forgas and W. von Hippe! (eds), The Social
+in K. D. Williams, J. P. Forgas and W. von Hippel! (eds), The Social
 Outcast: Ostracism, social exclusion, rejection and bullying. New York:
 Psychology Press, 2005.
 344· World Bank, World Development Indicators (WDI) September
@@ -12879,7 +12879,7 @@ employee ownership. Norwich: Michael Russell, 2000.
 389. M. Quarrey and C. Rosen, 'How well is employee ownership work
 ing?' Harvard Business Review (1987) Sep.-Oct.: 126-32.
 390. T. Theorell, 'Democracy at work and its relationship to health', in
-P. Perrewe and D. E. Ganster (eds), Emotional and Physiological Processes
+P. Perrewé and D. E. Ganster (eds), Emotional and Physiological Processes
 and Intervention Strategies: Research in occupational stress and well
 being, Volume 3· Greenwich, CT: JAI Press, 2003.
 391. R. de Vogli, J. E. Ferrie, T. Chandola, M. Kivimaki and M. G.
@@ -13004,7 +13004,7 @@ rise in 33-7, 39, 43, 67-8,
 aristocracy 45, 244
 Arizona I52
 Arpaio, Joe I 52
-ASBOSs I54
+ASBOS I54
 Attention Deficit Hyperactivity
 
 Disorder 63
@@ -13409,7 +13409,7 @@ and resources I99, 20I
 
 conflict - cont.
 
-crrme:
+crime:
 
 see also status, competition
 
@@ -13508,7 +13508,7 @@ and inequality I49, I 5o, I 53
 
 death rates:
 
-economic segration and I 63
+economic segregation and I 63
 
 and inequality 27, 6o, I83-5,
 
@@ -14704,7 +14704,7 @@ Lister, Joseph xi
 literacy:
 
 adolescents I09-IO, I85
-adultsio7,Io8-Io
+adults7,Io8-Io
 
 living standards:
 
@@ -14859,7 +14859,7 @@ social ca pitallevels 79
 National Survey on Drug Use and
 
 minorities see ethnic minorities
-muror neurons 2IO
+mirror neurons 2IO
 Mississippi:
 
 Health 68

@@ -60,7 +60,7 @@ of the minister. Nouwen has stood in his shoes and speaks from a
 
 depth of insight and compassion.''
 
--United Church Obsen�er
+-United Church Observer�er
 
 "What Father Nouwen has to say is real and challenging; straight­
 
@@ -142,7 +142,7 @@ O THER BOOKS BY. HENRI J. M. N O UWEN
 
 Clowning in Rome
 
-Creative MinUitry
+Creative Ministry
 
 A Cry for Mercy
 
@@ -178,7 +178,7 @@ SECOND EDITION: TEXT COMPLETE, UPDATED, AND UNABRIDGED
 
 IMAGE DOUBLEDAY
 
-New York London Toronto Sydllf)' Aucklar.d
+New York London Toronto Sydney)' Auckland.d
 
 Copyright © 1972 by Henri J. M. Nouwen
 New material copyright © 2010 by Henri Nouwen Legacy Trust
@@ -199,7 +199,7 @@ The chapter "Ministry for a Ro otless Generation" first appeared as
 
 Portions of the lyrics from "Epitaph." Words and music by Robert Fripp, Ian
 McDonald, Greg Lake, Michael Giles, and Peter Sin field. © Copyright 1969
-and 1971 Enthoven Gaydon & Co., London, England. TRO-T OTAL MUSIC,
+and 1971 Enthoven Gaydon & Co., London, England. TRO-T TOTAL MUSIC,
 INC., New York. Used by permission.
 
 Portion of the lyrics from "I Talk to the Wind." Words and music by Ian
@@ -215,7 +215,7 @@ p.cm.
 Reprint. Originally published: Doubleday. 1972.
 1. Pastoral theology. 2. Clergy-Office. 3· Pastoral
 theology-Catholic Church. 4· Catholic Church-Clergy.
-I. T itle.
+I. T Title.
 VV4on.N683 1990 89-29305
 253-d:::2o CIP
 
@@ -253,7 +253,7 @@ Chap ter I I I
 
 MINISTRY TO A HOPELESS MAN
 
-Waitingjor Tomorrow
+Waiting for Tomorrow
 
 Contents
 
@@ -518,7 +518,7 @@ what he shall do and what not, why to say "yes" to one and
 
 "no" to another. The many distinctions between good and
 
-bad, ugly and beautiful, anractive and repulsive, are los­
+bad, ugly and beautiful, attractive and repulsive, are los­
 
 ing meaning for him. Even to the most bizarre suggestions
 
@@ -578,7 +578,7 @@ men and women. Perhaps Peter needs help, but his experi­
 
 ences and feelings cannot be understood merely in terms of
 
-indi vidua l psychopathology. They are part of the historical
+indi individual l psychopathology. They are part of the historical
 
 context in which we all li ve, a context that ma kes it possible
 
@@ -604,9 +604,9 @@ I will therefore di vide this chapter into two parts: The
 
 Predicament of Humanity in the Modern Age, and Human­
 
-ity's Way to Liberation in the Modern Age.
+Humanity Way to Liberation in the Modern Age.
 
-I. TH E PREDICAM ENT OF HUMANITY
+I. TH E PREDICAMENT ENT OF HUMANITY
 
 IN T H E MODERN AGE
 
@@ -668,7 +668,7 @@ One added flesh to the bone, the second grew hide and
 
 hair, the third completed it with matching limbs, and the
 
-fourth gave the lion life. Shaking its heavy mane, the fero­
+fourth gave the lion life. Shaking its heavy mane, the ferocious­
 
 cious beast arose with its menacing mouth, sharp teeth,
 
@@ -688,7 +688,7 @@ we also realize that these same industries have disturbed
 
 < lO >
 
-.Jriinistry in a 7JislocatedWor/d
+.Ministry in a 7Dislocated World/d
 
 the ecological balance and, through air, water, and noise
 
@@ -698,7 +698,7 @@ We drive cars and watch TV, but few of us understand
 
 the workings of the instruments we use. Most of us see
 
-such an abunda nce of material commodities around us that
+such an abundance nce of material commodities around us that
 
 scarcity no longer motivates our lives, but at the same time
 
@@ -754,10 +754,10 @@ cepts to determine the nature of the quandaries of those
 
 The Wounded Healer
 
-who live in today's wo rld. In Lifton's te rms, mode rn people
+who live in today's wo rld. In Lifton te rms, mode rn people
 
-can by cha racte rized by (1) a histo rical dislocation, (2) a
-fragmented ideology, and (3 ) a sea rch fo r new immo rtality.
+can by cha characterized rized by (1) a histo rical dislocation, (2) a
+fragmented ideology, and (3 ) a sea rch fo r new immortality immortality.
 
 It might be useful to examine Pete r's life in the light of these
 
@@ -767,11 +767,11 @@ concepts.
 
 When Pete r's fathe r as ks him when will he ta ke his final
 
-exam, and whethe r he has found a good gi rl to ma rry; and
+exam, and whether r he has found a good gi rl to ma rry; and
 
-when his mothe r ca refully inqui res about confession and
+when his mothe r ca carefully inquires res about confession and
 
-communion and his membe rship in a Catholic frate rnity­
+communion and his membership rship in a Catholic fraternity fraternity­
 
 they both suppose that Pete r's expectations fo r the futu re
 
@@ -779,19 +779,19 @@ a re essentially the same as thei rs.
 
 But Pete r thin ks of himself mo re as one of the "last ones
 
-in the expe riment of living" than as a pionee r wo rking fo r a
+in the expe riment of living" than as a pioneer r wo rking fo r a
 
-new futu re. The refo re, symbols used by his pa rents cannot
+new futu re. The therefore re, symbols used by his pa rents cannot
 
 possibly have the same unifying and integ rating powe r fo r
 
 him that they have fo r people with a p re-mode rn mentality.
 
-This expe rience of Pete r's we call "histo rical disloca­
+This expe rience of Pete r's we call "histo rical dislocation­
 
 tion." It is a "b rea k in the sense of connection, which men
 
-have long felt with the vital and nou rishing symbol of thei r
+have long felt with the vital and nou nourishing symbol of thei r
 
 cultu ral t radition; symbols revolving a round family, idea­
 
@@ -803,15 +803,15 @@ why should they invent new techniques, build new institu­
 
 tions, and develop new ideas-when they doubt if the re will
 
-be a tomo rrow that can gua rantee the value of human ef­
+be a tomorrow rrow that can gua guarantee the value of human ef­
 
 fo rt?
 
 C rucial fo r those who live in the mode rn age is the lac k
 
-of a sense of continuity, which is so vital fo r a c reative life.
+of a sense of continuity, which is so vital fo r a c creative life.
 
-We find ou rselves pa rt of a non-histo ry in which only the
+We find ou ourselves pa rt of a non-histo ry in which only the
 
 ( 12 )
 
@@ -841,7 +841,7 @@ long row of randomly chained incidents and accidents.
 
 When we wonder why the language of traditional Chris­
 
-tianity has lost its liberating power for those who live in the
+Christianity has lost its liberating power for those who live in the
 
 modern age, we have to realize that most Christian preach­
 
@@ -883,7 +883,7 @@ IJ >
 
 CI'he Wounded J{eakr
 
-off his old way of life. He quietly st opped going to Mass
+off his old way of life. He quietly st stopped going to Mass
 
 even on Sundays, spent long nights drinking and playing
 
@@ -1011,7 +1011,7 @@ from various composers into something fresh as well as
 
 lj;
 
-rrhe Wounded J{ealer
+The Wounded J{ealer
 
 momentary. Our lives often look like playful expressions of
 
@@ -1083,19 +1083,19 @@ He kept studying with a sort of obedient routine to give
 
 himself the feeling of having something to do , but the long
 
-weekends and many ho lidays were mostly spent in sleeping ,
+weekends and many ho holidays were mostly spent in sleeping ,
 
 lovemaking , and just sitting around with his friends , gently
 
 distracted by music and the free-floating images of his fan­
 
-tasy. Nothing seemed urgent or even important enough to
+fantasy. Nothing seemed urgent or even important enough to
 
 become involved in -no projects or plans , no exciting goals
 
 to work for , no pressing tasks to fulfill. Peter was not torn
 
-apart by conflic t , was not depressed , suicidal , or anxiety­
+apart by conflict t , was not depressed , suicidal , or anxiety­
 
 ridden. He did not su ffer from despair, but neither did he
 
@@ -1247,7 +1247,7 @@ ity is radically challenged to adapt itself to be understood by
 
 the modern world.
 
-II. H UM ANITY'S WAY TO LIB ERATION
+II. H UM HUMANITY'S WAY TO LIB ERATION
 
 When you recognize modern humanity among your col­
 
@@ -1417,11 +1417,11 @@ t hose w ho say: Revolution is better t han suicide.
 
 Suc h people are deeply convinced t hat our world is head ­
 
-ing for t he edge of t he cliff, t hat Ausc hwitz, Hiros hima, and
+ing for t he edge of t he cliff, t hat Auschwitz hwitz, Hiroshima hima, and
 
 My Lai are only a few of t he many names t hat s how how we
 
-kill ourselves off wit h our own absurd tec hnological inven­
+kill ourselves off wit h our own absurd tec technological inven­
 
 tions. For t hem, no adaptation, restoration, or addition can
 
@@ -1431,7 +1431,7 @@ fooling t hemselves by trying to make an intolerable situa ­
 
 tion a little more tolerable.
 
-They are tired of pruning trees and clipping branc hes ;
+They are tired of pruning trees and clipping branches hes ;
 
 t hey want to pull out t he roots of a sick society. They no
 
@@ -1439,13 +1439,13 @@ longer believe t hat integration talks, corporate measures
 
 against pollution, Peace Corps, antipoverty programs, and
 
-civil-rig hts legislation will save a world dominated by extor ­
+civil-rig hts legislation will save a world dominated by extortion ­
 
 tion, oppression, and exploitation. Only a total radical up­
 
-heaval of t he existing order, toget her wit h a drastic c hange
+upheaval of t he existing order, toget her wit h a drastic c hange
 
-of direction, can prevent t he end of everyt hing.
+of direction, can prevent t he end of everything hing.
 
 But w hile aiming at a revolution, suc h people are not just
 
@@ -1611,7 +1611,7 @@ the two beams of the cross .
 
 Jesus was a revolutionary who did not become an ex­
 
-tremist, since he did not offer an ideology, but himself. He
+extremist, since he did not offer an ideology, but himself. He
 
 was also a mystic, who did not use his intimate relationship
 
@@ -1678,7 +1678,7 @@ own family, and even in the strivings of your own heart,
 
 because they are in everyone who draws strength from the
 
-vision that dawns on the s kyline of our lives and leads us all
+vision that dawns on the s skyline of our lives and leads us all
 
 to a new world.
 
@@ -1741,7 +1741,7 @@ of the people.
 
 ( 29 >
 
-CJ'he Wounded J{ealu
+CJ'he Wounded J{Healer
 
 But the minister did not celebrate. Overcome with
 
@@ -1803,15 +1803,15 @@ catch a glimpse of at least a shadow of their lonely world.
 
 < JO >
 
-fiinistry for the 'R.Qotless fjmerations
+ministry for the 'R.Qotless fjmerations
 
 Thus, Christian l ead ership must b e shap ed by at l east
 
-thr ee of th e charact eristics that th e d esc endants of t h e
+thr ee of th e charact eristics that th e d esc descendants of t h e
 
-lon ely crowd shar e: inwardn ess, fath erl essn ess, and convul­
+lon ely crowd shar e: inwardn ess, fath erl lessness ess, and convul­
 
-siv en ess. Th e n ew minis t er must take a v ery s erious look at
+siv en ess. Th e n ew minis t er must take a v ery s serious look at
 
 th es e charact eristics and consid er th em carefully during r e­
 
@@ -1819,7 +1819,7 @@ flection and planning.
 
 We will t erm th es e g en erations th e inward g en erations,
 
-th e g en erations without fath ers, and th e convulsiv e g en era­
+th e g en erations without fath ers, and th e convulsive e g en era­
 
 tions, and examin e th eir charact eristics so that w e might
 
@@ -1827,17 +1827,17 @@ b ett er und erstand cont emporary m en and wom en.
 
 1. The inward generations
 
-In a study of coll eg e stud ents, publish ed in Octob er 1969,
+In a study of coll eg e stud ents, publish ed in October er 1969,
 
-J effrey K. Hadd en sugg est ed that th e b est phras e with which
+J Jeffrey K. Hadden en suggested est ed that th e b est phrase e with which
 
-to charact eriz e thos e young m en and wom en was "th e in­
+to charact characterize e thos e young m en and wom en was "th e in­
 
 ward g en eration." It was th e g en eration that gav e absolut e
 
-priority to th e p ersonal and that t end ed, in a r emarkabl e
+priority to th e p personal and that t end ed, in a r remarkable e
 
-way, to withdraw into th e s elf. This might surpris e thos e
+way, to withdraw into th e s elf. This might surprise e thos e
 
 who think of th e youth of that tim e as highly activist, sign­
 
@@ -1847,23 +1847,23 @@ and stay -ins all ov er th e country and thought of th ems elv es
 
 in many t erms, but n ev er in t erms of inwardn ess.
 
-First impr essions, how ev er, are not always th e right
+First impr impressions, how ev er, are not always th e right
 
-on es. L et m e d escrib e a d ev elopm ent in a famous youth c en­
+on es. L et m e d escrib e a d ev development ent in a famous youth c en­
 
-t er in Amst erdam . That c ent er, ca ll ed Fantasia, attrac t ed
+t er in Amsterdam Amsterdam . That c ent er, ca ll ed Fantasia, attrac t ed
 
 thousands of young p eopl e from all ov er th e world to its psy­
 
-ch ed elic, dr eamlik e atmosph er e.
+ch ed psychedelic, dr dreamlike e atmosphere er e.
 
 Fantasia was divid ed into many small, cozy, psych ed eli­
 
-cally paint ed rooms. Young p eopl e with long b eards and
+cally paint ed rooms. Young p eopl e with long b beards and
 
-long hair, in co lorful clothing pi ec ed tog eth er from old li­
+long hair, in co colorful clothing pi ec ed tog eth er from old li­
 
-turgical v estm ents, sat th er e qui etly smoking th eir sticks,
+turgical v vestments ents, sat th er e qui quietly smoking th eir sticks,
 
 < Jl
 
@@ -1934,7 +1934,7 @@ as a time of continuing reflection. Instead of an obvious
 
 ( J2 )
 
-fltinistry for the 'RQ.otless (;merations
+fltinistry for the 'RQ.otless (;generations
 
 authority telling us how to think and what to do, this con­
 
@@ -1964,7 +1964,7 @@ ing a sensitive and honest person, our society's unfettered
 
 faith in youth may turn out to be justified. However, in­
 
-wardness' present mood and form seems unbridled by any
+inwardness' present mood and form seems unbridled by any
 
 social norm or tradition and almost void of notions for ex­
 
@@ -1974,9 +1974,9 @@ Je ffrey K. Hadden is the last one to suggest that the in­
 
 ward generations are on the brink of revitalizing contem­
 
-plative life, about to initiate new forms of monasticism. His
+contemplative life, about to initiate new forms of monasticism. His
 
-data show, first of all, that inwardne ss can lead to a form
+data show, first of all, that inwardness ss can lead to a form
 
 of privatism, which is not only anti-authoritarian and anti­
 
@@ -2052,7 +2052,7 @@ we make of ourselves. We could have expected this, since
 
 we have said that faith is not the acceptance of centuries ­
 
-old traditions but an a ttitude that grows from within. We
+old traditions but an a attitude that grows from within. We
 
 could have anticipated this ever since we started saying
 
@@ -2114,7 +2114,7 @@ Just upset my mind
 
 ( 35 )
 
-crhe Wounded J{ealtr
+the Wounded J{ealtr
 
 Can't instruct me or conduct me
 
@@ -2122,7 +2122,7 @@ Just use up my time.*
 
 The only thing left is to try it alone, not proud or con­
 
-temptuous of the fathers, telling them that they will do bet­
+contemptuous of the fathers, telling them that they will do bet­
 
 ter, but with the deep-seated fear of complete failure. But
 
@@ -2176,7 +2176,7 @@ of the adult world, show a scrupulous sensitivity to what
 
 ( J6 >
 
-.fi1inistry for the �otless qmerations
+.fi1inistry for the �otless generations
 
 their peers feel, think, and say about them. Being consid­
 
@@ -2274,7 +2274,7 @@ nervous people, unable to concentrate and often suffering
 
 from a growing sense of depression. They know that what
 
-is shouldn 't be the way it is, but they see no workable alter­
+is shouldn't 't be the way it is, but they see no workable alter­
 
 native. Thus they are saddled with frustration, which often
 
@@ -2302,7 +2302,7 @@ of the world and by the incapacity of adults to offer any real
 
 ( J8 >
 
-fllinist')•jor the 1\Qotless qenerations
+feminist')•jor the 1\Qotless generations
 
 faith in a better world , that they chose to set their bodies
 
@@ -2364,7 +2364,7 @@ This convulsive behavior is often misunderstood by those
 
 < 39 )
 
-Cfhe Wounded J{ealtr
+The Wounded J{ealtr
 
 who have power and feel that society should be protected
 
@@ -2426,7 +2426,7 @@ ask what is expected of those who aspire to be Christian
 
 leaders in the world of tomorrow.
 
-.filinistry for the 'RQotless fienerations
+.filinistry for the 'Rootless generations
 
 I I . TOMORROW ' S LEADERS
 
@@ -2476,7 +2476,7 @@ self, often do more harm than good. On the other hand it
 
 also is becoming obvious that those who avoid the painful
 
-encounter with the unseen are doomed to live a supercil­
+encounter with the unseen are doomed to live a supercilious­
 
 ious, boring, and superficial life.
 
@@ -2552,7 +2552,7 @@ to articulate their own experiences can offer themselves
 
 ( 42 )
 
-)rLillistry for the 'RQ.otless [jcneratio11s
+)ministry for the 'RQ.otless [generations11s
 
 to others as sources of clarification. Christian leaders are,
 
@@ -2680,7 +2680,7 @@ have already suggested the place where the future leader
 
 < 44 ;
 
-JWnistry for the 7?.Qotless c;Jenerations
+Ministry for the 7?.Qotless c;Jenerations
 
 will stand. Not "up there," far away or secretly hidden, but
 
@@ -2690,7 +2690,7 @@ If we now realize that contemporary generations are not
 
 only inward generations asking for articulation, but also fa ­
 
-therless generations looking for a new kind of authority, we
+fatherless generations looking for a new kind of authority, we
 
 must consider what the nature of this authority will be. I
 
@@ -2744,7 +2744,7 @@ no way of dying.
 
 ( 45 )
 
-q'be Wounded J{ealer
+the Wounded J{ealer
 
 This compassion is authority because it does not toler­
 
@@ -2934,7 +2934,7 @@ affirm this great news, and to make visible in daily events
 
 the fact that behind the dirty curtain of our painful symp-
 
-Jl,1_inistry for the 1\Qotless [imerations
+Jl,1_inistry for the 1\Qotless [generations
 
 toms there is something great to be seen: the face of God in
 
@@ -3062,7 +3062,7 @@ the future face to face.
 
 < jO >
 
-Jrlinistry for the �otless 9enerations
+Jrlinistry for the �otless 9generations
 
 Christian leaders who are able not only to articulate the
 
@@ -3265,7 +3265,7 @@ operate on me last week. They got me drugged, took
 
 < J6 )
 
-Jrl_inistry to a .J{opeless Jlinn
+Jrl_inistry to a .J{opeless Linn
 
 me up t,here and my heart flew up. They decided they'd
 
@@ -3463,7 +3463,7 @@ help.
 
 1. The impersonal milieu
 
-For a theology student who went t hrough grade sc hool , high
+For a theology student who went t hrough grade sc school , high
 
 school, college, and divinity school, it was hard to imagine
 
@@ -3592,7 +3592,7 @@ living, who had had to rely wholly on his own body, knew
 
 that he had a right to die his own death, a natural death.
 
-He waflted to die the way he had lived. But his protest was
+He wanted to die the way he had lived. But his protest was
 
 weak and he must have realized that there was no choice.
 
@@ -3670,7 +3670,7 @@ and desperate as Mr. Harrison probably could not draw on
 
 past experiences that had established in him an awareness
 
-of God's love and forgivep.ess.
+of God's love and forgiveness.ess.
 
 Further, if the hour of death often brings back early
 
@@ -3892,7 +3892,7 @@ now have to consider.
 
 ( 66 >
 
-.)tinistry to a Hopeless fit.an
+.)ministry to a Hopeless fit.an
 
 II. HOW TO LEAD MR. HAR RISON TO TOMORROW
 
@@ -4019,7 +4019,7 @@ would alleviate the pains of this suffering man. But still, the
 
 question remains, "What use can an illiterate man in the
 
-hour of agony make of the words, explanations, exhorta­
+hour of agony make of the words, explanations, exhortations­
 
 tions, and arguments of a theology student?"
 
@@ -4049,7 +4049,7 @@ have been better for John to stay away from Mr. Harrison,
 
 to leave him alone, to prevent him from making morbid as­
 
-sociations with the appearance of a preacher?"
+associations with the appearance of a preacher?"
 
 Yes . . . unless in the middle of the anonymity created by
 
@@ -4192,7 +4192,7 @@ when "nothing and nobody" is waiting, there is no chance
 
 to survive in the struggle for life.
 
-Mr. Harrison had no reason to come out of the anesthe­
+Mr. Harrison had no reason to come out of the anesthesia­
 
 sia if returning to consciousness meant arriving at a station
 
@@ -4272,7 +4272,7 @@ operation. In the short interchange with John Allen, Mr.
 
 ( 72 >
 
-J,iinistry to a J{opeless flia11
+J,ministry to a J{opeless flian11
 
 Harrison seemed to fear death even more than a return to
 
@@ -4280,7 +4280,7 @@ life.
 
 Does not John's presence and faithful waiting become ri­
 
-diculous in the face of someone who quite possibly will not
+ridiculous in the face of someone who quite possibly will not
 
 be alive the next day? Many patients have been fooled with
 
@@ -4336,7 +4336,7 @@ pens, including death?
 
 ( 73 >
 
-rr'he Wounded J{ealer
+the Wounded J{ealer
 
 In the face of death there is hardly any difference be­
 
@@ -4402,7 +4402,7 @@ a good piece of counseling and Mr. Harrison is no longer a
 
 ( 74 >
 
-flf.inistry to a J{opeless fllar�
+flf.inistry to a J{opeless ministry�
 
 farm worker doubting he will make it through the opera­
 
@@ -4470,7 +4470,7 @@ not just a possibility to be actualized by well-trained theo-
 
 Cihe Wounded J{ealer
 
-logians; it is the responsibility of every Christian. Therefore
+theologians; it is the responsibility of every Christian. Therefore
 
 let us now finally discuss the main principles of Christian
 
@@ -4520,7 +4520,7 @@ that, since God has become human, it is human beings who
 
 have the power to lead their fellows to freedom.
 
-Let us now pay special anention to these three princi­
+Let us now pay special attention to these three princi­
 
 ples, which we derived from John's visit to Mr. Harrison.
 
@@ -4654,7 +4654,7 @@ ers when they speak directly to a man and a woman whose
 
 marriage they are blessing, or to the children of one they
 
-)r'linistry to a Hopeless )rum
+)ministry to a Hopeless )rum
 
 are burying in the ground. People listen in the deep-seated
 
@@ -4778,7 +4778,7 @@ breaking through the cracks in the street, ears to hear
 
 < 8o >
 
-.Jrlinistry to a J{opeless )rlan
+.Jrlinistry to a J{opeless )man
 
 a word of forgiveness muted by hatred and hostility, and
 
@@ -5067,7 +5067,7 @@ called not only to care for their own wounds and the wounds
 
 ( 88 )
 
-filinistry by a �1ely filinister
+filinistry by a �1ely minister
 
 of others, but also to make their wounds into a major source
 
@@ -5129,13 +5129,13 @@ common problems, and the many experiments that seek to
 
 ( 8g )
 
-CTbe Wounded J{ealer
+The Wounded J{ealer
 
 create intimate liturgies where peace is not only announced
 
 but also felt-these increasingly popular phenomena are all
 
-signs of a painful attempt to break through the immobiliz­
+signs of a painful attempt to break through the immobilizing­
 
 ing wall of loneliness.
 
@@ -5293,7 +5293,7 @@ into plowshares, and spears into pruning hooks.
 
 The painful irony is that ministers, who want to touch
 
-the center of people's lives, find themselves on the periph­
+the center of people's lives, find themselves on the periphery­
 
 ery, often pleading in vain for admission. They never seem
 
@@ -5585,7 +5585,7 @@ tion to others we impose ourselves upon them with intrusive
 
 curiosity.
 
-fllinistry by a �nely fllinister
+fllinistry by a �nely minister
 
 Those who want to pay attention withou� intention have
 
@@ -5615,7 +5615,7 @@ of self-pity but out of humility, we create the space for oth­
 
 ers to be themselves and to come to us on their own terms.
 
-James H illman, director of studies at the C. G. Jung Insti­
+James H Hillman, director of studies at the C. G. Jung Insti­
 
 tute in Zurich, wrote this about counseling:
 
@@ -5713,7 +5713,7 @@ Many people in this life suffer because they are anxiously
 
 searching for the man or woman, the event or encounter,
 
-fllinistry by a �nelyfllinister
+fllinistry by a �singly minister
 
 which will take their loneliness away. But when they enter
 
@@ -5779,7 +5779,7 @@ this condition, liberation starts.
 
 < 99 )
 
-Cibe Wounded J{ealer
+The Wounded J{ealer
 
 No minister can save anyone. We can only offer ourselves
 
@@ -5839,13 +5839,13 @@ ing others with their pain and allows them to accept their
 
 wounds as helpful teachers of their own and their neigh­
 
-bor's condition. Community arises where the sharing of
+neighbor's condition. Community arises where the sharing of
 
 (
 
 100 )
 
-)ilinistry by a �ely )iiinister
+)ministry by a �ely )minister
 
 pain takes place, not as a stifling form of self-complaint, but
 
@@ -5853,7 +5853,7 @@ as a recognition of God's saving promises.
 
 I started this chapter with the story of Rabbi Yoshua ben
 
-Levi, who asked Elij ah, "When will the Messiah come?"
+Levi, who asked Elijah ah, "When will the Messiah come?"
 
 There is an important conclusion to this story. When Elijah
 
@@ -5947,7 +5947,7 @@ intimated a new creation.
 
 ( 102. )
 
-C onclusion
+C Conclusion
 
 A Forward Thrust
 
@@ -5975,7 +5975,7 @@ the hospital, afraid to die and afraid to live-they are all
 
 asking for space in which they can move without fear and
 
-enjoy the freedom to discover new directions. When imitat­
+enjoy the freedom to discover new directions. When imitating­
 
 ing Christ does not mean living a life like Christ, but rather
 
@@ -6127,7 +6127,7 @@ Robert Fripp, Ian McDonald, Greg Lake, Michael Giles,
 
 and Peter Sinfield).
 
-"As adult authority disintegrates . . . " -David Riesrnan,
+"As adult authority disintegrates . . . " -David Riesman,
 
 Psych ology Today, October 1969.
 
@@ -6137,9 +6137,9 @@ Riesman, Psych ology Today, October 1969.
 
 CHAPTER III
 
-Alexander Berkman -Alexander Berkman, Priaon Mem­
+Alexander Berkman -Alexander Berkman, Prison Mem­
 
-oirs of an Anarchist (New York, 1970).
+Memoirs of an Anarchist (New York, 1970).
 
 George Jackson -George Jackson, Soledad Brother, The
 

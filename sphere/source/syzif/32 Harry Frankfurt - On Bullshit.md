@@ -20,7 +20,7 @@ simply to give a rough account of what bullshit is and how it differs from what 
 is not, or (putting it somewhat differently) to articulate, more or less sketchily, the
 structure of its concept. Any suggestion about what conditions are logically both
 necessary and sufficient for the constitution of bullshit is bound to be somewhat
-arbitrary. For one thing, the expression EXOOVKLW is often employed quite looselysimply as a generic term of abuse, with no very specific literal meaning. For
+arbitrary. For one thing, the expression EXOOVKLW is often employed quite loosely as a generic term of abuse, with no very specific literal meaning. For
 another, the phenomenon itself is so vast and amorphous that no crisp and
 perspicuous analysis of its concept can avoid being procrustean. Nonetheless it
 should be possible to say something helpful, even though it is not likely to be
@@ -28,7 +28,7 @@ decisive. Even the most basic and preliminary questions about bullshit remain,
 after all, not only unanswered but unasked. So far as I am aware, very little work
 has been done on this subject. I have not undertaken a survey of the literature,
 partly because I do not know how to go about it. To be sure, there is one quite
-obvious place to lookthe 2[IRUG(QJOLVK'LFWLRQDU\The 2(' has an entry for
+obvious place to look 2[IRUG(QJOLVK'LFWLRQDU\The 2(' has an entry for
 EXOOVKLW in the supplementary volumes, and it also has entries for various pertinent
 uses of the word EXOO and for some related terms. I shall consider some of these
 entries in due course. I have not consulted dictionaries in languages other than
@@ -36,7 +36,7 @@ entries in due course. I have not consulted dictionaries in languages other than
 English, because I do not know the words for bullshit or bull in any other
 language.
 
-Another worthwhile source is the title essay in 7KH3UHYDOHQFHRI+XPEXJ by
+Another worthwhile source is the title essay in 7KH3REVELATION+XPEXJ by
 Max Black. I am uncertain just how close in meaning the word KXPEXJ is to the
 word bullshit. Of course, the words are not freely and fully interchangeable; it is
 clear that they are used differently. But the difference appears on the whole to
@@ -51,7 +51,7 @@ very helpful. But Black also confronts the problem of establishing the nature of
 humbug more directly, and he offers the following formal definition:
 
 +XPEXJ: deceptive misrepresentation, short of lying, especially by
-pretentious word or deed, of somebodys own thoughts, feelings, or
+pretentious word or deed, of somebody's own thoughts, feelings, or
 attitudes.
 
 A very similar formulation might plausibly be offered as enunciating the essential
@@ -61,7 +61,7 @@ definition.
 
 'HFHSWLYHPLVUHSUHVHQWDWLRQThis may sound pleonastic. No doubt what Black
 has in mind is that humbug is necessarily designed or intended to deceive, that its
-misrepresentation is not merely inadvertent. In other words, it is GHOLEHUDWH
+misrepresentation is not merely inadvertent. In other words, it is GHOLEHURATE
 misrepresentation. Now if, as a matter of conceptual necessity, an intention to
 deceive is an invariable feature of humbug, then the property of being humbug
 depends at least in part upon the perpetrators state of mind. It cannot be identical,
@@ -69,10 +69,10 @@ accordingly, with any propertieseither inherent or relationalbelonging just to
 the utterance by which the humbug is perpetrated. In this respect, the property of
 being humbug is similar to that of being a lie, which is identical neither with the
 falsity nor with any of the other properties of the statement the liar makes, but
-which requires that the liar makes his statement in a certain state of mindnamely, with an intention to deceive. It is a further question whether there are any
+which requires that the liar makes his statement in a certain state of mind, namely, with an intention to deceive. It is a further question whether there are any
 features essential to humbug or to lying that are QRW dependent upon the intentions
 and beliefs of the person responsible for the humbug or the lie, or whether it is, on
-the contrary, possible for any utterance whatsoever to begiven that the speaker
+the contrary, possible for any utterance whatsoever to be given that the speaker
 
 is in a certain state of minda vehicle of humbug or of a lie. In some accounts of
 lying there is no lie unless a false statement is made; in others a person may be
@@ -82,11 +82,11 @@ bullshit? May any utterance at all qualify as humbug or bullshit, given that (so
 speak) the utterers heart is in the right place, or must the utterance have certain
 characteristics of its own as well?
 
-6KRUWRIO\LQJIt must be part of the point of saying that humbug is short of
+6KRUWRIO\LQJ must be part of the point of saying that humbug is short of
 lying,that while it has some of the distinguishing characteristics of lies, there are
 others that it lacks. But this cannot be the whole point. After all, every use of
 language without exception has some, but not all, of the characteristic features of
-liesif no other, then at least the feature simply of being a use of language. Yet it
+lies, if no other, then at least the feature simply of being a use of language. Yet it
 would surely be incorrect to describe every use of language as short of lying.
 Blacks phrase evokes the notion of some sort of continuum, on which lying
 occupies a certain segment while humbug is located exclusively at earlier points.
@@ -97,14 +97,14 @@ varieties of misrepresentation might be construed as a difference in degree.
 
 indicates
 
-the qualifier especially(VSHFLDOO\E\SUHWHQWLRXVZRUGRUGHHGThere are two points to notice here. First,
+the qualifier especially(SPECIAL\E\SUHWHQWLRXVZRUGRUGHHGThere are two points to notice here. First,
 Black identifies humbug not only as a category of speech but as a category of
 action as well; it may be accomplished either by words or by deeds. Second, his
 use of
 that Black does not regard
 pretentiousness as an essential or wholly indispensable characteristic of humbug.
 Undoubtedly, much humbug is pretentious. So far as concerns bullshit, moreover,
-pretentious bullshitis close to being a stock phrase. But I am inclined to think
+pretentious bullshit is close to being a stock phrase. But I am inclined to think
 that when bullshit is pretentious, this happens because pretentiousness is its
 motive rather than a constitutive element of its essence. The fact that a person is
 behaving pretentiously is not, it seems to me, part of what is required to make his
@@ -115,14 +115,14 @@ necessarily has pretentiousness as its motive.
 0LVUHSUHVHQWDWLRQRIVRPHERG\©VRZQWKRXJKWVIHHOLQJVRUDWWLWXGHVThis
 provision that the perpetrator of humbug is essentially misrepresenting himself
 raises some very central issues. To begin with, whenever a person deliberately
-misrepresents DQ\WKLQJhe must inevitably misrepresenting his own state of mind.
-It is possible, of course, for a person to misrepresent that alonefor instance, by
+misrepresents DQ\THINGS he must inevitably misrepresenting his own state of mind.
+It is possible, of course, for a person to misrepresent that alone, for instance, by
 pretending to have a desire or a feeling which he does not actually have. But
 suppose that a person, whether by telling a lie or in another way, misrepresents
 
 something else. Then he necessarily misrepresents at least two things. He
-misrepresents whatever he is talking abouti.e., the state of affairs that is the
-topic or referent of his discourseand in doing this he cannot avoid
+misrepresents whatever he is talking about i.e.,.e., the state of affairs that is the
+topic or referent of his discourse, and in doing this he cannot avoid
 misrepresenting his own mind as well. Thus, someone who lies about how much
 money he has in his pocket both gives an account of the amount of money in his
 pocket and conveys that he believes this account. If the lie works, then its victim
@@ -148,14 +148,14 @@ a false impression concerning what is going on in the mind of the speaker. Insof
 as it is humbug, the creation of this impression is its main purpose and its point.
 Understanding Black along these lines suggests a hypothesis to account for his
 characterization of humbug as short of lying.If I lie to you about how much
-money I have, then I do not thereby make an H[SOLFLW assertion concerning my
+money I have, then I do not thereby make an H[SPECLIFIC assertion concerning my
 beliefs. Therefore, one might with some plausibility maintain that although in
 telling
 this
 misrepresentationas distinct from my misrepresentation of what is in my
-pocketis not strictly speaking a lie at all. For I do not come right out with any
+pocket not strictly speaking a lie at all. For I do not come right out with any
 statement whatever about what is in my mind. Nor does the statement I do affirm
-e.g., I have twenty dollars in my pocketimply any statement that attributes
+e.g., I have twenty dollars in my imply any statement that attributes
 a belief to me. On the other hand, it is unquestionable that in so affirming, I
 provide you with a reasonable basis for making certain judgments about what I
 believe. In particular, I provide you with a reasonable basis for supposing that I
@@ -218,7 +218,7 @@ mindless slob? Is his product necessarily messy or unrefined? The word VKLW does
 
 to be sure, suggest this. Excrement is not designed or crafted at all; it is merely
 emitted, or dumped. It may have a more or less coherent shape, or it may not, but
-it is in any case certainly not ZURXJKWThe notion of carefully wrought bullshit involves, then, a certain inner strain.
+it is in any case certainly not ZURK notion of carefully wrought bullshit involves, then, a certain inner strain.
 Thoughtful attention to detail requires discipline and objectivity. It entails
 accepting standards and limitations that forbid the indulgence of impulse or whim.
 It is this selflessness that, in connection with bullshit, strikes us as inapposite. But
@@ -226,9 +226,9 @@ in fact it LV not out of the question at all. The realms of advertising and of p
 relations, and the nowadays closely related realm of politics, are replete with
 instances of bullshit so unmitigated that they can serve among the most
 indisputable and classic paradigms of the concept. And in these realms there are
-exquisitely sophisticated craftsmen whowith the help of advanced and
+exquisitely sophisticated craftsmen who the help of advanced and
 demanding techniques of market research, of public opinion polling, of
-psychological testing, and so forthdedicate themselves tirelessly to getting
+psychological testing, and so forth themselves tirelessly to getting
 every word and image they produce exactly right.
 
 Yet there is something more to be said about this. However studiously and
@@ -249,8 +249,8 @@ sorry for myself. Wittgenstein called. I croaked: I feel just like a dog
 that has been run over.He was disgusted: You dont know what a
 dog that has been run over feels like.Now who knows what really happened? It seems extraordinary, almost
 unbelievable, that anyone could object seriously to what Pascal reports herself as
-having said. That characterization of her feelingsso innocently close to the
-utterly commonplace sick as a dogis simply not provocative enough to arouse
+having said. That characterization of her feelings innocently close to the
+utterly commonplace sick as a dog simply not provocative enough to arouse
 any response as lively or intense as disgust. If Pascals simile is offensive, then
 what figurative or allusive uses of language would not be? So perhaps it did not
 really happen quite as Pascal says. Perhaps Wittgenstein was trying to make a
@@ -276,7 +276,7 @@ out to be.
 Then just what is it that the Wittgenstein in her report considers to be
 objectionable? Let us assume that he is correct about the facts: that is, Pascal
 really does not know how run-over dogs feel. Even so, when she says what she
-does, she is plainly not O\LQJShe would have been lying if, when she made her
+does, she is plainly not O\LYLQJ would have been lying if, when she made her
 statement, she was aware that she actually felt quite good. For however little she
 knows about the lives of dogs, it must certainly be clear to Pascal that when dogs
 are run over they do not feel good. So if she herself had in fact been feeling good,
@@ -303,8 +303,8 @@ Wittgenstein in Pascals story, judging from his response, this is just bullshit.
 Now assuming that Wittgenstein does indeed regard Pascals characterization of
 
 how she feels as an instance of bullshit, why does it strike him that way? It does
-so, I believe, because he perceives what Pascal says as beingroughly speaking,
-for nowunconnected to a concern with the truth. Her statement is not germane
+so, I believe, because he perceives what Pascal says as being speaking,
+for now to a concern with the truth. Her statement is not germane
 to the enterprise of describing reality. She does not even think she knows, except
 in the vaguest way, how a run-over dog feels. Her description of her own feeling
 is, accordingly, something that she is merely making up. She concocts it out of
@@ -315,7 +315,7 @@ It is for this mindlessness that Pascals Wittgenstein chides her. What disgusts
 him is that Pascal is not even concerned whether her statement is correct. There is
 every likelihood, of course, that she says what she does only in a somewhat
 clumsy effort to speak colorfully, or to appear vivacious or good-humored; and no
-doubt Wittgensteins reactionas she construes itis absurdly intolerant. Be this
+doubt Wittgensteins reaction she construes itis absurdly intolerant. Be this
 as it may, it seems clear what that reaction is. He reacts as though he perceives her
 to be speaking about her feeling thoughtlessly, without conscientious attention to
 the relevant facts. Her statement is not wrought with greatest care.She makes it
@@ -342,7 +342,7 @@ with the truth-value of what she says. That is why she cannot be regarded as
 lying; for she does not presume that she knows the truth, and therefore she cannot
 be deliberately promulgating a proposition that she presumes to be false: Her
 statement is grounded neither in a belief that it is true nor, as a lie must be, in a
-belief that it is not true. It is just this lack of connection to a concern with truththis indifference to how things really arethat I regard as of the essence of
+belief that it is not true. It is just this lack of connection to a concern with truth indifference to how things really are I regard as of the essence of
 
 bullshit.
 
@@ -362,7 +362,7 @@ conversation among females to which hen sessions are characteristically devoted.
 What is distinctive about the sort of informal discussion among males that
 constitutes a bull session is, it seems to me, something like this: while the
 discussion may be intense and significant, it is in a certain respect not for real.The characteristic topics of a bull session have to do with very personal and
-emotion-laden aspects of lifefor instance, religion, politics, or sex. People are
+emotion-laden aspects of life instance, religion, politics, or sex. People are
 generally reluctant to speak altogether openly about these topics if they expect
 that they might be taken too seriously. What tends to go on in a bull session is that
 the participants try out various thoughts and attitudes in order to see how it feels
@@ -402,10 +402,10 @@ bullin an MPs life.(FRQRPLVW 8 Feb. 470/471, 1958)
 Here the term bull evidently pertains to tasks that are pointless in that they have
 nothing much to do with the primary intent or justifying purpose of the enterprise
 which requires them. Spit-and-polish and red tape do not genuinely contribute, it
-is presumed, to the realpurposes of military personnel or government officials,
+is presumed, to the real purposes of military personnel or government officials,
 even though they are imposed by agencies or agents that purport to be
 conscientiously devoted to the pursuit of those purposes. Thus the unnecessary
-routine tasks or ceremonialthat constitute bull are disconnected from the
+routine tasks or ceremonial that constitute bull are disconnected from the
 legitimating motives of the activity upon which they intrude, just as the things
 people say in bull sessions are disconnected from their settled beliefs, and as
 bullshit is disconnected from a concern with the truth.
@@ -414,18 +414,18 @@ The term bull is also employed, in a rather more widespread and familiar usage,
 as a somewhat less coarse equivalent of bullshit. In an entry for bull as so used,
 the 2(' suggests the following as definitive: trivial, insincere, or untruthful talk
 or writing; nonsense.Now it does not seem distinctive of bull either that it must
-be deficient in meaning or that it is necessarily unimportant; so nonsenseand
+be deficient in meaning or that it is necessarily unimportant; so nonsense and
 trivial,even apart from their vagueness, seem to be on the wrong track. The
-focus of insincere, or untruthfulis better, but it needs to be sharpened. The
+focus of insincere, or untruthful is better, but it needs to be sharpened. The
 entry at hand also provides the following two definitions:
 
-1914 'LDOHFW1RWHV IV. 162 %XOOtalk which is not to the purpose;
+1914 'LDOHFW1RWHV IV. 162 %XOO talk which is not to the purpose;
 hot air.1932 7LPHV/LW6XSS8 Dec. 933/3 Bullis the slang term for a
-combination of bluff, bravado, hot airand what we used to call in
-the Army Kidding the troopsNot to the purposeis appropriate, but it is both too broad in scope and too
+combination of bluff, bravado, hot air and what we used to call in
+the Army Kidding the troops Not to the purpose is appropriate, but it is both too broad in scope and too
 vague. It covers digressions and innocent irrelevancies, which are not invariably
 instances of bull; furthermore, saying that bull is not to the purpose leaves it
-uncertain what purpose is meant. The reference in both definitions to hot airis
+uncertain what purpose is meant. The reference in both definitions to hot air is
 more helpful. When we characterize talk as hot air, we mean that what comes out
 of the speakers mouth is only that. It is mere vapor. His speech is empty, without
 substance or content. His use of language, accordingly, does not contribute to the
@@ -440,7 +440,7 @@ representation of death which we ourselves produce and which, indeed, we cannot
 help producing in the very process of maintaining our lives. Perhaps it is for
 making death so intimate that we find excrement so repulsive. In any event, it
 cannot serve the purposes of sustenance, any more than hot air can serve those of
-cummunication.
+communication.
 
 Now consider these lines from Pounds Canto LXXIV, which the 2(' cites in its
 entry on bullshit as a verb:
@@ -480,7 +480,7 @@ bullshit: although it is produced without concern with the truth, it need not be
 false. The bullshitter is faking things. But this does not mean that he necessarily
 gets them wrong.
 
-In Eric Amblers novel 'LUW\6WRU\a character named Arthur Abdel Simpson
+In Eric Amble novel 'LUW\6WRU\a character named Arthur Abdel Simpson
 recalls advice that he received as a child from his father:
 
 Although I was only seven when my father was killed, I still
@@ -508,7 +508,7 @@ however, between telling a lie and producing some particular instance of bullshi
 
 The elder Simpson identifies the alternative to telling a lie as bullshitting ones
 way through.This involves not merely producing one instance of bullshit; it
-involves a SURJUDP of producing bullshit to whatever extent the circumstances
+involves a PROGRAM of producing bullshit to whatever extent the circumstances
 require. This is a key, perhaps, to his preference. Telling a lie is an act with a
 sharp focus. It is designed to insert a particular falsehood at a specific point in a
 set or system of beliefs, in order to avoid the consequences of having that point
@@ -585,13 +585,13 @@ former is one who tells a lie unwillingly, while the liar loves to lie and
 passes his time in the joy of lying.... The latter takes delight in lying,
 rejoicing in the falsehood itself.
 
-What Augustine calls liarsand real liesare both rare and extraordinary.
+What Augustine calls liars and real lies are both rare and extraordinary.
 Everyone lies from time to time, but there are very few people to whom it would
 often (or even ever) occur to lie exclusively from a love of falsity or of deception.
 For most people, the fact that a statement is false constitutes in itself a reason,
 however weak and easily overridden, not to make the statement.
 
-For St. Augustines pure liar it is, on the contrary, a reason in favor of making it.
+For St. Augustine's pure liar it is, on the contrary, a reason in favor of making it.
 For the bullshitter it is in itself neither a reason in favor nor a reason against. Both
 in lying and in telling the truth people are guided by their beliefs concerning the
 way things are. These guide them as they endeavor either to describe the world
@@ -649,8 +649,8 @@ truly are. These anti-realistdoctrines undermine confidence in the value of
 disinterested efforts to determine what is true and what is false, and even in the
 intelligibility of the notion of objective inquiry. One response to this loss of
 confidence has been a retreat from the discipline required by dedication to the
-ideal of FRUUHFWQHVV to a quite different sort of discipline, which is imposed by
-pursuit of an alternative ideal of VLQFHULW\Rather than seeking primarily to arrive
+ideal of CORRECTNESS to a quite different sort of discipline, which is imposed by
+pursuit of an alternative ideal of SINCERITY\Rather than seeking primarily to arrive
 at accurate representations of a common world, the individual turns toward trying
 to provide honest representations of himself. Convinced that reality has no
 inherent nature, which he might hope to identify as the truth about things, he

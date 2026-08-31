@@ -368,7 +368,7 @@ Fittingly, the deepest debates over statistical foundations revolve around
 very simple examples, and I stick to those. This allows getting to the nitty-gritty
 logical issues with minimal technical complexity. If there's disagreement even
 there, there's little hope with more complex problems. (I try to use the notation
-of discussants, leading to some variation.) The book would serve as a onesemester course, or as a companion to courses on research methodology,
+of discussants, leading to some variation.) The book would serve as a one-semester course, or as a companion to courses on research methodology,
 philosophy of science, or interdisciplinary research in science and society.
 Each tour gives a small set of central works from statistics or philosophy, but
 since the field is immense, I reserve many important references for further
@@ -1135,7 +1135,7 @@ patterns.
 
 The term "apophenia" refers to a tendency to zero in on an apparent
 regularity or cluster within a vast sea of data and claim a genuine regularity.
-One of our fundamental problems (and skills) is that we're apopheniacs. Some
+One of our fundamental problems (and skills) is that we're apophenics. Some
 investment funds, none that we actually know, are alleged to produce several
 portfolios by random selection of stocks and send out only the one that did
 best. Call it the Pickrite method. They want you to infer that it would be
@@ -1635,7 +1635,7 @@ each independent trial. The likelihood of the hypothesis H0 : θ = 0.5, given x
 0,
 which we may write as Lik(0.5), equals (1/2)(1/2)(1/2) = 1/8. Strictly speaking, we
 should write Lik(θ;x
-0), because it's always computed given datax
+0), because it's always computed given data
 0; I will do so later
 on. The likelihood of the hypothesis θ = 0.2 is Lik(0.2) = (0.2)(0.2)(0.8) = 0.032.
 In general, the likelihood in the case of Bernoulli independent and identically
@@ -2662,7 +2662,7 @@ Interestingly, nowadays, non-subjective or default Bayesians concede they
 "have to live with some violations of the likelihood and stopping rule
 principles" (Ghosh, Delampady, and Samanta 2010, p. 148) since their
 prior probability distributions are influenced by the sampling distribution.
-Is it because ignoring stopping rules can wreak havoc with the welltestedness of inferences? If that is their aim, too, then that is very welcome.
+Is it because ignoring stopping rules can wreak havoc with the well-testedness of inferences? If that is their aim, too, then that is very welcome.
 Stay tuned.
 
 5 Colin Howson, a long-time subjective Bayesian, has recently switched to being a non-subjective
@@ -2973,7 +2973,7 @@ valid arguments, regardless of your statistical account. Don't assume you will
 get truth thereby. Bayes' Theorem can occur in a valid argument, within
 a formal system of probability:
 
-(4) If Pr(H1), . . . , Pr(Hn) are the prior probabilities of an exhausthe corresponding
+(4) If Pr(H1), . . . , Pr(Hn) are the prior probabilities of an exhaustive corresponding
 
 tive set of hypotheses, and Pr(x|Hi)
 likelihoods.
@@ -4197,7 +4197,7 @@ from assigning probabilities to hypotheses. Failing to recognize this has create
 Live Exhibit (vi): Revisiting Popper's Demarcation of Science. Here's an
 experiment: try shifting what Popper says about theories to a related claim
 about inquiries to find something out. To see what I have in mind, let's listen to
-an exchange between two fellow travelers over coffee at Statbucks.
+an exchange between two fellow travelers over coffee at Starbucks.
 
 TRAVELER 1:
 
@@ -4465,7 +4465,7 @@ respect under study. (Cox 1977, p. 50; replacing t with d)
 
 Statistical test requirements follow non-statistical tests, Cox emphasizes,
 though at most H0 entails some results with high probability. Say 99% of
-the time the test would yield {d < d0}, if H0 adequately describes the datagenerating mechanism where d0 abbreviates d(x
+the time the test would yield {d < d0}, if H0 adequately describes the data-generating mechanism where d0 abbreviates d(x
 0). Observing {d ≥ d0}
 indicates inconsistency with H0 in the respect tested. (Implicit alternatives, Cox says, "lurk in the undergrowth," given by the test statistic.)
 So significance tests reflect statistical modus tollens, and its reasoning
@@ -4687,7 +4687,7 @@ hypothesis. Supposing this hypothesis is correct, as is quite plausible,
 what happens when non-replication becomes sexy and publishable? Might
 non-significance become the new significance? Science likely wouldn't have
 published individual failures to replicate, but they welcomed the splashy
-OSC report of the poor rate of replication they uncovered, as well as backand-forth updates by critics. Brand new fields of meta-research open up for
+OSC report of the poor rate of replication they uncovered, as well as back-and-forth updates by critics. Brand new fields of meta-research open up for
 replication specialists, all ostensibly under the appealing banner of improving psychology. Some ask: should authors be prey to results conducted by
 a self-selected group – results that could obviously impinge rather unfavorably on them? Many say no and even liken the enterprise to a witch
 
@@ -4730,7 +4730,7 @@ a low P-value or not? Even in the absence of statistical flaws, research conclus
 when experimentally manipulated variables serve as proxies for variables of
 theoretical interest. A serious (and ongoing) dispute arose when a researcher
 challenged the team who failed to replicate her hypothesis that subjects
-"primed" with feelings of cleanliness, sometimes through unscrambling soaprelated words, were less harsh in judging immoral such bizarre actions as
+"primed" with feelings of cleanliness, sometimes through unscrambling soap-related words, were less harsh in judging immoral such bizarre actions as
 whether it is acceptable to eat your dog after it has been run over. A focus on
 the P-value computation ignores the larger question of the methodological
 
@@ -5071,13 +5071,13 @@ preregistration – is itself likely to improve the original field. Not without
 thinking through what would be needed to link statistics up with the substantive research problem. In some fields, one wonders if they would be better
 off ignoring statistical experiments and writing about plausible conjectures
 about human motivations, prejudices, or attitudes, perhaps backed by interesting field studies. It's when researchers try to test them using sciency
-methods that the project becomes pseudosciency.
+methods that the project becomes pseudoscientific.
 
 2.7 How to Solve the Problem of Induction Now
 
 Viewing inductive inference as severe testing, the problem of induction is
 transformed into the problem of showing the existence of severe tests and
-methods for identifying insevere ones. The trick isn't to have a formal, contextfree method that you can show is reliable – as with the traditional problem of
+methods for identifying insevere ones. The trick isn't to have a formal, context-free method that you can show is reliable – as with the traditional problem of
 induction; the trick is to have methods that alert us when an application is
 shaky. As a relaxing end to a long tour, our evening speaker on ship, a severe
 tester, will hold forth on statistics and induction.
@@ -5835,7 +5835,7 @@ The first time I met George Barnard in 1985, the topics of the 1919 eclipse
 episode and the N-P vs. Fisher battles were front and center. The focus of
 his work on the eclipse was twofold: First, "to draw attention to
 a reasonably accessible instance . . . where the inferential processes can be
-seen at work – and in the mind of someone who, (unlike so many physicists!) had taken the trouble to familiarise himself thoroughly with mathematical statistics" (Barnard 1971, p. 294). He is alluding to Eddington.
+seen at work – and in the mind of someone who, (unlike so many physicists!) had taken the trouble to familiarize himself thoroughly with mathematical statistics" (Barnard 1971, p. 294). He is alluding to Eddington.
 Of course that was many years ago. Barnard's second reason is to issue
 a rebuke to Neyman!– or at least to a crude performance construal often
 associated with Neyman (ibid., p. 300). Barnard's point is that bad luck with
@@ -6075,7 +6075,7 @@ lack of correlation led to a misunderstanding that nearly terminated Neyman's st
 
 Thus, instead of spending his second fellowship year in London, Neyman goes
 to Paris where his wife Olga ("Lola") is pursuing a career in art, and where he
-could attend lectures in mathematics by Lebesque and Borel. "[W]ere it not for
+could attend lectures in mathematics by Lebesgue and Borel. "[W]ere it not for
 Egon Pearson [whom I had briefly met while in London], I would have
 probably drifted to my earlier passion for [pure mathematics]" (Neyman
 quoted in Lehmann 1988, p. 3).
@@ -6183,7 +6183,7 @@ maxθ2Θ0 LðX; θÞ
 Let's look at this. The numerator is the value of θ that makes the data x most
 probable over the entire parameter space. It is the maximum likelihood esti-
 ^θ. The denominator is the value of θ that maximizes the
-mator for θ. Write it as
+estimator for θ. Write it as
 probability of x restricted just to the members of the null Θ
 0. It may be called
 the restricted likelihood. Write it as
@@ -6251,7 +6251,7 @@ Having transformed Λ(X) into the test statistic d(X), the rejection region beco
 
 Rejection Region, RR ≔ {x: d(x) ≥ cα},
 
-the set of data points where d(x) ≥ cα. All other data points belong to the "nonrejection" or "acceptance" region, NR. At first Neyman and Pearson introduced an "undecided" region, but tests are most commonly given such that the
+the set of data points where d(x) ≥ cα. All other data points belong to the "non-rejection" or "acceptance" region, NR. At first Neyman and Pearson introduced an "undecided" region, but tests are most commonly given such that the
 RR and NR regions exhaust the entire sample space S. The term "acceptance,"
 Neyman tells us, was merely shorthand: "The phrase 'do not reject H' is longish
 and cumbersome . . . My own preferred substitute for 'do not reject H' is 'no
@@ -7136,7 +7136,7 @@ the only way x can be BENT.
 
 Since we wanted to move away from setting a particular small P-value,
 we refer to "P-small" (such as 0.05, 0.01) and "P-moderate", or "not small"
-(such as 0.3 or greater). We need another principle in dealing with nonrejections or insignificant results. They are often imbued with two very
+(such as 0.3 or greater). We need another principle in dealing with non-rejections or insignificant results. They are often imbued with two very
 different false interpretations: one is that (a) non-significance indicates the
 (b) non-significance is entirely
 truth of
@@ -7390,7 +7390,7 @@ when the alarm goes off something's there. But where? Duhemian problems
 loom. A subsequent task would be to pin this down.
 
 (ii) A focused test is sensitive to a specific kind of model inadequacy, such as
-a lack of independence. This lands us in a situation analogous to the nonexhaustive case in "nested alternatives." Why? Suppose you erect an alternative
+a lack of independence. This lands us in a situation analogous to the non-exhaustive case in "nested alternatives." Why? Suppose you erect an alternative
 H1 describing a particular type of non-independence, e.g., Markov. While
 a small P-value indicates some departure, you cannot infer H1 so long as
 various alternative models, not probed by this test, could account for it.
@@ -8505,7 +8505,7 @@ how, even in so heralded a case as the eclipse tests of GTR, one of the results
 didn't replicate the other two. The third result pointed, not to Einstein's prediction, but as Eddington ([1920]1987) declared, "with all too good agreement to
 the 'half-deflection,' that is to say, the Newtonian value" (p. 117). He was
 alluding to a famous controversy that has grown up surrounding the allegation
-that Eddington selectively ruled out data that supported the Newtonian "halfvalue" against the Einsteinian one. Earman and Glymour (1980), among others,
+that Eddington selectively ruled out data that supported the Newtonian "half-value" against the Einsteinian one. Earman and Glymour (1980), among others,
 alleged that Dyson and Eddington threw out the results unwelcome for GTR for
 political purposes (". . . one of the chief benefits to be derived from the eclipse
 results was a rapprochement between German and British scientists and an end to
@@ -8613,7 +8613,7 @@ now is not when to stop testing – more of a policy decision – or even whethe
 to infer, as they did, that there's no evidence of a risk, and no theoretical
 explanation of how there could be. It is rather the role played by a negative
 statistical result, given the background information that, if the effects were real,
-these tests were highly capable of finding them. It amounts to a failed replication (of the observed cluster), but with a more controlled method. If a wellcontrolled experiment fails to replicate an apparent anomaly for an independently severely tested theory, it indicates the observed anomaly is spurious.
+these tests were highly capable of finding them. It amounts to a failed replication (of the observed cluster), but with a more controlled method. If a well-controlled experiment fails to replicate an apparent anomaly for an independently severely tested theory, it indicates the observed anomaly is spurious.
 The indicated severity and potential gaps are recorded; the case may well be
 reopened. Replication researchers might take note.
 
@@ -8725,7 +8725,7 @@ it was warranted to infer that: "gravity is
 passed with high precision,
 a phenomenon of curved spacetime," that is,
 it must be described by
-a "metric theory of gravity" (ibid., p. 10). Those who deny we can falsify nonnulls take note: inferring that an adequate theory must be relativistic (even if
+a "metric theory of gravity" (ibid., p. 10). Those who deny we can falsify nulls take note: inferring that an adequate theory must be relativistic (even if
 not necessarily GTR) was based on inferring a point null with severity! What
 about the earth and moon, examples of self-gravitating bodies? Do they also
 fall at the same rate?
@@ -8974,7 +8974,7 @@ fact that a test statistic d(x) must track discrepancies from H0, becoming bigge
 (or smaller) as discrepancies increase (I list it as (ii) in Section 3.2). With any
 sensible distance measure, a misfit with H0 must be because of the falsity of H0.
 The probability of "heads" under a hypothesis about light deflection isn't even
-defined, because deflection hypotheses do not assign probabilities to cointossing trials. Fisher wanted test statistics to reduce the data from the generating mechanism, and here it's not even from the mechanism.
+defined, because deflection hypotheses do not assign probabilities to coin-tossing trials. Fisher wanted test statistics to reduce the data from the generating mechanism, and here it's not even from the mechanism.
 
 Kadane regards this example as "perhaps the most damaging critique"
 of significance tests (2016, p. 1). Well, Fisher can get around this easily
@@ -9079,7 +9079,7 @@ reveal this fallacy; whereas it would be readily committed, Fisher notes, in
 accounts that only look at the improbability of the observed outcome d0
 under H0.
 
-When E. Pearson (1970) takes up Jeffreys' question: "Why did we use tailarea probabilities . . .?", his reply is that "this interpretation was not part of our
+When E. Pearson (1970) takes up Jeffreys' question: "Why did we use tail-area probabilities . . .?", his reply is that "this interpretation was not part of our
 approach" (p. 464). Tail areas simply fall out of the N-P desiderata of good
 tests. Given the lambda criterion one needed to decide at what point H0
 
@@ -9765,7 +9765,7 @@ splendidly. So let error probability2 = Bayesian error probability. Frankly, I
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 184 [164–188] 28.7.2018
 
-didn't think Bayeslans would want the term. In a minute, however, Berger will
+didn't think Bayesians would want the term. In a minute, however, Berger will
 claim they alone are the true frequentist error probabilities! If you feel yourself
 sinking in a swamp of sliding meanings, remove your shoes, flip onto your
 back atop your walking stick and you'll stop sinking. Then, you need only to
@@ -10805,7 +10805,7 @@ bottom, concern statistical philosophy.
 Why a 5-sigma standard? Do significance tests in high-energy particle
 (HEP) physics escape the misuses of P-values found in social and other
 sciences? Of course the main concern wasn't all about philosophy: they were
-concerned that their people were being left out of an exciting, lucrative, manyyears project. But unpacking these issues is philosophical, and that is the
+concerned that their people were being left out of an exciting, lucrative, many-years project. But unpacking these issues is philosophical, and that is the
 purpose of this last stop of Excursion 3. I'm an outsider to HEP physics, but
 that, apart from being fascinated by it, is precisely why I have chosen to discuss
 it. Anyone who has come on our journey should be able to decipher the more
@@ -10847,7 +10847,7 @@ The Higgs Results
 Here's a quick sketch of the Higgs statistics. (I follow the exposition by
 physicist Robert Cousins (2017). See also Staley (2017). There is a general
 model of the detector within which researchers define a "global signal
-strength" parameter μ "such that H0: μ = 0 corresponds to the backgroundonly hypothesis and μ = 1 corresponds to the [Standard Model] SM Higgs
+strength" parameter μ "such that H0: μ = 0 corresponds to the background-only hypothesis and μ = 1 corresponds to the [Standard Model] SM Higgs
 boson signal in addition to the background" (ATLAS collaboration 2012c).
 The statistical test may be framed as a one-sided test:
 
@@ -10927,7 +10927,7 @@ Now HEP physicists have a term for an apparent signal that is actually
 produced due to chance variability alone: a statistical fluctuation or fluke.
 Only one experiment in 3 million would produce so strong a background
 fluctuation. ATLAS (2012b) calls it the "background fluctuation probability."
-By contrast, Spiegethalter gave a thumbs down to:
+By contrast, Spiegelhalter gave a thumbs down to:
 
 There is less than a one in 3 million chance that their results are
 
@@ -12209,7 +12209,7 @@ pinpointing it, that would suffice. This is simple deductive reasoning. It's fai
 say that experimental ESP was falsified some time in the 1980s, even though
 one can't point to a single bright line event. You might instead call it
 a "degenerating program" (to use Lakatos' term): anomalies regularly must
-be explained away by ad hoc means. In each case, Perci Diaconis (1978),
+be explained away by ad hoc means. In each case, Persi Diaconis (1978),
 statistician and magician, explains that "controls often are so loose that no
 valid statistical analysis is possible. Some common problems are multiple end
 points, subject cheating, and unconscious sensory cueing" (p. 131). There may
@@ -12604,7 +12604,7 @@ inferring μ > 0.05 when n = 25, but only µ > 0.005 when n = 10,000 Section 3.7
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 244 [239–266] 30.7.2018
 
 Exhibit (vi): Reforming the Reformers on Confidence Intervals. You will
-be right to wonder why some of the same tribes who raise a ruckus over Pvalues – to the extent, in some cases, of calling for a "test ban" –are cheerleading for confidence intervals (CIs), given there is a clear duality between the two
+be right to wonder why some of the same tribes who raise a ruckus over P-values – to the extent, in some cases, of calling for a "test ban" –are cheerleading for confidence intervals (CIs), given there is a clear duality between the two
 (Section 3.7). What they're really objecting to is a dichotomous use of significance tests where the report is "significant" or not at a predesignated
 significance level. I completely agree with this objection, and reject the dichotomous use of tests (which isn't to say there are no contexts where an "up/
 down" indication is apt). We should reject Unitarianism where a single
@@ -12980,7 +12980,7 @@ A Dialogue at the Water Plant Accident
 
 EPA REP: The mean temperature of the water was found statistically significantly higher than 150 degrees at the 0.025 level.
 
-SPIKED PRIOR REP: This even strengthens my belief the water temperature's no
+SPIKED PRIOR REP: This even strengthens my belief the water temperature no
 different from 150. If I update the prior of 0.5 that I give to the null hypothesis,
 my posterior for H0 is still 0.6; it's not 0.025 or 0.05, that's for sure.
 EPA REP: Why do you assign such a high prior probability to H0?
@@ -13577,7 +13577,7 @@ hypothesis – he calls it the "implicitly tested" alternative (ibid., p. 1739) 
 when H0 is rejected. H0 and H1 are each given a 0.5 prior. Unlike N-P, the test
 does not exhaust the parameter space, it's just two points.
 
-[D]efining a Bayes factor requires the specification of both a null hypothesis and an
+[D]defining a Bayes factor requires the specification of both a null hypothesis and an
 alternative hypothesis, and in many circumstances there is no objective mechanism for
 defining an alternative hypothesis. The definition of the alternative hypothesis therefore
 involves an element of subjectivity and it is for this reason that scientists generally
@@ -13871,7 +13871,7 @@ alternatives that correspond to a low severity or confidence level such as 0.5.
 Stephen Senn sums it up: "Certainly there is much more to statistical analysis
 than P-values but they should be left alone rather than being deformed . . . to
 become second class Bayesian posterior probabilities" (Senn 2015a).
-Reformers should not be deformers.
+Reformers should not be reformers.
 
 There is an urgency here. Not only do some reforms run afoul of the
 minimal severity requirement, to suppose things are fixed by lowering P-values
@@ -14040,7 +14040,7 @@ has no antennae to pick up on them, then, to you, there's no effect.
 
 Holders of the LP point fingers at error statisticians for worrying about
 "the sample space" and "intentions." To leaders of movements keen to rein
-in researcher flexibility, by contrast, a freewheeling attitude toward datadependent hypotheses and stopping rules is pegged as a major source of spurious
+in researcher flexibility, by contrast, a freewheeling attitude toward data-dependent hypotheses and stopping rules is pegged as a major source of spurious
 significance levels. Simmons, Nelson, and Simonsohn (2011) list as their first
 requirement for authors: "Authors must decide the rule for terminating data
 collection before data collection begins and report this rule in the article"
@@ -14122,7 +14122,7 @@ It is frequently brought about in a world where the null hypothesis is true.
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 272 [267–295] 30.7.2018
 
 The American Statistical Association's statement on P-values (2016, p. 131)
-correctly warns, "[c]onducting multiple analyses of the data and reporting only
+correctly warns, "[c]conducting multiple analyses of the data and reporting only
 those with certain p-values" leads to spurious statistical levels. Their validity is
 lost, and the alarm goes off when we audit. When Hack's defenders maintain
 that scientists should not be convicted for engaging in the all-important task of
@@ -14473,7 +14473,7 @@ growing daily, but would take us too far afield to discuss. Most embody the
 performance oriented goal of error control. Westfall and Young (1993), in one
 of the earliest treatments on P-value adjustments, develop resampling methods
 to adjust for both multiple testing and multiple modeling (e.g., selecting
-variables to be included in a regression model). Others devise modelbuilding techniques that control error probabilities as they build (David
+variables to be included in a regression model). Others devise model-building techniques that control error probabilities as they build (David
 Hendry 2011). In some cases, it's deemed more appropriate to combine tests
 through meta-analysis, rather than assess individual inferences, especially
 where the tests can be considered to be testing the same or appropriately
@@ -15674,7 +15674,7 @@ C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 306 [296�
 a large number, say 10,000, independent samples from x
 0 (with replacement),
 giving 10,000 resamples. Then reestimate the mean for each, giving 10,000
-; …; X b10;000. The frequency with which the bootbootstrap means X b1
+; …; X b10;000. The frequency with which the bootstrap means X b1
 strapped means take different values approximates the sampling distribution
 of X. It can be extended to medians, standard deviations, etc. "This is exactly
 the kind of calculation that is ruled out by the likelihood principle; it relies on
@@ -16330,7 +16330,7 @@ M-S Tests versus Model Selection: Fit Is Not Enough. M-S tests are
 distinct from model selection techniques that are so popular. Model selection
 begins with a family of models to be ranked by one or another criterion.
 Perhaps the most surprising implication of statistical inadequacy is to call
-into question the most widely used criterion of model selection: the goodnessof-fit/prediction measures. Such criteria rely on the "smallness" of the residuals. Mathematical fit isn't the same as what's needed for statistical inference.
+into question the most widely used criterion of model selection: the goodness-of-fit-fit/prediction measures. Such criteria rely on the "smallness" of the residuals. Mathematical fit isn't the same as what's needed for statistical inference.
 The residuals can be "small" while systematically different from white noise.
 Members of the model selection tribe view the problem differently. Model
 selection techniques reflect the worry of overfitting: that if you add enough
@@ -16342,7 +16342,7 @@ even if the model is inadequate for future prediction. (In our examples the
 factors took the form of trends or lags.) Thus, model selection techniques make
 you pay a penalty for the number of factors. We share this concern – it's too
 easy to attain fit without arriving at an adequate model. The trouble is that it
-remains easy to jump through the model selector's hoops, and still not achieve
+remains easy to jump through the model selector hoops, and still not achieve
 model adequacy, in the sense of adequately capturing the systematic information in the data. The goodness-of-fit measures already assume the likelihood
 function, when that's what the M-S tester is probing.
 
@@ -16483,7 +16483,7 @@ gone largely unattended in current replication research.
 
 Take-away of Excursion 4. For a severe tester, a crucial part of a statistical
 method's objectivity (Tour I) is registering how test specifications such as
-sample size (Tour II) and biasing selection effects (Tour III) alter its errorprobing capacities. Testing assumptions (Tour IV) is also crucial to auditing. If
+sample size (Tour II) and biasing selection effects (Tour III) alter its error-probing capacities. Testing assumptions (Tour IV) is also crucial to auditing. If
 a probabilist measure such as a Bayes factor is taken as a gold standard for
 critiquing error statistical tests, significance levels and other error probabilities
 appear to overstate evidence – at least on certain choices of priors. From the
@@ -16646,7 +16646,7 @@ one. An alternative H1 is it cures nearly everyone. Clearly these are not the on
 possibilities. Say the test is practically guaranteed to reject H0, if in fact H1, the
 drug cures practically everyone. The test has high power to detect H1. You
 wouldn't say that its rejecting H0 is evidence of H1. H1 entails it's very probable
-you'll reject H0; but rejecting H0 doesn't warrantH 1. To think otherwise is to
+you'll reject H0; but rejecting H0 doesn't warrant H 1. To think otherwise is to
 allow problematic statistical affirming the consequent – the basis for the MM
 fallacy (Section 2.1). This obvious point lets you zero in on some confusions
 about power.
@@ -17365,7 +17365,7 @@ Therefore, the result is better evidence that μ =1 than it is for μ = 0. But t
 likelihood reasoning only holds for the specific value of z. Granted, Bayarri,
 Benjamin, Berger, and Sellke (2016) recommend the prerejection ratio before
 the data are in, and "the 'post-experimental rejection ratio' (or Bayes factor)
-when presenting their experimental results" (p. 91). The authors regard the predata rejection ratio as frequentist, but it turns out they're using Berger's "frequentist principle," which, you will recall, is in terms of error probability2
+when presenting their experimental results" (p. 91). The authors regard the pre-data rejection ratio as frequentist, but it turns out they're using Berger's "frequentist principle," which, you will recall, is in terms of error probability2
 (Section 3.6). A creation built on frequentist measures doesn't mean the result
 captures frequentist error statistical1 reasoning. It might be a kind of
 Frequentstein entity!
@@ -17444,7 +17444,7 @@ Here Cohen imagines the researcher sets the size of a negligible discrepancy
 ahead of time – something not always available. Even where a negligible i may
 be specified, it's rare that the power to detect it is high. Two important points
 
-4 A key medical paper is Freiman et al. (1978).
+4 A key medical paper is Freeman et al. (1978).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 340 [321–352] 31.7.2018
 
@@ -19060,7 +19060,7 @@ Table 5.1 Selected entries from Ioannidis (2005)
 
 Pr(+|D)
 
-PREV of D Bias Practical example
+PREVALENCE of D Bias Practical example
 
 PPV
 
@@ -19581,7 +19581,7 @@ C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 376 [371�
 
 Pearson thought, but only with certain conditions that were not explicitly
 codified by Fisher's simple significance tests. With just the null hypothesis, it is
-unwarranted to take low P-values as evidence for a specific "cause" or nonchance explanation. A statistical effect, even if genuine, underdetermines its
+unwarranted to take low P-values as evidence for a specific "cause" or non-chance explanation. A statistical effect, even if genuine, underdetermines its
 explanation; several rivals can be erected post-data, but the ways they could be
 in error would not have been probed. The fallacy of rejection looms.
 Fisher (1935a, p. 187) is well aware that "the same data may contradict the
@@ -20032,7 +20032,7 @@ C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 385 [371�
 considered just one unknown parameter, e.g., the mean of a Normal distribution. In most realistic cases there are additional parameters required to
 compute the P-value, sometimes called "nuisance" parameters λ, although
 they are just as legitimate as the parameter we happen to be interested in.
-We'd like to free the computation of theP -value from these other unknown
+We'd like to free the computation of the P -value from these other unknown
 parameters. This is the error statistician's way to ensure as far as possible that
 observed discordances may be blamed on discrepancies between the null and
 what's actually bringing about the data. We want to solve the classic
@@ -21738,7 +21738,7 @@ Kass offers a valuable analysis of the conundrums of members of today's
 eclectic and non-subjective/default Bayesian tribes. We want to expose some
 hidden layers only visible after peeling away a more familiar mindset. Do we
 escape split personality? Or has he, perhaps inadvertently, explained the
-necessity for a degree of schizophrenia in current electic practice? That's
+necessity for a degree of schizophrenia in current eclectic practice? That's
 where today's journey begins.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 425 [424–444] 28.7.2018
@@ -21783,7 +21783,7 @@ to draw infinitely many random samples from a N(μ,1) distribution, 95% of
 the corresponding confidence intervals (X 2=7, X þ 2=7) would cover μ. (ibid.,
 p. 4)
 
-PRAGMATIC INTERPRETION. . . If we were to draw a random sample according to
+PRAGMATIC INTERPRETATION. . . If we were to draw a random sample according to
 the assumptions above, the resulting confidence interval (X 2=7, X þ 2=7) would
 have probability 0.95 of covering μ. Because the random sample lives in the theoretical
 world, this is a theoretical statement. Nonetheless, substituting X ¼ x . . . we obtain the
@@ -22594,7 +22594,7 @@ avoided.
 8. Inference Should Provide Posterior Probabilities, final degrees of support, belief, probability. Wars often revolve around assuming what is wanted is
 a posterior probabilism of some sort. Informally, we might say we want
 probable claims. But when we examine each of the ways this could be attained
-with formal probablity, the desirability for science evanesces. The onus is on
+with formal probability, the desirability for science evanesces. The onus is on
 those who hold that what we want are probabilities on hypotheses to show, for
 existing ways of obtaining them, why.11 (Note that it's not provided by
 comparative accounts, Bayes factors, likelihood ratios or model selections.)

@@ -1222,7 +1222,7 @@ I have mentioned, get pushed down the ladder; and a concern with history,
 even of the short-run, let alone long-term, structural shifts in one's own
 organization, constrains the forward orientation and cheerful optimism
 highly valued in most corporations. Biographical detail, however,
-constitutes crucial knowledge because managers know that, in the roughand-tumble politics of the corporate world, individual fates are made and
+constitutes crucial knowledge because managers know that, in the rough-and-tumble politics of the corporate world, individual fates are made and
 broken not necessarily by one's accomplishments but by other people.
 One must appreciate the simultaneously monocratic and patrimonial
 
@@ -1889,7 +1889,7 @@ World of [Covenant]" has no boundaries only frontiers, and each and everyone can
 role, for we need what you have to contribute.
 
 The very necessity for active involvement in such rituals often prompts
-semicredulity. But wise and ambitious managers resist the lulling platitudes
+semi-credulity. But wise and ambitious managers resist the lulling platitudes
 of unity, though they invoke them with fervor, and look for the inevitable
 clash of interests beneath the bouncy, cheerful surface of corporate life.
 They understand implicitly that the suppression of open conflict simply
@@ -2271,7 +2271,7 @@ that typify college life, particularly in rural areas, give way to what is calle
 the corporate uniform—three-piece, wool pin-striped suits or suited skirts;
 button-down collars or unfrilled blouses; sedate four-in-hand foulards for
 men and floppy printed bow ties for women; wing-tipped shoes or plain
-low-heeled pumps; somber, straightforward hues; and finally, bright, wellscrubbed, clean-shaven or well-coiffured appearances. It is, in short, a
+low-heeled pumps; somber, straightforward hues; and finally, bright, well-scrubbed, clean-shaven or well-coiffured appearances. It is, in short, a
 uniform that bespeaks the sobriety and seriousness appropriate to the men
 and women who would minister to the weighty affairs of industry, finance,
 and commerce. Perhaps the only noteworthy aspect of this unremarkable
@@ -2304,7 +2304,7 @@ for polyester suits (strictly lower class, wool is better); the preference for
 red ties or red on blue (red symbolizes power and authority); the indulgent
 tolerance of the person who slightly overdresses if this is done tastefully
 (classy); and the quiet but forceful admonition of the person who does not
-dress properly or who is in some way unkempt. Anyone who is so dullwitted or stubborn that he does not respond to social suggestions and
+dress properly or who is in some way unkempt. Anyone who is so dull-witted or stubborn that he does not respond to social suggestions and
 become more presentable is quickly marked as unsuitable for any
 consideration for advancement. If a person cannot read the most obvious
 social norms, he will certainly be unable to discern more ambiguous cues.
@@ -4839,7 +4839,7 @@ noise standard specifying that workers whose noise exposure exceeded an
 eight-hour time-weighted average of 85 dB must be included in a hearing
 conservation program. Along with other industries, the textile
 manufacturers opposed the amendment; the industry was, in fact, unhappy
-with the existing standard, which set the maximum eight-hour timeweighted average at 90 dB.
+with the existing standard, which set the maximum eight-hour time-weighted average at 90 dB.
 
 White disagreed with his industry and strongly supported the OSHA
 hearing amendment that would lower the critical threshold 5 dB. White's
@@ -5494,7 +5494,7 @@ preliminary lifts, the shields would then be set to one side in order to
 construct, along with materials in the building, enough weight to load-test
 the crane fully before proceeding to lift the 163-ton reactor head. Although
 the crane was originally designed to do 500-ton lifts, it would be tested for
-only about 200 tons. Site Operations counterargued that, if management
+only about 200 tons. Site Operations counter-argued that, if management
 were wrong and the crane failed and dropped one of the missile shields,
 there could be a repetition of the 1979 accident. Site Operations wanted a
 lift made of other materials either already in the containment building or
@@ -5724,7 +5724,7 @@ environmental managers with sharply defined rules for adjudicating
 ambiguous cases and with a private sense of public service. Such codes,
 particularly when they are set down as formal, written "codes of ethics"13
 may sometimes be used as the basis for effective sermons in certain public
-arenas. But within management circles themselves, even the most highminded and carefully elaborated codes get transformed into typically
+arenas. But within management circles themselves, even the most high-minded and carefully elaborated codes get transformed into typically
 pragmatic vocabularies. Bribery is not countenanced because it "provides
 an unfair market advantage"; environmental spoilage is "bad for business"
 or "will ultimately affect us since we're consumers too."
@@ -6663,7 +6663,7 @@ about workers' happiness: "Let them be happy on their own time."
 Management consulting is also rooted in the application of social
 science to help managers establish control of the workplace. This process
 has included, to name only a few examples, the extensive and haphazard
-use of psychological tests to ascertain worker characteristics in both blueand white-collar workplaces,10 procedures continued today despite their
+use of psychological tests to ascertain worker characteristics in both blue-and white-collar workplaces,10 procedures continued today despite their
 extremely dubious efficacy, the transformation of the sociology of
 bureaucracy into a branch of administrative science, and the extensive use
 of pretested survey instruments to gauge employee sentiment on a whole
@@ -6834,7 +6834,7 @@ A higher level version of the same workshop for an "executive
 management team" promises a "research-based orientation" to "getting
 competitive." This orientation "can be tailored to the organization's unique
 situation" through a series of pre-interviews with participants that form "the
-basis for a 'real time' case which the executive team works on." Preinterviews are a crucial strategy in helping the consultant ascertain just
+basis for a 'real time' case which the executive team works on." Pre-interviews are a crucial strategy in helping the consultant ascertain just
 what the defined troubles of an organization are and who does the defining.
 The contentless quality of the language used here is related to this strategy;
 the lack of specificity precludes hasty judgments by prospective clients
@@ -7057,7 +7057,7 @@ mythologies. These include not only the attempts of individuals to make
 sense of their world and lobby for their own positions with others, but also
 the semi-official viewpoints disseminated through the impressive
 communications apparatus common to all bureaucracies—I refer here to
-plant newsletters, monthly employee newspapers, newsbrief circulars, daily
+plant newsletters, monthly employee newspapers, news brief circulars, daily
 news sheet summaries for executives, magazines for managers, and so on—
 as well as official authoritative pronouncements that, of course, color all
 other views. Some managers get caught up in this tangle of ideologies,
@@ -7161,7 +7161,7 @@ regularly with journalistic and scholarly reports of sensational scandals
 suggesting malfeasance, misfeasance, and corruption on grand scales in the
 
 higher circles of business and government. Business's reputation was called
-into serious question by reports of price fixing, bid riggings, stock
+into serious question by reports of price fixing, bid rigging, stock
 manipulation, insider trading, falsification of test data, the marketing of
 dangerous drugs, industrial accidents, severe occupational health problems
 allegedly caused by negligence, bribery both domestic and international,
@@ -7233,7 +7233,7 @@ developments, or more usually, particular applications of science have, or
 are seen possibly to have, unintended consequences that make technology
 and even science seem suddenly perilous as well as beneficial.22
 
-The technological application of scientific knowledge seems doubleedged when the painstakingly produced chemical compounds that
+The technological application of scientific knowledge seems double-edged when the painstakingly produced chemical compounds that
 constitute effective cooling agents in refrigerators come to be feared as
 potential destroyers of the earth's stratospheric ozone; when gene-splicing
 technology that can dramatically improve, say, food production is feared to
@@ -7339,7 +7339,7 @@ public.
 Part of the folklore of the modern corporation, in fact, consists of a
 catalog of stories about how big corporations are being victimized by the
 courts in what amounts to a radical transformation of tort law. Managers
-repeat variations of cases—for instance, of a man who purchased a thriceowned punch machine, altered it, and after losing a finger, sued the original
+repeat variations of cases—for instance, of a man who purchased a thrice-owned punch machine, altered it, and after losing a finger, sued the original
 manufacturer for negligent construction; of a farmer who, despite clearly
 marked warning labels, coated his animal feed troughs with a toxic wood
 preservative, sold milk from contaminated cattle, and then when he himself
@@ -7626,7 +7626,7 @@ increased medical screening of the work force to detect susceptible people
 and prevent them from ever reaching the mill floor. Reasonable medical
 surveillance should also be increased to detect and remove workers if
 breathing irregularities are later noticed. Byssinosis is, after all, 100 percent
-reversible if detected in its early stages. But the preshift and post-shift
+reversible if detected in its early stages. But the pre-shift and post-shift
 testing proposed by OSHA cannot easily be routinized, at least if the mills
 are to be kept running.
 
@@ -8040,7 +8040,7 @@ sprawling propaganda organization brought former muckraking journalists,
 like Creel himself, together with promoters of corporate privilege, like
 Harry Reichenbach and Ivy Lee, in the higher cause of mobilizing ideas to
 carry the "Gospel of Americanism to every corner of the globe."25 A whole
-generation of opinion-shapers, storytellers, publicity experts, and imagemakers honed their already well-developed skills in symbol manipulation to
+generation of opinion-shapers, storytellers, publicity experts, and imagemaker honed their already well-developed skills in symbol manipulation to
 a fine point in selling the war to end all wars to the American people, the
 
 idea of America to the world, and the idea of surrender to enemy soldiers.26
@@ -8394,7 +8394,7 @@ and starched shirt. Or, in an era dominated by television, radio executives
 launch a campaign to alter the idea of radio as a nonvisual medium by
 emphasizing the power of the imagination; they distribute posters showing
 a fish smoking a pipe or a banana dancing, both with the tagline, "I just saw
-it on radio." The textile industry, under great market pressure from wellmade and cheaper Asian imports, pushes for restrictive tariffs, extolling the
+it on radio." The textile industry, under great market pressure from well-made and cheaper Asian imports, pushes for restrictive tariffs, extolling the
 
 virtues of traditional American craftsmanship. A diversified conglomerate
 seeking a "unified corporate identity" commissions a major path-breaking
@@ -8487,7 +8487,7 @@ sober scientific dissent and of outraged letters to congressmen and
 regulators protesting the proposed regulation. Near the end of the initial
 period of comment to the ANPR, managers at Alchemy gleefully
 congratulated each other on their efforts—an entire room at the EPA was
-said to be overflowing with the mountain of paper generated by their writein campaign. It would be a long time, they said, before anybody heard or
+said to be overflowing with the mountain of paper generated by their write-in campaign. It would be a long time, they said, before anybody heard or
 even saw the relevant program officer at the agency. In the end, shortly
 after President Reagan's appointee took over the EPA, the regulation was
 quietly buried, although the Alliance failed in its attempt to drive a stake
@@ -8833,7 +8833,7 @@ of emphasis, and both junior and senior people said privately that whole
 sections of data contrary to the thesis of balance had either been omitted or
 reported in an undecipherable way in the final version. The chief researcher
 for the project and a top official both adamantly deny this and argue that all
-the data were reported. The researcher, however, allows that "a lot of soulsearching was necessary in order to achieve the broadest perspective
+the data were reported. The researcher, however, allows that "a lot of soul-searching was necessary in order to achieve the broadest perspective
 possible on this issue." The top official, in a written document prepared for
 a meeting to discuss the issue, argued that:
 
@@ -9275,7 +9275,7 @@ structures. Managers' cognitive maps to the thickets of their world contain
 sharp, sometimes absurd, caricatures of the style and ethos of different
 occupational groups. These suggest some of the ways in which managers
 appraise the myriad of character types whom they see peopling their world.
-Production types, for instance, are said to be hard-drinking, raucous, goodtime charlies; engineers, always distinguishable by the plastic pen
+Production types, for instance, are said to be hard-drinking, raucous, good-time charlies; engineers, always distinguishable by the plastic pen
 containers in their shirt pockets, are hostages to an outdated belief in a
 pristine mathematical rationality; accountants are bean counters who know
 how to play the shell game; lawyers are legal eagles or legal beagles in
@@ -9795,7 +9795,7 @@ one come to accept the ethos of an organization as one's own. But the
 process is rarely simple, precisely because such acceptance depends on
 developing and maintaining personal relationships with powerful others.
 Mastering the subtle but necessary arts of deference without seeming to be
-deferential, of "brown nosing" without fawning, of simultaneous selfpromotion and self-effacement, and occasionally of the outright selfabasement that such relationships require is a taxing endeavor that demands
+deferential, of "brown nosing" without fawning, of simultaneous self-promotion and self-effacement, and occasionally of the outright self-abasement that such relationships require is a taxing endeavor that demands
 continual compromises with conventional and popular notions of integrity.
 Only those with an inexhaustible capacity for self-rationalization, fueled by
 boundless ambition, can escape the discomfort such compromises produce.
@@ -9876,7 +9876,7 @@ for one's own survival and advantage.
 
 Moral Mazes and the Great Recession
 
-This essay was presented at the Séminaire AEGIS, École polytechnique CNRS, Paris,
+This essay was presented at the Séséminaire AEGIS, École polytechnique CNRS, Paris,
 France, March 26, 2009. My thanks to Professor Hervé Dumez for inviting me to participate
 in the AEGIS seminar and to him and his students for their helpful insights. I am most
 grateful, as always, to Janice M. Hirota and Duffy Graham for their careful, critical reading
@@ -10359,7 +10359,7 @@ aggressive, predatory, boiler-room subprime lender that had recently gone
 
 belly-up. Citigroup hoped to position itself should the subprime market
 revive. But no revival occurred, and Citigroup's stock spiraled downward
-in the following year because of its own $306 billion portfolio of mortgagebacked securities and risky loans. Citigroup had already received a $25
+in the following year because of its own $306 billion portfolio of mortgage-backed securities and risky loans. Citigroup had already received a $25
 billion capital infusion from TARP in return for preferred stock and
 warrants in the company. It planned to use that money to acquire a financial
 institution with a large retail branch network in order to extend its sales of
@@ -10798,7 +10798,7 @@ managers in both Alchemy Inc. and Weft Corporation face. The fieldwork
 in Images Inc. began in a regular way early in 1982 and lasted through
 1985. It continues in sporadic form today.
 
-3. The interview data are complemented by extensive nonparticipant and
+3. The interview data are complemented by extensive non-participant and
 
 participant observation. These observational data include attendance at
 some management meetings, informal conversations and discussions over
@@ -11906,7 +11906,7 @@ pulmonary dysfunctions than expected.
 
 37. The claim that 20–25 percent of the general adult population has
 some form of chronic lung disease seems to have originated with a letter to
-The Charlotte Observer from the Mecklenberg County (North Carolina)
+The Charlotte Observer from the Mecklenburg County (North Carolina)
 Medical Society. The claim is regularly repeated by Weft Corporation
 executives and is cited widely in industry literature. See, for example, the
 pamphlet by Burlington Industries, Inc., "A Cotton Dust Progress Report,"
@@ -12067,7 +12067,7 @@ a good social history of the whole era.
 
 23. In 1912, for instance, Daniel Guggenheim testified before a hostile
 industrial relations commission in the aftermath of fierce strikes by workers
-in Guggenheim mines who claimed a number of abuses, including twelvehour work days, low wages, poor living conditions, and an extremely high
+in Guggenheim mines who claimed a number of abuses, including twelve-hour work days, low wages, poor living conditions, and an extremely high
 rate of disabling injuries. Under the guidance of Bernard Baruch and Sam
 Untermeyer, Guggenheim told an astonished commission and audience of
 labor organizers and socialists that workers are justified in organizing,
@@ -12138,7 +12138,7 @@ the cartoonists of the country for constructive war efforts; and supervised
 the censorship of newspapers, periodicals, cables, and films to ward off any
 misleading impressions of American life. For some general treatments of
 the work of the Committee on Public Information, see U.S. Committee on
-Public Information, The Creel Report (New York: DaCapo Press, 1972);
+Public Information, The Creel Report (New York: Da Capo Press, 1972);
 Detlef R. Peters, Das "US-Committee on Public Information" (Inaugural-
 Dissertation, Freie Universität, Berlin, 1964); and James R. Mock and
 Cedric Larson, Words That Won the War (Princeton, N.J.: Princeton
@@ -12331,7 +12331,7 @@ Press, 1984).
 
 As it happens, a hole in the ozone the size of the continental United
 
-States was only recently discovered above Antarctica. A multination
+States was only recently discovered above Antarctica. A multinational
 meeting sponsored by the United Nations Environmental Program agreed in
 principle (in April 1987) to freeze and eventually to reduce the production
 and consumption of chlorofluorocarbons and other industrial chemicals that
@@ -12458,7 +12458,7 @@ Vol. 17, No. 8 (March 1983), p. 16; "Acid Rain Bill Would Harm Industry,
 Economy," Vol. 17, No. 10 (May 1983), p. 16; "Acid Precipitation and Acid
 Lakes; Is Coal the Whipping Boy for Oil's Pollution Contribution?" Vol.
 18, No. 4 (November 1983), p. 1 ff.; "Expert Says Acid Rain Issue
-Distroted [sic] by Press," Vol. 18, No. 6 (February 1984), p. 1 (issue
+Distorted [sic] by Press," Vol. 18, No. 6 (February 1984), p. 1 (issue
 misnumbered; should be No. 7); "Environmentalists Accused of Trying to
 Kill Mining," Vol. 18, No. 5 (December 1983), p. 6; "Based Entirely on
 Theory: Acid Rain—Fact or Fiction?", Vol. 18, No. 6 (January 1984), p.
@@ -12613,7 +12613,7 @@ David Riesman in collaboration with Reuel Denney and Nathan Glazer
 captured for a whole generation at midcentury the main social
 psychological dimensions of this situation in The Lonely Crowd: A Study of
 the Changing American Character (New Haven, Conn.: Yale University
-Press, 1950), a book that argues that Americans have become less "innerdirected" and more "other-directed." Riesman, however, attributed the
+Press, 1950), a book that argues that Americans have become less "inner directed" and more "other-directed." Riesman, however, attributed the
 change largely to demographic and child-rearing trends rather than to
 changes in the organizational basis of society. Arthur J. Vidich and Joseph
 Bensman, building on their own analysis of a small community in Small

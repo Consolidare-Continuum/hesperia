@@ -316,7 +316,7 @@ THE CRISIS
 Chain Reaction: Quality, Productivity, Lower Costs,
 Capture the Market
 
-Who is it that darkeneth counsel by words without knowledge?—Job 38:2.
+Who is it that darkens counsel by words without knowledge?—Job 38:2.
 
 Aim of this chapter. The aim of this chapter is to illustrate a stable
 system of trouble in a manufacturing plant, and to explain that because the
@@ -342,7 +342,7 @@ Quality to the production worker means that his performance satisfies
 
 him, provides to him pride of workmanship.
 
-Improvement of quality transfers waste of man-hours and of machinetime into the manufacture of good product and better service. The result is a
+Improvement of quality transfers waste of man-hours and of machine time into the manufacture of good product and better service. The result is a
 chain reaction—lower costs, better competitive position, happier people on
 the job, jobs, and more jobs.
 
@@ -824,13 +824,13 @@ such a system was utterly unwanted, undesirable and, rather than
 improving the operation of the House or the Senate, would completely
 upset the orderly working of the Congress of the United States. What
 was an improvement from Edison's point of view was anything but an
-improvement from the viewpoint of the Congress. The delays in a rollcall vote were an integral part of the deliberative process with which
+improvement from the viewpoint of the Congress. The delays in a roll call vote were an integral part of the deliberative process with which
 the Congress had chosen to operate. Mr. Edison's output, a faster vote,
 was not compatible with the objectives of the Congress.
 
 As an example from the private sector, a large shipbuilding firm
 sought to improve the performance of the group charged with planning
-and implementing the shiplaunching ceremony party. Initial efforts
+and implementing the ship launching ceremony party. Initial efforts
 were directed at the equipment used to send invitations, and so forth.
 However, questions were raised concerning possible confusion
 between the party given (the output) and the purpose of the party (the
@@ -1678,7 +1678,7 @@ in the assembly that our customer turns out.
 
 Single purchase contrasted with continuing delivery of material. It is
 important that buyers know the difference between a single-time purchase
-and continuing delivery. An example of a singletime purchase could be the
+and continuing delivery. An example of a single time purchase could be the
 grand piano, the furniture and fittings for the office force, furniture and
 fittings to go into a hotel, two hundred small motors for two hundred
 refrigerators of a special kind. The selection of the grand piano or of two
@@ -1796,7 +1796,7 @@ customer, not divided attention (Mary Ann Gould, President of Janbridge,
 Inc., Philadelphia).
 
 Cost-plus. There is a bear trap in the purchase of goods and services on
-the basis of price tag that people don't talk about. To run the game of costplus in industry, a supplier offers a bid so low that he is almost sure to get
+the basis of price tag that people don't talk about. To run the game of cost plus in industry, a supplier offers a bid so low that he is almost sure to get
 the business. He gets it. The customer discovers that an engineering change
 
 is vital. The supplier is extremely obliging, but "regrets," he discovers, that
@@ -1875,7 +1875,7 @@ evidence of effective preventive maintenance.
 5. No wasteful lubrication. Stock is lubricated only to the absolute
 minimum extent necessary for successful production. Spot lubrication is
 widely practiced, and use of pre-lubricated material (wax or oil base) is
-common. Resultingly, little lubricant is wasted, part cleaning requirements
+common. Resulting, little lubricant is wasted, part cleaning requirements
 are reduced, and lubricant is not splattered on equipment, employees or the
 floor.
 
@@ -2290,7 +2290,7 @@ to my attention by Robert E. Lewis, writing in the New York Statistician,
 May-June 1982):
 
 NRC Study Rates 15 Nuclear
-Plants'Below Average'
+Plants 'Below' Average'
 By a WALL STREET JOURNAL STAFF
 REPORTER
 
@@ -2601,7 +2601,7 @@ I will hereafter make no defects.
 
 The poster shown in strikes production workers as ridiculous.
 
-. Man running upstaires
+. Man running upstairs
 
 "Do it right the first time." A lofty ring it has. But how could a man
 make it right the first time when the incoming material is off-gauge,
@@ -3680,13 +3680,13 @@ of the passenger? One did
 
 2 Stated in these words by James K. Bakken of the Ford Motor Company on 27 January 1981.
 
-3 Walter A. Shewhart, Ecomonic Control of Quality of Manufactured Product (Van Nostrand, 1931;
+3 Walter A. Shewhart, Economic Control of Quality of Manufactured Product (Van Nostrand, 1931;
 
 repr.ed., American Society for Quality Control, 1980; reprinted by Ceepress, The George
 
 Washington University, 1986).
 
-4 I am indebted to Mr. Ralph E. Stinson, president of the Bettcher Manufactruing Corporation, for a
+4 I am indebted to Mr. Ralph E. Stinson, president of the Bettcher Manufacturing Corporation, for a
 
 copy of this report.
 
@@ -4086,7 +4086,7 @@ materials
 nonproductive purposes? This would
 cooperation with
 manufacturing. It would impede productivity in the purchasing department,
-which is often measured by the number of contracts negotiated per manyear, without regard to performance of materials or services purchased. If
+which is often measured by the number of contracts negotiated per man year, without regard to performance of materials or services purchased. If
 there be an accomplishment to boast about the people in manufacturing
 might get the credit, not the people in purchasing. Or, it could be the other
 way around. Thus, teamwork, so highly desirable, can not thrive under the
@@ -4138,7 +4138,7 @@ the good side of the boss. Anyone that presents another point of view or
 asks questions runs the risk of being called disloyal, not a team player,
 trying to push himself ahead. Be a yes man.
 
-Top levels of salaries and bonuses are in many American companies skyhigh. It is human nature for a young man to aspire eventually to arrive in
+Top levels of salaries and bonuses are in many American companies sky high. It is human nature for a young man to aspire eventually to arrive in
 one of these positions. The only chance to reach a high level is by
 consistent, unfailing promotion, year after year. The aspiring man's quest is
 not how to serve the company with whatever knowledge he has, but how to
@@ -6356,7 +6356,7 @@ printing is illegible is not his affair. To the audience, quality in a slide
 means legibility. (The content of the slide is of course a totally different
 matter, the responsibility of the man that gives the lecture.)
 
-Moving stairs and farecard machines in Washington's Metro are a
+Moving stairs and fare card machines in Washington's Metro are a
 constant source of irritation. They worked very well when unveiled for
 dress rehearsal, but when put into service, problems of design and
 maintenance painted a new image. The management of the Washington
@@ -7243,7 +7243,7 @@ Government service is to be judged on equity as well as on efficiency.
 
 I quote here from an interview with Oscar A. Ornati.
 
-A deeply embedded laissez-faire ideology has mistaught this
+A deeply embedded laissez-faire ideology has mis-taught this
 country the importance of productivity from a very narrow, very
 mechanistic definition. We have forgotten that the function of
 government is more equity oriented than efficiency oriented. The
@@ -8105,7 +8105,7 @@ management of banks know
 the
 less about
 management in any other business. Starts are being made by pulling
-together the accounts of any one customer—his chequing account, savings
+together the accounts of any one customer—his checking account, savings
 accounts, fiduciary accounts, trust accounts, loans. This coordination is
 greatly simplified by modern data-processing machinery. But this is far
 short of knowing the needs of customers, and to what extent the bank fails
@@ -8398,7 +8398,7 @@ Federal Reserve Bank
 2. Missing information on Fed advices
 3. Missing/missent advices
 4. Problems with Series E bonds
-5. Occurrences of late inclearings activity
+5. Occurrences of late in clearings activity
 6. Occurrences of missing/extra/missent clearings
 7. Number and dollar amount of cash letter discrepancies
 
@@ -8471,7 +8471,7 @@ Item Processing
 8. Keying errors
 9. Downtime of equipment
 10. Off-line rejects
-11. Missorts
+11. Mis-sorts
 
 Mail Distribution
 
@@ -9238,7 +9238,7 @@ A forklift driver continually backed into obstructions. Reason : he had a
 bad neck, could not bend around to see where he was going. Solution:
 another job.
 
-Emample of aid to leadership.2 The job is to put a page into the right
+Example of aid to leadership.2 The job is to put a page into the right
 pigeonhole. There are 80 pigeonholes, each representing specific
 characteristics of a page, which can supposedly be identified by reading the
 page. There are 240 women on the job. The work is inspected 100 per cent
@@ -9247,7 +9247,7 @@ detected over the course of a month was 44 in 10,000. It is convenient to
 plot the work of each worker on the double square-root paper designed by
 Mosteller and Tukey (Codex Book Company, Norwood, Mass. 02062). We
 plot y on the vertical for the number of mistakes, x on the horizontal for the
-number of nonmistakes, as is done in . Then the overall average
+number of non mistakes, as is done in . Then the overall average
 proportion of mistakes is represented by the line y = 0.0044x.
 
 . Plot of number of mistakes on the vertical against number correct on the horizontal.
@@ -10140,7 +10140,7 @@ Government Decisions
 
 An importer who relies on labels provided by foreign manufacturers
 is acting illegally if the labels are not correct, says a consent decree
-filed in a U.S. district court. A New York-based importer of woolblend fabrics has agreed to pay a $25,000 fine to settle charges that it
+filed in a U.S. district court. A New York-based importer of wool blend fabrics has agreed to pay a $25,000 fine to settle charges that it
 sold fabrics with less wool than labels claimed even after being
 notified by the Federal Trade Commission that to do so was illegal.
 Under the agreement, the firm will have fabrics tested by an
@@ -10546,7 +10546,7 @@ on the grand scale. A part broke in one of the radar units protecting the
 length of the Panama Canal. Those in command were dismayed to discover
 that no replacement part was in stock. They put through a rush call to
 Washington to have the part flown from the factory to the canal. Long
-before it arrived, however, the officer in charge of stores made a foot-byfoot search of his warehouse. He found eight full bins of the needed part,
+before it arrived, however, the officer in charge of stores made a foot-foot-by-foot search of his warehouse. He found eight full bins of the needed part,
 each marked with a different stock number.
 
 The problem has not been with us for long, for in our industrial
@@ -11843,7 +11843,7 @@ nearly the same products.
 Another example of uses of a control chart as a judgment. Examples
 appeared in Chapter 1. We now turn to another. An executive of a large mail
 order company came with the problem of high costs. He also came with
-data which showed the number of orders filled every half-hour. Four halfand R-charts () with n = 4. Once he saw
+data which showed the number of orders filled every half-hour. Four half-and R-charts () with n = 4. Once he saw
 hours provided data for
 how wide the control limits were for the output of orders, he made the
 remark that the control limits were too wide : he preferred less variation.
@@ -11917,7 +11917,7 @@ quality, and may bring in more customers. The gains in productivity and
 
 competitive position brought about by improvement of quality would be
 difficult to measure in dollars. Still another gain not mentioned is that here
-and there throughout the plant space that has been needed for lodgement of
+and there throughout the plant space that has been needed for lodgment of
 pieces waiting for rework, and space for the rework itself, is now vacated,
 ready for installation of useful pursuit.
 
@@ -12555,7 +12555,7 @@ position. (All produced about the same number of items.)
 
 Computation of control limits:
 
-n = 1225, average prodution per man per month
+n = 1225, average production per man per month
 
 Further Applications
 
@@ -12826,7 +12826,7 @@ minimum limits," Industrial Quality Control 24, no. 2 (1967): 94–101.
 
 11 The terms heading this section and the next, "As a judgement" and "As an operation, "are
 
-Shehart's.
+Shewhart's.
 
 12 The distribution of the range was published by L. H. C. Tippett, "On the extreme individuals and
 
@@ -13534,7 +13534,7 @@ more), it accomplishes nothing. Or (on the supposition that the men care
 and try to get on to the honor roll), it actually depresses the morale and
 quality of service.
 
-Restatement of the moral. A student at Newv York University, after
+Restatement of the moral. A student at New York University, after
 hearing a lecture on the subject of this chapter, sent to me the following
 quotation with the resolution "From now on, I will view differently awards
 to great generals ":
@@ -14157,7 +14157,7 @@ Case 1: If p 1/k2, no inspection
 
 Case 2: If p > k1/k2, 100 per cent inspection
 
-even though the distribution of fraction defective in lots straddles the breakeven pointk1/k2.
+even though the distribution of fraction defective in lots straddles the breakeven point1/k2.
 
 The state of statistical control thus has distinct advantages worth striving
 for. To learn whether the stream of incoming lots lie in Case 1 or in Case 2,
@@ -14491,7 +14491,7 @@ Parallel work with comparison by machine is in my experience the only
 satisfactory way to verify critical work.
 
 The resulting quality will be far better than p1p2, where p1 is the
-predictable quality-level for one worker and p2 is the predictable qualitylevel for the other. If p1 = p2 = 1/1000, then the resulting quality will be far
+predictable quality-level for one worker and p2 is the predictable quality level for the other. If p1 = p2 = 1/1000, then the resulting quality will be far
 better than 1/1000
 . This is so because the probability is very low
 = 1/10
@@ -14539,7 +14539,7 @@ Case 2: p > k1/k2q 100 per cent inspection
 where k2 is now the average loss from downgrading or scrapping finished
 product that fails.
 
-Note that the value of q will nearly always be near 1, so the rules for allor-none are for practical purposes the same as before.
+Note that the value of q will nearly always be near 1, so the rules for all-or-none are for practical purposes the same as before.
 
 Example 4. This example takes the form of a memorandum that I am
 
@@ -15779,11 +15779,11 @@ chaos," Ph.D. dissertation, Graduate School of Business Administration, New York
 
 1982. Obtainable from University Microfilms, Ann Arbor, 48106.
 
-3 Francis J. Anscombe, "Rectifing inspection of lots" Journal of the American Statistical Association
+3 Francis J. Anscombe, "Rectifying inspection of lots" Journal of the American Statistical Association
 
 56 (1961):807–823.
 
-4 I am idebted to my friends William J. Latzko and Jerome Greene for conversations that led to these
+4 I am indebted to my friends William J. Latzko and Jerome Greene for conversations that led to these
 
 rules.
 
@@ -15823,7 +15823,7 @@ also the chart on p. 234 of David Durand, table Chaos (General Learning Press, M
 
 misclassifications," Journal of the American Statistical Association (1970): 1350–1361; idem, "A
 
-double sample scheme for estimating from misclassified multinominal data with applications to
+double sample scheme for estimating from misclassified multinomial data with applications to
 
 sampling inspection," Technometrics (1972): 187–202; W. Edwards Deming, "An essay on
 
@@ -15875,7 +15875,7 @@ parts of the book.
 
 from large lots for enumerative purposes. See W. Edwards Deming, "On probability as a basis for
 
-action," American Statistication 29, no. 4 (1975): 146–152.
+action," American Statistical 29, no. 4 (1975): 146–152.
 
 Organization for Improvement of Quality and Productivity
 
@@ -16025,7 +16025,7 @@ own resources. One may find right within the company people with
 
 master's degrees in statistical theory or mathematics or probability that are
 eager to advance their education and experience under competent
-leadership, and who enjoy teaching. Some people will be qualified by selfstudy.
+leadership, and who enjoy teaching. Some people will be qualified by self-study.
 
 It is clear that no plan will work—not even the one proposed here—
 without competence and confidence in the statistical leadership, and
@@ -16049,7 +16049,7 @@ The advantages of the plan recommended here can not be questioned. It
 works. Any other plan that I have seen has failed to serve the best interests
 of the company, and has brought disappointment.
 
-Examples of other dotted-line relationships. In fact, a parallel dottedline relationship exists in practically every corporation.1 A vice-president
+Examples of other dotted-line relationships. In fact, a parallel dotted-line relationship exists in practically every corporation.1 A vice-president
 and chief financial officer (VP/CFO), reporting to the president or the chief
 executive officer, is responsible for the financial condition of the
 corporation. At each manufacturing facility there is a local comptroller who
@@ -16413,7 +16413,7 @@ of carelessness and will live a life liable to legal tangles.
 
 Appendix Transformation in Japan
 
-Do not confuse your wits with wisdom.—Tiresius to Dionysus, in Euripedes' The Bacchae.
+Do not confuse your wits with wisdom.—Tiresias to Dionysus, in Euripedes' The Bacchae.
 
 Wisdom sounds foolish to fools.—Dionysus to Cadmus, in Euripedes' The Bacchae.
 
@@ -17650,7 +17650,7 @@ Panama Canal, 301
 
 Emmanuel P. PAPADAKIS, 438
 
-Para-aminosalicylic acid (PAS), 490, 491
+Para-para-aminosalicylic acid (PAS), 490, 491
 
 Parallel computations, 261, 422
 

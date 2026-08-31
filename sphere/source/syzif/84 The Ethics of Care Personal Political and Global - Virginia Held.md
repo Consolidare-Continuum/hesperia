@@ -4787,7 +4787,7 @@ school must pay him to teach. But his work is not in the market in the sense
 that the principles under which he works are the market principles of the maximization of economic gain. Economic gain is not the primary aim of the school,
 and his primary goal is not economic gain if he could earn far more working
 for a corporation. The school's primary objective, and his, may be educating
-children well, not earning as much as possible. A doctor working for a notfor-profit hospital may have, as her governing principle, serving the health
+children well, not earning as much as possible. A doctor working for a not-for-profit-profit hospital may have, as her governing principle, serving the health
 needs of the community, not increasing her own satisfaction, and the aim of
 the hospital may be the same, rather than increasing the profits of shareholders. And to reduce a motive like serving the needs of the community to
 satisfying a personal or institutional preference basically misinterprets such
@@ -4977,7 +4977,7 @@ was recommended as the way to increase efficiency and to restrain through
 competition its spiraling costs. The campaign to do so succeeded to such an
 extent that in the 1990s, profit-seeking health maintenance organizations
 (HMOs) overtook nonprofit HMOs in numbers of patients covered, and one
-nonprofit community hospital after another was taken over by a giant investorowned chain. The profits of commercial HMOs result from not enrolling
+nonprofit community hospital after another was taken over by a giant investor-owned chain. The profits of commercial HMOs result from not enrolling
 those most likely to get sick, thus driving the latter to the nonprofits, who are
 then threatened with financial insolvency and subjected to further disdain
 for their ''inefficiency.'' A huge amount of governmental regulation of forprofit health care providers is needed to prevent the most serious abuses, but
@@ -5558,7 +5558,7 @@ purely familial and yet are not of the state. Civil society is about our basic
 societal relationships and experiences.''9 John A. Hall has examined the
 historical development of civil society and concludes that it is ''a complex
 balance of consensus and conflict, the valuation of as much difference as is
-compatible with the bare minimum of consensus necessary for settled existence.''10 Keane explains that as he interprets it, civil society is ''an idealtypical category (an idealtyp in the sense of Max Weber) that both describes
+compatible with the bare minimum of consensus necessary for settled existence.''10 Keane explains that as he interprets it, civil society is ''an ideal-typical category (an ideal-type in the sense of Max Weber) that both describes
 and envisages a complex and dynamic ensemble of legally protected nongovernmental institutions that tend to be non-violent, self-organizing, selfreflexive, and permanently in tension with each other and with the state
 institutions that 'frame', constrict and enable their activities.''11
 
@@ -6324,7 +6324,7 @@ to advance and protect women's rights to control their own sexuality and
 reproductive capacities and to avoid the commodification of women as sexual
 or reproductive objects.23
 
-There are many ways in which law itself could be more receptive to carebased values, for instance, in dealing with the harms of hate speech or devising more satisfactory ways than those previously available for handling the
+There are many ways in which law itself could be more receptive to care-based values, for instance, in dealing with the harms of hate speech or devising more satisfactory ways than those previously available for handling the
 sexual abuse of children.24 Selma Sevenhuijsen shows how inadequate legal
 approaches are in dealing with conflicts over the custody of children and how
 much better would be arguments informed by the ethics of care.25 Family
@@ -6546,7 +6546,7 @@ fundamental implications for social life and political organization.
 However, feminists generally and advocates of the ethics of care seek
 reconceptualizations of privacy, not, as sometimes charged, the abolition of
 the private.50 Women have traditionally had very little privacy, even at home.
-Women do not want to sacrifice the ideals of affiliation and caring to selfcentered demands to be left alone, but the subordinate and caretaking roles
+Women do not want to sacrifice the ideals of affiliation and caring to self-centered demands to be left alone, but the subordinate and caretaking roles
 imposed on them have largely deprived them of the experience of privacy. To
 be confined to the ''private sphere'' is not to enjoy privacy; the many women
 now in the labor force are still unfairly burdened by household responsibilities that deny them equal opportunities to take advantage of privacy.51
@@ -7411,7 +7411,7 @@ onto the scene.55 He tries out a number of different metaphors to describe this
 promising reality that he sees emerging and that requires new ways of thinking.
 Rejecting the metaphors of levels of government and structures of international
 order, he prefers that of ''a vast, dynamic biosphere'' made up of ''a bewildering
-variety of interacting habitats and species: INGO's, voluntary groups, businesses, civic initiatives, social movements, protest organizations.''56 Keane
+variety of interacting habitats and species: INGOs, voluntary groups, businesses, civic initiatives, social movements, protest organizations.''56 Keane
 
 168 C A R E A N D S O C I E T Y
 
@@ -7422,7 +7422,7 @@ charts, it conveys much about what he believes is developing.
 
 Characteristics of the global civil society Keane discerns include that its
 elements are nongovernmental, that they are social, not organic or mechanistic processes, and that they are guided by norms of civility rather than
-produced by violent confrontation. Global civil society ''champions the political vision of a world founded on non-violent, legally sanctioned powersharing arrangements among many different and interconnected forms of
+produced by violent confrontation. Global civil society ''champions the political vision of a world founded on non-violent, legally sanctioned power-sharing arrangements among many different and interconnected forms of
 socio-economic life that are distinct from governmental institutions.''57
 
 Slaughter's networks of governmental officials and Keane's civil society of
@@ -8167,7 +8167,7 @@ Family.
 11. See, for example, Claudia Card,
 
 ''Gender and Moral Luck,'' in Identity,
-Character, and Moralilty: Essays in Moral Psychology, eds. Owen Flanagan and Amelie
+Character, and Morality: Essays in Moral Psychology, eds. Owen Flanagan and Amelie
 Oksenberg Rorty (Cambridge, Mass.: MIT Press, 1990); and Sara Ruddick, ''Injustice
 in Families: Assault and Domination,'' in Justice and Care: Essential Readings in
 Feminist Ethics, ed. Virginia Held (Boulder, Colo.: Westview Press, 1995).

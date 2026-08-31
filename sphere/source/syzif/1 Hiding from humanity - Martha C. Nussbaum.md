@@ -1560,7 +1560,7 @@ From the earliest stages of the doctrine the importance of these limits is empha
 This right of natural defence does not imply a right of attacking: for,
 instead of attacking one another for injuries past or impending, men
 need only have recourse to the proper tribunals of justice. They cannot therefore legally exercise this right of preventive defence, but in
-sudden and violent cases; when certain and immmediate suffering
+sudden and violent cases; when certain and immediate suffering
 would be the consequence of waiting for the assistance of the law.
 Wherefore, to excuse homicide by the pleas of self-defence, it must
 appear that the slayer had no other possible means of escaping from
@@ -1917,7 +1917,7 @@ a constitutional violation (of the Eighth Amendment's guarantee
 against cruel and unusual punishment). Thus nobody questions the
 fact that a certain sort of compassion, based upon the evidence presented during the penalty phase, must be available as a part of the
 process of capital sentencing if such sentencing is to be constitutional.
-Albert Brown had been found guilty of forcible rape and firstdegree murder in the death of a fifteen-year-old girl. At the penalty
+Albert Brown had been found guilty of forcible rape and first-degree murder in the death of a fifteen-year-old girl. At the penalty
 phase, the prosecution presented evidence of a prior crime. The defense presented the testimony of family members, who attested to his
 usually peaceful nature, and also the testimony of a psychiatrist, who
 stated that Brown "killed his victim because of his shame and fear
@@ -2360,11 +2360,11 @@ in public places in general is to protect nonconsenting parties from
 offense; and argues that since only consenting, admission-paying patrons see respondents dance, that purpose cannot apply, and the only
 remaining purpose must relate to the communicative elements of the
 performance. Perhaps the dissenters believe that "offense to others"
-ought to be the only reason for restricting nudity in public places generally, but there is no basis for thinkng that our society has ever shared
-that Thoreauvian "you-may-do-what-you-like-so-long-as-it-does-notinjure-someone-else" beau ideal—much less for thinking that it was
+ought to be the only reason for restricting nudity in public places generally, but there is no basis for thinking that our society has ever shared
+that Thoreauvian "you-may-do-what-you-like-so-long-as-it-does-not injure-someone-else" beau ideal—much less for thinking that it was
 written into the Constitution. The purpose of Indiana's nudity law would
 be violated, I think, if 60,000 fully consenting adults crowded into the
-Hoosierdome to display their genitals to one another, even if there were
+Hoosier Dome to display their genitals to one another, even if there were
 not an offended innocent in the crowd. Our society prohibits, and all
 human societies have prohibited, certain activities not because they
 harm others but because they are considered in the traditional phrase
@@ -2822,7 +2822,7 @@ which he holds strong negative views. So, in his view, the sentiments
 about homosexuality to which Devlin also refers were good guides
 when we had them, and it is too bad that we have lost the guidance
 they proffer. Many readers will strongly disagree. But what about other
-former targets of widespread repugnance, such as Jews, or mixedrace couples, or the novels of James Joyce and D. H. Lawrence? Will
+former targets of widespread repugnance, such as Jews, or mixed-race couples, or the novels of James Joyce and D. H. Lawrence? Will
 Kass say that these earlier instances of disgust contained wisdom?
 What about the disgust many people feel even now when they see the
 mentally handicapped in public settings, or when they see people
@@ -3120,7 +3120,7 @@ than on our bodily commonality with the "lower" animals. Psychoanalyst Ernest Be
 after a certain age, human disgust reactions are typically mediated
 very powerfully by the awareness of death and decay. In developing
 a disgust toward bodily wastes, a young human is reacting against
-"the fate as well of all that is physical: decay and death."55 In a revealing discussion of Jonathan Swift's poetry of disgust, Becker concludes that "[e]xcreting is the curse that threatens madness because
+"the fate as well of all that is physical: decay and death."55 In a revealing discussion of Jonathan Swift's poetry of disgust, Becker concludes that "[e]excreting is the curse that threatens madness because
 it shows man his abject finitude, his physicalness, the likely unreality
 of his hopes and dreams."56 Thus, here again, psychoanalytic accounts
 of disgust converge with the more recent findings of experimental
@@ -3646,7 +3646,7 @@ certain groups and persons. So powerful is the desire to cordon
 ourselves off from our animality that we often don't stop at feces,
 cockroaches, and slimy animals. We need a group of humans to
 bound ourselves against, who will come to exemplify the boundary
-line between the truly human and the basely animal. If those quasianimals stand between us and our own animality, then we are one
+line between the truly human and the basely animal. If those quasi animals stand between us and our own animality, then we are one
 step further away from being animal and mortal ourselves. Thus
 
 throughout history, certain disgust properties—sliminess, bad smell,
@@ -3663,11 +3663,11 @@ receptive of fluid and sticky, womanlike in its oozy sliminess. In the
 nineteenth and twentieth centuries, such images were widespread
 and were further elaborated, as the Jew came to be seen as a foul
 parasite inside the clean body of the German male self. Particularly
-influential was the book Sex and Character by Otto Weininger, a selfhating homosexual and Jew, who died by suicide in 1903. Weininger
+influential was the book Sex and Character by Otto Weininger, a self-hating homosexual and Jew, who died by suicide in 1903. Weininger
 argues that the Jew is in essence a woman: "[S]ome reflection will
 lead to the surprising result that Judaism is saturated with femininity,
 with precisely those qualities the essence of which I have shown to be
-in the strongest opposition to the male nature." Among the Jewishfeminine traits he explores is the failure to understand the national
+in the strongest opposition to the male nature." Among the Jewish feminine traits he explores is the failure to understand the national
 state as the aim of manly endeavor: thus Jews and women, he argues,
 have an affinity for the ideas of Marxism. They also fail to comprehend class distinctions: they are "at the opposite pole from aristocrats, with whom the preservation of the limits between individuals is
 the leading idea."93
@@ -3940,7 +3940,7 @@ Lawrence's character Mellors to Lady Chatterley is much more civilized than the 
 evince disgust at her body and its secretions; Mellors tells her that he
 would never like a woman who did not shit and piss. Lawrence remarks to Ottoline Morrell that such attitudes help to "keep [the]
 heart warm": they help constitute the relationship between male and
-female as deeply reciprocal and civilized, rather than based on selfloathing and consequent denigration of the female.
+female as deeply reciprocal and civilized, rather than based on self loathing and consequent denigration of the female.
 
 We might, with Walt Whitman, go still farther: the really civilized
 nation must make a strenuous effort to counter the power of disgust,
@@ -4094,7 +4094,7 @@ the head of hatreds and exclusions, is disgust at one's own softness
 and mortality, of the belly exposed to the sun; the gaze of desire
 touches that softness, and must for that reason be repudiated as a
 source of contamination. Over against this flawed America Whitman
-sets the America of the poet's imagination, healed of disgust's selfavoidance and therefore truly able to pursue liberty and equality.
+sets the America of the poet's imagination, healed of disgust's self avoidance and therefore truly able to pursue liberty and equality.
 
 Whitman's America is a fiction. No real society has triumphed
 over disgust in the way depicted here. Nor should we hastily con-
@@ -4521,7 +4521,7 @@ feeling contaminated or "grossed out" by someone is never a "reasonable man's" e
 against that person. (If it's a reason to do anything, it's a reason to
 move away.) On my account of the two emotions, this is as it should
 be: society has wisely recognized, for the most part, that people's disgust is totally irrelevant to the justification of violence. As Robert
-Mison concludes, "[a] murderous personal reacton toward gay men
+Mison concludes, "[a] murderous personal reaction toward gay men
 should be considered an irrational and idiosyncratic characteristic
 
 of the defendant and should not be allowed to bolster the alleged
@@ -4579,7 +4579,7 @@ Latin caenum, "filth."19 Next, Justice Burger cites the Webster's Third
 New International Dictionary definition of "obscene" as "disgusting to
 the senses . . . grossly repugnant to the generally accepted notions of
 what is appropriate . . . offensive or revolting" and the Oxford English
-Dictionary definition of "obscene" as "[o]ffensive to the senses, or to
+Dictionary definition of "obscene" as "[o]offensive to the senses, or to
 taste or refinement, disgusting, repulsive, filthy, foul, abominable,
 loathsome."20
 
@@ -4808,7 +4808,7 @@ Andrea Dworkin Fan Club begins some really serious suck'n'squat.
 Ready to give up the holy wafers for Matzoh, yet, guys?" The December Feature was included in the "Porn from the Past" section of the
 magazine. It shows a man performing oral sex on an obese woman
 while he masturbates. A portion of the caption states: "We don't believe it for a minute, but one of our editors swears that this woman in
-the throes of ecstacy [sic] is the mother of radical feminist Andrea
+the throes of ecstasy [sic] is the mother of radical feminist Andrea
 Dworkin."35
 
 I shall not comment here on the central legal issues in the case,
@@ -4994,7 +4994,7 @@ this evidentiary role? Disgust at miscegenation was surely very widespread, and 
 that a moral norm inherent in nature was being violated. Indeed,
 the trial judge who heard the case of Richard and Mildred Loving,
 an interracial couple, defended Virginia's antimiscegenation law by
-appeal to just such an alleged precultural norm: "Almighty God created the races white, black, yellow, malay and red, and he placed
+appeal to just such an alleged pre-cultural norm: "Almighty God created the races white, black, yellow, malay and red, and he placed
 them on separate continents. And but for the interference with his
 arrangement there would be no cause for such marriages. The fact
 that he separated the races shows that he did not intend for the races
@@ -5133,7 +5133,7 @@ Moreover, the prosecution strongly linked disgust for same-sex
 conduct to disgust based on class: the lower-class origins of the
 younger men were often mentioned as evidence that the relationship in question was of an improper and disgusting sort. One exchange: "Did you know that one Parker was a gentleman's valet, and
 the other a groom?" "I did not know it, but if I had I should not have
-cared. I didn't care twopence what they were. I liked them. I have a
+cared. I didn't care two pence what they were. I liked them. I have a
 passion to civilize the community." In this way disgust at same-sex
 conduct was linked to a kind of antimiscegenation disgust: sex should
 not join the upper classes with the lower.
@@ -5203,7 +5203,7 @@ degrading and vile sexual activity imaginable."55
 
 The first question that must be asked is whether necrophilia
 ought, in fact, to be illegal. The history of legislation regarding it is
-uneven. According to Richard Posner and Katharine Silbaugh's catalogue of sex laws as of 1996, thirty-six states have no law at all against
+uneven. According to Richard Posner and Katharine Silbaugh catalogue of sex laws as of 1996, thirty-six states have no law at all against
 it, and most such laws are of recent origin.56 Most states have some
 laws against desecration of the corpse, but sexual desecration,
 though viewed as especially disgusting, is usually not singled out for
@@ -5272,7 +5272,7 @@ But it seems unclear to me whether this conduct should be criminal.
 What about the special case where a person is both the lawful custodian of the corpse and a former sexual partner, such as a dead
 spouse? Here consent is not violated in precisely the same way, but,
 just as we feel that rape within marriage is still rape, so too we feel
-that this act with a nonresponsive object is a rape-like act. Whether
+that this act with a non-responsive object is a rape-like act. Whether
 or not such an act should be illegal, once again, it says something
 very unpleasant about the person in question. (Wisconsin's rape law
 is consistent with its antinecrophilia law, explicitly declaring that "a
@@ -5282,7 +5282,7 @@ sexual assault provisions because of marriage to the victim.")63
 It seems to me that such considerations are the ones most relevant
 to the legal treatment of necrophilia. They are probably sufficient to
 justify some criminal penalties in the cases where property violations
-occur—including penalties that define necrophiliac violations as
+occur—including penalties that define necrophilia violations as
 somewhat more severe than other forms of corpse desecration and
 
 vandalism of tombs. In other cases, the absence of consent is itself
@@ -5358,7 +5358,7 @@ disgustingness is enough.65 Thus a swine farm located in a residential area crea
 injurious to health, and the odors were just the odors natural to pigs
 fed on good grains and vegetables.66 A sewage lagoon for a hog confinement near a dairy farm was held to be a nuisance even though it
 could not be demonstrated that the cattle had actually contracted
-any disease from the effluences of the lagoon.67
+any disease from the effluents of the lagoon.67
 
 Interestingly, lines are very carefully drawn: a factory that extracted fish oils and made fish pomace was held to constitute no nuisance, even though the process emitted "disagreeable smells," until
 the owners also started to manufacture phosphate manures from
@@ -5916,7 +5916,7 @@ womb into the shores of light. And it fills the whole place with mournful weepin
 in life" (5.222–27).
 
 A "gentle nurse" now calms the child with calm talk and caresses, as
-well as nourishment. The poet bleakly remarks that the rougher, betterequipped wild animals have no need of such soothing (5.229–30).
+well as nourishment. The poet bleakly remarks that the rougher, better equipped wild animals have no need of such soothing (5.229–30).
 The prolonged helplessness of the human infant marks its history;
 and the early drama of its infancy is the drama of helplessness before
 a world of objects—a world that contains both threat and promise of
@@ -6073,7 +6073,7 @@ they walked on two legs—and then he turned their faces around so
 that they would always have to look at the cut part of themselves. Incompleteness is revealed to us, then, by the very form of our bodies,
 with their pointy jutting limbs, their oddly naked front parts, their
 genitalia that betray our need for one another. The navel represents
-the gods' sewing together of what they have cut, and is thus a "memorial of our former suffering" (mnêmeion tou palaiou pathous) (191A).
+the gods' sewing together of what they have cut, and is thus a "memorial of our former suffering" (mnêmnemeion tou palaiou pathous) (191A).
 The people in the myth are ashamed of the way they now are. (Indeed, the Greek term for genitalia, aidoia, contains an allusion to
 shame, aidôs.)30 Aristophanes' small detail about the navel suggests
 that the myth is not about sexuality per se, but is intended to capture
@@ -6084,7 +6084,7 @@ Thus Aristophanes portrays shame as a painful emotion grounded
 in the recognition of our own non-omnipotence and lack of control,
 and he suggests that a memory or vestigial sense of an original om-
 
-nipotence and completeness underlies the painful emotion as it manifests itself in life. We sense that we ought to be whole, and maybe
+omnipotence and completeness underlies the painful emotion as it manifests itself in life. We sense that we ought to be whole, and maybe
 once were whole—and we know that we now are not. We sense that
 we ought to be round, and we see that we are jagged and pointy, and
 soft and wrinkled. The way in which the speech connects sex and
@@ -6110,7 +6110,7 @@ shame in the area of cognitive psychology, named shame as one of
 the primary affects, and suggested that it begins almost immediately
 after birth.32 He defined shame as a painful affect resulting from any
 interruption of pleasure and expectation, as when the infant expects a pleasurable feeding, and that does not take place. Because
-Tomkins's theory is an affect-based theory, he does not require any
+Tomkins theory is an affect-based theory, he does not require any
 particular cognitive content in order to say that shame is present,
 and thus he is not troubled by questions about what thoughts infants
 may be said to have. Since my account, along with accounts in the
@@ -6185,7 +6185,7 @@ a fear of abandonment or ostracism.)39
 As with disgust, so too with shame: societies have a good deal of
 room to shape the experience differently, both by teaching different
 views of what is an appropriate occasion for shame and by linking
-shame differently with other emotions. Once again, Robert Kaster's
+shame differently with other emotions. Once again, Robert Kaster
 study of Roman pudor shows that it is subtly different, both with respect
 
 to its objects and with respect to its links to other emotions, from
@@ -6315,7 +6315,7 @@ is all right, and that its helpless body is a source of pleasure and concern—o
 the only tolerable state and that anything else will be repudiated.54
 
 In terms of my earlier analysis, what has happened to the early
-emotions of this unfortunate man? First, the dynamics of both lovegratitude and anger have been thrown off by his inability to trust that
+emotions of this unfortunate man? First, the dynamics of both love gratitude and anger have been thrown off by his inability to trust that
 he is being held, that his mother wants to hold and care for a dependent needy baby. A feeling of "infinitely falling" lurks in the background. This feeling gives rise to an especially intense anger and a
 possessive love that brooks no human reality. The patient so fears his
 own anger that he frequently makes himself fall asleep. As Winnicott
@@ -6462,7 +6462,7 @@ the sleeve,'" a kind of protection we wear when we don't want the
 general public to see all our fears, needs, and vulnerabilities. In
 
 other words, it is a defense against a reasonable and limited type of
-social shame. The person is well aware that there is a vulnerable nonomnipotent self within, and is able to take pleasure in that self, and
+social shame. The person is well aware that there is a vulnerable non omnipotent self within, and is able to take pleasure in that self, and
 manifest it to intimates.
 
 In many patients, however, there is such primitive shame about
@@ -6846,7 +6846,7 @@ respects a more productive and potentially creative emotion. Disgust, as I argue
 and embodiment as sources of contamination for the self. It thus
 functions to distance us from something that we actually are. Although it may have some practical value in steering us away from
 sources of genuine danger, Rozin's research has shown that it is conceptually distinct from the fear of danger and does not always track
-it well. In general, it is a deeply and, I have argued, an inherently selfdeceptive emotion, whose function, for better or worse, is above all
+it well. In general, it is a deeply and, I have argued, an inherently self-deceptive emotion, whose function, for better or worse, is above all
 to conceal from us, on a daily basis, facts about ourselves that are
 difficult to face.
 
@@ -7190,7 +7190,7 @@ These latter types of deviation from the normal are not branded
 on the face. Societies have, in consequence, found it convenient to
 inflict a visible mark. The word "stigma" is in fact the Greek term for
 this mark.111 In the ancient Greek world the word-group (noun
-stigma, verb stizô) referred to tattooing, not to branding,112 and tattoos were widely used for penal purposes. As the edict of Constantine records, the mark was frequently applied to the face, in order to
+stigma, verb stizôô) referred to tattooing, not to branding,112 and tattoos were widely used for penal purposes. As the edict of Constantine records, the mark was frequently applied to the face, in order to
 shame the offender in a publicly visible way.113 Similar practices are
 found in many societies, some involving branding as well as tattooing. And the evidence shows, time and again, that those singled out
 for branding include not just those convicted of a particular offense,
@@ -7814,7 +7814,7 @@ containing crime, is likely to lead to more violent outbursts.
 
 Finally, we have an argument proposed by Steven Schulhofer,
 which appeals to the well-known phenomenon of "net-widening."22
-The basic idea is that shame penalties are likely to lead to an everwidening attempt to put more people under social control. With
+The basic idea is that shame penalties are likely to lead to an ever-widening attempt to put more people under social control. With
 shame as with some other initially promising reform proposals, the
 argument goes, the reform (such as early parole, juvenile courts, et
 cetera) is initially packaged as a way to divert low-level, less dangerous offenders to a regime that is less harsh than prison. They are
@@ -7845,7 +7845,7 @@ worry about the extent and reach of these penalties.
 
 This worry is exacerbated when we think about the psychology of
 shame. People are all too ready to project shame outward, dealing
-with their own uncertainties in ways that stigmatize others. The "netwidening" involved in shaming can easily be imagined as an instance
+with their own uncertainties in ways that stigmatize others. The "networking" involved in shaming can easily be imagined as an instance
 of this baneful social dynamic. This suspicion will be reinforced
 when we study "moral panics" in our next section.
 
@@ -8301,7 +8301,7 @@ These events were, by themselves, not very alarming. The news
 media, however, having little else to distract them at the time, sensationalized the incident. All national newspapers but one bore headlines such as "Day of Terror by Scooter Groups," "Wild Ones Invade
 Seaside." This type of coverage spread across Europe and on to the
 United States, Australia, and South Africa. The news stories that accompanied these headlines exaggerated the number of people involved and the extent of the damage, primarily through the use of
-suggestive language such as "orgy of destructon," "battle," "beat up the
+suggestive language such as "orgy of destruction," "battle," "beat up the
 town," and "screaming mob." They alluded to "deserted beaches" and
 to "elderly holidaymakers" trying to escape the violence—all without
 mentioning that on the day in question the beaches were deserted
@@ -8577,7 +8577,7 @@ connection likely to be about?
 If there is a connection between same-sex relationships and trouble for the institution of heterosexual marriage, it appears to be the
 indirect connection that is described by legal thinkers Andrew Koppelman, Sylvia Law, and Cass Sunstein. Discrimination against gays
 and lesbians, they argue, is a form of sex discrimination, because
-what it is all about is shoring up traditional heterosexuality, including the patriarchial nature of traditional marriage. Gays and lesbians
+what it is all about is shoring up traditional heterosexuality, including the patriarchal nature of traditional marriage. Gays and lesbians
 are a symbol, in much of the public imagination, for sex without reproduction, for the decoupling of marriage from commitment to
 raising a family in the traditional way, which has certainly been a
 male-dominated way.58 (Never mind that many gay and lesbian couples
@@ -8771,7 +8771,7 @@ group home for people with mental retardation, following a city zoning law that 
 elderly, and sanatoriums: only for "homes for the insane or feebleminded or alcoholics or drug addicts.") The denial of the permit was
 plainly prompted by fear and other negative attitudes expressed by
 nearby property owners. The city further alleged that people with
-mental disabilities might be in danger by being located on a "fivehundred–year flood plain," since, in the event of a flood, they might
+mental disabilities might be in danger by being located on a "five-hundred–year flood plain," since, in the event of a flood, they might
 be slow to escape from the building. The Supreme Court held that
 the permit denial had no rational basis, resting only on "invidious
 discrimination," "an irrational prejudice against the mentally retarded," and "vague, undifferentiated fears." Here the Court refuses
@@ -8917,7 +8917,7 @@ much less clear than in Cleburne because the regulations are discriminatory in e
 in which city officials have broad discretion; in that way as well, the
 case looks quite unlike Cleburne, where the plaintiffs wanted a permit
 for a group home of a type for which permits had frequently been
-given. For these reasons and others, it seems unlikely that a constitutional challenge to the Giuliani zoning regulations based on Cleburnetype arguments would succeed. My argument suggests, however, that
+given. For these reasons and others, it seems unlikely that a constitutional challenge to the Giuliani zoning regulations based on Cleburne-type arguments would succeed. My argument suggests, however, that
 the issues involved in the two cases are actually very similar. Both are
 about the desire of the majority to hide away aspects of human behavior that trouble them. Shame and stigma is what they are both
 about. And the fact that gay men bore the effects disproportionately,
@@ -9340,7 +9340,7 @@ book on its own. Most cities and towns in America have not adequately met that c
 to which I have referred in chapter 5, shows that many poor workers
 are forced to pay for sleazy and stigmatizing housing, such as cheap
 motel rooms, simply because they are unable to come up with a deposit for a rental.6 Meanwhile, public housing projects that once
-were intended to give adequate and respectable shelter to poor residents now stigmatize all those who live in them.7 Access to shamefree housing is among the major challenges our society must face in
+were intended to give adequate and respectable shelter to poor residents now stigmatize all those who live in them.7 Access to shame-free housing is among the major challenges our society must face in
 the next decades.
 
 The connection between human dignity and some degree of public support for basic needs has been made in quite a few modern
@@ -9555,7 +9555,7 @@ private-membership clubs, and the military. Religious exemptions
 were also allowed in Denver's nondiscrimination law, challenged by
 Colorado's Amendment 2.) As a country we have not fully sorted out
 the issue of exemptions from nondiscrimination laws; our policies
-are not consistent. (For example, Bob Jones University lost its taxexempt status for its policy opposing interracial dating, but religious
+are not consistent. (For example, Bob Jones University lost its tax-exempt status for its policy opposing interracial dating, but religious
 universities that have statutory requirements that the university president be a male member of a particular religious order retain their
 tax exemptions.) Where sexual orientation is concerned, it is clear
 that our public debate is still at a much more primitive level than it
@@ -10079,7 +10079,7 @@ the good. And the peculiar reluctance of most modern societies to
 tolerate the presence of people with disabilities—especially mental
 disabilities—in schools and public places betrays this same uneasy
 sense that their very presence will spoil the lives of others. The fact
-that our own lives are also frail and disabled lives is thus the more effectively screened from view.45 Politician Jenny Morris, a wheelchairuser, aptly refers to these policies as "tyrannies of perfection."46
+that our own lives are also frail and disabled lives is thus the more effectively screened from view.45 Politician Jenny Morris, a wheelchair user, aptly refers to these policies as "tyrannies of perfection."46
 
 In order to make this point one need not accept the radical thesis
 that there is nothing bad about the classic disabilities, such as blindness, deafness, and mental retardation.47 We may grant that many
@@ -10318,7 +10318,7 @@ whether occasioned by insufficient funding or administrative inefficiency, certa
 'exceptional' or handicapped child than on the normal child." Significantly, the court cites Goldberg v. Kelly, the case concerning welfare rights that I discussed in section II, where the Supreme Court
 held that "the State's interest that [the welfare recipient's] payments
 not be erroneously terminated, clearly outweighs the State's competing concern to prevent any increase in its fiscal and administrative burdens." "Similarly," reasons the D.C. court, "the District of
-Columbia's interest in educating the excluded children clearly must
+Columbia interest in educating the excluded children clearly must
 outweigh its interest in preserving its financial resources."
 
 These two cases sparked a national debate, focused on both guaranteed access and funding. In 1975, Congress passed the Education
@@ -10335,7 +10335,7 @@ fact individuals, with varying needs, and that therefore all prescription for gr
 the act is thus that of the Individualized Education Program (IEP),
 defined as "a written statement for each child with a disability that is
 developed, reviewed, and revised." The act requires that states affirmatively undertake to identify and locate all unserved children with
-disablities. It also requires that districts establish extensive procedural
+disabilities. It also requires that districts establish extensive procedural
 safeguards to give parents input in decisions regarding the evaluation and placement of their children, as well as access to records and
 rights to participation in due process hearings and judicial review.
 
@@ -10714,7 +10714,7 @@ thinking truth good because of what it does for the self-respect and
 flourishing of individuals, he subordinates individual flourishing
 
 and dignity to truth, conceived as an abstraction. The Kantian intuition with which Rawls's A Theory of Justice begins is the idea that
-"each person possesses an inviolablity founded on justice that even
+"each person possesses an inviolability founded on justice that even
 the welfare of society as a whole cannot override."6 This idea directs
 us to consider social arrangements in the light of that inviolability,
 and to treat each citizen as an end, never as a means to the ends of
@@ -10841,7 +10841,7 @@ been an era of universal liberty, and yet geniuses emerged; in fact almost all t
 eras in which liberty has been considerably restricted.
 
 Moreover, even if a convincing argument could be made to the
-conclusion that genuises require universal conditions of liberty, this
+conclusion that geniuses require universal conditions of liberty, this
 hardly seems the right sort of argument to use in justifying the extension of liberty to all. Once again, some people are being used as
 means to the ends of others. The fact that indirectly they, or their descendants, may hope to profit from the discoveries made by the liberated genius does not do enough to show that Mill's argument
 respects them.
@@ -10922,7 +10922,7 @@ how laws that violate those constraints harm people. But when it comes
 to justifying his position on liberty, Mill's argument is not all that one
 might wish. The famous argument from truth is not especially helpful to a person interested in the core ideas of political liberalism—
 equal respect, reciprocity, and the inviolability of the person. First, it
-is underspecific, not considering the hard case of hate speech or the
+is underspecified, not considering the hard case of hate speech or the
 issue of possible low-value speech (commercial speech); to that extent it does not give detailed guidance even to those who agree with
 its basic spirit. Second, its contingent claims are fragile and set important areas of liberty on a dubious empirical foundation. Third, it
 seems to put the means before the end: instead of thinking of per-
@@ -11673,7 +11673,7 @@ Notes to Pages 46–62
 56. "She Strays, He Shoots, Judge Winks," New York Times, 22 October 1994, A22.
 57. See documentation in Kahan and Nussbaum (1996, 346–47).
 58. See Texas Penal Code art. 1220 (repealed 1973).
-59. Correspondence from Albert Alschuler to Dan M. Kahan (May 1995, on filewith the Columbia Law Review). Alschuler was one of the official reporters for
+59. Correspondence from Albert Alschuler to Dan M. Kahan (May 1995, on file with the Columbia Law Review). Alschuler was one of the official reporters for
 the committee that proposed repeal of the "paramour statute" as part of the
 comprehensive reform of the Texas Penal Code.
 60. Regina v. Mawgridge, 84 Eng. Rep. 1107, 1115 (1707).
@@ -11754,7 +11754,7 @@ Kentucky Supreme Court used these cases as precedents in invalidating Kentucky's
 the Court, there was no majority opinion in the case, since there were two
 concurring opinions.
 
-Chapter 2. Digust and Our Animal Bodies
+Chapter 2. Disgust and Our Animal Bodies
 
 1. I use the translation given in Dworkin (1987), which accurately renders the offensive connotation of the final work, usually softened.
 
@@ -12113,7 +12113,7 @@ Chapter 3. Disgust and the Law
 
 issue.
 
-2. Maher v. People, 10 Michap. 212, 220 (1862).
+2. Maher v. People, 10 Mich.. 212, 220 (1862).
 3. Rivers v. State, 78 So. 343, 345 (Fla. 1918).
 4. See chap. 1 and Kahan and Nussbaum (1996).
 5. Commonwealth v. Carr, 580 A.2d 1362, 1363–65 (Pa. Super. Ct. 1990). See generally Brenner (1995). On the legal aspects of the case, see generally Pohlman
@@ -12704,7 +12704,7 @@ seek the healing response of acceptance—of the self despite its weaknesses,
 defects, and failures."
 
 80. Mill, "Bentham": "In many of the most natural and strongest feelings of human
-nature he had no sympathy; from many of its graver experiences he was altogether cut off; and the faculty by which one mind understands a mind different from himself, and throws iteself into the feelings of that other mind, was
+nature he had no sympathy; from many of its graver experiences he was altogether cut off; and the faculty by which one mind understands a mind different from himself, and throws itself into the feelings of that other mind, was
 denied him by his deficiency of Imagination. . . . He had neither internal
 experience nor external. . . . He was a boy to the last."
 
@@ -12991,7 +12991,7 @@ classification" triggering heightened scrutiny.
 
 65. 473 U.S. 432 (1985).
 66. See Sunstein (1999, 148): "In both Cleburne and Romer, the Court was concerned
-that a politically unpopular gorup was being punished as a result of irrational
+that a politically unpopular group was being punished as a result of irrational
 hatred and fear. Many people appear to think that mental retardation (like
 homosexuality) is contagious and frightening."
 
@@ -13865,7 +13865,7 @@ Miller, Alice (1986). "Depression and Grandiosity as Related Forms of Narcissist
 Miller, William I. (1993). Humiliation. Ithaca, NY: Cornell University Press.
 ——— (1997). The Anatomy of Disgust. Cambridge, MA: Harvard University Press.
 ——— (1998). "Sheep, Joking, Cloning and the Uncanny." In Clones and Clones, ed.
-Martha C. Nussbuam and Cass R. Sunstein. New York: Norton: 78–87.
+Martha C. Nussbaum and Cass R. Sunstein. New York: Norton: 78–87.
 Minow, Martha (1990). Making All the Difference: Inclusion, Exclusion, and American
 
 Law. Ithaca, NY: Cornell University Press.
@@ -14202,7 +14202,7 @@ disgust with, 74, 93–94; group subordination through disgust and, 107–15
 
 animals: compassion in, 23–24; sex with, 80
 Annas, Julia, 231, 244–45
-antidiscrimination laws. See nondiscrimina-
+antidiscrimination laws. See nondiscrimination-
 
 AIDS. See Acquired Immune Deficiency
 
@@ -14375,7 +14375,7 @@ Constantine (Emperor of Rome), 172, 174,
 
 constructive shame: in adults, conditions for,
 211–14; in children, limitations regarding,
-214–15; penalties and, 241–45; possibilities and dangers of, 214–16; and renuciation of narcissism, 208
+214–15; penalties and, 241–45; possibilities and dangers of, 214–16; and renunciation of narcissism, 208
 
 contagion, 93–94. See also animality, human
 contamination, disgust and. See animality,
@@ -15267,7 +15267,7 @@ sentencing, 20–22; on economic rights for
 the poor, decision on, 285–86, 315; on
 freedom in public places, statement
 regarding, 303; on free speech, decision
-regarding limits of, 290; on genderbased discrimination, decision regarding, 292; harm principle, and the repudiation of, 66–67; on instructions to the
+regarding limits of, 290; on gender-based discrimination, decision regarding, 292; harm principle, and the repudiation of, 66–67; on instructions to the
 jury, decisions regarding, 164; on interracial marriage, decision regarding
 state laws against, 262; on loitering ordinance, decision regarding, 272; on mentally retarded, decision regarding
 prejudicial action against, 161, 265; on

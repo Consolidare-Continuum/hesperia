@@ -322,7 +322,7 @@ disengagement in unusual moral predicaments. Mary was the unmerciful
 editor. She purged the manuscript of ambiguities, redundancies, irrelevancies, and organizational lapses. It is a much better book for her critical editing.
 I had the good fortune of having Christine Cardone as the editor overseeing the publication of this book. Viewing it as a groundbreaking work, she
 shepherded it devotedly through every phase of the publishing process. I
-also wish to acknowledge my indebtedness to Barbara Curialle, who edited
+also wish to acknowledge my indebtedness to Barbara Curiale, who edited
 the manuscript meticulously.
 
 Some of the material in this book is drawn from publications I originally
@@ -420,7 +420,7 @@ Palliative comparison
 Euphemistic labeling
 
 Minimizing, ignoring,
-or miscontruing the
+or misconstruing the
 consequences
 
 Dehumanization
@@ -434,7 +434,7 @@ effects
 
 Victim
 
-Displacement of responsibilty
+Displacement of responsibility
 Diffusion of responsibility
 
 .1 Eight mechanisms through which moral self-sanctions are selectively disengaged from
@@ -703,7 +703,7 @@ When viewed from a social cognitive perspective, freedom is not construed merely
 of action. Rather, it is viewed proactively as the exercise of self-influence in
 the service of selected goals and desired futures. For example, people have the
 freedom to vote, but whether they persuade themselves to vote and the level
-and form of their political engagement depends, in large part, on the selfinfluence they bring to bear. Through the social influence of collective action,
+and form of their political engagement depends, in large part, on the self-influence they bring to bear. Through the social influence of collective action,
 they change political and other social systems. In addition to regulating their
 actions, people also live in a psychic environment largely of their own making. In this environment, the self-management of their inner lives frees them
 from unwanted trains of thought (Bandura, 1997).
@@ -1168,7 +1168,7 @@ Bandura_1e_ch01.indd 19
 behavior and stripped it of its functional value, aggression played a minor
 role in the traditional Tahitian way of life.
 
-Numerous other examples can be cited of different societies that create different natures. In cultural settings where interpersonal aggression is discouraged and devalued and amicableness and cooperativeness are the functional
+Numerous other examples can be cited of different societies that create different natures. In cultural settings where interpersonal aggression is discouraged and devalued and amicability and cooperativeness are the functional
 behavior, people live peaceably (Alland, 1972; Lantis, 1959; Mead, 1935;
 Turnbull, 1961). In other societies that provide extensive training in aggression
 and invest it with functional value, people spend a great deal of time threatening, fighting, maiming, and killing each other (Bateson, 1941; Chagnon, 1968;
@@ -1376,7 +1376,7 @@ The Nature of Moral Agency 25
 inclusion and exclusion from the category of humanity. In moral disengagement, people use reasoning to sanctify harmful activities and to dismiss personal responsibility for them.
 
 Kohlberg (1984) adopted the rationalism model of morality in a de -
-velopmental-stage theory rooted in Piaget's theory of cognitive development. It dominated de vel opmental research on morality during the period
+developmental-stage theory rooted in Piaget's theory of cognitive development. It dominated de vel opmental research on morality during the period
 when Piagetian theory was very much in vogue. Eventually, Kohlberg's
 theory came under increasing criticism for contending that reason alone determines moral conduct, restricting morality to social justice, and failing to
 test the link between moral reasoning and moral action. In actuality, moral
@@ -1542,8 +1542,8 @@ The Nature of Moral Agency 29
 
 Moral judgment sets the standard for reactions to one's own behavior.
 Social cognitive theory grounds the behavioral exercise of morality in the
-self-sanction component of the self-regulatory mechanism. These selfreactions can take self-evaluative, affective, and behavioral forms. Selfapproval and self-respect for behaving in accordance with one's moral
-standards and self-condemnation for violating them constitutes the selfevaluation aspect. Feelings of guilt and remorse are the affective aspect.
+self-sanction component of the self-regulatory mechanism. These self-reactions can take self-evaluative, affective, and behavioral forms. Self-approval and self-respect for behaving in accordance with one's moral
+standards and self-condemnation for violating them constitutes the self-evaluation aspect. Feelings of guilt and remorse are the affective aspect.
 In the behavioral form, individuals treat themselves self-rewardingly with
 activities they value and enjoy or self-punitively by withholding desired
 activities or imposing aversive ones. Restitution is a common behavioral
@@ -1620,7 +1620,7 @@ focused on the methodical efficiency and concealment of the doping rather
 than the morality of it: "It was just part and parcel of the team's needs at the
 time. You don't question and analyze it" (Ranieri, 2012). Doping was linguistically sanitized as being on the "medical program," with the drug taking the
 "recovery." Because of its prevalence in cycling, doping was regarded as a
-competitive, normative practice rather than an issue of morality. Nondoping
+competitive, normative practice rather than an issue of morality. Non-doping
 cyclists were portrayed amusingly as pedaling on bread and water.
 
 Although a dutiful functionary, O'Reilly was haunted by self-devaluative
@@ -1647,7 +1647,7 @@ the problem" (Pilon, 2012). She took comfort in helping to clean up cycling.
 Lance Armstrong granted Oprah Winfrey a lengthy televised interview
 that addressed his sophisticated doping operation (Armstrong & Winfrey,
 2012). These interviews shed some light on how a phenomenal athlete can
-cheat in an elaborate scheme to win seven prestigious titles; elude antidoping officials and enforcers; proclaim his innocence in many mass media
+cheat in an elaborate scheme to win seven prestigious titles; elude anti-doping officials and enforcers; proclaim his innocence in many mass media
 appearances; disparage his teammates as liars, knowing that they were telling the truth about the doping operation; win a lawsuit against O'Reilly,
 knowing that her allegations were true; betray his highly regarded cancer
 foundation; and still evidently feel good about himself.
@@ -1728,7 +1728,7 @@ deeply rooted in the corporate culture. They bring in profits from the games
 and supporting services. They also are an important vehicle for advertising
 countless services and products that are unrelated to athletics. Athletes have
 powerful incentives to strive to make it into the upper ranks: huge salaries,
-celebrity status, lucrative sponsorships, and postcareer business and employment opportunities. Armstrong reported that his public confession cost him
+celebrity status, lucrative sponsorships, and post-career business and employment opportunities. Armstrong reported that his public confession cost him
 $75 million in sponsorships alone. It takes robust moral self-regulation to
 resist such enticements that are achievable by morally compromised means.
 
@@ -1904,7 +1904,7 @@ self-regard (Bandura et al., 2001). The level of moral disengagement contributes
 moral disengagement retains its predictiveness of subsequent engagement in
 delinquent activities after researchers controlled for prior delinquent conduct
 and perceived academic self-efficacy, social self-efficacy, and self-efficacy to
-resist peer pressure. A number of alterative causal models were also tested. In
+resist peer pressure. A number of alternative causal models were also tested. In
 one model, prior transgressiveness was assigned causal primacy affecting subsequent transgressiveness directly and through its impact on perceived selfefficacy, moral disengagement, prosocialness, and ruminative affectivity. The
 second model conferred causal primacy on ruminative affectivity, which
 contributes to subsequent delinquency directly and through its influence on
@@ -1941,7 +1941,7 @@ losses through theft and thus overcharge their customers.
 Children can be taught to judge morality in terms of social justice and
 espouse it in the abstract, but in actual practice they find conditional justifications for violating that principle. The discordance between high morality in the abstract and low observance in practice is by no means confined
 to youngsters. The present volume richly documents that it is common in
-adulthood for individuals to embrace high moral principles but to find selfpersuasive justifications to compromise them.
+adulthood for individuals to embrace high moral principles but to find self-persuasive justifications to compromise them.
 
 Bullying and Cyberbullying
 
@@ -2267,7 +2267,7 @@ The Nature of Moral Agency 45
 
 on this issue, however (Carey, 2011). On one hand, he argues that neuroscientific data cannot tell us whether a given behavior is right or wrong
 or determine responsibility for it. Judgments of rightness and responsibility,
-he contends, are explained at the psychological and sociostructual levels of
+he contends, are explained at the psychological and socio-structural levels of
 causation. On the other hand, he is an exponent of the view that behavior
 is automatically controlled at the subpersonal micro mechanical level: "[T]he
 brain runs largely on autopilot; it acts first and asks questions later" (Carey,
@@ -2293,7 +2293,7 @@ the brain is a deterministic machine. Whether this variability reflects indeterm
 be resolved by physical theory rather than at the level of neurons. For these
 reasons, in Roskies's view, the ostensible moral problem is the perception
 of a problem, which she regards as misguided. Neuroethicists and metaphysicists are not the only ones who have addressed the ethical implications
-of a neuroscientfic view of human nature. Some insightful writers outside
+of a neuroscientific view of human nature. Some insightful writers outside
 the field, such as Tom Wolfe (1996), also have weighed in with thoughtprovoking perspectives on this matter.
 
 All too often, disputes about personal control are framed in dichotomous, absolute terms, especially in philosophical disputes. Either one can
@@ -2911,7 +2911,7 @@ P
 Authority
 commands
 +
-compiant
+compliant
 peers
 
 Authority
@@ -3461,7 +3461,7 @@ Sexual molestation of children has no justification. Nor can it be sanitized lin
 utilitarian grounds: The harm to the moral authority of the church from disclosing the sexual abuse outweighed the harm inflicted on children. In the
 cover-up, which went on for years in the United States and Europe, some of
 the offending priests were relocated to other parishes. Many were assigned
-to mainly nonparish duties and referred for spiritual counseling. Families of
+to mainly non-parish duties and referred for spiritual counseling. Families of
 victims who filed charges received sizable settlements. The lawyers representing the families referred to the payments as "hush money."
 
 The Reverend Andrew Greeley, an outspoken critic of the Catholic
@@ -3797,7 +3797,7 @@ dollars to a trust that would shield the money from damage suits by victims:
 "I foresee an improved protection of these funds from any legal claim and
 liability," he wrote (Goodstein, 2013a). The Vatican approved the request.
 
-What is disconcertingly ironic about the church's response to the sexualabuse cases is the extent to which efforts to keep the crimes from being made
+What is disconcertingly ironic about the church's response to the sexual abuse cases is the extent to which efforts to keep the crimes from being made
 
 Bandura_1e_ch02.indd 78
 
@@ -4318,7 +4318,7 @@ small step from depersonalization to dehumanization.
 Attribution of Blame
 
 Blaming those who are maltreated is another means operating within the
-victim locus that can serve self-exonerative purposes. Conflictful transactions
+victim locus that can serve self-exonerative purposes. Conflictual transactions
 
 Bandura_1e_ch02.indd 89
 
@@ -4526,7 +4526,7 @@ development of empathy and its role as a restrainer of aggression (Bandura &
 Walters, 1959). In their early child rearing, parents of aggressive sons relied
 heavily on fear-based control. They sought to curtail or discourage their sons'
 aggressive conduct by emphasizing the external punishment it would bring
-upon them. In contrast, the parents of prosocial sons cultivated empathicbased control, portraying the consequences of aggressive conduct in terms
+upon them. In contrast, the parents of prosocial sons cultivated empathic-based control, portraying the consequences of aggressive conduct in terms
 of the injury and suffering it brings to others. In handling problems of misconduct, parental socialization practices that direct attention to the suffering
 inflicted on others foster development of empathic perspective taking and
 prosocial behavior (Bandura & Walters, 1959; Hoffman, 2001; Mussen &
@@ -4899,7 +4899,7 @@ of their culpability or the harmful effects of their actions. We saw earlier
 how obvious questions that would reveal blameworthy information went
 unasked so that individuals would not find out what they did not want to
 know. Not all genuine self-deception is entirely intrapsychic. It can be aided
-by the way social systems are structured. Recall the examples in which upperechelon officials were surreptitiously kept uninformed by building deniability into the chain of responsibility. As we have seen, implicit agreements and
+by the way social systems are structured. Recall the examples in which upper-echelon officials were surreptitiously kept uninformed by building deniability into the chain of responsibility. As we have seen, implicit agreements and
 complex social arrangements are created to keep officials uninformed about
 what functionaries are doing. These types of self-shielding maneuvers leave
 the foreseeable unforeseen and the knowable unknown.
@@ -5158,7 +5158,7 @@ consequences did not wipe out the learning, thus leaving it available for future
 use, given sufficient incentive to do so. As previously noted, these experimental studies were designed to clarify the process of observational learning. The
 methodology for measuring learning effects requires conditions in which the
 observers feel free to reveal all they have learned. In the case of aggression, this
-requires simulated targets rather than retaliative ones. Using human targets
+requires simulated targets rather than retaliatory ones. Using human targets
 to assess the instructional function of media influence would be as absurd as
 requiring pilots to bomb San Francisco, New York, or other inhabited locations
 to test their level of acquisition of bombing skills.
@@ -5372,7 +5372,7 @@ A distant cause can be reflected in behavior years later through the
 conjoining processes it sets in motion that shape the future. To the extent
 that heavy viewing of televised violence fosters aggressive styles of behavior, it influences how individuals construe troublesome events, the quality
 of their interpersonal relationships, and the types of social environments
-they construct. Behaving aggressively generally draws rejective or hostile
+they construct. Behaving aggressively generally draws rejecting or hostile
 reactions from others (Dodge, 1991; Patterson, 1986; Raush, 1965; Raush,
 Barry, Hertel, & Swain, 1974). Through such transactional processes aggressive individuals create hostile environments, whereas those who behave in a
 friendlier manner create amiable social milieus. Thus, by fostering aggressive
@@ -5448,7 +5448,7 @@ emotive crowd scenes between rounds. The two groups did not differ in their
 emotional reactivity at baseline, to a daring ski run, or to the animated but
 nonviolent crowd scenes between rounds. However, the brutal beating was less
 physiologically upsetting for heavy viewers of television than for light viewers.
-That exposure to fictional violence blunts emotional upsetness to observed actual violence is verified in studies in which level of exposure to fictional violence
+That exposure to fictional violence blunts emotional upset to observed actual violence is verified in studies in which level of exposure to fictional violence
 is varied experimentally (Thomas, Horton, Lippincott, & Drabman, 1977).
 
 Research on habituation effects examines people's willingness to take
@@ -5610,7 +5610,7 @@ SYSTEMIC MORAL DISENGAGEMENT
 Various survey studies have shown that the American televised world is a
 rich source of violence. Gerbner (1972b), who has conducted the most comprehensive yearly analyses of televised violence, reports a stable violence rate
 of eight assaults per hour, with approximately 66% of dramatic programs
-containing violent activity involving either commiters or victims of violence.
+containing violent activity involving either perpetrators or victims of violence.
 
 Bandura_1e_ch03.indd 118
 
@@ -5779,7 +5779,7 @@ were replaced by "morally repellent pseudoscientific space fantasies" (Cantor,
 programming. The industry opted for nonviolent content with some educational value for children, much to the relief of writers: "You get sick doing
 that crap. We had to do it for two years because that is what the network
 wanted. For a while, from every studio, all programs were the superhero
-variety. We were glad when this phase ended because it had created a penetrance of violence. . . . We are now using our brains coming up with ways of
+variety. We were glad when this phase ended because it had created a pervasiveness of violence. . . . We are now using our brains coming up with ways of
 doing things that do not rely on smashing, hitting, and banging. . . . Now we
 are enjoying our work" (Cantor, 1972).
 
@@ -6110,7 +6110,7 @@ modeling likewise reduces aggressiveness in aggressive delinquents (Leyens
 et al., 1975).
 
 There was no uncertainty about the innocence of the media in Oliver
-Treyz's mind; he repudiated any adverse effects: "I have no feeling about
+Treyze mind; he repudiated any adverse effects: "I have no feeling about
 any ABC programs having an ill effect on members of our society"(Senate
 Hearings, 1962). Under the mistaken idea that studies of televised violence
 are devoid of control groups, some producers dismissed reported empirical
@@ -6384,7 +6384,7 @@ relations between viewing violence and aggressive behavior to preexisting
 dispositions of viewers. This placed the cause entirely in the viewer. It is not
 that televised violence fosters aggression, he argued, but rather that viewers'
 dispositions drive them to violent programs. However, the nature of the disposition was left in foggy ambiguity: "[C]ertain personality traits lead to a
-taste for violent media material, and . . . this material serves some sort of illunderstood function" (Baker & Ball, 1969).
+taste for violent media material, and . . . this material serves some sort of misunderstood function" (Baker & Ball, 1969).
 
 Parents also are blamed for any adverse effects of televised violence.
 Viewed from a producer's perspective, "Are kids from unstable environments triggered by television violence? They're [sic] not having parents is a
@@ -6670,7 +6670,7 @@ scene should go by someone who got an A in English composition back in
 Kalamazoo" (Baldwin & Lewis, 1972).
 
 Having belittled the overseers of their scripts, producers fought to overrule their judgments: "We never let the network decide, if we can help it—
-not for conscience's sake, but for effective operating procedure. We fight
+not for conscience sake, but for effective operating procedure. We fight
 them as hard as we can in regard to their absolutely asinine decisions. You
 can get away from the rules by going to the top." The irate critic adds a bit of
 sexism: "It's useless to argue with a shop girl, so you go to the store manager.
@@ -6939,7 +6939,7 @@ personalize the valuation and legitimization of aggressive conduct. As the
 former FCC commissioner Nicholas Johnson has observed, the social costs of
 dealing heavily in violence are not only the untoward effects. An even greater
 casualty, he explained, is the squandered opportunities to use this powerful
-vehicle for human understanding and betterment. Chapter 8 reviews mediabased social applications worldwide in which television serves as a powerful
+vehicle for human understanding and betterment. Chapter 8 reviews media-based social applications worldwide in which television serves as a powerful
 force for good.
 
 Bandura_1e_ch03.indd 148
@@ -7260,7 +7260,7 @@ Sandra Froman (2007) equated guns with freedom of speech and continued
 the metaphoric theme throughout her talk: "Now I'm sure you expected the
 President of the NRA to talk about guns, and I'll get to that. But the fight
 over your right to keep and bear arms and the fight over your right to speak
-out and make a difference are all a part of the same fight to protect and preserve the freedom that we Americans have as our brithright." People came
+out and make a difference are all a part of the same fight to protect and preserve the freedom that we Americans have as our birthright." People came
 to hear Froman address gun issues being debated nationally. Instead, they
 heard a diversional lecture devoted mainly to safeguarding the First Amendment. The students provided a forum for the NRA president to speak freely
 on gun issues.
@@ -7385,7 +7385,7 @@ The Gun Industry 159
 Heston used the Nazi persecution of the Jews in comparative justification
 for people arming themselves. He likened gun-regulation advocates to the
 Gestapo in terms of their pervasive dictatorial power: "I remember when
-European Jews feared to admit their faith. The Nazis forced them to wear sixpointed yellow stars sewn on their chests as identity badges. It worked. . . .
+European Jews feared to admit their faith. The Nazis forced them to wear six-pointed yellow stars sewn on their chests as identity badges. It worked. . . .
 So what color star will they pin on our coats? How will the self-styled elite
 tag us? There may not be a Gestapo officer on every street corner yet, but the
 influence on our culture is just as pervasive" (Heston, 1997).
@@ -7904,7 +7904,7 @@ with children in matched control schools that did not offer the program,
 those who had the benefit of this early developmental aid were more likely
 to remain in school, were less likely to repeat grades, had higher academic
 achievement, and were less likely to commit violent crimes, take up heavy
-drinking, father a baby, or give birth to one. The children from poor, crimeridden areas benefitted the most. Society can provide prosocial guidance
+drinking, father a baby, or give birth to one. The children from poor, crime-ridden areas benefitted the most. Society can provide prosocial guidance
 for children living in disadvantaged conditions or pay dearly later. Youth
 violence is better reduced by investment in education than investment in
 incarceration.
@@ -8099,7 +8099,7 @@ are being held.
 
 The gun lobby is bringing pressure to bear on legislators to deny localities the right to enact ordinances that place any restrictions on guns (Good
 sense in Tennessee, 2009). Revoking local jurisdiction by preemptive legislation shifts local control to state legislators, who are more easily influenced
-by lobbyists. Safety concerns have roused the public in the otherwise gunfriendly state of Tennessee to confront their politicians on whether they will
+by lobbyists. Safety concerns have roused the public in the otherwise gun-friendly state of Tennessee to confront their politicians on whether they will
 side with the gun lobby or with their constituents. As one mother put it at
 a local hearing, "Are you going to hear the voices of the unarmed?" (Good
 sense in Tennessee, 2009). This example foreshadows the types of challenges
@@ -8448,7 +8448,7 @@ Todd Rathner, a Tucson, Arizona NRA national board member, threatened
 to sue the city for illegally destroying guns. The city attorney countered that
 the law applies to guns seized by police, not to guns turned in voluntarily by
 their owners. If the city did not comply, Rathner warned, he would get state
-lawmakers to pass a law to prohibit the practice. In a show of power, he asserted, "[W]e'll pursue it either through litigation or legislation" (DaRonco,
+lawmakers to pass a law to prohibit the practice. In a show of power, he asserted, "[W]We'll pursue it either through litigation or legislation" (DaRonco,
 2012). Gun promoters would not welcome images of long lines of people
 turning in their guns. This effort to suppress a voluntary benign activity that
 is privately funded appeared to be more concerned with image management
@@ -8563,7 +8563,7 @@ armed volunteers in every school in the nation. Teachers could be armed
 as well.
 
 The NRA's press conference and La Pierre's appearances on national talk
-shows did not go well. The tragedy was too horrific to be neutralized by oftused moral justifications for lax gun regulations. Congressman Tim Murphy,
+shows did not go well. The tragedy was too horrific to be neutralized by oft-used moral justifications for lax gun regulations. Congressman Tim Murphy,
 who represents the Newtown district, described the transcript of LaPierre's
 news conference, which he received while leaving the funeral of one of the
 
@@ -9548,7 +9548,7 @@ who was reluctant to use the nolo plea on the grounds that it disrespected
 the law and the public's desire for justice. He persuaded the attorney general
 to reject nolo pleas because they are not an admissions of guilt.
 
-The sins of willful omission by chief executives resulted in neither personal fines nor long jail sentences. The electrical corporations paid mediumsize fines, as did a number of their managerial officials. Those more deeply
+The sins of willful omission by chief executives resulted in neither personal fines nor long jail sentences. The electrical corporations paid medium-sized fines, as did a number of their managerial officials. Those more deeply
 involved in the conspiracy received light prison sentences as well, although
 virtually all of the sentences were suspended. In corporate cultures where
 unlawful behavior is profitable and top executives are shielded from the
@@ -9744,7 +9744,7 @@ listed projects in which they used the Sontag connector. However, this seemingly
 connector. This is a surprisingly high level of fraud with applicants claiming
 proficiency on a contrivance that does not exist!
 
-Wexler's (2006) ethnographic study of résumé fraudsters in high managerial positions sheds some light on how lying can be transformed into an indicant of admirable occupational attributes. These executives were dismissed
+Wexler's (2006) ethnographic study of résumé fraudsters in high managerial positions sheds some light on how lying can be transformed into an indicator of admirable occupational attributes. These executives were dismissed
 after their résumé deceptions were discovered. This deceit apparently carried no moral stigma, because they found even higher-paying jobs within a
 few months. The fraudsters recruited the entire set of moral disengagement
 
@@ -9937,7 +9937,7 @@ The Corporate World 217
 Rajaratnam: Big-Time insider Trading
 
 In 2011, amid global financial losses tied to devalued mortgage-based
-securities, Raj Rajaratnam, the head of the Galleon Group and a hedgefund billionaire superstar, was convicted under racketeering law for
+securities, Raj Rajaratnam, the head of the Galleon Group and a hedge fund billionaire superstar, was convicted under racketeering law for
 engaging in the largest insider trading conspiracy in U.S. history. The
 legal term for this type of criminality is "trading on material, nonpublic
 information." Rajaratnam cultivated a large network of insider tipsters
@@ -10318,7 +10318,7 @@ brought down financial systems worldwide. Paul Krugman (2011) demonstrates the g
 The Dodd-Frank Wall street Reform and
 Consumer Protection Act
 
-The magnitude of the economic crisis shattered faith in the heralded selfcorrective power of the free market. But it did not diminish the efforts
+The magnitude of the economic crisis shattered faith in the heralded self-corrective power of the free market. But it did not diminish the efforts
 of Wall Street to water down legislative regulatory initiatives designed to
 rein in the financial industry. Despite the disastrous human consequences
 and the urgent need for reforms, efforts to enact financial regulations met
@@ -11389,7 +11389,7 @@ The Corporate World 249
 depicting smoking with this positive imagery. Through the power of social
 modeling, popular movie actors further influenced youngsters to take up
 smoking by agreeing to smoke in their movies in exchange for money and
-expensive gifts, a practice that began in the 1920s (Proctor, 2012). Pop celebraties are enlisted as endorsers of e-cigarettes (Elliot, 2013).
+expensive gifts, a practice that began in the 1920s (Proctor, 2012). Pop celebrities are enlisted as endorsers of e-cigarettes (Elliot, 2013).
 
 Congress defeats legislative efforts to regulate tobacco products and their
 advertising. The more tobacco money legislators receive, the more dutifully they block regulatory legislation (Moore, Lindes, Wolfe, & Douglas,
@@ -11502,7 +11502,7 @@ Sales are rising sharply, especially among adolescents (Tavernise, 2015b).
 E-cigarettes have become popular amid ambiguity about whether regulations governing traditional cigarettes apply to e-cigarettes as well. In a series of articles, Richtel reviewed at length the lively debates on what e-cigarettes should be called and whether they should be regulated and taxed.
 Advocates argue that e-cigarettes should be construed as "vapor products,"
 not "tobacco products." To avoid any likeness, they call cigarettes "vape
-pens" and "hookahs," referring to a waterpipe that vaporizes flavored tobacco. Surprisingly, several states have ruled that e-cigarettes are not a tobacco product. In camouflaging prose, many other states have ruled that ecigarettes do not belong in the "tobacco category" (Richtel, 2014d). This is a
+pens" and "hookahs," referring to a waterpipe that vaporizes flavored tobacco. Surprisingly, several states have ruled that e-cigarettes are not a tobacco product. In camouflaging prose, many other states have ruled that e-cigarettes do not belong in the "tobacco category" (Richtel, 2014d). This is a
 peculiar exemption given that nicotine, which is extracted almost entirely
 from tobacco, is almost the sole ingredient in e-cigarettes. These rulings say
 
@@ -11591,7 +11591,7 @@ evidence of its effects is available.
 
 A further complicating factor in evaluating the effects of e-cigarettes is
 the speed of changes in smoking technology and style of smoking. These
-are described by Richtel (2014c) in his article on the "new smoke." Vapored
+are described by Richtel (2014c) in his article on the "new smoke." Vaporized
 nicotine provides a weaker nicotine rush than do traditional cigarettes. The
 changes are designed to intensify the nicotine rush. In one innovation,
 
@@ -11740,7 +11740,7 @@ Office sometimes slips out information to the newspapers" (Lind, 1923). The
 term ethyl caught on and was used in marketing and research publications
 for decades.
 
-A public outcry arose over the health hazards of lead after several leadfactory workers were injured or killed. The lead industry responded with
+A public outcry arose over the health hazards of lead after several lead factory workers were injured or killed. The lead industry responded with
 ad hominem attacks. Dr. H. C. Parmelee, the editor of Chemical and Metallurgical Engineering, was quoted in the New York Times:
 
 It is a little short of a calamity, therefore, that the train of events of
@@ -11797,7 +11797,7 @@ is evidently far below the 'threshold' of toxicity" (Hayhurst, 1925).
 More recent research, however, has demonstrated that even minute levels of
 lead poisoning affect neurological functioning, particularly in children, because
 of their small size and developing bodies. During the 1970s, Herbert Needleman
-and others demonstrated that even at blood-lead levels lower than 60 microg/
+and others demonstrated that even at blood-lead levels lower than 60 micrograms/
 dL, lead could decrease IQ and affect behavior. These levels that are not sufficient to produce the clinically obvious symptoms (renal failure, anemia,
 convulsions, etc.) that had been the focus of discussion in earlier years (Needleman et al., 1979). More recent research "suggests that there is no safe threshold
 for the toxicity of lead in the central nervous system" (Landrigan, 2000).
@@ -11876,7 +11876,7 @@ liver cancer, leukemia, and brain cancer.
 
 When questions were raised about vinyl chloride's potential dangers,
 members of this chemical industry sought to shift the focus from concern
-over the carcinogenity of vinyl chloride to its vast human benefits. At an
+over the carcinogenicity of vinyl chloride to its vast human benefits. At an
 industry meeting discussing a proposed speech on "Industrial Problems in
 Environmental Health," Dr. A. Fleming advocated reframing the issue in the
 public debate: "[T]he speech should cite the benefits to mankind through
@@ -11943,7 +11943,7 @@ except for beauticians and can-fillers" (Wheeler, 1977b).
 The occurrence of malignancies in factory workers was attributed to
 genetic aberrations. In commenting on an epidemiological study done for
 MCA that showed increased incidence of cancers among PVC workers,
-W. D. Harris, an industrial taxologist at Uniroyal, questioned the evidence
+W. D. Harris, an industrial toxicologist at Uniroyal, questioned the evidence
 because the cancer incidence did not seem to be dose-related. He opted for
 genetic predisposition: "There just is a suggestion that people who for some
 reason are susceptible to cancer will be affected and die within this period of
@@ -12098,7 +12098,7 @@ Bandura_1e_ch05.indd 264
 The Corporate World 265
 
 The use of respiratory masks as the first line of defense against silicosis has
-long been a contentious issue in the dusty trades. Traditional engineering controls included exhaust and ventilation systems, physical separation of dustproducing processes such as sand blasting, and administrative improvements,
+long been a contentious issue in the dusty trades. Traditional engineering controls included exhaust and ventilation systems, physical separation of dust-producing processes such as sand blasting, and administrative improvements,
 such as rotating workers in the dusty areas of a factory. However, these controls did not keep pace with the advances in high-speed sand blasting, which
 created ever more dust throughout factories. Smaller shops often could not
 afford the engineering improvements needed. The masks themselves are difficult to wear during an entire sweltering workday. Army Corps of Engineers
@@ -12920,7 +12920,7 @@ a "conscience round," is intended to allay guilt because no one in the squad
 will know who fired the fatal shot (Firing squad, n.d.).
 
 Electrocution replaced hanging as supposedly more humane, although
-the sight of the condemned's popped eyeballs, bloody vomit, and burning
+the sight of the condemned popped eyeballs, bloody vomit, and burning
 flesh is anything but humane. In electrocution, members of the execution
 team diffuse responsibility by each strapping different parts of the body to
 the electric chair. Lethal injection, in turn, replaced electrocution because it
@@ -12973,7 +12973,7 @@ Some of the fiercest disputes about capital punishment center on the utilitarian
 The issue concerning deterrence is not whether the threat of punishment by
 death deters homicides and other serious crimes but whether it does so more
 effectively than life imprisonment. It is the alleged unique deterrent influence of the death penalty that is disputed. Advocates of the death penalty
-contend that executions save lives by deterring homicides. Oppositionists
+contend that executions save lives by deterring homicides. Opponents
 argue that there is no credible evidence that it does so. Resolving this dispute empirically is not as straightforward as it may appear. Society is not at
 liberty to conduct randomized experiments in which half of the condemned
 prisoners in one region are executed and the other half are assigned to life
@@ -13474,7 +13474,7 @@ large numbers those it sentences to die for their crimes.
 The decisiveness of jury verdicts has been further weakened in the state
 of Alabama, where judges are granted authority to override them. Alabama
 judges are elected by the public rather than being appointed by the governor. This arrangement makes judges highly vulnerable to political pressures.
-Their record of judicial activism seems to bear this out (Editoral, 2013).
+Their record of judicial activism seems to bear this out (Editorial, 2013).
 
 Bandura_1e_ch06.indd 295
 
@@ -13784,7 +13784,7 @@ e
 
 –0.4
 
-Noninvovled
+Noninvolved
 Support team
 Execution team
 
@@ -14605,7 +14605,7 @@ to change one's ways if one is doing no harm. Harm management takes
 an entirely different form in terrorism. As we have seen, terrorists usually
 magnify the harm they cause. The purpose of terrorist violence is to cause
 wide-scale destruction to compel access to an international forum to air the
-groups' grievances, justify the desperateness of the extreme means, and
+groups' grievances, justify the desperation of the extreme means, and
 stress the need to redress the inhumane and humiliating maltreatment of
 those victimized by oppressive social systems.
 
@@ -15792,7 +15792,7 @@ The comparative use of the war metaphor also supported restrictions
 on privacy rights and civil liberties in combating terrorists. Justification by
 advantageous historical comparison vindicated the restrictions. The public was reminded that Abraham Lincoln did this during the Civil War, and
 Franklin D. Roosevelt did so during World War II. When people feel threatened, concern for personal safety outweighs protection of privacy rights
-and civil liberties. Indeed, the public generally supported antiterorrism laws
+and civil liberties. Indeed, the public generally supported antiterrorism laws
 granting the government broad domestic surveillance powers to access,
 scan, and profile information on personal activities without public oversight
 and accountability (Langer, 2005).
@@ -16161,7 +16161,7 @@ officer retired, several top officials resigned, and Ethics Director Stephen
 Behnke, who played a key role in the behind the scenes collusion with the
 DoD, was fired. APA overwhelming approved a stringent code of ethics that
 banned psychologists from participating not only in harsh interrogations but
-in noncoversive interrogations as well (Risen, 2015b).
+in noncoercive interrogations as well (Risen, 2015b).
 
 The massive report by the Senate Select Committee on Intelligence
 (2014) documented that in no case did torture yield unique information
@@ -16523,7 +16523,7 @@ of the caliphate. At a graduation ceremony the children were celebrated as a
 "generation of lions, protectors of religion, dignity and land" (Hilburn, 2014).
 To model gruesome killings and desensitize revulsion to them, children
 were shown videos and witnessed beheadings and stonings. For one training session, after viewing beheading videos, the youth practiced beheadings on three captured Syrian soldiers. As described by a child attendee who
-defected, "[a]fterward, the teachers ordered the students to pass around the
+defected, "[a]afterward, the teachers ordered the students to pass around the
 severed heads" (Belz, 2015). Gruesome behavior was likened to an ordinary
 culinary practice: "It was like learning to chop an onion. You grab him by
 the forehead and then slowly slice across the neck" (Belz, 2015). Another
@@ -17268,7 +17268,7 @@ countries was caused by corrupt governments and faulty distribution systems, not
 In his defense, Ehrlich argued that his forecasts were scenarios of possible outcomes, not explicit predictions. However, critics easily refuted his
 forecasts, because the proposed time frame was too short for catastrophic
 effects to occur. In a wager that was billed as a battle between Malthusians
-and Cornucopians, Ehrlich bet his archcritic, the economist Julian Simon,
+and Cornucopians, Ehrlich bet his arch-critic, the economist Julian Simon,
 that the price of five commodity metals would rise over a decade. Ehrlich
 lost the bet. Conservative critics proclaimed that the population bomb had
 been successfully defused. It was not that Ehrlich's concern over the adverse
@@ -17724,7 +17724,7 @@ The journalist and author Edwin Diamond (1963) invested Silent Spring
 with nefarious evocative power. It "stirs the latent demons of paranoia," in
 which some "wicked 'they' were out to get 'us.'" Diamond disparaged not
 only Carson but also environmental advocates, linked stereotypically to the
-"anti-fluoridation leaguers, the organic-garden faddists and other beyondthe-fringe groups." He also criticized her, given the state of the evidence at
+"anti-fluoridation leaguers, the organic-garden faddists and other beyond-the-fringe-fringe groups." He also criticized her, given the state of the evidence at
 the time, for linking chemical pesticides to cancer. Economic libertarians have
 continued to condemn Silent Spring, arguing that environmental regulations
 infringe on Americans' freedom to run their businesses as they see fit.
@@ -18244,7 +18244,7 @@ warming. I doubt that the metaphoric "footprint" rouses much of anything.
 Displacement and Diffusion of Responsibility
 
 Moral control comes into play when people acknowledge that they are contributing to harmful outcomes. When they shift the responsibility for the
-harm they cause to others or to external factors, they spare themselves selfreproach. It is easy to discern personal causation when one's actions produce
+harm they cause to others or to external factors, they spare themselves self-reproach. It is easy to discern personal causation when one's actions produce
 highly noticeable, local effects in the short term. It is difficult to do so when
 the relationship between action and outcome is too slow to be noticeable
 and is obscured by intertwined chains of causation that take a long time to
@@ -18551,7 +18551,7 @@ President Obama's original cap-and-trade proposal fell victim to the culture war
 for environmental protection, they claimed, was a subterfuge to impose
 taxes on families that could ill afford it: "An economy-wide tax under the
 cover of saving the environment is the best political moneymaker since
-the income tax" (Who pays, 2009). Critics further reconstrued the cap-andtrade program as an infringement on freedom in which the government
+the income tax" (Who pays, 2009). Critics further reconstrued the cap-and trade program as an infringement on freedom in which the government
 manufactures a right to pollute that industries are then forced to buy. "Once
 the government creates a scarce new commodity—in this case the right to
 emit carbon—then mandates that businesses buy it, the costs would inevitably be passed on to all consumers in the form of higher prices" (Who
@@ -18564,7 +18564,7 @@ the irony that free-market proponents, who fervently believe that the "market ca
 reduce carbon emissions for political reasons.
 
 Many analyses have compared the relative merits of an outright carbon
-tax and the cap-and-trade system. Even Thomas Crocker, who cocreated the
+tax and the cap-and-trade system. Even Thomas Crocker, who co-created the
 cap-and-trade approach, acknowledges that it has some limitations. It is difficult to develop the permit exchanges; to link the system to myriad sources
 of pollution; to know how high to set the carbon permit prices; and to know
 how many carbon allowances to give the main industrial polluters. Further
@@ -18609,7 +18609,7 @@ others at the present time (Leiserowitz, Maibach, Roser-Renouf, Feinberg, &
 Rosenthal, 2014). This is not a pattern of beliefs that is enduringly motivating for environmental conservation.
 
 However, global warming has become a partisan issue. For the most part,
-individuals with a conservative worldview are more skeptical of humancaused global warming, whereas the liberal-oriented acknowledge it.
+individuals with a conservative worldview are more skeptical of human caused global warming, whereas the liberal-oriented acknowledge it.
 Staunch supporters of initiatives to curb the earth's warming believe that it
 is real, human caused, harmful, and solvable (Ding, Maibach, Zhao, Roser-
 Renouf, & Leiserowitz, 2011).
@@ -18780,7 +18780,7 @@ Myron Ebell (2006), one of the most prominent critics of climate science,
 extols the benefits of global warming. He argues that it makes life more
 pleasant for people in northern regions. Moreover, he claims, cold spells kill
 more people than do heat waves. For him, therefore, a bit of global warming not only saves lives but also makes life more pleasant. As he explains
-it somewhat self-centeredly, "Given our obvious preference for living in
+it somewhat self-self-centeredly, "Given our obvious preference for living in
 warmer climates as long as we have air-conditioning, I doubt that we're
 going to go on the energy diet that the global warming doomsters urge us
 to undertake."
@@ -18939,7 +18939,7 @@ small plot. In desperation he turns to poaching gorillas, which lands him in
 even more serious trouble. Eventually, with the help of a neighbor, he is able
 to resolve his difficulties (Population Media Center, 2007).
 
-The psychosocial approach to fostering societywide changes consists of
+The psychosocial approach to fostering society-wide changes consists of
 three major components. The first component is a theoretical model based
 on social cognitive theory (Bandura, 1986). It specifies the determinants
 of psychosocial change and the mechanisms through which those determinants produce their effects. This knowledge provides the guiding principles.
@@ -19365,7 +19365,7 @@ Prebroadcast
 During
 broadcast
 
-Postbroadcast
+Post broadcast
 
 .4  National sales of contraceptives in the two years preceding the serial drama promoting
 family planning and during the year it was broadcast. Drawn from data in Sabido (Institute for
@@ -19451,7 +19451,7 @@ Bandura_1e_ch08.indd 426
 
 Environmental Sustainability 427
 
-spousal communication about family size, and increased use of familyplanning services and adoption of contraceptive methods (Rogers et al., 1999).
+spousal communication about family size, and increased use of family planning services and adoption of contraceptive methods (Rogers et al., 1999).
 .6 shows the mean number of adopters of contraceptive methods per clinic over time in the broadcast and control regions. Both regions
 increased slightly at the same rate during the three-year prebroadcast
 period. The adoption rate increased only slightly in the control region but
@@ -19530,7 +19530,7 @@ a
 Broadcast region
 Control region
 
-.6  Mean number of new family planning adopters per clinic in the ministry of Health Clincs
+.6  Mean number of new family planning adopters per clinic in the ministry of Health Clinics
 in the broadcast region and those in the control region. The values left of the dotted line are adoption
 levels prior to the broadcast: The values between the dotted lines are adoption levels when the serial
 was aired in the broadcast region but not in the control region; the values to the right of the dotted
@@ -19644,7 +19644,7 @@ conserve other natural resources. After a military coup, vested interests that
 opposed these conservation practices apparently forced the serial to be suspended indefinitely (PCI Media Impact, 2009).
 
 In keeping with the rapid changes in modes of communication, weekly
-episodes of the Ecuadorian serial drama Toque magico were uploaded to
+episodes of the Ecuadorian serial drama Toque mágico were uploaded to
 Facebook and YouTube. TV Globo, based in Rio de Janeiro, broadcasts telenovelas dubbed into different languages, reaching hundreds of millions of
 viewers worldwide. Population Media Center helps create social themes that
 can be easily incorporated into these telenovelas, including gender relations,
@@ -20072,7 +20072,7 @@ change their behavior.
 
 In large-scale change programs, the incentives are built into policy initiatives. The incentives for environmental sustainability are not just material
 ones, however. The most powerful are the self-evaluative ones, which are
-rooted in moral values regarding the extinction of other species, the degradation of ecologic systems, and the excessive consumption that make the earth
+rooted in moral values regarding the extinction of other species, the degradation of ecological systems, and the excessive consumption that make the earth
 less habitable for future generations. Value-based incentives add force to the
 social incentives that are codified in the normative structure of a society. To
 gain public support for environmental initiatives, a change program must
@@ -20553,7 +20553,7 @@ Armstrong, L., & Winfrey, O. (2012, May). Oprah talks to Lance Armstrong. O, The
 
 Oprah Magazine. Retrieved from http://www.oprah.com
 
-Arnold, R. (1996). Overcoming ideology. In P. D. Brick & R. McGreggor (Eds.),
+Arnold, R. (1996). Overcoming ideology. In P. D. Brick & R. McGregor (Eds.),
 A wolf in the garden: The land rights movement and the new environmental debate
 (pp. 15–25). Lanham, MD: Rowman & Littlefield.
 
@@ -20675,7 +20675,7 @@ Bandura, A. (1986). Social foundations of thought and action: A social cognitive
 
 Englewood Cliffs, NJ: Prentice Hall.
 
-Bandura, A. (1991a). Self-regulation of motivation through anticipatory and selfreactive mechanisms. In R. A. Dienstbier (Ed.), Perspectives on motivation: Nebraska
+Bandura, A. (1991a). Self-regulation of motivation through anticipatory and self-reactive mechanisms. In R. A. Dienstbier (Ed.), Perspectives on motivation: Nebraska
 Symposium on Motivation (Vol. 38, pp. 69–164). Lincoln: University of Nebraska Press.
 
 Bandura, A. (1991b). Social cognitive theory of moral thought and action. In
@@ -21019,7 +21019,7 @@ E., Morales, J. C., Wackernagel, M., & Galli, A. (2013). Accounting for demand a
 supply of the biosphere's regenerative capacity: The National Footprint Accounts'
 underlying methodology and framework. Ecological Indicators, 24, 518–533.
 
-Boston Marathon bombings: Suspect Dzhokhar Tsarnaev left mesage in boat calling
+Boston Marathon bombings: Suspect Dzhokhar Tsarnaev left message in boat calling
 
 victims "collateral damage." (2013, May 16). CBS News. Retrieved from
 http://www.cbsnews.com
@@ -21618,7 +21618,7 @@ from http://www.defense.gov
 
 Dezhbakhsh, H., Rubin, P. H., & Shepherd, J. M. (2003). Does capital punishment
 
-have a deterrent effect? New evidence from postmoratorium panel data. American
+have a deterrent effect? New evidence from post-moratorium panel data. American
 Law and Economics Review, 5, 344–376.
 
 Diamond, E. (1963, September 28). The myth of the pesticide menace. The Saturday
@@ -21723,7 +21723,7 @@ Dwyer, D. (2013, January 16). NRA President defends ad attacking Obama, vows
 
 "battle" ahead. ABC News. Retrieved from http://abcnews.go.com
 
-Dwyer, J., Neufeld, P., & Scheck, B. (2000). Actual innocence: When justic goes wrong
+Dwyer, J., Neufeld, P., & Scheck, B. (2000). Actual innocence: When justice goes wrong
 
 and how to make it right. New York: Doubleday.
 
@@ -21751,7 +21751,7 @@ Eckert, V. (2015, March 20). European power grids keep lights on during solar
 
 eclipse. Reuters. Retrieved from http://www.reuters.com
 
-Eckholm, E. (2013). In death penalty's steady decline, some experts see a societal
+Eckholm, E. (2013). In death penalty steady decline, some experts see a societal
 
 shift. The New York Times, p. A30.
 
@@ -21837,7 +21837,7 @@ Elder, G. (1994). Time, human agency, and social change: Perspectives on the lif
 
 course. Social Psychology Quarterly, 57, 4–15.
 
-Elliot, S. (2013, August 30). E-cigarette makers' ads echo tobacco's heyday. The New
+Elliot, S. (2013, August 30). E-cigarette makers' ads echo tobacco heyday. The New
 
 York Times, p. B1.
 
@@ -22227,7 +22227,7 @@ Goldstein, J. (2011, December 15). In its latest gun inquiry, city faults online
 
 The New York Times, p. A31.
 
-Goldstein, M., & Protess, B. (2015, April 4). Court rejects Bharara's plea to reconsider insider trading ruling. The New York Times, p. B1.
+Goldstein, M., & Protess, B. (2015, April 4). Court rejects Bharara plea to reconsider insider trading ruling. The New York Times, p. B1.
 
 Gomez, G. (2002). Problems in the timing of conscious experience. Consciousness and
 
@@ -22270,7 +22270,7 @@ Goodstein, L. (2005, March 10). Evangelical leaders swing influence behind effor
 
 to combat global warming. The New York Times. Retrieved from
 
-Goodstein, L. (2007, March 12). Evangelical's focus on climate draws fire of
+Goodstein, L. (2007, March 12). Evangelical focus on climate draws fire of
 
 Christian right. The New York Times, p. A9.
 
@@ -22331,7 +22331,7 @@ Gould, S. J. (1987). An urchin in the storm: Essays about books and ideas. New Y
 
 W. W. Norton.
 
-GRAIN. (2007, June). Stop the agrofuel craze! GRAIN. Retrieved from
+GRAIN. (2007, June). Stop the agro-fuel craze! GRAIN. Retrieved from
 
 http://www.grain.org
 
@@ -22376,7 +22376,7 @@ http://www.theguardian.com
 
 Greiner, K., Singhal, A., & Hurlburt, S. (2007). "With an antenna we can stop the
 practice of female genital cutting": A participatory assessment of Ashreat Al
-Amal, an entertainment-education radio soap opera in Sudan. Investigación y
+Amal, an entertainment-education radio soap opera in Sudan. Investigaciónón y
 Desarrollo, 15, 226–259. Retrieved from http://rcientificas.uninorte.edu.co
 
 Griffith, M. [Marc], Griffith, M. [Michelle], Holland, G. B., Molina, G., &
@@ -22482,7 +22482,7 @@ Harrabin, R. (2015, June 15). China "deserves more credit" for renewable energy
 effort. BBC. Retrieved from http://www.bbc.com
 
 Harré, R., & Gillett, G. (1994). The discursive mind. Thousand Oaks, CA: Sage Publications.
-Harris, W. D. (1971, October 5). [Letter to B. R. Leach, Painesveille]. Retrieved from
+Harris, W. D. (1971, October 5). [Letter to B. R. Leach, Painesville]. Retrieved from
 
 http://www.deceitanddenial.org
 
@@ -22530,7 +22530,7 @@ Heinberg, R., & Lerch, D. (2010). The post carbon reader: Managing the 21st cent
 
 sustainability crises. Healdsburg, CA: Watershed Media.
 
-Hemenway, D. (1998). More guns, less crime: Understanding crime and guncontrol laws [Review of the book Making a killing: The business of guns in America,
+Hemenway, D. (1998). More guns, less crime: Understanding crime and gun control laws [Review of the book Making a killing: The business of guns in America,
 by T. Diaz]. New England Journal of Medicine, 339, 2029–2030.
 
 Hendren, J. (1999, May 1). NRA and protesters face off in Denver. The Washington
@@ -22656,7 +22656,7 @@ Huesmann, L. R., Moise, J., Podolski, C. P., & Eron, L. D. (2003). Longitudinal 
 violence: 1977–1992. Developmental Psychology, 39, 201–222.
 
 Huggins, R. A. (2010). Energy storage. New York: Springer.
-Humphery, K. (2010). Excess: Anti-consumerism in the West. Cambridge: Polity Press, 2010.
+Humphrey, K. (2010). Excess: Anti-consumerism in the West. Cambridge: Polity Press, 2010.
 Hunt, K. (2013, January 30). Background checks take center stage at fractious
 Senate hearing. NBC. Retrieved from http://nbcpolitics.nbcnews.com
 
@@ -23334,7 +23334,7 @@ Markowitz, G., & Rosner, D. (2002). Deceit and denial: The deadly politics of in
 
 pollution. Berkeley: University of California Press.
 
-Markowitz, G., & Rosner, D. (2008). Chronology. Retreived from
+Markowitz, G., & Rosner, D. (2008). Chronology. Retrieved from
 
 http://www.deceitanddenial.org/docs/timeline.pdf
 
@@ -23360,7 +23360,7 @@ Mauriello, T. (2011, December 6). $210 million settlement in Upper Big Branch
 mine explosion. Pittsburgh Post-Gazette. Retrieved from
 http://www.post-gazette.com
 
-Mazza, E. (2014, September 2). Scalia once pushed death penalty for nowexonerated inmate Henry Lee McCollum. The Huffington Post. Retrieved from
+Mazza, E. (2014, September 2). Scalia once pushed death penalty for exonerated inmate Henry Lee McCollum. The Huffington Post. Retrieved from
 
 Mazzetti, M. (2014, October 14). C.I.A. study of covert aid fueled skepticism
 
@@ -23694,7 +23694,7 @@ must do something." NPR. Retrieved from http://www.npr.org
 
 Needleman, H. L., Gunnoe, C., Leviton, A., Reed, R., Peresie, H., Maher, C., &
 
-Barrett, P. (1979). Deficits in psychologic and classroom performance of children
+Barrett, P. (1979). Deficits in psychological and classroom performance of children
 with elevated dentine lead levels. New England Journal of Medicine, 13, 689–695.
 
 Nessell, W. E. (1967). M. D. Monsanto, AMCA Meeting, Ann Arbor, MI.
@@ -23878,7 +23878,7 @@ change in the 2008 recession. The New York Times. Retrieved from
 Pavao, E. (2014). Slavery and the founding fathers. Retrieved from
 
 http://www.revolutionary-war.net/slavery-and-the-founding-fathers.html
-Pavlo, W. (2011, December 21). Primary Global's James Fleishman gets 30 months
+Pavlo, W. (2011, December 21). Primary Global James Fleishman gets 30 months
 
 in prison. Forbes. Retrieved from http://www.forbes.com
 
@@ -24287,7 +24287,7 @@ planning soap operas. Population and Environment, 15, 255–264.
 
 Ryerson, W. N. (1995). Sixteen myths about population growth. Focus, 5, 22–37.
 
-Retrieved from http://www.mediamonitors.net
+Retrieved from http://www.sustainability.net
 
 Ryerson, W. N. (1998). Political correctness and the population problem. Wild Earth,
 
@@ -24338,7 +24338,7 @@ Sanday, P. R. (1997). The socio-cultural context of rape: A cross-cultural study
 L. L. O'Toole & J. R. Schiffman (Eds.), Gender violence: Interdisciplinary perspectives
 (pp. 52–66). New York: New York University Press.
 
-Sander, O. A. (1946). The pneumoconioses. Industrial Medicine & Surgery, 15,
+Sander, O. A. (1946). The pneumoconiosis. Industrial Medicine & Surgery, 15,
 
 528–530.
 
@@ -28333,7 +28333,7 @@ deregulate the regulators, 175,
 
 195–197, 209, 225–226, 228–238
 
-dismantle placemeal, 226, 227
+dismantle piecemeal, 226, 227
 
 Utilitarianism, 26
 

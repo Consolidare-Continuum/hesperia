@@ -181,7 +181,7 @@ outside my window, all have been made by disassembling and reassembling parts of
 nature. If truth be told, even the sky has been colored by pollution, and the stand of
 trees has been oddly shaped to conform to the space allotted by development. Virtually
 all urban sensual experience has been touched by human hands, and thus the vast
-majority of us experience the physical world, at least, as ltered through the process of
+majority of us experience the physical world, at least, as filtered through the process of
 design.
 
 Given that so much of our perception involves made things, it is reasonable to ask
@@ -232,7 +232,7 @@ conspicuous of them would but lead to a lot of loose ends. Where practitioners h
 written or spoken for the record, their works are referenced in my bibliography, as are
 all those in which I can recall having read support for my thesis. By their example and
 encouragement, certain writers, engineers, and historians of technology have been
-especially instrumental in inuencing this book, and I must single out Freeman Dyson,
+especially instrumental in influencing this book, and I must single out Freeman Dyson,
 Eugene Ferguson, Melvin Kranzberg, and Walter Vincenti for their support.
 
 A book naturally takes time and space to write, and I am indebted to a fellowship
@@ -270,7 +270,7 @@ the origins and evolution of all made things. And seeking answers can provide in
 into the nature of technological development generally, for the forces that have shaped
 place settings are the same that have shaped all artifacts. Understanding the origins of
 diversity in pieces of silverware makes it easier to understand the diversity of
-everything from bottles, hammers, and paper clips to bridges, automobiles, and nuclearpower plants. Delving into the evolution of the knife, fork, and spoon can lead us to a
+everything from bottles, hammers, and paper clips to bridges, automobiles, and nuclear power plants. Delving into the evolution of the knife, fork, and spoon can lead us to a
 theory of how all the things of technology evolve. Exploring the tableware that we use
 every day, and yet know so little about, provides as good a starting point for a
 consideration of the interrelated natures of invention, innovation, design, and
@@ -288,13 +288,13 @@ At rst, no doubt, they were animals as far as their table manners were concerned
 so we can assume that the way we see real animals eat today gives us clues as to how
 the earliest people ate. They would use their teeth and nails to tear opieces of fruits,
 vegetables, sh, and meat. But teeth and nails can only do so much; they alone are
-generally not strong enough or sharp enough to render easily all things edible into bitesized pieces.
+generally not strong enough or sharp enough to render easily all things edible into bite-sized pieces.
 
 The knife is thought to have had its origins in shaped pieces of flint and obsidian, very
 
 hard stone and rock whose fractured edges can be extremely sharp and thus suitable to
 scrape, pierce, and cut such things as vegetable and animal esh. How the ecacious
-properties of ints were rst discovered is open to speculation, but it is easy to imagine
+properties of flints were rst discovered is open to speculation, but it is easy to imagine
 how naturally fractured specimens may have been noticed by early men and women to
 be capable of doing things their hands and ngers could not. Such a discovery could
 have occurred, for example, to someone walking barefoot over a eld and cutting a foot
@@ -365,7 +365,7 @@ a very sharply pointed butcher knife with a bare wooden handle.
 I followed the lead of the Aggies I was with and picked up a piece of brisket with the
 point of the knife and laid it atop a piece of bread. (In medieval times, the piece of
 bread, called a "trencher," would have been four days old to give it some stiness and
-body, the better to hold the meat and sauce.) We proceeded to cut obite-sized pieces of
+body, the better to hold the meat and sauce.) We proceeded to cut bite-sized pieces of
 this open-faced sandwich, and everything else set before us, and it all was delicious. The
 single knife worked well, because it was very sharp and could be pressed through the
 rm food, which itself did not slip much on the paper. However, I was quite distracted
@@ -375,7 +375,7 @@ hope that no one would come up behind us and give us a good pat on the back just
 we were putting our knives into our mouths.
 
 Eating a meal with two knives might seem to have been doubly crude and dangerous,
-but in its time it was thought of as the height of renement. For the most formal dining
+but in its time it was thought of as the height of refinement. For the most formal dining
 in the Middle Ages, a knife was grasped in each hand. For a right-handed person the
 knife in the left hand held the meat steady while the knife in the right hand sliced oan
 appropriately sized piece. This piece was then speared and conveyed to the mouth on
@@ -405,7 +405,7 @@ cutting, led to the development of the fork. While ceremonial forks were known t
 Greeks and Romans, they apparently had no names for table forks, or at least did not
 use them in their writings. Greek cooks did have a "esh-fork … to take meat from a
 boiling pot," and this kitchen utensil "had a resemblance to the hand, and was used to
-prevent the ngers from being scalded." Ancient forklike tools also included the likes of
+prevent the ngers from being scalded." Ancient fork-like tools also included the likes of
 hay forks and Neptune's trident, but forks are assumed not to have been used for dining
 in ancient times.
 
@@ -443,19 +443,19 @@ they cut their meat. For while with their knife which they hold in one hand they
 meat out of the dish, they fasten the fork, which they hold in their other hand, upon the
 same dish; so that whatsoever he be that sitting in the company of any others at the
 meal, should unadvisedly touch the dish of meat with his ngers from which all at the
-table do cut, he will give occasion of oense unto the company, as having transgressed
+table do cut, he will give occasion of offense unto the company, as having transgressed
 the laws of good manners, insomuch that for his error he shall be at least brow beaten if
 not reprehended in words. This form of eating I understand is generally used in all
 places of Italy; their forks being for the most part made of iron or steel, and some of
 silver, but those are used only by gentlemen. The reason of this their curiosity is,
-because the Italian cannot by any means indure to have his dish touched with ngers,
+because the Italian cannot by any means endure to have his dish touched with ngers,
 seeing all men's ngers are not alike clean. Hereupon I myself thought to imitate the
 Italian fashion by this forked cutting of meat, not only while I was in Italy, but also in
 Germany, and oftentimes in England since I came home.
 
 Coryate was jokingly called "Furcifer," which meant literally "fork bearer," but which
 also meant "gallows bird," or one who deserved to be hanged. Forks spread slowly in
-England, for the utensil was much ridiculed as "an eeminate piece of nery,"
+England, for the utensil was much ridiculed as "an eminent piece of nery,"
 according to the historian of inventions John Beckmann. He documented further the
 initial reaction to the fork by quoting from a contemporary dramatist who wrote of a
 "fork-carving traveller" being spoken of "with much contempt." Furthermore, no less a
@@ -507,7 +507,7 @@ the fork were necessarily some distance apart, and this spacing was somewhat
 standardized. However, small loose pieces of food fell through the space between the
 tines and thus could not be picked up by the fork unless speared. Furthermore, the very
 advantage of two tines for carving meat, their ease of removal, made it easy for speared
-food to slip oearly table forks. Through the introduction of a third tine, not only could
+food to slip nearly table forks. Through the introduction of a third tine, not only could
 
 the fork function more efficiently as something like a scoop to deliver food to the mouth,
 but also food pierced by more tines was less likely to fall off between plate and mouth.
@@ -556,7 +556,7 @@ actions, coupled with the growing widespread use of forks, gave the table knife 
 familiar blunt-tipped blade. Toward the end of the seventeenth century, the blade
 
 curved into a scimitar shape, but this contour was to be modied over the next century
-to become less weaponlike. The blunt end became more prominent, not merely to
+to become less weapon-like. The blunt end became more prominent, not merely to
 emphasize its bluntness but, since the paired fork was likely to be two-tined and so not
 an ecient scoop, to serve as a surface onto which food might be heaped for conveying
 to the mouth. Peas and other small discrete foods, which had been eaten by being
@@ -635,12 +635,12 @@ never been far from the shape of a shell.
 
 The use of the knife, fork, and spoon in late-seventeenth- and early-eighteenthcentury Europe has inuenced some persistent dierences in their use by Europeans and
 Americans today. The introduction of the fork produced an asymmetry in tableware,
-and the question of which implement a diner's right and left hand held could no longer
+and the question of which implement a diner right and left hand held could no longer
 be considered moot. With identical knives in each hand, the diner was able to cut and
 carry food to the mouth with either knife, but, whether by custom or natural inclination,
 right-handedness may be assumed always to have prevailed, and so the knife in the
 right hand not only performed the cutting, which took much more dexterity than merely
-holding the meat steady on the plate, but also speared the cut-omorsel to convey it to
+holding the meat steady on the plate, but also speared the cut-morsel to convey it to
 the mouth. Because it did not need to be pointed, the left-hand knife was sometimes
 blunt-ended and used as a spatula to scoop up looser food or slices of meat. When the
 fork gained currency, it displaced the noncutting and relatively passive knife in the left
@@ -650,7 +650,7 @@ being cut and speared it for lifting to the mouth, a relatively easy motion with
 hand, even for a right-handed person.
 
 By the eighteenth century, the European style of using utensils had become somewhat
-standardized, with the knife in the right hand cutting ofood and sometimes also
+standardized, with the knife in the right hand cutting food and sometimes also
 pushing pieces of it onto the fork, which conveyed it to the mouth. Since the rst forks
 were straight-tined, there was no front or back to them, but shortcomings of this
 ambiguous design soon became evident. Whether food was skewered on or placed across
@@ -696,7 +696,7 @@ spoon being ill suited to pile food upon). When the fork did become available in
 America, its use replaced that of the spoon, and so the customary way of eating with a
 knife and spoon became the way to eat with a knife and fork. In particular, after having
 used the knife to cut, the diner transferred the fork from the left to the right hand,
-turning it over in the process, to scoop up the food for the mouth, for the spoonlike
+turning it over in the process, to scoop up the food for the mouth, for the spoon-like
 scooping action dictated that the fork have the tines curving upward. This theory is
 supported by the fact that when the four-tined fork rst appeared in America it was
 sometimes called a "split spoon." The action of passing the fork back and forth between
@@ -714,7 +714,7 @@ enter the mouth." And since the feeding knife was apparently blunt-tipped, the d
 had to clean their teeth with pocket knives afterward. Just a generation later, the
 
 experiences of Mrs. Trollope's son, Anthony, were quite different. Dining in a Lexington,
-Kentucky, hotel in 1861, he observed not ocers but "very dirty" teamsters who
+Kentucky, hotel in 1861, he observed not officers but "very dirty" teamsters who
 nevertheless
 their knives and
 forks … than … Englishmen of the same rank."
@@ -786,7 +786,7 @@ The formal evolution of artifacts in turn has profound influences on how we use 
 Imagining how the form of things as seemingly simple as eating utensils might have
 evolved demonstrates the inadequacy of a "form follows function" argument to serve as
 a guiding principle for understanding how artifacts have come to look the way they do.
-Reecting on how the form of the knife and fork has developed, let alone how vastly
+Reflecting on how the form of the knife and fork has developed, let alone how vastly
 divergent are the ways in which Eastern and Western cultures have solved the identical
 design problem of conveying food to mouth, really demolishes any overly deterministic
 argument, for clearly there is no unique solution to the elementary problem of eating.
@@ -863,7 +863,7 @@ future perfect can only be a tense, not a thing.
 If this hypothesis is universally valid and can explain the evolution of all made things,
 it must apply to any artifact of which we can think. It must explain the evolution of the
 zipper no less than the pin; the aluminum can no less than the hamburger package; the
-suspension bridge no less than Scotch tape. The hypothesis eshed out must also have
+suspension bridge no less than Scotch tape. The hypothesis fleshed out must also have
 the potential for explaining why some of our most everyday things continue to look the
 way they do in spite of all their obvious shortcomings. It must explain why some things
 change for the worse, and why those things aren't made in the good old way. Some
@@ -921,7 +921,7 @@ cultural factors, is what creates the milieu in which novelty appears among cont
 evolving artifacts.
 
 Adrian Forty has also reected on the multitude of made objects. In Objects of Desire,
-he notes that historians have generally accounted for the diversication of designs in
+he notes that historians have generally accounted for the diversification of designs in
 one of two ways. The rst explanation, albeit a rather circular one, is that there is an
 
 ongoing evolution of new needs created by the development of new designs, such as
@@ -952,7 +952,7 @@ the power or autonomy to inuence "how many or what type of articles should be
 made," although he does agree that designers could determine the form of individual
 articles. Forty's own arguments for the multiplication of things like adjustable chairs
 "place the products of design in a direct relationship to the ideas of the society in which
-they are made." In particular, he identies the capitalists as the proliferators of
+they are made." In particular, he identifies the capitalists as the proliferators of
 diversity: "The evidence is that manufacturers themselves made distinctions between
 designs on the basis of dierent markets." Thus there exists a dictionary situation for
 everyone: designers design, manufacturers manufacture, and diverse consumers
@@ -1006,7 +1006,7 @@ improvisation, a lash-up, something inept and provisional.
 
 Pye is engaging in hyperbole, of course, but all hyperbole has its roots in truth. What
 is at the root of Pye's ranting is that nothing is perfect: If a malfunction occurs in one
-out of a million airline ights, then the aircraft is not perfected in the strictest sense of
+out of a million airline flights, then the aircraft is not perfected in the strictest sense of
 the word. Only tending to airplanes as if they were newborn babes keeps them well
 enough maintained to hold accident rates down. The truly perfected airplane would not
 need maintenance, would y on little fuel, and would last for centuries, if not longer.
@@ -1148,13 +1148,13 @@ today even as craftsmen have become scientically savvy engineers, and even as
 artifacts have grown to the complexity of nuclear-power plants, space shuttles, and
 computers. However, unlike Alexander's agent, who does not necessarily have to make
 changes for the better, when the modern designer or inventor makes a change in an
-artifact, he or she must denitely think it is for the better in some sense. Nevertheless,
+artifact, he or she must definitely think it is for the better in some sense. Nevertheless,
 actual incidents as well as mere perceptions of mist and failure do continue to drive
 the evolution of artifacts, and we can expect that they always will. And it need not be
 only the likes of engineers, politicians, and entrepreneurs who have a hand in shaping
 the world and its things, for we are all specialists in at least a small corner of the world
 of things. We are all perfectly capable of seeing what fails to live up to the promise of
-its designers, makers, sellers, or licensers. Such ideas should be as evident to users of
+its designers, makers, sellers, or licensors. Such ideas should be as evident to users of
 artifacts today as they were to the governed in the days of the Athenian statesman
 Pericles, who observed that "although only a few may originate a policy, we are all able
 to judge it."
@@ -1165,7 +1165,7 @@ the workings of even the most complex of modern technology. Basalla takes the ar
 a s "the fundamental unit for the study of technology," and argues convincingly that
 "continuity prevails throughout the made world." Thus the cover illustration for The
 Evolution of Technology depicts "the evolutionary history of the hammer, from the rst
-crudely shaped pounding stone to James Nasmyth's gigantic steam hammer," with which
+crudely shaped pounding stone to James Nasmyth gigantic steam hammer," with which
 steel forgings of unprecedented size could be made at the culmination of the Industrial
 Revolution. Basalla asserts that the existence of such continuity in all things "implies
 that novel artifacts can only arise from antecedent artifacts—that new kinds of made
@@ -1273,7 +1273,7 @@ and building new equipment, as long as it was done after hours, on his own time.
 soon came up with some obviously improved calibrating equipment and also began to
 
 show his talents in other areas, and so he was given increasing responsibility and
-independence—and he ourished, eventually owning his own company for a while. All
+independence—and he flourished, eventually owning his own company for a while. All
 in all, Rabinow holds 225 patents for devices ranging from self-regulators for watches
 and clocks to the automatic letter-sorting machines used by the Postal Service.
 
@@ -1289,7 +1289,7 @@ phonographs was distorted (because of the way the arm constrained the needle to 
 in the record groove) led to his development of a new needle arm suspension system.
 Problems brought to him by friends proved to be an especially fertile source of ideas for
 new projects. With a prolific inventor like Rabinow, there appears to be little separation
-between home, social, and professional life, as testied to by the location of his home
+between home, social, and professional life, as testified to by the location of his home
 workshop just off his living room.
 
 Sometimes Rabinow gets quite explicit about the nature of his type: "Inventors are
@@ -1338,7 +1338,7 @@ things better. When asked what challenge he would turn down, MacCready responded
 "A much better bicycle. There are several avenues to follow there, and I've built some,
 and none of them satised me." Though it is implicit in this response that existing
 bicycle designs are imperfect, some design questions are more easily asked than
-denitively answered. Inventors are seldom at a loss for problems, and so they must
+definitively answered. Inventors are seldom at a loss for problems, and so they must
 choose which ones they will work on.
 
 Nathaniel C. Wyeth was born in Chadds Ford, Pennsylvania, on the family homestead
@@ -1392,7 +1392,7 @@ what they have and for the best they know they can have, and they always recogni
 that they can never have everything.
 
 Marvin Camras, a native Chicagoan who was educated at the Illinois Institute of
-Technology and spent most of his career at its aliated research institute, holds over
+Technology and spent most of his career at its affiliated research institute, holds over
 ve hundred patents for devices in electrical communications. When once asked if he
 noticed whether inventors had any common traits, he responded:
 
@@ -1442,7 +1442,7 @@ Tools! That should be worth exploring. Every household needs them. Every mechani
 
 country uses hand tools of some sort. Probably every workman has some pet peeve about one of his tools,
 
-something he feels should be altered or xed. Beeng is a great American sport, and almost any mechanic
+something he feels should be altered or xed. Being is a great American sport, and almost any mechanic
 
 should be glad to pour out a list of such troubles to an interested ear. The inventor who does not listen to others
 
@@ -1614,7 +1614,7 @@ invention—for new, improved patterns.
 Whether the new and improved are patented can be a matter of taste or judgment,
 and some of the most prolic of inventors and engineers—such as Isambard Kingdom
 Brunei, designer of the Great Western Railway and the Great Eastern steamship—have
-been strong opponents of the patent system, which they felt stied innovation. In 1851
+been strong opponents of the patent system, which they felt stifled innovation. In 1851
 Brunei wrote to the Select Committee of the House of Lords on the Patent Laws:
 
 I believe that the most useful and novel inventions and improvements of the present day are mere progressive
@@ -1660,7 +1660,7 @@ artifactual evolution, do provide a store of primary sources and case studies. E
 secondary literature of patents and the patent process provides a wealth of insight into
 the nature of invention and evolution in technology.
 
-Patent It Yourself, a book by patent attorney David Pressman, is more for the "rsttime inventor" than the old hand or the theorist, and so it deals on a rather elemental
+Patent It Yourself, a book by patent attorney David Pressman, is more for the "first-time inventor" than the old hand or the theorist, and so it deals on a rather elemental
 level with much of the process of inventing and patenting. In an early chapter on "the
 science and magic of inventing," which Pressman admits the experienced or corporate
 inventor can skip, the process of invention is described as a "two-step procedure: (1)
@@ -1811,12 +1811,12 @@ of the object itself, credit going variously to, among others, Lloyd's of London
 heir to the Pittsburgh family business that made Steel City Gem Paper Clips. According
 to Sufrin, who claims to have conducted the original study in 1958, three of every ten
 paper clips were lost, and only one in ten was ever used to hold papers together. Other
-uses included toothpicks; ngernail and ear cleaners; makeshift fasteners for nylons,
+uses included toothpicks; fingernail and ear cleaners; makeshift fasteners for nylons,
 bras, and blouses; tie clasps; chips in card games; markers in children's games;
 decorative chains; and weapons.
 
 I recall the last purpose as the only one to which my classmates and I put paper clips
-in the early 1950s: We exed and twisted them apart and used the sharply pointed
+in the early 1950s: We flexed and twisted them apart and used the sharply pointed
 halves as ammunition for the rubber bands stretched between thumb and index nger.
 More than one teacher kept the whole class after school when no one would admit to
 launching the U-shaped missile that had just whizzed past her ear and struck the
@@ -1862,7 +1862,7 @@ that no substitutions were made. In general, the quality of the tie marked the
 importance of the document, and even today one can nd contemporary records
 fastened in such a manner: I have received from Eastern Europe university transcripts
 whose pages were gathered with exquisite ribbons elaborately tied. But I have also
-received from underdeveloped countries multipage documents or unocial copies of
+received from underdeveloped countries multipage documents or unofficial copies of
 records fastened together by another old method—a straight pin.
 
 Pin making, shown here in an eighteenth-century print from Diderot's L'Encyclopédie, was a classic example of division of
@@ -1906,7 +1906,7 @@ there. But the most successful of the early pin-making machines took its form fr
 pin-making by the inmates of the New York Alms House, where he was resident.
 
 John Ireland Howe, who was no relation to the inventor of the sewing machine, was
-born in Ridgeeld, Connecticut, in 1793 and began to practice medicine in New York
+born in Ridgefield, Connecticut, in 1793 and began to practice medicine in New York
 City in 1815. An inventive urge drove him to apply his knowledge of chemistry to
 produce a practical rubber compound, and after receiving a patent in 1829 he gave up
 his medical practice to manufacture rubber goods. But when the venture did not succeed,
@@ -2016,7 +2016,7 @@ having holes made in them, it did reduce the tendency of a sharp point to snag o
 papers on the desk. A greater promise of the new fasteners was protection from pricked
 ngers when shuing papers. According to the 1864 patent, the new fasteners also
 overcame the failings of other means of fastening papers: "The corners of the sheets are
-completely prevented from turning over or being disgured with 'dog ears,' as is usually
+completely prevented from turning over or being disfigured with 'dog ears,' as is usually
 the case with legal manuscripts."
 
 A great variety of such fasteners came into existence in the last quarter of the
@@ -2028,7 +2028,7 @@ Fasteners of a dissimilar appearance were also developed to answer the objection
 paper-piercing points altogether. One class of such devices was patented by Ethelbert
 Middleton of Philadelphia in 1887, and his "improvements in paper fasteners" consisted
 of malleable metal stamped in curious patterns whose use involved the action of folding
-various wings over the corners of the papers, which "eectually secures the clasp in
+various wings over the corners of the papers, which "effectually secures the clasp in
 position on the mass of papers without any puncturing or cutting of the papers
 themselves." Variations of all these paper fasteners, both piercing and folding, are still
 made and sold today, for those who might prefer their papers pierced or crimped in the
@@ -2098,7 +2098,7 @@ to seek an actual patent in Germany. Norwegians are said to have remembered prou
 the humble item's origins in their country when, during World War II, they "fastened
 paper clips to their jacket lapels to show patriotism and irritate the Germans." Wearing
 a paper clip could result in arrest, but the function of the device, "to bind together,"
-took on the ercely symbolic meaning of "people joining against the forces of
+took on the fiercely symbolic meaning of "people joining against the forces of
 occupation."
 
 Vaaler's fin-de-siècle notion was granted an American patent in 1901, and the
@@ -2118,7 +2118,7 @@ illustrated in Vaaler's patent. (Such a multitude of ways to achieve the same en
 thus provide counterexample after
 common
 counterexample to the claim that form follows function.) Even if Vaaler's paper clips
-look supercially like today's, they dier in one major respect: the wire does not form a
+look superficially like today's, they dier in one major respect: the wire does not form a
 loop within a loop. Papers would be held together by the arms of the clips, of course,
 but they would have required a very deliberate action to apply. Curiously for such
 simple devices, neither Vaaler's nor most other contemporary patent applications for
@@ -2169,7 +2169,7 @@ of existing forms to reach perfection, and therein lies the value of this most c
 object as a case study of how failure can drive form to fanciful extremes in quest of
 parallel objectives.
 
-In 1900 an American patent was issued to Cornelius Brosnan of Springeld,
+In 1900 an American patent was issued to Cornelius Brosnan of Springfield,
 Massachusetts, for a "paper-clip," which has been regarded in the industry as the "first
 successful bent wire paper clip." Again, no model was submitted, but two versions of the
 clip were shown in the patent drawings, and they are evocative of the outlines of track
@@ -2210,7 +2210,7 @@ three separate claims, each of which began:
 
 A clip or paper-fastener constructed of a single length of wire bent to form an elongated frame with an end
 
-portion of the wire deected inwardly within and near one end of the frame, and extended longitudinally along
+portion of the wire deflected inwardly within and near one end of the frame, and extended longitudinally along
 
 and within the middle of the device …
 
@@ -2317,7 +2317,7 @@ have remained cautious about making direct claims concerning the role of their
 predecessors in inventing the Gem. An anonymous history that appeared in a 1975 issue
 of Oce Products does describe Brosnan's 1900 patent Konaclip as a "direct ancestor of
 the Gem pattern," but Middlebrook's 1899 patent shows clearly that the ancestry was at
-best reversed. Another history—published in 1973 by a Smithsonian Institution stamember who would not admit to being a curator of paper clips but only to being
+best reversed. Another history—published in 1973 by a Smithsonian Institution staff member who would not admit to being a curator of paper clips but only to being
 "merely their protector"—states that no patented clip was "overwhelmingly successful
 until the beginnings of the 20th century when the Gem pattern paper clip was
 introduced." The language is understandably ambiguous and vague as to the Gem's
@@ -2488,7 +2488,7 @@ through the products selected for the "oce environment." Furthermore, these clip
 "allow for specialty applications where standard products do not function properly."
 Among the items oered are gold-plated Gems, which "will never tarnish or rust" and
 which provide "an ice-breaker for prospective clients." They are "at home on mahogany
-desks and in boardrooms, yet can add a dash of avor and class to even the most frugal
+desks and in boardrooms, yet can add a dash of flavor and class to even the most frugal
 oce." For the more (or less?) frugal oce, there are stainless-steel clips, which have
 the distinct advantages of being nonmagnetic ("safe for use with diskettes"), extremely
 strong ("powerful gripping power"), and rust-proof ("perfect for archives, law rms,
@@ -2499,10 +2499,10 @@ are sometimes called paper "clamps" because they come in sizes capable of holdin
 much as two inches of papers together rather eectively, something even the jumbo
 Gem fails to do.
 
-There are still other styles of paper clips oered by other companies with wirebending experience and machinery, and the variety reminds us not only of the
+There are still other styles of paper clips oered by other companies with wire-bending experience and machinery, and the variety reminds us not only of the
 nonuniqueness of form for this object but also of the fact that nontechnological (and
 subjective) factors such as aesthetics can account for the competitive dominance of one
-particular form over functionally superior forms. The technological capability to massproduce bent-wire products was essential in the process of displacing the straight pin by
+particular form over functionally superior forms. The technological capability to mass produce bent-wire products was essential in the process of displacing the straight pin by
 the paper clip; that same capability has provided the proliferation of forms that paper
 clips have taken. The forms that have survived and thrived have done so in part because
 of their economical use of wire, but that alone does not ensure success. The Queen City
@@ -2571,7 +2571,7 @@ steely world of paper clips may never get much of a hold on the market, unless s
 inventor-advocates and manufacturers can remove the serious functional shortcomings
 and make the plastic and plastic-coated clips work better. They may never have to work
 as well as a Gem or its relatives, for there may be a cost or appearance advantage to
-oset a more technically functional disadvantage, but the tradeos must be more evenly
+oset a more technically functional disadvantage, but the trade-offs must be more evenly
 matched than they are at present if the newest entrants into the realm of paper clips are
 to survive as functioning artifacts. The competition is very tough, and the Gem has a
 solid hold on its reputation, if not on its papers.
@@ -2928,7 +2928,7 @@ Portrait of Erasmus, with the front edge of their pages tting the curve of their
 because the paper was trimmed before the spine was formed.
 
 Though today's books may appear to retain the curved look in their spines, it is really
-just a rounding of the stiened binding cloth. The book proper has a squarish shape,
+just a rounding of the stiffened binding cloth. The book proper has a squarish shape,
 with a at front edge as well as a at spine. This change in form came about because
 the traditional procedure of sewing books in signatures was time-consuming and costly,
 and thus failed to be as economical as alternative procedures. The typical book is now
@@ -2948,7 +2948,7 @@ be to the myopic delight of manufacturers, it can certainly be to the dismay of 
 who have a sense of form.
 
 In the late nineteenth century, magazines came to be bound by what amounted to
-sewing with a piece of wire, which could serve as both needle and thread, and a singlewire stitch was certainly much stronger and self-contained than one of cotton.
+sewing with a piece of wire, which could serve as both needle and thread, and a single wire stitch was certainly much stronger and self-contained than one of cotton.
 Furthermore, a short piece of bent wire could pierce and hold together more separate
 sheets of paper, and eventually small booklets and magazines could be made in a single
 signature with a single stitching operation, known as "saddle stitching." Toward the end
@@ -2963,7 +2963,7 @@ Such a machine was built in 1896 by Thomas Briggs, an inventor who lived in the
 Boston suburb of Arlington. He called his company the Boston Wire Stitcher Company,
 after the machine it manufactured, and the rm rapidly outgrew its two early homes. In
 1904 it settled in a large new factory in East Greenwich, Rhode Island, where the
-company's descendant ourishes today. Briggs's original machine worked on a
+company's descendant flourishes today. Briggs's original machine worked on a
 conventional principle, which was to feed wire from a head parallel to the seam being
 stitched, cut othe proper length, bend it into a U-shape, and then drive it into the
 work and clasp it into what was called a stitch. Because of the size of the feeding head,
@@ -3104,7 +3104,7 @@ material; the guard also served to keep the point from sticking the user. (photo
 That shortcoming was removed by the "dress-pin" invented by Walter Hunt of New
 York City and patented in 1849. His pin had "the distinguishing features of … one piece
 of wire or metal combining a spring, and clasp or catch, in which catch, the point of
-said pin is forced and by its own spring securely retained." Of all the microlmed
+said pin is forced and by its own spring securely retained." Of all the microfilmed
 patents I have looked at, Hunt's for the safety pin is the only one whose page of
 illustrations looks like the fragment of a long-lost manuscript. The chipped and broken
 brittle edges of the original paper document from which the copy was made suggest the
@@ -3133,7 +3133,7 @@ the condition of the copy from which this microfilmed image was made. (photo cre
 
 Although the drawings of Hunt's patent are not signed, we can assume that the
 illustrator was one of the assignees, "Wm. Richardson" or "Jno. Richardson." But,
-whoever proted from the patent, the inventor clearly believed he had overcome the
+whoever profited from the patent, the inventor clearly believed he had overcome the
 failings of pre-existing fasteners, for he declared the safety pin to be "more secure and
 durable than any other plan of a clasp pin, heretofore in use, there being no joint to
 break or pivot to wear or get loose as in other plans." Furthermore, the self-sprung pin
@@ -3164,7 +3164,7 @@ specialized buttonhole stitching.
 
 Even with the advantage that they were less likely than hooks to snag, buttons
 definitely still took some time to be mated with buttonholes. Nevertheless, an abundance
-of buttons on garments became a sign of fashion in fourteenth- and fteenth-century
+of buttons on garments became a sign of fashion in fourteenth- and fifteenth-century
 Europe; and the contrasting dressing customs of privileged men and privileged women
 of that time are generally believed to be responsible for the fact that even today men's
 clothes button dierently from women's. Since, presumptively, most people have always
@@ -3327,11 +3327,11 @@ facilitate putting it on, and in that sense it still is used by the trade."
 Unfortunately, for all its names and advertising claims, the C-curity fastener was itself
 notorious for "popping open at the most inconvenient moments. Worse, when such an
 accident occurred, the slider became locked in its position at the end of the chain. The
-only way to get the garment owas to cut it oor cut the fastener out." Furthermore,
+only way to get the garment was to cut it oor cut the fastener out." Furthermore,
 according to the company's own history, operating the devices wasn't as easy as "a pull
 and it's done":
 
-A leaet printed in March, 1906, tacitly confessed to many diculties. The instructions for applying the
+A leaflet printed in March, 1906, tacitly confessed to many diculties. The instructions for applying the
 
 fastener were wordy and complicated. The sponsors of C-curity betrayed their own lack of security by stating:
 
@@ -3398,7 +3398,7 @@ engineer's table."
 
 Though Automatic Hook and Eye owned the patent rights in the United States, the
 company had agreed that Sundback would retain foreign rights. By 1910 his father-inlaw was in Paris and had found backing for a French factory to make "Le Ferme-Tout
-Américain," but World War I interrupted the enterprise. Things were going badly in
+AméAméricain," but World War I interrupted the enterprise. Things were going badly in
 America as well, with the passing of the days of steel at ve cents per pound and labor
 at six dollars a week. The staat Automatic Hook and Eye had been reduced to
 
@@ -3432,7 +3432,7 @@ handmade samples and called the mechanism the "hidden hook." But Sundback was le
 sanguine in letters to the Colonel, reminding him that nances were so low that the
 factory had been shut down: "There is hardly any doubt in my mind that the new hidden
 hook will replace Plako, but before we get ready to ll orders we will want some stock
-and facilities to manufacture the hidden hook and that is a few months ostill." And a
+and facilities to manufacture the hidden hook and that is a few months still." And a
 few weeks later he wrote:
 
 It doesn't seem to me that the hidden hook is right for the trade as yet even if the steel and tape were right as to
@@ -3532,7 +3532,7 @@ signed by Sundback, thus culminating eight years of engineering development on h
 part. He was not the only one who had tried to improve on Judson's idea of twenty
 years earlier, of course. There had in fact been a host of others, women as well as men.
 Josephine Calhoun, of Tampa, Florida, received a patent for a variation on the C-curity
-that she designed in 1907. That same year, Frank Caneld of Denver, Colorado, came
+that she designed in 1907. That same year, Frank Canfield of Denver, Colorado, came
 up with a system of claws that closed on spherical knobs. And it was not only in
 
 America that inventors were busy. Perhaps the idea closest to Sundback's nal solution
@@ -3576,7 +3576,7 @@ with conventional closing devices the fastener had to become competitive in pric
 Sundback realized that this could only be done through more ecient manufacturing,
 and so he developed a process that used specially formed wire and what he called the S-
 L machine. The letters stand for "scrapless," and the machine in a "continuous operation
-slices othin pieces of the Y-shaped wire, puts a pocket on one side of the scoop and a
+slices thin pieces of the Y-shaped wire, puts a pocket on one side of the scoop and a
 projection on the other, then closes the inner section of each Y-shape around the corded
 edge of the tape as it is fed into the machine. Result: no waste at all." In fact, fasteners
 could be made with only 41 percent of the metal used earlier. Among the rst products
@@ -3624,7 +3624,7 @@ Company now felt that its name had a "negative implication." Since "zipper" was
 Goodrich's, a new trademark was sought, one that emphasized "positive qualities." After
 rejecting the likes of "Utilok" and "Bobolink," Hookless selected "Talon" as the name for
 its slide fastener: "Everything about it seemed right. The elements of the fastener were
-surely like the claws of the eagle, gripping with rmness." In 1937 the trademark would
+surely like the claws of the eagle, gripping with firmness." In 1937 the trademark would
 be adopted for the company name.
 
 By 1930 twenty million Talons per year were being sold for everything from pencil
@@ -3730,7 +3730,7 @@ side on the floor.
 A conventional stool would certainly not have allowed Ninety Harris or the other shop
 employees the freely churning motion that made the chore of working up the clay less
 tiring and hence more ecient—and perhaps even a bit enjoyable. The specialized
-stools seem to have been aectionately named in recognition of their individuality and
+stools seem to have been affectionately named in recognition of their individuality and
 preference by the workers, much as some people today are known to name their
 automobiles. Furthermore, by giving the stools names, the workers could easily demand
 of a shop boy a particular one.
@@ -3907,12 +3907,12 @@ indeed, to turn gravity to their advantage—the sawyers could respectively posi
 themselves one on top and one below the log, which then necessarily had to have space
 for a man between it and the ground. This objective was sometimes achieved by
 propping the log up at an angle or on sawhorses, but in any case this required not only
-lifting heavy logs a fair distance, but also repositioning them as the sawcut progressed,
+lifting heavy logs a fair distance, but also repositioning them as the saw cut progressed,
 thus giving gravity the last laugh. For ecient sawing, the entire log had to be raised
 almost the length of the saw, and the lower man could get his full weight behind his saw
 stroke only if he could stand up. This arrangement is depicted frequently in Diderot's
 Encyclopédie, but raising a heavy log six or seven feet into the air is no mean task, and
-substantial sawhorses or scaolding would be needed to allow the men to resist the
+substantial sawhorses or scaffolding would be needed to allow the men to resist the
 undesirable rocking induced in the sawing operation. Whereas this might be the most
 expeditious way to proceed at a temporary construction site, men who worked a
 considerable amount of timber at one location came to dig a pit over which the logs
@@ -3926,7 +3926,7 @@ plank walls of the sawpit. With each downward stroke the chorus of teeth on the 
 
 another half inch along the length of the log. The foot-thick log above your head and the walls of the pit exclude
 
-the noise and distraction of the town. There is only the relentless progression of the blade down the charcoalstruck line.…
+the noise and distraction of the town. There is only the relentless progression of the blade down the charcoal-struck line.…
 
 Traditionally, the top sawyer was the senior of the two, owner of the saw and caretaker of its sharpness.…
 
@@ -3978,7 +3978,7 @@ somebody to talk to. Unfortunately, he was not always in a hurry to go back to w
 
 sharpening was none the more welcome on this account. To know that the other fellow was in the bliss of a
 
-tap-room, while he himself was tied to a job, earning no money and using up a sixpenny le—to know all this
+tap-room, while he himself was tied to a job, earning no money and using up a sixpence le—to know all this
 
 made sharpening a nuisance at the best.…
 
@@ -4089,7 +4089,7 @@ styles were frequently distinguished by regional names, and may have been select
 users more for chauvinistic than for technological reasons. George Basalla has suggested
 the range of such localization of form by noting that in 1863 one manufacturer listed
 felling axes in varieties designated "Kentucky, Ohio, Yankee, Maine, Michigan, Jersey,
-Georgia, North Carolina, Turpentine, Spanish, Double-bitted, Fire Engine, and Boy'shandled." Within two decades, such a list could exceed a hundred items, each one
+Georgia, North Carolina, Turpentine, Spanish, Double-bitted, Fire Engine, and Boy's handled." Within two decades, such a list could exceed a hundred items, each one
 implying some shortcoming of the others. The name "Kentucky ax," for example,
 suggests the failure of others to deal with the special problems of the Kentucky
 woodsman.
@@ -4135,7 +4135,7 @@ A "collector's handbook" entitled The Hammer: The King of Tools contains over a
 hundred pages of photographs, typically showing ten or twelve dierent styles per
 page, of odd and unusual hammers and hammerheads. Another two-hundred-page
 section of the book reproduces the drawings (four to a page) of U.S. patents granted
-between 1845 and 1983 for improvements and variations on hammers and hammerlike
+between 1845 and 1983 for improvements and variations on hammers and hammer-like
 tools, each one capable of performing some function all other hammers fail to—at least
 in the mind of the inventor in question. To be sure, many of the variations among tools
 a r e covered by design patents, which are granted for novel appearance alone. Still,
@@ -4170,8 +4170,8 @@ Patterns of Proliferation
 
 A
 
-mong the most talked-about items at antique shows are the odd and unusual
-pieces of old silverware whose handles clearly indicate they t a familiar placesetting pattern but whose intended use can be a matter of considerable
+among the most talked-about items at antique shows are the odd and unusual
+pieces of old silverware whose handles clearly indicate they t a familiar place setting pattern but whose intended use can be a matter of considerable
 speculation. Dealers and collectors alike debate function more stubbornly than value,
 purpose less convincingly than price. The uninitiated does not have to eavesdrop long to
 experience utter confusion over whether one ne-looking piece is for serving tomatoes
@@ -4326,7 +4326,7 @@ appointed table. So if you use one of these implements for a purpose not intende
 
 etiquette, since etiquette is founded on tradition, and has no rules concerning eccentricities. In the second place,
 
-the choice of an implement is entirely unimportant—a triing detail which people of high social position care
+the choice of an implement is entirely unimportant—a trivial detail which people of high social position care
 
 nothing about.…
 
@@ -4379,7 +4379,7 @@ failure as forks, yet households and restaurants become committed to them.
 Sterling silver is generally a one-time investment, and aesthetics seems very often to
 play a more important role than function in the initial selection and, often, willy-nilly
 lifetime commitment to the pattern. Silverplate, on the other hand, is not expected to
-last indenitely. Around the turn of the century, better silverplate was sold with the
+last indefinitely. Around the turn of the century, better silverplate was sold with the
 understanding that its plating might be good for twenty-five years with proper care, and
 it was expected that replating would be done as required. On such occasions, the
 customer could naturally comment, if not complain, about the way a particular piece
@@ -4395,12 +4395,12 @@ small knife, butter knife, fruit fork, and fruit knife. In the 1920s, the popula
 few specialized pieces. (photo credit 8.5)
 
 Whether by blind adherence to tradition or by a tacit recognition of functional
-overrenement, Emily Post's Roaring Twenties watchword for choosing silver was
+over-refinement, Emily Post's Roaring Twenties watchword for choosing silver was
 conservatism:
 
 In selecting her silver the bride or householder who would have a perfectly appointed table must be very
 
-conservative. Queer pronged spoons, and distorted shapes, whether scooped deep like mussel-shells, or atlipped like the petal of a rose, are equally bad.…
+conservative. Queer pronged spoons, and distorted shapes, whether scooped deep like mussel-shells, or at-lipped like the petal of a rose, are equally bad.…
 
 The ultimate of perfection … is silver that was actually made in the eighteenth or at the beginning of the
 
@@ -4492,7 +4492,7 @@ pantry and carried food and wine. An electrically driven car on miniature rails 
 
 service hatch and stopped in front of each guest, who helped himself, after which the host pressed a button and
 
-owent the train to the next stop, nally disappearing through another hatch on its way back to the pantry to
+sent the train to the next stop, nally disappearing through another hatch on its way back to the pantry to
 
 be loaded with the next course.
 
@@ -4525,7 +4525,7 @@ shapes of the glasses had, of course, evolved and multiplied much as pieces of s
 
 A Victorian dinner-table railway answered the objection of a farmer from the south of England to the constant interruption
 
-of servants bringing in a meal's many courses. An automaton in the form of a small enameled figure dressed as a cook was
+of servants bringing in a meal many courses. An automaton in the form of a small enameled figure dressed as a cook was
 
 patented by another Victorian who wished to avoid as much as possible having real servants in the dining room. (photo
 
@@ -4567,7 +4567,7 @@ assures us that "for a small dinner it is quite sucient to have two or three win
 the early years of the new century, eating had become considerably streamlined, at least
 in the mind of the author of The Etiquette of New York To-day:
 
-Short dinners are the modern fashion. The menu consists, as a general rule, of grapefruit, canapés of caviare,
+Short dinners are the modern fashion. The menu consists, as a general rule, of grapefruit, canapésés of caviare,
 
 soup, fish, an entrée, a roast with two vegetables, game and salad, dessert and fruit.
 
@@ -4592,7 +4592,7 @@ plate, otherwise the delay from washing the dishes will be endless.…
 
 When one plate is taken away at the end of a course another is at once substituted for it. If a knife and fork
 
-are laid on this, the guest should take them opromptly, otherwise he may delay the serving of the next
+are laid on this, the guest should take them promptly, otherwise he may delay the serving of the next
 
 course.
 
@@ -4601,7 +4601,7 @@ and so a great number of individual pieces of silver would naturally have had to
 owned by anyone who wished to entertain in a grand way. Such a multiplicity of
 silverware could have been achieved by having a great many identical knives, forks,
 and spoons of standard design, of course, but this would not have obviated the failure of
-the common knife and fork to work as well with, say, sh and shellsh as they did with
+the common knife and fork to work as well with, say, sh and shellfish as they did with
 a piece of roast.
 
 The oyster fork, for example, appears to have evolved from the standard or even the
@@ -4747,7 +4747,7 @@ general use.
 The sh knife and fork were being provided "at all formal dinners" by the late 1880s,
 according to another writer, who also noted that the old rule against using a knife with
 s h "was so very inconvenient, especially in eating shad." The new knives were of
-silver, of course, because that did not corrode in the sh's acid, and they were most
+silver, of course, because that did not corrode in the fish acid, and they were most
 notably "of a peculiar shape and of small size, as also are the forks that accompany
 them." The peculiar shape of the sh knife, which might be described as notched-back
 scimitar, appears to have evolved in part out of the failure of the dinner fork to deal
@@ -4911,8 +4911,8 @@ tacking down carpets, straightening dented bicycle fenders, breaking bricks, dri
 wooden stakes, and on and on.
 
 When I use my ordinary hammer for something other than driving or pulling nails, I
-normally do not do a very good job; the damage that I inict on the object of my
-pounding suggests a modication of my hammer for that special purpose. In closing
+normally do not do a very good job; the damage that I inflict on the object of my
+pounding suggests a modification of my hammer for that special purpose. In closing
 paint-can lids, for example, I have learned to pound carefully if I do not want to dent
 the top and make it dicult to get an airtight seal; a hammer with a very broad and at
 head would be better. In pounding on chisels, I have noticed that my hammer often slips
@@ -4948,7 +4948,7 @@ silverware, she held up the classic patterns of the late-eighteenth and early-ni
 centuries as models of good taste. When she went further and stated that silver actually
 made during that period was the epitome, she eectively forced herself to speak ill of
 the many specialized knives, forks, and spoons that had evolved since the classic silver
-was made. It was not simply a question of what could be aorded, for surely anyone to
+was made. It was not simply a question of what could be afforded, for surely anyone to
 whom antique silver was aordable (something "possible only to the longest purse")
 could also supplement it with modern implements done tastefully in the same style. No,
 it appears to have been the ultimate in consumerism—having what the have-nots could
@@ -4961,7 +4961,7 @@ hope to possess the real thing.
 
 People no doubt read into Emily Post's declarations and assertions what they could
 aord to read, and those with short purses might have looked not to etiquette books but
-to mail-order catalogues when chosing their silverware patterns. In a 1907 catalogue of
+to mail-order catalogues when choosing their silverware patterns. In a 1907 catalogue of
 the "very best English goods," silver forks in the Old English, Queen Anne, French
 Fiddle, King's, and other patterns are indistinguishable until one looks above the roots
 of their tines. Indeed, if a sheet of paper were used to cover all but the tines of these
@@ -4998,7 +4998,7 @@ britannia (a compound of tin, copper, and antimony that surpassed pewter in lust
 hardness), and plating it with a xed amount of silver produced an aordable piece of
 atware. If thicker tines and more elaborate handles added surface area to be plated,
 then the plating could be thinner. The often heavily decorated handles that distinguish
-one silverplate pattern from many others were clearly the focus of illustrations in mailorder catalogues. Frequently the identical bowls of spoons were overlapped as the
+one silverplate pattern from many others were clearly the focus of illustrations in mail-order catalogues. Frequently the identical bowls of spoons were overlapped as the
 handles fanned out in a display of choices in the same price category. Elsewhere,
 handles only were pictured in an arrangement of patterns radiating out from a text
 announcing "quality" and "charm" and assuring the shopper that "no eort has been
@@ -5007,7 +5007,7 @@ have been an important selling point, with engraving offered either free or at a
 charge, and the guarantees of at most a lifetime suggested that the silver was not
 intended to be bought for one's descendants but to express one's own individuality.
 
-In the wake of the government-sponsored simplication system, there appears in such
+In the wake of the government-sponsored simplification system, there appears in such
 catalogues also to be a diminishing emphasis on specialized pieces of silver, such as
 oyster forks and sh knives, and a growing emphasis on serving pieces, such as sugar
 shells and gravy ladles. This was in keeping with a return to dining en famille after the
@@ -5050,7 +5050,7 @@ it works with as surely as we adapt to the handles of the silverware set before 
 is little room for style on the workbench itself.
 
 The relationship between fashion and form—or, rather, the inuence on the latter of
-the former—did not escape Staordshire potters in the eighteenth century. Josiah
+the former—did not escape Staffordshire potters in the eighteenth century. Josiah
 Wedgwood was one of those potters, and he wrote in his experiment book about how
 traditional stoneware was priced so low that "potters could not aord to bestow much
 expense upon it, or make it so good in any respect as the ware they would otherwise
@@ -5097,7 +5097,7 @@ paying attention to obviating failure:
 
 His rst care is to make a at, circular bottom for his vase, in order that it may stand rm when it is full; and
 
-to prevent its contents from spilling when it is moved, he contracts its upper orice and then spreads it
+to prevent its contents from spilling when it is moved, he contracts its upper orifice and then spreads it
 
 suddenly at the edge, to facilitate pouring out. [This] presents the most natural shape, given by the method of
 
@@ -5183,7 +5183,7 @@ store should be, in today's terms, an integrated system. The employees should be
 selected for their "physical appearance and courteous inclination," and they should be
 well though simply dressed. Elevator operators, with whom the shoppers would willynilly become "quite intimate" during crowded rush hours, should be "correct, polite, and
 neat" and should wear uniforms. The store's wrapping paper, boxes, bags, and other
-details should be attractively and consciously designed, and there should be a unied
+details should be attractively and consciously designed, and there should be a unified
 advertising campaign to introduce the new store. This system was a tremendous success,
 of course, and so was Loewy. But he was not satised with the course of his career as a
 fashion illustrator, even though the Depression left few other opportunities for his
@@ -5316,11 +5316,11 @@ prototypes were built and tried out in the station, and soon he was called back 
 president's oce. Loewy asked repeatedly, "How's the trash can?" but got no response.
 The president seemed to want to talk about everything but trash cans. When nally
 pressed, he told Loewy, "in this railroad, we never discuss problems that are solved." He
-then called in the man in charge of locomotives, who showed ophotos of an
+then called in the man in charge of locomotives, who showed photos of an
 experimental one that was soon to be built in quantity, and asked Loewy, "See anything
 wrong with it?" He did, of course, and thought to himself, "It had a disconnected look;
 component parts did not seem to blend together, and its steel shell was a patchwork of
-riveted sections. It looked unnished and clumsy." But with the designer in the room,
+riveted sections. It looked unfinished and clumsy." But with the designer in the room,
 Loewy said only, "It looks powerful and rugged," and that he thought it could be
 "further improved." What he did was sketch his ideas and recommend that riveting be
 replaced by welding, at a savings of millions of dollars in fabricating costs, and so the
@@ -5382,7 +5382,7 @@ it."
 Industrial designers thus seem to know not to go too far too soon in making changes,
 no matter how rational these might be. According to John Heskett, in his study of
 industrial design, practitioners have learned to "strive for a delicate balance between
-innovation in order to create interest, and reassuringly identiable elements." What
+innovation in order to create interest, and reassuringly identifiable elements." What
 determines the expected form of anything is a kind of fashion. And fashion more than
 function is without question what determines so many of the contemporary forms that
 surround us, whether they be on the highway, the workbench, or the dinner table. But a
@@ -5420,7 +5420,7 @@ only be drunk by carefully covering up with the ngers all the spouts but one, an
 
 would have to be sucked into the mouth. Beneath the handle a small hole was, however, usually made, through
 
-which, if not carefully and closely covered, the ale would spill, and thus cause the discomture of the drinker
+which, if not carefully and closely covered, the ale would spill, and thus cause the discomfiture of the drinker
 
 and the loss of his wager.
 
@@ -5430,9 +5430,9 @@ For example, one jug read,
 
 From mother earth I took my birth,
 
-Then formd a Jug by Man,
+Then formed a Jug by Man,
 
-And now stand here, filld with good cheer,
+And now stand here, filled with good cheer,
 
 Taste of me if you can.
 
@@ -5442,7 +5442,7 @@ Here, gentlemen, come try yr skill,
 
 I'll hold a wager, if you will,
 
-That you Dont Drink this liqr all
+That you Dont Drink this liquor all
 
 Without you spill or lett some Fall.
 
@@ -5452,7 +5452,7 @@ Gentlemen, now try your Skill,
 
 I'll hold you Sixpence, if you will,
 
-That you dont drink unless you Spil.
+That you dont drink unless you Spill.
 
 he variety of taunting verses demonstrates a range of literary solutions to the same
 verbal problem: to communicate a light-hearted challenge to the jug user. This
@@ -5514,7 +5514,7 @@ structured articulation of the objective of removing a shortcoming from an exist
 design.
 
 The very articulation of a problem, such as "t a motor to a bicycle (so that the rider
-can be transported faster and more eortlessly)," can strongly suggest a solution. In
+can be transported faster and more effortlessly)," can strongly suggest a solution. In
 practice, the nonverbal conception of a solution by an inventive mind is often what
 prompts the inventor in retrospect to articulate the problem and couch it in the
 language of a need. After such a rationalization of a nonrational leap of creativity,
@@ -5567,7 +5567,7 @@ more recent "radical innovation" in motorcycle design, in which the powerful mot
 other equipment are directly attached. This recalls the form of early motorized tractors,
 in which the engine and transmission casting also served as the frame to which axles,
 steering wheel, and other barest essentials were attached. A simple iron saddle seat was
-mounted directly over the transmission, and the driver's feet rested on small stirruplike
+mounted directly over the transmission, and the driver's feet rested on small stirrup-like
 protuberances, thus giving the impression that the horseless machine itself had been
 harnessed and was being straddled and ridden much like a living steed. Before that, one
 of the rst steam-powered tractors was actually hitched to a team of horses, not for their
@@ -5849,7 +5849,7 @@ much on a preference for materials (say, wrought versus cast iron, or steel vers
 concrete) as for construction technique (building from the top down or the bottom up).
 Political constraints, such as nineteenth-century Britain's headway requirements for the
 high-masted water trac that could not be obstructed by an arch, or twentieth-century
-New Mexico's preference for the atness of a plateau that could not be punctuated by
+New Mexico's preference for the flatness of a plateau that could not be punctuated by
 towers rising above a gorge, might have as much to do with a choice of form as the
 expected trac volume inuences the number of lanes. Though material, constructional,
 and aesthetic considerations are arguably as functional as trac constraints, the
@@ -5908,7 +5908,7 @@ forthcoming for quite some time. In the meantime, early cans made of heavy-gauge
 w e r e "sometimes heavier than the food they contained." For example, the can
 containing the veal taken to the Arctic weighed over one pound empty, and had a wall
 one-fth-inch thick. There soon developed alternatives to hammer and chisel for those
-not carrying their canned goods on faraway expeditions, however, and "the rst canopeners may have been elaborate mechanisms with which the shopkeeper opened each
+not carrying their canned goods on faraway expeditions, however, and "the rst can openers may have been elaborate mechanisms with which the shopkeeper opened each
 can before it was taken away."
 
 The early can was a success at preserving food, but its tolerable failures were
@@ -5922,7 +5922,7 @@ specialized tools for opening cans. The replacement of iron with the stronger st
 late 1850s did make cans thinner, but the greater exibility of the lighter material in
 turn necessitated the introduction of a rim for stiening, and for attaching a top and a
 bottom, which in earlier times had been folded over onto the sturdy side of the can.
-(Today, many steel cans are corrugated under their paper labels to stien their thin
+(Today, many steel cans are corrugated under their paper labels to stiffen their thin
 sides further against being dented during handling.)
 
 Ezra Warner's 1858 patent for a can opener removed flaws of earlier devices, which often caused the liquid to fly out when
@@ -5977,7 +5977,7 @@ than continuous, and the jagged edge left behind has been the cause of many a cu
 nger. The rst opener with a wheel for cutting in a more continuous and smooth
 fashion was apparently patented in America in 1870 by William Lyman of West
 Meriden, Connecticut. One end of his opener was used to pierce the center of a can's top
-and serve as a pivot about which the opener's handle pulled a cutting wheel. The device
+and serve as a pivot about which the opener handle pulled a cutting wheel. The device
 had to be adjusted for each size of can, and its ecient operation relied upon getting a
 bull's-eye with the piercer.
 
@@ -6063,11 +6063,11 @@ bottle perform the function of preserving wine, it is also a nuisance when one w
 nally to open the bottle. Not only can the wine be ruined by a moldy cork,
 contaminated by a crumbly one, or made inaccessible by a stubborn one, but also we
 need an ancillary device to remove even the most accommodating of corks from
-unpressurized bottles. (The pressurized champagnes no doubt inspired the mushroomshaped corks that can be coaxed out with the thumb after many a corkscrew-wielding
+unpressurized bottles. (The pressurized champagnes no doubt inspired the mushroom-shaped corks that can be coaxed out with the thumb after many a corkscrew-wielding
 hand had been wrenched back by a cork missile.) Like can openers, corkscrews and
 related devices have proliferated as the shortcomings of each existing one gave rise to a
 new, improved model. A few are almost foolproof tools, but even the most reliable can
-fail when encountering a bad cork. Some wine makers will conde sotto voce that real
+fail when encountering a bad cork. Some wine makers will confide sotto voce that real
 corks are an unnecessary expense and risk in these days of plastic, and that even the
 glass bottle itself is an unnecessarily awkward and expensive container for wine, but
 tradition is a strong persuader, especially in the wine industry, and only the least
@@ -6081,7 +6081,7 @@ ago that metal bottle caps had cork inserts, which were pulled tight against the
 by the crimping action of the cap around the lip on the bottle's neck. This was a
 relatively easy action to mechanize, but it also required a unique maneuver to undo the
 cap in order to drink the contents. When I have found myself with a bottle of beer and
-no opener, I have realized how dicult it can be to get the cap owithout the
+no opener, I have realized how dicult it can be to get the cap without the
 specialized tool that did not exist before the cap. I have never been thirsty or brave
 enough to resort to using my teeth, but I have been able to nd makeshift openers in the
 various nooks and crannies of door hinges and drawer pulls. It is also eective, even if
@@ -6111,7 +6111,7 @@ attempting to consume the product. If the need for openers were eliminated, the
 expense of selling beer could be reduced—a clear advantage. This cost savings would
 naturally be most signicant for lower-priced beers, which tended to have the largest
 volume of sales, and so these brands were more likely at rst to embrace the new
-technology. This in turn meant that lesser-quality brews were associated with the twistocap, and so it has been somewhat eschewed by bottlers of premium and imported
+technology. This in turn meant that lesser-quality brews were associated with the twist cap, and so it has been somewhat eschewed by bottlers of premium and imported
 beers.
 
 Soft drinks were long bottled much the same way as beer, and stationary openers
@@ -6119,7 +6119,7 @@ were usually attached to the cooler or machine where the soft drink was purchase
 Since, unlike beer, soft drinks tended to be consumed on the spot, this was no great
 inconvenience. However, another disadvantage of bottles has dominated the evolution
 
-of beverage containers: the logistics and cost of collecting and relling them. When
+of beverage containers: the logistics and cost of collecting and refilling them. When
 bottles were expected to be reused, they had to be strong and tough enough not only to
 hold their contents but also to survive the abuses of repeated handling, transportation,
 and washing by both humans and machines. Since chips, nicks, and scratches weaken a
@@ -6133,7 +6133,7 @@ would accept the idea and pay for it. Neither consumers nor merchants would have
 devote space to collecting empty bottles, and there would be transportation and
 sanitary advantages. The plastic soda bottle invented by Nathaniel Wyeth was one way
 of dealing with the objections to glass bottles for soft drinks, and the features of the
-screw-top plastic bottle have clearly developed in response to the failures of its crimpcapped glass counterpart: removing the inconvenience of needing a bottle opener,
+screw-top plastic bottle have clearly developed in response to the failures of its crimp-capped glass counterpart: removing the inconvenience of needing a bottle opener,
 reducing the weight to be carried to and from the store, and eliminating problems
 associated with breakage and germs. Unfortunately, as is not infrequently the case
 when the evolutionary process takes place at revolutionary speed, the newer technology
@@ -6153,7 +6153,7 @@ liquid, only a hole large enough to make a pouring spout was required. Indeed, a
 who tried to open a can of beer by jerking a Bull's Head opener around its rim would
 have sloshed the contents all over the place, not to mention risking a jagged lip of rst
 steel and then esh. Thus, the specialized beverage-can opener known as a church key
-was developed to pierce the pressurized can with minimum jolting and make a wedgeshaped opening. Ideally, a single pie-slice wedge—i.e., one that extended to the center
+was developed to pierce the pressurized can with minimum jolting and make a wedge-shaped opening. Ideally, a single pie-slice wedge—i.e., one that extended to the center
 of the can top—would have allowed the can to be opened with only one motion, and the
 long opening would have enabled air to enter the can as its liquid exited. However,
 because early beer cans had relatively heavy steel tops, the applied mechanics of the
@@ -6164,7 +6164,7 @@ A church key is a simple lever whose fulcrum hooks under the top lip of a can. T
 handle extending outward from the can provides one arm of the lever, and the pointed
 
 cutting edge extending over the can top provides the other. As with all levers, the length
-of the handle magnies the eect of the force applied to its end, but, by the same token,
+of the handle magnifies the eect of the force applied to its end, but, by the same token,
 the piercing force diminishes as the distance from the fulcrum to the tip of the cutting
 edge is increased. Thus, in order to make a church key that is not too long (cost is
 proportional to amount of material used) and yet is capable of piercing the can top
@@ -6178,7 +6178,7 @@ points with the tip of an old-style can opener.)
 
 Specialized tin cans were precursors of what was to replace the steel beverage can.
 Sardines were always a problem food to pack and unpack, for they were to be served
-whole and yet they aked and fell apart easily if poked with a fork or caught on the
+whole and yet they broke and fell apart easily if poked with a fork or caught on the
 ragged edge of the can. Because sardines are so fragile, they came to be packed in tins
 that allowed the can to be laid at. Furthermore, since a conventional opener would
 slash the contents of the can before exposing them, a special key was soldered to the
@@ -6192,7 +6192,7 @@ cannot pierce and flake the fish in serving it.
 The idea of a sardine can long survived in such diverse applications as cans for coee,
 peanuts, and tennis balls. These cans no longer come with keys attached to their
 bottoms but, rather, have pull rings riveted to their tops, which are scored along their
-periphery, where they are designed to ssure, and indented across their width to give
+periphery, where they are designed to burst, and indented across their width to give
 them sucient stiness so they will not buckle and pull the sides of the can together in
 the process of opening. With the proper design of fracture lines and stiening ridges, a
 top can be removed in a predetermined way without a separate opener and leave no
@@ -6201,7 +6201,7 @@ rough edges to scratch the contents or the hand reaching for them.
 Some consumers seem less squeamish than others about the use of cans. There is a
 television commercial in which a big burly guy crushes a beer can against his forehead,
 and I get a headache every time I see it. Even though I know that today's beer cans are
-pretty imsy, and that squeezing the sides of the can just as it strikes the forehead
+pretty  flimsy, and that squeezing the sides of the can just as it strikes the forehead
 makes it collapse harmlessly, my childhood memories of tin cans overrule any adult
 understanding I might have. I have yet to summon the courage to test my engineering
 predictions by crushing a can against my own forehead.
@@ -6307,7 +6307,7 @@ was all there. I knew how to do it so it would be commercially feasible." Fraze 
 make such a judgment because he was the owner of the Dayton Reliable Tool and
 Manufacturing Company, and he had considerable experience with metal forming and
 scoring, the mastery of which would be essential to developing the pop-top can, for
-which he obtained a landmark patent in 1963. "I personally did not invent the easyopen can end," he later asserted. "People have been working on that since 1800. What I
+which he obtained a landmark patent in 1963. "I personally did not invent the easy-open can end," he later asserted. "People have been working on that since 1800. What I
 did was develop a method of attaching a tab on the can top."
 
 Eventually a ring that functioned as a lever was riveted to a prescored tear strip
@@ -6327,7 +6327,7 @@ single ring in what would ideally be one smooth motion.
 
 Still, scoring a tear strip into a can top so that it will be easy to remove but yet strong
 enough to hold against the can's pressure requires some rather tricky engineering in the
-way the metal is formed. Some early pull tabs were being blown oprematurely by the
+way the metal is formed. Some early pull tabs were being blown prematurely by the
 high pressure of the carbonation rushing out of the hole made by a consumer's initial
 cracking of the tear strip, and so Fraze and other inventors came up with schemes to
 direct benignly the rst whoosh of escaping gas away from the tab itself. Throughout
@@ -6361,7 +6361,7 @@ patent applications for easy-open cans without removable tabs.
 There were several clever schemes to solve the loose-tab problem, and Coors was
 again in the forefront. It developed a two-step opening procedure, in which a
 protruding button of scored metal was rst pressed to break the pressure seal. A second,
-larger button was then pressed into the can to provide a drinking hole. Restoring twostep opening procedures did not prove to be very popular, however, and their
+larger button was then pressed into the can to provide a drinking hole. Restoring two-step opening procedures did not prove to be very popular, however, and their
 shortcomings, which included the relatively large shove required to open the can and the
 need to push a button through the sharp edges of a hole, were not lost on inventors.
 They happily included in their patent applications, as a description of the prior art, the
@@ -6535,7 +6535,7 @@ and to other inventors to simplify.
 
 Another shortcoming of pop-top cans is the close-tting pull ring or tab. It is dicult
 for people with arthritic ngers to get them under the pivoting device to bend it up and
-break the seal on the can. In order not to risk broken ngernails, the user may have to
+break the seal on the can. In order not to risk broken fingernails, the user may have to
 get out a pen or pencil and wedge it under the can lever to lift it to where it can be
 grabbed. It is no surprise that two California inventors, Robert DeMars and Spencer
 Mackay, have recognized this shortcoming. In 1990 they received a patent for their
@@ -6560,7 +6560,7 @@ rotated onto this hill, thus lifting up one end. This action not only pushes the
 of the tab into the scored can opening, thus breaking the seal and beginning the
 opening, but also lifts the end of the tab suciently above the top of the can so that
 even the stiest and stubbiest of ngers can get a hold to complete the opening
-procedure. Closing the opened can is eected by peeling a protective covering othe
+procedure. Closing the opened can is effected by peeling a protective covering othe
 
 now exposed bottom of the tab, revealing an adhesive underside that can be folded
 down, rotated into place, and wedged over the opening by the action of the hill. This
@@ -6590,7 +6590,7 @@ kind of failure, as were those about removable pop tops, then there is a clear i
 for manufacturers to look at the end use of their products and containers as well as the
 immediate objectives of preserving and distributing them to people who must ultimately
 consume and dispose of them. Although a manufacturer's concerns may sometimes
-appear arcane or selsh to the consumer, they are in fact no less driven by failure,
+appear arcane or selfish to the consumer, they are in fact no less driven by failure,
 whether functional or scal, than is any other aspect of the design, codesign, and
 redesign processes through which the forms of even our most familiar artifacts evolve.
 
@@ -6639,7 +6639,7 @@ profession has fragmented into specialties, the idea of using natural resources 
 exploiting physical phenomena, whether or not perfectly understood, for the ends of
 
 civilization remains the foremost objective of all engineering, whether preceded by civil,
-electrical, mechanical, or other societal but not essential modiers. Yet, no matter how
+electrical, mechanical, or other societal but not essential modifiers. Yet, no matter how
 it is qualied, no ancient or modern engineering is without economic considerations,
 which affect greatly the form of artifacts.
 
@@ -6676,7 +6676,7 @@ support. The idea was known almost three thousand years ago to Homer, for in The
 Odyssey Ulysses describes, on his return to a skeptical Penelope, how he made the frame
 of their bridal bed out of the parts of an olive tree and in it drilled holes through which
 he threaded leather straps. The bed was unique in being anchored in the roots of the
-olive tree itself, and in holding a sentimental signicance for the long-suering couple.
+olive tree itself, and in holding a sentimental significance for the long-suering couple.
 To them, the bed was inviolable. Knowledge of its origin was proof of Ulysses's identity.
 
 More conventional beds, created not by ancient superheroes but by traditional
@@ -6838,7 +6838,7 @@ significant refinement or rethinking.
 
 … In the case of my active desk search, I am fortunate. One of the chief "objects" of my invention is to
 
-permit users to reposition the desk height quickly and easily so they can avoid postural xity, which causes
+permit users to reposition the desk height quickly and easily so they can avoid postural fixity, which causes
 
 musculoskeletal stress. The patents I review indicate that many other inventors have developed adjustable
 
@@ -6846,7 +6846,7 @@ desks, but in every case the movement mechanisms they employ are slow, complicat
 
 desk has an adjustment mechanism that suffers from none of these deficiencies.
 
-Whether or not a patent examiner would share Edelson's judgment that his deskadjusting mechanism would work faster, operate more simply, and be more economical
+Whether or not a patent examiner would share Edelson's judgment that his desk-adjusting mechanism would work faster, operate more simply, and be more economical
 to manufacture than those in existing patents would have to wait for the patenting
 process to proceed. However, since Edelson believed that his desk "also oers other
 novel and useful features," he was optimistic that he would "have a good chance to
@@ -6901,7 +6901,7 @@ professor at Wayne State University when he reected upon the failure of existing
 windshield wipers to work eectively in light rain and drizzle. The wipers had
 repeatedly to be turned on and oif the driver did not want to be annoyed by the
 rubbing and streaking as the blades passed over just a few drops of water on each
-swipe. For some drivers the major annoyance was the distracting noise of the stick-andslip action, while for others it was the thought of wearing out blades unnecessarily.
+swipe. For some drivers the major annoyance was the distracting noise of the stick-stick-and-slip action, while for others it was the thought of wearing out blades unnecessarily.
 Some drivers may even have been oblivious to the ineciency of the wipers in a light
 rain, and many may simply have accepted the need to ip them on and oas just the
 way things worked.
@@ -7079,7 +7079,7 @@ pointing up the complex dynamics behind the evolution of artifacts. The conventi
 wisdom is that technology aects society in irreversible ways and that, as Ralph Waldo
 Emerson wrote in a poem, "Things are in the saddle, / and ride mankind." However, we
 might also extend the metaphor by recognizing that we are capable of rearing up and
-bucking othings that we nd too burdensome or that we feel are taking us in the
+bucking other things that we nd too burdensome or that we feel are taking us in the
 wrong direction. But, in spite of the spectrum of forces at work in pushing and pulling
 the form of everything from plastic packaging to the hamburger it contains, there
 remains a unifying principle behind all inuences on form. That principle is embodied
@@ -7101,7 +7101,7 @@ not retain heat as well as foam. According to one report, he said that "improvem
 cooking methods since the company last used paper-based packaging in the early 1970s
 would compensate." He also said that "the technology of the cooking process has caught
 up to the defects of paper," but certainly the truth of that assertion is going to boil down
-to a question of taste. As for the McDLT, whose very concept relied on the dualchambered foam package, that was admitted to be "a very dicult problem" indeed. In
+to a question of taste. As for the McDLT, whose very concept relied on the dual-chambered foam package, that was admitted to be "a very dicult problem" indeed. In
 fact, the McDLT was unavailable while new packaging was being developed.
 
 There are a lot of dicult problems in design, and their solution necessarily depends
@@ -7112,7 +7112,7 @@ than pushed by people who could see the path unobstructed before them, perhaps i
 imitation of the way they pulled plows, and the advantage of this arrangement is clear
 to anyone who has tried to put a cart before a horse or backed up a car with a trailer
 attached. In time, people were replaced by draft animals, of course, and the only kind
-of wagonlike vehicles that seem to have evolved with their prime mover following
+of wagon-like vehicles that seem to have evolved with their prime mover following
 rather than leading has been human-powered.
 
 For a long time in China, where there was such an eective network of waterways,
@@ -7132,7 +7132,7 @@ achieve almost perfect balance about the large enclosed wheel. Thus loaded and b
 
 burden to the handles, and the person pushing it can concentrate on maneuvering the vehicle. (photo credit 13.2)
 
-This vehicle is said to have evolved from two-wheeled carts that were ineective in
+This vehicle is said to have evolved from two-wheeled carts that were ineffective in
 rice paddies, whose dry boundaries, on which the wheels worked best, were often little
 more than narrow-topped embankments. A single-wheeled vehicle could be negotiated
 along the attened tops of embankments on which a double-wheeled one could not, but
@@ -7142,7 +7142,7 @@ Keeping the path in view before the wheel was thus the way to proceed.
 
 Beyond also having a single wheel, the Western wheelbarrow bears little resemblance
 to its Chinese counterpart, and appears to have developed entirely independently, from
-a wheelless hod carried stretcherlike by two men. Used in mining and construction
+a wheelless hod carried stretcher-like by two men. Used in mining and construction
 work, where narrow passageways and temporary bridges were the rule, the two-man
 hod was essentially a box with handles extending front and rear. Though this hod was
 its great
@@ -7169,7 +7169,7 @@ overwhelm themselves with choices of how to steer the vehicle, whose chassis was
 basically a wagon. The role of reins, for example, was played by a lever that extended
 into the driver's hand.
 
-The Western wheelbarrow appears to have developed from a wheelless hodlike device that was carried by two workers.
+The Western wheelbarrow appears to have developed from a wheelless hod-like device that was carried by two workers.
 
 This illustration from Diderot's L'Encyclopédie shows such a hod in use. The singular disadvantage of this kind of hod, that
 
@@ -7218,7 +7218,7 @@ Streamlining American automobiles began with some subtle changes introduced in t
 1920s, but the solidly established squarish Fords set the aesthetic standard. Radical
 streamlining, such as introduced by Buckminster Fuller in his Dymaxion car exhibited in
 1935 at the Chicago World's Fair, was clearly "futuristic," and hence not taken as
-seriously as cars of the present. The sensibly streamlined 1934 Chrysler Airow rounded
+seriously as cars of the present. The sensibly streamlined 1934 Chrysler Aero rounded
 and tapered the boxy prole, fenders, and windows of contemporary designs, but it was
 not a commercial success. The immediate postwar period, which the atomic bomb, if
 nothing else, dened as the future realized, saw the arrival of truly streamlined cars in
@@ -7250,7 +7250,7 @@ satisfy so many functions that a single form could hardly be expected to follow 
 them.
 
 Though all design is necessarily forward-looking, all design or design changes are not
-necessarily motivated by ckle style trends, whether they be in the environmental
+necessarily motivated by fickle style trends, whether they be in the environmental
 politics of plastic packaging or in the patriotic images of advanced technology. The best
 in design always prefers substance over style, and the lasting concept over the
 ephemeral gimmick. Design problems arise out of the failure of some existing thing,
@@ -7320,7 +7320,7 @@ barrels or bins. Throwing an apple core or a banana peel into a waste basket cou
 leave on its bottom a reminder of lunch that lingered in the oce air for days.
 Disposing of an "empty" can of soda in the waste basket often dripped a sticky mess
 onto the bottom. In time, a waste basket could become rather crusty and sticky, and
-washing the metal container, whose nish had become scratched, dented, and worn oduring years of being banged about in the emptying process, only caused it to rust and
+washing the metal container, whose nish had become scratched, dented, and worn during years of being banged about in the emptying process, only caused it to rust and
 
 become unsightly. When plastic bags became almost universally used as waste-basket
 and trash-can liners, they seemed to promise not only a relief from unsightly and
@@ -7341,7 +7341,7 @@ In practice, what seems largely to have happened is that the bags have altered t
 behavior of everyone concerned with their use and disposal, resulting, in some cases, in
 what is arguably an unforeseen decrease in the level of sanitation and appearance.
 Because the plastic bags, at least when free of rips and tears, do not leak, many people
-seem to have become much less thoughtful about what they throw into the trash. Halfempty yogurt containers, half-full cans of soda, and other lunchtime leftovers that might
+seem to have become much less thoughtful about what they throw into the trash. Half-empty yogurt containers, half-full cans of soda, and other lunchtime leftovers that might
 once have been taken to the restroom to be washed down the drain, seem more and
 more to be tossed away without a second thought. After all, the plastic bag will contain
 them and be removed before the mold or ies arrive. Many of those who empty waste
@@ -7412,7 +7412,7 @@ in terms of the company history that will one day be written.
 Always Room for Improvement
 
 n a column entitled "March of the Engineers," the humorist and social critic Russell
-Baker lamented the complexity and sophistication of his oce's new telephone
+Baker lamented the complexity and sophistication of his office new telephone
 system. Not only did everyone have to attend classes for instruction in how to use it,
 but such features as call forwarding seemed to Baker to be taking technology too far: he
 wanted to be able to travel to distant places and not have his telephone calls follow him
@@ -7421,7 +7421,7 @@ around the world. Baker closed his column by dening the new telephone system as
 enough alone."
 
 Every technological change has the potential for being both cursed and praised. What
-seems "well enough" to one critic may seem vastly decient to another, and the roles of
+seems "well enough" to one critic may seem vastly deficient to another, and the roles of
 the critics may reverse from time to time, from situation to situation, even in the same
 individual. In the case of call forwarding, for example, another reporter might nd it a
 wonderful feature were he trying to track down someone to conrm a detail in a story
@@ -7476,7 +7476,7 @@ item; correspondingly, each of us feared the embarrassment of learning that he w
 only one still stymied by some other arcane detail.
 
 Ambivalent feelings toward evolving technology are nothing new. I recall that when
-push-button telephones were rst introduced I scoed at them. Thinking, naïvely, that
+push-button telephones were rst introduced I scoffed at them. Thinking, naïvely, that
 the single purpose of push buttons was to enable one to complete phone calls faster, I
 ridiculed anyone who did not have the time to turn the rotary mechanical dial through
 seven digits to call home. But those were my salad days, when time seemed to move
@@ -7529,7 +7529,7 @@ reasonable to expect to be better designed. The editorial "struck a chord" for m
 the magazine's readers, who are virtually all designers or engineers themselves, and
 they responded with their own lists of "aggravating products." Packaging was
 mentioned by many respondents, who found it to be "too ecient" and "impenetrable."
-This is a problem as old as nature, of course, as exemplied in the predator tearing at
+This is a problem as old as nature, of course, as exemplified in the predator tearing at
 the captured prey, or in the native islander wrestling with a fallen coconut. We have
 seen that the tin can existed long before an eective can opener, and getting at the
 product behind much plastic packaging today can be a frustrating and time-consuming
@@ -7598,7 +7598,7 @@ ever need to or probably want to be. The original designers of paper clips, for 
 will know the ways of the wire they bend rst in their minds and then on paper and
 then in machines. They will learn how some wire cracks when bent into too tight a
 curve, and how other wire does not lose its spring enough to be formed. In time they
-will bend the right wire in the right conguration to meet their self-imposed if often illdened goals, but more likely they will end up with a bunch of wires in a bunch of
+will bend the right wire in the right conguration to meet their self-imposed if often ill-defined goals, but more likely they will end up with a bunch of wires in a bunch of
 congurations, as demonstrated in patent after patent, and as allowed for in claim after
 claim, each manifestation of which has advantages and disadvantages relative to the
 others. Out of these, they and their entrepreneurial, manufacturing, and marketing
@@ -7691,7 +7691,7 @@ merchants preferred small to larger balances because deception could better be
 practiced: "This is how sellers of purple arrange their weighing machines to deceive, by
 putting the cord out of true center, and pouring lead into one arm of the balance, or by
 employing [heavier] wood for the side to which they want it to incline." A slight
-imbalance in favor of the merchant was magnied by a longer balance arm, and so a
+imbalance in favor of the merchant was magnified by a longer balance arm, and so a
 smaller device was preferred to escape detection.
 
 But such aberrations in the human use of technology are no more an indictment of
@@ -7710,7 +7710,7 @@ the best check on errant design.
 
 The adaptability of humans to the imperfections of artifacts is perhaps the nal
 determinant in establishing the ultimate form of so many of the things we use, even if
-with a cursed aection. For all of Russell Baker's griping about a new telephone system,
+with a cursed affection. For all of Russell Baker's griping about a new telephone system,
 he no doubt eventually adapted to it and perhaps even came to appreciate (without
 writing about) at least some of the features he once thought so awkward and
 inscrutable. It is not so much that technology marches inexorably forward and that we
@@ -7745,7 +7745,7 @@ then the rest of us may be presented with a choice between old and new. In some 
 the choice is usurped from us, for manufacturers can have their own criteria of what
 constitutes failure and improvement, and these criteria involve prot and loss. Thus,
 what might appear to consumers to be a needed improvement, might appear to
-manufacturers to be unprotable. Decisions to make things lighter, thinner, and cheaper
+manufacturers to be unprofitable. Decisions to make things lighter, thinner, and cheaper
 may be based no less on perceptions of failure than the decision to adjust a clock that
 fails to keep time.
 
@@ -7765,7 +7765,7 @@ child a drink from it. The child, perhaps used to teething on jelly jars or heav
 tumblers, had no respect for the delicacy of the goblet and shattered the crystal into a
 shower of bite-sized pieces. The suddenness of the accident apparently so startled the
 child that the broken glass just fell from his gaping jaw. Neither his mouth nor his
-sensibilities were hurt, but his mother was mortied and my wife and I were left with an
+sensibilities were hurt, but his mother was mortified and my wife and I were left with an
 odd set of crystal.
 
 The child's mother oered to replace the broken goblet, of course, and a new one was
@@ -7776,11 +7776,11 @@ expensive but not nearly so light and thin as those in the original wedding gift
 had come at the time when the Orrefors was made as thin as it would get; orders for
 replacements came in with complaints of excessive fragility. Certainly goblets even
 lighter and thinner might have been conceived, but then adults too might have had to
-drink from them with great care, and washing them might have been a rather anxietyridden task. The crystal was so light and thin that setting down a wineglass just a little
+drink from them with great care, and washing them might have been a rather anxiety-ridden task. The crystal was so light and thin that setting down a wineglass just a little
 othe vertical on an uncushioned table was sucient to cause a stem to snap. To make
 the crystal thinner might have allowed light to play even more delicately upon a glass
 and its contents, but the usability of the stemware might have been so marginal that it
-would have been more often than not left in the china cabinet while more hearty waterand wineglasses allowed diners to enjoy their food and drink without risking the crystal
+would have been more often than not left in the china cabinet while more hearty water-and wineglasses allowed diners to enjoy their food and drink without risking the crystal
 or their nerves.
 
 If the world of design is understood to include not only things we can hold in our
@@ -7868,7 +7868,7 @@ its minor annoyances. We may even modify our behavior to accommodate the
 technology, as left-handers have in adapting to right-handed utensils—until we discover
 an altered artifact to marvel at and use.
 
-NOTES, BIBLIOGRRPHY,
+NOTES, BIBLIOGRAPHY,
 
 LIST OF ILLUSTRATIONS
 
@@ -8595,7 +8595,7 @@ Baird, Ron, and Comerford, Dan. The Hammer: The King of Tools. Privately printed
 
 1989.
 
-Barsley, Michael. The Left-handed Book: An Investigation into the Sinister History of Lefthandedness. London: Souvenir Press, 1966.
+Barsley, Michael. The Left-handed Book: An Investigation into the Sinister History of Left-handedness. London: Souvenir Press, 1966.
 
 Basalla, George. The Evolution of Technology. Cambridge: University Press, 1988.
 

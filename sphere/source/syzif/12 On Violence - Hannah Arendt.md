@@ -45,7 +45,7 @@ revolutions, hence a century of that violence which is
 currently believed to be their common denominator.
 There is, however, another factor in the present situation
 which, though predicted by nobody, is of at least equal
-importance. The technical development of the implements of violence has now reached the pomt where no
+importance. The technical development of the implements of violence has now reached the point where no
 political goal could conceivably correspond to their destructive potential or justify their actual use in armed
 conflict. Hence, warfare-from time immemorial the final
 merciless arbiter in international disputes-has lost much
@@ -88,7 +88,7 @@ those engaged in the perfection of the means of destruction
 have finally reached a level of technical development
 where their aim, namely, warfare, is on the point of dis-
 
-2 Herrn Eugen Dilhrings Umwiilzung der Wissenschaft ( 1878), Part
+2 Herrn Eugen Dilthey Umwertung der Wissenschaft ( 1878), Part
 II, ch. 3·
 
 appearing altogether by virtue of the means at its disposal3 is like an ironical reminder of this all-pervading
@@ -99,7 +99,7 @@ finally and more plausibly, the serious economic and social
 dangers inherent in disarmament,4 but the simple fact
 that no substitute for this final arbiter in international
 affairs has yet appeared on the pol itical scene. Was not
-fiobbes right when he said: "Covenants, without the
+Hobbes right when he said: "Covenants, without the
 sword, are but words"?
 
 Nor is a substitute likely to appear so long as national
@@ -148,7 +148,7 @@ able to test their hypotheses against actual occurrences.
 The logical flaw in these hypothetical constructions of
 future event& is always the same : what first appears as a
 
-hypothesis-with or without its implied alternatives, according to the level of sophisticatio n-turns immediately,
+hypothesis-with or without its implied alternatives, according to the level of sophistication n-turns immediately,
 usually after a few paragraphs, into a "fact," which then
 gives birth to a whole string of similar non-facts, with the
 result that the purely speculative character of the whole
@@ -264,7 +264,7 @@ novelties add up to is a complete reversal in the relationship between power and
 reversal in the future relationship between small and great
 powers. The amount of violence at the disposal of any
 given country may soon not be a reliable indication of the
-country's strength or a reliable guarantee against destructiOJ.l by a substantially smaller and weaker power. And this
+country's strength or a reliable guarantee against destruction.l by a substantially smaller and weaker power. And this
 bears an ominous similarity to one of political science's
 oldest insights, namely that power cannot be measured in
 terms of wealth, that an abundance of wealth may erode
@@ -348,7 +348,7 @@ thought,111 whereas for Marx, who turned Hegel's "idealism" upside down, it was 
 though one may argue that all notions of man creating
 himself have in common a rebellion against the very
 factuality of the human condition-nothing is more obvious than that man, whether as member of the species or
-as an individual, does not owe his existence to himselfand that therefore what Sartre, Marx, and Hegel have in
+as an individual, does not owe his existence to himself that therefore what Sartre, Marx, and Hegel have in
 common is more relevant than the particular activities
 through which this non-fact should presumably have come
 about, still it cannot be denied that a gulf separates the
@@ -367,7 +367,7 @@ of violence.) No doubt all this has a logic of its own, but it
 is one springing from experience, and this experience was
 utterly unknown to any generation before.
 
-The pathos and the elan of the New Left, their crediu It is quite suggestive that Hegel speaks in this context of "Sichselbstproduzieren." See Vorlesungen ilber die Geschichte der Philosophic, ed. Hoffmeister, p. 1 1 4, Leipzig, 1 gg8.
+The pathos and the elan of the New Left, their credibility It is quite suggestive that Hegel speaks in this context of "Sichselbstproduzieren." See Vorlesungen ilber die Geschichte der Philosophic, ed. Hoffmeister, p. 1 1 4, Leipzig, 1 gg8.
 18 See appendix I, p. Sg.
 
 If See appendix II, p. Sg.
@@ -452,7 +452,7 @@ am Ende" (Nos. 26 and 27, 1 g6g).
 21 The last o f these epithets would make sense i f i t were meant descriptively. Behind it, however, stands the illusion of Marx's society
 of free producers, the liberation of the productive forces of society,
 which in fact has been accomplished not by the revolution but by
-science and technology. This liberation, furthermore, is not acceler·
+science and technology. This liberation, furthermore, is not accelerated·
 ated, but seriously retarded, in all countries that have gone through
 a revolution. In other words, behind their denunciation of consumption stands the idealization of production, and with it the old
 idolization of productivity and creativity. "The joy of destruction
@@ -494,7 +494,7 @@ of Books, June 1 9, 1g6g.
 24 Thus Jerome Lettvin, of M.I.T., in the New York Times Magazine, May 1 8, 1 g6g.
 
 ernment-sponsored research projects 25-than a rigorously
-enforced divorce from war-oriented research and all connected enterprises; but it would be nai've to expect this to
+enforced divorce from war-oriented research and all connected enterprises; but it would be naïve to expect this to
 change the nature of modern science or hinder the war
 effort, na'ive also to deny that the resulting limitation
 might well lead to a lowering of university standards.26
@@ -585,7 +585,7 @@ community; I think it is more likely that faculty as well
 as administrations and boards of trustees are half-consciously aware of the obvious truth of a conclusion of the
 official Report on Violence in America: "Force and violence are likely to be successful techniques of social control and persuasion when they have wide popular support." 83
 
-The new undeniable glorification of violence by the student movement has a curious peculiarity. While the rheto-
+The new undeniable glorification of violence by the student movement has a curious peculiarity. While the rhetoric-
 
 30 See appendix VI, p. 94·
 
@@ -601,7 +601,7 @@ ric of the new militants is clearly inspired by Fanon, their
 theoretical arguments contain usually nothing but a
 hodgepodge of all kinds of Marxist leftovers. This is indeed quite baffling for anybody who has ever read Marx
 or Engels. Who could possibly call an ideology Marxist
-that has put its faith in "classl ess idlers," believes that "in
+that has put its faith in "classless ess idlers," believes that "in
 the lumpenproletariat the rebellion will find its urban
 spearhead," and trusts that "gangsters will light the way
 for the people"? 34 Sartre with his great felicity with words
@@ -699,7 +699,7 @@ in practice, the slogan of the New Left has remained in a
 declamatory stage, to be invoked rather inarticulately
 against Western representative democracy (which is about
 to lose even its merely representative function to the huge
-party machines that "represent" not the party membership but its functionaries) and against the Eastern oneparty bureaucracies, which rule out participation on
+party machines that "represent" not the party membership but its functionaries) and against the Eastern one-party bureaucracies, which rule out participation on
 principle.
 
 Even more suprising in this odd loyalty to the past is
@@ -720,9 +720,9 @@ turned in to the Justice Department on October 20 [1 967] came
 from men who can escape military service but who insisted on sharing the fate of those who are less privileged." The same was true
 for any number of draft-resister demonstrations and sit-ins in the
 universities and colleges. The situation in other countries is similar.
-Der Spiegel describes, for instance, the frustrating and often humiliating conditions of the research assistants in Germany: "Angesich ts
-dieser Verhiiltnisse nim m t es geradezu wunder, dass die Assisten ten
-nicht in der vordersten Front der Radikalen stehen." Qune 23,
+Der Spiegel describes, for instance, the frustrating and often humiliating conditions of the research assistants in Germany: "Angesicht ts
+dieser Verhältnisse nim m t es geradezu wunder, dass die Assistenten ten
+nicht in der vordersten Front der Radikalen stehen." Juni 23,
 1 969, p. 58.) It is always the same story: Interest groups do not join
 the rebels.
 
@@ -794,7 +794,7 @@ ginning with the nineteenth century, however, all such
 limitations disappeared. Now, in the words of Proudhon,
 motion is "le fait prim it if" and "the laws of movement
 alone are eternal. " This movement has neither beginning
-nor end: "Le m ouvem ent est; voila tout!" As to man, all
+nor end: "Le m mouvement ent est; voila tout!" As to man, all
 we can say is "we are born perfectible, but we shall never
 be perfect. " 43 Marx's idea, borrowed from Hegel, that
 every old society harbors the seeds of its successors in the
@@ -881,8 +881,8 @@ examples of theories exploding into absurdity happened
 during the recent "People's Park" trouble in Berkeley.
 
 '8 For an excellent discussion of the obvious fallacies in this position,
-see Robert A. N isbet, "The Year 2ooo and All That," in Commentary, June, t g68, and the ill-tempered critical remarks in the Sep
-tember issue.
+see Robert A. N Nisbet, "The Year 2ooo and All That," in Commentary, June, t g68, and the ill-tempered critical remarks in the Sep
+September issue.
 
 47 Hegel, op. cit., p. t oo ff.
 
@@ -905,16 +905,16 @@ That science, even though no longer limited by the finitude of the earth and its
 never-ending progress is by no means certain; that strictly
 scientific research in the humanities, the so-called Geisteswissenschaften that deal with the products of the human
 spirit, must come to an end by definition is obvious. The
-ceaseless, senseless demand for original scholarshi p in a
+ceaseless, senseless demand for original scholarship p in a
 number of fields, where only erudition is now possible, has
 
 48 The incide n t is reported withou t comme n t by Wol i n and Schaar,
-op. cit. See also Peter Barnes's report " 'An O u tcry ' : Though ts on
+op. cit. See also Peter Barnes's report " 'An O u outcry ' : Though ts on
 Being Tear Gassed," in Newsweek, J u n e 2 , 1969.
 
 49 Spender (op. cit., p. 4 5) reports t h a t the French students d u ring
 the May incidents i n Paris "refused categorically the ideology o f
-'ou tput' [ rendemen t ] , of 'progress' and such-called pse udo-forces."
+'ou output' [ rendement t ] , of 'progress' and such-called pse udo-forces."
 In America, this i s not yet the case a s far as progress i s concerned.
 
 We are still surrounded by talk abo u t " p rogressive" and "regressive"
@@ -955,7 +955,7 @@ pernicious enterprises, see Edmund Wilson, The Fruits of the MLA,
 New York, 1 g68.
 
 ever, of all action, as distinguished from mere behavior, to
-interru pt what otherwise would have proceeded automatically and therefore predictably.
+interrupt pt what otherwise would have proceeded automatically and therefore predictably.
 
 8 1
 
@@ -975,7 +975,7 @@ as it were, Max Weber's definition of the state as "the rule
 of men over men based on the means of legitimate, that is
 allegedly legitimate, violence." 112 The consensus is very
 
-11 Georges Sorel, R eflections on Violence, "Introduction to the First
+11 Georges Sorel, R Reflections on Violence, "Introduction to the First
 Publication" (1 906), New York, 1 96 1, p. 6o.
 
 111 The Power Elite, New York, 1 956, p. 1 7 1 ; Max Weber in the first
@@ -1002,7 +1002,7 @@ The answer, it seems, will depend on what we understand by power. And power, it 
 of rule, while rule, we are told, owes its existence to "the
 instinct of domination." 54 We are immediately reminded
 of what Sartre said about violence when we read in
-.J ouvenel that "a man feels himself more of a man when he
+.J Jouvenel that "a man feels himself more of a man when he
 is imposing himself and making others the instruments of
 his will," which gives him "incomparable pleasure. " 1111
 "Power," said Voltaire, "consists in making others act as I
@@ -1058,9 +1058,9 @@ It is true that there is no state,
 where there is no overwhelming force .
 does not make a state." (In The Modern Sta te, London, 1 926, pp.
 2 2 2-225.) How strong the force of this tradition is can be seen in
-Rousseau's attempt to escape it. Looking for a government of norule, he finds nothing better than "une forme d'association .
+Rousseau's attempt to escape it. Looking for a government of no rule, he finds nothing better than "une forme d'association .
 par
-laq uelle chacun s'unissan t cl. tous n'ob eisse pourtant q u'cl. lui-meme."
+laq uelle chacun s'unissent t cl. tous n'obéisse éisse pourtant q qu'il. lui-meme."
 The emphasis on obedience, and hence on command, is unchanged.
 
 .
@@ -1102,7 +1102,7 @@ government that is not held to give account of itself, rule
 by Nobody is clearly the most tyrannical of all, since there
 is no one left who could even be asked to answer for what
 
-58 The Notion of the State, An In troduction to Politica l Theory was
+58 The Notion of the State, An In Introduction to Politica l Theory was
 first published in Italian in 1 962. The English version is no mere
 translation ; written by the author himself, it is the definitive edi tion
 and appeared in Oxford in 1 967. For the quotations, see pp. 64, 70,
@@ -1113,7 +1113,7 @@ that is among the most potent causes of the current worldwide rebellious unrest,
 Moreover, this ancient vocabulary was strangely confirmed and fortified by the addition of the Hebrew­
 Christian tradition and its "imperative conception of law."
 This concept was not invented by the "political realists"
-but was, rather, the resul t of a much earlier, almost automatic generalization of God's "Commandments," according to which "the simple relation of command and obedience" indeed sufficed to identify the essence of law.rse
+but was, rather, the result t of a much earlier, almost automatic generalization of God's "Commandments," according to which "the simple relation of command and obedience" indeed sufficed to identify the essence of law.rse
 Finally, more modern scientific and philosophical convictions concerning man's nature have further strengthened
 these legal and political traditions. The many recent discoveries of an inborn instinct of domination and an innate
 aggressiveness in the human animal were preceded by
@@ -1121,7 +1121,7 @@ very similar philosophic statements. According to John
 Stuart Mill, "the first lesson of civilization [is] that of
 obedience," and he speaks of "the two states of the in-
 . one the desire to exercise power over others;
-clinations . .
+inclinations . .
 the other .
 . disinclination to have power exercised over
 .
@@ -1144,7 +1144,7 @@ strong disinclination to obey is often accompanied by an
 equally strong disinclination to dominate and command.
 Historically speaking, the ancient
 institution of slave
-economy would be inexpl icable on the grounds of Mill's
+economy would be inexplicable icable on the grounds of Mill's
 psychology. Its express purpose was to liberate citizens
 from the burden of household affairs and to permit them
 to enter the public life of the community, where all were
@@ -1169,7 +1169,7 @@ actually meant was support of the laws to which the
 6l John M. Wallace, Dest iny His Choice : Th e Loya lism of Andrew
 Marvell, Cambridge, 1 96 8 , p p . 88-�g. I owe this reference to the kind
 
-attention o f Gregory De sJardi ns.
+attention o f Gregory De Des Jardins ns.
 
 citizenry had given its consent.62 Such support is never
 unquestioning, and as far as reliability is concerned it cannot match the indeed "unquestioning obedience" that an
@@ -1326,10 +1326,10 @@ To remain in authority requires respect for the person or
 the office. The greatest enemy of authority, therefore, is
 contempt, and the surest way to undermine it is laughter.67
 
-66 There is such a thing as authoritarian government, but it certair ly has nothing in common with tyranny, dictatorship, or totalitarian rule. For a discussion of the historical background and
+66 There is such a thing as authoritarian government, but it certainly ly has nothing in common with tyranny, dictatorship, or totalitarian rule. For a discussion of the historical background and
 pol itical significance of the term, see my "What is Authority?" in
 Between Past and Future: Exercises in Political Though t, New York,
-1 968, and Part I of Karl-Heinz Liibke's valuable study, Auctoritas bei
+1 968, and Part I of Karl-Heinz Lübke's valuable study, Auctoritas bei
 Augustin, Stuttgart, 1 968, with extensive bibliography.
 
 87 Wolin and Schaar, in op. cit., are entirely right: "The rules are
@@ -1371,7 +1371,7 @@ the university, the only secular institution still based on authority.
 Both may indeed be ascribed to "the progressing explosion of the
 atom 'obedience' whose stability was allegedly eternal," as Heinrich
 Boll remarked of the crisis in the churches. See "Es wird immer
-spiiter," in A n twort an Sacharow, Zu rich , 1 969.
+später," in A n Antwort an Sacharow, Zu rich , 1 969.
 
 a s See the New York Times, January 4 , 1 969, pp. 1 and 29.
 
@@ -1384,7 +1384,7 @@ same.
 Still it must be admitted that it is particularly tempting
 to think of power in terms of command and obedience,
 and hence to equate power with violence, in a discussion
-of what actually is only one of power's special casesnamely, the power of government. Since in foreign relations as well as domestic affairs violence appears as a last
+of what actually is only one of power's special cases, namely, the power of government. Since in foreign relations as well as domestic affairs violence appears as a last
 resort to keep the power structure intact against individual challengers-the foreign enemy, the native criminal
 -it looks indeed as though violence were the prerequisite
 of power and power nothing but a fa�ade, the velvet glove
@@ -1419,7 +1419,7 @@ to armed uprising, are all based on the mistaken notion
 that revolutions are "made." In a contest of violence
 against violence the superiority of the government has
 always been absolute; but this superiority lasts only as
-long as the power structure of the government is intactthat is, as long as commands are obeyed and the army or
+long as the power structure of the government is intact; that is, as long as commands are obeyed and the army or
 police forces are prepared to use their weapons. When this
 is no longer the case, the situation changes abruptly. Not
 only is the rebellion not put down, but the arms themselves
@@ -1441,7 +1441,7 @@ to prove the opposite.
 
 take place at all or occurs when it is no longer necessary.
 Where commands are no longer obeyed, the means of
-violence are of no use ; and the question of this obedienc�
+violence are of no use ; and the question of this obedience�
 is not decided by the command-obedience relation but by
 opinion, and, of course, by the number of those who
 share it. Everything depends on the power behind the
@@ -1463,9 +1463,9 @@ nonviolent French students' rebellion to reveal the vulnerability of the whole p
 Unknowingly they had tested it; they intended only to
 challenge the ossified university system, and down came
 the system of governmental power, together with that of
-the huge party bureaucracies-"une sorte de desintegration
+the huge party bureaucracies-"une sorte de désintégration
 de toutes les hierarchies." To It was a textbook case of a
-revolutionary situation 11 that did not develop into a revoro Raymond Aron, La Revolution In trouvab le, 1 968, p. 4 1 .
+revolutionary situation 11 that did not develop into a révolution Raymond Aron, La Revolution In trouvable le, 1 968, p. 4 1 .
 n Stephen Spender, op. cit . , p . 56, disagrees: "What was s o much
 more apparent than the revolutionary situation [was] the nonrevolutionary one." It may be "difficult to think of a revolution
 
@@ -1537,18 +1537,18 @@ terms of the means-end category.) And since government is
 essentially organized and institutionalized power, the current question What is the end of government? does not
 make much sense either. The answer will be either question-begging-to enable men to live together-or dangerously utopian-to promote happiness or to realize a
 
-classless society or some other nonpol itical ideal, which
+classless society or some other nonpolitical itical ideal, which
 if tried out in earnest cannot but end in some kind of
 tyranny.
 
 Power needs no j ustification, being inherent in the very
 existence of political communities; what it does need is
 legitimacy. The common treatment of these two words as
-synonyms is no less misl eading and confusing than the
+synonyms is no less misleading eading and confusing than the
 current equation of obedience and support. Power springs
 up whenever people get together and act in concert, but
 it derives its legitimacy from the initial getting together
-rather than from any action that then may follow. Legitimacy, when chall enged, bases itsel f on an appeal to the
+rather than from any action that then may follow. Legitimacy, when chall challenged, bases itsel f on an appeal to the
 past, while j ustification relates to an end that lies in the
 future. Violence can be j ustifiable, but it never will be
 legitimate. Its j ustification loses in plausibility the farther
@@ -1594,7 +1594,7 @@ massacre and submission. However, England in India and
 France in Algeria had good reasons for their restraint.
 Rule by sheer violence comes into play where power is
 being lost; it is precisely the shrinking power of the Russian government, internally and externally, that became
-manifest in its "solution" of the Czechoslovak problemj ust as it was the shrinking power of European imperialism that became manifest in the al ternative between decolonization and massacre. To substitute violence for
+manifest in its "solution" of the Czechoslovak problème ust as it was the shrinking power of European imperialism that became manifest in the al ternative between decolonization and massacre. To substitute violence for
 power can bring victory, but the price is very high; for it
 is not only paid by the vanquished, it is also paid by the
 victor in terms of his own power. This is especially true
@@ -1620,7 +1620,7 @@ could watch this process on television 75-and that violence
 itself results in impotence. Where violence is no longer
 backed and restrained by power, the well-known reversal
 in reckoning with means and ends has taken place. The
-means, the means of destruction, now determine the endwith the consequence that the end will be the destruction
+means, the means of destruction, now determine the end the consequence that the end will be the destruction
 of all power.
 
 Now here is the self-defeating factor in the victory of
@@ -1638,21 +1638,21 @@ being when violence, having destroyed all power, does not
 abdicate but, on the contrary, remains in full control. It
 has often been noticed that the effectiveness of terror depends almost entirely on the degree of social atomization.
 Every kind of organized opposition must disappear before
-the full force of terror can be let loose. This atomizationan outrageously pale, academic word for the horror it
+the full force of terror can be let loose. This atomization outrageously pale, academic word for the horror it
 implies-is maintained and intensified through the ubiquity of the informer, who can be literally omnipresent
 because he no longer is merely a professional agent in the
 pay of the police b ut potentially every person one comes
 into contact with. How such a fully developed police
 state is established and how it works-or, rather, how
 nothing works where it holds sway-can now be learned in
-Aleksandr I. Solzhenitsyn's The First CircleJ which will
+Aleksandr I. Solzhenitsyn's The First Circle which will
 probably remain one of the masterpieces of twentiethcentury literature and certainly contains the best documentation on Stalin's regime in existence.76 The decisive
 difference between totalitarian domination, based on
 terror, and tyrannies and dictatorships, establ ished by
 violence, is that the former turns not only against its
 enemies but against its friends and supporters as well,
 being afraid of all power, even the power of its friends.
-The cl imax of terror is reached when the police state
+The cl climax of terror is reached when the police state
 begins to devour its own children, when yesterday's executioner becomes today's victim. And this is also the moment
 when power disappears entirely. There exist now a great
 many plausible explanations for the de-Stalinization of
@@ -1672,7 +1672,7 @@ jeopardy, but left to its own course it ends in power's
 disappearance. This implies that it is not correct to think
 of the opposite of violence as nonviolence ; to speak of nonviolent power is actually redundant. Violence can destroy
 power; it is utterly incapable of creating it. Hegel's and
-Marx's great trust in the dialectial "power of negation,"
+Marx's great trust in the dialectical "power of negation,"
 by virtue of which opposites do not destroy but smoothly
 develop into each other because contradictions promote
 and do not paralyze development, rests on a much older
@@ -1732,18 +1732,18 @@ of a "natural" reaction than we would have been prepared
 to grant without them. Aggressiveness, defined as an instinctual drive, is said to play the same functional role
 
 " Nikolas Tin bergen, "On War and Peace in Animals and Man," in
-Science, 1 60: 1 4 u Uune 28, 1 968).
+Science, 1 60: 1 4 u June 28, 1 968).
 
 .
 
 '8 Das Tier als soziales We sen, ZUrich, 1 953, pp. 237-238: 11 Wer sich
 in die Tatsachen vertieft .
 . der w ird feststellen, dass die neuen
-Einb licke in die Differenziertheit tierischen Treibens uns zwingen,
-mit allzu einfachen Vorstellungen von hoheren Tieren ganz entschieden aufzuriiumen. Damit w ird aber n ich t etwa-wie zuweilen
+Einblick licke in die Differenziertheit tierischen Treibens uns zwingen,
+mit allzu einfachen Vorstellungen von hoheren Tieren ganz entschieden aufzuräumen. Damit w ird aber n ich t etwa-wie zuweilen
 leichthin gefolgert wird-das Tierische dem Mensch lichen immer
-mehr geniihert. Es zeigt sich lediglich, dass viel mehr von dem,
-was wir von uns se lbst kennen, auch beim Tier vorkommt."
+mehr genüht. Es zeigt sich lediglich, dass viel mehr von dem,
+was wir von uns se selbst kennen, auch beim Tier vorkommt."
 
 rs See Erich von Holst, Zur Verhaltensphysiologie bei Tieren und
 Menschen, Gesammelte Abhandlungen, Vol. I, MUnchen, 1 969, P-
@@ -1779,14 +1779,14 @@ its processes.
 81 The hypothetical character of Konrad Lorenz's On Aggression
 (New York, 1 966) is clarified in the interesting collection of essays
 on aggression and adaptation edited by Alexander Mitscherlich
-under the title Bis h ierher und n icht weiter. 1st die menschliche
-Aggression unbefriedbar1, Miinchen, 1 968.
+under the title Bis h hierher und n nicht weiter. 1st die menschliche
+Aggression unbefriedbar1, München, 1 968.
 
 6 1
 
 newest "discoveries" the oldest definition of the nature of
-man-the definition of man as the animal rat ionale, according to which we are distinct from other animal species
-in nothing but the addit ional attribute of reason. Modern
+man-the definition of man as the animal rat rationae, according to which we are distinct from other animal species
+in nothing but the additional ional attribute of reason. Modern
 science, starting uncritically from this old assumption, has
 gone far in "proving" that men share all other properties
 with some species of the animal kingdom-except that the
@@ -1803,9 +1803,9 @@ again derived from other animal species, in which the
 function of the life instincts has not been destroyed
 through the intervention of human reason. And the specific distinction between man and beast is now, strictly
 speaking, no longer reason (the lumen naturale of the
-human animal) but science, the knowl edge of these standsa von Holst, op. cit., p. 283: "Nich t, weil w ir Verstandeswesen,
-sondern weil wir ausserdem gam:. urtilmliche Triebwesen sind, ist
-unser Dasein im Zeitalter der Tech nik gefiihrdet."
+human animal) but science, the knowl edge of these stands von Holst, op. cit., p. 283: "Nicht t, weil w ir Verstandeswesen,
+sondern weil wir ausserdem gam:. urteilliche Triebwesen sind, ist
+unser Dasein im Zeitalter der Tech nik gefährdet."
 
 as Long-range weapons, seen by the polemologists as having freed
 man's aggressive instincts to the point where the controls safeguarding the species do not work any longer (see Tinbergen, op. cit.),
@@ -1842,7 +1842,7 @@ immediacy and swiftness. To act with delib erate speed goes
 against the grain of rage and violence, but this does not
 make them irrational . On the contrary, in private as well
 as public life there are situations in which the very swiftness of a violent act may be the only appropriate remedy.
-The point is not that this permits us to let off steamwhich indeed can be equally well done by pounding the
+The point is not that this permits us to let off steam which indeed can be equally well done by pounding the
 table or slamming the door. The point is that under certain circumstances violence-acting without argument or
 speech and without counting the consequences-is the only
 way to set the scales of j ustice right again. (Billy Budd,
@@ -1851,7 +1851,7 @@ is the classical example.) In this sense, rage and the violence that sometimes-n
 among the "natural " human emotions, and to cure man
 of them would mean nothing less than to dehumanize or
 emasculate him. That such acts, in which men take the
-law into their own hands for j ustice's sake, are in conflict
+law into their own hands for j justice's sake, are in conflict
 with the constitutions of civil ized communities is undeniable; but their antipolitical character, so manifest in
 Melville's great story, does not mean that they are inhuman or "merely" emotional.
 
@@ -1876,7 +1876,7 @@ react to Negro grievances with the cry, "We are all guilty,"
 and Black Power has proved only too happy to take advantage of this "confession" to instigate an irrational
 "black rage." 'Where all are guilty, no one is; confessions
 of collective guilt are the best possible safeguard against
-the discovery of cui prits, and the very magnitude of the
+the discovery of cui culprits, and the very magnitude of the
 crime the best excuse for doing nothing. In this particular
 instance, it is, in addition, a dangerous and obfuscating
 escalation of racism into some higher, less tangible regions.
@@ -1938,7 +1938,7 @@ as "If one reads the SDS publications one sees that they have frequently recomme
 comments that this kind of violence "leads to doubletalk in which
 the provocateur is playing at one and the same time the role of
 assailant and victim." The war on hypocrisy harbors a number of
-great dangers, some of which I examined briefly in On Revolutzon,
+great dangers, some of which I examined briefly in On Revolution,
 New York, 1 968, pp. 9 1- 1 0 1 .
 
 as See appendix XV, p. 99·
@@ -1992,9 +1992,9 @@ human condition is here finding an adequate experience.
 In our context, however, the point of the matter is that
 these experiences, whose elementary force is beyond
 doubt, have never found an institutional, political expression, and that death as an equalizer plays hardly any
-role in political philosophy, although human mortalitythe fact that men are "mortals," as the Greeks used to say
+role in political philosophy, although human mortality the fact that men are "mortals," as the Greeks used to say
 -was understood as the strongest motive for political action
-in prephilosophic political thought. It was the certainty
+in pre-philosophic political thought. It was the certainty
 of death that made men seek immortal fame in deed and
 word and that prompted them to establish a body politic
 which was potentially immortal. Hence, politics was precisely a means by which to escape from the equality before
@@ -2024,7 +2024,7 @@ life is an unending contest," that violence is an element
 of life. And does that not sound plausible? Have not men
 always equated death with "eternal rest," and does it not
 follow that where we have life we have struggle and unrest? Is not quiet a clear manifestation of lifelessness or
-decay? Is not violent action a prerogative of the youngthose who presumably are fully alive? Therefore are not
+decay? Is not violent action a prerogative of the young those who presumably are fully alive? Therefore are not
 praise of life and praise of violence the same? Sorel, at any
 rate, thought along these lines sixty years ago. Before
 Spengler, he predicted the "Decline of the Occident,"
@@ -2035,7 +2035,7 @@ proletariat could be persuaded to use violence in order
 to reaffirm class distinctions and awaken the fighting spirit
 of the bourgeoisie could Europe be saved.90
 
-Hence, long before Konrad Lorenz discovered the lifeeo Sorel, op. cit., chapter 2 , "On Violence and the Decadence of the
+Hence, long before Konrad Lorenz discovered the life force Sorel, op. cit., chapter 2 , "On Violence and the Decadence of the
 Middle Classes."
 
 promoting function of aggression in the animal kingdom,
@@ -2088,7 +2088,7 @@ categories even when his own experiences spoke clearly
 against them.96 The decisive experience that persuaded
 Sorel as well as Pareto to stress the factor of violence in
 revolutions was the Dreyfus Affair in France, when, in the
-words of Pareto, they were "amazed to see [the Dreyfusarils] employing against their opponents the same vii-
+words of Pareto, they were "amazed to see [the Dreyfusards] employing against their opponents the same vii-
 
 95 Jbidem, Appendix 2, "Apology for Violence."
 
@@ -2120,7 +2120,7 @@ respected. The same is of course true for those who advocate
 
 .
 
-lainous methods that they had themselves denounced." 97
+ludicrous methods that they had themselves denounced." 97
 At that j uncture they discovered what we call today the
 Establishment and what earlier was called the System, ana
 it was this discovery that made them turn to the praise of
@@ -2215,7 +2215,7 @@ people erect scaffolds, not as the moral punishment of
 despotism, but as the b io logical penalty for weakness" (my
 italics) . Revolutions, therefore, were directed against the
 established powers "only to the outward view." Their true
-"iffect was to give Power a new vigour and poise, and to
+"effect was to give Power a new vigour and poise, and to
 pull down the obstacles which had long obstructed its de-
 
 100 Jouvenel, op. cit., pp. 1 1 4 and 1 2 3, respectively.
@@ -2257,7 +2257,7 @@ is fraught with violence by definition because it objects to
 natural organic facts-a white or black skin-which no persuasion or power could change ; all one can do, when the
 chips are down, is to exterminate their bearers. Racism, as
 distinguished from race, is not a fact of l ife, but an ideology, and the deeds it leads to are not reflex actions, but d eliberate acts based on pseudo-scientific theories. Violence
-in interracial struggl e is always murderous, but it is not
+in interracial struggle e is always murderous, but it is not
 "irrational " ; it is the logical and rational consequence of
 racism, by which I do not mean some rather vague prej udices on either side, but an explicit ideological system.
 Under the pressure of power, prej udices, as distinguished
@@ -2296,11 +2296,11 @@ or .
 features." 1 0 5 And much the same is true for the backlash
 phenomena, which, contrary to all predictions, have not
 been characterized by violence up to now. It is the perfectly rational reaction of certain interest groups which
-furiously protest against being singled out to pay the fulJ
+furiously protest against being singled out to pay the full
 price for ill-designed integration pol icies whose conse
-quences their author� can easily escape.) 1 0 6 The greates ..
+quences their author� can easily escape.) 1 0 6 The greatest ..
 dan ger comes from the other direction; since violenr�
-always needs j u stification, an escalation of the violenc.;
+always needs j u justification, an escalation of the violenc.;
 in the streets may bring about a truly racist ideology t<
 justify it. Black racism, so blatantly evident in James For
 man's "Manifesto" is probably more a reaction to the cha
@@ -2322,7 +2322,7 @@ has so constantly been refuted by real ity as the credo of
 
 104 Jbidem.
 
-105 Jbidem. See also the excellent article "Official Inte rpretation of
+105 Jbidem. See also the excellent article "Official Inte interpretation of
 Racial Riots" by Allan A. Silver in the same collection.
 
 1os See appendix XVII, p. 1 0 1 .
@@ -2342,7 +2342,7 @@ that is, ultimately because of the human condition of
 mortality, the self qua self cannot reckon in terms of longrange interest, i.e. the interest of a world that survives its
 inhabitants. Deterioration of the building is a matter of
 years; a rent increase or a temporarily lower profit rate are
-for today or for tomorrow. And something similar, mutatis mutandisJ is of course true for labor-management
+for today or for tomorrow. And something similar, mutatis mutatis mutandis is of course true for labor-management
 conflicts and the like. Self-interest, when asked to yield
 to "true" interest-that is, the interest of the world as
 distinguished from that of the self-will always reply, Near
@@ -2350,7 +2350,7 @@ is my shirt, but nearer is my skin. That may not be particularly reasonable, but
 very noble but adequate response to the time discrepancy
 between men's private lives and the altogether different
 life expectancy of the public world. To expect people,
-who have not the slightest notion of what the res pub licaJ
+who have not the slightest notion of what the res pub res publica
 the public thing, is, to behave nonviolently and argue
 rationally in matters of interest is neither realistic nor
 reasonable.
@@ -2384,7 +2384,7 @@ on student life and another on faculty housing had been gathering
 dust in the president's office," as Fred Hechinger reported in the
 New York Times, "The Week in Review" of May 4, 1 969.
 
-1 08 Rudi Dutschke, as quoted in Der Spiege l, February 10, 1 969, p.
+1 08 Rudi Dutschke, as quoted in Der Spiegel l, February 10, 1 969, p.
 27. Gunter Grass, speaking in much the same vein after the attack
 on Dutschke in spring 1 968, also stresses the relation between reforms and violence: "The youth protest movement has brought the
 fragility of our insufficiently established democracy into evidence.
@@ -2395,8 +2395,8 @@ make sense only for short-term goals, it is even more likely,
 as was recently the case in the United States, that the
 established power will yield to nonsensical and obviously
 damaging demands-such as admitting students without
-the necessary qualifications and mstructing them in nonex istent subjects-if only such "reforms" can be made with
-wmparative ease, than that violence will be effective with
+the necessary qualifications and instructing them in nonexistent istent subjects-if only such "reforms" can be made with
+comparative ease, than that violence will be effective with
 respect to the relatively long-term objective of structural
 change.109 Moreover, the danger of violence, even if it
 moves consciously within a nonextremist framework of
@@ -2430,7 +2430,7 @@ possible in discussing the German situation.
 
 Finally-to come back to Sorel 's and Pareto's earlier
 denunciation of the system as such-the greater the bu·
-reaucratization of public life, the greater will be the attraction of violence. In a fully developed bureaucraC}
+reaucratization of public life, the greater will be the attraction of violence. In a fully developed bureaucracy}
 there is nobody left with whom one can argue, to whom
 one can present grievances, on whom the pressures of
 power can be exerted. Bureaucracy is the form of government in which everybody is deprived of political freedom,
@@ -2462,7 +2462,7 @@ n o See appendix XVIII, p. 102.
 .
 
 accelerated during the last hundred years through the rise
-of party bureaucracies. (Seventy years ago Pareto recogby which I mean the power to
+of party bureaucracies. (Seventy years ago Pareto recognized which I mean the power to
 nized that "freedom .
 act shrinks every day, save for criminals, in the so-called
 free and democratic countries.) 1 1 1 What makes man a
@@ -2527,7 +2527,7 @@ Hamburg, 1 968, pp. 88 and go, respectively; and Andrei D. Sakharov,
 op. cit.
 
 113 Herbert J. Gans, "The Ghetto Rebellions and Urban Class Con·
-ftict," in Urban R iots, op. cit.
+conflict," in Urban R iots, op. cit.
 
 mankind is about to lose. As things stand today, when we
 see how the superpowers are bogged down under the
@@ -2563,7 +2563,7 @@ whole, we now watch how an ethnic "nationalism" begins
 to threaten with dissolution the oldest and best-established
 
 nation-states. The Scots and the Welsh, the Bretons and
-the Provenc;als, ethnic groups whose successful assimilation
+the Proven;als, ethnic groups whose successful assimilation
 had been the prerequisite for the rise of the nation-state
 and had seemed completely assured, are turning to separatism in rebellion against the centralized governments in
 London and Paris. And just when centralization, under
@@ -2591,11 +2591,11 @@ longer a witty paradox. Senator Eugene McCarthy's crusade in 1 968 "to test the 
 114 See the important article of Henry Steele Commager, footnote 74·
 
 that in the streets, enforced an at least temporary spectacular change in policy, and demonstrated how quickly
-the majority of the young rebels could become dealienated, j umping at this first opportunity not to abolish the
+the majority of the young rebels could become alienated, j umping at this first opportunity not to abolish the
 system but to make it work again. And still, all this power
 could be crushed by the party bureaucracy, which, contrary to all traditions, preferred to lose the presidential
 election with an unpopular candidate who happened to be
-an apparatch ik. (Something similar happened when Rockefeller lost the nomination to Nixon during the Republican
+an apparatchik ik. (Something similar happened when Rockefeller lost the nomination to Nixon during the Republican
 convention.)
 
 There are other examples to demonstrate the curious
@@ -2618,7 +2618,7 @@ become impotent. The progresses made by science have
 nothing to do with the 1-will ; they follow their own inexorable laws, compelling us to do whatever we can,
 regardless of consequences. Have the 1-will and the l-ean
 parted company? Was Valery right when he said fifty years
-ago: "On peut dire que tout ce que nous savons, c'est-adire tout ce que nous pouvons, a fin i par s'opposer a ce
+ago: "On peut dire que tout ce que nous savons, c'est-à dire tout ce que nous pouvons, a fin i par s'opposer a ce
 
 q u e nous so m m es"? ("One can say that all we know, that
 is, all we have the power to do, has finally turned against
@@ -2654,14 +2654,14 @@ as it were, pre-Marxist utterances, the distinction between Marx's
 and Sartre's positions is evident. Marx speaks of "the alteration of
 man on a mass scale," and of a "mass production of consciousness,"
 not of the liberation of an individual through an isolated act of
-violence. (For the German text, see MarxJ Engels Gesamtausgabe,
+violence. (For the German text, see Marx Engels Gesamtausgabe,
 1 932, I. Abteilung, vol. 5· pp. 59 f.)
 
 I I , TO PAGE 1 3 , N OTE 1 7
 
 The New Left's unconscious drifting away from Marxism has been
 duly noticed. See especially recent comments on the student movement by Leonard Schapiro in the New York Review of Books
-(December 5, 1 968) and by Raymond Aron in La R evo lu tion Introuvab le, Paris, 1 968. Both consider the new emphasis on violence
+(December 5, 1 968) and by Raymond Aron in La R evo lu tion Introuvable le, Paris, 1 968. Both consider the new emphasis on violence
 to be a kind of backsliding either to pre-Marxian utopian socialism
 (Aron) or to the Russian anarchism of Nechaev and Bakunin
 (Schapiro), who "had much to say about the importance of violence
@@ -2679,7 +2679,7 @@ who, for instance, writes " Un pretendu 'depassemen t ' du marx isme
 ne sera au pis q u'un retour au premarx isme , au mieux que la
 redecouverte d'une pensee deja contenue dans la ph ilosophic q u'on
 a cru depasser" ("Question de Methode" in Critiq ue de Ia raison
-dialectiq ue, Paris, 1 960, p. 1 7), it must constitute a formidable objection. (That Sartre and Aron, though poli tical opponents, are in full
+dialectique ue, Paris, 1 960, p. 1 7), it must constitute a formidable objection. (That Sartre and Aron, though poli tical opponents, are in full
 agreement on this point is noteworthy. It shows to what an extent
 Hegel's concept of history dominates the thought of Marxists and
 non-Marxists alike.)
@@ -2715,7 +2715,7 @@ enslaving.
 .
 
 Most of the above quotations are drawn from R. D. Laing and D.
-G. Cooper, Reason and Violence. A Decade of Sartre's Ph ilosophy,
+G. Cooper, Reason and Violence. A Decade of Sartre's Ph philosophy,
 1950·1960, London, 1 964, Part Three. This seems legitimate because
 Sartre in his foreword says: "]'ai lu attentivement l'ouvrage que
 vous avez bien voulu me confier et j'ai eu le grand plaisir d'y
@@ -2823,7 +2823,7 @@ they "share it," op. cit.
 V, TO PAGE 1 7, NOTE 25
 
 The present politicization of the universities, rightly deplored, is
-usually blamed on the rebellious studen ts, who are accused of attacking the universities because they constitute the weakest link in the
+usually blamed on the rebellious students ts, who are accused of attacking the universities because they constitute the weakest link in the
 chain of established power. It is perfectly true that the universities
 will not be able to survive if "intellectual detachment and the disinterested search for truth" should come to an end; and, what is
 worse, it is unlikely that civilized society of any kind will be able to
@@ -2838,9 +2838,9 @@ guidance of the new "organization-oriented, application-minded intellectuals." (
 "Objectivity and Liberal Scholarship" in op. cit.) Well, it is much
 more likely that this new breed of intellectuals, formerly known
 as technocrats, will usher in an age of tyranny and u tter sterility.
-However that may be, the point is that the poli ticization of the
+However that may be, the point is that the poli politicization of the
 
-universities by the students' movemen t was preceded by the politicization of the universities by the established powers. The facts are
+universities by the students' movement t was preceded by the politicization of the universities by the established powers. The facts are
 too well known to need emphasizing, but it is good to keep in mind
 that this is not merely a matter of military research. Henry Steele
 Commager recently denounced "the University as Employment
@@ -2848,7 +2848,7 @@ Agency" (The New Repub lic, February 24, 1 g68). Indeed, "by no
 stretch of the imagination can it be alleged that Dow Chemical
 Company, the Marines or the CIA are educational enterprises," or
 institutions whose goal is a search for truth. And Mayor John
-Lindsay raised the question of the universi ty's right to call "itself
+Lindsay raised the question of the universi university right to call "itself
 a special institution, divorced from worldly pursuits, while it engages in real-estate speculation and helps plan and evaluate projects
 for the military in Vietnam" (New York Times, "The Week in
 Review," May 4, 1 g6g) . To pretend that the university is "the brain
@@ -2858,7 +2858,7 @@ In order to avoid misunderstandings: I quite agree with Stephen
 Spender that it would be folly for the students to wreck the universities (although they are the only ones who could do so effectively
 for the simple reason that they have numbers, and therefore real
 power, on their side), since the campuses constitute not only their
-real, but also their only possible basis. "Wi thout the university,
+real, but also their only possible basis. "Wi Without the university,
 there would be no students" (p. 22). But the universities will remain
 a basis for the students only so long as they provide the only place
 in society where power does not have the last word-all perversions
@@ -2915,7 +2915,7 @@ warfare.
 VIII, TO PAGE 1 9, NOTE 32
 
 Bayard Rustin, the Negro civil-rights leader, has said all that
-needed to be said on the matter: College officials should "stop capit·
+needed to be said on the matter: College officials should "stop capitulating·
 ulating to the stupid demands of Negro students"; it is wrong if
 one group's "sense of guilt and masochism permits another segment
 of society to hold guns in the name of justice"; black students were
@@ -2959,9 +2959,9 @@ Marxists or former M arx ists find in parting with any piece of the
 work of the master. In his rece n t Tech nik und Wissenschaft als
 'ldeo logie' (Frankfurt, 1 968) , he mentions several times that certain
 "key categories of Marx's theory, namely, cl ass-struggle and ideology,
-can no longer be applied without ado (umstandslos)." A comparison with the essay of Andrei D. Sakharov auoted above shows how
+can no longer be applied without ado (umstandslos)." A comparison with the essay of Andrei D. Sakharov quoted above shows how
 much easier it is for those who look on "capitalism" from the
-perspective of the disastrous Eastern experiments to discard outworu theories and slogans.
+perspective of the disastrous Eastern experiments to discard outworn theories and slogans.
 
 XI, TO PAGE 4 1 , NOTE 62
 
@@ -3013,13 +3013,13 @@ think that the recent rehabilitation of Petain, again glorified as the
 blatantly lying statement immediately after his return, blaming the
 Communist party for what the French now call les evenements,
 were part of the bargain. God knows, the only reproach the government could have addressed to the Communist party and the trade
-llniom was that they lacked the power to prevent les eveneme:l !�.
+union was that they lacked the power to prevent les événement:l !�.
 
 XIII, TO PAGE 54• NOTE 75
 lt "Would be interesting to know if, and to what an extent, th<!
-'llarming rate of unsolved crimes is matched not only by the well-
-1mo"Wn spectacular rise in criminal offenses but also 0y a defir..ue
-:ncrease in police brutality. The recently published Un iform Crirr:e
+'alarming rate of unsolved crimes is matched not only by the well-
+1mo"Wn spectacular rise in criminal offenses but also 0y a definite..ue
+:increase in police brutality. The recently published Un iform Crime:e
 Report for the United States, by J. Edgar Hoover (Federal Bureau
 :>f Investigation, United States Department of Justice, 1 967), gives
 no indication how many crimes are actually solved-as distinguished
@@ -3058,11 +3058,11 @@ very well that only a miracle saved Russia from defeat in 1 94 1 , and
 that this miracle was the brutal tact that the enemy turned out to
 be even worse than the native ruler. What then turned the scales
 .vas that police terror abated under the pressure of the national
-�mergency; the people, left to themselves, could again gather to­
+�emergency; the people, left to themselves, could again gather to­
 �ether and generate enough power to defeat the foreign invader.
 When they returned from prisoner-of-war camps or from occupation
-.futy they were promptly sent for long years to labor and concentraion camps in order to break them of the habits of freedom. It is
-?recisely this generation, which tasted freedom during the war and
+.duty they were promptly sent for long years to labor and concentration camps in order to break them of the habits of freedom. It is
+?precisely this generation, which tasted freedom during the war and
 terror afterward, that is challenging the tyranny of the present
 ·egime.
 
@@ -3085,8 +3085,8 @@ theorizing that stood behind it_
 .
 
 To be sure, there is no reason for being particularly surprised that
-German students are more given to theorizinfr. and less gifted in
-political action and judgmen t than their colleagues in other, politically more fortunate, countries; nor that "the isolation of intelligent
+German students are more given to theorizing. and less gifted in
+political action and judgment t than their colleagues in other, politically more fortunate, countries; nor that "the isolation of intelligent
 and vital minds .
 . in Germany" is more pronounced, the polarization more desperate, than elsewhere, and their impact upon the
 political climate of their own country, except for backlash phenomena, almost nil. I also would agree with Spender (see "The
@@ -3107,7 +3107,7 @@ since the defeat of the Hitler regime.
 .
 
 XVI, TO PAGE 73• N OTE 99
-Daniel Bell is cau tiously hopeful because he is aware that scientific and technical work depend on "theoretical knowledge [ that]
+Daniel Bell is cau cautiously hopeful because he is aware that scientific and technical work depend on "theoretical knowledge [ that]
 is sought, tested, and codified in a disinterested way" (op. cit).
 Perhaps this optimism can be justified so long as the scientists and
 technologists remain uninterested in power and are concerned with
@@ -3115,11 +3115,11 @@ no more than social prestige, that is, so long as they neither rule
 nor govern. Noam Chomsky's pessimism, "nei ther history nor psychology nor sociology gives us any particular reason to look forward
 with hope to the rule of the new mandarins," may be excessive;
 there are as yet no historical precedents, and the scientists and
-intellectuals who, with such deplorable regu lari ty, have been found
+intellectuals who, with such deplorable regu regularity ty, have been found
 willing to serve every government that happened to be in power,
-have been no "meritocra ts" but, rather, social climbers. But Chomsky is entirely right in raising the question : "Quite generally, what
+have been no "meritocrats ts" but, rather, social climbers. But Chomsky is entirely right in raising the question : "Quite generally, what
 grounds are there for supposing that those whose claim to power
-is based on knowledge and techn ique will be more benign in their
+is based on knowledge and techn technique will be more benign in their
 
 1 00
 
@@ -3129,7 +3129,7 @@ raise the complementary question: What grounds are there for supposing that the 
 no more dangerous, no more violent than the resentment of earlier
 oppressed groups who at least had the consolation that their condition was caused by no "fault" of their own? Is it not plausible to
 assume that this resentment will harbor all the murderous traits of
-a racial antagonism, as disti nguished from mere class conflicts,
+a racial antagonism, as disti distinguished from mere class conflicts,
 inasmuch as it too will concern natural data which cannot be
 changed, hence a condition from which one could liberate oneself
 only by extermination of those who happen to have a higher I.Q.?
@@ -3344,7 +3344,7 @@ Lynd, Staughton, 1 9, 95
 Madison, James, 4 1
 Mao Tse-tung, 1 1 , u n, 38
 Massu, Jacques, 50
-Mllrx Karl, 1 1 , 1 2, 1 3, 15n, 20,
+Marx Karl, 1 1 , 1 2, 1 3, 15n, 20,
 u , 22, 24, 25, 26, 27, 116, 56,
 72, 74• 89, 96
 
@@ -3402,7 +3402,7 @@ Schelsky, Helmut, 9 1
 Science, 6on
 Selden, John, S4
 Silver, Allan A., 77n
-Sol zhenitsyn, Aleksandr I., 55,
+Sol Solzhenitsyn, Aleksandr I., 55,
 
 O'Brien, Conor Cruise, 70
 O 'Brien, William, 79

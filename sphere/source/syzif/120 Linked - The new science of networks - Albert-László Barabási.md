@@ -525,7 +525,7 @@ an enormous balloon that rose 6,500 feet into the air and landed safely
 
 about a mile away. Euler was working out the mechanics of the bah
 
-loon's motion as the Montgolfler brothers were preparing to launch a
+balloon motion as the Montgolfler brothers were preparing to launch a
 
 sheep into the air in front of King Louis XVI in Paris, a flight that took
 
@@ -613,7 +613,7 @@ Pregel River. Solving the Konigsberg problem meant finding a route around the
 
 city that would require a person to cross each bridge only once. In 1 736, Leonhard
 
-Euler gave birth to graph theory by replacing each of thefour land areas with nodes
+Euler gave birth to graph theory by replacing each of the four land areas with nodes
 
 (A to D) and each bridge with a lin\ fa to g), obtaining a graph with four nodes
 and seven links. He then proved that on the Konigsberg graph, a route crossing each
@@ -791,17 +791,17 @@ though John has not met Mary yet, they have both met Mike, and so
 
 .2
 
-The Party. At a party with ten guests, none ofwhom initially knows
-one another, social tiesform as the guests start chatting in small groups. At first, the
+The Party. At a party with ten guests, none of whom initially knows
+one another, social ties form as the guests start chatting in small groups. At first, the
 
-groups are isolatedfrom each other (left panel) . Indeed, though there are social links
+groups are isolated from each other (left panel) . Indeed, though there are social links
 
 (shown as continuous lines) between those in the same group, everyone outside of
 
 that group is still a stranger. As time goes on (right panel) , three guests move to different groups and a giant cluster emerges. Although not everyone knows everyone
 
 else, there is now a single social network that includes all the guests. By following
-the social links, one can nowfind a path between any two guests.
+the social links, one can now find a path between any two guests.
 
 there is a path from John to Mary through Mike. If John knew about
 the wine, chances are that now Mary knows too, since she could hear it
@@ -1059,7 +1059,7 @@ boldly disguised himself in the uniform of the Hungarian fascists, Nyilas,
 to help his friends escape the concentration camps. According to one
 
 story, Renyi entered the Budapest ghetto dressed as a Nyilas soldier and
-managed to escort his parents out. He also lived for years in Nazicontrolled Budapest using false documents. Only those aware of the realities of the Nazi terror could truly appreciate the courage needed to
+managed to escort his parents out. He also lived for years in Nazi controlled Budapest using false documents. Only those aware of the realities of the Nazi terror could truly appreciate the courage needed to
 
 perform these acts. Not surprisingly, Renyi's ability to focus on mathematics was highly constrained until the end of the war, when in 1946
 
@@ -1367,7 +1367,7 @@ the Swedish monarch who hands out the Nobel prize, who in turn is a
 consummate tennis player and plays occasionally with a tennis champion
 who happens to be a good friend of Karinthy's character. Remarking that
 
-linking to celebrities is easy, Karinthy's character demands a more dimcult assignment. Next he tries to link a worker in Ford's factory to himself: "The worker knows the manager in the shop, who knows Ford; Ford
+linking to celebrities is easy, Karinthy's character demands a more difficult assignment. Next he tries to link a worker in Ford's factory to himself: "The worker knows the manager in the shop, who knows Ford; Ford
 
 is on friendly terms with the general director of Hearst Publications, who
 
@@ -1490,7 +1490,7 @@ on this planet. The president of the United States. A gondolier in
 . It's not just the big names. It's anyone. A native in a rain for-
 Venice. .
 est. A Tierra del Fuegan. An Eskimo. I am bound to everyone on this
-. How every perplanet by a trail of six people. It's a profound thought. .
+. How every per planet by a trail of six people. It's a profound thought. .
 
 .
 
@@ -1514,7 +1514,7 @@ in which any pair of nodes are on average six links from each other. Perhaps we 
 people. Yet we saw in the previous chapter that being connected requires very little—barely more than one social link per person. As we
 all have many more than one link, each of us is a part of the giant network that we call society.
 
-Stanley Miigram awakened us to the fact that not only are we connected, but we live in a world in which no one is more than a few
+Stanley Milgram awakened us to the fact that not only are we connected, but we live in a world in which no one is more than a few
 
 handshakes from anyone else. That is, we live in a small world. Our
 world is small because society is a very dense web. We have far more
@@ -1629,7 +1629,7 @@ two steps while others took as many as eleven, our results indicated lots of
 variability in the distances between Web documents. For example, my
 graduate students have links to my Webpage; thus they are one click away
 
-from me. Yet going from my Wehpage to the homepage of a philosophy
+from me. Yet going from my Webpage to the homepage of a philosophy
 major would often require twenty clicks. What was astonishing, however,
 
 is that, taken together, these paths were not as long as the vastness of the
@@ -2074,7 +2074,7 @@ Strong and Weak Ties. In Mar\ Granovetter's social world, our
 
 close friends are often friends with each other as well The network behind such a
 
-clustered society consists of small, fully connected circles offriends connected by
+clustered society consists of small, fully connected circles of friends connected by
 
 strong ties, shown as bold lines. Wea\ ties, shown as thin lines, connect the members
 
@@ -2438,7 +2438,7 @@ nodes, where each node is connected to its immediate and next-nearest neighbors
 
 (left). To ma\e this world a small one, a few extra lin\s were added, connecting
 
-randomly selected nodes {right). These long-range linl^s offer the crucial shortcuts between distant nodes, drastically shortening the average separation between all nodes.
+randomly selected nodes {right). These long-range links^s offer the crucial shortcuts between distant nodes, drastically shortening the average separation between all nodes.
 
 and cell biologists have learned that it characterizes the fragile network
 
@@ -3027,7 +3027,7 @@ THE SIXTH LINK
 
 The 80/20 Rule
 
-VlLFREDO PARETO, THE INFLUENTIAL ITALIAN ECONOMIST, while giving
+VILFREDO PARETO, THE INFLUENTIAL ITALIAN ECONOMIST, while giving
 
 a talk in the early 1900s at an economics conference in Geneva, was repeatedly and noisily interrupted by his powerful colleague Gustav von
 Schmoller. Von Schmoller, who from his throne at the University of
@@ -3145,7 +3145,7 @@ a few large events. If the heights of an imaginary planet's inhabitants
 
 followed a power law distribution, most creatures would be really
 
-short. But nobody would be surprised to see occasionally a hundredfeet-tall monster walking down the street. In fact, among six billion
+short. But nobody would be surprised to see occasionally a hundred-feet-tall monster walking down the street. In fact, among six billion
 
 inhabitants there would be at least one over 8,000 feet tall. So the
 distinguishing feature of a power law is not only that there are many
@@ -3319,9 +3319,9 @@ Number of links (k)
 Random and Scale-Free Networks. The degree distribution of a
 random network follows a bell curve, telling us that most nodes have the same
 
-number oflin^s, and nodes with a very large number oflinl^s don't exist (top left).
+number of links^s, and nodes with a very large number of links^s don't exist (top left).
 
-Thus a random networl^ is similar to a national highway networ\, in which the
+Thus a random network^ is similar to a national highway network\, in which the
 
 nodes are the cities, and the lin\s are the major highways connecting them. Indeed,
 
@@ -3332,7 +3332,7 @@ most nodes have only a few lin^s, held together by a few highly connected hubs (
 
 right). Visually this is very similar to the air traffic system, in which a large number
 
-ofsmall airports are connected to each other via a few major hubs (bottom right).
+of small airports are connected to each other via a few major hubs (bottom right).
 
 exponentially—a much faster decay than that predicted by a power law.
 They both told us, in rigorous mathematical terms, that hubs do not exist.
@@ -3708,7 +3708,7 @@ Rich Get Richer
 
 ONCE A PROMINENT MERCHANT PORT of the Portuguese empire, Porto today gives the impression of a forgotten city. Built where the slow-moving
 
-Duoro River wends its way to the Atlantic through the steep hills guarding the seashore, it carries the signature of a busy medieval town strategically located on an easily defensible narrow key. With its magnificent castles overlooking the river and a rich history of wine making, one might
+Douro River wends its way to the Atlantic through the steep hills guarding the seashore, it carries the signature of a busy medieval town strategically located on an easily defensible narrow key. With its magnificent castles overlooking the river and a rich history of wine making, one might
 
 expect it to be one of the most visited cities in the world. But hidden as it
 
@@ -3773,7 +3773,7 @@ and in Hollywood.
 
 After Porto I returned briefly to Notre Dame before taking off for another month-long trip. It was clear, however, that we could not wait another month to submit our results. We had seven days to write a paper.
 
-The eight-hour flight from Lishon to New York seemed an ideal opportunity to prepare the first draft. As soon as the plane took off, I pulled out a
+The eight-hour flight from Lisbon to New York seemed an ideal opportunity to prepare the first draft. As soon as the plane took off, I pulled out a
 
 laptop newly purchased before the Porto trip and frantically started typing.
 
@@ -3818,7 +3818,7 @@ and services; by governments increasingly reliant on the Web to disseminate info
 
 lecture notes; by nonprofit organizations trying to reach those who
 
-could benefit from their services; and by thousands ofdot.com companies designing flashy pages to compete for your wallet. It is estimated
+could benefit from their services; and by thousands of dot.com companies designing flashy pages to compete for your wallet. It is estimated
 that within ten years the Web will host about an exabyte (10 18
 formation spread across the planet in numerous formats, most of which
 
@@ -3917,9 +3917,9 @@ alone cannot explain the emergence of power laws.
 
 4.
 
-During the 1999 Super Bowl numerous neverheardof.com companies
+During the 1999 Super Bowl numerous never heard of.com companies
 
-such as OurBeginning.com, WebEx.com, and Epidemic Marketing
+such as Our Beginning.com, WebEx.com, and Epidemic Marketing
 
 blew $2 million per advertising spot to bring their name to millions of
 
@@ -3959,7 +3959,7 @@ I do not think that anybody ever does that. Rather, most of us are familiar
 with a few major news outlets. Without giving the matter much thought
 we link to one of them. As a longtime reader of the New York Times , it is
 a no-brainer for me to choose nytimes.com. Others might prefer
-CNNxom or MSNBC.com. Significantly, however, the Webpages to
+CNN.com or MSNBC.com. Significantly, however, the Webpages to
 which we prefer to link are not ordinary nodes. They are hubs. The better
 
 known they are, the more links point to them. The more links they attract, the easier it is to find them on the Web and so the more familiar we
@@ -4300,7 +4300,7 @@ the rich get richer? The quest for the answer took us to a very unlikely
 place: the birth of quantum mechanics at the beginning of the twentieth century.
 
 2 The scale-free nature of language has been shown by various research groups. In this
-network the nodes are words, and links represent significant cooccurences in texts, or
+network the nodes are words, and links represent significant co-occurrences in texts, or
 semantic relationships (synonyms, antonyms).
 
 THE EIGHTH LINK
@@ -4612,7 +4612,7 @@ millions oi ticket holders will know exactly which one has been selected, since 
 
 argued Bose. Light particles are truly alike, unnumbered, perfectly indistinguishable. Bose showed that once statistical mechanics and thermodynamics are modified to incorporate the fact that certain subatomic
 
-particles are truly identical, Plank's law can be easily derived.
+particles are truly identical, Planck's law can be easily derived.
 
 Bose's paper was still at the publisher when Einstein appeared at
 the Prussian Academy to present his own results, titled Quantum Theory of Single-Atom Gases, in which he extended Bose's method to gas
@@ -4650,7 +4650,7 @@ Then in 1995 a group from the National Institute of Standards in Boulder, Colora
 
 condensate.
 
-The magnitude of Cornell and Weiman's discovery was recognized by
+The magnitude of Cornell and Weiman discovery was recognized by
 
 their being awarded the Nobel prize for physics only six years later, in
 
@@ -5031,7 +5031,7 @@ it operated as an island with only weak ties to the rest of powerless New
 England. But as the nation's electricity dependency deepened over the
 
 years, people panicked whenever the power went out. According to
-Alan Weisman, who wrote about this in Harpers, utilities learned to increase stability and decrease costs by sharing facilities and bailing one
+Alan Weisman, who wrote about this in Harper's, utilities learned to increase stability and decrease costs by sharing facilities and bailing one
 
 another out in emergencies. As a result, formerly islanded systems began
 
@@ -5277,7 +5277,7 @@ terrorist attacks on the World Trade Center and the Pentagon. He was
 
 ordered to spend eight months in a youth detention center and to make
 
-a $250 donation to charity. Prior to the sentencing, Judge Gilled Oullet
+a $250 donation to charity. Prior to the sentencing, Judge Gilled Ouellet
 
 argued that "this attack weakened the entire electronic communication
 
@@ -5634,7 +5634,7 @@ Viruses and Fads
 GAETAN DUGAS HAD EVERYTHING he could wish for, and he knew it.
 With a wardrobe culled from the trendiest shops in London and Paris,
 
-and a welhbuilt but not muscle-bound body, he was a standout in any
+and a well-built but not muscle-bound body, he was a standout in any
 club. He had only to proposition in his charming French Canadian
 accent and he could seduce anybody he wanted. "I am the prettiest," he
 
@@ -5721,7 +5721,7 @@ Florida's Presidential Ballot. MiJ^e Collins s cartoon satirizing the
 
 confusing butterfly ballots used in the 2000 presidential elections. (Reproduced
 
-with permission ofMiI^e Collins.)
+with permission of Mike^e Collins.)
 
 more confusing." Collins, a twenty-six-year-old municipal water
 board engineer and amateur cartoonist from Elmira, New York, drew
@@ -6103,7 +6103,7 @@ planning to finish up several overdue projects that he and his former
 
 mentor Alessandro Vespignani had initiated during his earlier stay.
 
-While compiling the hibliography of a new manuscript, they stumbled
+While compiling the bibliography of a new manuscript, they stumbled
 
 across a computer science paper titled Open Problems in Computer Virus
 
@@ -6289,7 +6289,7 @@ the data offered striking evidence that the network of our sexual relationships 
 Gaetan Dugas would seemingly hold the record with 250 sexual partners a year. But Wilt Chamberlain's claim that he'd had sex with a staggering 20,000 women clearly surpassed that measure. "Yes, that's correct,
 twenty thousand different ladies," he wrote. "At my age, that equals to
 having sex with 1.2 woman a day, every day, since I was fifteen years old."
-The NBA Hall of Famer's macho accounting made him a lighting rod for
+The NBA Hall of Famer macho accounting made him a lighting rod for
 criticism by those offended by his promiscuity. The Stockholm- Boston
 
 collaboration, however, found that he is not that unique. The scale-free
@@ -6374,7 +6374,7 @@ methods for identifying high-risk groups, as well as individuals most
 likely to be the source of the epidemic, in a given community. Social
 status, age, occupation, and many other factors each play a role.
 
-Therefore, with a certain probability, one can identify the hubs. Doubtless, many hubs will go undiscovered, while a few nonhubs will make
+Therefore, with a certain probability, one can identify the hubs. Doubtless, many hubs will go undiscovered, while a few non-hubs will make
 
 the list. But we must ask whether such an imperfect method is useful.
 
@@ -6575,11 +6575,11 @@ Paul Baran's Networks. In 1964, Paul Baran began thinking about
 .1
 the optimal structure of the Internet. He suggested that there were three possible architectures for such a network^—centralized, decentralized, and distributed—and
 
-warned that both the centralized and decentralized structures that dominated communications systems of the time were too vulnerable to attac\ Instead, he proposed
+warned that both the centralized and decentralized structures that dominated communications systems of the time were too vulnerable to attack\ Instead, he proposed
 
 that the Internet should be designed to have a distributed, mesh -like architecture.
 
-(Reproduced with permission ofPaul Baran.)
+(Reproduced with permission of Paul Baran.)
 
 possibly work, and if it did, damned if we are going to allow the creation o( a competition to ourselves." Baran 's ideas, defeated at every
 
@@ -6637,7 +6637,7 @@ The idea of connecting computers also occurred to Donald Davies,
 
 director of computer science at Britain's National Physical Laboratory in
 
-Tennington, a town within commuting distance of London. Working
+Teddington, a town within commuting distance of London. Working
 
 hard to turn his idea into reality, Davies reinvented packets and packet
 
@@ -6662,7 +6662,7 @@ Baran's original vision in every respect except the guiding principle
 
 that motivated his work: undercutting vulnerability to attacks. Baran's
 
-distributed highwaylike network could have become a reality only if
+distributed highway-like network could have become a reality only if
 
 the Internet had continued to be regulated and maintained by the military. The Internet, however, took on a life of its own.
 
@@ -6812,7 +6812,7 @@ weightless social links or adding URLs to their Webpage?
 
 5.
 
-In October 1969 Charley Kline was asked to arrange the first computerto-computer message through an ordinary telephone line. Working as a
+In October 1969 Charley Kline was asked to arrange the first computer-to-computer message through an ordinary telephone line. Working as a
 programmer in the UCLA lab of Leonard Kleinrock, he was part of a
 project attempting to connect to the only other existing Internet node
 
@@ -6842,7 +6842,7 @@ of a growing network. Today, two decades later, it continues to expand
 node by node—the first and necessary condition for the emergence of a
 
 scale-free topology. Preferential attachment, the second condition, is
-more suhtle, however. Why would anyone link his or her computer to
+more subtle, however. Why would anyone link his or her computer to
 any router other than the nearest one? After all, laying down a longer
 
 cable is more expensive.
@@ -7155,7 +7155,7 @@ will a thinking machine, orders of magnitude faster than a human
 
 brain, emerge spontaneously from billions of interconnected modules?
 
-It is impossible to predict when the Internet will become selfaware, but clearly it already lives a life of its own. It grows and evolves
+It is impossible to predict when the Internet will become self-aware, but clearly it already lives a life of its own. It grows and evolves
 
 at an unparalleled rate while following the same laws that nature uses
 to spin its own webs. Indeed, it shows many similarities to real organisms. Just like the millions of reactions taking place in a cell, terabytes
@@ -7382,13 +7382,13 @@ as the World Wide Web naturally breaks down into several easily identifiable con
 
 the IN continent are arranged such that following the lin\s eventually brings you
 
-bac\ to the central core, but startingfrom the core doesn't allow you to return to the
+bac\ to the central core, but starting from the core doesn't allow you to return to the
 IN continent. In contrast, all nodes of the OUT continent can be reachedfrom the
 
 core, but once you've arrived, there are no links taking you back^ to the core. Finally,
 tubes directly connect the IN to the OUT continent; some nodes form tendrils, attached only to the IN and OUT continents; and a few nodes form isolated islands
 
-that can't be accessedfrom the rest of the nodes.
+that can't be accessed from the rest of the nodes.
 
 two nodes in a directed network, you can connect them through other
 nodes: For example, if you want to go from A to D, you can start from
@@ -7533,7 +7533,7 @@ conflicting viewpoints, the emerging online universe encourages segregation and 
 social and political isolation on the Web are self-reinforcing: They alter the Web's topology as well, segregating the online universe.
 
 Therefore, the four continents are not the only isolated structures of
-the Web. On a smaller scale, these continents are sprinkled with vibrant villages and metropoli. These are Websites brought together by
+the Web. On a smaller scale, these continents are sprinkled with vibrant villages and metropolis. These are Websites brought together by
 
 a joint idea, hobby, or habitat, forming communities of shared interests. Jazz enthusiasts form a well-defined Web-based community, but
 
@@ -8000,7 +8000,7 @@ regions of chromosome 1, with a different research group implicating
 
 chromosome 5 a few years later.
 
-Ahsentminded scientists? Bad research? Far from it. These are not
+Absentminded scientists? Bad research? Far from it. These are not
 
 conflicting results. They simply demonstrate that most illnesses, ranging from manic depression to cancer, are not caused by a single malfunctioning gene. Rather, several genes interacting through a complex
 
@@ -8208,7 +8208,7 @@ have been brought to a halt by an absence of data. In late 1999, however, severa
 
 the Argonne National Laboratory outside Chicago, nicknamed
 
-"What Is There?" which compiled the metabolic network of fortythree diverse organisms. Hawoong Jeong, once again displaying his
+"What Is There?" which compiled the metabolic network of forty-three diverse organisms. Hawoong Jeong, once again displaying his
 
 computer wizardry, wrote a program that downloaded each reaction
 individually. Oltvai and I watched over his shoulder as he made
@@ -8253,7 +8253,7 @@ never localized: Any change in the concentration of a molecule will
 
 shortly reach most other molecules. This finding was supported by the
 study of Andreas Wagner, from the University of New Mexico, and by
-David A. Fell, from Oxford Brooks University, who independently coneluded that the E. coli metabolic network is scale-free and has smallworld properties.
+David A. Fell, from Oxford Brooks University, who independently concluded that the E. coli metabolic network is scale-free and has smallworld properties.
 
 Though unexpectedly short, the three degrees was not the most interesting aspect of our finding. Because the forty-three organisms all
 
@@ -8877,7 +8877,7 @@ integrated and optimized that even small modifications in automobile
 
 design required shutting down factories for weeks or months. Optimization leads to what some call Byzantine monoliths, organizations so
 
-overorganized that they are completely inflexible, unable to respond to
+over-organized that they are completely inflexible, unable to respond to
 
 changes in the business environment.
 
@@ -10059,7 +10059,7 @@ Bar-Yam, Dynamics of Complex Systems (Cambridge, Mass.: Perseus, 1997).
 
 The Second Link: The Random Universe
 
-Euler's life has been briefly described in many different places. For a recent account, see for example the biographical note in Willam Durham, Euler: The Master of Us
+Euler's life has been briefly described in many different places. For a recent account, see for example the biographical note in William Durham, Euler: The Master of Us
 
 All (Washington, D.C.: Mathematical Association of America, 1999).
 
@@ -10084,13 +10084,13 @@ Letters of Euler on Different Subjects in Natural Philosophy Addressed to a Germ
 Princess (New York: Arno Press, 1975).
 
 Euler's collected works are published under the title Opera Omnia (Basel,
-Switzerland: Birkhauser Verlag AG, 1913). Though their publication began in 1911
+Switzerland: Birkhäuser Verlag AG, 1913). Though their publication began in 1911
 and over six dozen volumes have appeared, the work is still incomplete.
 
 Page 10 A nice account of the early days of graph theory, with historical background
 and English translation of the most important papers in the field, can be found in
 Graph Theory: 1736-1936, by Norman L. Biggs, E. Keith Lloyd, and Robin J. Wilson
-(Oxford, England: Clanderon Press, 1976). The book also contains Euler's original paper on the Konigsberg bridges.
+(Oxford, England: Clarendon Press, 1976). The book also contains Euler's original paper on the Konigsberg bridges.
 
 To see in more detail Euler's arguments, consider, for example, node D,
 which has three links representing land connected to three bridges, e, /, and g. A person attempting to cross all three bridges only once has to visit node D at least twice.
@@ -10121,7 +10121,7 @@ Erdos on Graphs: His Legacy and Unsolved Problems (Wellesley, Mass.: A. K. Peter
 Numbers (New York: Hyperion, 1998) and Bruce Schechter, M)> Brain Is Open (New
 York: Touchstone, 1998). See also Andras Hajnal and Vera T. Sos, "Paul Erdos Is Seventy," Journal of Graph Theory 7 (1983): 391-393.
 
-The honor roll of eight articles by Erdos and Renyi, that established random graph theory is listed in Michal Karonski and Adrzej Rucinski, "The Origins of
+The honor roll of eight articles by Erdos and Renyi, that established random graph theory is listed in Michal Karonski and Andrzej Rucinski, "The Origins of
 the Theory of Random Graphs," in The Mathematics of Paul Erdos, ed. R. L. Graham
 and J. Nesetril (Berlin: Springer, 1997). They are On Random Graphs I, Math. Debrecen vol. 6, 290-297 (1959). "On the Evolution of Random Graphs," Publ. Math.
 Inst. Hung. Acad. Sci 5 (1960): 17-61; "On the Evolution of Random Graphs," Bull.
@@ -10189,14 +10189,14 @@ decades indiscriminately applied to the real world the random worldview they dep
 The Third Link: Six Degrees of Separation
 
 There are a large number of books in Hungarian about Karinthy's work and
-life. See, e.g., the in memoriam volume Karinthy Frigyes, A humor a teljes igazsdg, ed.
+life. See, e.g., the in memoriam volume Karinthy Frigyes, A humor a teljes igazság, ed.
 Matyas Domokos, Budapest: Nap Kiado, 1998), which is a collection of stories about
 Karinthy written by friends and colleagues, most of them writers. See also Dolinszky
 Miklos, Szoszerint (A Karinthy Passio), (Budapest: Magveto, 2001), and Levendel Julia,
 Igy elt Karinthy Frigyes (Budapest: Mora Konyvkiado, 1979).
 
-Frigyes Karinthy, "Lancszemek," in Minden mdskeppen van (Budapest:
-Atheneum Irodai es Nyomdai R.-T. Kiadasa, 1929), 85-90. I am deeply indebted to
+Frigyes Karinthy, "Lancszemek," in Minden módszerek van (Budapest:
+Atheneum Irodai es Nyomdai R.-T. Kiadása, 1929), 85-90. I am deeply indebted to
 Tibor Braun, who brought this story to my attention and mailed me a copy in 1999,
 soon after our research on nineteen degrees on the World Wide Web was featured in
 the Hungarian media. I do not think that the short story has ever been translated into
@@ -10218,7 +10218,7 @@ messengers won."
 
 Milgram's six-degrees study was published in several places. See for example
 
-Stanley Milgram, "The Small World Problem," Physiobgy Today 2 (1967): 60-67. For
+Stanley Milgram, "The Small World Problem," Physiology Today 2 (1967): 60-67. For
 his work on obedience, which is fascinating reading by itself, see Stanley Milgram,
 From Obedience to Authority (New York: Harper and Row, 1969).
 
@@ -10242,7 +10242,7 @@ e.g., Judith S. Kleinfeld, "The Small World Problem," Society 39 (January-Februa
 (forthcoming in 2002).
 
 The technical aspects of Milgram's work on our social connectivity was
-known to have been inspired by the work of Anator Rapaport, a Russian-born mathematician and concert pianist who published several seminal papers on social networks. He independently introduced the concept of random graphs and had a huge
+known to have been inspired by the work of Anatol Rapaport, a Russian-born mathematician and concert pianist who published several seminal papers on social networks. He independently introduced the concept of random graphs and had a huge
 impact on sociology. His most relevant papers include R. Solomonoff and A. Rapaport, "Connectivity of Random Nets," Bulletin of Mathematical Biophysics 13 (1951):
 107-117; and A. Rapaport, "Contribution to the Theory of Random and Biased
 Nets," Bulletin of Mathematical Biophysics 19 (1957): 257-277.
@@ -10265,7 +10265,7 @@ the full Web is known in the literature as finite size scaling.
 
 For the degree of separation in food webs, see Richard J. Williams, Neo D.
 Martinez, Eric L. Berlow, Jennifer A. Dunne, and Albert-Laszlo Barabasi, Two Degrees
-of Separation in Complex Food Webs, http://www.santafe.edu/sfi/publicatons/Abstracts/
+of Separation in Complex Food Webs, http://www.santafe.edu/sfi/publications/Abstracts/
 01-07-036 abs.html; Jose M. Montoya and Ricard V. Sole, Small World Patterns in Food
 
 Webs, http://www.santafe.edu/sfi/publications/Abstracts/00- 1 0-059abs.html.
@@ -10370,7 +10370,7 @@ number of researchers have revisited the link between networks and synchronisati
 See for example J. Jast and N. P. Jog, "Spectral Properties and Synchronisation in Coupled Map Lattices," Physical Review, E 65 (2002): 016201; X.F Wang and G.R. Chen,
 "Synchronisation in a Scale-Free Dynamical Network: Robustness and Fragility, "IEEE
 
-Transaction on Circuits and Sysytems I 49 (2002):54-62; M. Barahona and L. M. Pecora,
+Transaction on Circuits and Systems I 49 (2002):54-62; M. Barahona and L. M. Pecora,
 
 "Synchronisation in Small-World Systems," http://xxx.lanl.gov/abs/nlin.CD/0112023;
 
@@ -10760,7 +10760,7 @@ friend's Webpage. But in the majority of cases we all follow an unconscious bias
 Direct quantitative evidence has been found for the existence of preferential attachment in networks as diverse as the Internet, Hollywood, collaboration networks, and citation networks. See H. Jeong, Z. Neda, A.-L. Barabasi, "Measuring Preferential Attachment for Evolving Networks," http://xxx.lanl.gov/abs/cond-mat/
 0104131; M. E. J. Newman, "Clustering and Preferential Attachment in Growing
 
-Networks," Physical Review, E 64, (2001): 025102; Ramualdo Pastor-Satorras, Alexei
+Networks," Physical Review, E 64, (2001): 025102; Ramiro Pastor-Satorras, Alexei
 Vazquez, Alessandro Vespignani, "Dynamical and Correlation Properties of the Internet," Physical Review Letters, 87 (2001): 258701; K. A. Eriksen, and M. Hornquist,
 "Scale-Free Growing Networks Imply Preferential Attachment," Physical Review, E
 
@@ -11235,13 +11235,13 @@ Page 149 For the birth of email see John Naughton, A Brief History of the Future
 
 Page 150 Vern Paxson and Sally Floyd, "Why We Don't Know How To Simulate the
 Internet," Proceedings of the 1997 Winter Simulation Conference, ed. S. Andradottir, K.
-J. Healy, D. H. Withers, and B. L. Nelson. The "Sucess disaster" phrase also comes
+J. Healy, D. H. Withers, and B. L. Nelson. The "Success disaster" phrase also comes
 from this paper (see pg. 149).
 
 Page 150 The discovery that the Internet has a power-law degree distribution was reported in M. Faloutsos, P. Faloutsos, and C. Faloutsos, "On Power-Law Relationships
 of the Internet Topology," [ACM SIGCOMM 99, comp.] Computer Communications
 Review 29 (1999): 251. For more recent measurements, confirming this finding on
-much larger samples, see, e.g., R. Succ and H. Tangmunarunkit, "Heuristics for Internet Map Discovery," Proceedings oflnfocom (March 2000).
+much larger samples, see, e.g., R. Succ and H. Tangmunarunkit, "Heuristics for Internet Map Discovery," Proceedings of Infocom (March 2000).
 
 Page 151 For the timeline of the first Internet nodes, see John Naughton, A Brief History of the Future.
 
@@ -11359,7 +11359,7 @@ Page 169 For recent research on the properties of directed networks see S. N. Do
 Directed Networks, http://xxxdanl.g0v/abs/cond-mat/0 103629; M. E. J. Newman, S.
 H. Strogatz, and D. J. Watts, "Random Graphs with Arbitrary Degree Distributions
 and Their Applications," Physical Review, E 64 (2001): 026118; B. Tadic, "Dynamics
-of Direeted Graphs: the World Wide Web," Physica, A 293 (2001): 273-284-
+of Directed Graphs: the World Wide Web," Physica, A 293 (2001): 273-284-
 
 Page 170 Cass R. Sunstein, Republic.com (Princeton, Princeton University Press,
 
@@ -11367,14 +11367,14 @@ Page 170 Cass R. Sunstein, Republic.com (Princeton, Princeton University Press,
 
 Page 171 Justice Stewart's quote on pornography is cited in many places. See, e.g.,
 "The Task of Defining What's Too Explicit to Be Seen," USA Today, Jan. 26, 1999,
-available at http://www.usatoday.com/life/cyber/tech/ctbl 14-htm.
+available at http://www.usatoday.com/life/cyber/tech/table 14-htm.
 
 For the NEC work on communities on the Web, see Gary William Flake,
 Steve Lawrence, and C. Lee Giles, "Efficient Identification of Web Communities,"
 Proceedings of the Sixth International Conference on Knowledge Discovery and Data Mining (Boston, Mass.: ACM Special Interest Group on Knowledge Discovery in Data
 and Data Mining, August 2000), 156-160. Several other groups have worked on very
 
-similar problems. See David Gibson, Jon Kleinberg, and Pranhakar Raghavan, "Inferring Web Communities from Link Topology," Proceedings of the 9th ACM Conference
+similar problems. See David Gibson, Jon Kleinberg, and Prabhakar Raghavan, "Inferring Web Communities from Link Topology," Proceedings of the 9th ACM Conference
 on Hypertext and Hypermedia (1998); and Ray R. Larson, Bibliometrics of the World
 Wide Web: An Exploratory Analysis of the Intellectual Structure of Cyberspace,
 http://sherlock.berkeley.edu/asis96/asis96.html.
@@ -11386,7 +11386,7 @@ H. W. Freeman, 1979).
 Page 172 Lada A. Adamic, "The Small World Web," Proceedings of ECDL'99, LNCS
 1696 (Springer, 1999), 443-452. See also Lada A. Adamic and Eytan Adar, Friends
 
-and Neighbors on the Web, http://www.hpl.hp.com/shl/papers/weblO/.
+and Neighbors on the Web, http://www.hpl.hp.com/shl/papers/web1/.
 
 Page 173 Lawrence Lessig, Code and Other Laws of Cyberspace (New York: Basic
 
@@ -11403,7 +11403,7 @@ anthologies any longer; they are available in Web archives. The Web is the prima
 medium for an increasing number of visual artists whose work cannot be appreciated
 
 without a browser. Yet all of this will be irreversibly lost thanks to badly curated sites,
-broken computers, and vanishing resources. We will not have Van Goghs in the future because their work, if unappreciated by their contemporaries, will not survive for
+broken computers, and vanishing resources. We will not have Van Gogh in the future because their work, if unappreciated by their contemporaries, will not survive for
 future generations. The creative geniuses of the online world will be tossed out with
 computer upgrades or technology changes, not in centuries but in a few short years.
 
@@ -11525,7 +11525,7 @@ Protein Family Interactions: Intramolecular and Intermolecular Protein Family In
 Albert-Laszlo Barabasi, and Zoltan N. Oltvai, "Centrality and Lethality of Protein Networks," Nature 41 1 (2001 ): 4M2.
 
 Page 190 On gene duplication and its evolutionary role, see John Maynard Smith and
-Eors Szathmary, The Origins of Life (Oxford, England: Oxford University Press, 1999).
+Eörs Szathmary, The Origins of Life (Oxford, England: Oxford University Press, 1999).
 Page 190 The papers that independently suggested gene duplication as the source of
 the scale-free topology in regulatory networks are A. Bhan, D. J. Galas, and T. G.
 Dewey, "A Gene Duplication Growth Model of Scaling in Gene Expression Networks
@@ -11732,7 +11732,7 @@ consumers. Globalization, the buzzword of the last decade, actually means the pr
 not locally but worldwide. Then there is industry-based clustering—companies in the
 same market or business sharing many links. Such links, though geographically biased,
 
-cut easily across large distances. The clustered nature of the economy has been documented recently in Bmce Kogut and Gordon Walker, "The Small World of Germany
+cut easily across large distances. The clustered nature of the economy has been documented recently in Bruce Kogut and Gordon Walker, "The Small World of Germany
 and the Durability of National Networks." American Sociological Review, 66 (2001):
 
 317-335. They investigate firm ownership in Germany, mapping out the links between
@@ -11760,7 +11760,7 @@ evolving network is Alan Kirman of University of Aix-Marseille. His papers offer
 truly excellent discussion of the shortcomings of current economic thinking and the
 role of networks in economic theories. See "The Economy as an Evolving Network,"
 
-Journal of Evolutionary Economics 7 (1997): 339-353; "Aggregate Activity and Economic Organization," Revue europeenne des sciences sociales 37, no. 113 (1999):
+Journal of Evolutionary Economics 7 (1997): 339-353; "Aggregate Activity and Economic Organization," Revue européenne des sciences sociales 37, no. 113 (1999):
 189-230; and "The Economy as an Interactive System," in The Economy as an Evolving Complex System 11 (Proceedings of the Santa Fe Institute Studies in the Sciences of
 
 Complexity, vol. 27), ed. W Brian Arthur, Steven N. Durlauf, and David A. Lane
@@ -11773,7 +11773,7 @@ maintained by Nouriel Roubini, associate professor of economics and internationa
 business at the Stern School of Business of New York University. The site, titled
 "Chronology of the Asian Currency Crisis and Its Global Contagion," is available at
 
-http://www.stern.nyu.edu/~nroubini/asia/AsiaChronologyl.html. For a discussion of
+http://www.stern.nyu.edu/~roubini/asia/AsiaChronologyl.html. For a discussion of
 
 the origins of the crisis, see Giancarlo Corsetti, Paolo Pesenti, and Nouriel Roubini,
 "What Caused the Asian Currency and Financial Crisis?" Japan and the World Economy, Sept. 1999, 305-373.
@@ -11830,7 +11830,7 @@ Page 216 Note that a rapidly expanding field within physics aims to address econ
 phenomena in quantitative terms, using the tools of statistical mechanics. For a short
 introduction, see Rosario N. Mantegna and H. Eugene Stanley, An Introduction to
 Econophysics: Correlations and Complexity in Finance (Cambridge, England: Cambridge
-University Press, 2000); Jean-Phillipe Bouchaud, Marc Potters, Theory of Financial
+University Press, 2000); Jean-Philippe Bouchaud, Marc Potters, Theory of Financial
 Risk: From Statistical Physics to Risk Management (Cambridge, England: Cambridge
 University Press, 2000). See also J. Doyne Farmer, "Physicists Attempt to Scale the
 Ivory Towers of Finance," IEEE Computing in Science and Engineering (Nov.-Dec.
@@ -12000,13 +12000,13 @@ and genetics, 182
 ATP (adenosine triphosphate), 63, 182, 186
 Atta, Mohamed, 223
 Auction Web sites, 172-173, 174
-Authority, ohedience to, 27
+Authority, obedience to, 27
 Averages, and random networks, 22-23
 
 Bacon, Kevin, 58-62, 80
 Bacterium, 186-189, 195-196
 
-EsherichiacoH, 183, 184, 186
+Escherichia, 183, 184, 186
 
 Helicobacter pylori, 189
 
@@ -12329,7 +12329,7 @@ and random networks, 16-17, 23-24
 Denial-of-service attacks, 1-3, 120, 154
 Denmark, 132
 
-Dezso, Zoltam, 139, 140
+Dezso, Zoltan, 139, 140
 
 Dice, "playing," 17, 23
 
@@ -12676,7 +12676,7 @@ and large-scale attacks, 155
 MafiaBoy, 2-5, 8, 19,115, 116
 
 AIDS virus
-C Jenentech, 207
+C Genentech, 207
 
 and Microsoft, 104
 
@@ -12917,7 +12917,7 @@ Kadanoff, Leo, 75, 243n
 Kahle, Brewster, 175-176, 177
 Kamra (Closet) theater, 44-45
 
-Karposi's sarcoma, 123
+Königsberg sarcoma, 123
 
 Karinthy, Frigyes, 25-27, 35-39, 44
 Katz, Elihu, 128-129
@@ -12936,7 +12936,7 @@ Kline, Charley, 151
 
 Kochen, Manfred, 36
 Kogut, Bruce, 263n
-Konigberg problem, 10-13
+Kopur problem, 10-13
 Kopur, Kenneth W., 207
 
 Korea, 208, 210, 220
@@ -13455,7 +13455,7 @@ Price systems, 208
 
 Princeton University, 31
 
-Principa (Newton), 65
+Principle (Newton), 65
 
 Pritchard, David, 163-164
 
@@ -13790,7 +13790,7 @@ Turtle, Brian, 58-59
 
 United Kingdom, 22, 189. See also Britain
 
-Universitat Politechnica de Catalunya,
+Universitat Politécnica de Catalunya,
 
 Sweden, 26, 132,136-138,214
 
@@ -14032,7 +14032,7 @@ Transylvania, he lives in South Bend, Indiana.
 
 A Member or The Perseus Books Gi
 
-www.perseusDooks.con
+www.Perseus Books.con
 
 ier K. Gollatz
 

@@ -111,7 +111,7 @@ Then a nurse noticed he'd stopped babbling. His heart rate had
 
 skyrocketed. His eyes were rolling back in his head. He didn't respond
 when she shook him. She called for help, and the members of the trauma
-team swarmed back into the room. His blood pressure was barely detectible.
+team swarmed back into the room. His blood pressure was barely detectable.
 They stuck a tube down his airway and pushed air into his lungs, poured
 fluid and emergency-release blood into him. Still they couldn't get his
 pressure up.
@@ -361,7 +361,7 @@ oxygen, an aspirin, a statin, and blood pressure medications—in a couple
 days you'll generally be ready to go home and gradually back to your usual
 life.
 
-But now the problem we face is ineptitude, or maybe it's "eptitude"—
+But now the problem we face is ineptitude, or maybe it's "aptitude"—
 making sure we apply the knowledge we have consistently and correctly.
 Just making the right treatment choice among the many options for a heart
 attack patient can be difficult, even for expert clinicians. Furthermore,
@@ -440,7 +440,7 @@ experience before one achieves real success. And if what we are missing
 when we fail is individual skill, then what is needed is simply more training
 and practice.
 
-But what is striking about John's cases is that he is among the besttrained surgeons I know, with more than a decade on the front lines. And
+But what is striking about John's cases is that he is among the best-trained surgeons I know, with more than a decade on the front lines. And
 this is the common pattern. The capability of individuals is not proving to
 be our primary difficulty, whether in medicine or elsewhere. Far from it.
 Training in most fields is longer and more intense than ever. People spend
@@ -520,7 +520,7 @@ surgeons had to open her chest down the middle with a power saw and sew
 the lines to and from the portable ECMO unit directly into her aorta and her
 beating heart.
 
-The ECMO machine now took over. The surgeons removed the heartlung bypass machine tubing. They repaired the vessels and closed her groin
+The ECMO machine now took over. The surgeons removed the heart-lung bypass machine tubing. They repaired the vessels and closed her groin
 incision. The surgical team moved the girl into intensive care, with her
 chest still open and covered with sterile plastic foil. Through the day and
 night, the intensive care unit team worked on suctioning the water and
@@ -550,7 +550,7 @@ could be brought back after two hours in a state that would once have been
 
 considered death. It's also the idea that a group of people in a random
 hospital could manage to pull off something so enormously complicated.
-Rescuing a drowning victimis nothing like it looks on television shows,
+Rescuing a drowning victim nothing like it looks on television shows,
 where a few chest compressions and some mouth-to-mouth resuscitation
 always seem to bring someone with waterlogged lungs and a stilled heart
 coughing and sputtering back to life. To save this one child, scores of
@@ -901,7 +901,7 @@ their residencies, most young doctors today are going on to do fellowships,
 adding one to three further years of training in, say, laparoscopic surgery, or
 pediatric metabolic disorders, or breast radiology, or critical care. A young
 doctor is not so young nowadays; you typically don't start in independent
-practice until your midthirties.
+practice until your mid-thirties.
 
 We live in the era of the superspecialist—of clinicians who have taken
 the time to practice, practice, practice at one narrow thing until they can do
@@ -920,7 +920,7 @@ stability, and even they have divided into subcategories. There are pediatric
 anesthesiologists, cardiac anesthesiologists, obstetric anesthesiologists,
 neurosurgical anesthesiologists, and many others. Likewise, we no longer
 
-have just "operating room nurses." They too are often subspecialized for
+have just "operating room nurses." They too are often sub-specialized for
 specific kinds of cases.
 
 Then of course there are the surgeons. Surgeons are so absurdly
@@ -2030,7 +2030,7 @@ instance, was one of the structural engineers for the Citicorp (now
 Citigroup) building in midtown Manhattan, with its iconic slanted rooftop.
 
 It was planned to rise more than nine hundred feet on four nine-story-tall
-stiltlike columns placed not at the building's corners but at the center of
+stilt-like columns placed not at the building's corners but at the center of
 each side and steadied by giant, hidden chevron-shaped braces designed by
 William LeMessurier, the project's lead structural engineer. The visual
 effect was arresting. The colossal structure would look like it was almost
@@ -2043,11 +2043,11 @@ acceptable amount of sway for the building was unknown.
 So what did they do? They did not scrap the building or shrink it to a less
 
 ambitious size. Instead, McNamara proposed a novel solution called a
-"tuned mass damper." They could, he suggested, suspend an immense fourhundred-ton concrete block from huge springs in the building's crown on
+"tuned mass damper." They could, he suggested, suspend an immense four-hundred-ton concrete block from huge springs in the building's crown on
 the fifty-ninth floor, so that when wind pitched the building one way, the
 block would swing the other way and steady it.
 
-The solution was brilliant and elegant. The engineers did some windtunnel testing with a small model of the design, and the results were highly
+The solution was brilliant and elegant. The engineers did some wind tunnel testing with a small model of the design, and the results were highly
 reassuring. Nonetheless, some chance of error and unpredictability always
 remains in projects of this complexity. So the builders reduced their margin
 of error the best way they knew how—by taking a final moment to make
@@ -2093,7 +2093,7 @@ City. In that circumstance, the joints would fail and the building would
 collapse, starting on the thirtieth floor. By now, the tower was fully
 occupied. LeMessurier broke the news to the owners and to city officials.
 And that summer, as Hurricane Ella made its way toward the city, an
-emergency crew worked at night under veil of secrecy to weld two-inchthick steel plates around the two hundred critical bolts, and the building was
+emergency crew worked at night under veil of secrecy to weld two-inch-thick steel plates around the two hundred critical bolts, and the building was
 secured. The Citicorp tower has stood solidly ever since.
 
 The construction industry's checklist process has clearly not been
@@ -2154,7 +2154,7 @@ that they themselves have ensured that the structure is up to code.
 Inspectors disperse the power and the responsibility.
 
 "It makes sense," O'Sullivan said. "The inspectors have more troubles
-with the safety of a two-room addition from a do-it-yourselfer than they do
+with the safety of a two-room addition from a do-it-yourself than they do
 with projects like ours. So that's where they focus their efforts." Also, I
 suspect, at least some authorities have recognized that when they don't let
 go of authority they fail. We need look no further than what happened after
@@ -2379,7 +2379,7 @@ floor.
 I ran my theory—about the necessity of checklists—by Jody Adams, the
 
 chef and owner of Rialto, one of my favorite restaurants in Boston. In the
-early 1990s, Food and Winemagazine named her one of America's ten best
+early 1990s, Food and Wine magazine named her one of America's ten best
 new chefs, and in 1997 she won a James Beard Foundation Best Chef
 award, which is the Oscar for food. Rialto is frequently mentioned on
 national best-restaurant lists, most recently Esquire magazine's. Her focus
@@ -2457,7 +2457,7 @@ fish broth reduction with littleneck clams and chorizo. The dish is Adams's
 take on a famous Julia Child recipe. Before putting a dish on the menu,
 however, she always has the kitchen staff make a few test runs, and some
 problems emerged. Her recipe called for splitting a lobster and then
-sautéing it in olive oil. But the results proved too variable. Too often the
+sautéingéing it in olive oil. But the results proved too variable. Too often the
 lobster meat was either overcooked or undercooked. The sauce was also
 made to order, but it took too long for the eight-to-ten-minute turnaround
 that customers expect.
@@ -2515,7 +2515,7 @@ want more of a golden brown."
 Later, I got to try some of the results. I had the fried olives, the grilled
 clams, the summer succotash, and a local farm green salad. I also had the
 lobster. The food was incredible. I left at midnight with my stomach full
-and my brain racing. Even here, in one of our most particularized and craftdriven enterprises—in a way, Adams's cooking is more art than science—
+and my brain racing. Even here, in one of our most particularized and craft-driven enterprises—in a way, Adams's cooking is more art than science—
 checklists were required. Everywhere I looked, the evidence seemed to
 point to the same conclusion. There seemed no field or profession where
 checklists might not help. And that might even include my own.
@@ -2558,7 +2558,7 @@ complication rates for hospital surgery range from 3 to 17 percent. While
 
 incisions have gotten smaller and recoveries have gotten quicker, the risks
 remain serious. Worldwide, at least seven million people a year are left
-disabled and at least onemillion dead—a level of harm that approaches that
+disabled and at least one million dead—a level of harm that approaches that
 of malaria, tuberculosis, and other traditional public health concerns.
 Peering at the numbers, I understood why WHO—an organization
 devoted to solving large-scale public health problems— should suddenly
@@ -2583,11 +2583,11 @@ the world seemed absurd. With more than twenty-five hundred different
 surgical procedures, ranging from brain biopsies to toe amputations,
 pacemaker insertions to spleen extractions, appendectomies to kidney
 transplants, you don't even know where to start. Perhaps, I thought, I could
-work with WHO to focus on reducing the harmof just one procedure—
+work with WHO to focus on reducing the harm of just one procedure—
 much like with central lines—but how much of a dent would that make in a
 problem of this scale?
 
-In January 2007, at WHO headquarters in Geneva, we convened a twoday meeting of surgeons, anesthesiologists, nurses, safety experts, even
+In January 2007, at WHO headquarters in Geneva, we convened a two-day meeting of surgeons, anesthesiologists, nurses, safety experts, even
 patients from around the world to puzzle through what could be done. We
 had clinicians from top facilities in Europe, Canada, and the United States.
 We had the chief surgeon for the International Committee of the Red Cross,
@@ -2603,7 +2603,7 @@ A medical officer in his forties from western Ghana, where cocoa
 
 growing and gold mining had brought a measure of prosperity, told of the
 conditions in his district hospital. No surgeon was willing to stay, he said.
-Ghanawas suffering from a brain drain, losing many of its highest skilled
+Ghana was suffering from a brain drain, losing many of its highest skilled
 citizens to better opportunities abroad. He told us his entire hospital had just
 three medical officers—general physicians with no surgical training.
 Nevertheless, when a patient arrives critically ill and bleeding after two
@@ -2674,7 +2674,7 @@ modest—the country's largest pay-for-performance trial, for example,
 registered just 2 to 4 percent improvement. Furthermore, the measurements
 required for incentive payments are not easy to obtain. They rely on
 clinicians' self-reported results, which are not always accurate. The results
-are also strongly affected by howsick patients are to begin with. One might
+are also strongly affected by how sick patients are to begin with. One might
 be tempted, for example, to pay surgeons with higher complication rates
 less, but some might simply have sicker patients. The incentive programs
 
@@ -2724,7 +2724,7 @@ a well in Soho's Broad Street. He interviewed the bereaved families about
 their habits. He made a careful statistical analysis of possible factors. And
 he concluded that contaminated water had caused the outbreak. (It was later
 discovered that the well had been dug next to a leaking cesspit.) Snow
-persuaded the local council to remove the water well's pump handle. This
+persuaded the local council to remove the water well pump handle. This
 disabled the well, ended the spread of the disease, and also established the
 essential methods of outbreak investigation that infectious disease
 specialists follow to this day.
@@ -2822,7 +2822,7 @@ households in both the test and the control neighborhoods: At the start of
 the study, the average number of bars of soap households used was not zero.
 It was two bars per week. In other words, they already had soap.
 
-Sowh at did the study really change? Well, two things, Luby told me.
+So what at did the study really change? Well, two things, Luby told me.
 First, "We removed the economic restraint on purchasing soap. People say
 soap is cheap and most households have soap. But we wanted people to
 wash a lot. And people are quite poor. So we removed that as a barrier."
@@ -3063,7 +3063,7 @@ He knew this was trouble. His mind was completely sharp. But he didn't
 seem scared.
 
 "What do we need to do?" he asked between gritted teeth.
-I explained that I believed his body had thrown a clot into his intestine's
+I explained that I believed his body had thrown a clot into his intestine
 arterial supply. It was as if he'd had a stroke, only this one had cut off blood
 flow to his bowel, not his brain. Without blood flow, his bowel would turn
 gangrenous and rupture. This was not survivable without surgery. But, I
@@ -3337,7 +3337,7 @@ Some time after that first miserable try, I did what I should have done
 to begin with. I went to the library and pulled out a few articles on how
 flight checklists are made. As great as the construction-world checklists
 seemed to be, they were employed in projects that routinely take months to
-complete. In surgery, minutes matter. The problemof time seemed a serious
+complete. In surgery, minutes matter. The problem of time seemed a serious
 limitation. But aviation had this challenge, too, and somehow pilots'
 checklists met it.
 
@@ -3446,7 +3446,7 @@ The United Airlines flight offered a vivid lesson in what could happen,
 for the cargo door blowout instantly depressurized the plane, and once the
 initial, explosive decompression was over, lack of oxygen became the prime
 danger for the passengers and crew. Getting sucked into the void was no
-longer the issue. Everyone was able to stay well away from the ten-byfifteen-foot hole. The temperature, however, plummeted to near freezing,
+longer the issue. Everyone was able to stay well away from the ten-by fifteen-foot hole. The temperature, however, plummeted to near freezing,
 
 and the oxygen levels fell so low that the crew became light-headed and
 feared losing consciousness. Sensors automatically dropped oxygen masks,
@@ -3614,7 +3614,7 @@ only twenty seconds. In others, you may have several minutes."
 
 But after about sixty to ninety seconds at a given pause point, the
 checklist often becomes a distraction from other things. People start
-"shortcutting." Steps getmissed. So you want to keep the list short by
+"shortcutting." Steps get missed. So you want to keep the list short by
 focusing on what he called "the killer items"—the steps that are most
 dangerous to skip and sometimes overlooked nonetheless. (Data
 
@@ -3822,14 +3822,14 @@ the prime minister told London's Daily Mirror.
 The aircraft hit a grassy field just beyond the perimeter road with what a
 
 witness described as "an enormous bang." The nose wheels collapsed on
-impact. The rightmain landing gear separated from the aircraft, and its two
+impact. The right main landing gear separated from the aircraft, and its two
 right front wheels broke away, struck the right rear fuselage, and penetrated
 through the passenger compartment at rows 29 and 30. The left main
 landing gear pushed up through the wing. Fourteen hundred liters of jet fuel
 came pouring out. Witnesses saw sparks, but somehow the fuel did not
 ignite. Although the aircraft was totaled by the blunt force of the crash, the
 passengers emerged mostly unharmed— the plane had gone into a
-thousand-foot ground slide that slowed its momentumand tempered the
+thousand-foot ground slide that slowed its momentum and tempered the
 impact. Only a dozen or so passengers required hospitalization. The worst
 injury was a broken leg.
 
@@ -4371,7 +4371,7 @@ he felt fortunate to be there. I learned that more than 200,000 foreign
 patients travel to Jordan for their health care each year, generating as much
 as one billion dollars in revenues for the country.
 
-What I couldn'twork out, though, was how the country's strict gender
+What I couldn't work out, though, was how the country's strict gender
 divide was negotiated in its operating rooms. I remember sitting outside a
 restaurant the day I arrived, studying the people passing by. Men and
 women were virtually always separated. Most women covered their hair. I
@@ -4981,7 +4981,7 @@ their evidence that checklists might work as well in finance as they do in
 medicine. It's that here, too, they have found takers slow to come. In the
 money business, everyone looks for an edge. If someone is doing well,
 people pounce like starved hyenas to find out how. Almost every idea
-formaking even slightly more money—investing in Internet companies,
+for making even slightly more money—investing in Internet companies,
 buying tranches of sliced-up mortgages, whatever—gets sucked up by the
 giant maw almost instantly. Every idea, that is, except one: checklists.
 
@@ -5252,7 +5252,7 @@ little speed to make it to La Guardia or to the runway in Teterboro, New
 Jersey, offered by air traffic control. As for taking over the piloting, both he
 and Skiles had decades of flight experience, but Sullenberger had logged far
 more hours flying the A320. All the key landmarks to avoid hitting—
-Manhattan's skyscrapers, the George Washington Bridge—were out his leftside window. And Skiles had also just completed A320 emergency training
+Manhattan's skyscrapers, the George Washington Bridge—were out his left side window. And Skiles had also just completed A320 emergency training
 and was more recently familiar with the checklists they would need.
 
 "My aircraft," Sullenberger said, using the standard language as he put
@@ -5472,7 +5472,7 @@ mistakes or devise and refine potential solutions for them.
 
 But we could, and that is the ultimate point. We are all plagued by
 
-failures—bymissed subtleties, overlooked knowledge, and outright errors.
+failures—by missed subtleties, overlooked knowledge, and outright errors.
 
 For the most part, we have imagined that little can be done beyond working
 harder and harder to catch the problems and clean up after them. We are not
@@ -5548,7 +5548,7 @@ She'd had her share of medical problems and required a purseful of
 medications to keep them under control. She'd also been a longtime heavy
 smoker but had quit a few years before. There seemed to be no significant
 lingering effects. She could climb two flights of stairs without shortness of
-breath or chest pain. She looked generallywell. Her lungs sounded clear and
+breath or chest pain. She looked generally well. Her lungs sounded clear and
 without wheezes under my stethoscope. The records showed no pulmonary
 diagnoses. But when she met the anesthesiologist before surgery, she
 remembered that she'd had trouble breathing after two previous operations
