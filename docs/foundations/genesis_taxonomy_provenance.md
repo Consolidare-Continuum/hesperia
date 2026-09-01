@@ -3,7 +3,7 @@
 **2026-08-31 update (Chiron)**: the genesis book corpus described below as lost with
 `sphereV_0.1_.zip` (Ethan trash-out, 2026-08-07) has been recovered and is now the
 **canonical book/author source corpus for default/core Hesperia**, committed at
-`sphere/source/syzif/` (120 books, sequence #1-120, no gaps/duplicates; `repair_text.py`
+`hesperia/modules/default/corpus/syzif/` (120 books, sequence #1-120, no gaps/duplicates; `repair_text.py`
 reconstructed alongside it per the same pipeline documented below). This is a **canon-source
 designation, not a functional-wiring claim**: nothing in the sealed pipeline reads this text
 today — the "Stage 2" gap named at the bottom of this doc (extraction + term-to-family
@@ -34,7 +34,7 @@ naming; "sphere" was the working name before "Hesperia"). Contains:
   tab-delimited `number / area / family`. Confirmed exact 12×24=288 shape, 10 books/area in the
   CSV, before this taxonomy was adopted.
 - `sphere/source/books sphere list/` — 125 raw book files (PDF/epub/docx).
-- `sphere/source/syzif/` — the same ~121 books pre-cleaned to Markdown, with `repair_text.py`/
+- `hesperia/modules/default/corpus/syzif/` — the same ~121 books pre-cleaned to Markdown, with `repair_text.py`/
   `spellcheck_suggestions.py` already run. Better starting point than the raw files for any future
   text-extraction work (Stage 2, not built yet — see below).
 

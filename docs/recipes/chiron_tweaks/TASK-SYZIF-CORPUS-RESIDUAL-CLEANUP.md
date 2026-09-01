@@ -5,7 +5,7 @@ work that produced this file. Read this fully before touching anything.
 
 ## What this is
 
-`sphere/source/syzif/` (dev repo `igareosh/hesperia`, mirrored to prod `Consolidare-Continuum/hesperia`
+`hesperia/modules/default/corpus/syzif/` (dev repo `igareosh/hesperia`, mirrored to prod `Consolidare-Continuum/hesperia`
 via the gated `scripts/hesperia/mirror-atomic-to-cc-srl.sh` in the brain repo) is the 120-book
 corpus that Hesperia's `core/topology/invariant_catalog.py` `AREA_FAMILY_MAP` (12 areas × 24
 families, 288 total) was derived from — see `docs/foundations/genesis_taxonomy_provenance.md`. It

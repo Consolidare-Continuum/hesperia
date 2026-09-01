@@ -39,7 +39,7 @@ way. Real fix is in the sync script itself (e.g. wipe-then-reextract preserving 
 `PRESERVE` list, or `rsync -a --delete`), owned by Grace/Abelard per that script's own header, not
 patched here. **Concrete consequence**: as of day close, CC prod (`Consolidare-Continuum/hesperia`)
 still carries the stale unflagged `85 Moral boundaries - Joan C. Tronto.md` alongside the correctly
-flagged copy — anyone reading straight from `sphere/source/syzif/` in CC prod should know that and
+flagged copy — anyone reading straight from `hesperia/modules/default/corpus/syzif/` in CC prod should know that and
 prefer the `[UNRELIABLE-NEEDS-REEXTRACTION]` copy, ignore the bare-named one, until the sync
 mechanism is fixed and re-run.
 
@@ -253,7 +253,7 @@ inspection of the committed 120-book text, not assumed:
 - **HTML/CD-ROM nav leftovers** (`[Click here]` etc., Peirce *Collected Papers* only — that source
   was clearly an HTML/hyperlinked edition): 235 removed.
 
-104/120 files changed content. Tool: `sphere/source/syzif/clean_corpus_artifacts.py`
+104/120 files changed content. Tool: `hesperia/modules/default/corpus/syzif/clean_corpus_artifacts.py`
 (idempotent — safe to re-run; `--dry-run --json` re-audits without writing).
 
 **Deliberately not touched — needs a human/per-book call, not a blind regex**: per-chapter and
@@ -291,7 +291,7 @@ scoped or started this session.
 unbuilt as of this note — no extraction/attribution tooling exists anywhere in either repo,
 confirmed by search both dates):
 
-1. Extract real text from the 120 books in `sphere/source/syzif/` — done 2026-08-31, grind pass
+1. Extract real text from the 120 books in `hesperia/modules/default/corpus/syzif/` — done 2026-08-31, grind pass
    above still owed before this is a trustworthy source.
 2. Attribute terms/passages from that text to specific families (the 288-row `AREA_FAMILY_MAP`
    in `core/topology/invariant_catalog.py` — currently only the family *names* came from the
