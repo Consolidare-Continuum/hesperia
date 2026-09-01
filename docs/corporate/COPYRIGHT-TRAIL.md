@@ -23,6 +23,10 @@ They do **not** create shared rights in this company repository:
 on EN + RO PDFs in this directory. Ownership and copyright for materials in
 **Consolidare-Continuum/hesperia** are held by the SRL.
 
+**Prior technical seal (2026-03-12):** RAD architecture fingerprint + OpenTimestamps proof in
+`crypto-proof/` — git tag **`HESPERIA_RAD_FREEZE`**, commit `c6bcf14`. Filed Lane A
+`37_hesperia_rad_crypto_proof_2026-09-01` (2026-09-01). Predates SRL vesting; supports continuity of authorship chain.
+
 ## Policy
 
 No disclosure of repository contents except under NDA / written company

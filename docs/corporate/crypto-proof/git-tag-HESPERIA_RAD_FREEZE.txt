@@ -1,0 +1,15 @@
+tag HESPERIA_RAD_FREEZE
+Tagger:     igareosh <igareosh@igareosh.com>
+TaggerDate: Thu Mar 12 14:20:36 2026 -0400
+
+RAD architecture freeze
+
+commit c6bcf14c222bc6a85c34f7fadc0f0c3217b0a5b9
+Author:     igareosh <igareosh@igareosh.com>
+AuthorDate: Thu Mar 12 14:20:32 2026 -0400
+Commit:     igareosh <igareosh@igareosh.com>
+CommitDate: Thu Mar 12 14:20:32 2026 -0400
+
+    RAD: legal notice repo-wide, architecture fingerprint, boundaries, layer deps, .gitignore pytest cache
+    
+    Made-with: Cursor

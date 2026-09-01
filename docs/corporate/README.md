@@ -13,6 +13,16 @@ Document No. **CC-HES-IP-ASSIGN-2026-07-26** · Effective **26 July 2026 / 26 iu
 
 These PDFs are the **copyright transfer evidence** for this private org repository: Hesperia IP vested in **CONSOLIDARE CONTINUUM S.R.L.** Lane A dossier holds the same binaries (`CC_/documents/17_…` / `18_…` + MinIO).
 
+## Cryptographic proof (RAD freeze — OpenTimestamps)
+
+| File | Role |
+|------|------|
+| `crypto-proof/ARCHITECTURE_FINGERPRINT.txt` | SHA256 → commit `c6bcf14` → tag **`HESPERIA_RAD_FREEZE`** |
+| `crypto-proof/HESPERIA_SYSTEM_SPEC_v1.md` | RAD architecture document (fingerprinted) |
+| `crypto-proof/HESPERIA_SYSTEM_SPEC_v1.md.ots` | OpenTimestamps proof — Bitcoin blockchain anchor |
+
+Recovered from `igareosh/hesperia` git **`b1e0feac`** (2026-03-12). Lane A mirror: `CC_/documents/37_hesperia_rad_crypto_proof_2026-09-01/` + MinIO `legal/2026/37_…`.
+
 ## Other
 
 - `LICENSE`, `NOTICE`, `LEGAL_NOTICE.md`, `SECURITY.md` — proprietary posture  

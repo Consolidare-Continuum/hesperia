@@ -1,0 +1,5 @@
+0f6ce3bfd2159c4925278cff6d07ff3196d3fa0d329bc89019404f24c68b8af4  /tmp/hesperia-crypto-proof-2026-09-01/ARCHITECTURE_FINGERPRINT.txt
+2ab9deb854229e64cb5835cae06feef667e79edfb86605f0be3fc09e0319ded6  /tmp/hesperia-crypto-proof-2026-09-01/git-tag-HESPERIA_RAD_FREEZE.txt
+fd8327997f992aa96a4f245498a69efea396253bb36e8e3f6ba2ac94f39929be  /tmp/hesperia-crypto-proof-2026-09-01/HESPERIA_SYSTEM_SPEC_v1.md
+311ef3a0e9ebed3cda88bdf4fc6c4c73af55551138c6c66dff694f756a0cf5d7  /tmp/hesperia-crypto-proof-2026-09-01/HESPERIA_SYSTEM_SPEC_v1.md.ots
+00d178a38078874042f4bf2f2f654d785724be678327417118a792cc3857e334  /tmp/hesperia-crypto-proof-2026-09-01/README-CRYPTO-PROOF.txt
