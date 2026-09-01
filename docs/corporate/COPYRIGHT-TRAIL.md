@@ -27,6 +27,10 @@ on EN + RO PDFs in this directory. Ownership and copyright for materials in
 `crypto-proof/` — git tag **`HESPERIA_RAD_FREEZE`**, commit `c6bcf14`. Filed Lane A
 `37_hesperia_rad_crypto_proof_2026-09-01` (2026-09-01). Predates SRL vesting; supports continuity of authorship chain.
 
+**Commit provenance chain (2026-09-01 — second proof):** Full time-ordered commit lists for all three
+Hesperia git homes in `provenance-chain/` — dev (`igareosh/hesperia`), abandoned Atomic line, and
+SRL repo. Machine merge: `00-MERGED-chronological-all-repos.tsv` (971 rows). Lane A `38_hesperia_commit_provenance_chain_2026-09-01`.
+
 ## Policy
 
 No disclosure of repository contents except under NDA / written company

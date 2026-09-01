@@ -23,6 +23,16 @@ These PDFs are the **copyright transfer evidence** for this private org reposito
 
 Recovered from `igareosh/hesperia` git **`b1e0feac`** (2026-03-12). Lane A mirror: `CC_/documents/37_hesperia_rad_crypto_proof_2026-09-01/` + MinIO `legal/2026/37_…`.
 
+## Commit provenance chain (second proof — 2026-09-01)
+
+| File | Role |
+|------|------|
+| `provenance-chain/HESPERIA-COMMIT-PROVENANCE-CHAIN-2026-09-01.md` | Human index + full per-repo tables |
+| `provenance-chain/00-MERGED-chronological-all-repos.tsv` | **971 rows** — all three repos by timestamp |
+| `provenance-chain/01-…` `02-…` `03-…` | Per-repo TSV exports |
+
+Repos: `igareosh/hesperia` (549) · `Atomic-Commits-Team/hesperia` (391, frozen) · `Consolidare-Continuum/hesperia` (31). Lane A `38_…` · flash `provenance/`.
+
 ## Other
 
 - `LICENSE`, `NOTICE`, `LEGAL_NOTICE.md`, `SECURITY.md` — proprietary posture  
