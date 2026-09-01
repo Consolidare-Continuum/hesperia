@@ -31,6 +31,9 @@ on EN + RO PDFs in this directory. Ownership and copyright for materials in
 Hesperia git homes in `provenance-chain/` — dev (`igareosh/hesperia`), abandoned Atomic line, and
 SRL repo. Machine merge: `00-MERGED-chronological-all-repos.tsv` (971 rows). Lane A `38_hesperia_commit_provenance_chain_2026-09-01`.
 
+**Operator attestation (2026-09-01):** `OPERATOR-PROOF-ATTESTATION-2026-09-01.md` — operator assigns/affirms
+all Hesperia rights to the SRL; acknowledges session + proofs exist; proof of work **as per operator word**. Mirrored all three repos.
+
 ## Policy
 
 No disclosure of repository contents except under NDA / written company

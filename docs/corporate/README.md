@@ -33,6 +33,10 @@ Recovered from `igareosh/hesperia` git **`b1e0feac`** (2026-03-12). Lane A mirro
 
 Repos: `igareosh/hesperia` (549) · `Atomic-Commits-Team/hesperia` (391, frozen) · `Consolidare-Continuum/hesperia` (31). Lane A `38_…` · flash `provenance/`.
 
+## Operator attestation (2026-09-01)
+
+`OPERATOR-PROOF-ATTESTATION-2026-09-01.md` — operator (Platonov Igor / igareosh) assigns and affirms all Hesperia rights to the SRL, acknowledges this session and both proof packs **exist**, and attests they are **proof of work as per operator word**. Mirrored in all three git homes.
+
 ## Other
 
 - `LICENSE`, `NOTICE`, `LEGAL_NOTICE.md`, `SECURITY.md` — proprietary posture  
