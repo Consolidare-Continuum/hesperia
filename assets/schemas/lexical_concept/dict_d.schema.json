@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hesperia.local/schemas/dict_d.schema.json",
+  "title": "Dict D concept co-occurrence row",
+  "type": "object",
+  "required": ["concept_id_a", "concept_id_b", "cooc_count", "npmi", "g2", "agreement_with_b"],
+  "properties": {
+    "concept_id_a": {"type": "string"},
+    "concept_id_b": {"type": "string"},
+    "cooc_count": {"type": "integer", "minimum": 5},
+    "npmi": {"type": "number", "minimum": -1, "maximum": 1},
+    "g2": {"type": "number"},
+    "source_books": {"type": "array", "items": {"type": "string"}},
+    "agreement_with_b": {"type": "string", "enum": ["agrees", "novel", "contradicts"]}
+  },
+  "additionalProperties": true
+}

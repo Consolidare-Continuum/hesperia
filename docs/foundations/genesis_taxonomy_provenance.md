@@ -3,8 +3,9 @@
 **2026-08-31 update (Chiron)**: the genesis book corpus described below as lost with
 `sphereV_0.1_.zip` (Ethan trash-out, 2026-08-07) has been recovered and is now the
 **canonical book/author source corpus for default/core Hesperia**, committed at
-`hesperia/modules/default/corpus/syzif/` (120 books, sequence #1-120, no gaps/duplicates; `repair_text.py`
-reconstructed alongside it per the same pipeline documented below). This is a **canon-source
+`hesperia/modules/default/corpus/syzif/` (120 books, sequence #1-120, no gaps/duplicates at
+recovery time; `repair_text.py` reconstructed alongside it per the same pipeline documented
+below). This is a **canon-source
 designation, not a functional-wiring claim**: nothing in the sealed pipeline reads this text
 today — the "Stage 2" gap named at the bottom of this doc (extraction + term-to-family
 attribution to rebuild Dict A/B/C from real book text) is still unbuilt, no tooling for it
@@ -12,6 +13,15 @@ exists anywhere in the repo, and building it is Felix/Gena sealed-pipeline work,
 this update does. What changed: the source corpus a future Stage 2 build would draw from is no
 longer missing, and is now the designated canonical one (not a candidate to be re-sourced or
 second-guessed) for that future build.
+
+**2026-09-04 update (Chiron)**: `85 Moral boundaries - Joan C. Tronto` — flagged
+`[UNRELIABLE-NEEDS-REEXTRACTION]` on 2026-08-31 (doubled/garbled extraction end to end) — has been
+**removed** from `hesperia/modules/default/corpus/syzif/` (`git rm`, dev repo, history retains the
+content). The corpus is now **119 books, gap at position #85, not 120/no-gaps** — the "no
+gaps/duplicates" property stated above described the corpus's state at recovery, not its current
+state. This was a deletion, not the "excluded pending re-extraction" scope-filter CHI-014
+originally proposed (see that doc's own 2026-09-04 correction) — 119 is the standing corpus size
+for any Stage 2 build.
 
 2026-07-30: the operator decided to adopt the original genesis book-corpus-derived family
 taxonomy into the sealed canon matrix, replacing the family names that had been in
@@ -36,7 +46,8 @@ naming; "sphere" was the working name before "Hesperia"). Contains:
 - `sphere/source/books sphere list/` — 125 raw book files (PDF/epub/docx).
 - `hesperia/modules/default/corpus/syzif/` — the same ~121 books pre-cleaned to Markdown, with `repair_text.py`/
   `spellcheck_suggestions.py` already run. Better starting point than the raw files for any future
-  text-extraction work (Stage 2, not built yet — see below).
+  text-extraction work (Stage 2, not built yet — see below). **Now 119 books** (one removed
+  2026-09-04, see update note above) — this bullet describes the corpus's recovery-time state.
 
 ## What was adopted vs. kept from the 0.7.0 seal
 

@@ -1,5 +1,99 @@
 # Chiron-tweaks backlog
 
+## 2026-09-04 — Dict D pre-creation research preserved as its own artifact
+
+Full code-research report (the pass grounding CHI-015 §8a) saved verbatim as
+[`research/DICT-D-PRE-CREATION-RESEARCH-2026-09-04.md`](../../../research/DICT-D-PRE-CREATION-RESEARCH-2026-09-04.md),
+per operator instruction — dev repo only (`research/` mirrors to prod only via the gated
+`mirror-atomic-to-cc-srl.sh` promotion; prod's git remote is `no_push` and CLAUDE.md forbids direct
+prod edits regardless, so this was not written to `/data/consolidare-continuum/hesperia/` directly).
+CHI-015 §8a now links to it as the evidence trail; CHI-015 stays the operative spec, this file is
+the raw preserved record.
+
+## 2026-09-04 — CHI-015 §8a: Dict D's design verified against live resolver/pipeline code
+
+Follow-up research pass (operator asked: D's real relations to A/B/C, outcomes/programmable
+features, backward adjustments to core flows/activations). Traced `resolve_hit`
+(`core/resolver/resolver.py`), `coherence_from_related` (`core/resolver/context.py:26-39` — real
+formula: `0.15 * |related_concept_ids ∩ sibling candidates|`, graded not binary), and every
+downstream consumer through `core/hexmap/`, `core/propagation/`, `hesperia/extensions/triz/`.
+
+Confirmed in code, not just asserted: hexmap/propagation see only the final `concept_id → weight`
+map, never resolver provenance — D's blast radius genuinely stays inside `core/resolver/`, no
+hexmap/propagation changes needed. Found a real dormant precedent worth reusing:
+`dlcr_policy.yaml`'s `sequential_association_weight`/`association_boost` (same-document recency,
+not corpus-level — not D, but the closest existing wiring shape). Found and corrected one factual
+error: CHI-015 §0 called B "288 labeled dots" — 288 is the area×family slot geometry, not a Dict B
+concept count (core/default's real `dict_b_seed.jsonl` has 11 rows today). Full findings folded
+into CHI-015 §8a (new), with §9/§10 updated to name two concrete integration-path options instead
+of an unscoped "add a config key."
+
+## 2026-09-04 — CHI-015 filed: Dict D (concept×concept co-occurrence) spec'd at max reliability
+
+Operator asked for Dict D spec'd at max reliability, closing the concept×concept gap first, then
+mapped for downstream placement. Filed:
+[CHI-015](CHI-015-dict-d-concept-cooccurrence-spec.md) — Stage 9 in `STAGE-2-BUILD-PLAN.md`, hard
+sequencing after Stage 8 (needs a real resolved corpus to count over, cannot read raw text
+independently of the resolver). Design grounded in `projects/ops-method/`'s
+`it_cta_relation_invent.py` precedent (typed relation invention, `review_status='pending'`, never
+auto-approved) — same discipline, different storage substrate (D is versioned flat JSONL, not a
+mutable Postgres table).
+
+Key design calls: paragraph-level co-occurrence window (engineering choice, stated as such, not a
+forced one); NPMI + log-likelihood (G²) significance test rather than raw PMI, to close the known
+rare-pair PMI trap; fully deterministic core computation, no LLM in the build itself; an
+`agreement_with_b` field (`agrees`/`novel`/`contradicts`) against B's authored `related_concept_ids`
+as the disagreement-surfacing mechanism; never auto-merged into B. Placement map covers: resolver
+`coherence_from_related` scoring input (new `params_combo/PC-*` candidate), Colombo's wiki-status
+review queue, Dict C BAC-recovery prioritization, a new coverage/drift metric, and a flagged (not
+scoped) TRIZ cross-family bridge use.
+
+## 2026-09-04 — normalize_batch dropped, propose_llm prompt found TFP-hardcoded (not a generic reuse)
+
+Checked `tools/dict_calibration/normalize_llm.py` and `propose_llm.py` directly (not just their
+signatures, per CHI-014 §3's "generic pipeline" claim). Both `SYSTEM` prompts are hardcoded to the
+TFP domain: `normalize_llm.py` — *"You normalize clinical / psychodynamic surface text... preserve
+psychological meaning"*; `propose_llm.py` — *"clinical / TFP discourse... tfp.domain.name"* ids.
+The function signatures are genuinely parameterized (`corpus_dir`, `dict_b_rows`); the prompt
+content is not.
+
+Two decisions, filed into CHI-014/`STAGE-2-BUILD-PLAN.md` same day:
+- **`normalize_batch` dropped for core/default entirely** — its job (filler/disfluency removal) is
+  a speech-transcript problem the 119 already-clean, already-grinded books don't have. Feed
+  `extract_corpus`'s rows straight to concept proposal.
+- **`propose_concepts` needs a core-domain prompt rewrite before use** — real scoped work, not a
+  parameter swap. "Reuse the pipeline" now means reuse the orchestration shape, not the prompt
+  text as shipped.
+
+## 2026-09-04 — Moral Boundaries removed from syzif corpus (not filtered)
+
+Operator instruction, direct: delete `85 Moral boundaries - Joan C. Tronto
+[UNRELIABLE-NEEDS-REEXTRACTION].md` from `hesperia/modules/default/corpus/syzif/` rather than
+carry it as a Stage 2 scope-filter exclusion (the plan CHI-014 §2 had proposed). Executed via
+`git rm` on the dev repo (`igareosh/hesperia`, `/data/hesperia/hesperia`), staged not committed at
+time of writing. Prod (`Consolidare-Continuum/hesperia`) untouched — this is dev-only until a
+separately gated mirror promotion.
+
+**Effect on Stage 2 sizing**: corpus is now **119 books, standing, gap at position #85** — not
+119/120-pending-exclusion. `extract_corpus()` needs no scope-filter logic for this file anymore;
+there is nothing left to filter. `CHI-014` §2/§4/§6, `STAGE-2-BUILD-PLAN.md` (stage 2 row), and
+`docs/foundations/genesis_taxonomy_provenance.md` updated same day to stop describing this as an
+open exclusion item. 119 is the corpus, standing — not a placeholder for a future re-extraction.
+
+## 2026-09-02 — operator judgment call: corpus trustworthy enough, Stage 2 proposal filed
+
+Operator, asked directly whether to start Stage 2 now or close the remaining grind items first
+(re-extract *Moral Boundaries*, short-token re-audit, fingerprint-key fix — all still open, see
+2026-08-31 entries below): **judged the 119/120-grinded corpus trustworthy enough, start Stage 2**,
+the small cleanup items to continue in parallel rather than gating the bigger build.
+
+Proposal filed: [CHI-014](CHI-014-stage2-syzif-corpus-attribution-proposal.md) — sizes the real
+build (a missing 288-row core Dict B seed, not missing extraction tooling — `tools/dict_calibration/`
+already has a generic, corpus/catalog-agnostic ACB pipeline that was only ever pointed at TFP's
+Russian corpus; genesis_taxonomy_provenance.md's "no extraction tooling exists" claim is stale for
+that reason). Routed via `inbox.md` → Grace triage → Felix/Gena to build, per spec §5b (new
+capability, not a documented-parameter toggle — Chiron proposes, doesn't implement).
+
 ## 2026-08-31 — day close: syzif corpus grind, honest state, and one unresolved bug found in prod sync
 
 End-of-day summary for whoever reads this cold, dev or prod side. Full blow-by-blow is the 8

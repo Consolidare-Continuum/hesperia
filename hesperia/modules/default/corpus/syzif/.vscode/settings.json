@@ -1,0 +1,22 @@
+{
+    "markdown.validate.enabled": true,
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "Log"
+    ],
+    "spellright.parserByClass": {
+        "Log": {
+            "parser": "markdown"
+        }
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false,
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

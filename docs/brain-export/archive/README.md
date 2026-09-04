@@ -40,3 +40,10 @@
 - **SHA256:** 8f89d990773162f6f5b23d1adde7ac17d4c7ef198f333175c2ca89352e14cdf4
 - **Brain KEEP:** `qa/reports/` + fixture jsonl
 
+
+## operational-assignments-conn-closed-2026-09-02.tar.gz
+
+- **Created:** 2026-09-02T11:12Z
+- **Source:** brain `operational/assignments/conn-local` closed-wave deliverables + `mcp-ops-state` + `mcp-runbook-wave`
+- **SHA256:** 4c9659100dcb6d0a5a1f7812a5518c6ce225fe54d78aad5aa28b6212ab648d94
+- **Grace trash-out:** approval-8e77bf1be163 · keep registers/wraps/triage in brain
