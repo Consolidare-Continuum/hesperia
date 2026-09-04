@@ -1,5 +1,8 @@
 # CHI-015 — Dict D: concept×concept co-occurrence dictionary, spec at max reliability (not implemented)
 
+> **Awareness (2026-09-04):** Stage1 seed is now **288** `AREA_FAMILY_MAP` rows in `v0_core_syzif_001/dict_b_seed.jsonl`. §0 historical “288 concepts” = slot geometry; live Dict B concept count tracks that seed after Stage2 offline seal. D artifact exists; weight inert.
+
+
 ## 0. Geometric framing — why D is not a peer of A/B/C (read before the spec below)
 
 Preserved verbatim from the design conversation with the operator, 2026-09-04 — this is the actual

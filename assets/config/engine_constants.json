@@ -21,7 +21,8 @@
     "weight_locality": 0.2,
     "context_overlap_norm": 5.0,
     "specificity_norm": 10.0,
-    "priority_norm": 100.0
+    "priority_norm": 100.0,
+    "coherence_empirical_weight": 0.0
   },
   "dictionary": {
     "confidence_threshold": 0.35,
