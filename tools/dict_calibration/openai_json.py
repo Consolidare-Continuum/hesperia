@@ -6,6 +6,7 @@ import json
 import os
 import re
 from datetime import datetime, timezone
+from difflib import SequenceMatcher
 from pathlib import Path
 from typing import Any
 
@@ -45,12 +46,68 @@ def _mock_normalize_from_user(user: str) -> dict[str, Any]:
     return {"items": items}
 
 
+def _mock_catalog_lookup(user: str) -> list[tuple[str, str]]:
+    """Parse catalog lines from propose prompts (``- id: label`` or ``id — label``)."""
+    rows: list[tuple[str, str]] = []
+    for line in user.splitlines():
+        line = line.strip().lstrip("-•* ").strip()
+        if not line:
+            continue
+        cid = ""
+        lab = ""
+        if ": " in line and (line.startswith("core.") or line.startswith("tfp.") or "core." in line[:40]):
+            # ``core.good.altruism: Altruism [GOOD/Altruism]``
+            left, _, right = line.partition(": ")
+            cid = left.strip()
+            lab = right.split("[", 1)[0].strip()
+        elif " — " in line or " - " in line:
+            sep = " — " if " — " in line else " - "
+            left, _, right = line.partition(sep)
+            cid = left.strip()
+            lab = right.strip()
+        if cid.startswith("core.") or cid.startswith("tfp.") or cid.startswith("mock."):
+            rows.append((cid, lab or cid.rsplit(".", 1)[-1]))
+    return rows
+
+
+def _mock_best_concept_id(phrase: str, catalog: list[tuple[str, str]]) -> tuple[str, float]:
+    """Deterministic nearest catalog id (label/id substring); else mock placeholder."""
+    p = phrase.strip().lower()
+    if not p:
+        return "mock.lexical.placeholder", 0.0
+    best_id = "mock.lexical.placeholder"
+    best = 0.0
+    for cid, lab in catalog:
+        for cand in (lab.lower(), cid.lower().rsplit(".", 1)[-1].replace("_", " ")):
+            if not cand:
+                continue
+            if p == cand or p in cand or cand in p:
+                score = 0.92 if p == cand else 0.75
+            else:
+                score = SequenceMatcher(None, p, cand).ratio()
+            if score > best:
+                best = score
+                best_id = cid
+    if best < 0.45:
+        return "mock.lexical.placeholder", best
+    return best_id, best
+
+
 def _mock_propose_from_user(user: str) -> dict[str, Any]:
-    marker = "Normalized lexical items:\n"
-    idx = user.find(marker)
+    markers = (
+        "Normalized lexical items:\n",
+        "Lexical items from the corpus:\n",
+    )
+    idx = -1
+    marker_used = ""
+    for marker in markers:
+        idx = user.find(marker)
+        if idx >= 0:
+            marker_used = marker
+            break
     if idx < 0:
         return {"concepts": []}
-    rest = user[idx + len(marker) :]
+    rest = user[idx + len(marker_used) :]
     end = rest.find("\n\nReturn")
     if end < 0:
         blob = rest.strip()
@@ -64,17 +121,19 @@ def _mock_propose_from_user(user: str) -> dict[str, Any]:
         return {"concepts": []}
     mc_m = re.search(r"Cap total concepts at (\d+)", user)
     cap = int(mc_m.group(1)) if mc_m else 80
+    catalog = _mock_catalog_lookup(user)
     concepts: list[dict[str, Any]] = []
     for ph in chunk[:cap]:
         if not str(ph).strip():
             continue
         p = str(ph).strip()
+        cid, score = _mock_best_concept_id(p, catalog)
         concepts.append(
             {
-                "concept_id": "mock.lexical.placeholder",
+                "concept_id": cid,
                 "labels": [p[:48]],
                 "from_lexical": [p],
-                "confidence": 0.5,
+                "confidence": round(max(0.5, min(0.95, score if score else 0.5)), 3),
             }
         )
     return {"concepts": concepts}
@@ -90,7 +149,11 @@ def _mock_chat_json(user: str) -> Any:
             "adjust_priorities": [],
             "notes": "HESPERIA_CALIB_MOCK_OPENAI",
         }
-    if "Normalized lexical items:" in user and "Return JSON:" in user and "concepts" in user:
+    if (
+        ("Normalized lexical items:" in user or "Lexical items from the corpus:" in user)
+        and "Return JSON:" in user
+        and "concepts" in user
+    ):
         return _mock_propose_from_user(user)
     if "Input:\n" in user and ("items" in user or "source_text" in user):
         return _mock_normalize_from_user(user)
