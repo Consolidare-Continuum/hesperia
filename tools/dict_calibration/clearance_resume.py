@@ -15,6 +15,10 @@ from tools.dict_calibration.anchor_bind import load_anchor_registry, load_merged
 from tools.dict_calibration.build_links import build_links, links_to_engine_dict_a
 from tools.dict_calibration.errors_extract import extract_errors
 from tools.dict_calibration.evaluate import evaluate_on_texts
+from tools.dict_calibration.env_defaults import (
+    assert_domain_corpus_pairing,
+    normalize_domain,
+)
 from tools.dict_calibration.extract_lexical import extract_corpus
 from tools.dict_calibration.jsonl_util import append_jsonl, read_jsonl, write_json, write_jsonl
 from tools.dict_calibration.lexical_filter import filter_rows_for_llm
@@ -171,9 +175,13 @@ def run_propose_resume(
     max_phrases: int | None = None,
     log_every: int = 25,
     log: Callable[[str], None] | None = None,
+    domain: str = "core",
 ) -> dict[str, Any]:
     w = workdir.resolve()
     cd = clearance_dir(w)
+    domain = (domain or "core").strip().lower()
+    if domain not in {"core", "tfp"}:
+        raise ValueError(f"domain must be 'core' or 'tfp', got {domain!r}")
     norm_path = w / "dict_a_normalized.jsonl"
     if not norm_path.is_file():
         raise FileNotFoundError(f"missing {norm_path}; finish normalize first")
@@ -181,11 +189,16 @@ def run_propose_resume(
     phrases_all = [str(r.get("normalized") or r.get("text", "")).strip() for r in norm_rows]
     phrases_all = [p for p in phrases_all if p]
 
-    db_paths, _ = _default_engine_paths(_REPO)
+    db_paths, _ = _default_engine_paths(_REPO, domain=domain)
     if dict_b_paths:
         db_paths = list(dict_b_paths)
     merged_b = load_merged_dict_b(db_paths)
-    catalog = _catalog_rows(merged_b, limit=catalog_limit)
+    catalog = _catalog_rows(merged_b, limit=catalog_limit, domain=domain)  # type: ignore[arg-type]
+    _log(
+        f"[propose] domain={domain} catalog_rows={len(merged_b)} "
+        f"dict_b={[str(p) for p in db_paths]}",
+        log,
+    )
 
     batches_path = cd / "propose_batches.jsonl"
     state_path = cd / "propose_state.json"
@@ -204,6 +217,18 @@ def run_propose_resume(
     phrases: list[str]
     if state_path.is_file():
         st0 = json.loads(state_path.read_text(encoding="utf-8"))
+        prev_domain = str(st0.get("domain") or "").strip().lower()
+        if prev_domain and prev_domain != domain:
+            raise ValueError(
+                f"propose_state domain={prev_domain!r} != requested domain={domain!r}; "
+                "run reset-propose before switching domain (contaminated checkpoints must not resume)"
+            )
+        if not prev_domain and domain == "core":
+            # Legacy checkpoint written before domain was recorded — treat as unsafe for core.
+            raise ValueError(
+                "propose_state.json has no domain field (pre-fix TFP-default era). "
+                "Run reset-propose, then re-propose with --domain core"
+            )
         ptot = int(st0.get("phrase_total", 0))
         if ptot <= 0:
             raise ValueError("invalid propose_state: phrase_total")
@@ -266,8 +291,8 @@ def run_propose_resume(
                 else []
             )
         else:
-            arr = call_propose_chunk(chunk, catalog, max_concepts=max_concepts)
-        rec = {"chunk_start": i, "chunk_end": chunk_end, "concepts": arr}
+            arr = call_propose_chunk(chunk, catalog, max_concepts=max_concepts, domain=domain)  # type: ignore[arg-type]
+        rec = {"chunk_start": i, "chunk_end": chunk_end, "concepts": arr, "domain": domain}
         append_jsonl(batches_path, [rec])
         merge_concept_rows_into_state(arr, merged, seen)
         write_json(
@@ -278,6 +303,7 @@ def run_propose_resume(
                 "batch_size": batch_size,
                 "max_concepts": max_concepts,
                 "catalog_limit": catalog_limit,
+                "domain": domain,
                 "dry_run": dry_run,
                 "draft_concepts_so_far": len(merged),
                 "updated_at": _now_iso(),
@@ -311,17 +337,35 @@ def run_post(
     eval_max_files: int = 0,
     eval_max_chars: int = 0,
     anchor_workers: int = 1,
+    domain: str = "core",
 ) -> None:
     from tools.dict_calibration.run_pipeline import cmd_anchor, cmd_errors, cmd_eval, cmd_links
 
     import argparse
 
-    w = str(workdir.resolve())
+    workdir = workdir.resolve()
+    w = str(workdir)
+    domain = normalize_domain(domain)
     dbp = dict_b_paths
+    assert_domain_corpus_pairing(domain, corpus, dict_b_paths=dbp)
+    propose_state_path = workdir / ".clearance" / "propose_state.json"
+    if not propose_state_path.is_file():
+        raise ValueError(
+            "missing .clearance/propose_state.json; post-processing requires "
+            "a domain-bound propose checkpoint"
+        )
+    propose_state = json.loads(propose_state_path.read_text(encoding="utf-8"))
+    propose_domain = str(propose_state.get("domain") or "").strip().lower()
+    if propose_domain != domain:
+        raise ValueError(
+            f"propose_state domain={propose_domain!r} != requested "
+            f"domain={domain!r}; post-processing cannot cross domains"
+        )
     cmd_anchor(
         argparse.Namespace(
             workdir=w,
             dict_b=dbp,
+            domain=domain,
             min_score=min_score,
             anchor_workers=int(anchor_workers or 1),
         )
@@ -333,6 +377,7 @@ def run_post(
             corpus=str(corpus),
             texts_file=None,
             dict_b=dbp,
+            domain=domain,
             eval_max_files=eval_max_files,
             eval_max_chars=eval_max_chars,
         )

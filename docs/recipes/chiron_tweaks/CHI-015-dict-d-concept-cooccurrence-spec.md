@@ -2,6 +2,16 @@
 
 > **Awareness (2026-09-04):** Stage1 seed is now **288** `AREA_FAMILY_MAP` rows in `v0_core_syzif_001/dict_b_seed.jsonl`. §0 historical “288 concepts” = slot geometry; live Dict B concept count tracks that seed after Stage2 offline seal. D artifact exists; weight inert.
 
+> **Status reconciliation (CORE-D2-002, 2026-09-16):** “D artifact exists” means an
+> inert 9,076-row mock artifact and partial loader/scoring scaffolding exist. It does
+> **not** mean this specification has been implemented. The committed artifact was
+> not built from paragraph-ordered resolved concept sequences, its tracked builder
+> is absent, its sample/stability discipline is not operationalized, and no live
+> pipeline caller loads it. The real implementation authority is
+> `docs/specs/ETHAN-CORE-D2-REAL-DICT-D-PROGRAM-CONTRACT.md` plus the
+> `CORE-D2-000..099` gated program. Until that program reaches activation, the mock
+> artifact is non-releasable and `resolver.coherence_empirical_weight` stays `0.0`.
+
 
 ## 0. Geometric framing — why D is not a peer of A/B/C (read before the spec below)
 

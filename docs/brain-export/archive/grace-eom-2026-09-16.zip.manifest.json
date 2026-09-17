@@ -1,0 +1,375 @@
+{
+  "schema_version": 1,
+  "cutoff_date": "2026-09-16",
+  "source_repo": "Consolidare-Continuum/CC_",
+  "source_head": "33e9e9dc6678a1cde1f3f13ec483fac5ba2298a5",
+  "destination_repo": "igareosh/hesperia",
+  "destination_path": "docs/brain-export/archive/grace-eom-2026-09-16.zip",
+  "classification": "existing declared brain-export archive bucket",
+  "task_history": "SuiteCRM permanent; active.md snapshot retained here before live cutoff",
+  "records": [
+    {
+      "path": "active.md",
+      "sha256": "f316d9cfb82bbafd7ab8790878a4d23fc41fd7fc8ea2cc84383d69dea9b7cc28",
+      "bytes": 571689
+    },
+    {
+      "path": "inbox.md",
+      "sha256": "add27b78c91f5db56c6144a7d3aaf644723156d517c07e8ed31e658be0af6a5e",
+      "bytes": 249005
+    },
+    {
+      "path": "operational/assignments/AUREL-BRAIN-REPO-DRIFT-AUDIT-2026-08-21.md",
+      "sha256": "2bba2c49166c452e9e745a8eb83b497f7873e86c6e6e01ad1a8401744959099c",
+      "bytes": 6343
+    },
+    {
+      "path": "operational/assignments/ETHAN-SCRIPTS-INVENTORY-REDRAIN-2026-09-04.md",
+      "sha256": "cc39cb3e8eba98e3ceeada8397dcd3f8f86d45dca7c717d2fcc060089aaa145b",
+      "bytes": 2589
+    },
+    {
+      "path": "operational/assignments/GRACE-AWARENESS-TRIAGE-CLOSED-2026-09-02.md",
+      "sha256": "fa618d225cf2331ba3ccc2ce2996b82dfa7a736f7c812c363b0693e17b642d1c",
+      "bytes": 2939
+    },
+    {
+      "path": "operational/assignments/GRACE-CC-CONT-01-DONE-2026-09-02.md",
+      "sha256": "f9829eae9b32c1890ed8869e93394eca39244b6c9acaf8bdc42808e2ab0653ab",
+      "bytes": 534
+    },
+    {
+      "path": "operational/assignments/GRACE-NEXT-BRAIN-TRASHOUT-2026-09-02.md",
+      "sha256": "ad1617bdc8a6b6c76553cc78593b98519e04d271bde31c729c646ffb57e3ec21",
+      "bytes": 2513
+    },
+    {
+      "path": "operational/assignments/GRACE-NOTE-CC-CONTACT-LYUDMILA-GRISHINA-2026-09-01.md",
+      "sha256": "bb1fa6d52e4319f8af164005561da27956f17ceec1cfa5ddcb6dd3eec3d452b4",
+      "bytes": 1717
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-ABELARD-OPS-WAVE-2026-09-01.md",
+      "sha256": "eb968a862ffd1a716d1cfcae0cd91544f1bcdf39ea4a784d24d10e98edb71136",
+      "bytes": 1228
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-ABELARD-WATCH-IT-TRAIN-2026-09-01.md",
+      "sha256": "13e9344ab70e87e87ff4aaa8b55aefed525e1cc7388754ed6dcd14673993efb1",
+      "bytes": 1102
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-ACC-HOME-2026-09-08.md",
+      "sha256": "d517d7f9d13c5f3c89533670f9a6be631cca208d8e5567c3df74ef9725aa0fc7",
+      "bytes": 2079
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-CC-PERMANENT-ACCOUNTING-2026-09-08.md",
+      "sha256": "890f5b9befdf030f96c4dc75175255a0097089d699b9bf211b594c8c438cce9a",
+      "bytes": 864
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-CC-SITE-2026-08-18.md",
+      "sha256": "3e68f259a07ed89bfe706aac1e049ff424e89d94ede1ef6ad86e932adea288c5",
+      "bytes": 2267
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-CHROMA1-FULL-DECOM-2026-09-01.md",
+      "sha256": "a4da506c1d67f0a580ba4c8e375d8a8c70961f63cdda5d2caffa16882e5d112c",
+      "bytes": 1533
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-CONN-ACTIONS-WAVE-2026-09-01.md",
+      "sha256": "bcb1c8b19b95a87c1f523b1099e00651035937b41b5a995655460ac26babb46f",
+      "bytes": 905
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-LUCA-280-2026-09-08.md",
+      "sha256": "b8190fcd377a9f7363d97861583b97c9c8279318791f21526a06057c8974b6c5",
+      "bytes": 1849
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-LUCA-FITNESS-2026-09-09.md",
+      "sha256": "d8c0c2e63805521a4a5a9e5db03d3b6b56ac31821c27a8ce5bb4f7fabd60c975",
+      "bytes": 3133
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-LUCA-PG-MIRROR-2026-09-08.md",
+      "sha256": "b3b386bbe3c95b6a9653dbd1844f952702a8242d073a7e7afbabc6a0e9998a4b",
+      "bytes": 1375
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-LUCA-UNLIMITED-UNTIL-OPERATIONAL-2026-09-08.md",
+      "sha256": "a428e610c43d5f14361a3219047c309e0588e91b6e412c47c626953c7c70d858",
+      "bytes": 3929
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-OPERATOR-WAVE-2026-09-02.md",
+      "sha256": "1e6627b3441df8808bc352afa5564996ddf399ceddb8727ef5160312462ad0c3",
+      "bytes": 2575
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-REPO-EOW-WAVE-2026-W35.md",
+      "sha256": "96706f5b71dba5fad8da5b36b61e77a0a5635b0a6b73fc0d3ca24d02549ef347",
+      "bytes": 1127
+    },
+    {
+      "path": "operational/assignments/GRACE-WRAP-BRAIN-TRASHOUT-2026-09-02.md",
+      "sha256": "a51b5c36a7f9cb93eab7b3b7821c70f27af3cd02f50c084881f414e094af9ad5",
+      "bytes": 1436
+    },
+    {
+      "path": "operational/assignments/reports/ABEL-WATCH-IT-TRAIN-CLOSEOUT-2026-09-01.md",
+      "sha256": "02a4e4eea464981407ae5c31dad02d849975990aabda10fcb3c9c667309fe61d",
+      "bytes": 7152
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-BIOPOLE-COLD-BACKUP-LAMAITA-2026-09-01.md",
+      "sha256": "a877a01141717450c430dbd49d6d5a946154d9fefe0a87fe918fe31ad18c56f4",
+      "bytes": 808
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-CONTEMPLATION-2026-09-01-PM.md",
+      "sha256": "1ef79e9e3e8faf63fc6b2c3372853e971d9c5ad6e5f2c2497bfd13f933f057ab",
+      "bytes": 7292
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-CONTEMPLATION-2026-09-01.md",
+      "sha256": "efadc6166aa58ca50c7a8ee6e5e7e69c2e00c8d893a29536b64c3ce45f8603cb",
+      "bytes": 8060
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-CONTEMPLATION-CONN-ACTIONS-2026-09-01.md",
+      "sha256": "503fdae18b5d7fd60ce3aed66a46a34f99cb6bcd4bac6b7f85586df6b0b7caf4",
+      "bytes": 3958
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-CONTEXT-REFLECTION-2026-09-01.md",
+      "sha256": "aa58f1106abb939dcf531128b130f602b9153dd0533ae6e76ee337a853bc6e90",
+      "bytes": 4583
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-DRAW-LINE-COLD-BACKUP-LAMAITA-2026-09-01.md",
+      "sha256": "b0ee293e83a86708e1b05b2e09117cd7d50f72c1d0871cb7083afe2f93139639",
+      "bytes": 1915
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-HESPERIA-REINGEST-APOCALYPTIC-FLASH-2026-09-01.md",
+      "sha256": "bca592119c3d6f5ea9b47c818c27a937d94f7e879afecc7992a2b3f12296f0c6",
+      "bytes": 4640
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-OLGAHERE-ALTITUDINE-SSH-FIX-2026-09-09.md",
+      "sha256": "6dbec6f9aa00b8bb10f3d14b20e7a959f6ae1a94c720620bf75d7d91618df4e0",
+      "bytes": 1430
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-OPS-WAVE-CLOSEOUT-2026-09-01.md",
+      "sha256": "92441bd1faa45664dc9686f36e926f55539f965c250472be2b357bf01fb6a324",
+      "bytes": 1600
+    },
+    {
+      "path": "operational/assignments/reports/CHROMA1-FULL-DECOM-MIRROR-CLOSEOUT-2026-09-01.md",
+      "sha256": "0b859cd816c59588850e203b370b2a62c907be8a5e020dac5ea9b5505b390d36",
+      "bytes": 2391
+    },
+    {
+      "path": "operational/assignments/reports/CONN-ACTIONS-WAVE-CLOSEOUT-2026-09-01.md",
+      "sha256": "fa8fd8cfde7469d3b2c47d6840ab7f4d87b03b68e3e72f71b767a620042d60b4",
+      "bytes": 1048
+    },
+    {
+      "path": "operational/assignments/reports/CURSOR-TERSAGOR-SDK-FRUIT-TO-FIELD-2026-09-02.md",
+      "sha256": "7d769242b447ad186377446c631dd8a4284911c4b22cc082a8c557ea948c2ff1",
+      "bytes": 2703
+    },
+    {
+      "path": "operational/assignments/reports/EOD-BLOCKERS-2026-09-01.md",
+      "sha256": "863f30952acbbd13fa2e6166f2cc126755c3c418dfec7e5a10f9f01ad00622f2",
+      "bytes": 5377
+    },
+    {
+      "path": "operational/assignments/reports/EOD-BLOCKERS-2026-09-02.md",
+      "sha256": "e2412e1a938d94484d4d5a3db46086cdb4485693da5155691401510048f2a58c",
+      "bytes": 181
+    },
+    {
+      "path": "operational/assignments/reports/EOD-BLOCKERS-2026-09-04.md",
+      "sha256": "bdbebeaaf5eacd3adc025e3575ba00fe9f7fb0b6d5441ae963c4831464f52995",
+      "bytes": 181
+    },
+    {
+      "path": "operational/assignments/reports/EOD-COLLECT-2026-09-01.txt",
+      "sha256": "df2aa7a768fdcb439f82439c23e0473dd1a6138d3f95ded3aa88893222d4c89f",
+      "bytes": 21630
+    },
+    {
+      "path": "operational/assignments/reports/EOD-COLLECT-2026-09-02.txt",
+      "sha256": "fbdc80829ad421a34f387801b2622aaee67bef98604ddcf3d13b1840e546eb32",
+      "bytes": 24034
+    },
+    {
+      "path": "operational/assignments/reports/EOD-COLLECT-2026-09-04.txt",
+      "sha256": "0458c2ff5cf0694c3984fb01951a874c8e2a1cf745e305bf106a97855c2d448f",
+      "bytes": 19518
+    },
+    {
+      "path": "operational/assignments/reports/EOW-COLLECT-2026-W35.txt",
+      "sha256": "c4d377bf76ecac07195107eea228ba882b615191c99901b14895caf4f672fbc2",
+      "bytes": 43755
+    },
+    {
+      "path": "operational/assignments/reports/EOW-RESEARCH-2026-W35.json",
+      "sha256": "f49b95b09ad210796264559d7f72920bfe2db5313462c530b82b84fec4b50f90",
+      "bytes": 19263
+    },
+    {
+      "path": "operational/assignments/reports/EOW-TASK-REGISTER-2026-W35.md",
+      "sha256": "f0b28234ffe880b251d027f01a9bd332a8947109197cf44ccdeddc15b5320af3",
+      "bytes": 9040
+    },
+    {
+      "path": "operational/assignments/reports/ETHAN-PRE-BRAIN-INGEST-DRAW-LINE-2026-09-01.md",
+      "sha256": "d5dddd7e514a7055fccd5c05984444512778749dfa2ec3ec3b234c5e88ae95e3",
+      "bytes": 2111
+    },
+    {
+      "path": "operational/assignments/reports/GENA-HANDOFF-BOOK-OCR-PDF-TO-MD-2026-09-01.md",
+      "sha256": "e9db850956d4d7bfaba89f4df6feb6c11aa95a03068381d1933e57395960be80",
+      "bytes": 2094
+    },
+    {
+      "path": "operational/assignments/reports/GENA-HANDOFF-GRACE-TRASHOUT-MAP-2026-09-02.md",
+      "sha256": "71226eba1a83ef33397f62a8193559172cb4ed0dd08ab259f127402c05fdfdaf",
+      "bytes": 2127
+    },
+    {
+      "path": "operational/assignments/reports/GRACE-TRASHOUT-COLLECT-2026-09-02.txt",
+      "sha256": "727361234621bbce56fc98f9719ae7127f074dec3d261a9ee093cf3346c4ac4c",
+      "bytes": 278
+    },
+    {
+      "path": "operational/assignments/reports/GRACE-TRASHOUT-COLLECT-2026-09-16.txt",
+      "sha256": "8b36d15ee69517b413d1b1109c0a91a3afaf007b3408c3a3dd4952154aefd44e",
+      "bytes": 278
+    },
+    {
+      "path": "operational/assignments/reports/REPO-EOW-WAVE-CLOSURE-2026-W35.md",
+      "sha256": "8631899fea8639fcefc8efdc8c10b9f64174f4e0d97e7aa7bdafe406a5706d2b",
+      "bytes": 1576
+    },
+    {
+      "path": "operational/assignments/reports/REPO-EOW-WAVE-EXECUTION-2026-W35.json",
+      "sha256": "b8c79ca081f5d61f653c9f9cb198123739dd08fe84a5a28e0be44643657b19f6",
+      "bytes": 6012
+    }
+  ],
+  "protected": [
+    {
+      "path": "operational/assignments/GRACE-CHECK-DONE-COPS-100-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/GRACE-CORE-DEFAULT-VS-TFP-SEAL-2026-09-14.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/GRACE-LUCA-PRE-INSPECT-BEFORE-DRAIN-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-COPS-100-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-INBOX-SWEEP-2026-09-04.md",
+      "reason": "referenced by unfinished active row"
+    },
+    {
+      "path": "operational/assignments/GRACE-TRIAGE-NTP-MAG-LAYER-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/GRACE-WRAP-COPS-100-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-CLUSTEROPS-MAX-FREE-CAPACITY-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-CLUSTEROPS-RECEIVE-APPLY-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/ABELARD-HES-KEY-01-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/COPS-004-HEAVY-SCRIPT-CANDIDATES.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/COPS-008-CLUSTEROPS-HEAVY-ONE-PAGER.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/COPS-020-ALTITUDINE-VENV.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/COPS-050-H1-ALLOWLIST-AND-PAUSE.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/COPS-070-DB-PYTHON-INVENTORY.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/COPS-H1-PRICHINDEL-CLOSE-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/COPS-W1-W9-GATES-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/GRACE-RECEIVE-CLUSTEROPS-AGENTIC-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    },
+    {
+      "path": "operational/assignments/reports/GRACE-RECEIVE-NTP-WORLD-CLOCK-2026-09-08.md",
+      "reason": "untracked/unrelated"
+    }
+  ],
+  "unfinished_ids": [
+    "DEP-BOT-01",
+    "DEP-BOT-02",
+    "CORE-S2-LIVE-04",
+    "CORE-D2-003",
+    "CORE-D2-004",
+    "CORE-D2-005",
+    "CORE-D2-006",
+    "CORE-D2-007",
+    "CORE-D2-008",
+    "CORE-D2-009",
+    "BOOK-OCR-01",
+    "FF-LAST-01",
+    "ABEL-TAIL-01",
+    "ABEL-TAIL-02",
+    "ABEL-TAIL-03",
+    "MCP-INBOX-01",
+    "NTP-MAG-03",
+    "NTP-MAG-04",
+    "LIB-FIT-01",
+    "CCB-PG-06",
+    "OLGA-TFP-OCR-01",
+    "OLGA-TFP-OCR-02",
+    "AGRO-MEMO-V3-02",
+    "AGRO-MEMO-V3-03",
+    "CC_-ACCOUNTS-03",
+    "ATM-WP-PROD-03",
+    "ATM-WP-PROD-04",
+    "TERS-AG-159"
+  ]
+}

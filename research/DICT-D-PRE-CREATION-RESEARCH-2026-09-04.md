@@ -1,12 +1,16 @@
 # Dict D pre-creation research — preserved snapshot, 2026-09-04
 
-**Status**: preserved reference artifact, **pre-D-creation**. Dict D does not exist yet (proposal
-only: [`docs/recipes/chiron_tweaks/CHI-015-dict-d-concept-cooccurrence-spec.md`](../docs/recipes/chiron_tweaks/CHI-015-dict-d-concept-cooccurrence-spec.md)),
-and its hard prerequisite (Stage 2, [`STAGE-2-BUILD-PLAN.md`](../docs/recipes/chiron_tweaks/STAGE-2-BUILD-PLAN.md))
-is not built either. This file is the code-research pass that grounded CHI-015 §8a against the
-live resolver/pipeline — preserved here verbatim as the point-in-time evidence trail, separate from
-CHI-015 itself so the spec doc stays the operative reference and this stays the raw research record
-it was built from.
+**Status**: preserved reference artifact, **pre-real-D-creation**. Since this
+snapshot, a 9,076-row mock Dict D artifact and inert loader/scoring scaffolding
+were committed. They do not implement the CHI-015 design: the artifact was not
+built from paragraph-ordered resolved concept sequences, the builder is absent
+from the tracked tree, sample/stability gates are prose-only, and no live
+pipeline caller loads Dict D. This file remains the point-in-time code research
+that grounded CHI-015 §8a; it is not evidence that a releasable Dict D exists.
+Current authority is
+[`docs/specs/ETHAN-CORE-D2-REAL-DICT-D-PROGRAM-CONTRACT.md`](../docs/specs/ETHAN-CORE-D2-REAL-DICT-D-PROGRAM-CONTRACT.md)
+and the `CORE-D2-000..099` program. The mock artifact remains non-releasable
+with `resolver.coherence_empirical_weight = 0.0`.
 
 Location note: this lives in dev (`igareosh/hesperia`) `research/` — the only `research/` folder
 that exists, mirrored to prod (`Consolidare-Continuum/hesperia`) only via the gated

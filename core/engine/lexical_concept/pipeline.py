@@ -32,11 +32,18 @@ from core.pipeline.dynamics import (
 from core.lexical.matcher import _collect_negative_blocks
 from core.pipeline.lexical import match_dict_a, normalize_text, prepare_structural_analysis_text
 from core.pipeline.projection import project_concepts_to_hex
-from core.pipeline.resolver import resolve_hit
+from core.pipeline.resolver import resolve_hit, resolve_paragraph_hits
 from core.pipeline.trajectory import trajectory_over_segments
+from core.resolver.context import paragraph_index_for_span, paragraph_spans
+from core.resolver.dict_d_index import load_dict_d_pairs
+from core.resolver.score_rules import effective_empirical_weight
 from core.sequence.segmentation import segment_by_newlines
 from core.state.semantic_state import SemanticState
-from hesperia.engine.calibration_dict_paths import calibration_manifest, resolve_dict_file
+from hesperia.engine.calibration_dict_paths import (
+    calibration_manifest,
+    resolve_dict_d_file,
+    resolve_dict_file,
+)
 from hesperia.engine.concept_dictionary.executor import apply_cd_phase1, default_cd_path
 from hesperia.engine.engine_signal_calibration import load_engine_signal_calibration
 from hesperia.extensions.triz.topology_activation_pipeline import concept_id_to_area_family
@@ -102,6 +109,35 @@ def _drop_low_quality_token(
     ):
         return True
     return False
+
+
+def _classify_span_resolution(
+    resolution: dict[str, Any],
+    *,
+    min_resolve_score: float,
+) -> tuple[dict[str, Any], bool]:
+    scores = resolution.get("candidate_scores")
+    if not isinstance(scores, dict):
+        raise ValueError("span resolution candidate_scores must be an object")
+    if not scores:
+        unresolved = dict(resolution)
+        unresolved["winning_concept_id"] = None
+        unresolved["winning_reason_codes"] = []
+        unresolved["rejected_reason_codes"] = ["no_candidates"]
+        return unresolved, False
+
+    best_score = max(float(score) for score in scores.values())
+    if best_score >= min_resolve_score:
+        return resolution, True
+
+    unresolved = dict(resolution)
+    unresolved["winning_concept_id"] = None
+    unresolved["winning_reason_codes"] = []
+    unresolved["rejected_reason_codes"] = sorted(
+        ["below_threshold"]
+        + [f"candidate_rejected:{concept_id}" for concept_id in scores]
+    )
+    return unresolved, False
 
 
 def _repo_root() -> Path:
@@ -602,16 +638,24 @@ def _analyze_internal(
     anchors_path: Path | None = None,
     mode: str = "clinical_speech",
     contradiction_package: dict[str, Any] | None = None,
+    empirical_weight_override: float | None = None,
 ) -> dict[str, Any]:
     """
     Run DLCR path: normalize → match Dict A → resolve Dict B → project hex → dynamics → aggregate.
 
     Default assets: merged seed + TFP packs under ``assets/data/engine_dynamics_v060/``.
     """
+    empirical_weight = effective_empirical_weight(empirical_weight_override)
     repo = repo_root or _repo_root()
     base = repo / "assets" / "data" / "engine_dynamics_v060"
     calib_a = resolve_dict_file(repo, "dict_a.jsonl")
     calib_b = resolve_dict_file(repo, "dict_b.jsonl")
+    # CORE-D2 W8 (CORE-D2-081): load once per runtime context, not per hit/segment.
+    # A present file does not enable anything -- resolver.coherence_empirical_weight
+    # stays 0.0 in engine_constants.json until the separate W9 activation gate, so
+    # dict_d_pairs is threaded through purely as an inert shadow signal until then.
+    calib_d = resolve_dict_d_file(repo)
+    dict_d_pairs = load_dict_d_pairs(calib_d) if calib_d else {}
     # Legacy ``dict_a_tfp`` before stack layers so ``gold_tfp_ru`` B_A10 winners stay stable;
     # stack rows add non-colliding ``normalized_form`` keys (first path wins per form).
     da_paths_default = [
@@ -672,9 +716,46 @@ def _analyze_internal(
     hits, rejected = match_dict_a(
         norm["canonical_text"], dict_a, max_accepted=max_acc, diversity_key=diversity_key
     )
+
+    # CORE-D2 W8 (CORE-D2-082/083/084): baseline pass, paragraph-grouped, builds each
+    # hit's empirical context per the W0 two-pass runtime context contract -- kept
+    # separate from the sequential loop below so the pre-existing, unrelated
+    # sequential-association-boost/recent_winners mechanics stay byte-for-byte
+    # unchanged. A hit the main loop would filter out (stopword/domain-whitelist)
+    # contributes no baseline winner, matching that it never reaches recent_winners
+    # either.
+    para_spans = paragraph_spans(norm["canonical_text"])
+    hit_paragraph = [paragraph_index_for_span(para_spans, h.span_start) for h in hits]
+    hits_by_paragraph: dict[int, list[int]] = {}
+    for idx, p_idx in enumerate(hit_paragraph):
+        hits_by_paragraph.setdefault(p_idx, []).append(idx)
+    baseline_winner_by_hit: dict[int, str | None] = {}
+    for idx, hit in enumerate(hits):
+        if _drop_low_quality_token(
+            hit.matched_text,
+            stopwords=stopwords,
+            min_len=min_token_len,
+            domain_whitelist=domain_whitelist,
+        ):
+            baseline_winner_by_hit[idx] = None
+            continue
+        baseline = resolve_hit(
+            hit,
+            concept_index,
+            mode=mode,
+            version="v0.6.0",
+            canonical_text=norm["canonical_text"],
+            context_window=ctx_win,
+            dict_d_pairs=None,
+            empirical_context_ids=frozenset(),
+            empirical_weight_override=empirical_weight,
+        )
+        baseline_winner_by_hit[idx] = baseline["winning_concept_id"]
+
     span_outputs: list[dict[str, Any]] = []
+    unresolved_span_outputs: list[dict[str, Any]] = []
     recent_winners: list[str] = []
-    for hit in hits:
+    for hit_idx, hit in enumerate(hits):
         if _drop_low_quality_token(
             hit.matched_text,
             stopwords=stopwords,
@@ -692,6 +773,11 @@ def _analyze_internal(
                     boost += seq_w
                 if boost > 0:
                     ab[str(cid)] = boost
+        empirical_context_ids = frozenset(
+            str(baseline_winner_by_hit[i])
+            for i in hits_by_paragraph[hit_paragraph[hit_idx]]
+            if i != hit_idx and baseline_winner_by_hit[i] is not None
+        )
         r = resolve_hit(
             hit,
             concept_index,
@@ -700,9 +786,16 @@ def _analyze_internal(
             canonical_text=norm["canonical_text"],
             context_window=ctx_win,
             association_boost=ab or None,
+            dict_d_pairs=dict_d_pairs,
+            empirical_context_ids=empirical_context_ids,
+            empirical_weight_override=empirical_weight,
         )
-        best_score = max((float(v) for v in (r.get("candidate_scores") or {}).values()), default=0.0)
-        if best_score < min_resolve_score:
+        r, is_resolved = _classify_span_resolution(
+            r,
+            min_resolve_score=min_resolve_score,
+        )
+        if not is_resolved:
+            unresolved_span_outputs.append(r)
             continue
         span_outputs.append(r)
         w = r.get("winning_concept_id")
@@ -775,22 +868,30 @@ def _analyze_internal(
             sn["canonical_text"], dict_a, max_accepted=max_acc, diversity_key=diversity_key
         )
         seg_cw: dict[str, float] = {}
-        for hit in sh:
-            if _drop_low_quality_token(
+        # CORE-D2 W8 (CORE-D2-082/083): one newline-delimited segment is already one
+        # natural paragraph grouping -- resolve it in a single two-pass batch per the
+        # W0 runtime context contract, instead of per-hit with no cross-hit context.
+        filtered_hits = [
+            hit
+            for hit in sh
+            if not _drop_low_quality_token(
                 hit.matched_text,
                 stopwords=stopwords,
                 min_len=min_token_len,
                 domain_whitelist=domain_whitelist,
-            ):
-                continue
-            r = resolve_hit(
-                hit,
-                concept_index,
-                mode=mode,
-                version="v0.6.0",
-                canonical_text=sn["canonical_text"],
-                context_window=ctx_win,
             )
+        ]
+        seg_results = resolve_paragraph_hits(
+            filtered_hits,
+            concept_index,
+            mode=mode,
+            version="v0.6.0",
+            canonical_text=sn["canonical_text"],
+            context_window=ctx_win,
+            dict_d_pairs=dict_d_pairs,
+            empirical_weight_override=empirical_weight,
+        )
+        for r in seg_results:
             best_score = max((float(v) for v in (r.get("candidate_scores") or {}).values()), default=0.0)
             if best_score < min_resolve_score:
                 continue
@@ -847,6 +948,11 @@ def _analyze_internal(
     result["lexical_hits_rejected"] = len(rejected)
     result["canonical_text"] = norm["canonical_text"]
     result["span_resolutions"] = span_outputs
+    result["unresolved_span_resolutions"] = unresolved_span_outputs
+    result["resolver_trace"] = {
+        "dict_d_effective_weight": empirical_weight,
+        "dict_d_pairs_loaded": len(dict_d_pairs),
+    }
     result["calibration_dicts"] = calibration_manifest(repo)
     result["hex_concentration_index"] = quantize(conc)
     result["hex_dispersion_index"] = quantize(disp)
@@ -883,6 +989,7 @@ def run_dlcr_pipeline(
     anchors_path: Path | None = None,
     mode: str = "clinical_speech",
     contradiction_package: dict[str, Any] | None = None,
+    empirical_weight_override: float | None = None,
 ) -> dict[str, Any]:
     return _analyze_internal(
         text,
@@ -892,6 +999,7 @@ def run_dlcr_pipeline(
         anchors_path=anchors_path,
         mode=mode,
         contradiction_package=contradiction_package,
+        empirical_weight_override=empirical_weight_override,
     )
 
 

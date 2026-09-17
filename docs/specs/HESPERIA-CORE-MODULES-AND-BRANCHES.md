@@ -62,6 +62,15 @@ see §1). Branch work that proves **domain-agnostic** value merges back here.
 
 **Decision test:** *Universal engine plumbing?* → Class A, `hesperia/modules/default/`. *Domain / theme / attribution?* → Class B, own `hesperia/modules/<branch>/`.
 
+### Calibration / propose domain seal (2026-09-14)
+
+| Lane | Module folder | Corpus | Catalog | Propose `--domain` |
+|------|---------------|--------|---------|-------------------|
+| **DEFAULT / CORE** | `hesperia/modules/default/` | `…/default/corpus/syzif` | `assets/calibration/dicts/v0_core_syzif_001/` | **`core` (default)** |
+| **TFP** | `hesperia/modules/tfp/` | `…/tfp/data/tfp_v1/corpus/…` | `engine_dynamics_v060/dict_b/dict_b_tfp*` | **`tfp` (opt-in only)** |
+
+**Hard rule:** no TFP prompt, catalog, or concept ids on DEFAULT/CORE/syzif runs. CORE scope is wider; TFP is a narrow Class B field module. Gate: `tools/check_core_default_tfp_boundary.py`. Spec: `docs/specs/HESPERIA-CORE-DEFAULT-VS-TFP-CALIBRATION-SEAL.md`.
+
 ---
 
 ## 3. Modules in this repo (registry)

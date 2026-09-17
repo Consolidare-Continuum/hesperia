@@ -32,7 +32,9 @@ from tools.dict_calibration.jsonl_util import read_jsonl, write_json, write_json
 from tools.dict_calibration.normalize_llm import normalize_batch  # noqa: E402
 from tools.dict_calibration.env_defaults import (  # noqa: E402
     apply_dict_calib_offline_bundle,
+    assert_domain_corpus_pairing,
     dict_calib_worker_default,
+    normalize_domain,
 )
 from tools.dict_calibration.openai_json import require_openai_key  # noqa: E402
 from tools.dict_calibration.patch_llm import apply_patch_to_links, propose_patch  # noqa: E402
@@ -46,18 +48,36 @@ from tools.dict_calibration.yaml_markers_llm import cmd_yaml_markers_llm_entry  
 from hesperia.extensions.triz.contradiction_feedback import build_contradiction_feedback_signals  # noqa: E402
 
 
-def _default_engine_paths(repo: Path) -> tuple[list[Path], Path]:
-    base = repo / "assets/data/engine_dynamics_v060"
-    da = base / "dict_a"
-    db = base / "dict_b"
-    dict_b = [
-        db / "dict_b_seed.jsonl",
-        db / "dict_b_tfp_ru_v060.jsonl",
-        db / "dict_b_tfp.jsonl",
-    ]
-    anch = base / "anchors" / "concept_hex_anchors_tfp.json"
-    if not anch.exists():
-        anch = base / "anchors" / "concept_hex_anchors.json"
+def _default_engine_paths(
+    repo: Path,
+    *,
+    domain: str = "core",
+) -> tuple[list[Path], Path]:
+    """Return (dict_b jsonl paths, anchors path).
+
+    Default is **core** (Class A / ``v0_core_syzif_001``). Pass ``domain=\"tfp\"``
+    only for Class B TFP calibration — never the silent default.
+    """
+    domain = normalize_domain(domain)
+    if domain == "tfp":
+        base = repo / "assets/data/engine_dynamics_v060"
+        db = base / "dict_b"
+        dict_b = [
+            db / "dict_b_seed.jsonl",
+            db / "dict_b_tfp_ru_v060.jsonl",
+            db / "dict_b_tfp.jsonl",
+        ]
+        anch = base / "anchors" / "concept_hex_anchors_tfp.json"
+        if not anch.exists():
+            anch = base / "anchors" / "concept_hex_anchors.json"
+        return dict_b, anch
+
+    # core / default (syzif Class A)
+    core_dir = repo / "assets/calibration/dicts/v0_core_syzif_001"
+    primary = core_dir / "dict_b.jsonl"
+    seed = core_dir / "dict_b_seed.jsonl"
+    dict_b = [primary if primary.exists() else seed]
+    anch = repo / "assets/data/engine_dynamics_v060" / "anchors" / "concept_hex_anchors.json"
     return dict_b, anch
 
 
@@ -141,9 +161,11 @@ def cmd_normalize(args: argparse.Namespace) -> None:
 
 def cmd_propose(args: argparse.Namespace) -> None:
     repo = _ROOT
-    db_paths, _ = _default_engine_paths(repo)
+    domain = normalize_domain(str(getattr(args, "domain", "core") or "core"))
+    db_paths, _ = _default_engine_paths(repo, domain=domain)
     if args.dict_b:
         db_paths = [Path(p) for p in args.dict_b]
+    assert_domain_corpus_pairing(domain, None, dict_b_paths=db_paths)
     merged = load_merged_dict_b(db_paths)
     w = Path(args.workdir)
     norm = read_jsonl(w / "dict_a_normalized.jsonl")
@@ -166,16 +188,19 @@ def cmd_propose(args: argparse.Namespace) -> None:
             max_concepts=args.max_concepts,
             batch_size=int(getattr(args, "propose_batch_size", 40) or 40),
             catalog_limit=int(getattr(args, "catalog_limit", 400) or 400),
+            domain=domain,  # type: ignore[arg-type]
         )
     write_jsonl(w / "dict_b_draft.jsonl", drafts)
-    print(f"wrote {len(drafts)} draft concepts")
+    print(f"wrote {len(drafts)} draft concepts (domain={domain})")
 
 
 def cmd_anchor(args: argparse.Namespace) -> None:
     repo = _ROOT
-    db_paths, anch_path = _default_engine_paths(repo)
+    domain = normalize_domain(str(getattr(args, "domain", "core") or "core"))
+    db_paths, anch_path = _default_engine_paths(repo, domain=domain)
     if args.dict_b:
         db_paths = [Path(p) for p in args.dict_b]
+    assert_domain_corpus_pairing(domain, None, dict_b_paths=db_paths)
     merged = load_merged_dict_b(db_paths)
     concept_index = {str(r["concept_id"]): r for r in merged}
     reg = load_anchor_registry(anch_path)
@@ -200,7 +225,6 @@ def cmd_links(args: argparse.Namespace) -> None:
     w = Path(args.workdir)
     norm = read_jsonl(w / "dict_a_normalized.jsonl")
     anch = read_jsonl(w / "dict_b_anchored.jsonl")
-    workers = int(getattr(args, "link_workers", dict_calib_worker_default()) or 1)
     fuzzy_mode = str(getattr(args, "fuzzy_mode", "auto") or "auto").strip().lower()
     if fuzzy_mode not in {"auto", "off", "full", "partial"}:
         raise ValueError("--fuzzy-mode must be one of: auto, off, full, partial")
@@ -210,23 +234,19 @@ def cmd_links(args: argparse.Namespace) -> None:
         fuzzy_flag = True
     else:
         fuzzy_flag = None
+    # NOTE (found CORE-S2-LIVE-02, 2026-09-14): --link-workers/--fuzzy-top-k/
+    # --fuzzy-candidate-cap/--alias-reuse-top-misses/--alias-cutoff/--exact-weight/
+    # --fuzzy-weight/--alias-weight/--min-priority/--max-links-per-token are CLI
+    # flags with no backing implementation -- build_links() only ever accepted
+    # (normalized_rows, anchored_rows, fuzzy). Passing them crashed run-all's
+    # links stage with TypeError on every invocation. Dropped from the call
+    # rather than guessed-implemented in build_links(); those flags are now
+    # silently no-op until someone actually builds the weighting/cap logic they
+    # describe -- real feature debt, not blocking, flagged to Felix/Gena.
     links = build_links(
         norm,
         anch,
-        workers=workers,
         fuzzy=fuzzy_flag,
-        partial_fuzzy_top_misses=int(getattr(args, "partial_fuzzy_top_misses", 0) or 0)
-        if fuzzy_mode == "partial"
-        else 0,
-        fuzzy_top_k=int(getattr(args, "fuzzy_top_k", 3) or 3),
-        fuzzy_candidate_cap=int(getattr(args, "fuzzy_candidate_cap", 2048) or 2048),
-        alias_reuse_top_misses=int(getattr(args, "alias_reuse_top_misses", 0) or 0),
-        alias_cutoff=float(getattr(args, "alias_cutoff", 0.85) or 0.85),
-        exact_weight=float(getattr(args, "exact_weight", 1.0) or 1.0),
-        fuzzy_weight=float(getattr(args, "fuzzy_weight", 0.7) or 0.7),
-        alias_weight=float(getattr(args, "alias_weight", 0.5) or 0.5),
-        min_priority=float(getattr(args, "min_priority", 0.0) or 0.0),
-        max_links_per_token=int(getattr(args, "max_links_per_token", 3) or 3),
     )
     write_jsonl(w / "dict_a_to_b_links.jsonl", links)
     eng = links_to_engine_dict_a(links)
@@ -236,9 +256,15 @@ def cmd_links(args: argparse.Namespace) -> None:
 
 def cmd_eval(args: argparse.Namespace) -> None:
     repo = _ROOT
-    db_paths, anch_path = _default_engine_paths(repo)
+    domain = normalize_domain(str(getattr(args, "domain", "core") or "core"))
+    db_paths, anch_path = _default_engine_paths(repo, domain=domain)
     if args.dict_b:
         db_paths = [Path(p) for p in args.dict_b]
+    assert_domain_corpus_pairing(
+        domain,
+        Path(args.corpus) if args.corpus else None,
+        dict_b_paths=db_paths,
+    )
     w = Path(args.workdir)
     da_eng = w / "dict_a_engine.jsonl"
     texts: list[str] = []
@@ -328,9 +354,10 @@ def cmd_errors(args: argparse.Namespace) -> None:
             max_files=int(getattr(args, "eval_max_files", 5) or 5),
             max_chars=int(getattr(args, "eval_max_chars", 12_000) or 12_000),
         )
-    err = extract_errors(
-        ev, texts, workers=int(getattr(args, "error_workers", dict_calib_worker_default()) or 1)
-    )
+    # NOTE (found CORE-S2-LIVE-02, 2026-09-14): --error-workers has no backing
+    # implementation -- extract_errors() takes no workers kwarg. Same class of
+    # CLI/implementation drift as cmd_links's build_links() call above.
+    err = extract_errors(ev, texts)
     write_jsonl(w / "dict_errors.jsonl", err)
     print(f"errors={len(err)}")
 
@@ -357,7 +384,13 @@ def cmd_patch(args: argparse.Namespace) -> None:
 
 def cmd_loop(args: argparse.Namespace) -> None:
     repo = _ROOT
-    db_paths, anch_path = _default_engine_paths(repo)
+    domain = normalize_domain(str(getattr(args, "domain", "core") or "core"))
+    db_paths, anch_path = _default_engine_paths(repo, domain=domain)
+    assert_domain_corpus_pairing(
+        domain,
+        Path(args.corpus) if args.corpus else None,
+        dict_b_paths=db_paths,
+    )
     w = Path(args.workdir)
     norm = read_jsonl(w / "dict_a_normalized.jsonl")
     anch = read_jsonl(w / "dict_b_anchored.jsonl")
@@ -512,6 +545,7 @@ def cmd_wave(args: argparse.Namespace) -> None:
         workdir=workdir,
         min_freq=args.min_freq,
         batch_size=args.batch_size,
+        domain=str(getattr(args, "domain", "core") or "core"),
         max_concepts=args.max_concepts,
         propose_limit=args.propose_limit,
         min_score=args.min_score,
@@ -598,6 +632,7 @@ def cmd_waves(args: argparse.Namespace) -> None:
             workdir=workdir,
             min_freq=args.min_freq,
             batch_size=args.batch_size,
+            domain=str(getattr(args, "domain", "core") or "core"),
             max_concepts=args.max_concepts,
             propose_limit=args.propose_limit,
             min_score=args.min_score,
@@ -622,6 +657,8 @@ def cmd_waves(args: argparse.Namespace) -> None:
 
 
 def cmd_run_all(args: argparse.Namespace) -> None:
+    domain = normalize_domain(str(getattr(args, "domain", "core") or "core"))
+    assert_domain_corpus_pairing(domain, Path(args.corpus))
     if getattr(args, "budget", False):
         from tools.dict_calibration.budget import apply_run_all_budget
 
@@ -645,6 +682,7 @@ def cmd_run_all(args: argparse.Namespace) -> None:
     ns3 = argparse.Namespace(
         workdir=args.workdir,
         dict_b=None,
+        domain=str(getattr(args, "domain", "core") or "core"),
         max_concepts=args.max_concepts,
         limit=args.propose_limit,
         dry_run=args.skip_llm,
@@ -655,6 +693,7 @@ def cmd_run_all(args: argparse.Namespace) -> None:
     ns4 = argparse.Namespace(
         workdir=args.workdir,
         dict_b=None,
+        domain=str(getattr(args, "domain", "core") or "core"),
         min_score=args.min_score,
         anchor_workers=getattr(args, "anchor_workers", dict_calib_worker_default()),
     )
@@ -670,6 +709,7 @@ def cmd_run_all(args: argparse.Namespace) -> None:
         corpus=args.corpus,
         texts_file=None,
         dict_b=None,
+        domain=str(getattr(args, "domain", "core") or "core"),
         eval_max_files=getattr(args, "eval_max_files", 5),
         eval_max_chars=getattr(args, "eval_max_chars", 12_000),
         eval_workers=getattr(args, "eval_workers", dict_calib_worker_default()),
@@ -726,6 +766,12 @@ def main() -> None:
 
     p_pr = sub.add_parser("propose", help="Task 3: LLM → dict_b draft")
     p_pr.add_argument("--workdir", default="outputs/dict_calibration/run1")
+    p_pr.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Propose prompt + catalog domain (default: core / Class A). Use tfp only for Class B TFP.",
+    )
     p_pr.add_argument("--dict-b", nargs="*", help="Override dict_b jsonl paths")
     p_pr.add_argument("--max-concepts", type=int, default=80)
     p_pr.add_argument("--limit", type=int, default=0, help="Cap normalized rows (0=all)")
@@ -736,6 +782,12 @@ def main() -> None:
 
     p_an = sub.add_parser("anchor", help="Task 4: bind to Hesperia concepts")
     p_an.add_argument("--workdir", default="outputs/dict_calibration/run1")
+    p_an.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Catalog/anchors domain (default: core). Must match propose domain.",
+    )
     p_an.add_argument("--dict-b", nargs="*", help="Override dict_b jsonl paths")
     p_an.add_argument("--min-score", type=float, default=0.52)
     p_an.add_argument(
@@ -791,6 +843,12 @@ def main() -> None:
     p_ev.add_argument("--workdir", default="outputs/dict_calibration/run1")
     p_ev.add_argument("--corpus", help="Sample md files for eval texts")
     p_ev.add_argument("--texts-file", help="Texts split by \\n---\\n")
+    p_ev.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Catalog domain (default: core).",
+    )
     p_ev.add_argument("--dict-b", nargs="*", help="Override dict_b jsonl paths")
     p_ev.add_argument(
         "--eval-max-files",
@@ -849,6 +907,12 @@ def main() -> None:
     p_lp = sub.add_parser("loop", help="Task 9: iteration")
     p_lp.add_argument("--workdir", default="outputs/dict_calibration/run1")
     p_lp.add_argument("--corpus", required=True)
+    p_lp.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Catalog domain (default: core).",
+    )
     p_lp.add_argument("--max-iters", type=int, default=3)
     p_lp.add_argument("--unmapped-max-pct", type=float, default=25.0)
     p_lp.add_argument(
@@ -882,6 +946,12 @@ def main() -> None:
         help="Disable budget caps (higher API cost)",
     )
     p_wave.add_argument("--skip-llm", action="store_true")
+    p_wave.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Propose/catalog domain (default: core / Class A).",
+    )
     p_wave.add_argument("--min-freq", type=int, default=2)
     p_wave.add_argument("--batch-size", type=int, default=24)
     p_wave.add_argument("--max-concepts", type=int, default=80)
@@ -916,6 +986,12 @@ def main() -> None:
         help="Disable budget caps (much higher API cost × count)",
     )
     p_waves.add_argument("--skip-llm", action="store_true")
+    p_waves.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Propose/catalog domain (default: core / Class A).",
+    )
     p_waves.add_argument("--min-freq", type=int, default=2)
     p_waves.add_argument("--batch-size", type=int, default=24)
     p_waves.add_argument("--max-concepts", type=int, default=80)
@@ -1051,6 +1127,12 @@ def main() -> None:
     p_all = sub.add_parser("run-all", help="Tasks 1–8 in sequence")
     p_all.add_argument("--corpus", required=True)
     p_all.add_argument("--workdir", default="outputs/dict_calibration/run1")
+    p_all.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Propose/catalog domain (default: core / Class A).",
+    )
     p_all.add_argument("--min-freq", type=int, default=2)
     p_all.add_argument("--batch-size", type=int, default=24)
     p_all.add_argument("--max-concepts", type=int, default=80)

@@ -7,6 +7,7 @@ import json as _json
 from pathlib import Path
 from typing import Any, Literal
 
+from .env_defaults import normalize_domain
 from .openai_json import chat_json
 
 Domain = Literal["tfp", "core"]
@@ -30,7 +31,7 @@ Return JSON: {{"concepts": [
 Each from_lexical entry must be copied from the input phrase list. Merge synonyms under one concept.
 Cap total concepts at {max_concepts}."""
 
-# --- core/default (syzif book prose) — Phase A rewrite; live calls deferred to Phase B ---
+# --- core/default (syzif book prose) — Class A; DEFAULT for all propose callers ---
 SYSTEM_CORE = """You map lexical phrases from published book prose (English primary; other languages when present)
 to the core/default controlled concept vocabulary (AREA_FAMILY_MAP families).
 Prefer reusing existing concept_id values exactly when meaning matches (ids look like core.<area>.<family-slug>).
@@ -51,9 +52,9 @@ Return JSON: {{"concepts": [
 Each from_lexical entry must be copied from the input phrase list. Merge synonyms under one concept.
 Cap total concepts at {max_concepts}."""
 
-# Back-compat aliases (TFP default until callers pass domain=)
-SYSTEM = SYSTEM_TFP
-USER_TEMPLATE = USER_TEMPLATE_TFP
+# Default aliases = CORE (Class A). Pass domain="tfp" only for Class B TFP runs.
+SYSTEM = SYSTEM_CORE
+USER_TEMPLATE = USER_TEMPLATE_CORE
 
 
 def _sanitize_phrase_for_json(value: str) -> str:
@@ -73,7 +74,8 @@ def _is_non_json_or_truncated_reply(exc: Exception) -> bool:
 
 
 def _templates_for(domain: Domain) -> tuple[str, str]:
-    if domain == "core":
+    normalized = normalize_domain(domain)
+    if normalized == "core":
         return SYSTEM_CORE, USER_TEMPLATE_CORE
     return SYSTEM_TFP, USER_TEMPLATE_TFP
 
@@ -90,7 +92,7 @@ def _catalog_rows(
     limit: int = 400,
     area_name: str | None = None,
     family_name: str | None = None,
-    domain: Domain = "tfp",
+    domain: Domain = "core",
 ) -> str:
     """
     Format catalog lines for the prompt.
@@ -132,7 +134,7 @@ def call_propose_chunk(
     catalog: str,
     *,
     max_concepts: int,
-    domain: Domain = "tfp",
+    domain: Domain = "core",
 ) -> list[dict[str, Any]]:
     """One OpenAI call for ``chunk`` phrases; returns raw ``concepts`` list (may be empty)."""
     system, user_tmpl = _templates_for(domain)
@@ -227,7 +229,7 @@ def propose_concepts(
     max_concepts: int = 80,
     batch_size: int = 40,
     catalog_limit: int = 400,
-    domain: Domain = "tfp",
+    domain: Domain = "core",
     area_name: str | None = None,
     family_name: str | None = None,
     raw_checkpoint_path: Path | str | None = None,

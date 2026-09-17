@@ -10,6 +10,7 @@
 #   - tools/validate_shipping_surface.py    (runtime/shipping import allowlist)
 #   - tools/audit_shipping_allowlist.py       (allowlist prefixes used + creep cap)
 #   - tools/check_engine_projection_boundary.py (no core.projection outside engine/projection/)
+#   - tools/check_core_default_tfp_boundary.py (DEFAULT/core/syzif ≠ TFP catalog/prompt)
 #
 # Prod release repo is igareosh/hesperia itself (was Atomic-Commits-Team, abandoned 2026-07-26):
 # no docs/ tree — import-graph drift and dead-weight budget run on this repo only
@@ -90,6 +91,20 @@ jobs:
 
       - name: Core/module boundary (frozen kernel)
         run: python3 tools/check_core_module_boundary.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Core-default vs TFP calibration boundary (no silent TFP in DEFAULT)
+        run: |
+          python3 tools/check_core_default_tfp_boundary.py
+          python3 -m pytest tests/dict_calibration/test_domain_seal.py -q --tb=short
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: CORE-D2 core calibration-pack gate (independent contract)
+        run: |
+          python3 tools/core_calibration_pack_gate.py --help
+          python3 -m pytest tests/dict_calibration/test_core_pack_gate.py -q --tb=short
         env:
           PYTHONPATH: ${{ github.workspace }}
 

@@ -75,12 +75,27 @@ tfp_module_v1:
   # after every cutover (four total). Full 11-session regression run before each cutover: 11/11
   # pass every time, zero regressions across all four changes.
   #
-  # Still open, deliberately not touched: 8 more duplicate-label concept groups (23 concepts,
-  # e.g. Изменения/Управление area variants, splitting/devaluation/idealization split across the
-  # TFP_*/C-NNNN naming schemes) -- unlike TFP_CLUSTER_005 these carry live-matched content, so
-  # collapsing needs individual review per group, not a blanket pass. See
-  # docs/recipes/chiron_tweaks/BACKLOG.md Phase 4e for the full list. Nothing broken, just
-  # redundant in these spots -- a real candidate for a future pass, not urgent.
+  # 2026-08-20: the 8-group duplicate-label item above reviewed (Chiron). 5 groups were
+  # coincidental label collisions between unrelated catalog regions (C-10xx "core" scheme vs
+  # TFP_*; the B_A10_F*_002 "first-word-of-parent" truncation convention) -- renamed 8 concepts
+  # to disambiguate (C-1003/1008/1009 append concept_id, B_A10_F15/16/17/6/7_002 append
+  # family_id), no semantic change. 2 groups (identity_diffusion, splitting_cluster) had real
+  # distinct content on both members -- left alone. dict_b.jsonl also deduped in the same pass:
+  # 61765 rows -> 203 (one row per concept_id; _merge_dict_b already collapsed to first-row-wins
+  # at load time, so this was inert file bloat, not a behavior change). One collapse
+  # (TFP_CLUSTER_007/009/012/013 into 006/004) was attempted, then reverted same session after
+  # live verification (router-inquire face=tfp) surfaced a richer legacy registry
+  # (assets/data/engine_dynamics_v060/dict_b/dict_b_tfp.jsonl) showing these concepts have real
+  # alt_labels/related_concept_ids (parent TFP_DENIAL/TFP_DEVALUATION) that never got promoted
+  # into the live dict_a.jsonl matcher -- not noise. Full pytest suite (~470 tests) run before
+  # and after: identical 21 pre-existing failures both times (baseline drifted 15->21 since
+  # 2026-08-19, unrelated to this change), including test_dlcr_pipeline_v1_gold_digests passing
+  # unchanged. Live :18880/:18881 restarted and reverified via a real router-inquire call after
+  # the fix and again after the revert. Real next candidate, not yet built: promote the legacy
+  # registry's alt_labels for TFP_CLUSTER_004/005/006/007/009/012/013 into dict_a.jsonl, and add
+  # the missing TFP_DENIAL root concept to the sealed pack. Full detail:
+  # docs/recipes/chiron_tweaks/BACKLOG.md, dated section "2026-08-20 -- duplicate-label concept
+  # group review".
 
 # Filled at runtime by hesperia.system.version (never commit secrets here)
 build:

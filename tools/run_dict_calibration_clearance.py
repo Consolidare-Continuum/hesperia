@@ -5,17 +5,26 @@ Resumable dict calibration clearance (corpus → extract → normalize → propo
 
 Uses checkpoints under WORKDIR/.clearance/ so normalize/propose can stop and resume (OpenAI batches).
 
-Examples:
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py status --workdir outputs/dict_calibration/clr1
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py extract --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru --workdir outputs/dict_calibration/clr1
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py normalize --workdir outputs/dict_calibration/clr1
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py propose --workdir outputs/dict_calibration/clr1
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py post --workdir outputs/dict_calibration/clr1 --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru
-  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py run --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru --workdir outputs/dict_calibration/clr1
+Domain (mandatory awareness):
+  --domain core  (DEFAULT) — Class A / modules/default / syzif book prose / v0_core_syzif_001
+  --domain tfp             — Class B TFP only; never the silent default
+
+Examples (core / syzif — preferred):
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py status --workdir outputs/dict_calibration/clr_core
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py extract \\
+    --corpus hesperia/modules/default/corpus/syzif --workdir outputs/dict_calibration/clr_core
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py propose --workdir outputs/dict_calibration/clr_core --domain core
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py post \\
+    --workdir outputs/dict_calibration/clr_core --corpus hesperia/modules/default/corpus/syzif --domain core
+
+Examples (TFP — Class B opt-in only):
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py propose --workdir outputs/dict_calibration/clr_tfp --domain tfp
+  PYTHONPATH=. python3 tools/run_dict_calibration_clearance.py run \\
+    --corpus hesperia/modules/tfp/data/tfp_v1/corpus/original/ru --workdir outputs/dict_calibration/clr_tfp --domain tfp
 
 Dry / partial:
   python3 ... normalize --workdir /tmp/x --max-rows 72 --dry-run
-  python3 ... propose --workdir /tmp/x --max-phrases 80 --dry-run
+  python3 ... propose --workdir /tmp/x --max-phrases 80 --dry-run --domain core
 
 Reset checkpoints:
   python3 ... reset-normalize --workdir DIR
@@ -85,6 +94,13 @@ def main() -> int:
 
     p_pr = sub.add_parser("propose", help="Phase B2: resumable LLM propose → dict_b_draft.jsonl")
     add_norm_propose(p_pr)
+    p_pr.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Prompt + catalog domain (default: core / Class A). Use tfp only for Class B TFP.",
+    )
+    p_pr.add_argument("--dict-b", nargs="*", default=None, help="Override dict_b jsonl paths")
     p_pr.add_argument("--batch-size", type=int, default=40)
     p_pr.add_argument("--max-concepts", type=int, default=80)
     p_pr.add_argument("--catalog-limit", type=int, default=400)
@@ -93,6 +109,13 @@ def main() -> int:
     p_po = sub.add_parser("post", help="Phase C+D: anchor, links, eval, errors (local)")
     p_po.add_argument("--workdir", type=Path, required=True)
     p_po.add_argument("--corpus", type=Path, required=True)
+    p_po.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Catalog/anchors domain (default: core). Must match propose.",
+    )
+    p_po.add_argument("--dict-b", nargs="*", default=None, help="Override dict_b jsonl paths")
     p_po.add_argument("--min-score", type=float, default=0.52)
     p_po.add_argument(
         "--anchor-workers",
@@ -134,6 +157,13 @@ def main() -> int:
     p_run = sub.add_parser("run", help="extract (if needed) + normalize + propose + post")
     p_run.add_argument("--corpus", type=Path, required=True)
     p_run.add_argument("--workdir", type=Path, required=True)
+    p_run.add_argument(
+        "--domain",
+        choices=["core", "tfp"],
+        default="core",
+        help="Propose/post domain (default: core / Class A).",
+    )
+    p_run.add_argument("--dict-b", nargs="*", default=None, help="Override dict_b jsonl paths")
     p_run.add_argument("--min-freq", type=int, default=2)
     p_run.add_argument("--dry-run", action="store_true")
     p_run.add_argument("--log-every", type=int, default=25)
@@ -176,10 +206,43 @@ def main() -> int:
 
         assert_corpus_not_legacy_research(args.corpus)
 
+    # Pair domain ↔ corpus ↔ catalog before any propose/post/run that sets domain.
+    if fn in {"propose", "post", "run"} and hasattr(args, "domain"):
+        from tools.dict_calibration.env_defaults import assert_domain_corpus_pairing
+
+        corpus_for_pair = getattr(args, "corpus", None)
+        if corpus_for_pair is None and fn == "propose":
+            # Infer from extract_meta when propose-only resume.
+            meta = Path(args.workdir) / ".clearance" / "extract_meta.json"
+            if meta.is_file():
+                try:
+                    corpus_for_pair = json.loads(meta.read_text(encoding="utf-8")).get("corpus")
+                except Exception:
+                    corpus_for_pair = None
+        db_override = None
+        raw_db = getattr(args, "dict_b", None)
+        if raw_db:
+            db_override = [Path(p) for p in raw_db]
+        else:
+            from tools.dict_calibration.run_pipeline import _default_engine_paths
+
+            db_override, _ = _default_engine_paths(_ROOT, domain=args.domain)
+        assert_domain_corpus_pairing(
+            args.domain,
+            corpus_for_pair,
+            dict_b_paths=db_override,
+        )
+
     from tools.dict_calibration import clearance_resume as cr
 
     def log_fn(msg: str) -> None:
         print(msg, file=sys.stderr)
+
+    def _dict_b_paths():
+        raw = getattr(args, "dict_b", None)
+        if not raw:
+            return None
+        return [Path(p) for p in raw]
 
     if fn == "extract":
         info = cr.run_extract(corpus=args.corpus, workdir=args.workdir, min_freq=args.min_freq)
@@ -200,7 +263,7 @@ def main() -> int:
     if fn == "propose":
         cr.run_propose_resume(
             args.workdir,
-            dict_b_paths=None,
+            dict_b_paths=_dict_b_paths(),
             max_concepts=args.max_concepts,
             batch_size=args.batch_size,
             catalog_limit=args.catalog_limit,
@@ -208,25 +271,27 @@ def main() -> int:
             max_phrases=args.max_phrases,
             log_every=args.log_every,
             log=log_fn,
+            domain=args.domain,
         )
         return 0
 
     if fn == "post":
+        # NOTE (found CORE-S2-LIVE-03, 2026-09-14): run_post() (clearance_resume.py)
+        # only ever accepted (workdir, corpus, min_score, dict_b_paths,
+        # eval_max_files, eval_max_chars, anchor_workers) -- link_workers/
+        # eval_workers/error_workers/link_fuzzy_mode/partial_fuzzy_top_misses/
+        # fuzzy_top_k/fuzzy_candidate_cap were never implemented there, same
+        # CLI/implementation drift as run_pipeline.py's cmd_links/cmd_errors
+        # (see NOTE there). Dropped rather than guessed-implemented.
         cr.run_post(
             args.workdir,
             corpus=args.corpus,
             min_score=args.min_score,
-            dict_b_paths=None,
+            dict_b_paths=_dict_b_paths(),
             eval_max_files=args.eval_max_files,
             eval_max_chars=args.eval_max_chars,
             anchor_workers=getattr(args, "anchor_workers", dict_calib_worker_default()),
-            link_workers=getattr(args, "link_workers", dict_calib_worker_default()),
-            eval_workers=getattr(args, "eval_workers", dict_calib_worker_default()),
-            error_workers=getattr(args, "error_workers", dict_calib_worker_default()),
-            link_fuzzy_mode=getattr(args, "link_fuzzy_mode", "auto"),
-            partial_fuzzy_top_misses=getattr(args, "partial_fuzzy_top_misses", 0),
-            fuzzy_top_k=getattr(args, "fuzzy_top_k", 3),
-            fuzzy_candidate_cap=getattr(args, "fuzzy_candidate_cap", 2048),
+            domain=args.domain,
         )
         print("OK post (anchor, links, eval, errors)", file=sys.stderr)
         return 0
@@ -247,7 +312,7 @@ def main() -> int:
         )
         cr.run_propose_resume(
             wd,
-            dict_b_paths=None,
+            dict_b_paths=_dict_b_paths(),
             max_concepts=args.max_concepts,
             batch_size=args.propose_batch_size,
             catalog_limit=args.catalog_limit,
@@ -255,22 +320,19 @@ def main() -> int:
             max_phrases=args.max_phrases,
             log_every=args.log_every,
             log=log_fn,
+            domain=args.domain,
         )
+        # NOTE: see the "post" branch above -- run_post() never accepted the
+        # extra link/eval/error-worker or fuzzy kwargs; dropped here too.
         cr.run_post(
             wd,
             corpus=args.corpus,
             min_score=0.52,
-            dict_b_paths=None,
+            dict_b_paths=_dict_b_paths(),
             eval_max_files=args.eval_max_files,
             eval_max_chars=args.eval_max_chars,
             anchor_workers=getattr(args, "anchor_workers", dict_calib_worker_default()),
-            link_workers=getattr(args, "link_workers", dict_calib_worker_default()),
-            eval_workers=getattr(args, "eval_workers", dict_calib_worker_default()),
-            error_workers=getattr(args, "error_workers", dict_calib_worker_default()),
-            link_fuzzy_mode=getattr(args, "link_fuzzy_mode", "auto"),
-            partial_fuzzy_top_misses=getattr(args, "partial_fuzzy_top_misses", 0),
-            fuzzy_top_k=getattr(args, "fuzzy_top_k", 3),
-            fuzzy_candidate_cap=getattr(args, "fuzzy_candidate_cap", 2048),
+            domain=args.domain,
         )
         print("OK run complete", file=sys.stderr)
         st = cr.clearance_status(wd)
